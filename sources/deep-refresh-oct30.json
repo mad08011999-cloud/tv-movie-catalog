@@ -26,10 +26,14 @@
     {
      "label": "VNDB",
      "url": "https://vndb.org/v22293"
+    },
+    {
+     "label": "VNDB characters",
+     "url": "https://vndb.org/v22293/chars"
     }
    ],
    "evidence": "VNDB entry",
-   "confidence_flag": "Single source · flag"
+   "confidence_flag": "Medium · 2 sources"
   },
   {
    "pregnant_end": "no",
@@ -362,6 +366,389 @@
    "tags": [
     "loose fit"
    ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (18+ VN; non-explicit note)",
+   "title": "Succubus to Hajimeru Koukando Kaihen (サキュバスと始める好感度改変)",
+   "year": "2026",
+   "format": "visual novel",
+   "meta": "Adult visual novel (DLsite d_824554)",
+   "summary": "Loose fit: the hero gets a hypnosis app that rewrites the heroines' affection; one heroine is a married woman. The page says all characters are adults.",
+   "method": "Hypnosis app",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "animesharering",
+     "url": "https://animesharering.jp/game/d_824554/"
+    }
+   ],
+   "evidence": "Game listing",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "adult daughters",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Liberation",
+   "year": "2026",
+   "format": "film",
+   "meta": "Dir. Guy Nattiv · Carrie Coon",
+   "character": "Rita",
+   "summary": "Rita falls under the spell of charismatic leader Ricki and leaves her family; her adult daughters are drawn in as they try to get her back.",
+   "hypnotist": "Ricki (cult leader)",
+   "method": "Charismatic cult influence",
+   "categories": [
+    "cult",
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Liberation_(film)"
+    },
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/the-liberation-2026/"
+    },
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/m/the_liberation"
+    }
+   ],
+   "evidence": "Encyclopedia plot plus listings",
+   "confidence_flag": "High · 3+ sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "teen son (not the controlled person)",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "To Catch a Stepfather",
+   "year": "2026",
+   "format": "tv movie",
+   "meta": "Lifetime · premiered 2 Oct 2026",
+   "character": "Allison",
+   "summary": "Loose fit: divorced mother Allison's new partner Roger becomes controlling; her teenage son Eric investigates him. The control is aimed at the adult mother.",
+   "hypnotist": "Roger",
+   "method": "Manipulation / coercive control",
+   "categories": [
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "Lifetime",
+     "url": "https://www.mylifetime.com/movies/to-catch-a-stepfather"
+    },
+    {
+     "label": "Hotchka",
+     "url": "https://hotchka.com/to-catch-a-stepfather/"
+    }
+   ],
+   "evidence": "Network page and recap",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Silent Control",
+   "year": "2025",
+   "format": "short film",
+   "meta": "6-min short · dir. Indra Warikoo",
+   "character": "Lily (Hope Baker)",
+   "summary": "A woman with anxiety turns to ASMR and falls under its hypnotic grip, committing a crime she can't remember.",
+   "method": "ASMR hypnosis",
+   "categories": [
+    "crime",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt36831983/"
+    }
+   ],
+   "evidence": "IMDb synopsis",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Unchosen",
+   "year": "2026",
+   "format": "tv series",
+   "meta": "Netflix · 6 episodes",
+   "character": "Rosie",
+   "summary": "Rosie, a wife and mother in a restrictive religious sect, starts questioning the life she was indoctrinated into.",
+   "method": "Sect indoctrination / control",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Collider",
+     "url": "https://collider.com/netflix-psychological-thriller-unchosen-binge/"
+    },
+    {
+     "label": "The Hindu",
+     "url": "https://www.thehindu.com/entertainment/movies/unchosen-series-review-asa-butterfield-is-trapped-in-the-sluggish-cult-thriller/article70921800.ece"
+    },
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/tv/unchosen/s01"
+    }
+   ],
+   "evidence": "Three reviews/listings",
+   "confidence_flag": "High · 3+ sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Fever Cage",
+   "year": "2026",
+   "format": "tv mini series",
+   "meta": "Psychological thriller",
+   "character": "Erin White",
+   "summary": "Loose fit: Dr. Victor Lorenz manipulates Erin through obsessive therapy.",
+   "hypnotist": "Dr. Victor K. Lorenz",
+   "method": "Therapeutic manipulation",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt40603387/"
+    }
+   ],
+   "evidence": "IMDb listing",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "yes",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Pregnant with the Devil's Child",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "KukuTV vertical drama",
+   "summary": "A woman carries a child fathered by a devil.",
+   "method": "Supernatural",
+   "categories": [
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "KukuTV",
+     "url": "https://kukutv.app/show/pregnant-with-the-devils-child"
+    }
+   ],
+   "evidence": "Show page",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Heart That Lost Its Way",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "ReelShort",
+   "summary": "Loose fit: a husband sends his wife to a 'Perfect Wife Training Program' that coerces her psychologically; she later turns it on him.",
+   "hypnotist": "Husband / training program",
+   "method": "Psychological coercion",
+   "categories": [
+    "wife",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "ReelShort ep 3",
+     "url": "https://www.reelshort.com/episodes/episode-3-the-heart-that-lost-its-way-6993efc72bdad52b8f0927b0-mihbmeu5zy"
+    }
+   ],
+   "evidence": "Episode pages",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Forced Vow: Prey of the Vampire King",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "DramaBox · released 5 Oct 2026",
+   "character": "Rachel",
+   "summary": "Loose fit: nurse Rachel is taken by vampire king Lucian and compelled to become his queen.",
+   "hypnotist": "Lucian",
+   "method": "Vampire compulsion",
+   "categories": [
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "BunnyDrama",
+     "url": "https://bunnydrama.com/en/drama/forced-vow-prey-of-the-vampire-king-372237/"
+    },
+    {
+     "label": "DramaCatalog",
+     "url": "https://dramacatalog.com/series/forced-vow-prey-of-the-vampire-king/"
+    }
+   ],
+   "evidence": "Two listings",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "A Widow Seduced",
+   "year": "2024",
+   "format": "tv movie",
+   "meta": "Lifetime",
+   "character": "Kellie",
+   "summary": "Widow Kellie meets businessman Dan online, and he gradually takes control of her finances and life.",
+   "hypnotist": "Dan",
+   "method": "Manipulation",
+   "categories": [
+    "widow-divorcee",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "Lifetime",
+     "url": "https://www.mylifetime.com/movies/a-widow-seduced"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt21367806/"
+    },
+    {
+     "label": "Cinemaholic",
+     "url": "https://thecinemaholic.com/lifetimes-a-widow-seduced-based-true-story/"
+    }
+   ],
+   "evidence": "Three sources",
+   "confidence_flag": "High · 3+ sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "In the Lost Lands",
+   "year": "2025",
+   "format": "film",
+   "meta": "Dir. Paul W. S. Anderson · Milla Jovovich",
+   "character": "Gray Alys",
+   "summary": "Loose fit: the sorceress Gray Alys uses eye-contact magic to compel people, and a queen hires her for a quest.",
+   "hypnotist": "Gray Alys (sorceress)",
+   "method": "Compulsion magic",
+   "categories": [
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Plugged In",
+     "url": "https://www.pluggedin.com/movie-reviews/in-the-lost-lands-2025/"
+    },
+    {
+     "label": "Culture Crypt",
+     "url": "https://culturecrypt.com/movie-reviews/in-the-lost-lands-2025"
+    }
+   ],
+   "evidence": "Two reviews",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "title": "Got Pregnant by Billionaire Brothers",
+   "year": "2024",
+   "match_title": "Got Pregnant by Billionaire Brothers",
+   "match_year": "2024",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "episodes": "Ep 56 'Hypnotized Love' – ep 57: Audrey, while pregnant, is under a hypnotic spell; the brothers try to free her.",
+   "sources": [
+    {
+     "label": "NetShort ep 56",
+     "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-56"
+    },
+    {
+     "label": "NetShort full episodes p3",
+     "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/3"
+    }
+   ],
+   "evidence": "Episode pages",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "title": "Mind Game / 心迷",
+   "year": "2015",
+   "match_title": "Mind Game / 心迷",
+   "match_year": "2015",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "episodes": "Ep 14: Annie, under hypnosis, attempts a killing and is stopped; Professor Guo's hypnosis manipulation is uncovered.",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mind_Game_(2015_TV_series)"
+    },
+    {
+     "label": "Prime Video",
+     "url": "https://www.primevideo.com/detail/Mind-Game/0HIT4EE49RKFGKBAP7WCJ15R63"
+    }
+   ],
+   "evidence": "Episode guide",
+   "confidence_flag": "Medium · 2 sources"
   }
  ],
  "dropped": [
@@ -404,6 +791,34 @@
   {
    "title": "They Used Hypnosis to Steal My Fortune; Hi Tsubo no Tonari Tsuma",
    "reason": "Not screen media"
+  },
+  {
+   "title": "催眠アプリで人妻を調教したら娘も巻き込んで… (2026 VN)",
+   "reason": "Daughter's age unstated; flagged"
+  },
+  {
+   "title": "Nikuen Ep 1.1 (2025)",
+   "reason": "Aoi's age unverified (likely student); flagged"
+  },
+  {
+   "title": "Class In Hypnosis (2024)",
+   "reason": "School setting; flagged"
+  },
+  {
+   "title": "Corrupted Busty Married Woman; 夢侵入NTR; 催○彼女",
+   "reason": "Only piracy-site sources"
+  },
+  {
+   "title": "Mi Jing 谜境 (2025)",
+   "reason": "Male is hypnotized"
+  },
+  {
+   "title": "Sister Wives (short)",
+   "reason": "Ages of the young women unclear"
+  },
+  {
+   "title": "Muifei the Medium; The Ghost Marriage (2026)",
+   "reason": "Spirit possession / haunting"
   }
  ]
 }

@@ -8714,10 +8714,38 @@
     {
      "title": "They Used Hypnosis to Steal My Fortune; Hi Tsubo no Tonari Tsuma",
      "reason": "Not screen media"
+    },
+    {
+     "title": "催眠アプリで人妻を調教したら娘も巻き込んで… (2026 VN)",
+     "reason": "Daughter's age unstated; flagged"
+    },
+    {
+     "title": "Nikuen Ep 1.1 (2025)",
+     "reason": "Aoi's age unverified (likely student); flagged"
+    },
+    {
+     "title": "Class In Hypnosis (2024)",
+     "reason": "School setting; flagged"
+    },
+    {
+     "title": "Corrupted Busty Married Woman; 夢侵入NTR; 催○彼女",
+     "reason": "Only piracy-site sources"
+    },
+    {
+     "title": "Mi Jing 谜境 (2025)",
+     "reason": "Male is hypnotized"
+    },
+    {
+     "title": "Sister Wives (short)",
+     "reason": "Ages of the young women unclear"
+    },
+    {
+     "title": "Muifei the Medium; The Ghost Marriage (2026)",
+     "reason": "Spirit possession / haunting"
     }
    ],
    "check": {
-    "raw_count": 12,
+    "raw_count": 25,
     "ok": true
    },
    "status": "local"
@@ -8800,10 +8828,10 @@
   "pregnant-intimate-imdb-oct25": 13,
   "hypno-kids-witness-unverified-oct25": 8,
   "hypnosis-imdb-list-full-oct25": 482,
-  "deep-refresh-oct30": 12
+  "deep-refresh-oct30": 25
  },
- "raw_total": 7107,
- "entry_count": 3572,
+ "raw_total": 7120,
+ "entry_count": 3581,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -8821,7 +8849,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 316
+   "entry_count": 317
   },
   {
    "key": "belly",
@@ -8881,7 +8909,7 @@
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 300
+   "entry_count": 301
   },
   {
    "key": "child-controller",
@@ -8893,7 +8921,7 @@
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 48
+   "entry_count": 51
   },
   {
    "key": "india-control",
@@ -8911,7 +8939,7 @@
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 344
+   "entry_count": 345
   },
   {
    "key": "index-56",
@@ -8941,7 +8969,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 112
+   "entry_count": 113
   },
   {
    "key": "index-54",
@@ -8971,7 +8999,7 @@
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 188
+   "entry_count": 189
   },
   {
    "key": "royal-hypnosis",
@@ -9013,7 +9041,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 227
+   "entry_count": 228
   },
   {
    "key": "mom-partner-control",
@@ -9187,7 +9215,7 @@
    "key": "pregnancy-evil",
    "label": "Pregnant women controlled / possessed by evil forces",
    "legend_label": "Pregnant women controlled / possessed by evil forces",
-   "entry_count": 66
+   "entry_count": 67
   },
   {
    "key": "regional-pregnancy",
@@ -9307,7 +9335,7 @@
    "key": "vampire",
    "label": "Vampire mesmerism",
    "legend_label": "Vampire mesmerism",
-   "entry_count": 270
+   "entry_count": 271
   },
   {
    "key": "villain",
@@ -9325,7 +9353,7 @@
    "key": "widow-divorcee",
    "label": "Widowed / divorced woman hypnotised or mind-controlled",
    "legend_label": "Widowed / divorced woman hypnotised or mind-controlled",
-   "entry_count": 6
+   "entry_count": 7
   },
   {
    "key": "exwife-control",
@@ -133402,10 +133430,45 @@
    "character": "",
    "provenance": "Southeast Asia regional sweep; no source URL was preserved in the coordinator report.",
    "note": "",
+   "episodes": [
+    "E",
+    "p",
+    " ",
+    "1",
+    "4",
+    ":",
+    "A",
+    "n",
+    "i",
+    "e",
+    ",",
+    "u",
+    "d",
+    "r",
+    "h",
+    "y",
+    "o",
+    "s",
+    "a",
+    "t",
+    "m",
+    "k",
+    "l",
+    "g",
+    ";",
+    "P",
+    "f",
+    "G",
+    "'",
+    "c",
+    "v",
+    "."
+   ],
    "kids_status": "not stated",
    "kids_together": "No: Annie and Yongyan break up and he is arrested (Prime Video). Wikipedia says she gives birth to their child, but they do not end up together.",
    "married": "not stated",
    "pregnant_end": "Yes: Annie is still pregnant at the end (Prime Video synopsis)",
+   "evidence": "Episode guide",
    "format": "tv",
    "categories": [
     "adult-hypnosis",
@@ -133420,18 +133483,24 @@
     {
      "label": "Prime Video: Mind Game, Season 1",
      "url": "https://www.primevideo.com/detail/Mind-Game/0HIT4EE49RKFGKBAP7WCJ15R63"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mind_Game_(2015_TV_series)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "streaming-oct15"
+    "streaming-oct15",
+    "deep-refresh-oct30"
    ],
    "source_records": [
     "xla62ucxbx02u5:664",
     "ig6qlxqxoxvcxla:868",
-    "streaming-oct15:15"
+    "streaming-oct15:15",
+    "deep-refresh-oct30:25"
    ],
    "index_only": false,
    "local_only": false,
@@ -133522,6 +133591,38 @@
      "pregnant_end": "Yes: Annie is still pregnant at the end (Prime Video synopsis)",
      "distinct_story": true,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "deep-refresh-oct30:25",
+     "source": "deep-refresh-oct30",
+     "label": "Mind Game / 心迷 (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mind Game / 心迷",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "Medium · 2 sources",
+     "categories": [],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Mind_Game_(2015_TV_series)"
+      },
+      {
+       "label": "Prime Video",
+       "url": "https://www.primevideo.com/detail/Mind-Game/0HIT4EE49RKFGKBAP7WCJ15R63"
+      }
+     ],
+     "episodes": "Ep 14: Annie, under hypnosis, attempts a killing and is stopped; Professor Guo's hypnosis manipulation is uncovered.",
+     "evidence": "Episode guide",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -133560,6 +133661,26 @@
      "group": "Unresolved leads",
      "confidence": "Lead",
      "note": ""
+    },
+    "deep-refresh-oct30:25": {
+     "title": "Mind Game / 心迷",
+     "year": "2015",
+     "match_title": "Mind Game / 心迷",
+     "match_year": "2015",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "episodes": "Ep 14: Annie, under hypnosis, attempts a killing and is stopped; Professor Guo's hypnosis manipulation is uncovered.",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Mind_Game_(2015_TV_series)"
+      },
+      {
+       "label": "Prime Video",
+       "url": "https://www.primevideo.com/detail/Mind-Game/0HIT4EE49RKFGKBAP7WCJ15R63"
+      }
+     ],
+     "evidence": "Episode guide",
+     "confidence_flag": "Medium · 2 sources"
     },
     "streaming-oct15:15": {
      "standalone": true,
@@ -394323,7 +394444,42 @@
      "episode": "Ep 74-75 “Family Bonds / Naming the Baby”",
      "gist": "Brothers embrace the baby as their own; Audrey names her unborn child after Caspian.",
      "number_verified": true
-    }
+    },
+    "E",
+    "p",
+    " ",
+    "5",
+    "6",
+    "'",
+    "H",
+    "y",
+    "n",
+    "o",
+    "t",
+    "i",
+    "z",
+    "e",
+    "d",
+    "L",
+    "v",
+    "–",
+    "7",
+    ":",
+    "A",
+    "u",
+    "r",
+    ",",
+    "w",
+    "h",
+    "l",
+    "g",
+    "a",
+    "s",
+    "c",
+    ";",
+    "b",
+    "f",
+    "."
    ],
    "kids_status": "unknown",
    "kids_note": "Father is not established in the summaries (either brother).",
@@ -394378,11 +394534,13 @@
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "round3"
+    "round3",
+    "deep-refresh-oct30"
    ],
    "source_records": [
     "xla62ucxbx02u5:1994",
-    "round3:16"
+    "round3:16",
+    "deep-refresh-oct30:24"
    ],
    "index_only": false,
    "local_only": false,
@@ -394550,6 +394708,38 @@
      "fit_note": "Pregnant adult woman hypnotized by an obsessive suitor.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "deep-refresh-oct30:24",
+     "source": "deep-refresh-oct30",
+     "label": "Got Pregnant by Billionaire Brothers (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Got Pregnant by Billionaire Brothers",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "Medium · 2 sources",
+     "categories": [],
+     "sources": [
+      {
+       "label": "NetShort ep 56",
+       "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-56"
+      },
+      {
+       "label": "NetShort full episodes p3",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/3"
+      }
+     ],
+     "episodes": "Ep 56 'Hypnotized Love' – ep 57: Audrey, while pregnant, is under a hypnotic spell; the brothers try to free her.",
+     "evidence": "Episode pages",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -394716,6 +394906,26 @@
       1979
      ],
      "research_no": 16
+    },
+    "deep-refresh-oct30:24": {
+     "title": "Got Pregnant by Billionaire Brothers",
+     "year": "2024",
+     "match_title": "Got Pregnant by Billionaire Brothers",
+     "match_year": "2024",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "episodes": "Ep 56 'Hypnotized Love' – ep 57: Audrey, while pregnant, is under a hypnotic spell; the brothers try to free her.",
+     "sources": [
+      {
+       "label": "NetShort ep 56",
+       "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-56"
+      },
+      {
+       "label": "NetShort full episodes p3",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/3"
+      }
+     ],
+     "evidence": "Episode pages",
+     "confidence_flag": "Medium · 2 sources"
     }
    }
   },
@@ -544287,7 +544497,7 @@
    "year": "2018",
    "meta": "Adult visual novel · Interheart Glossy",
    "mechanism": "",
-   "confidence_flag": "Single source · flag",
+   "confidence_flag": "Medium · 2 sources",
    "summary": "A counselor hypnotizes married adult female clients who come to him for counseling.",
    "character": "",
    "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
@@ -544308,6 +544518,10 @@
     {
      "label": "VNDB",
      "url": "https://vndb.org/v22293"
+    },
+    {
+     "label": "VNDB characters",
+     "url": "https://vndb.org/v22293/chars"
     }
    ],
    "youtube_ids": [],
@@ -544344,10 +544558,14 @@
       {
        "label": "VNDB",
        "url": "https://vndb.org/v22293"
+      },
+      {
+       "label": "VNDB characters",
+       "url": "https://vndb.org/v22293/chars"
       }
      ],
      "evidence": "VNDB entry",
-     "confidence_flag": "Single source · flag"
+     "confidence_flag": "Medium · 2 sources"
     }
    }
   },
@@ -545201,6 +545419,715 @@
       }
      ],
      "evidence": "Streaming listings",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3766,
+   "title": "Succubus to Hajimeru Koukando Kaihen (サキュバスと始める好感度改変)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Adult visual novel (DLsite d_824554)",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: the hero gets a hypnosis app that rewrites the heroines' affection; one heroine is a married woman. The page says all characters are adults.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Hypnosis app",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Game listing",
+   "adult": "yes (18+ VN; non-explicit note)",
+   "format": "visual novel",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "animesharering",
+     "url": "https://animesharering.jp/game/d_824554/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:13": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes (18+ VN; non-explicit note)",
+     "title": "Succubus to Hajimeru Koukando Kaihen (サキュバスと始める好感度改変)",
+     "year": "2026",
+     "format": "visual novel",
+     "meta": "Adult visual novel (DLsite d_824554)",
+     "summary": "Loose fit: the hero gets a hypnosis app that rewrites the heroines' affection; one heroine is a married woman. The page says all characters are adults.",
+     "method": "Hypnosis app",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "animesharering",
+       "url": "https://animesharering.jp/game/d_824554/"
+      }
+     ],
+     "evidence": "Game listing",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3767,
+   "title": "To Catch a Stepfather",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Lifetime · premiered 2 Oct 2026",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: divorced mother Allison's new partner Roger becomes controlling; her teenage son Eric investigates him. The control is aimed at the adult mother.",
+   "character": "Allison",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Roger",
+   "method": "Manipulation / coercive control",
+   "kids_status": "teen son (not the controlled person)",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Network page and recap",
+   "adult": "no",
+   "format": "tv movie",
+   "categories": [
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "Lifetime",
+     "url": "https://www.mylifetime.com/movies/to-catch-a-stepfather"
+    },
+    {
+     "label": "Hotchka",
+     "url": "https://hotchka.com/to-catch-a-stepfather/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:15": {
+     "pregnant_end": "no",
+     "kids_status": "teen son (not the controlled person)",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "To Catch a Stepfather",
+     "year": "2026",
+     "format": "tv movie",
+     "meta": "Lifetime · premiered 2 Oct 2026",
+     "character": "Allison",
+     "summary": "Loose fit: divorced mother Allison's new partner Roger becomes controlling; her teenage son Eric investigates him. The control is aimed at the adult mother.",
+     "hypnotist": "Roger",
+     "method": "Manipulation / coercive control",
+     "categories": [
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "Lifetime",
+       "url": "https://www.mylifetime.com/movies/to-catch-a-stepfather"
+      },
+      {
+       "label": "Hotchka",
+       "url": "https://hotchka.com/to-catch-a-stepfather/"
+      }
+     ],
+     "evidence": "Network page and recap",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3768,
+   "title": "Silent Control",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "6-min short · dir. Indra Warikoo",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A woman with anxiety turns to ASMR and falls under its hypnotic grip, committing a crime she can't remember.",
+   "character": "Lily (Hope Baker)",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "method": "ASMR hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "IMDb synopsis",
+   "adult": "no",
+   "format": "short film",
+   "categories": [
+    "crime",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt36831983/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:16": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Silent Control",
+     "year": "2025",
+     "format": "short film",
+     "meta": "6-min short · dir. Indra Warikoo",
+     "character": "Lily (Hope Baker)",
+     "summary": "A woman with anxiety turns to ASMR and falls under its hypnotic grip, committing a crime she can't remember.",
+     "method": "ASMR hypnosis",
+     "categories": [
+      "crime",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt36831983/"
+      }
+     ],
+     "evidence": "IMDb synopsis",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3769,
+   "title": "Fever Cage",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Psychological thriller",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: Dr. Victor Lorenz manipulates Erin through obsessive therapy.",
+   "character": "Erin White",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Dr. Victor K. Lorenz",
+   "method": "Therapeutic manipulation",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "IMDb listing",
+   "adult": "no",
+   "format": "tv mini series",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt40603387/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:18": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Fever Cage",
+     "year": "2026",
+     "format": "tv mini series",
+     "meta": "Psychological thriller",
+     "character": "Erin White",
+     "summary": "Loose fit: Dr. Victor Lorenz manipulates Erin through obsessive therapy.",
+     "hypnotist": "Dr. Victor K. Lorenz",
+     "method": "Therapeutic manipulation",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt40603387/"
+      }
+     ],
+     "evidence": "IMDb listing",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3770,
+   "title": "Pregnant with the Devil's Child",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "KukuTV vertical drama",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A woman carries a child fathered by a devil.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "method": "Supernatural",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Show page",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "KukuTV",
+     "url": "https://kukutv.app/show/pregnant-with-the-devils-child"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:19"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:19": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Pregnant with the Devil's Child",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "KukuTV vertical drama",
+     "summary": "A woman carries a child fathered by a devil.",
+     "method": "Supernatural",
+     "categories": [
+      "pregnancy-evil"
+     ],
+     "sources": [
+      {
+       "label": "KukuTV",
+       "url": "https://kukutv.app/show/pregnant-with-the-devils-child"
+      }
+     ],
+     "evidence": "Show page",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3771,
+   "title": "The Heart That Lost Its Way",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "ReelShort",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: a husband sends his wife to a 'Perfect Wife Training Program' that coerces her psychologically; she later turns it on him.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Husband / training program",
+   "method": "Psychological coercion",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Episode pages",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "wife",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "ReelShort ep 3",
+     "url": "https://www.reelshort.com/episodes/episode-3-the-heart-that-lost-its-way-6993efc72bdad52b8f0927b0-mihbmeu5zy"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:20": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Heart That Lost Its Way",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "ReelShort",
+     "summary": "Loose fit: a husband sends his wife to a 'Perfect Wife Training Program' that coerces her psychologically; she later turns it on him.",
+     "hypnotist": "Husband / training program",
+     "method": "Psychological coercion",
+     "categories": [
+      "wife",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "ReelShort ep 3",
+       "url": "https://www.reelshort.com/episodes/episode-3-the-heart-that-lost-its-way-6993efc72bdad52b8f0927b0-mihbmeu5zy"
+      }
+     ],
+     "evidence": "Episode pages",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3772,
+   "title": "Forced Vow: Prey of the Vampire King",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "DramaBox · released 5 Oct 2026",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: nurse Rachel is taken by vampire king Lucian and compelled to become his queen.",
+   "character": "Rachel",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Lucian",
+   "method": "Vampire compulsion",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Two listings",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "BunnyDrama",
+     "url": "https://bunnydrama.com/en/drama/forced-vow-prey-of-the-vampire-king-372237/"
+    },
+    {
+     "label": "DramaCatalog",
+     "url": "https://dramacatalog.com/series/forced-vow-prey-of-the-vampire-king/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:21": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Forced Vow: Prey of the Vampire King",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "DramaBox · released 5 Oct 2026",
+     "character": "Rachel",
+     "summary": "Loose fit: nurse Rachel is taken by vampire king Lucian and compelled to become his queen.",
+     "hypnotist": "Lucian",
+     "method": "Vampire compulsion",
+     "categories": [
+      "vampire"
+     ],
+     "sources": [
+      {
+       "label": "BunnyDrama",
+       "url": "https://bunnydrama.com/en/drama/forced-vow-prey-of-the-vampire-king-372237/"
+      },
+      {
+       "label": "DramaCatalog",
+       "url": "https://dramacatalog.com/series/forced-vow-prey-of-the-vampire-king/"
+      }
+     ],
+     "evidence": "Two listings",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3773,
+   "title": "A Widow Seduced",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Lifetime",
+   "mechanism": "",
+   "confidence_flag": "High · 3+ sources",
+   "summary": "Widow Kellie meets businessman Dan online, and he gradually takes control of her finances and life.",
+   "character": "Kellie",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Dan",
+   "method": "Manipulation",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Three sources",
+   "adult": "no",
+   "format": "tv movie",
+   "categories": [
+    "widow-divorcee",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "Lifetime",
+     "url": "https://www.mylifetime.com/movies/a-widow-seduced"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt21367806/"
+    },
+    {
+     "label": "Cinemaholic",
+     "url": "https://thecinemaholic.com/lifetimes-a-widow-seduced-based-true-story/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:22": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "A Widow Seduced",
+     "year": "2024",
+     "format": "tv movie",
+     "meta": "Lifetime",
+     "character": "Kellie",
+     "summary": "Widow Kellie meets businessman Dan online, and he gradually takes control of her finances and life.",
+     "hypnotist": "Dan",
+     "method": "Manipulation",
+     "categories": [
+      "widow-divorcee",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "Lifetime",
+       "url": "https://www.mylifetime.com/movies/a-widow-seduced"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt21367806/"
+      },
+      {
+       "label": "Cinemaholic",
+       "url": "https://thecinemaholic.com/lifetimes-a-widow-seduced-based-true-story/"
+      }
+     ],
+     "evidence": "Three sources",
+     "confidence_flag": "High · 3+ sources"
+    }
+   }
+  },
+  {
+   "id": 3774,
+   "title": "In the Lost Lands",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Dir. Paul W. S. Anderson · Milla Jovovich",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: the sorceress Gray Alys uses eye-contact magic to compel people, and a queen hires her for a quest.",
+   "character": "Gray Alys",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Gray Alys (sorceress)",
+   "method": "Compulsion magic",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Two reviews",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Plugged In",
+     "url": "https://www.pluggedin.com/movie-reviews/in-the-lost-lands-2025/"
+    },
+    {
+     "label": "Culture Crypt",
+     "url": "https://culturecrypt.com/movie-reviews/in-the-lost-lands-2025"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:23"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:23": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "In the Lost Lands",
+     "year": "2025",
+     "format": "film",
+     "meta": "Dir. Paul W. S. Anderson · Milla Jovovich",
+     "character": "Gray Alys",
+     "summary": "Loose fit: the sorceress Gray Alys uses eye-contact magic to compel people, and a queen hires her for a quest.",
+     "hypnotist": "Gray Alys (sorceress)",
+     "method": "Compulsion magic",
+     "categories": [
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Plugged In",
+       "url": "https://www.pluggedin.com/movie-reviews/in-the-lost-lands-2025/"
+      },
+      {
+       "label": "Culture Crypt",
+       "url": "https://culturecrypt.com/movie-reviews/in-the-lost-lands-2025"
+      }
+     ],
+     "evidence": "Two reviews",
      "confidence_flag": "Medium · 2 sources",
      "fit": "loose",
      "tags": [
@@ -549510,6 +550437,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3766,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3289,
        "from_source": "deep-refresh-oct18"
       },
@@ -552963,7 +553894,8 @@
     "hypnosis-deep-oct25c",
     "hypno-kids-witness-oct25",
     "hypno-kids-witness-unverified-oct25",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -555250,6 +556182,10 @@
      "notes": [],
      "items": [
       {
+       "id": 3774,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3254,
        "from_source": "deep-refresh-oct18"
       },
@@ -555384,7 +556320,8 @@
     "hypnosis-deep-oct25c": null,
     "hypno-kids-witness-oct25": null,
     "hypno-kids-witness-unverified-oct25": null,
-    "hypnosis-imdb-list-full-oct25": null
+    "hypnosis-imdb-list-full-oct25": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -557878,7 +558815,8 @@
     "round2",
     "round3",
     "wife-hypnosis-oct15",
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -558654,8 +559592,20 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3771,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3272,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3767,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3773,
+       "from_source": "deep-refresh-oct30"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -558672,7 +559622,8 @@
     "round2": null,
     "round3": null,
     "wife-hypnosis-oct15": null,
-    "deep-refresh-oct18": null
+    "deep-refresh-oct18": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -564359,7 +565310,8 @@
     "deep-oct24",
     "hypnosis-deep-oct25",
     "hypnosis-deep-oct25b",
-    "hypnosis-deep-oct25c"
+    "hypnosis-deep-oct25c",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -565629,6 +566581,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3771,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3254,
        "from_source": "deep-refresh-oct18"
       },
@@ -565736,7 +566692,8 @@
     "deep-oct24": null,
     "hypnosis-deep-oct25": null,
     "hypnosis-deep-oct25b": null,
-    "hypnosis-deep-oct25c": null
+    "hypnosis-deep-oct25c": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -566662,7 +567619,8 @@
     "hypno-pregnant-yt-oct25",
     "hypnosis-deep-oct25c",
     "hypno-kids-witness-oct25",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -567379,6 +568337,10 @@
        "from_source": "deep-gap-oct15"
       },
       {
+       "id": 3768,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3109,
        "from_source": "deep-gap-oct15"
       }
@@ -567740,7 +568702,8 @@
     "hypno-pregnant-yt-oct25": null,
     "hypnosis-deep-oct25c": null,
     "hypno-kids-witness-oct25": null,
-    "hypnosis-imdb-list-full-oct25": null
+    "hypnosis-imdb-list-full-oct25": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -574149,6 +575112,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3769,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3113,
        "from_source": "deep-gap-oct15"
       },
@@ -574596,7 +575563,8 @@
     "deep-refresh-oct18",
     "deep-oct24",
     "hypno-kids-witness-oct25",
-    "hypno-kids-witness-unverified-oct25"
+    "hypno-kids-witness-unverified-oct25",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -575543,7 +576511,8 @@
     "deep-refresh-oct18": null,
     "deep-oct24": null,
     "hypno-kids-witness-oct25": null,
-    "hypno-kids-witness-unverified-oct25": null
+    "hypno-kids-witness-unverified-oct25": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -586634,7 +587603,8 @@
     "worldwide-hypnosis",
     "occult-pregnancy-nearmiss",
     "hypnosis-assault-loose",
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -587217,6 +588187,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3770,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3343,
        "from_source": "deep-refresh-oct18"
       },
@@ -587237,7 +588211,8 @@
     "worldwide-hypnosis": null,
     "occult-pregnancy-nearmiss": null,
     "hypnosis-assault-loose": null,
-    "deep-refresh-oct18": null
+    "deep-refresh-oct18": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -596338,7 +597313,8 @@
     "hypnotized-female-oct15",
     "deep-refresh-oct18",
     "deep-oct24",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -599275,6 +600251,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3772,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3338,
        "from_source": "deep-refresh-oct18"
       },
@@ -599336,7 +600316,8 @@
     "hypnotized-female-oct15": null,
     "deep-refresh-oct18": null,
     "deep-oct24": null,
-    "hypnosis-imdb-list-full-oct25": null
+    "hypnosis-imdb-list-full-oct25": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -599682,13 +600663,15 @@
     "widow-divorcee-oct14",
     "widow-divorcee-oct14b",
     "hypnotized-female-oct15",
-    "female-wife-scenes-oct15"
+    "female-wife-scenes-oct15",
+    "deep-refresh-oct30"
    ],
    "declared_count_by_source": {
     "widow-divorcee-oct14": null,
     "widow-divorcee-oct14b": null,
     "hypnotized-female-oct15": null,
-    "female-wife-scenes-oct15": null
+    "female-wife-scenes-oct15": null,
+    "deep-refresh-oct30": null
    },
    "groups": [
     {
@@ -599735,6 +600718,17 @@
       }
      ],
      "from_source": "female-wife-scenes-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3773,
+       "from_source": "deep-refresh-oct30"
+      }
+     ],
+     "from_source": "deep-refresh-oct30"
     }
    ]
   },
@@ -599772,7 +600766,8 @@
     "hypnosis-deep-oct25",
     "hypnosis-deep-oct25b",
     "hypnosis-deep-oct25c",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -601657,6 +602652,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3768,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3109,
        "from_source": "deep-gap-oct15"
       },
@@ -602347,7 +603346,8 @@
     "hypnosis-deep-oct25": null,
     "hypnosis-deep-oct25b": null,
     "hypnosis-deep-oct25c": null,
-    "hypnosis-imdb-list-full-oct25": null
+    "hypnosis-imdb-list-full-oct25": null,
+    "deep-refresh-oct30": null
    }
   },
   {
