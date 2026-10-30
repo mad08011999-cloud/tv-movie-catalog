@@ -397,41 +397,6 @@
   },
   {
    "pregnant_end": "no",
-   "kids_status": "adult daughters",
-   "kids_together": "no",
-   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
-   "adult": "no",
-   "title": "The Liberation",
-   "year": "2026",
-   "format": "film",
-   "meta": "Dir. Guy Nattiv · Carrie Coon",
-   "character": "Rita",
-   "summary": "Rita falls under the spell of charismatic leader Ricki and leaves her family; her adult daughters are drawn in as they try to get her back.",
-   "hypnotist": "Ricki (cult leader)",
-   "method": "Charismatic cult influence",
-   "categories": [
-    "cult",
-    "mother"
-   ],
-   "sources": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/The_Liberation_(film)"
-    },
-    {
-     "label": "Letterboxd",
-     "url": "https://letterboxd.com/film/the-liberation-2026/"
-    },
-    {
-     "label": "Rotten Tomatoes",
-     "url": "https://www.rottentomatoes.com/m/the_liberation"
-    }
-   ],
-   "evidence": "Encyclopedia plot plus listings",
-   "confidence_flag": "High · 3+ sources"
-  },
-  {
-   "pregnant_end": "no",
    "kids_status": "teen son (not the controlled person)",
    "kids_together": "no",
    "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
@@ -489,39 +454,6 @@
    ],
    "evidence": "IMDb synopsis",
    "confidence_flag": "Single source · flag"
-  },
-  {
-   "pregnant_end": "no",
-   "kids_status": "no",
-   "kids_together": "no",
-   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
-   "adult": "no",
-   "title": "Unchosen",
-   "year": "2026",
-   "format": "tv series",
-   "meta": "Netflix · 6 episodes",
-   "character": "Rosie",
-   "summary": "Rosie, a wife and mother in a restrictive religious sect, starts questioning the life she was indoctrinated into.",
-   "method": "Sect indoctrination / control",
-   "categories": [
-    "cult"
-   ],
-   "sources": [
-    {
-     "label": "Collider",
-     "url": "https://collider.com/netflix-psychological-thriller-unchosen-binge/"
-    },
-    {
-     "label": "The Hindu",
-     "url": "https://www.thehindu.com/entertainment/movies/unchosen-series-review-asa-butterfield-is-trapped-in-the-sluggish-cult-thriller/article70921800.ece"
-    },
-    {
-     "label": "Rotten Tomatoes",
-     "url": "https://www.rottentomatoes.com/tv/unchosen/s01"
-    }
-   ],
-   "evidence": "Three reviews/listings",
-   "confidence_flag": "High · 3+ sources"
   },
   {
    "pregnant_end": "no",
@@ -716,7 +648,6 @@
    "match_title": "Got Pregnant by Billionaire Brothers",
    "match_year": "2024",
    "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
-   "episodes": "Ep 56 'Hypnotized Love' – ep 57: Audrey, while pregnant, is under a hypnotic spell; the brothers try to free her.",
    "sources": [
     {
      "label": "NetShort ep 56",
@@ -736,7 +667,13 @@
    "match_title": "Mind Game / 心迷",
    "match_year": "2015",
    "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
-   "episodes": "Ep 14: Annie, under hypnosis, attempts a killing and is stopped; Professor Guo's hypnosis manipulation is uncovered.",
+   "episodes": [
+    {
+     "episode": "Ep 14",
+     "gist": "Annie, under hypnosis, attempts a killing and is stopped; Professor Guo's hypnosis manipulation is uncovered.",
+     "number_verified": true
+    }
+   ],
    "sources": [
     {
      "label": "Wikipedia",
@@ -749,6 +686,325 @@
    ],
    "evidence": "Episode guide",
    "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Mutter: The Diary of a Mother",
+   "year": "2026",
+   "format": "film",
+   "meta": "Tribeca 2026",
+   "summary": "Loose fit: a mother's pregnancy and motherhood take on a sinister turn.",
+   "method": "Sinister pregnancy",
+   "categories": [
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Tribeca",
+     "url": "https://tribecafilm.com/films/mutter-the-diary-of-a-mother-2026"
+    }
+   ],
+   "evidence": "Festival page",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (18+; non-explicit note)",
+   "title": "人妻催眠 (Sinister)",
+   "year": "2025",
+   "format": "visual novel",
+   "meta": "Adult game RJ01378985",
+   "summary": "A neighbor's married wife is hypnotized.",
+   "method": "Hypnosis",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "animesharering",
+     "url": "https://animesharering.jp/game/rj01378985/"
+    }
+   ],
+   "evidence": "Game listing",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The 13th Wife: Escaping Polygamy",
+   "year": "2025",
+   "format": "tv movie",
+   "meta": "Lifetime · Felicity Huffman",
+   "character": "Rena Chynoweth",
+   "summary": "Based on real events: Rena becomes a plural wife inside the LeBaron sect and is drawn into its violence.",
+   "hypnotist": "Ervil LeBaron",
+   "method": "Sect coercion",
+   "categories": [
+    "polygamy",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Decider",
+     "url": "https://decider.com/2025/06/03/the-13th-wife-escaping-polygamy-lifetime-review/"
+    },
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/m/the_13th_wife_escaping_polygamy_part_1"
+    },
+    {
+     "label": "KTUL",
+     "url": "https://ktul.com/news/entertainment/felicity-huffman-plays-a-real-life-assassin-in-the-thirteenth-wife-escaping-polygamy-rena-chynoweth-desperate-housewives"
+    }
+   ],
+   "evidence": "Review plus listings",
+   "confidence_flag": "High · 3+ sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Secret Lives of Sister Wives",
+   "year": "2025",
+   "format": "tv movie",
+   "meta": "Lifetime",
+   "summary": "Loose fit: a woman inside a polygamous household faces controlling pressure.",
+   "method": "Coercive control",
+   "categories": [
+    "polygamy"
+   ],
+   "sources": [
+    {
+     "label": "Hotchka",
+     "url": "https://hotchka.com/secret-lives-of-sister-wives-review"
+    }
+   ],
+   "evidence": "Review",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "yes",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Carrying My Ex's Dad's Heir, I Became His Stepmother",
+   "year": "2026",
+   "format": "vertical microdrama",
+   "meta": "DramaBox",
+   "summary": "Loose fit: the heroine carries her ex's father's heir and becomes her ex's stepmother.",
+   "method": "Contract pregnancy / family manipulation",
+   "categories": [
+    "stepmom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "MicroDramaList",
+     "url": "https://microdramalist.com/drama/carrying-my-exs-dads-heir-i-became-his-stepmother"
+    },
+    {
+     "label": "DramaTrove",
+     "url": "https://dramatrove.com/en/short-drama/carrying-my-exs-dads-heir-i-became-his-stepmother-catalog-29898/"
+    }
+   ],
+   "evidence": "Two catalog pages",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Baby Farm",
+   "year": "2025",
+   "format": "series",
+   "summary": "Loose fit: a pregnant woman is trapped by a fake adoption foundation.",
+   "method": "Captivity / adoption fraud",
+   "categories": [
+    "adopt-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "People",
+     "url": "https://people.com/baby-farm-ending-explained-11759578"
+    }
+   ],
+   "evidence": "Ending explainer",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Puppet",
+   "year": "2025",
+   "format": "film",
+   "meta": "Korean erotic thriller · Dir. Kwon Young-lark",
+   "character": "Hyun-jin",
+   "summary": "A psychiatrist hypnotizes his colleague's fiancée to probe her hallucinations, then abuses the power dynamic with his patient.",
+   "hypnotist": "Ji-hoon (psychiatrist)",
+   "method": "Clinical hypnosis",
+   "categories": [
+    "medical",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Prime Video",
+     "url": "https://www.primevideo.com/detail/0M7V1PE366Q4LZEGXMC0PYO7YX"
+    }
+   ],
+   "evidence": "Streaming synopsis",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Raptures",
+   "year": "2025",
+   "format": "film",
+   "meta": "Finnish/Swedish · Dir. Jon Blåhed",
+   "character": "Rakel",
+   "summary": "In 1930s northern Sweden, Rakel has to join the sect her husband founds.",
+   "hypnotist": "Her husband",
+   "method": "Religious sect control",
+   "categories": [
+    "cult",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "NoctraTV",
+     "url": "https://noctratv.com/title/movie/1141489"
+    }
+   ],
+   "evidence": "Film listing",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Cyberpunk Romance",
+   "year": "2025",
+   "format": "film",
+   "meta": "Hof International Film Festival",
+   "character": "Mona",
+   "summary": "Loose fit: Mona's brain port may let an external force control her mind.",
+   "method": "Brain implant",
+   "categories": [
+    "scifi",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Hofer Filmtage",
+     "url": "https://www.hofer-filmtage.com/"
+    }
+   ],
+   "evidence": "Festival listing",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Dumb Billionaire Heiress in Love: Part II",
+   "year": "2025",
+   "format": "vertical microdrama",
+   "meta": "ReelShort",
+   "summary": "Loose fit: an heiress is drugged and manipulated, and her fortune is stolen.",
+   "method": "Drugging / manipulation",
+   "categories": [
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "ReelShort",
+     "url": "https://www.reelshort.com/"
+    },
+    {
+     "label": "Storizz",
+     "url": "https://storizz.com/"
+    }
+   ],
+   "evidence": "Platform listings",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Insomnia",
+   "year": "2025",
+   "format": "short film",
+   "meta": "Argentina · Dir. Tomás Gonzalez Montalvo · Vimeo",
+   "character": "Natalia",
+   "summary": "Loose fit: an insomniac woman is hypnotized and enters surreal inner worlds.",
+   "method": "Hypnosis",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Vimeo",
+     "url": "https://vimeo.com/1073962748"
+    }
+   ],
+   "evidence": "Trailer page",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
   }
  ],
  "dropped": [
@@ -819,6 +1075,14 @@
   {
    "title": "Muifei the Medium; The Ghost Marriage (2026)",
    "reason": "Spirit possession / haunting"
+  },
+  {
+   "title": "My Hypnotized Family",
+   "reason": "Flagged: childlike depiction despite 18+ claim"
+  },
+  {
+   "title": "Huyết Ngải Ái Tình",
+   "reason": "Male targets / possession"
   }
  ]
 }

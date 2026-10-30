@@ -8742,10 +8742,18 @@ window.CATALOG = {
     {
      "title": "Muifei the Medium; The Ghost Marriage (2026)",
      "reason": "Spirit possession / haunting"
+    },
+    {
+     "title": "My Hypnotized Family",
+     "reason": "Flagged: childlike depiction despite 18+ claim"
+    },
+    {
+     "title": "Huyết Ngải Ái Tình",
+     "reason": "Male targets / possession"
     }
    ],
    "check": {
-    "raw_count": 25,
+    "raw_count": 34,
     "ok": true
    },
    "status": "local"
@@ -8828,16 +8836,16 @@ window.CATALOG = {
   "pregnant-intimate-imdb-oct25": 13,
   "hypno-kids-witness-unverified-oct25": 8,
   "hypnosis-imdb-list-full-oct25": 482,
-  "deep-refresh-oct30": 25
+  "deep-refresh-oct30": 34
  },
- "raw_total": 7120,
- "entry_count": 3581,
+ "raw_total": 7129,
+ "entry_count": 3592,
  "categories": [
   {
    "key": "adopt-pregnancy",
    "label": "Adopt a child, then become pregnant",
    "legend_label": "Adopt a child, then become pregnant",
-   "entry_count": 31
+   "entry_count": 32
   },
   {
    "key": "index-64",
@@ -8849,7 +8857,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 317
+   "entry_count": 320
   },
   {
    "key": "belly",
@@ -8879,7 +8887,7 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 45
+   "entry_count": 47
   },
   {
    "key": "occult",
@@ -8903,7 +8911,7 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 103
+   "entry_count": 104
   },
   {
    "key": "fantasy",
@@ -8969,7 +8977,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 113
+   "entry_count": 114
   },
   {
    "key": "index-54",
@@ -8999,7 +9007,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 189
+   "entry_count": 190
   },
   {
    "key": "royal-hypnosis",
@@ -9041,7 +9049,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 228
+   "entry_count": 229
   },
   {
    "key": "mom-partner-control",
@@ -9107,7 +9115,7 @@ window.CATALOG = {
    "key": "polygamy",
    "label": "polygamy",
    "legend_label": "polygamy",
-   "entry_count": 1
+   "entry_count": 3
   },
   {
    "key": "polygamy-hypnosis",
@@ -9185,7 +9193,7 @@ window.CATALOG = {
    "key": "stepmom-pregnancy",
    "label": "Pregnant stepmother / bonus mom",
    "legend_label": "Pregnant stepmother / bonus mom",
-   "entry_count": 20
+   "entry_count": 21
   },
   {
    "key": "pregnant-child",
@@ -9215,7 +9223,7 @@ window.CATALOG = {
    "key": "pregnancy-evil",
    "label": "Pregnant women controlled / possessed by evil forces",
    "legend_label": "Pregnant women controlled / possessed by evil forces",
-   "entry_count": 67
+   "entry_count": 68
   },
   {
    "key": "regional-pregnancy",
@@ -9281,7 +9289,7 @@ window.CATALOG = {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 400
+   "entry_count": 401
   },
   {
    "key": "family",
@@ -133431,38 +133439,11 @@ window.CATALOG = {
    "provenance": "Southeast Asia regional sweep; no source URL was preserved in the coordinator report.",
    "note": "",
    "episodes": [
-    "E",
-    "p",
-    " ",
-    "1",
-    "4",
-    ":",
-    "A",
-    "n",
-    "i",
-    "e",
-    ",",
-    "u",
-    "d",
-    "r",
-    "h",
-    "y",
-    "o",
-    "s",
-    "a",
-    "t",
-    "m",
-    "k",
-    "l",
-    "g",
-    ";",
-    "P",
-    "f",
-    "G",
-    "'",
-    "c",
-    "v",
-    "."
+    {
+     "episode": "Ep 14",
+     "gist": "Annie, under hypnosis, attempts a killing and is stopped; Professor Guo's hypnosis manipulation is uncovered.",
+     "number_verified": true
+    }
    ],
    "kids_status": "not stated",
    "kids_together": "No: Annie and Yongyan break up and he is arrested (Prime Video). Wikipedia says she gives birth to their child, but they do not end up together.",
@@ -133500,7 +133481,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:664",
     "ig6qlxqxoxvcxla:868",
     "streaming-oct15:15",
-    "deep-refresh-oct30:25"
+    "deep-refresh-oct30:23"
    ],
    "index_only": false,
    "local_only": false,
@@ -133593,7 +133574,7 @@ window.CATALOG = {
      "matched_by": "same title+year"
     },
     {
-     "rid": "deep-refresh-oct30:25",
+     "rid": "deep-refresh-oct30:23",
      "source": "deep-refresh-oct30",
      "label": "Mind Game / 心迷 (2015)",
      "identifiers": [
@@ -133619,7 +133600,13 @@ window.CATALOG = {
        "url": "https://www.primevideo.com/detail/Mind-Game/0HIT4EE49RKFGKBAP7WCJ15R63"
       }
      ],
-     "episodes": "Ep 14: Annie, under hypnosis, attempts a killing and is stopped; Professor Guo's hypnosis manipulation is uncovered.",
+     "episodes": [
+      {
+       "episode": "Ep 14",
+       "gist": "Annie, under hypnosis, attempts a killing and is stopped; Professor Guo's hypnosis manipulation is uncovered.",
+       "number_verified": true
+      }
+     ],
      "evidence": "Episode guide",
      "distinct_story": false,
      "matched_by": "match_title"
@@ -133662,13 +133649,19 @@ window.CATALOG = {
      "confidence": "Lead",
      "note": ""
     },
-    "deep-refresh-oct30:25": {
+    "deep-refresh-oct30:23": {
      "title": "Mind Game / 心迷",
      "year": "2015",
      "match_title": "Mind Game / 心迷",
      "match_year": "2015",
      "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
-     "episodes": "Ep 14: Annie, under hypnosis, attempts a killing and is stopped; Professor Guo's hypnosis manipulation is uncovered.",
+     "episodes": [
+      {
+       "episode": "Ep 14",
+       "gist": "Annie, under hypnosis, attempts a killing and is stopped; Professor Guo's hypnosis manipulation is uncovered.",
+       "number_verified": true
+      }
+     ],
      "sources": [
       {
        "label": "Wikipedia",
@@ -394444,42 +394437,7 @@ window.CATALOG = {
      "episode": "Ep 74-75 “Family Bonds / Naming the Baby”",
      "gist": "Brothers embrace the baby as their own; Audrey names her unborn child after Caspian.",
      "number_verified": true
-    },
-    "E",
-    "p",
-    " ",
-    "5",
-    "6",
-    "'",
-    "H",
-    "y",
-    "n",
-    "o",
-    "t",
-    "i",
-    "z",
-    "e",
-    "d",
-    "L",
-    "v",
-    "–",
-    "7",
-    ":",
-    "A",
-    "u",
-    "r",
-    ",",
-    "w",
-    "h",
-    "l",
-    "g",
-    "a",
-    "s",
-    "c",
-    ";",
-    "b",
-    "f",
-    "."
+    }
    ],
    "kids_status": "unknown",
    "kids_note": "Father is not established in the summaries (either brother).",
@@ -394540,7 +394498,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1994",
     "round3:16",
-    "deep-refresh-oct30:24"
+    "deep-refresh-oct30:22"
    ],
    "index_only": false,
    "local_only": false,
@@ -394710,7 +394668,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "deep-refresh-oct30:24",
+     "rid": "deep-refresh-oct30:22",
      "source": "deep-refresh-oct30",
      "label": "Got Pregnant by Billionaire Brothers (2024)",
      "identifiers": [
@@ -394736,7 +394694,6 @@ window.CATALOG = {
        "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/3"
       }
      ],
-     "episodes": "Ep 56 'Hypnotized Love' – ep 57: Audrey, while pregnant, is under a hypnotic spell; the brothers try to free her.",
      "evidence": "Episode pages",
      "distinct_story": false,
      "matched_by": "match_title"
@@ -394907,13 +394864,12 @@ window.CATALOG = {
      ],
      "research_no": 16
     },
-    "deep-refresh-oct30:24": {
+    "deep-refresh-oct30:22": {
      "title": "Got Pregnant by Billionaire Brothers",
      "year": "2024",
      "match_title": "Got Pregnant by Billionaire Brothers",
      "match_year": "2024",
      "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
-     "episodes": "Ep 56 'Hypnotized Love' – ep 57: Audrey, while pregnant, is under a hypnotic spell; the brothers try to free her.",
      "sources": [
       {
        "label": "NetShort ep 56",
@@ -545542,7 +545498,7 @@ window.CATALOG = {
     "deep-refresh-oct30"
    ],
    "source_records": [
-    "deep-refresh-oct30:15"
+    "deep-refresh-oct30:14"
    ],
    "index_only": false,
    "local_only": true,
@@ -545550,7 +545506,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "deep-refresh-oct30:15": {
+    "deep-refresh-oct30:14": {
      "pregnant_end": "no",
      "kids_status": "teen son (not the controlled person)",
      "kids_together": "no",
@@ -545620,7 +545576,7 @@ window.CATALOG = {
     "deep-refresh-oct30"
    ],
    "source_records": [
-    "deep-refresh-oct30:16"
+    "deep-refresh-oct30:15"
    ],
    "index_only": false,
    "local_only": true,
@@ -545628,7 +545584,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "deep-refresh-oct30:16": {
+    "deep-refresh-oct30:15": {
      "pregnant_end": "no",
      "kids_status": "no",
      "kids_together": "no",
@@ -545693,7 +545649,7 @@ window.CATALOG = {
     "deep-refresh-oct30"
    ],
    "source_records": [
-    "deep-refresh-oct30:18"
+    "deep-refresh-oct30:16"
    ],
    "index_only": false,
    "local_only": true,
@@ -545701,7 +545657,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "deep-refresh-oct30:18": {
+    "deep-refresh-oct30:16": {
      "pregnant_end": "no",
      "kids_status": "no",
      "kids_together": "no",
@@ -545766,7 +545722,7 @@ window.CATALOG = {
     "deep-refresh-oct30"
    ],
    "source_records": [
-    "deep-refresh-oct30:19"
+    "deep-refresh-oct30:17"
    ],
    "index_only": false,
    "local_only": true,
@@ -545774,7 +545730,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "deep-refresh-oct30:19": {
+    "deep-refresh-oct30:17": {
      "pregnant_end": "yes",
      "kids_status": "no",
      "kids_together": "no",
@@ -545838,7 +545794,7 @@ window.CATALOG = {
     "deep-refresh-oct30"
    ],
    "source_records": [
-    "deep-refresh-oct30:20"
+    "deep-refresh-oct30:18"
    ],
    "index_only": false,
    "local_only": true,
@@ -545846,7 +545802,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "deep-refresh-oct30:20": {
+    "deep-refresh-oct30:18": {
      "pregnant_end": "no",
      "kids_status": "no",
      "kids_together": "no",
@@ -545919,7 +545875,7 @@ window.CATALOG = {
     "deep-refresh-oct30"
    ],
    "source_records": [
-    "deep-refresh-oct30:21"
+    "deep-refresh-oct30:19"
    ],
    "index_only": false,
    "local_only": true,
@@ -545927,7 +545883,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "deep-refresh-oct30:21": {
+    "deep-refresh-oct30:19": {
      "pregnant_end": "no",
      "kids_status": "no",
      "kids_together": "no",
@@ -546006,7 +545962,7 @@ window.CATALOG = {
     "deep-refresh-oct30"
    ],
    "source_records": [
-    "deep-refresh-oct30:22"
+    "deep-refresh-oct30:20"
    ],
    "index_only": false,
    "local_only": true,
@@ -546014,7 +545970,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "deep-refresh-oct30:22": {
+    "deep-refresh-oct30:20": {
      "pregnant_end": "no",
      "kids_status": "no",
      "kids_together": "no",
@@ -546092,7 +546048,7 @@ window.CATALOG = {
     "deep-refresh-oct30"
    ],
    "source_records": [
-    "deep-refresh-oct30:23"
+    "deep-refresh-oct30:21"
    ],
    "index_only": false,
    "local_only": true,
@@ -546100,7 +546056,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "deep-refresh-oct30:23": {
+    "deep-refresh-oct30:21": {
      "pregnant_end": "no",
      "kids_status": "no",
      "kids_together": "no",
@@ -546135,6 +546091,842 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 3775,
+   "title": "Mutter: The Diary of a Mother",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Tribeca 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: a mother's pregnancy and motherhood take on a sinister turn.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Sinister pregnancy",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Festival page",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Tribeca",
+     "url": "https://tribecafilm.com/films/mutter-the-diary-of-a-mother-2026"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:24"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:24": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Mutter: The Diary of a Mother",
+     "year": "2026",
+     "format": "film",
+     "meta": "Tribeca 2026",
+     "summary": "Loose fit: a mother's pregnancy and motherhood take on a sinister turn.",
+     "method": "Sinister pregnancy",
+     "categories": [
+      "pregnancy-evil"
+     ],
+     "sources": [
+      {
+       "label": "Tribeca",
+       "url": "https://tribecafilm.com/films/mutter-the-diary-of-a-mother-2026"
+      }
+     ],
+     "evidence": "Festival page",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3776,
+   "title": "人妻催眠 (Sinister)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Adult game RJ01378985",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A neighbor's married wife is hypnotized.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Game listing",
+   "adult": "yes (18+; non-explicit note)",
+   "format": "visual novel",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "animesharering",
+     "url": "https://animesharering.jp/game/rj01378985/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:25"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:25": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes (18+; non-explicit note)",
+     "title": "人妻催眠 (Sinister)",
+     "year": "2025",
+     "format": "visual novel",
+     "meta": "Adult game RJ01378985",
+     "summary": "A neighbor's married wife is hypnotized.",
+     "method": "Hypnosis",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "animesharering",
+       "url": "https://animesharering.jp/game/rj01378985/"
+      }
+     ],
+     "evidence": "Game listing",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3777,
+   "title": "The 13th Wife: Escaping Polygamy",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Lifetime · Felicity Huffman",
+   "mechanism": "",
+   "confidence_flag": "High · 3+ sources",
+   "summary": "Based on real events: Rena becomes a plural wife inside the LeBaron sect and is drawn into its violence.",
+   "character": "Rena Chynoweth",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Ervil LeBaron",
+   "method": "Sect coercion",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Review plus listings",
+   "adult": "no",
+   "format": "tv movie",
+   "categories": [
+    "polygamy",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Decider",
+     "url": "https://decider.com/2025/06/03/the-13th-wife-escaping-polygamy-lifetime-review/"
+    },
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/m/the_13th_wife_escaping_polygamy_part_1"
+    },
+    {
+     "label": "KTUL",
+     "url": "https://ktul.com/news/entertainment/felicity-huffman-plays-a-real-life-assassin-in-the-thirteenth-wife-escaping-polygamy-rena-chynoweth-desperate-housewives"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:26": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The 13th Wife: Escaping Polygamy",
+     "year": "2025",
+     "format": "tv movie",
+     "meta": "Lifetime · Felicity Huffman",
+     "character": "Rena Chynoweth",
+     "summary": "Based on real events: Rena becomes a plural wife inside the LeBaron sect and is drawn into its violence.",
+     "hypnotist": "Ervil LeBaron",
+     "method": "Sect coercion",
+     "categories": [
+      "polygamy",
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Decider",
+       "url": "https://decider.com/2025/06/03/the-13th-wife-escaping-polygamy-lifetime-review/"
+      },
+      {
+       "label": "Rotten Tomatoes",
+       "url": "https://www.rottentomatoes.com/m/the_13th_wife_escaping_polygamy_part_1"
+      },
+      {
+       "label": "KTUL",
+       "url": "https://ktul.com/news/entertainment/felicity-huffman-plays-a-real-life-assassin-in-the-thirteenth-wife-escaping-polygamy-rena-chynoweth-desperate-housewives"
+      }
+     ],
+     "evidence": "Review plus listings",
+     "confidence_flag": "High · 3+ sources"
+    }
+   }
+  },
+  {
+   "id": 3778,
+   "title": "Secret Lives of Sister Wives",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Lifetime",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: a woman inside a polygamous household faces controlling pressure.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Coercive control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Review",
+   "adult": "no",
+   "format": "tv movie",
+   "categories": [
+    "polygamy"
+   ],
+   "sources": [
+    {
+     "label": "Hotchka",
+     "url": "https://hotchka.com/secret-lives-of-sister-wives-review"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:27"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:27": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Secret Lives of Sister Wives",
+     "year": "2025",
+     "format": "tv movie",
+     "meta": "Lifetime",
+     "summary": "Loose fit: a woman inside a polygamous household faces controlling pressure.",
+     "method": "Coercive control",
+     "categories": [
+      "polygamy"
+     ],
+     "sources": [
+      {
+       "label": "Hotchka",
+       "url": "https://hotchka.com/secret-lives-of-sister-wives-review"
+      }
+     ],
+     "evidence": "Review",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3779,
+   "title": "Carrying My Ex's Dad's Heir, I Became His Stepmother",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "DramaBox",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: the heroine carries her ex's father's heir and becomes her ex's stepmother.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Contract pregnancy / family manipulation",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Two catalog pages",
+   "adult": "no",
+   "format": "vertical microdrama",
+   "categories": [
+    "stepmom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "MicroDramaList",
+     "url": "https://microdramalist.com/drama/carrying-my-exs-dads-heir-i-became-his-stepmother"
+    },
+    {
+     "label": "DramaTrove",
+     "url": "https://dramatrove.com/en/short-drama/carrying-my-exs-dads-heir-i-became-his-stepmother-catalog-29898/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:28"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:28": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Carrying My Ex's Dad's Heir, I Became His Stepmother",
+     "year": "2026",
+     "format": "vertical microdrama",
+     "meta": "DramaBox",
+     "summary": "Loose fit: the heroine carries her ex's father's heir and becomes her ex's stepmother.",
+     "method": "Contract pregnancy / family manipulation",
+     "categories": [
+      "stepmom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "MicroDramaList",
+       "url": "https://microdramalist.com/drama/carrying-my-exs-dads-heir-i-became-his-stepmother"
+      },
+      {
+       "label": "DramaTrove",
+       "url": "https://dramatrove.com/en/short-drama/carrying-my-exs-dads-heir-i-became-his-stepmother-catalog-29898/"
+      }
+     ],
+     "evidence": "Two catalog pages",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3780,
+   "title": "Baby Farm",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: a pregnant woman is trapped by a fake adoption foundation.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Captivity / adoption fraud",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Ending explainer",
+   "adult": "no",
+   "format": "series",
+   "categories": [
+    "adopt-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "People",
+     "url": "https://people.com/baby-farm-ending-explained-11759578"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:29"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:29": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Baby Farm",
+     "year": "2025",
+     "format": "series",
+     "summary": "Loose fit: a pregnant woman is trapped by a fake adoption foundation.",
+     "method": "Captivity / adoption fraud",
+     "categories": [
+      "adopt-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "People",
+       "url": "https://people.com/baby-farm-ending-explained-11759578"
+      }
+     ],
+     "evidence": "Ending explainer",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3781,
+   "title": "The Puppet",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Korean erotic thriller · Dir. Kwon Young-lark",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A psychiatrist hypnotizes his colleague's fiancée to probe her hallucinations, then abuses the power dynamic with his patient.",
+   "character": "Hyun-jin",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Ji-hoon (psychiatrist)",
+   "method": "Clinical hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Streaming synopsis",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "medical",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Prime Video",
+     "url": "https://www.primevideo.com/detail/0M7V1PE366Q4LZEGXMC0PYO7YX"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:30"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:30": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Puppet",
+     "year": "2025",
+     "format": "film",
+     "meta": "Korean erotic thriller · Dir. Kwon Young-lark",
+     "character": "Hyun-jin",
+     "summary": "A psychiatrist hypnotizes his colleague's fiancée to probe her hallucinations, then abuses the power dynamic with his patient.",
+     "hypnotist": "Ji-hoon (psychiatrist)",
+     "method": "Clinical hypnosis",
+     "categories": [
+      "medical",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Prime Video",
+       "url": "https://www.primevideo.com/detail/0M7V1PE366Q4LZEGXMC0PYO7YX"
+      }
+     ],
+     "evidence": "Streaming synopsis",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3782,
+   "title": "Raptures",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Finnish/Swedish · Dir. Jon Blåhed",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "In 1930s northern Sweden, Rakel has to join the sect her husband founds.",
+   "character": "Rakel",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Her husband",
+   "method": "Religious sect control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Film listing",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "cult",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "NoctraTV",
+     "url": "https://noctratv.com/title/movie/1141489"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:31"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:31": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Raptures",
+     "year": "2025",
+     "format": "film",
+     "meta": "Finnish/Swedish · Dir. Jon Blåhed",
+     "character": "Rakel",
+     "summary": "In 1930s northern Sweden, Rakel has to join the sect her husband founds.",
+     "hypnotist": "Her husband",
+     "method": "Religious sect control",
+     "categories": [
+      "cult",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "NoctraTV",
+       "url": "https://noctratv.com/title/movie/1141489"
+      }
+     ],
+     "evidence": "Film listing",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3783,
+   "title": "Cyberpunk Romance",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Hof International Film Festival",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: Mona's brain port may let an external force control her mind.",
+   "character": "Mona",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Brain implant",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Festival listing",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "scifi",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Hofer Filmtage",
+     "url": "https://www.hofer-filmtage.com/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:32"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:32": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Cyberpunk Romance",
+     "year": "2025",
+     "format": "film",
+     "meta": "Hof International Film Festival",
+     "character": "Mona",
+     "summary": "Loose fit: Mona's brain port may let an external force control her mind.",
+     "method": "Brain implant",
+     "categories": [
+      "scifi",
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "Hofer Filmtage",
+       "url": "https://www.hofer-filmtage.com/"
+      }
+     ],
+     "evidence": "Festival listing",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3784,
+   "title": "The Dumb Billionaire Heiress in Love: Part II",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "ReelShort",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: an heiress is drugged and manipulated, and her fortune is stolen.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Drugging / manipulation",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Platform listings",
+   "adult": "no",
+   "format": "vertical microdrama",
+   "categories": [
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "ReelShort",
+     "url": "https://www.reelshort.com/"
+    },
+    {
+     "label": "Storizz",
+     "url": "https://storizz.com/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:33"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:33": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Dumb Billionaire Heiress in Love: Part II",
+     "year": "2025",
+     "format": "vertical microdrama",
+     "meta": "ReelShort",
+     "summary": "Loose fit: an heiress is drugged and manipulated, and her fortune is stolen.",
+     "method": "Drugging / manipulation",
+     "categories": [
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "ReelShort",
+       "url": "https://www.reelshort.com/"
+      },
+      {
+       "label": "Storizz",
+       "url": "https://storizz.com/"
+      }
+     ],
+     "evidence": "Platform listings",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3785,
+   "title": "Insomnia",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Argentina · Dir. Tomás Gonzalez Montalvo · Vimeo",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: an insomniac woman is hypnotized and enters surreal inner worlds.",
+   "character": "Natalia",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Trailer page",
+   "adult": "no",
+   "format": "short film",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Vimeo",
+     "url": "https://vimeo.com/1073962748"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:34"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:34": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Insomnia",
+     "year": "2025",
+     "format": "short film",
+     "meta": "Argentina · Dir. Tomás Gonzalez Montalvo · Vimeo",
+     "character": "Natalia",
+     "summary": "Loose fit: an insomniac woman is hypnotized and enters surreal inner worlds.",
+     "method": "Hypnosis",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Vimeo",
+       "url": "https://vimeo.com/1073962748"
+      }
+     ],
+     "evidence": "Trailer page",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -546148,7 +546940,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "kids-pregnant-again",
     "lesbian-pregnancy",
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -546560,6 +547353,10 @@ window.CATALOG = {
       {
        "id": 3257,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3780,
+       "from_source": "deep-refresh-oct30"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -546569,7 +547366,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla": 25,
     "kids-pregnant-again": null,
     "lesbian-pregnancy": null,
-    "deep-refresh-oct18": null
+    "deep-refresh-oct18": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -550421,12 +551219,20 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3785,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3309,
        "from_source": "deep-refresh-oct18"
       },
       {
        "id": 3268,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3781,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3250,
@@ -550447,6 +551253,10 @@ window.CATALOG = {
       {
        "id": 3269,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3776,
+       "from_source": "deep-refresh-oct30"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -551598,6 +552408,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3777,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3765,
        "from_source": "deep-refresh-oct30"
       },
@@ -551620,6 +552434,10 @@ window.CATALOG = {
       {
        "id": 3326,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3782,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3252,
@@ -553584,6 +554402,10 @@ window.CATALOG = {
       {
        "id": 3333,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3783,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3758,
@@ -566601,6 +567423,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3782,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3298,
        "from_source": "deep-refresh-oct18"
       }
@@ -568323,6 +569149,10 @@ window.CATALOG = {
       {
        "id": 1182,
        "from_source": "deep-gap-oct15"
+      },
+      {
+       "id": 3784,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3115,
@@ -575136,6 +575966,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3781,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3288,
        "from_source": "deep-refresh-oct18"
       },
@@ -575563,8 +576397,7 @@ window.CATALOG = {
     "deep-refresh-oct18",
     "deep-oct24",
     "hypno-kids-witness-oct25",
-    "hypno-kids-witness-unverified-oct25",
-    "deep-refresh-oct30"
+    "hypno-kids-witness-unverified-oct25"
    ],
    "groups": [
     {
@@ -576511,8 +577344,7 @@ window.CATALOG = {
     "deep-refresh-oct18": null,
     "deep-oct24": null,
     "hypno-kids-witness-oct25": null,
-    "hypno-kids-witness-unverified-oct25": null,
-    "deep-refresh-oct30": null
+    "hypno-kids-witness-unverified-oct25": null
    }
   },
   {
@@ -581677,10 +582509,12 @@ window.CATALOG = {
    "description": "",
    "notes": [],
    "from_sources": [
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "deep-refresh-oct30"
    ],
    "declared_count_by_source": {
-    "deep-refresh-oct18": null
+    "deep-refresh-oct18": null,
+    "deep-refresh-oct30": null
    },
    "groups": [
     {
@@ -581688,8 +582522,16 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3777,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3342,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3778,
+       "from_source": "deep-refresh-oct30"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -585566,7 +586408,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "agegap-marriage",
     "kids-pregnant-again",
-    "lesbian-pregnancy"
+    "lesbian-pregnancy",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -585917,13 +586760,25 @@ window.CATALOG = {
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3779,
+       "from_source": "deep-refresh-oct30"
+      }
+     ],
+     "from_source": "deep-refresh-oct30"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 6,
     "agegap-marriage": null,
     "kids-pregnant-again": null,
-    "lesbian-pregnancy": null
+    "lesbian-pregnancy": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -588173,6 +589028,10 @@ window.CATALOG = {
       {
        "id": 3309,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3775,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3263,
@@ -593776,6 +594635,10 @@ window.CATALOG = {
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3783,
+       "from_source": "deep-refresh-oct30"
+      },
       {
        "id": 3762,
        "from_source": "deep-refresh-oct30"
