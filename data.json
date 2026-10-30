@@ -8918,10 +8918,58 @@
     {
      "title": "Kanojo Saimin OVA",
      "reason": "Already FLAGGED for minors"
+    },
+    {
+     "title": "Perfect (2026)",
+     "reason": "Duplicate of #578"
+    },
+    {
+     "title": "Mrs. Brown's Boys 'Mammy's Spell'",
+     "reason": "Series already #3094"
+    },
+    {
+     "title": "Whirlpool",
+     "reason": "Duplicate of #228"
+    },
+    {
+     "title": "Perfumer",
+     "reason": "Duplicate of #2878"
+    },
+    {
+     "title": "The Love by Hypnotic",
+     "reason": "Duplicate of #19"
+    },
+    {
+     "title": "To Seduce an Enemy",
+     "reason": "Duplicate of #646"
+    },
+    {
+     "title": "Seeds of Scarlet Longing",
+     "reason": "Male subject of the love spell"
+    },
+    {
+     "title": "Devil in the Family: The Fall of Ruby Franke",
+     "reason": "FLAG minors (child abuse)"
+    },
+    {
+     "title": "Escaping Utopia",
+     "reason": "FLAG minors (abuse allegations at the commune)"
+    },
+    {
+     "title": "Tumko Meri Kasam",
+     "reason": "No control/hypnosis element"
+    },
+    {
+     "title": "Musk (2026 doc)",
+     "reason": "Off-criteria"
+    },
+    {
+     "title": "Time's Up, I'm Afraid",
+     "reason": "Page failed to load; unverified"
     }
    ],
    "check": {
-    "raw_count": 58,
+    "raw_count": 66,
     "ok": true
    },
    "status": "local"
@@ -9004,10 +9052,10 @@
   "pregnant-intimate-imdb-oct25": 13,
   "hypno-kids-witness-unverified-oct25": 8,
   "hypnosis-imdb-list-full-oct25": 482,
-  "deep-refresh-oct30": 58
+  "deep-refresh-oct30": 66
  },
- "raw_total": 7153,
- "entry_count": 3615,
+ "raw_total": 7161,
+ "entry_count": 3622,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -9055,7 +9103,7 @@
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 53
+   "entry_count": 54
   },
   {
    "key": "occult",
@@ -9079,7 +9127,7 @@
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 108
+   "entry_count": 109
   },
   {
    "key": "fantasy",
@@ -9097,7 +9145,7 @@
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 51
+   "entry_count": 52
   },
   {
    "key": "india-control",
@@ -9145,7 +9193,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 116
+   "entry_count": 118
   },
   {
    "key": "index-54",
@@ -9163,7 +9211,7 @@
    "key": "hypnotized-marriage",
    "label": "Hypnotised / spell-bound into marriage (or married while under control)",
    "legend_label": "Hypnotised / spell-bound into marriage (or married while under control)",
-   "entry_count": 50
+   "entry_count": 51
   },
   {
    "key": "cheat-control",
@@ -9217,7 +9265,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 233
+   "entry_count": 234
   },
   {
    "key": "mom-partner-control",
@@ -9337,7 +9385,7 @@
    "key": "pregnant-intimate",
    "label": "Pregnant intimate scenes",
    "legend_label": "Pregnant intimate scenes",
-   "entry_count": 26
+   "entry_count": 27
   },
   {
    "key": "pregnant-lesbian-intimate",
@@ -9391,7 +9439,7 @@
    "key": "pregnancy-evil",
    "label": "Pregnant women controlled / possessed by evil forces",
    "legend_label": "Pregnant women controlled / possessed by evil forces",
-   "entry_count": 71
+   "entry_count": 72
   },
   {
    "key": "regional-pregnancy",
@@ -9457,7 +9505,7 @@
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 404
+   "entry_count": 405
   },
   {
    "key": "family",
@@ -9541,7 +9589,7 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 137
+   "entry_count": 138
   },
   {
    "key": "therapist-wife",
@@ -549071,6 +549119,548 @@
      ]
     }
    }
+  },
+  {
+   "id": 3809,
+   "title": "So You Want to Wear the Pants",
+   "subtitle": "",
+   "year": "1952",
+   "meta": "Warner Bros. 'Joe McDoakes' series · Dir. Richard L. Bare · Phyllis Coates",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "During a counseling session, a psychiatrist hypnotizes a bickering married couple into swapping points of view, so each takes on the other's voice and habits.",
+   "character": "Alice McDoakes (wife)",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Psychiatrist (Fritz Feld)",
+   "method": "Hypnotic suggestion in marriage counseling",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Two listings that agree on the hypnosis premise",
+   "adult": "no",
+   "format": "short film (10 min)",
+   "categories": [
+    "hypnotized-marriage",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "What's After the Movie",
+     "url": "https://www.whatsafterthemovie.com/movies/so-you-want-to-wear-thepants-1952"
+    },
+    {
+     "label": "Yori.to",
+     "url": "https://yori.to/title/tt0045165"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:59"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:59": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "So You Want to Wear the Pants",
+     "year": "1952",
+     "format": "short film (10 min)",
+     "meta": "Warner Bros. 'Joe McDoakes' series · Dir. Richard L. Bare · Phyllis Coates",
+     "character": "Alice McDoakes (wife)",
+     "summary": "During a counseling session, a psychiatrist hypnotizes a bickering married couple into swapping points of view, so each takes on the other's voice and habits.",
+     "hypnotist": "Psychiatrist (Fritz Feld)",
+     "method": "Hypnotic suggestion in marriage counseling",
+     "categories": [
+      "hypnotized-marriage",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "What's After the Movie",
+       "url": "https://www.whatsafterthemovie.com/movies/so-you-want-to-wear-thepants-1952"
+      },
+      {
+       "label": "Yori.to",
+       "url": "https://yori.to/title/tt0045165"
+      }
+     ],
+     "evidence": "Two listings that agree on the hypnosis premise",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3810,
+   "title": "The Threesome",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "US · Dir. Chad Hartigan · Zoey Deutch, Jonah Hauer-King, Ruby Cruz",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "After one night together, two women both find they are pregnant, and the three adults have to work out love and parenthood.",
+   "character": "Olivia and Jenny",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "None (romantic comedy-drama)",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Encyclopedia plot plus a review",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Threesome"
+    },
+    {
+     "label": "RogerEbert.com",
+     "url": "https://www.rogerebert.com/reviews/the-threesome-zoey-deutch-movie-review-2025"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:60"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:60": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Threesome",
+     "year": "2025",
+     "format": "film",
+     "meta": "US · Dir. Chad Hartigan · Zoey Deutch, Jonah Hauer-King, Ruby Cruz",
+     "character": "Olivia and Jenny",
+     "summary": "After one night together, two women both find they are pregnant, and the three adults have to work out love and parenthood.",
+     "method": "None (romantic comedy-drama)",
+     "categories": [
+      "pregnant-intimate"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Threesome"
+      },
+      {
+       "label": "RogerEbert.com",
+       "url": "https://www.rogerebert.com/reviews/the-threesome-zoey-deutch-movie-review-2025"
+      }
+     ],
+     "evidence": "Encyclopedia plot plus a review",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3811,
+   "title": "Deadly Marriage (致命婚姻)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "China · from Oct 16, 2025",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A housewife who lives under her outwardly refined husband's psychological control and hidden abuse slowly breaks free and files for divorce.",
+   "character": "Su Yao (housewife)",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Lu Yuanshan (husband)",
+   "method": "Psychological control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Platform synopsis plus a fan thread",
+   "adult": "no",
+   "format": "vertical short drama (89 eps)",
+   "categories": [
+    "wife",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "BiliBili",
+     "url": "https://www.bilibili.tv/media/2272967"
+    },
+    {
+     "label": "r/CShortDramas",
+     "url": "https://www.reddit.com/r/CShortDramas/comments/1m6t1wn/deadly_marriage/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:61"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:61": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Deadly Marriage (致命婚姻)",
+     "year": "2025",
+     "format": "vertical short drama (89 eps)",
+     "meta": "China · from Oct 16, 2025",
+     "character": "Su Yao (housewife)",
+     "summary": "A housewife who lives under her outwardly refined husband's psychological control and hidden abuse slowly breaks free and files for divorce.",
+     "hypnotist": "Lu Yuanshan (husband)",
+     "method": "Psychological control",
+     "categories": [
+      "wife",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "BiliBili",
+       "url": "https://www.bilibili.tv/media/2272967"
+      },
+      {
+       "label": "r/CShortDramas",
+       "url": "https://www.reddit.com/r/CShortDramas/comments/1m6t1wn/deadly_marriage/"
+      }
+     ],
+     "evidence": "Platform synopsis plus a fan thread",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3812,
+   "title": "Mum, I'm Alien Pregnant",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "New Zealand · Dir. THUNDERLIPS · Hannah Lynch · Sundance 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A woman accidentally becomes pregnant with an alien and has to survive it while dealing with skeptical doctors and her family.",
+   "character": "Mary",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Alien pregnancy (sci-fi comedy-horror)",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Encyclopedia entry citing Sundance, Mashable and RogerEbert.com",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "pregnancy-evil",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mum,_I'm_Alien_Pregnant"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:62"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:62": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Mum, I'm Alien Pregnant",
+     "year": "2026",
+     "format": "film",
+     "meta": "New Zealand · Dir. THUNDERLIPS · Hannah Lynch · Sundance 2026",
+     "character": "Mary",
+     "summary": "A woman accidentally becomes pregnant with an alien and has to survive it while dealing with skeptical doctors and her family.",
+     "method": "Alien pregnancy (sci-fi comedy-horror)",
+     "categories": [
+      "pregnancy-evil",
+      "scifi"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Mum,_I'm_Alien_Pregnant"
+      }
+     ],
+     "evidence": "Encyclopedia entry citing Sundance, Mashable and RogerEbert.com",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3813,
+   "title": "Destroy My Cheating Billionaire Husband",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Dramamaximus",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "After learning about her husband's affair, a wife uses a memory-replacement chip to erase him from her mind.",
+   "character": "Freya (wife)",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Memory-replacement chip",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "One catalog synopsis",
+   "adult": "no",
+   "format": "vertical short drama (30 eps)",
+   "categories": [
+    "tech",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Vertical Short Dramas",
+     "url": "https://verticalshortdramas.com/series/destroy-my-cheating-billionaire-husband/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:63"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:63": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Destroy My Cheating Billionaire Husband",
+     "year": "2026",
+     "format": "vertical short drama (30 eps)",
+     "meta": "Dramamaximus",
+     "character": "Freya (wife)",
+     "summary": "After learning about her husband's affair, a wife uses a memory-replacement chip to erase him from her mind.",
+     "method": "Memory-replacement chip",
+     "categories": [
+      "tech",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "Vertical Short Dramas",
+       "url": "https://verticalshortdramas.com/series/destroy-my-cheating-billionaire-husband/"
+      }
+     ],
+     "evidence": "One catalog synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3814,
+   "title": "Transference",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "US · Dir. Michael Zumaya · Valentina Ellis, Alexandria Payne",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "During hypnotherapy, a traumatized woman's memories turn out to be linked to her therapist's own past.",
+   "character": "Heather Simmons (patient)",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Dr. Elizabeth Russell",
+   "method": "Hypnotherapy recorded on a VHS camcorder",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "One database synopsis",
+   "adult": "no",
+   "format": "short film (11 min)",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Midnight",
+     "url": "https://www.midnight.movie/title/movie/1772932"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:64"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:64": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Transference",
+     "year": "2026",
+     "format": "short film (11 min)",
+     "meta": "US · Dir. Michael Zumaya · Valentina Ellis, Alexandria Payne",
+     "character": "Heather Simmons (patient)",
+     "summary": "During hypnotherapy, a traumatized woman's memories turn out to be linked to her therapist's own past.",
+     "hypnotist": "Dr. Elizabeth Russell",
+     "method": "Hypnotherapy recorded on a VHS camcorder",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Midnight",
+       "url": "https://www.midnight.movie/title/movie/1772932"
+      }
+     ],
+     "evidence": "One database synopsis",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3815,
+   "title": "Where the Hell Is Anna?",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "US · Dir. Taylor Dupuis · Nashville Film Festival 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A woman infiltrates a women-only pagan retreat to bring back her best friend, who has been chosen for a ritual 'Induction Day'.",
+   "character": "Anna",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "method": "Cult psychology and ritual",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Festival program page",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Nashville Film Festival",
+     "url": "https://streaming.eventive.org/nashfilmfest2026/play/6a8e0270e545262519a8972a"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:66"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:66": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Where the Hell Is Anna?",
+     "year": "2026",
+     "format": "film",
+     "meta": "US · Dir. Taylor Dupuis · Nashville Film Festival 2026",
+     "character": "Anna",
+     "summary": "A woman infiltrates a women-only pagan retreat to bring back her best friend, who has been chosen for a ritual 'Induction Day'.",
+     "method": "Cult psychology and ritual",
+     "categories": [
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Nashville Film Festival",
+       "url": "https://streaming.eventive.org/nashfilmfest2026/play/6a8e0270e545262519a8972a"
+      }
+     ],
+     "evidence": "Festival program page",
+     "confidence_flag": "Single source · flag"
+    }
+   }
   }
  ],
  "sections": [
@@ -554642,6 +555232,10 @@
       {
        "id": 3759,
        "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3815,
+       "from_source": "deep-refresh-oct30"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -556613,6 +557207,10 @@
       },
       {
        "id": 3783,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3813,
        "from_source": "deep-refresh-oct30"
       },
       {
@@ -562628,6 +563226,10 @@
       {
        "id": 3333,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3811,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3771,
@@ -569619,6 +570221,14 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3811,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3813,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3330,
        "from_source": "deep-refresh-oct18"
       },
@@ -570072,6 +570682,10 @@
       {
        "id": 3256,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3809,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3806,
@@ -578244,6 +578858,10 @@
       {
        "id": 3114,
        "from_source": "deep-gap-oct15"
+      },
+      {
+       "id": 3814,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3119,
@@ -587846,7 +588464,8 @@
     "round2",
     "pregnant-intimate-oct25",
     "pregnant-scenes-oct25",
-    "pregnant-intimate-imdb-oct25"
+    "pregnant-intimate-imdb-oct25",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -588110,6 +588729,17 @@
       }
      ],
      "from_source": "pregnant-intimate-imdb-oct25"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3810,
+       "from_source": "deep-refresh-oct30"
+      }
+     ],
+     "from_source": "deep-refresh-oct30"
     }
    ],
    "declared_count_by_source": {
@@ -588118,7 +588748,8 @@
     "round2": null,
     "pregnant-intimate-oct25": null,
     "pregnant-scenes-oct25": null,
-    "pregnant-intimate-imdb-oct25": null
+    "pregnant-intimate-imdb-oct25": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -591302,6 +591933,10 @@
       {
        "id": 3309,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3812,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3775,
@@ -596939,6 +597574,10 @@
       },
       {
        "id": 3761,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3812,
        "from_source": "deep-refresh-oct30"
       }
      ],
@@ -607095,6 +607734,10 @@
       },
       {
        "id": 3792,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3809,
        "from_source": "deep-refresh-oct30"
       },
       {
