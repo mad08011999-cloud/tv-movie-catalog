@@ -1,0 +1,409 @@
+{
+ "id": "deep-refresh-oct30",
+ "label": "Deep refresh across all criteria (30 Oct 2026)",
+ "group_title": "Deep gap-check (missed titles)",
+ "description": "Multi-language sweep across every catalog topic, 30 Oct 2026. Adults only; non-explicit notes; every entry sourced with a confidence label.",
+ "category_labels": {},
+ "records": [
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (18+ VN; non-explicit note)",
+   "title": "Hitozuma Saimin Counseling",
+   "year": "2018",
+   "format": "visual novel",
+   "meta": "Adult visual novel · Interheart Glossy",
+   "summary": "A counselor hypnotizes married adult female clients who come to him for counseling.",
+   "hypnotist": "Counselor Narita",
+   "method": "Hypnosis during counseling",
+   "categories": [
+    "adult-hypnosis",
+    "doctor-gain"
+   ],
+   "sources": [
+    {
+     "label": "VNDB",
+     "url": "https://vndb.org/v22293"
+    }
+   ],
+   "evidence": "VNDB entry",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Haunting Fear",
+   "year": "1990",
+   "format": "film",
+   "meta": "Horror film · dir. Fred Olen Ray",
+   "character": "Victoria Monroe",
+   "summary": "Wealthy wife Victoria is put under hypnosis while her husband Terry schemes with his mistress to get her money.",
+   "hypnotist": "Husband / hypnotist",
+   "gain_motive": [
+    "money"
+   ],
+   "method": "Hypnosis",
+   "categories": [
+    "index-49"
+   ],
+   "sources": [
+    {
+     "label": "WMDB",
+     "url": "https://wmdb.tv/en/movies/69fc211fa4b5a8856b250895"
+    },
+    {
+     "label": "Sassyflix",
+     "url": "https://www.sassyflix.com/movies/3260-haunting-fear"
+    }
+   ],
+   "evidence": "Two synopsis listings",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "One Step from Heaven — S4E2 \"Ghosts of the Past, Part 2\"",
+   "year": "2025",
+   "format": "tv episode",
+   "meta": "Italian series (Un passo dal cielo) · aired US 9 Oct 2025",
+   "character": "Francesca",
+   "summary": "Loose fit: pregnant Francesca is troubled by nightmares and hypnosis is suggested to help her.",
+   "method": "Suggested hypnosis therapy",
+   "categories": [
+    "medical",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "AZPM",
+     "url": "https://www.azpm.org/shows/one-step-heaven/episodes/episode-2-h56kfv"
+    }
+   ],
+   "evidence": "Episode description",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Difficult Bride",
+   "year": "2026",
+   "format": "film",
+   "meta": "Feature film",
+   "summary": "Loose fit: a bride loses control over her own body amid wedding rituals.",
+   "method": "Ritual / uncanny loss of control",
+   "categories": [
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "MUBI",
+     "url": "https://mubi.com/en/us/films/the-difficult-bride"
+    },
+    {
+     "label": "Cineuropa",
+     "url": "https://cineuropa.org/en/newsdetail/495156/"
+    }
+   ],
+   "evidence": "Festival listing and news",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "I Killed Him in My Sleep",
+   "year": "2026",
+   "format": "tv movie",
+   "meta": "Lifetime TV movie · Abigail Breslin",
+   "summary": "Loose fit: a woman in a sleep-study experiment has violent visions and fears she committed a killing while asleep.",
+   "method": "Sleep-study experiment",
+   "categories": [
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "MLive",
+     "url": "https://www.mlive.com/tv/2026/03/abigail-breslin-stars-in-i-killed-him-in-my-sleep-premiering-march-21-on-lifetime-how-to-watch.html"
+    },
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/i-killed-him-in-my-sleep/watch/"
+    }
+   ],
+   "evidence": "Premiere article and listing",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Twisted Yoga",
+   "year": "2026",
+   "format": "docuseries",
+   "meta": "Apple TV docuseries",
+   "summary": "Loose fit (documentary): adult women describe manipulation and exploitation by yoga guru Gregorian Bivolaru's movement.",
+   "hypnotist": "Guru Gregorian Bivolaru",
+   "method": "Cult coercion",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "The Guardian (review)",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/mar/13/twisted-yoga-review-tantra-apple-tv"
+    }
+   ],
+   "evidence": "Review",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Al Amma",
+   "year": "2026",
+   "format": "tv series",
+   "meta": "Iraqi series · season 2",
+   "character": "Marwa",
+   "summary": "Amjad uses magic to bring Marwa under his control.",
+   "hypnotist": "Amjad",
+   "method": "Black magic / sorcery",
+   "categories": [
+    "tantrik"
+   ],
+   "sources": [
+    {
+     "label": "elCinema",
+     "url": "https://elcinema.com/en/work/2098453/"
+    }
+   ],
+   "evidence": "Series listing",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "M3GAN 2.0",
+   "year": "2025",
+   "format": "film",
+   "meta": "Sci-fi thriller",
+   "character": "Gemma (Allison Williams)",
+   "summary": "Gemma is implanted with a chip linking her brain to AI; M3GAN is able to take control of her body.",
+   "hypnotist": "M3GAN (AI)",
+   "method": "Neural implant",
+   "categories": [
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Dread Central",
+     "url": "https://www.dreadcentral.com/editorials/541746/m3gan-2-0-or-how-we-learn-to-stop-worrying-and-trust-the-machine-fatal-femmes/"
+    }
+   ],
+   "evidence": "Editorial",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "DreamQuil",
+   "year": "2026",
+   "format": "film",
+   "meta": "Elizabeth Banks",
+   "character": "Carol",
+   "summary": "Loose fit: Carol signs up for a wellness program and an artificial double replaces her in her family's life.",
+   "method": "Wellness tech / android replacement",
+   "categories": [
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "RogerEbert.com",
+     "url": "https://www.rogerebert.com/reviews/dreamquil-elizabeth-backs-movie-review-2026"
+    },
+    {
+     "label": "Next Best Picture",
+     "url": "https://nextbestpicture.com/dreamquil/"
+    }
+   ],
+   "evidence": "Two reviews",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "I Gave Birth to His Lover's Twins",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "SodaTV vertical drama",
+   "character": "Stella",
+   "summary": "Loose fit: Stella learns her twins are not her husband's and that she was used as a surrogate for another woman.",
+   "method": "Deception",
+   "categories": [
+    "index-59"
+   ],
+   "sources": [
+    {
+     "label": "VerticalVault",
+     "url": "https://verticalvault.app/dramas/i-gave-birth-to-his-lover-s-twins-VV-234952"
+    }
+   ],
+   "evidence": "Listing synopsis",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Asambhav",
+   "year": "2025",
+   "format": "film",
+   "meta": "Marathi supernatural thriller",
+   "character": "Mansi (Mukta Barve)",
+   "summary": "Loose fit: a psychologist uses hypnotic past-life regression on Mansi to uncover memories of a past life.",
+   "hypnotist": "Dr. Satyajeet",
+   "method": "Past-life regression hypnosis",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Asambhav_(2025_film)"
+    }
+   ],
+   "evidence": "Plot summary",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Big Girls Wanted: Escaping Pearadise",
+   "year": "2026",
+   "format": "docuseries",
+   "meta": "HBO documentary",
+   "summary": "Loose fit (documentary): women recount coercion inside a community run for plus-size women.",
+   "method": "Cult-like coercion",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "HBO Max",
+     "url": "https://www.hbomax.com/es/es/show/8d95d8dd-f4df-4e53-82fb-b0e2570ad86b"
+    },
+    {
+     "label": "Apple TV",
+     "url": "https://tv.apple.com/gb/show/big-girls-wanted-escaping-pearadise/umc.cmc.6cdja9girtcqsn602aem79vrg"
+    }
+   ],
+   "evidence": "Streaming listings",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Vash Vivash Level 2 (2025)",
+   "reason": "Hypnotised schoolgirls — minors; flagged, not added"
+  },
+  {
+   "title": "Kanojo Saimin (OVA 2026)",
+   "reason": "Character ages unverified; flagged"
+  },
+  {
+   "title": "Itsudemo Saimin (VN)",
+   "reason": "Daughter hypnotized, age unstated; flagged"
+  },
+  {
+   "title": "Princess Arete",
+   "reason": "Heroine age unclear; flagged"
+  },
+  {
+   "title": "Trust Me: The False Prophet",
+   "reason": "Involves minors; flagged"
+  },
+  {
+   "title": "Kyonyuu Hitozuma Saimin Tsuugaku / Onna Kyoushi Saimin",
+   "reason": "School setting"
+  },
+  {
+   "title": "Kenny's Hypnotized Mom",
+   "reason": "Son-mother framing; adult clip site"
+  },
+  {
+   "title": "Seeds of Scarlet Longing; Pirunduk; Guna-Guna Istri Muda",
+   "reason": "Male target"
+  },
+  {
+   "title": "Demon Dancer: Sua/Nara; Secret Passions: Haunted by Her Past",
+   "reason": "Pure possession"
+  },
+  {
+   "title": "They Used Hypnosis to Steal My Fortune; Hi Tsubo no Tonari Tsuma",
+   "reason": "Not screen media"
+  }
+ ]
+}

@@ -8667,6 +8667,60 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "deep-refresh-oct30",
+   "label": "Deep refresh across all criteria (30 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/deep-refresh-oct30.json",
+   "description": "Multi-language sweep across every catalog topic, 30 Oct 2026. Adults only; non-explicit notes; every entry sourced with a confidence label.",
+   "dropped": [
+    {
+     "title": "Vash Vivash Level 2 (2025)",
+     "reason": "Hypnotised schoolgirls — minors; flagged, not added"
+    },
+    {
+     "title": "Kanojo Saimin (OVA 2026)",
+     "reason": "Character ages unverified; flagged"
+    },
+    {
+     "title": "Itsudemo Saimin (VN)",
+     "reason": "Daughter hypnotized, age unstated; flagged"
+    },
+    {
+     "title": "Princess Arete",
+     "reason": "Heroine age unclear; flagged"
+    },
+    {
+     "title": "Trust Me: The False Prophet",
+     "reason": "Involves minors; flagged"
+    },
+    {
+     "title": "Kyonyuu Hitozuma Saimin Tsuugaku / Onna Kyoushi Saimin",
+     "reason": "School setting"
+    },
+    {
+     "title": "Kenny's Hypnotized Mom",
+     "reason": "Son-mother framing; adult clip site"
+    },
+    {
+     "title": "Seeds of Scarlet Longing; Pirunduk; Guna-Guna Istri Muda",
+     "reason": "Male target"
+    },
+    {
+     "title": "Demon Dancer: Sua/Nara; Secret Passions: Haunted by Her Past",
+     "reason": "Pure possession"
+    },
+    {
+     "title": "They Used Hypnosis to Steal My Fortune; Hi Tsubo no Tonari Tsuma",
+     "reason": "Not screen media"
+    }
+   ],
+   "check": {
+    "raw_count": 12,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -8745,10 +8799,11 @@ window.CATALOG = {
   "imdb-pregnant-oct25": 1,
   "pregnant-intimate-imdb-oct25": 13,
   "hypno-kids-witness-unverified-oct25": 8,
-  "hypnosis-imdb-list-full-oct25": 482
+  "hypnosis-imdb-list-full-oct25": 482,
+  "deep-refresh-oct30": 12
  },
- "raw_total": 7095,
- "entry_count": 3560,
+ "raw_total": 7107,
+ "entry_count": 3572,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -8766,7 +8821,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 315
+   "entry_count": 316
   },
   {
    "key": "belly",
@@ -8796,13 +8851,13 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 43
+   "entry_count": 45
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 148
+   "entry_count": 149
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -8814,13 +8869,13 @@ window.CATALOG = {
    "key": "doctor-gain",
    "label": "Doctor hypnotizes female characters for personal gain",
    "legend_label": "Doctor controls female character for personal gain",
-   "entry_count": 38
+   "entry_count": 39
   },
   {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 102
+   "entry_count": 103
   },
   {
    "key": "fantasy",
@@ -8958,7 +9013,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 225
+   "entry_count": 227
   },
   {
    "key": "mom-partner-control",
@@ -9042,7 +9097,7 @@ window.CATALOG = {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
    "legend_label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 43
+   "entry_count": 44
   },
   {
    "key": "pregnancy-adjacent",
@@ -9162,7 +9217,7 @@ window.CATALOG = {
    "key": "index-49",
    "label": "Rich woman hypnotized — money / inheritance / fraud",
    "legend_label": "Rich woman hypnotized — money / inheritance / fraud",
-   "entry_count": 28
+   "entry_count": 29
   },
   {
    "key": "index-52",
@@ -9198,7 +9253,7 @@ window.CATALOG = {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 398
+   "entry_count": 400
   },
   {
    "key": "family",
@@ -9234,7 +9289,7 @@ window.CATALOG = {
    "key": "index-59",
    "label": "Surrogacy / IVF / fertility drama",
    "legend_label": "Surrogacy / IVF / fertility drama",
-   "entry_count": 21
+   "entry_count": 22
   },
   {
    "key": "index-55",
@@ -9246,7 +9301,7 @@ window.CATALOG = {
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 63
+   "entry_count": 64
   },
   {
    "key": "vampire",
@@ -544224,6 +544279,935 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 3754,
+   "title": "Hitozuma Saimin Counseling",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Adult visual novel · Interheart Glossy",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A counselor hypnotizes married adult female clients who come to him for counseling.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Counselor Narita",
+   "method": "Hypnosis during counseling",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "VNDB entry",
+   "adult": "yes (18+ VN; non-explicit note)",
+   "format": "visual novel",
+   "categories": [
+    "adult-hypnosis",
+    "doctor-gain"
+   ],
+   "sources": [
+    {
+     "label": "VNDB",
+     "url": "https://vndb.org/v22293"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:1": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes (18+ VN; non-explicit note)",
+     "title": "Hitozuma Saimin Counseling",
+     "year": "2018",
+     "format": "visual novel",
+     "meta": "Adult visual novel · Interheart Glossy",
+     "summary": "A counselor hypnotizes married adult female clients who come to him for counseling.",
+     "hypnotist": "Counselor Narita",
+     "method": "Hypnosis during counseling",
+     "categories": [
+      "adult-hypnosis",
+      "doctor-gain"
+     ],
+     "sources": [
+      {
+       "label": "VNDB",
+       "url": "https://vndb.org/v22293"
+      }
+     ],
+     "evidence": "VNDB entry",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3755,
+   "title": "Haunting Fear",
+   "subtitle": "",
+   "year": "1990",
+   "meta": "Horror film · dir. Fred Olen Ray",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Wealthy wife Victoria is put under hypnosis while her husband Terry schemes with his mistress to get her money.",
+   "character": "Victoria Monroe",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Husband / hypnotist",
+   "gain_motive": [
+    "money"
+   ],
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Two synopsis listings",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "index-49"
+   ],
+   "sources": [
+    {
+     "label": "WMDB",
+     "url": "https://wmdb.tv/en/movies/69fc211fa4b5a8856b250895"
+    },
+    {
+     "label": "Sassyflix",
+     "url": "https://www.sassyflix.com/movies/3260-haunting-fear"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:2": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Haunting Fear",
+     "year": "1990",
+     "format": "film",
+     "meta": "Horror film · dir. Fred Olen Ray",
+     "character": "Victoria Monroe",
+     "summary": "Wealthy wife Victoria is put under hypnosis while her husband Terry schemes with his mistress to get her money.",
+     "hypnotist": "Husband / hypnotist",
+     "gain_motive": [
+      "money"
+     ],
+     "method": "Hypnosis",
+     "categories": [
+      "index-49"
+     ],
+     "sources": [
+      {
+       "label": "WMDB",
+       "url": "https://wmdb.tv/en/movies/69fc211fa4b5a8856b250895"
+      },
+      {
+       "label": "Sassyflix",
+       "url": "https://www.sassyflix.com/movies/3260-haunting-fear"
+      }
+     ],
+     "evidence": "Two synopsis listings",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3756,
+   "title": "One Step from Heaven — S4E2 \"Ghosts of the Past, Part 2\"",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Italian series (Un passo dal cielo) · aired US 9 Oct 2025",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: pregnant Francesca is troubled by nightmares and hypnosis is suggested to help her.",
+   "character": "Francesca",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Suggested hypnosis therapy",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Episode description",
+   "adult": "no",
+   "format": "tv episode",
+   "categories": [
+    "medical",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "AZPM",
+     "url": "https://www.azpm.org/shows/one-step-heaven/episodes/episode-2-h56kfv"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:3": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "One Step from Heaven — S4E2 \"Ghosts of the Past, Part 2\"",
+     "year": "2025",
+     "format": "tv episode",
+     "meta": "Italian series (Un passo dal cielo) · aired US 9 Oct 2025",
+     "character": "Francesca",
+     "summary": "Loose fit: pregnant Francesca is troubled by nightmares and hypnosis is suggested to help her.",
+     "method": "Suggested hypnosis therapy",
+     "categories": [
+      "medical",
+      "pregnant-variants"
+     ],
+     "sources": [
+      {
+       "label": "AZPM",
+       "url": "https://www.azpm.org/shows/one-step-heaven/episodes/episode-2-h56kfv"
+      }
+     ],
+     "evidence": "Episode description",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3757,
+   "title": "The Difficult Bride",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Feature film",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: a bride loses control over her own body amid wedding rituals.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Ritual / uncanny loss of control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Festival listing and news",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "MUBI",
+     "url": "https://mubi.com/en/us/films/the-difficult-bride"
+    },
+    {
+     "label": "Cineuropa",
+     "url": "https://cineuropa.org/en/newsdetail/495156/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:4": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Difficult Bride",
+     "year": "2026",
+     "format": "film",
+     "meta": "Feature film",
+     "summary": "Loose fit: a bride loses control over her own body amid wedding rituals.",
+     "method": "Ritual / uncanny loss of control",
+     "categories": [
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "MUBI",
+       "url": "https://mubi.com/en/us/films/the-difficult-bride"
+      },
+      {
+       "label": "Cineuropa",
+       "url": "https://cineuropa.org/en/newsdetail/495156/"
+      }
+     ],
+     "evidence": "Festival listing and news",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3758,
+   "title": "I Killed Him in My Sleep",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Lifetime TV movie · Abigail Breslin",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: a woman in a sleep-study experiment has violent visions and fears she committed a killing while asleep.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Sleep-study experiment",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Premiere article and listing",
+   "adult": "no",
+   "format": "tv movie",
+   "categories": [
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "MLive",
+     "url": "https://www.mlive.com/tv/2026/03/abigail-breslin-stars-in-i-killed-him-in-my-sleep-premiering-march-21-on-lifetime-how-to-watch.html"
+    },
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/i-killed-him-in-my-sleep/watch/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:5": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "I Killed Him in My Sleep",
+     "year": "2026",
+     "format": "tv movie",
+     "meta": "Lifetime TV movie · Abigail Breslin",
+     "summary": "Loose fit: a woman in a sleep-study experiment has violent visions and fears she committed a killing while asleep.",
+     "method": "Sleep-study experiment",
+     "categories": [
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "MLive",
+       "url": "https://www.mlive.com/tv/2026/03/abigail-breslin-stars-in-i-killed-him-in-my-sleep-premiering-march-21-on-lifetime-how-to-watch.html"
+      },
+      {
+       "label": "Letterboxd",
+       "url": "https://letterboxd.com/film/i-killed-him-in-my-sleep/watch/"
+      }
+     ],
+     "evidence": "Premiere article and listing",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3759,
+   "title": "Twisted Yoga",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Apple TV docuseries",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit (documentary): adult women describe manipulation and exploitation by yoga guru Gregorian Bivolaru's movement.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Guru Gregorian Bivolaru",
+   "method": "Cult coercion",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Review",
+   "adult": "no",
+   "format": "docuseries",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "The Guardian (review)",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/mar/13/twisted-yoga-review-tantra-apple-tv"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:6": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Twisted Yoga",
+     "year": "2026",
+     "format": "docuseries",
+     "meta": "Apple TV docuseries",
+     "summary": "Loose fit (documentary): adult women describe manipulation and exploitation by yoga guru Gregorian Bivolaru's movement.",
+     "hypnotist": "Guru Gregorian Bivolaru",
+     "method": "Cult coercion",
+     "categories": [
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "The Guardian (review)",
+       "url": "https://www.theguardian.com/tv-and-radio/2026/mar/13/twisted-yoga-review-tantra-apple-tv"
+      }
+     ],
+     "evidence": "Review",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3760,
+   "title": "Al Amma",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Iraqi series · season 2",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Amjad uses magic to bring Marwa under his control.",
+   "character": "Marwa",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Amjad",
+   "method": "Black magic / sorcery",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Series listing",
+   "adult": "no",
+   "format": "tv series",
+   "categories": [
+    "tantrik"
+   ],
+   "sources": [
+    {
+     "label": "elCinema",
+     "url": "https://elcinema.com/en/work/2098453/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:7": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Al Amma",
+     "year": "2026",
+     "format": "tv series",
+     "meta": "Iraqi series · season 2",
+     "character": "Marwa",
+     "summary": "Amjad uses magic to bring Marwa under his control.",
+     "hypnotist": "Amjad",
+     "method": "Black magic / sorcery",
+     "categories": [
+      "tantrik"
+     ],
+     "sources": [
+      {
+       "label": "elCinema",
+       "url": "https://elcinema.com/en/work/2098453/"
+      }
+     ],
+     "evidence": "Series listing",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3761,
+   "title": "M3GAN 2.0",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Sci-fi thriller",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Gemma is implanted with a chip linking her brain to AI; M3GAN is able to take control of her body.",
+   "character": "Gemma (Allison Williams)",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "M3GAN (AI)",
+   "method": "Neural implant",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Editorial",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Dread Central",
+     "url": "https://www.dreadcentral.com/editorials/541746/m3gan-2-0-or-how-we-learn-to-stop-worrying-and-trust-the-machine-fatal-femmes/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:8": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "M3GAN 2.0",
+     "year": "2025",
+     "format": "film",
+     "meta": "Sci-fi thriller",
+     "character": "Gemma (Allison Williams)",
+     "summary": "Gemma is implanted with a chip linking her brain to AI; M3GAN is able to take control of her body.",
+     "hypnotist": "M3GAN (AI)",
+     "method": "Neural implant",
+     "categories": [
+      "scifi"
+     ],
+     "sources": [
+      {
+       "label": "Dread Central",
+       "url": "https://www.dreadcentral.com/editorials/541746/m3gan-2-0-or-how-we-learn-to-stop-worrying-and-trust-the-machine-fatal-femmes/"
+      }
+     ],
+     "evidence": "Editorial",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3762,
+   "title": "DreamQuil",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Elizabeth Banks",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: Carol signs up for a wellness program and an artificial double replaces her in her family's life.",
+   "character": "Carol",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Wellness tech / android replacement",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Two reviews",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "RogerEbert.com",
+     "url": "https://www.rogerebert.com/reviews/dreamquil-elizabeth-backs-movie-review-2026"
+    },
+    {
+     "label": "Next Best Picture",
+     "url": "https://nextbestpicture.com/dreamquil/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:9": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "DreamQuil",
+     "year": "2026",
+     "format": "film",
+     "meta": "Elizabeth Banks",
+     "character": "Carol",
+     "summary": "Loose fit: Carol signs up for a wellness program and an artificial double replaces her in her family's life.",
+     "method": "Wellness tech / android replacement",
+     "categories": [
+      "scifi"
+     ],
+     "sources": [
+      {
+       "label": "RogerEbert.com",
+       "url": "https://www.rogerebert.com/reviews/dreamquil-elizabeth-backs-movie-review-2026"
+      },
+      {
+       "label": "Next Best Picture",
+       "url": "https://nextbestpicture.com/dreamquil/"
+      }
+     ],
+     "evidence": "Two reviews",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3763,
+   "title": "I Gave Birth to His Lover's Twins",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "SodaTV vertical drama",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: Stella learns her twins are not her husband's and that she was used as a surrogate for another woman.",
+   "character": "Stella",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Deception",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Listing synopsis",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "index-59"
+   ],
+   "sources": [
+    {
+     "label": "VerticalVault",
+     "url": "https://verticalvault.app/dramas/i-gave-birth-to-his-lover-s-twins-VV-234952"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:10": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "I Gave Birth to His Lover's Twins",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "SodaTV vertical drama",
+     "character": "Stella",
+     "summary": "Loose fit: Stella learns her twins are not her husband's and that she was used as a surrogate for another woman.",
+     "method": "Deception",
+     "categories": [
+      "index-59"
+     ],
+     "sources": [
+      {
+       "label": "VerticalVault",
+       "url": "https://verticalvault.app/dramas/i-gave-birth-to-his-lover-s-twins-VV-234952"
+      }
+     ],
+     "evidence": "Listing synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3764,
+   "title": "Asambhav",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Marathi supernatural thriller",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: a psychologist uses hypnotic past-life regression on Mansi to uncover memories of a past life.",
+   "character": "Mansi (Mukta Barve)",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Dr. Satyajeet",
+   "method": "Past-life regression hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Plot summary",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Asambhav_(2025_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:11": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Asambhav",
+     "year": "2025",
+     "format": "film",
+     "meta": "Marathi supernatural thriller",
+     "character": "Mansi (Mukta Barve)",
+     "summary": "Loose fit: a psychologist uses hypnotic past-life regression on Mansi to uncover memories of a past life.",
+     "hypnotist": "Dr. Satyajeet",
+     "method": "Past-life regression hypnosis",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Asambhav_(2025_film)"
+      }
+     ],
+     "evidence": "Plot summary",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3765,
+   "title": "Big Girls Wanted: Escaping Pearadise",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "HBO documentary",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit (documentary): women recount coercion inside a community run for plus-size women.",
+   "character": "",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Cult-like coercion",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Streaming listings",
+   "adult": "no",
+   "format": "docuseries",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "HBO Max",
+     "url": "https://www.hbomax.com/es/es/show/8d95d8dd-f4df-4e53-82fb-b0e2570ad86b"
+    },
+    {
+     "label": "Apple TV",
+     "url": "https://tv.apple.com/gb/show/big-girls-wanted-escaping-pearadise/umc.cmc.6cdja9girtcqsn602aem79vrg"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:12": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Big Girls Wanted: Escaping Pearadise",
+     "year": "2026",
+     "format": "docuseries",
+     "meta": "HBO documentary",
+     "summary": "Loose fit (documentary): women recount coercion inside a community run for plus-size women.",
+     "method": "Cult-like coercion",
+     "categories": [
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "HBO Max",
+       "url": "https://www.hbomax.com/es/es/show/8d95d8dd-f4df-4e53-82fb-b0e2570ad86b"
+      },
+      {
+       "label": "Apple TV",
+       "url": "https://tv.apple.com/gb/show/big-girls-wanted-escaping-pearadise/umc.cmc.6cdja9girtcqsn602aem79vrg"
+      }
+     ],
+     "evidence": "Streaming listings",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -544711,7 +545695,8 @@ window.CATALOG = {
     "adult-fanmade-oct15",
     "deep-refresh-oct18",
     "deep-oct24",
-    "hypnosis-deep-oct25c"
+    "hypnosis-deep-oct25c",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -548501,6 +549486,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3754,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3321,
        "from_source": "deep-refresh-oct18"
       },
@@ -548635,7 +549624,8 @@ window.CATALOG = {
     "adult-fanmade-oct15": null,
     "deep-refresh-oct18": null,
     "deep-oct24": null,
-    "hypnosis-deep-oct25c": null
+    "hypnosis-deep-oct25c": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -549412,7 +550402,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25",
     "hypnosis-deep-oct25b",
     "hypnosis-deep-oct25c",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -549676,6 +550667,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3765,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3253,
        "from_source": "deep-refresh-oct18"
       },
@@ -549698,6 +550693,10 @@ window.CATALOG = {
       {
        "id": 3252,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3759,
+       "from_source": "deep-refresh-oct30"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -549785,7 +550784,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25": null,
     "hypnosis-deep-oct25b": null,
     "hypnosis-deep-oct25c": null,
-    "hypnosis-imdb-list-full-oct25": null
+    "hypnosis-imdb-list-full-oct25": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -549814,7 +550814,8 @@ window.CATALOG = {
     "youtube-india-oct15",
     "deep-refresh-oct18",
     "deep-oct24",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -550680,6 +551681,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3757,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3274,
        "from_source": "deep-refresh-oct18"
       },
@@ -550865,7 +551870,8 @@ window.CATALOG = {
     "youtube-india-oct15": null,
     "deep-refresh-oct18": null,
     "deep-oct24": null,
-    "hypnosis-imdb-list-full-oct25": null
+    "hypnosis-imdb-list-full-oct25": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -550911,7 +551917,8 @@ window.CATALOG = {
     "round3",
     "deep-gap-oct15",
     "youtube-deep-oct15",
-    "deep-oct24"
+    "deep-oct24",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -551264,6 +552271,10 @@ window.CATALOG = {
        "from_source": "deep-gap-oct15"
       },
       {
+       "id": 3754,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3118,
        "from_source": "deep-gap-oct15"
       },
@@ -551313,7 +552324,8 @@ window.CATALOG = {
     "round3": null,
     "deep-gap-oct15": null,
     "youtube-deep-oct15": null,
-    "deep-oct24": null
+    "deep-oct24": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -551343,7 +552355,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25c",
     "hypno-kids-witness-oct25",
     "hypno-kids-witness-unverified-oct25",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -551642,6 +552655,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3758,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3302,
        "from_source": "deep-refresh-oct18"
       },
@@ -551909,7 +552926,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25c": null,
     "hypno-kids-witness-oct25": null,
     "hypno-kids-witness-unverified-oct25": null,
-    "hypnosis-imdb-list-full-oct25": null
+    "hypnosis-imdb-list-full-oct25": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -571671,7 +572689,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25b",
     "hypno-pregnant-yt-oct25",
     "hypno-kids-witness-oct25",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -573114,6 +574133,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3764,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3120,
        "from_source": "deep-gap-oct15"
       },
@@ -573136,6 +574159,10 @@ window.CATALOG = {
       {
        "id": 3329,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3756,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3268,
@@ -573487,7 +574514,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25b": null,
     "hypno-pregnant-yt-oct25": null,
     "hypno-kids-witness-oct25": null,
-    "hypnosis-imdb-list-full-oct25": null
+    "hypnosis-imdb-list-full-oct25": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -581197,13 +582225,15 @@ window.CATALOG = {
     "round3",
     "youtube-deep-oct15",
     "youtube-india-oct15",
-    "hypno-pregnant-yt-oct25"
+    "hypno-pregnant-yt-oct25",
+    "deep-refresh-oct30"
    ],
    "declared_count_by_source": {
     "round3": null,
     "youtube-deep-oct15": null,
     "youtube-india-oct15": null,
-    "hypno-pregnant-yt-oct25": null
+    "hypno-pregnant-yt-oct25": null,
+    "deep-refresh-oct30": null
    },
    "groups": [
     {
@@ -581257,6 +582287,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypno-pregnant-yt-oct25"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3756,
+       "from_source": "deep-refresh-oct30"
+      }
+     ],
+     "from_source": "deep-refresh-oct30"
     }
    ]
   },
@@ -586771,7 +587812,8 @@ window.CATALOG = {
     "hypnotized-female-oct15",
     "deep-gap-oct15",
     "deep-refresh-oct18",
-    "weekly-oct19"
+    "weekly-oct19",
+    "deep-refresh-oct30"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 9,
@@ -586779,7 +587821,8 @@ window.CATALOG = {
     "hypnotized-female-oct15": null,
     "deep-gap-oct15": null,
     "deep-refresh-oct18": null,
-    "weekly-oct19": null
+    "weekly-oct19": null,
+    "deep-refresh-oct30": null
    },
    "groups": [
     {
@@ -586950,6 +587993,10 @@ window.CATALOG = {
       {
        "id": 3274,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3755,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3328,
@@ -587366,7 +588413,8 @@ window.CATALOG = {
     "hypnotized-female-oct15",
     "youtube-deep-oct15",
     "deep-oct24",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -591748,6 +592796,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3762,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3761,
+       "from_source": "deep-refresh-oct30"
+      }
+     ],
+     "from_source": "deep-refresh-oct30"
     }
    ],
    "declared_count_by_source": {
@@ -591766,7 +592829,8 @@ window.CATALOG = {
     "hypnotized-female-oct15": null,
     "youtube-deep-oct15": null,
     "deep-oct24": null,
-    "hypnosis-imdb-list-full-oct25": null
+    "hypnosis-imdb-list-full-oct25": null,
+    "deep-refresh-oct30": null
    }
   },
   {
@@ -594440,13 +595504,15 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "pregnant-yt-oct15",
     "pregnancy-yt-oct15",
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "deep-refresh-oct30"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 4,
     "pregnant-yt-oct15": null,
     "pregnancy-yt-oct15": null,
-    "deep-refresh-oct18": null
+    "deep-refresh-oct18": null,
+    "deep-refresh-oct30": null
    },
    "groups": [
     {
@@ -594514,6 +595580,10 @@ window.CATALOG = {
       {
        "id": 3258,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3763,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3255,
@@ -594622,7 +595692,8 @@ window.CATALOG = {
     "indonesia-sinetron-oct15",
     "hypnosis-yt-oct15",
     "youtube-india-oct15",
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "deep-refresh-oct30"
    ],
    "groups": [
     {
@@ -595220,6 +596291,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3760,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3270,
        "from_source": "deep-refresh-oct18"
       }
@@ -595241,7 +596316,8 @@ window.CATALOG = {
     "indonesia-sinetron-oct15": null,
     "hypnosis-yt-oct15": null,
     "youtube-india-oct15": null,
-    "deep-refresh-oct18": null
+    "deep-refresh-oct18": null,
+    "deep-refresh-oct30": null
    }
   },
   {
