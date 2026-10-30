@@ -1180,6 +1180,194 @@
    "tags": [
     "loose fit"
    ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Beyond Mamushi",
+   "year": "2026",
+   "format": "short film (49 min)",
+   "meta": "Dir. M. W. Daniels · Corina Jayne, Jemma Thompson",
+   "character": "Kate Andrews",
+   "summary": "Loose fit: a fragile patient's psychiatrist, whose methods are questionable, tells her the way to end her troubled marriage is to kill her husband.",
+   "hypnotist": "Dr. Ama Mamushi (psychiatrist)",
+   "method": "Therapeutic manipulation",
+   "categories": [
+    "medical",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "FilmNerd",
+     "url": "https://www.film-nerd.com/beyond-mamushi-2026/"
+    }
+   ],
+   "evidence": "Review with synopsis",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (adult game; non-explicit note)",
+   "title": "Sisters x Lovers",
+   "year": "2026",
+   "format": "visual novel",
+   "meta": "Steam app 3988440 · Steam release of Sisters Hypnosis Sex 2 (2023)",
+   "character": "Mai Miura (married woman)",
+   "summary": "A married woman seeking relaxation therapy is gradually altered by a clinic masseur's hypnotic massage; choice-based with multiple endings.",
+   "hypnotist": "Kentaro Iijima",
+   "method": "Hypnotic massage",
+   "categories": [
+    "adult-hypnosis",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "Steam",
+     "url": "https://store.steampowered.com/app/3988440/Sisters_x_Lovers/"
+    },
+    {
+     "label": "KinkyGames",
+     "url": "https://kinkygames.io/games/3988440-sisters-x-lovers/"
+    }
+   ],
+   "evidence": "Store listing (age-gated, read via search) plus database",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "My Child Has My Doctor's Face",
+   "year": "2026",
+   "format": "TV movie",
+   "meta": "Lifetime / Netflix · Dir. Joshua Butler · Natalie Polisson",
+   "character": "Jessica Graff",
+   "summary": "Loose fit: IVF mothers discover their fertility doctor, obsessed with his own legacy, may have secretly used his own genetic material.",
+   "hypnotist": "Dr. Preston Bellamy",
+   "method": "Medical fraud (no hypnosis)",
+   "categories": [
+    "medical",
+    "adopt-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Netflix Tudum",
+     "url": "https://www.netflix.com/tudum/articles/my-child-has-my-doctors-face-release-date-cast-true-story-news"
+    }
+   ],
+   "evidence": "Platform article",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (adult game; non-explicit note)",
+   "title": "Undercover Agent Sylviana's Pretend to Be Hypnotized is About to Be Discovered",
+   "year": "2026",
+   "format": "adult RPG",
+   "meta": "Sanoya · RPG Maker · English (machine translation)",
+   "character": "Agent Sylviana",
+   "summary": "A spy infiltrating a cosmetics firm sees volunteer women hypnotized by a sound device; she escapes its effect and must pretend to be under control.",
+   "method": "Hypnosis Speaker device",
+   "categories": [
+    "adult-hypnosis",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "GamingPleasure",
+     "url": "https://gamingpleasure.com/game/undercover-agent-sylvianas-pretend-to-be-hypnotized-is-about-to-be-discovered-sanoya"
+    }
+   ],
+   "evidence": "Database listing with developer description",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Latency",
+   "year": "2024",
+   "format": "film",
+   "meta": "Lionsgate · Dir. James Croke · Sasha Luss",
+   "character": "Hana",
+   "summary": "Loose fit: a gamer's brain-synced headset learns her memories and fears and increasingly controls her perception and actions.",
+   "hypnotist": "CNEX Omnia (AI device)",
+   "method": "Brain-computer interface",
+   "categories": [
+    "tech",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Wherever I Look",
+     "url": "https://wherever-i-look.com/movies/reviews/latency-2024"
+    },
+    {
+     "label": "YouTube (trailer)",
+     "url": "https://www.youtube.com/watch?v=x0kpShzQmrw"
+    }
+   ],
+   "evidence": "Review plus trailer",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Sirens",
+   "year": "2025",
+   "format": "limited series (5 eps)",
+   "meta": "Netflix · Julianne Moore, Meghann Fahy, Milly Alcock",
+   "character": "Simone",
+   "summary": "Loose fit: a woman tries to pull her adult sister away from a wealthy socialite whose cult-like hold dominates her life on an island estate.",
+   "hypnotist": "Michaela 'Kiki' Kell",
+   "method": "Charismatic control",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/tv/sirens_2025/s01"
+    },
+    {
+     "label": "RNZ",
+     "url": "https://www.rnz.co.nz/life/screens/tv/sirens-the-dark-psychology-of-how-people-really-get-drawn-into-cults"
+    }
+   ],
+   "evidence": "Listing plus article",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
   }
  ],
  "dropped": [
@@ -1290,6 +1478,50 @@
   {
    "title": "Le Fanu's Carmilla",
    "reason": "Seduction, not control; age unclear"
+  },
+  {
+   "title": "Mala (2026)",
+   "reason": "Curse/folklore, no control of a woman shown"
+  },
+  {
+   "title": "Lutrum Putrum (Siyah)",
+   "reason": "Spirit possession"
+  },
+  {
+   "title": "Reverse (2026)",
+   "reason": "Recall hypnosis only"
+  },
+  {
+   "title": "Morpheus (2026)",
+   "reason": "Self-installed, no controller"
+  },
+  {
+   "title": "Vashikaran (Bengali YouTube 2026)",
+   "reason": "Entity control / possession-like, thin source"
+  },
+  {
+   "title": "Surviving My Father: The Rachel Jeffs Story",
+   "reason": "FLAG minors (childhood abuse central)"
+  },
+  {
+   "title": "The Bride (Co dau ma)",
+   "reason": "Possession"
+  },
+  {
+   "title": "Lintrik: Ilmu Pemikat",
+   "reason": "Male target"
+  },
+  {
+   "title": "Secret Gayuma Recipe",
+   "reason": "Male target"
+  },
+  {
+   "title": "OVA Kanojo Saimin 2026",
+   "reason": "FLAG possible minors"
+  },
+  {
+   "title": "Corrupted Mage",
+   "reason": "Ages unverified"
   }
  ]
 }

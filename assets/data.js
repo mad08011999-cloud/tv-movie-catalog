@@ -8782,10 +8782,54 @@ window.CATALOG = {
     {
      "title": "Le Fanu's Carmilla",
      "reason": "Seduction, not control; age unclear"
+    },
+    {
+     "title": "Mala (2026)",
+     "reason": "Curse/folklore, no control of a woman shown"
+    },
+    {
+     "title": "Lutrum Putrum (Siyah)",
+     "reason": "Spirit possession"
+    },
+    {
+     "title": "Reverse (2026)",
+     "reason": "Recall hypnosis only"
+    },
+    {
+     "title": "Morpheus (2026)",
+     "reason": "Self-installed, no controller"
+    },
+    {
+     "title": "Vashikaran (Bengali YouTube 2026)",
+     "reason": "Entity control / possession-like, thin source"
+    },
+    {
+     "title": "Surviving My Father: The Rachel Jeffs Story",
+     "reason": "FLAG minors (childhood abuse central)"
+    },
+    {
+     "title": "The Bride (Co dau ma)",
+     "reason": "Possession"
+    },
+    {
+     "title": "Lintrik: Ilmu Pemikat",
+     "reason": "Male target"
+    },
+    {
+     "title": "Secret Gayuma Recipe",
+     "reason": "Male target"
+    },
+    {
+     "title": "OVA Kanojo Saimin 2026",
+     "reason": "FLAG possible minors"
+    },
+    {
+     "title": "Corrupted Mage",
+     "reason": "Ages unverified"
     }
    ],
    "check": {
-    "raw_count": 39,
+    "raw_count": 45,
     "ok": true
    },
    "status": "local"
@@ -8868,16 +8912,16 @@ window.CATALOG = {
   "pregnant-intimate-imdb-oct25": 13,
   "hypno-kids-witness-unverified-oct25": 8,
   "hypnosis-imdb-list-full-oct25": 482,
-  "deep-refresh-oct30": 39
+  "deep-refresh-oct30": 45
  },
- "raw_total": 7134,
- "entry_count": 3597,
+ "raw_total": 7140,
+ "entry_count": 3603,
  "categories": [
   {
    "key": "adopt-pregnancy",
    "label": "Adopt a child, then become pregnant",
    "legend_label": "Adopt a child, then become pregnant",
-   "entry_count": 32
+   "entry_count": 33
   },
   {
    "key": "index-64",
@@ -8889,7 +8933,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 321
+   "entry_count": 323
   },
   {
    "key": "belly",
@@ -8919,7 +8963,7 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 48
+   "entry_count": 49
   },
   {
    "key": "occult",
@@ -8943,7 +8987,7 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 104
+   "entry_count": 106
   },
   {
    "key": "fantasy",
@@ -9009,7 +9053,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 115
+   "entry_count": 116
   },
   {
    "key": "index-54",
@@ -9081,7 +9125,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 231
+   "entry_count": 233
   },
   {
    "key": "mom-partner-control",
@@ -9321,7 +9365,7 @@ window.CATALOG = {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 401
+   "entry_count": 402
   },
   {
    "key": "family",
@@ -9405,7 +9449,7 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 133
+   "entry_count": 134
   },
   {
    "key": "therapist-wife",
@@ -547396,6 +547440,488 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 3791,
+   "title": "Beyond Mamushi",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Dir. M. W. Daniels · Corina Jayne, Jemma Thompson",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: a fragile patient's psychiatrist, whose methods are questionable, tells her the way to end her troubled marriage is to kill her husband.",
+   "character": "Kate Andrews",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Dr. Ama Mamushi (psychiatrist)",
+   "method": "Therapeutic manipulation",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Review with synopsis",
+   "adult": "no",
+   "format": "short film (49 min)",
+   "categories": [
+    "medical",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "FilmNerd",
+     "url": "https://www.film-nerd.com/beyond-mamushi-2026/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:40"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:40": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Beyond Mamushi",
+     "year": "2026",
+     "format": "short film (49 min)",
+     "meta": "Dir. M. W. Daniels · Corina Jayne, Jemma Thompson",
+     "character": "Kate Andrews",
+     "summary": "Loose fit: a fragile patient's psychiatrist, whose methods are questionable, tells her the way to end her troubled marriage is to kill her husband.",
+     "hypnotist": "Dr. Ama Mamushi (psychiatrist)",
+     "method": "Therapeutic manipulation",
+     "categories": [
+      "medical",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "FilmNerd",
+       "url": "https://www.film-nerd.com/beyond-mamushi-2026/"
+      }
+     ],
+     "evidence": "Review with synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3792,
+   "title": "Sisters x Lovers",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Steam app 3988440 · Steam release of Sisters Hypnosis Sex 2 (2023)",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A married woman seeking relaxation therapy is gradually altered by a clinic masseur's hypnotic massage; choice-based with multiple endings.",
+   "character": "Mai Miura (married woman)",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Kentaro Iijima",
+   "method": "Hypnotic massage",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Store listing (age-gated, read via search) plus database",
+   "adult": "yes (adult game; non-explicit note)",
+   "format": "visual novel",
+   "categories": [
+    "adult-hypnosis",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "Steam",
+     "url": "https://store.steampowered.com/app/3988440/Sisters_x_Lovers/"
+    },
+    {
+     "label": "KinkyGames",
+     "url": "https://kinkygames.io/games/3988440-sisters-x-lovers/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:41"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:41": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes (adult game; non-explicit note)",
+     "title": "Sisters x Lovers",
+     "year": "2026",
+     "format": "visual novel",
+     "meta": "Steam app 3988440 · Steam release of Sisters Hypnosis Sex 2 (2023)",
+     "character": "Mai Miura (married woman)",
+     "summary": "A married woman seeking relaxation therapy is gradually altered by a clinic masseur's hypnotic massage; choice-based with multiple endings.",
+     "hypnotist": "Kentaro Iijima",
+     "method": "Hypnotic massage",
+     "categories": [
+      "adult-hypnosis",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/3988440/Sisters_x_Lovers/"
+      },
+      {
+       "label": "KinkyGames",
+       "url": "https://kinkygames.io/games/3988440-sisters-x-lovers/"
+      }
+     ],
+     "evidence": "Store listing (age-gated, read via search) plus database",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3793,
+   "title": "My Child Has My Doctor's Face",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Lifetime / Netflix · Dir. Joshua Butler · Natalie Polisson",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Loose fit: IVF mothers discover their fertility doctor, obsessed with his own legacy, may have secretly used his own genetic material.",
+   "character": "Jessica Graff",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Dr. Preston Bellamy",
+   "method": "Medical fraud (no hypnosis)",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Platform article",
+   "adult": "no",
+   "format": "TV movie",
+   "categories": [
+    "medical",
+    "adopt-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Netflix Tudum",
+     "url": "https://www.netflix.com/tudum/articles/my-child-has-my-doctors-face-release-date-cast-true-story-news"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:42"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:42": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "My Child Has My Doctor's Face",
+     "year": "2026",
+     "format": "TV movie",
+     "meta": "Lifetime / Netflix · Dir. Joshua Butler · Natalie Polisson",
+     "character": "Jessica Graff",
+     "summary": "Loose fit: IVF mothers discover their fertility doctor, obsessed with his own legacy, may have secretly used his own genetic material.",
+     "hypnotist": "Dr. Preston Bellamy",
+     "method": "Medical fraud (no hypnosis)",
+     "categories": [
+      "medical",
+      "adopt-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Netflix Tudum",
+       "url": "https://www.netflix.com/tudum/articles/my-child-has-my-doctors-face-release-date-cast-true-story-news"
+      }
+     ],
+     "evidence": "Platform article",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3794,
+   "title": "Undercover Agent Sylviana's Pretend to Be Hypnotized is About to Be Discovered",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Sanoya · RPG Maker · English (machine translation)",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A spy infiltrating a cosmetics firm sees volunteer women hypnotized by a sound device; she escapes its effect and must pretend to be under control.",
+   "character": "Agent Sylviana",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "method": "Hypnosis Speaker device",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database listing with developer description",
+   "adult": "yes (adult game; non-explicit note)",
+   "format": "adult RPG",
+   "categories": [
+    "adult-hypnosis",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "GamingPleasure",
+     "url": "https://gamingpleasure.com/game/undercover-agent-sylvianas-pretend-to-be-hypnotized-is-about-to-be-discovered-sanoya"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:43"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:43": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes (adult game; non-explicit note)",
+     "title": "Undercover Agent Sylviana's Pretend to Be Hypnotized is About to Be Discovered",
+     "year": "2026",
+     "format": "adult RPG",
+     "meta": "Sanoya · RPG Maker · English (machine translation)",
+     "character": "Agent Sylviana",
+     "summary": "A spy infiltrating a cosmetics firm sees volunteer women hypnotized by a sound device; she escapes its effect and must pretend to be under control.",
+     "method": "Hypnosis Speaker device",
+     "categories": [
+      "adult-hypnosis",
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "GamingPleasure",
+       "url": "https://gamingpleasure.com/game/undercover-agent-sylvianas-pretend-to-be-hypnotized-is-about-to-be-discovered-sanoya"
+      }
+     ],
+     "evidence": "Database listing with developer description",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3795,
+   "title": "Latency",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Lionsgate · Dir. James Croke · Sasha Luss",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: a gamer's brain-synced headset learns her memories and fears and increasingly controls her perception and actions.",
+   "character": "Hana",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "CNEX Omnia (AI device)",
+   "method": "Brain-computer interface",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Review plus trailer",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "tech",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Wherever I Look",
+     "url": "https://wherever-i-look.com/movies/reviews/latency-2024"
+    },
+    {
+     "label": "YouTube (trailer)",
+     "url": "https://www.youtube.com/watch?v=x0kpShzQmrw"
+    }
+   ],
+   "youtube_ids": [
+    "x0kpShzQmrw"
+   ],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:44"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/x0kpShzQmrw.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:44": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Latency",
+     "year": "2024",
+     "format": "film",
+     "meta": "Lionsgate · Dir. James Croke · Sasha Luss",
+     "character": "Hana",
+     "summary": "Loose fit: a gamer's brain-synced headset learns her memories and fears and increasingly controls her perception and actions.",
+     "hypnotist": "CNEX Omnia (AI device)",
+     "method": "Brain-computer interface",
+     "categories": [
+      "tech",
+      "scifi"
+     ],
+     "sources": [
+      {
+       "label": "Wherever I Look",
+       "url": "https://wherever-i-look.com/movies/reviews/latency-2024"
+      },
+      {
+       "label": "YouTube (trailer)",
+       "url": "https://www.youtube.com/watch?v=x0kpShzQmrw"
+      }
+     ],
+     "evidence": "Review plus trailer",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3796,
+   "title": "Sirens",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Netflix · Julianne Moore, Meghann Fahy, Milly Alcock",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: a woman tries to pull her adult sister away from a wealthy socialite whose cult-like hold dominates her life on an island estate.",
+   "character": "Simone",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Michaela 'Kiki' Kell",
+   "method": "Charismatic control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Listing plus article",
+   "adult": "no",
+   "format": "limited series (5 eps)",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/tv/sirens_2025/s01"
+    },
+    {
+     "label": "RNZ",
+     "url": "https://www.rnz.co.nz/life/screens/tv/sirens-the-dark-psychology-of-how-people-really-get-drawn-into-cults"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:45"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:45": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Sirens",
+     "year": "2025",
+     "format": "limited series (5 eps)",
+     "meta": "Netflix · Julianne Moore, Meghann Fahy, Milly Alcock",
+     "character": "Simone",
+     "summary": "Loose fit: a woman tries to pull her adult sister away from a wealthy socialite whose cult-like hold dominates her life on an island estate.",
+     "hypnotist": "Michaela 'Kiki' Kell",
+     "method": "Charismatic control",
+     "categories": [
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Rotten Tomatoes",
+       "url": "https://www.rottentomatoes.com/tv/sirens_2025/s01"
+      },
+      {
+       "label": "RNZ",
+       "url": "https://www.rnz.co.nz/life/screens/tv/sirens-the-dark-psychology-of-how-people-really-get-drawn-into-cults"
+      }
+     ],
+     "evidence": "Listing plus article",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -547825,6 +548351,10 @@ window.CATALOG = {
       },
       {
        "id": 3780,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3793,
        "from_source": "deep-refresh-oct30"
       }
      ],
@@ -551716,12 +552246,20 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3792,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3766,
        "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3289,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3794,
+       "from_source": "deep-refresh-oct30"
       },
       {
        "id": 3269,
@@ -552914,6 +553452,10 @@ window.CATALOG = {
       },
       {
        "id": 3782,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3796,
        "from_source": "deep-refresh-oct30"
       },
       {
@@ -554893,12 +555435,20 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3795,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3272,
        "from_source": "deep-refresh-oct18"
       },
       {
        "id": 3316,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3794,
+       "from_source": "deep-refresh-oct30"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -567872,6 +568422,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3791,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3278,
        "from_source": "deep-refresh-oct18"
       },
@@ -576417,6 +576971,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct30"
       },
       {
+       "id": 3791,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3120,
        "from_source": "deep-gap-oct15"
       },
@@ -576450,6 +577008,10 @@ window.CATALOG = {
       },
       {
        "id": 3790,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3793,
        "from_source": "deep-refresh-oct30"
       },
       {
@@ -595145,6 +595707,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct30"
       },
       {
+       "id": 3795,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3761,
        "from_source": "deep-refresh-oct30"
       }
@@ -604729,7 +605295,8 @@ window.CATALOG = {
     "deep-refresh-oct18",
     "deep-oct20",
     "deep-oct24",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "deep-refresh-oct30"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -604741,7 +605308,8 @@ window.CATALOG = {
     "deep-refresh-oct18": null,
     "deep-oct20": null,
     "deep-oct24": null,
-    "hypnosis-imdb-list-full-oct25": null
+    "hypnosis-imdb-list-full-oct25": null,
+    "deep-refresh-oct30": null
    },
    "groups": [
     {
@@ -605289,6 +605857,10 @@ window.CATALOG = {
       {
        "id": 3254,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3792,
+       "from_source": "deep-refresh-oct30"
       }
      ],
      "from_source": "deep-refresh-oct18"
