@@ -50201,6 +50201,26 @@
    ]
   },
   {
+   "kept_id": 3333,
+   "kept": "Companion (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "deep-refresh-oct18:86",
+     "title": "Companion",
+     "subtitle": "",
+     "year": "2025"
+    },
+    {
+     "rid": "deep-refresh-oct30:46",
+     "title": "Companion",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 3340,
    "kept": "Obsession (2025)",
    "scope": "cross-source",
@@ -51802,11 +51822,11 @@
   "pregnant-intimate-imdb-oct25": 13,
   "hypno-kids-witness-unverified-oct25": 8,
   "hypnosis-imdb-list-full-oct25": 482,
-  "deep-refresh-oct30": 45
+  "deep-refresh-oct30": 49
  },
- "entry_count_after_dedupe": 3603,
+ "entry_count_after_dedupe": 3606,
  "within_source_groups": 5,
- "cross_source_groups": 2016,
+ "cross_source_groups": 2017,
  "index_only_records": 56,
- "local_only_records": 1331
+ "local_only_records": 1334
 }

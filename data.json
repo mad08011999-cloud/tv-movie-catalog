@@ -8826,10 +8826,62 @@
     {
      "title": "Corrupted Mage",
      "reason": "Ages unverified"
+    },
+    {
+     "title": "Mad Princess (Arisa)",
+     "reason": "Male target"
+    },
+    {
+     "title": "The Stepdaughter (2025)",
+     "reason": "FLAG minor antagonist; no control"
+    },
+    {
+     "title": "Tantra (2025 Kannada)",
+     "reason": "No control in sources"
+    },
+    {
+     "title": "Rangeela Baba",
+     "reason": "Male/mother-son crime; adult-app source only"
+    },
+    {
+     "title": "Crash Victoria",
+     "reason": "Unproduced script"
+    },
+    {
+     "title": "Seeking Sister Wife",
+     "reason": "Consensual reality, no control"
+    },
+    {
+     "title": "Past Life (2026)",
+     "reason": "Male hypnosis subject"
+    },
+    {
+     "title": "Love Always (2026 Tamil)",
+     "reason": "Age-reversal spell, no control"
+    },
+    {
+     "title": "Khauf",
+     "reason": "Possession/healer, excluded"
+    },
+    {
+     "title": "Ruby & Jodi",
+     "reason": "FLAG minors: child abuse central"
+    },
+    {
+     "title": "Hypnotic (2025 Thai)",
+     "reason": "FLAG: therapy hypnosis of a child patient; adult targets unverified"
+    },
+    {
+     "title": "Hypnosis App! (Steam)",
+     "reason": "Heroine age unverified"
+    },
+    {
+     "title": "Hentai Tales: Saimin Kouhai",
+     "reason": "FLAG likely student"
     }
    ],
    "check": {
-    "raw_count": 45,
+    "raw_count": 49,
     "ok": true
    },
    "status": "local"
@@ -8912,10 +8964,10 @@
   "pregnant-intimate-imdb-oct25": 13,
   "hypno-kids-witness-unverified-oct25": 8,
   "hypnosis-imdb-list-full-oct25": 482,
-  "deep-refresh-oct30": 45
+  "deep-refresh-oct30": 49
  },
- "raw_total": 7140,
- "entry_count": 3603,
+ "raw_total": 7144,
+ "entry_count": 3606,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -8963,13 +9015,13 @@
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 49
+   "entry_count": 50
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 149
+   "entry_count": 150
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -9113,7 +9165,7 @@
    "key": "lesbian-couple-pregnancy",
    "label": "Lesbian couple pregnancy (female same-sex couple)",
    "legend_label": "Lesbian couple pregnancy",
-   "entry_count": 57
+   "entry_count": 58
   },
   {
    "key": "erotic-mainstream",
@@ -9299,7 +9351,7 @@
    "key": "pregnancy-evil",
    "label": "Pregnant women controlled / possessed by evil forces",
    "legend_label": "Pregnant women controlled / possessed by evil forces",
-   "entry_count": 68
+   "entry_count": 70
   },
   {
    "key": "regional-pregnancy",
@@ -9365,7 +9417,7 @@
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 402
+   "entry_count": 403
   },
   {
    "key": "family",
@@ -507098,26 +507150,116 @@
    "format": "movie",
    "categories": [
     "tech",
-    "partner-control"
+    "partner-control",
+    "scifi"
    ],
    "sources": [
     {
      "label": "Variety",
      "url": "https://variety.com/2025/film/reviews/companion-review-sophie-thatcher-jack-quaid-1236279638/"
+    },
+    {
+     "label": "The Guardian",
+     "url": "https://www.theguardian.com/film/2025/jan/31/companion-review-movie"
+    },
+    {
+     "label": "The Irish Times",
+     "url": "https://www.irishtimes.com/culture/film/review/2025/01/30/companion-review-sophie-thatcher-is-the-scream-queen-to-beat-in-this-post-ai-spin-on-the-stepford-wives/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "deep-refresh-oct30"
    ],
    "source_records": [
-    "deep-refresh-oct18:86"
+    "deep-refresh-oct18:86",
+    "deep-refresh-oct30:46"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "deep-refresh-oct18:86",
+    "source": "deep-refresh-oct18",
+    "label": "Companion (2025)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Companion",
+    "subtitle": "",
+    "year": "2025",
+    "meta": "Film · USA · dir. Drew Hancock",
+    "summary": "Iris discovers she is a companion robot whose boyfriend controls her through an app.",
+    "character": "Iris (Sophie Thatcher)",
+    "note": "Loose fit: she is an android, not a human woman.",
+    "mechanism": "",
+    "confidence_flag": "Single source · flag",
+    "categories": [
+     "tech",
+     "partner-control"
+    ],
+    "sources": [
+     {
+      "label": "Variety",
+      "url": "https://variety.com/2025/film/reviews/companion-review-sophie-thatcher-jack-quaid-1236279638/"
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "hypnotist": "Josh (boyfriend)",
+    "method": "Programming via app",
+    "kids_status": "no",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "Review",
+    "adult": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "deep-refresh-oct30:46",
+     "source": "deep-refresh-oct30",
+     "label": "Companion (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Companion",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "Warner Bros. · Dir. Drew Hancock · Sophie Thatcher, Jack Quaid",
+     "summary": "An 'emotional support' android girlfriend, programmed to love and obey and adjustable through her owner's phone app, realizes she is being used and fights back.",
+     "character": "Iris",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "Medium · 2 sources",
+     "categories": [
+      "tech",
+      "scifi",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "The Guardian",
+       "url": "https://www.theguardian.com/film/2025/jan/31/companion-review-movie"
+      },
+      {
+       "label": "The Irish Times",
+       "url": "https://www.irishtimes.com/culture/film/review/2025/01/30/companion-review-sophie-thatcher-is-the-scream-queen-to-beat-in-this-post-ai-spin-on-the-stepford-wives/"
+      }
+     ],
+     "hypnotist": "Josh (owner)",
+     "method": "Programming / app control",
+     "kids_status": "no",
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "evidence": "Two reviews",
+     "adult": "no",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "deep-refresh-oct18:86": {
      "pregnant_end": "no",
@@ -507150,6 +507292,38 @@
      "evidence": "Review",
      "confidence_flag": "Single source · flag",
      "note": "Loose fit: she is an android, not a human woman."
+    },
+    "deep-refresh-oct30:46": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Companion",
+     "year": "2025",
+     "format": "film",
+     "meta": "Warner Bros. · Dir. Drew Hancock · Sophie Thatcher, Jack Quaid",
+     "character": "Iris",
+     "summary": "An 'emotional support' android girlfriend, programmed to love and obey and adjustable through her owner's phone app, realizes she is being used and fights back.",
+     "hypnotist": "Josh (owner)",
+     "method": "Programming / app control",
+     "categories": [
+      "tech",
+      "scifi",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "The Guardian",
+       "url": "https://www.theguardian.com/film/2025/jan/31/companion-review-movie"
+      },
+      {
+       "label": "The Irish Times",
+       "url": "https://www.irishtimes.com/culture/film/review/2025/01/30/companion-review-sophie-thatcher-is-the-scream-queen-to-beat-in-this-post-ai-spin-on-the-stepford-wives/"
+      }
+     ],
+     "evidence": "Two reviews",
+     "confidence_flag": "Medium · 2 sources"
     }
    }
   },
@@ -547922,6 +548096,253 @@
      ]
     }
    }
+  },
+  {
+   "id": 3797,
+   "title": "The Red Hourglass",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "ALTER online premiere · Nevermore Film Festival 2025",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: a young woman becomes inexplicably pregnant after an encounter with a black widow, and a shadowy cult gathers outside her home after the birth.",
+   "character": "Unnamed young woman",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Supernatural pregnancy / cult",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Festival listing plus official upload",
+   "adult": "no",
+   "format": "short film (16 min)",
+   "categories": [
+    "pregnancy-evil",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Nevermore Film Festival",
+     "url": "https://watch.eventive.org/nevermore2025/play/676c97a94d0c61df164d5f4c/676ec85b5545906e126dff19"
+    },
+    {
+     "label": "YouTube (ALTER)",
+     "url": "https://www.youtube.com/watch?v=nFGff6_T7WA"
+    }
+   ],
+   "youtube_ids": [
+    "nFGff6_T7WA"
+   ],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:47"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/nFGff6_T7WA.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:47": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Red Hourglass",
+     "year": "2024",
+     "format": "short film (16 min)",
+     "meta": "ALTER online premiere · Nevermore Film Festival 2025",
+     "character": "Unnamed young woman",
+     "summary": "Loose fit: a young woman becomes inexplicably pregnant after an encounter with a black widow, and a shadowy cult gathers outside her home after the birth.",
+     "method": "Supernatural pregnancy / cult",
+     "categories": [
+      "pregnancy-evil",
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Nevermore Film Festival",
+       "url": "https://watch.eventive.org/nevermore2025/play/676c97a94d0c61df164d5f4c/676ec85b5545906e126dff19"
+      },
+      {
+       "label": "YouTube (ALTER)",
+       "url": "https://www.youtube.com/watch?v=nFGff6_T7WA"
+      }
+     ],
+     "evidence": "Festival listing plus official upload",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3798,
+   "title": "Two Mothers, One Child",
+   "subtitle": "",
+   "year": "n.d. (ARTE listing)",
+   "meta": "ARTE",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A comedy-drama about a female couple expecting a child after three years of IVF. It follows the pregnancy, the birth, and the second mother's adoption process.",
+   "character": "Alice and Gabrielle",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "None (no control element)",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Official ARTE series page",
+   "adult": "no",
+   "format": "web series (30 short episodes)",
+   "categories": [
+    "lesbian-couple-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "ARTE",
+     "url": "https://www.arte.tv/en/videos/RC-025402/two-mothers-one-child/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:48"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:48": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Two Mothers, One Child",
+     "year": "n.d. (ARTE listing)",
+     "format": "web series (30 short episodes)",
+     "meta": "ARTE",
+     "character": "Alice and Gabrielle",
+     "summary": "A comedy-drama about a female couple expecting a child after three years of IVF. It follows the pregnancy, the birth, and the second mother's adoption process.",
+     "method": "None (no control element)",
+     "categories": [
+      "lesbian-couple-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "ARTE",
+       "url": "https://www.arte.tv/en/videos/RC-025402/two-mothers-one-child/"
+      }
+     ],
+     "evidence": "Official ARTE series page",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3799,
+   "title": "The Black Ritual (Ritual Gaib: Nyai Randasura)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Indonesia/Australia · Kraken Entertainment",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Loose fit: a newly pregnant woman visits her husband's ancestral home and confronts a demon bound by an ancient blood pact, which threatens her unborn child.",
+   "character": "Pregnant wife",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Blood pact / demon",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Distributor and listing pages",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "pregnancy-evil",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "AHTO Film",
+     "url": "https://www.ahtofilm.ee/movies/1757221"
+    },
+    {
+     "label": "Kraken Entertainment",
+     "url": "https://www.thekrakenrisesup.com/the-black-ritual/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct30"
+   ],
+   "source_records": [
+    "deep-refresh-oct30:49"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct30:49": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Black Ritual (Ritual Gaib: Nyai Randasura)",
+     "year": "2026",
+     "format": "film",
+     "meta": "Indonesia/Australia · Kraken Entertainment",
+     "character": "Pregnant wife",
+     "summary": "Loose fit: a newly pregnant woman visits her husband's ancestral home and confronts a demon bound by an ancient blood pact, which threatens her unborn child.",
+     "method": "Blood pact / demon",
+     "categories": [
+      "pregnancy-evil",
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "AHTO Film",
+       "url": "https://www.ahtofilm.ee/movies/1757221"
+      },
+      {
+       "label": "Kraken Entertainment",
+       "url": "https://www.thekrakenrisesup.com/the-black-ritual/"
+      }
+     ],
+     "evidence": "Distributor and listing pages",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -553455,6 +553876,10 @@
        "from_source": "deep-refresh-oct30"
       },
       {
+       "id": 3797,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3796,
        "from_source": "deep-refresh-oct30"
       },
@@ -554440,6 +554865,10 @@
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3799,
+       "from_source": "deep-refresh-oct30"
+      },
       {
        "id": 3286,
        "from_source": "deep-refresh-oct18"
@@ -574806,6 +575235,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3798,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3267,
        "from_source": "deep-refresh-oct18"
       },
@@ -590061,6 +590494,10 @@
      "notes": [],
      "items": [
       {
+       "id": 3799,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
        "id": 3253,
        "from_source": "deep-refresh-oct18"
       },
@@ -590110,6 +590547,10 @@
       },
       {
        "id": 3770,
+       "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3797,
        "from_source": "deep-refresh-oct30"
       },
       {
@@ -595698,6 +596139,10 @@
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3333,
+       "from_source": "deep-refresh-oct30"
+      },
       {
        "id": 3783,
        "from_source": "deep-refresh-oct30"

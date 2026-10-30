@@ -1368,6 +1368,135 @@
    "tags": [
     "loose fit"
    ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Companion",
+   "year": "2025",
+   "format": "film",
+   "meta": "Warner Bros. · Dir. Drew Hancock · Sophie Thatcher, Jack Quaid",
+   "character": "Iris",
+   "summary": "An 'emotional support' android girlfriend, programmed to love and obey and adjustable through her owner's phone app, realizes she is being used and fights back.",
+   "hypnotist": "Josh (owner)",
+   "method": "Programming / app control",
+   "categories": [
+    "tech",
+    "scifi",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "The Guardian",
+     "url": "https://www.theguardian.com/film/2025/jan/31/companion-review-movie"
+    },
+    {
+     "label": "The Irish Times",
+     "url": "https://www.irishtimes.com/culture/film/review/2025/01/30/companion-review-sophie-thatcher-is-the-scream-queen-to-beat-in-this-post-ai-spin-on-the-stepford-wives/"
+    }
+   ],
+   "evidence": "Two reviews",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Red Hourglass",
+   "year": "2024",
+   "format": "short film (16 min)",
+   "meta": "ALTER online premiere · Nevermore Film Festival 2025",
+   "character": "Unnamed young woman",
+   "summary": "Loose fit: a young woman becomes inexplicably pregnant after an encounter with a black widow, and a shadowy cult gathers outside her home after the birth.",
+   "method": "Supernatural pregnancy / cult",
+   "categories": [
+    "pregnancy-evil",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Nevermore Film Festival",
+     "url": "https://watch.eventive.org/nevermore2025/play/676c97a94d0c61df164d5f4c/676ec85b5545906e126dff19"
+    },
+    {
+     "label": "YouTube (ALTER)",
+     "url": "https://www.youtube.com/watch?v=nFGff6_T7WA"
+    }
+   ],
+   "evidence": "Festival listing plus official upload",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Two Mothers, One Child",
+   "year": "n.d. (ARTE listing)",
+   "format": "web series (30 short episodes)",
+   "meta": "ARTE",
+   "character": "Alice and Gabrielle",
+   "summary": "A comedy-drama about a female couple expecting a child after three years of IVF. It follows the pregnancy, the birth, and the second mother's adoption process.",
+   "method": "None (no control element)",
+   "categories": [
+    "lesbian-couple-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "ARTE",
+     "url": "https://www.arte.tv/en/videos/RC-025402/two-mothers-one-child/"
+    }
+   ],
+   "evidence": "Official ARTE series page",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Black Ritual (Ritual Gaib: Nyai Randasura)",
+   "year": "2026",
+   "format": "film",
+   "meta": "Indonesia/Australia · Kraken Entertainment",
+   "character": "Pregnant wife",
+   "summary": "Loose fit: a newly pregnant woman visits her husband's ancestral home and confronts a demon bound by an ancient blood pact, which threatens her unborn child.",
+   "method": "Blood pact / demon",
+   "categories": [
+    "pregnancy-evil",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "AHTO Film",
+     "url": "https://www.ahtofilm.ee/movies/1757221"
+    },
+    {
+     "label": "Kraken Entertainment",
+     "url": "https://www.thekrakenrisesup.com/the-black-ritual/"
+    }
+   ],
+   "evidence": "Distributor and listing pages",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
   }
  ],
  "dropped": [
@@ -1522,6 +1651,58 @@
   {
    "title": "Corrupted Mage",
    "reason": "Ages unverified"
+  },
+  {
+   "title": "Mad Princess (Arisa)",
+   "reason": "Male target"
+  },
+  {
+   "title": "The Stepdaughter (2025)",
+   "reason": "FLAG minor antagonist; no control"
+  },
+  {
+   "title": "Tantra (2025 Kannada)",
+   "reason": "No control in sources"
+  },
+  {
+   "title": "Rangeela Baba",
+   "reason": "Male/mother-son crime; adult-app source only"
+  },
+  {
+   "title": "Crash Victoria",
+   "reason": "Unproduced script"
+  },
+  {
+   "title": "Seeking Sister Wife",
+   "reason": "Consensual reality, no control"
+  },
+  {
+   "title": "Past Life (2026)",
+   "reason": "Male hypnosis subject"
+  },
+  {
+   "title": "Love Always (2026 Tamil)",
+   "reason": "Age-reversal spell, no control"
+  },
+  {
+   "title": "Khauf",
+   "reason": "Possession/healer, excluded"
+  },
+  {
+   "title": "Ruby & Jodi",
+   "reason": "FLAG minors: child abuse central"
+  },
+  {
+   "title": "Hypnotic (2025 Thai)",
+   "reason": "FLAG: therapy hypnosis of a child patient; adult targets unverified"
+  },
+  {
+   "title": "Hypnosis App! (Steam)",
+   "reason": "Heroine age unverified"
+  },
+  {
+   "title": "Hentai Tales: Saimin Kouhai",
+   "reason": "FLAG likely student"
   }
  ]
 }
