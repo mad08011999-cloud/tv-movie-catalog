@@ -1497,6 +1497,271 @@
    "tags": [
     "loose fit"
    ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (18+ adult work)",
+   "title": "Aniyome Saimin Appli Ochi (Aniyome 3D Anime Hybrid)",
+   "year": "2018 / 2026 remake",
+   "format": "adult visual novel (3D anime hybrid remake, 2026)",
+   "meta": "RED-ZONE / F&C",
+   "character": "Hisane (married sister-in-law)",
+   "summary": "A man uses a smartphone hypnosis app on his brother's wife, who comes to believe he is her husband. The 3D hybrid remake was released in parts in 2026.",
+   "hypnotist": "Akihiro (brother-in-law)",
+   "method": "Hypnosis app",
+   "categories": [
+    "adult-hypnosis",
+    "wife-hypnotized",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "VNDB",
+     "url": "https://vndb.org/v22771"
+    }
+   ],
+   "evidence": "VNDB entry including the 2026 releases",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (18+ adult work)",
+   "title": "Ochiru Yoru, Kowareru Hanayome ~Rinjin NTR Saimin~",
+   "year": "2026",
+   "format": "adult written work (Japanese)",
+   "meta": "Kūsō Aya-kan",
+   "character": "Saki (newlywed wife)",
+   "summary": "A newlywed wife's mind is gradually eroded by her neighbor's hypnotic suggestion, without her husband knowing.",
+   "hypnotist": "Neighbor",
+   "method": "Hypnotic suggestion",
+   "categories": [
+    "adult-hypnosis",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "NTRDB",
+     "url": "https://ntrdb.com/works/ochiru-yoru-kowareru-hanayome-rinjin-ntr-saimin"
+    }
+   ],
+   "evidence": "Database listing",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (18+ adult work)",
+   "title": "To Corrupt a Wife ~Through the Power of Hypnosis…~ (Hitozuma Kairou)",
+   "year": "2026",
+   "format": "adult doujinshi",
+   "meta": "Karino Teru",
+   "character": "Married woman",
+   "summary": "A devoted wife is changed through hypnosis. The listing has no further synopsis.",
+   "method": "Hypnosis",
+   "categories": [
+    "adult-hypnosis",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "NTRDB",
+     "url": "https://ntrdb.com/works/to-corrupt-a-wife-through-the-power-of-hypnosis-even-a-loving-wife-can-be-turned"
+    }
+   ],
+   "evidence": "Database listing only (title-level)",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Black Mirror — \"Common People\" (S7E1)",
+   "year": "2025",
+   "format": "TV episode",
+   "meta": "Netflix · Rashida Jones, Chris O'Dowd",
+   "character": "Amanda",
+   "summary": "After a brain tumor, a schoolteacher is kept alive by a subscription brain implant. The company then controls her sleep, her location limits, and involuntary ads spoken through her mouth.",
+   "hypnotist": "Rivermind (company)",
+   "method": "Brain implant / subscription tiers",
+   "categories": [
+    "tech",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "CBR",
+     "url": "https://www.cbr.com/black-mirror-season-7-common-people-ending-explained/"
+    },
+    {
+     "label": "Vulture",
+     "url": "https://www.vulture.com/article/black-mirror-recap-season-7-episode-1-common-people.html"
+    }
+   ],
+   "evidence": "Two episode recaps; parent series is #370",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Sister Wives",
+   "year": "2024",
+   "format": "short film",
+   "meta": "UK · Dir. Louisa Connolly-Burnham · Mia McKenna-Bruce",
+   "character": "Kaidence and Galilee",
+   "summary": "Two young women married to the same man in a strict polygamous community in 2003 Utah develop feelings for each other.",
+   "method": "Religious patriarchal control",
+   "categories": [
+    "polygamy",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Utah Film Festival review",
+     "url": "https://theutahfilmfestival.com/sister-wives-film-review/"
+    },
+    {
+     "label": "PinkNews",
+     "url": "https://www.thepinknews.com/2025/01/14/bafta-long-listed-film-sister-wives-queerness-fundamentalist-latter-day-saints/"
+    }
+   ],
+   "evidence": "Festival review plus press",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Self-Help",
+   "year": "2025",
+   "format": "film",
+   "meta": "US · Dir. Erik Bloomquist · Cineverse/Bloody Disgusting",
+   "character": "Olivia's mother",
+   "summary": "A college student infiltrates a self-actualization community to rescue her mother from its enigmatic leader, who uses mind games on his followers.",
+   "hypnotist": "Curtis Clark (cult leader)",
+   "method": "Psychological manipulation",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Self-Help_(film)"
+    },
+    {
+     "label": "Bloody Disgusting",
+     "url": "https://bloody-disgusting.com/exclusives/3893820/self-help-teaser-founders-day-directors-cult-horror-plays-mind-games-exclusive/"
+    }
+   ],
+   "evidence": "Encyclopedia entry plus trade press",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Wishful Thinking",
+   "year": "2026",
+   "format": "film",
+   "meta": "US · Dir. Graham Parkes · Lewis Pullman, Maya Hawke",
+   "character": "Julie and Charlie (couple)",
+   "summary": "A struggling couple is hypnotized at a conscious-coupling seminar and discovers that the state of their relationship changes the world around them.",
+   "hypnotist": "The Tilly twins (seminar hosts)",
+   "method": "Seminar hypnosis",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Screen Rant",
+     "url": "https://screenrant.com/wishful-thinking-movie-review-2026-sxsw/"
+    }
+   ],
+   "evidence": "One detailed review",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Spermicide",
+   "year": "2025",
+   "format": "short film",
+   "meta": "US · Dir. Scott Nuñez-Peterman",
+   "character": "Bailey and Amanda",
+   "summary": "A lesbian couple trying to conceive find that every sperm donor they choose dies in a bizarre accident.",
+   "method": "None (curse comedy-thriller)",
+   "categories": [
+    "lesbian-couple-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Videolex",
+     "url": "https://videolex.com/movie/1453232"
+    }
+   ],
+   "evidence": "Database synopsis only",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Stay Within Me",
+   "year": "2025",
+   "format": "short film (14 min)",
+   "meta": "Spain",
+   "character": "Pregnant woman",
+   "summary": "At a remote retreat, a pregnant woman and her baby are threatened by a sinister group's rituals.",
+   "method": "Cult ritual",
+   "categories": [
+    "pregnancy-evil",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "MUBI",
+     "url": "https://mubi.com/en/us/films/stay-within-me"
+    }
+   ],
+   "evidence": "Catalog listing via search (page fetch timed out)",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
   }
  ],
  "dropped": [
@@ -1703,6 +1968,46 @@
   {
    "title": "Hentai Tales: Saimin Kouhai",
    "reason": "FLAG likely student"
+  },
+  {
+   "title": "Khom Khlang (2026)",
+   "reason": "Enchantment targets men; love spell only suspected; FLAG underage-trafficking subplot"
+  },
+  {
+   "title": "One Crazy Cruise",
+   "reason": "FLAG minors (kids hypnotize parents)"
+  },
+  {
+   "title": "Molly Moon and the Incredible Book of Hypnotism",
+   "reason": "FLAG minor hypnotist"
+  },
+  {
+   "title": "Hypnotized: All the Girls in Class Were Pregnant",
+   "reason": "FLAG students/minors"
+  },
+  {
+   "title": "Saimin App de Hitozuma o Chōkyō… Musume",
+   "reason": "FLAG daughter, age unverified"
+  },
+  {
+   "title": "Companion (2025)",
+   "reason": "Duplicate of #3333"
+  },
+  {
+   "title": "Positively Yours",
+   "reason": "Duplicate of #3273"
+  },
+  {
+   "title": "Subham (2025)",
+   "reason": "Possession satire, excluded"
+  },
+  {
+   "title": "Gayuma (2026 short)",
+   "reason": "Male target"
+  },
+  {
+   "title": "Kanojo Saimin OVA",
+   "reason": "Already FLAGGED for minors"
   }
  ]
 }
