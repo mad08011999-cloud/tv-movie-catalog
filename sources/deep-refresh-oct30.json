@@ -924,7 +924,7 @@
    "title": "Cyberpunk Romance",
    "year": "2025",
    "format": "film",
-   "meta": "Hof International Film Festival",
+   "meta": "Germany/Austria · Dir. Joscha Douma · Naemi Florez",
    "character": "Mona",
    "summary": "Loose fit: Mona's brain port may let an external force control her mind.",
    "method": "Brain implant",
@@ -934,12 +934,20 @@
    ],
    "sources": [
     {
-     "label": "Hofer Filmtage",
-     "url": "https://www.hofer-filmtage.com/"
+     "label": "Hof International Film Festival",
+     "url": "https://www.hofer-filmtage.com/en/2025/films/cyberpunk-romance"
+    },
+    {
+     "label": "filmportal.de",
+     "url": "https://www.filmportal.de/en/movie/cyberpunk-romance_43bdc3b664c1447eb0078a96b0684eb9"
+    },
+    {
+     "label": "Wikipedia (de)",
+     "url": "https://de.wikipedia.org/wiki/Cyberpunk_Romance"
     }
    ],
    "evidence": "Festival listing",
-   "confidence_flag": "Single source · flag",
+   "confidence_flag": "High · 3+ sources",
    "fit": "loose",
    "tags": [
     "loose fit"
@@ -955,23 +963,27 @@
    "year": "2025",
    "format": "vertical microdrama",
    "meta": "ReelShort",
-   "summary": "Loose fit: an heiress is drugged and manipulated, and her fortune is stolen.",
-   "method": "Drugging / manipulation",
+   "summary": "Loose fit: after being shot, heiress Isabella wakes without her memory while impostor Stella drains the family fortune in her name; she learns the coma story was a lie.",
+   "method": "Memory loss / deception",
    "categories": [
     "crime"
    ],
    "sources": [
     {
      "label": "ReelShort",
-     "url": "https://www.reelshort.com/"
+     "url": "https://www.reelshort.com/movie/the-dumb-billionaire-heiress-in-love-part-ii-68b1781ef4d69f56740a6a0f"
     },
     {
-     "label": "Storizz",
-     "url": "https://storizz.com/"
+     "label": "DramaFeed",
+     "url": "https://drama-feed.com/en/d/16199"
+    },
+    {
+     "label": "My Vertical Drama",
+     "url": "https://myverticaldrama.com/en/series/the-dumb-billionaire-heiress-in-love-part-ii/"
     }
    ],
    "evidence": "Platform listings",
-   "confidence_flag": "Medium · 2 sources",
+   "confidence_flag": "High · 3+ sources",
    "fit": "loose",
    "tags": [
     "loose fit"
@@ -1001,6 +1013,169 @@
    ],
    "evidence": "Trailer page",
    "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Honey Bunch",
+   "year": "2025",
+   "format": "film",
+   "meta": "Dir. Madeleine Sims-Fewer & Dusty Mancinelli · Grace Glowicki, Ben Petrie",
+   "character": "Diana",
+   "summary": "Loose fit: after a crash leaves her with memory gaps, Diana's husband enrolls her in an experimental trauma center whose strobe and drug 'therapy' raises questions about his motives.",
+   "hypnotist": "Homer (husband) / Farah (therapist)",
+   "method": "Experimental therapy / gaslighting",
+   "categories": [
+    "wife",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Paste",
+     "url": "https://www.pastemagazine.com/movies/honey-bunch/honey-bunch-movie-review-2025-horror-sci-fi-plot-grace-glowicki-ben-petrie-marriage"
+    }
+   ],
+   "evidence": "Review",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Cult Behind the Killer: The Andrea Yates Story",
+   "year": "2026",
+   "format": "docuseries",
+   "meta": "3 parts · HBO Max / Discovery+",
+   "character": "Andrea Yates",
+   "summary": "Loose fit: examines claims that preacher Michael Woroniecki's isolating, fear-based teachings influenced Andrea Yates before her 2001 crimes.",
+   "hypnotist": "Michael Woroniecki",
+   "method": "Religious indoctrination",
+   "categories": [
+    "cult",
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "HBO Max",
+     "url": "https://www.hbomax.com/show/d6475c20-a627-4cdc-85a0-cb38d98aafd1"
+    },
+    {
+     "label": "TIME",
+     "url": "https://time.com/7343680/andrea-yates-true-story-the-cult-behind-the-killer/"
+    }
+   ],
+   "evidence": "Platform page plus article",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (R18+; non-explicit note)",
+   "title": "Brainwashing and Hypnosis: The Female Boss of the Vulture Fund",
+   "year": "2025",
+   "format": "film",
+   "meta": "Japanese adult (R18+) release, TMDB 1658720",
+   "character": "Melody (25, CEO)",
+   "summary": "A demoted employee uses a hypnotic trigger phrase to make his overbearing new CEO submissive.",
+   "method": "Hypnosis trigger phrase",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/1658720"
+    }
+   ],
+   "evidence": "Database listing",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Wedding Banquet",
+   "year": "2025",
+   "format": "film",
+   "meta": "Dir. Andrew Ahn",
+   "summary": "Loose fit: lesbian couple Angela and Lee go through IVF; no control element.",
+   "method": "None (pregnancy topic only)",
+   "categories": [
+    "lesbian-couple-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2025/film/reviews/the-wedding-banquet-review-1236288375/"
+    },
+    {
+     "label": "DIVA",
+     "url": "https://diva-magazine.com/2025/03/20/the-wedding-banquet-bfi-flare-2025/"
+    }
+   ],
+   "evidence": "Review plus feature",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "La hija pródiga",
+   "year": "2017",
+   "format": "telenovela",
+   "meta": "TV Azteca · Isabel Burr",
+   "character": "Alicia Montejo",
+   "summary": "Loose fit: in Ep 4, Alicia undergoes her first hypnosis session and recalls a tattooed hand belonging to her attacker.",
+   "method": "Therapeutic hypnosis",
+   "categories": [
+    "medical"
+   ],
+   "episodes": [
+    {
+     "episode": "Cap. 4",
+     "gist": "First hypnosis session; Alicia recalls a tattooed hand and draws it.",
+     "number_verified": true
+    }
+   ],
+   "sources": [
+    {
+     "label": "TV Azteca",
+     "url": "https://www.tvazteca.com/aztecauno/la-hija-prodiga/notas/notas/la-hija-prodiga-capitulo-4-alicia-empieza-a-recordar"
+    },
+    {
+     "label": "Wikipedia (es)",
+     "url": "https://es.wikipedia.org/wiki/La_hija_pr%C3%B3diga"
+    }
+   ],
+   "evidence": "Network recap plus encyclopedia",
+   "confidence_flag": "Medium · 2 sources",
    "fit": "loose",
    "tags": [
     "loose fit"
@@ -1083,6 +1258,38 @@
   {
    "title": "Huyết Ngải Ái Tình",
    "reason": "Male targets / possession"
+  },
+  {
+   "title": "Unbind Me",
+   "reason": "Male target"
+  },
+  {
+   "title": "L'estranea",
+   "reason": "Pact, no mind control"
+  },
+  {
+   "title": "Bring Me the Beauties: A Model Cult",
+   "reason": "Male subject documentary"
+  },
+  {
+   "title": "Djinn Under Contract",
+   "reason": "No control"
+  },
+  {
+   "title": "Memory Restored, Love Destroyed",
+   "reason": "Text novel, not screen"
+  },
+  {
+   "title": "The Love of Hypnosis",
+   "reason": "No clear hypnosis/control of a woman in sources"
+  },
+  {
+   "title": "Womb (2025)",
+   "reason": "No control element"
+  },
+  {
+   "title": "Le Fanu's Carmilla",
+   "reason": "Seduction, not control; age unclear"
   }
  ]
 }
