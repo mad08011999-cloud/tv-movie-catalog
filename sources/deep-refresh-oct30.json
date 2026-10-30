@@ -2007,6 +2007,280 @@
    ],
    "evidence": "Festival program page",
    "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Birthrite",
+   "year": "2025",
+   "format": "film",
+   "meta": "US · Dir. Ross Partridge · Alice Kremelberg, Juani Feliz · Brainstorm Media",
+   "character": "Wren (pregnant partner)",
+   "summary": "A lesbian couple trying for a baby move into an inherited house that was once a fertility clinic, and Wren's pregnancy becomes tied to witchcraft and a sinister clinic.",
+   "method": "Witchcraft and fertility-clinic conspiracy",
+   "categories": [
+    "lesbian-couple-pregnancy",
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Culture Mix review",
+     "url": "https://culturemixonline.com/review-birthrite-2025-starring-alice-kremelberg-juani-feliz-jennifer-lafleur-henry-russell-owen-campbell-and-michael-chernus/"
+    },
+    {
+     "label": "Dread Central",
+     "url": "https://www.dreadcentral.com/news/539190/exclusive-birthrite-clip-they-want-your-baby/"
+    }
+   ],
+   "evidence": "A review plus a trade clip article",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Hypnosis Knight-Princess",
+   "year": "2025",
+   "format": "adult RPG game (18+)",
+   "meta": "happypink / Kagura Games · Steam",
+   "character": "Gina (princess heir)",
+   "summary": "A demon's hypnotic curse is spread across the kingdom so that adult princess Gina, who is about to be crowned, has to take the curse on herself while freeing her people.",
+   "hypnotist": "Demon Lala, on behalf of her brother Morgan",
+   "method": "Demonic hypnotic curse",
+   "categories": [
+    "royal-hypnosis",
+    "adult-hypnosis",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Steam",
+     "url": "https://store.steampowered.com/app/3556730/Hypnosis_KnightPrincess/"
+    }
+   ],
+   "evidence": "Official store page",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Backflip again",
+   "year": "2025",
+   "format": "short film (5 min)",
+   "meta": "France · Dir. Raquel Garcia · Hallucinations Collectives 2025",
+   "character": "Woman at a concert",
+   "summary": "The vampire Lisa seduces and hypnotizes a woman at a concert before feeding on her, told in reverse.",
+   "hypnotist": "Lisa (vampire)",
+   "method": "Vampiric hypnosis",
+   "categories": [
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "Hallucinations Collectives",
+     "url": "https://www.hallucinations-collectives.com/movies/backflip-again/"
+    }
+   ],
+   "evidence": "Festival page, summarized by search; direct fetch was blocked (403)",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Surrogate Mother",
+   "year": "2026",
+   "format": "film",
+   "meta": "Based on Freida McFadden's novel",
+   "character": "Abby",
+   "summary": "Abby's personal assistant Monica offers to carry her child but hides a dangerous secret.",
+   "method": "Manipulation (thriller)",
+   "categories": [
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Desiformal listing",
+     "url": "http://stagemovie.desiformal.com/titles/951417/the-surrogate-mother"
+    }
+   ],
+   "evidence": "One listing",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Deadly Surrogate",
+   "year": "2026",
+   "format": "film",
+   "meta": "Release Oct 6, 2026 (Plex/Apple TV)",
+   "character": "Intended mother",
+   "summary": "A surrogacy-themed thriller released on digital platforms.",
+   "method": "Thriller (no hypnosis confirmed)",
+   "categories": [
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Plex",
+     "url": "https://watch.plex.tv/movie/deadly-surrogate"
+    },
+    {
+     "label": "Apple TV",
+     "url": "https://tv.apple.com/us/movie/deadly-surrogate/umc.cmc.43ev87mdd6kmh1br5zhw00ax1"
+    }
+   ],
+   "evidence": "Two storefront listings; plot details thin",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Premature",
+   "year": "2026",
+   "format": "film",
+   "meta": "UK (Glasgow) · Dir. Kevin Walls · Elle Watson, James Rottger",
+   "character": "Eilidh",
+   "summary": "Two adult flatmates face an unplanned pregnancy after one night together, and a gentle romance grows between them as the birth approaches.",
+   "method": "None (romantic comedy-drama)",
+   "categories": [
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Eye For Film",
+     "url": "https://www.eyeforfilm.co.uk/review/premature-2026-film-review-by-jennie-kermode"
+    },
+    {
+     "label": "Official site",
+     "url": "https://www.prematurethemovie.com/"
+    }
+   ],
+   "evidence": "A review plus the official site",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Doctor Shin (닥터신)",
+   "year": "2026",
+   "format": "TV series (16 eps)",
+   "meta": "South Korea · TV Chosun · writer Phoebe (Im Sung-han) · Baek Seo-ra",
+   "character": "Momo (actress) and the women whose minds enter her body",
+   "summary": "After his fiancée is left brain-dead, a neurosurgeon performs illegal brain-swap surgeries, so several adult women's minds take over her body in turn.",
+   "hypnotist": "Dr. Shin Ju-shin",
+   "method": "Experimental brain-swap surgery",
+   "categories": [
+    "walkin",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Doctor_Shin"
+    },
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/789540-doctor-sin"
+    }
+   ],
+   "evidence": "Encyclopedia episode guide plus a database listing",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Isteri Ke-2",
+   "year": "2026",
+   "format": "film (Tonton Original)",
+   "meta": "Malaysia · Zahiril Adzim · premiered Sep 16, 2026",
+   "character": "First wife",
+   "summary": "A first wife dealing with infertility discovers that her husband has secretly taken a second wife.",
+   "method": "None (polygamy drama)",
+   "categories": [
+    "polygamy"
+   ],
+   "sources": [
+    {
+     "label": "Budiey Channel",
+     "url": "https://www.budiey.com/zahiril-adzim-terajui-kisah-poligami-menerusi-filem-isteri-ke-2/"
+    },
+    {
+     "label": "Cinegraph",
+     "url": "https://cinegraph.org/movies/isteri-ke-2-2026"
+    }
+   ],
+   "evidence": "Entertainment news plus a database listing",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Liberation (Harmonia)",
+   "year": "2026",
+   "format": "film",
+   "meta": "US · Dir. Guy Nattiv · Carrie Coon, Lily James, Bella Ramsey · Telluride 2026; US release Jan 2027",
+   "character": "Rita Cooper",
+   "summary": "A middle-aged mother falls under a mesmeric female leader's spell, leaves her family for the Harmonia commune, and her adult daughters infiltrate the group to bring her home.",
+   "hypnotist": "The Leader (Lily James)",
+   "method": "Psycho-spiritual cult manipulation",
+   "categories": [
+    "cult",
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/the-liberation-2026/"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt8613988/"
+    }
+   ],
+   "evidence": "Film database synopsis plus IMDb listing",
+   "confidence_flag": "Medium · 2 sources"
   }
  ],
  "dropped": [
@@ -2301,6 +2575,66 @@
   {
    "title": "Time's Up, I'm Afraid",
    "reason": "Page failed to load; unverified"
+  },
+  {
+   "title": "Mother by Hypnosis (VN, 2026)",
+   "reason": "FLAG: ages unverified (related to Saiminbo); not added"
+  },
+  {
+   "title": "Weapons (2025)",
+   "reason": "Already #88; note: children are also under the spell"
+  },
+  {
+   "title": "Vampire Carnival",
+   "reason": "Duplicate of #2249"
+  },
+  {
+   "title": "Hypnotized 被催眠的她 / Under His Hypnosis",
+   "reason": "Duplicate of #56"
+  },
+  {
+   "title": "Love Letters",
+   "reason": "Duplicate of #3283"
+  },
+  {
+   "title": "Twisted Yoga",
+   "reason": "Duplicate of #3759"
+  },
+  {
+   "title": "The Polygamist",
+   "reason": "Duplicate of #2063"
+  },
+  {
+   "title": "Mother's Baby",
+   "reason": "On exclusions list; blocked by build"
+  },
+  {
+   "title": "The Observance",
+   "reason": "Brainwashed subjects are a husband and a teenage daughter (male/minor)"
+  },
+  {
+   "title": "The Voices of Our Mother",
+   "reason": "Possession only"
+  },
+  {
+   "title": "Hot Spot (2026)",
+   "reason": "Off-criteria"
+  },
+  {
+   "title": "What the Living Do",
+   "reason": "Off-criteria"
+  },
+  {
+   "title": "Accidental Hypnosis / Married Woman Nextdoor VNs",
+   "reason": "Unverified premise"
+  },
+  {
+   "title": "Act One / Demonic Plastic Surgery",
+   "reason": "Pages failed to load; unverified"
+  },
+  {
+   "title": "Hitozuma Saimin 2025 / JAV SORA titles",
+   "reason": "Only piracy or retail-adult sources"
   }
  ]
 }
