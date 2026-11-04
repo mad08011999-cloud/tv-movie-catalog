@@ -51823,11 +51823,11 @@
   "hypno-kids-witness-unverified-oct25": 8,
   "hypnosis-imdb-list-full-oct25": 482,
   "deep-refresh-oct30": 75,
-  "deep-refresh-nov04": 46
+  "deep-refresh-nov04": 61
  },
- "entry_count_after_dedupe": 3676,
+ "entry_count_after_dedupe": 3691,
  "within_source_groups": 5,
  "cross_source_groups": 2017,
  "index_only_records": 56,
- "local_only_records": 1404
+ "local_only_records": 1419
 }

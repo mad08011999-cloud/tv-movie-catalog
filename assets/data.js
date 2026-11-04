@@ -9151,7 +9151,7 @@ window.CATALOG = {
     }
    ],
    "check": {
-    "raw_count": 46,
+    "raw_count": 61,
     "ok": true
    },
    "status": "local"
@@ -9235,10 +9235,10 @@ window.CATALOG = {
   "hypno-kids-witness-unverified-oct25": 8,
   "hypnosis-imdb-list-full-oct25": 482,
   "deep-refresh-oct30": 75,
-  "deep-refresh-nov04": 46
+  "deep-refresh-nov04": 61
  },
- "raw_total": 7216,
- "entry_count": 3676,
+ "raw_total": 7231,
+ "entry_count": 3691,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -9256,7 +9256,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 329
+   "entry_count": 332
   },
   {
    "key": "belly",
@@ -9286,13 +9286,13 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 58
+   "entry_count": 60
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 155
+   "entry_count": 156
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -9310,13 +9310,13 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 111
+   "entry_count": 112
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 304
+   "entry_count": 305
   },
   {
    "key": "child-controller",
@@ -9328,7 +9328,7 @@ window.CATALOG = {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 61
+   "entry_count": 63
   },
   {
    "key": "india-control",
@@ -9376,7 +9376,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 125
+   "entry_count": 129
   },
   {
    "key": "index-54",
@@ -9406,19 +9406,19 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 193
+   "entry_count": 194
   },
   {
    "key": "royal-hypnosis",
    "label": "Hypnotized queen/princess for marriage or the throne",
    "legend_label": "Hypnotized queen / princess",
-   "entry_count": 58
+   "entry_count": 59
   },
   {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 232
+   "entry_count": 233
   },
   {
    "key": "hypno-intimacy",
@@ -9436,7 +9436,7 @@ window.CATALOG = {
    "key": "lesbian-couple-pregnancy",
    "label": "Lesbian couple pregnancy (female same-sex couple)",
    "legend_label": "Lesbian couple pregnancy",
-   "entry_count": 60
+   "entry_count": 61
   },
   {
    "key": "erotic-mainstream",
@@ -9448,7 +9448,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 242
+   "entry_count": 243
   },
   {
    "key": "mom-partner-control",
@@ -9478,7 +9478,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 435
+   "entry_count": 437
   },
   {
    "key": "parents-sleeping",
@@ -9514,7 +9514,7 @@ window.CATALOG = {
    "key": "polygamy",
    "label": "polygamy",
    "legend_label": "polygamy",
-   "entry_count": 10
+   "entry_count": 11
   },
   {
    "key": "polygamy-hypnosis",
@@ -9688,7 +9688,7 @@ window.CATALOG = {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 406
+   "entry_count": 407
   },
   {
    "key": "family",
@@ -9700,7 +9700,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 223
+   "entry_count": 224
   },
   {
    "key": "stepmom-control",
@@ -9760,7 +9760,7 @@ window.CATALOG = {
    "key": "widow-divorcee",
    "label": "Widowed / divorced woman hypnotised or mind-controlled",
    "legend_label": "Widowed / divorced woman hypnotised or mind-controlled",
-   "entry_count": 9
+   "entry_count": 10
   },
   {
    "key": "exwife-control",
@@ -9778,7 +9778,7 @@ window.CATALOG = {
    "key": "therapist-wife",
    "label": "Wife hypnotized / controlled by a therapist",
    "legend_label": "Wife hypnotized / controlled by a therapist",
-   "entry_count": 22
+   "entry_count": 23
   },
   {
    "key": "another-man",
@@ -554160,6 +554160,1171 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 3870,
+   "title": "The Heiress Awakens No Mercy Left",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "NetShort · 15 eps · released 21 Sep 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "An heiress kept drugged for three years by her stepmother and husband wakes from amnesia to find she has been reduced to a maid while her fortune was taken, then reclaims it.",
+   "character": "Serena (heiress)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Husband and stepmother",
+   "method": "Drugging / induced amnesia",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Catalog synopsis",
+   "adult": "no",
+   "format": "vertical-series",
+   "categories": [
+    "wife",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "DramaFeed",
+     "url": "https://drama-feed.com/en/d/1144195"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:47"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:47": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Heiress Awakens No Mercy Left",
+     "year": "2026",
+     "format": "vertical-series",
+     "meta": "NetShort · 15 eps · released 21 Sep 2026",
+     "character": "Serena (heiress)",
+     "summary": "An heiress kept drugged for three years by her stepmother and husband wakes from amnesia to find she has been reduced to a maid while her fortune was taken, then reclaims it.",
+     "hypnotist": "Husband and stepmother",
+     "method": "Drugging / induced amnesia",
+     "categories": [
+      "wife",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "DramaFeed",
+       "url": "https://drama-feed.com/en/d/1144195"
+      }
+     ],
+     "evidence": "Catalog synopsis",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3871,
+   "title": "The Don's Wife Never Looks Back",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "ShortMax · 25 eps · published 11 Oct 2026",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A woman endures three years of a controlling marriage to a mafia don to keep her adoptive mother alive, then walks away and rebuilds her career.",
+   "character": "Elena Russo",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Dante Moretti (mafia don)",
+   "method": "Coercive control / leverage over family",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Official listing synopsis via aggregator",
+   "adult": "no",
+   "format": "vertical-series",
+   "categories": [
+    "partner-control",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "Lantern Pop",
+     "url": "https://lanternpop.com/dramas/the-don-s-wife-never-looks-back/"
+    },
+    {
+     "label": "ShortMax",
+     "url": "https://www.shorttv.live/drama/the-don%E2%80%99s-wife-never-looks-back-40323"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:48"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:48": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Don's Wife Never Looks Back",
+     "year": "2026",
+     "format": "vertical-series",
+     "meta": "ShortMax · 25 eps · published 11 Oct 2026",
+     "character": "Elena Russo",
+     "summary": "A woman endures three years of a controlling marriage to a mafia don to keep her adoptive mother alive, then walks away and rebuilds her career.",
+     "hypnotist": "Dante Moretti (mafia don)",
+     "method": "Coercive control / leverage over family",
+     "categories": [
+      "partner-control",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Lantern Pop",
+       "url": "https://lanternpop.com/dramas/the-don-s-wife-never-looks-back/"
+      },
+      {
+       "label": "ShortMax",
+       "url": "https://www.shorttv.live/drama/the-don%E2%80%99s-wife-never-looks-back-40323"
+      }
+     ],
+     "evidence": "Official listing synopsis via aggregator",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3872,
+   "title": "Time's Up, I'm Afraid",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "14 min · comedy · dir. James Button · premiered 4 Nov 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A hypnotherapist comes to suspect that she herself may be the one who has been hypnotised.",
+   "character": "Hypnotherapist (unnamed in listing)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Unknown",
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Listing logline only",
+   "adult": "no",
+   "format": "short film",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Simkl",
+     "url": "https://simkl.com/movies/3232767/times-up-im-afraid"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:49"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:49": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Time's Up, I'm Afraid",
+     "year": "2026",
+     "format": "short film",
+     "meta": "14 min · comedy · dir. James Button · premiered 4 Nov 2026",
+     "character": "Hypnotherapist (unnamed in listing)",
+     "summary": "A hypnotherapist comes to suspect that she herself may be the one who has been hypnotised.",
+     "hypnotist": "Unknown",
+     "method": "Hypnosis",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Simkl",
+       "url": "https://simkl.com/movies/3232767/times-up-im-afraid"
+      }
+     ],
+     "evidence": "Listing logline only",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3873,
+   "title": "Shades",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "US thriller · 83 min · dir. Sherell Brown · Tubi / Amazon",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A married woman in colour-coded therapy grows suspicious of her husband's supposed infidelities until it emerges that her therapist had been manipulating her perception of reality.",
+   "character": "Tish",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Her therapist (Dr. Lane, per IMDb summary)",
+   "method": "Manipulative colour-coded therapy",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Official synopsis via JustWatch",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "therapist-wife",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch",
+     "url": "https://www.justwatch.com/us/movie/shades-2026"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt39401997/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:50"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:50": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Shades",
+     "year": "2026",
+     "format": "film",
+     "meta": "US thriller · 83 min · dir. Sherell Brown · Tubi / Amazon",
+     "character": "Tish",
+     "summary": "A married woman in colour-coded therapy grows suspicious of her husband's supposed infidelities until it emerges that her therapist had been manipulating her perception of reality.",
+     "hypnotist": "Her therapist (Dr. Lane, per IMDb summary)",
+     "method": "Manipulative colour-coded therapy",
+     "categories": [
+      "therapist-wife",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch",
+       "url": "https://www.justwatch.com/us/movie/shades-2026"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt39401997/"
+      }
+     ],
+     "evidence": "Official synopsis via JustWatch",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3874,
+   "title": "Mi marido me robó la memoria",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "TVN (Chile) vertical fiction · premiered 27 Jan 2026 on TikTok/Instagram/YouTube/TVN Vertical · dir. Pablo Greene",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A young woman wakes in hospital with no memory; the man at her side claims to be her husband but inspires fear and distrust, and the title frames him as the one who took her memory.",
+   "character": "Valeria",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Tomás (claimed husband)",
+   "method": "Memory loss / implied memory theft",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Broadcaster premiere article; control element inferred from title",
+   "adult": "no",
+   "format": "vertical-series",
+   "categories": [
+    "wife",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "TVN",
+     "url": "https://www.tvn.cl/mas-de-tvn/mi-marido-me-robo-la-memoria-este-martes-es-el-gran-estreno"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:51"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:51": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Mi marido me robó la memoria",
+     "year": "2026",
+     "format": "vertical-series",
+     "meta": "TVN (Chile) vertical fiction · premiered 27 Jan 2026 on TikTok/Instagram/YouTube/TVN Vertical · dir. Pablo Greene",
+     "character": "Valeria",
+     "summary": "A young woman wakes in hospital with no memory; the man at her side claims to be her husband but inspires fear and distrust, and the title frames him as the one who took her memory.",
+     "hypnotist": "Tomás (claimed husband)",
+     "method": "Memory loss / implied memory theft",
+     "categories": [
+      "wife",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "TVN",
+       "url": "https://www.tvn.cl/mas-de-tvn/mi-marido-me-robo-la-memoria-este-martes-es-el-gran-estreno"
+      }
+     ],
+     "evidence": "Broadcaster premiere article; control element inferred from title",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3875,
+   "title": "The Uninvited (Son-eomneun Nal)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "South Korea · occult mystery · dir. Heo Jung · in post-production, sales via CJ 4DPlex (TIFF Market, Sep 2026)",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A newlywed wife grieving a miscarriage is declared possessed by an evil spirit by a mysterious shaman; her husband is drawn into a dangerous ritual while doubting the shaman's true intentions.",
+   "character": "Hee-yeon",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Tae-ju (shaman) / alleged evil spirit",
+   "method": "Possession claim and ritual",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Trade press synopsis",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "spirit",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Screen Daily",
+     "url": "https://www.screendaily.com/news/korean-occult-feature-the-uninvited-makes-tiff-market-debut-with-cj-4dplex/5220329.article"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:52"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:52": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Uninvited (Son-eomneun Nal)",
+     "year": "2026",
+     "format": "film",
+     "meta": "South Korea · occult mystery · dir. Heo Jung · in post-production, sales via CJ 4DPlex (TIFF Market, Sep 2026)",
+     "character": "Hee-yeon",
+     "summary": "A newlywed wife grieving a miscarriage is declared possessed by an evil spirit by a mysterious shaman; her husband is drawn into a dangerous ritual while doubting the shaman's true intentions.",
+     "hypnotist": "Tae-ju (shaman) / alleged evil spirit",
+     "method": "Possession claim and ritual",
+     "categories": [
+      "spirit",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "Screen Daily",
+       "url": "https://www.screendaily.com/news/korean-occult-feature-the-uninvited-makes-tiff-market-debut-with-cj-4dplex/5220329.article"
+      }
+     ],
+     "evidence": "Trade press synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3876,
+   "title": "The Leader",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Canada/USA · 104 min · dir. Michael Gallagher · Tribeca 2026, Fantasia 30 Jul 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Dramatisation of how Bonnie Lu Nettles and Marshall Applewhite formed the Heaven's Gate group, renaming followers and indoctrinating them into regimented lives in which freedom of choice is removed.",
+   "character": "Heaven's Gate followers",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "\"Do\" and \"Ti\" (Nettles and Applewhite)",
+   "method": "Cult indoctrination",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Festival programme note",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Fantasia Festival",
+     "url": "https://fantasiafestival.com/en/film/the-leader"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:53"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:53": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Leader",
+     "year": "2026",
+     "format": "film",
+     "meta": "Canada/USA · 104 min · dir. Michael Gallagher · Tribeca 2026, Fantasia 30 Jul 2026",
+     "character": "Heaven's Gate followers",
+     "summary": "Dramatisation of how Bonnie Lu Nettles and Marshall Applewhite formed the Heaven's Gate group, renaming followers and indoctrinating them into regimented lives in which freedom of choice is removed.",
+     "hypnotist": "\"Do\" and \"Ti\" (Nettles and Applewhite)",
+     "method": "Cult indoctrination",
+     "categories": [
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Fantasia Festival",
+       "url": "https://fantasiafestival.com/en/film/the-leader"
+      }
+     ],
+     "evidence": "Festival programme note",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3877,
+   "title": "Empress of Revenge: Marrying the Imperial Advisor as My Queen (复仇女帝：拐个国师做皇后)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Chinese mainland short drama · from 2 Apr 2026 · BiliBili",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A princess married to the Imperial Advisor is afflicted with a love-binding Gu parasite, is framed by a rival, and later takes the throne and seeks revenge before the misunderstandings are explained.",
+   "character": "Princess Yun Qing",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Love-binding 'Concentric Gu' (inflicter not named in listing)",
+   "method": "Gu parasite (love-binding)",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Platform synopsis",
+   "adult": "no",
+   "format": "vertical-series",
+   "categories": [
+    "royal-hypnosis",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "BiliBili",
+     "url": "https://www.bilibili.tv/en/media/2364343"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:54"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:54": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Empress of Revenge: Marrying the Imperial Advisor as My Queen (复仇女帝：拐个国师做皇后)",
+     "year": "2026",
+     "format": "vertical-series",
+     "meta": "Chinese mainland short drama · from 2 Apr 2026 · BiliBili",
+     "character": "Princess Yun Qing",
+     "summary": "A princess married to the Imperial Advisor is afflicted with a love-binding Gu parasite, is framed by a rival, and later takes the throne and seeks revenge before the misunderstandings are explained.",
+     "hypnotist": "Love-binding 'Concentric Gu' (inflicter not named in listing)",
+     "method": "Gu parasite (love-binding)",
+     "categories": [
+      "royal-hypnosis",
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "BiliBili",
+       "url": "https://www.bilibili.tv/en/media/2364343"
+      }
+     ],
+     "evidence": "Platform synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3878,
+   "title": "The Rebrand",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Canada · 80 min · dir. Kaye Adelaide · VOD 21 Jul 2026 (Level 33 Entertainment)",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A pregnant documentarian travels to the remote home of a cancelled queer influencer couple to film their relaunch, and finds her boundaries weaponised against her through escalating coercion and manipulation.",
+   "character": "Nicole",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Thistle and Blaire (influencer couple)",
+   "method": "Psychological coercion and manipulation",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Critic review",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "lesbian-couple-pregnancy",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Moviejawn",
+     "url": "https://www.moviejawn.com/home/2026/7/23/the-rebrand-review"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:55"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:55": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Rebrand",
+     "year": "2026",
+     "format": "film",
+     "meta": "Canada · 80 min · dir. Kaye Adelaide · VOD 21 Jul 2026 (Level 33 Entertainment)",
+     "character": "Nicole",
+     "summary": "A pregnant documentarian travels to the remote home of a cancelled queer influencer couple to film their relaunch, and finds her boundaries weaponised against her through escalating coercion and manipulation.",
+     "hypnotist": "Thistle and Blaire (influencer couple)",
+     "method": "Psychological coercion and manipulation",
+     "categories": [
+      "lesbian-couple-pregnancy",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Moviejawn",
+       "url": "https://www.moviejawn.com/home/2026/7/23/the-rebrand-review"
+      }
+     ],
+     "evidence": "Critic review",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3879,
+   "title": "Shackled",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "USA · 84 min · dir. Luke Spears · Blue Fox Entertainment · 11 Aug 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "In a near-future city pacified by neural implants, a neuro-engineer who suspects the devices erase free will finds the technology being used to rewrite her own memories and identity.",
+   "character": "Unnamed neuro-engineer (lead)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Corporate neural-implant system",
+   "method": "Neural implant memory rewriting",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Distributor synopsis",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "scifi",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "AceShowbiz",
+     "url": "https://www.aceshowbiz.com/movie/shackled/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:56"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:56": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Shackled",
+     "year": "2026",
+     "format": "film",
+     "meta": "USA · 84 min · dir. Luke Spears · Blue Fox Entertainment · 11 Aug 2026",
+     "character": "Unnamed neuro-engineer (lead)",
+     "summary": "In a near-future city pacified by neural implants, a neuro-engineer who suspects the devices erase free will finds the technology being used to rewrite her own memories and identity.",
+     "hypnotist": "Corporate neural-implant system",
+     "method": "Neural implant memory rewriting",
+     "categories": [
+      "scifi",
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "AceShowbiz",
+       "url": "https://www.aceshowbiz.com/movie/shackled/"
+      }
+     ],
+     "evidence": "Distributor synopsis",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3880,
+   "title": "The Lonely Snow Widow and the Cursed Ring",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Japan · adult short-form anime (8–9 min eps) · OceanVeil, Fall 2026 (from 1 Oct) · based on doujin manga by Puuzaki Puuna",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "An apartment manager uses a mysterious ring on his widowed yokai tenant; reviewers describe it as non-consensual hypnotic mind control that alters her behaviour and leaves her with no memory afterwards. Adult-rated.",
+   "character": "Mifuyu Yukino (widowed snow woman)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Satoru (apartment manager)",
+   "method": "Cursed ring (hypnotic control)",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Episode reviews",
+   "adult": "no",
+   "format": "anime-series",
+   "categories": [
+    "adult-hypnosis",
+    "widow-divorcee"
+   ],
+   "sources": [
+    {
+     "label": "Anime News Network preview guide",
+     "url": "https://www.animenewsnetwork.com/preview-guide/2026/fall/the-lonely-snow-widow-and-the-cursed-ring/.241388"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:57"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:57": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Lonely Snow Widow and the Cursed Ring",
+     "year": "2026",
+     "format": "anime-series",
+     "meta": "Japan · adult short-form anime (8–9 min eps) · OceanVeil, Fall 2026 (from 1 Oct) · based on doujin manga by Puuzaki Puuna",
+     "character": "Mifuyu Yukino (widowed snow woman)",
+     "summary": "An apartment manager uses a mysterious ring on his widowed yokai tenant; reviewers describe it as non-consensual hypnotic mind control that alters her behaviour and leaves her with no memory afterwards. Adult-rated.",
+     "hypnotist": "Satoru (apartment manager)",
+     "method": "Cursed ring (hypnotic control)",
+     "categories": [
+      "adult-hypnosis",
+      "widow-divorcee"
+     ],
+     "sources": [
+      {
+       "label": "Anime News Network preview guide",
+       "url": "https://www.animenewsnetwork.com/preview-guide/2026/fall/the-lonely-snow-widow-and-the-cursed-ring/.241388"
+      }
+     ],
+     "evidence": "Episode reviews",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3881,
+   "title": "Féminin sacré (Enquête sur des dérives sectaires)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "France · France Télévisions (Slash / Creators) · dir. Nadège Justinian with journalist Astrig Agopian · published 10 Sep 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Investigative documentary following a journalist into the 'sacred feminine' wellness movement, where rituals and guides draw vulnerable women into cult-like psychological hold and induced trance states.",
+   "character": "Astrig Agopian and adult women followers",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Movement guides and course leaders",
+   "method": "Cult-like psychological influence, trance-inducing rituals",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Broadcaster programme page",
+   "adult": "no",
+   "format": "documentary",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "France TV & Vous",
+     "url": "https://www.francetelevisions.fr/et-vous/creators/societe/feminin-sacre-59953"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:58"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:58": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Féminin sacré (Enquête sur des dérives sectaires)",
+     "year": "2026",
+     "format": "documentary",
+     "meta": "France · France Télévisions (Slash / Creators) · dir. Nadège Justinian with journalist Astrig Agopian · published 10 Sep 2026",
+     "character": "Astrig Agopian and adult women followers",
+     "summary": "Investigative documentary following a journalist into the 'sacred feminine' wellness movement, where rituals and guides draw vulnerable women into cult-like psychological hold and induced trance states.",
+     "hypnotist": "Movement guides and course leaders",
+     "method": "Cult-like psychological influence, trance-inducing rituals",
+     "categories": [
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "France TV & Vous",
+       "url": "https://www.francetelevisions.fr/et-vous/creators/societe/feminin-sacre-59953"
+      }
+     ],
+     "evidence": "Broadcaster programme page",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3882,
+   "title": "Trago Seu Amor",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Brazil · 79 min · comedy/romance/fantasy · dir. Claudia Castro · BR release 6 Nov 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A self-centred witch whose kiss makes people fall in love with her, or back in love with their last love, is hired to cast a love spell on a woman and ends up falling for her instead.",
+   "character": "Renê (spell target) and clients",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Mia (witch)",
+   "method": "Love spell by kiss",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database synopsis",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "love",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/1368576-trago-seu-amor"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:59"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:59": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Trago Seu Amor",
+     "year": "2026",
+     "format": "film",
+     "meta": "Brazil · 79 min · comedy/romance/fantasy · dir. Claudia Castro · BR release 6 Nov 2026",
+     "character": "Renê (spell target) and clients",
+     "summary": "A self-centred witch whose kiss makes people fall in love with her, or back in love with their last love, is hired to cast a love spell on a woman and ends up falling for her instead.",
+     "hypnotist": "Mia (witch)",
+     "method": "Love spell by kiss",
+     "categories": [
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/1368576-trago-seu-amor"
+      }
+     ],
+     "evidence": "Database synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3883,
+   "title": "Teesri Begum (Third Wife)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "India · Hindi · dir./prod. K. C. Bokadia · released 22 May 2026, later OTT",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A woman is tricked into marrying a man who already has two wives and is pressured to convert; the three wives eventually unite to escape the marriage.",
+   "character": "Pooja Dixit (renamed Nagma), Tabassum, Shabana",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Babban Khan (husband)",
+   "method": "Deceptive marriage and coercion",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Encyclopedia plot summary citing reviews",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "polygamy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Teesri_Begum"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:60"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:60": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Teesri Begum (Third Wife)",
+     "year": "2026",
+     "format": "film",
+     "meta": "India · Hindi · dir./prod. K. C. Bokadia · released 22 May 2026, later OTT",
+     "character": "Pooja Dixit (renamed Nagma), Tabassum, Shabana",
+     "summary": "A woman is tricked into marrying a man who already has two wives and is pressured to convert; the three wives eventually unite to escape the marriage.",
+     "hypnotist": "Babban Khan (husband)",
+     "method": "Deceptive marriage and coercion",
+     "categories": [
+      "polygamy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Teesri_Begum"
+      }
+     ],
+     "evidence": "Encyclopedia plot summary citing reviews",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3884,
+   "title": "催眠で妻を寝取らせたかっただけなのに (De Wo Rasetakattadakenanoni)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Japan · Japanese · Rinjin X · released 31 Oct 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A husband arranges for his wife to be hypnotized and taken by another man, and the arrangement changes the husband as well.",
+   "character": "Unnamed wife",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Another man, at the husband's request",
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database entry synopsis",
+   "adult": "no",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "adult-hypnosis",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "NTRDB",
+     "url": "https://ntrdb.com/works/de-wo-rasetakattadakenanoni"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:61"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:61": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "催眠で妻を寝取らせたかっただけなのに (De Wo Rasetakattadakenanoni)",
+     "year": "2026",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "Japan · Japanese · Rinjin X · released 31 Oct 2026",
+     "character": "Unnamed wife",
+     "summary": "A husband arranges for his wife to be hypnotized and taken by another man, and the arrangement changes the husband as well.",
+     "hypnotist": "Another man, at the husband's request",
+     "method": "Hypnosis",
+     "categories": [
+      "adult-hypnosis",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "NTRDB",
+       "url": "https://ntrdb.com/works/de-wo-rasetakattadakenanoni"
+      }
+     ],
+     "evidence": "Database entry synopsis",
+     "confidence_flag": "Single source · flag"
+    }
+   }
   }
  ],
  "sections": [
@@ -558477,6 +559642,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3880,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3829,
        "from_source": "deep-refresh-nov04"
       },
@@ -558513,6 +559682,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3872,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3802,
        "from_source": "deep-refresh-oct30"
       },
@@ -558530,6 +559703,10 @@ window.CATALOG = {
       },
       {
        "id": 3826,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3884,
        "from_source": "deep-refresh-nov04"
       }
      ],
@@ -559731,7 +560908,15 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3881,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3860,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3876,
        "from_source": "deep-refresh-nov04"
       },
       {
@@ -560795,6 +561980,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov04"
       },
       {
+       "id": 3877,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3266,
        "from_source": "deep-refresh-oct18"
       },
@@ -561821,6 +563010,10 @@ window.CATALOG = {
       {
        "id": 3316,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3879,
+       "from_source": "deep-refresh-nov04"
       },
       {
        "id": 3794,
@@ -564426,6 +565619,10 @@ window.CATALOG = {
       },
       {
        "id": 3827,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3882,
        "from_source": "deep-refresh-nov04"
       },
       {
@@ -567847,6 +569044,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct30"
       },
       {
+       "id": 3871,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3771,
        "from_source": "deep-refresh-oct30"
       },
@@ -567864,6 +569065,10 @@ window.CATALOG = {
       },
       {
        "id": 3864,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3874,
        "from_source": "deep-refresh-nov04"
       },
       {
@@ -574886,6 +576091,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct30"
       },
       {
+       "id": 3870,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3786,
        "from_source": "deep-refresh-oct30"
       },
@@ -574899,6 +576108,10 @@ window.CATALOG = {
       },
       {
        "id": 3865,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3874,
        "from_source": "deep-refresh-nov04"
       },
       {
@@ -574930,7 +576143,15 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3875,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3852,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3884,
        "from_source": "deep-refresh-nov04"
       },
       {
@@ -576670,6 +577891,10 @@ window.CATALOG = {
        "from_source": "deep-gap-oct15"
       },
       {
+       "id": 3871,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 1182,
        "from_source": "deep-gap-oct15"
       },
@@ -577088,7 +578313,8 @@ window.CATALOG = {
     "deep-refresh-oct18",
     "hypnosis-deep-oct25",
     "hypnosis-deep-oct25c",
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "deep-refresh-nov04"
    ],
    "groups": [
     {
@@ -577398,6 +578624,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3877,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3817,
        "from_source": "deep-refresh-oct30"
       },
@@ -577453,7 +578683,8 @@ window.CATALOG = {
     "deep-refresh-oct18": null,
     "hypnosis-deep-oct25": null,
     "hypnosis-deep-oct25c": null,
-    "deep-refresh-oct30": null
+    "deep-refresh-oct30": null,
+    "deep-refresh-nov04": null
    }
   },
   {
@@ -577503,7 +578734,8 @@ window.CATALOG = {
     "deep-refresh-oct18",
     "deep-oct24",
     "hypnosis-deep-oct25c",
-    "hypno-kids-witness-oct25"
+    "hypno-kids-witness-oct25",
+    "deep-refresh-nov04"
    ],
    "groups": [
     {
@@ -579801,6 +581033,10 @@ window.CATALOG = {
       {
        "id": 3261,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3882,
+       "from_source": "deep-refresh-nov04"
       }
      ],
      "from_source": "deep-gap-oct15"
@@ -579898,7 +581134,8 @@ window.CATALOG = {
     "deep-refresh-oct18": null,
     "deep-oct24": null,
     "hypnosis-deep-oct25c": null,
-    "hypno-kids-witness-oct25": null
+    "hypno-kids-witness-oct25": null,
+    "deep-refresh-nov04": null
    }
   },
   {
@@ -580769,7 +582006,8 @@ window.CATALOG = {
     "round2",
     "gap-check-vertical-oct15",
     "deep-refresh-oct18",
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "deep-refresh-nov04"
    ],
    "groups": [
     {
@@ -581313,6 +582551,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3878,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3252,
        "from_source": "deep-refresh-oct18"
       },
@@ -581345,7 +582587,8 @@ window.CATALOG = {
     "round2": null,
     "gap-check-vertical-oct15": null,
     "deep-refresh-oct18": null,
-    "deep-refresh-oct30": null
+    "deep-refresh-oct30": null,
+    "deep-refresh-nov04": null
    }
   },
   {
@@ -583585,6 +584828,10 @@ window.CATALOG = {
       {
        "id": 3116,
        "from_source": "deep-gap-oct15"
+      },
+      {
+       "id": 3873,
+       "from_source": "deep-refresh-nov04"
       },
       {
        "id": 3114,
@@ -589083,11 +590330,19 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3870,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3314,
        "from_source": "deep-refresh-oct18"
       },
       {
        "id": 3853,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3878,
        "from_source": "deep-refresh-nov04"
       },
       {
@@ -590202,6 +591457,10 @@ window.CATALOG = {
       {
        "id": 3804,
        "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3883,
+       "from_source": "deep-refresh-nov04"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -602421,6 +603680,10 @@ window.CATALOG = {
       {
        "id": 3812,
        "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3879,
+       "from_source": "deep-refresh-nov04"
       }
      ],
      "from_source": "deep-refresh-oct30"
@@ -604307,6 +605570,10 @@ window.CATALOG = {
       {
        "id": 3331,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3875,
+       "from_source": "deep-refresh-nov04"
       },
       {
        "id": 3307,
@@ -609409,6 +610676,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3880,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3828,
        "from_source": "deep-refresh-nov04"
       },
@@ -612748,7 +614019,8 @@ window.CATALOG = {
     "wife-hypnosis-oct15",
     "female-wife-scenes-oct15",
     "youtube-deep-oct15",
-    "hypnosis-yt-oct15"
+    "hypnosis-yt-oct15",
+    "deep-refresh-nov04"
    ],
    "groups": [
     {
@@ -612986,6 +614258,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-yt-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3873,
+       "from_source": "deep-refresh-nov04"
+      }
+     ],
+     "from_source": "deep-refresh-nov04"
     }
    ],
    "declared_count_by_source": {
@@ -612997,7 +614280,8 @@ window.CATALOG = {
     "wife-hypnosis-oct15": null,
     "female-wife-scenes-oct15": null,
     "youtube-deep-oct15": null,
-    "hypnosis-yt-oct15": null
+    "hypnosis-yt-oct15": null,
+    "deep-refresh-nov04": null
    }
   },
   {
