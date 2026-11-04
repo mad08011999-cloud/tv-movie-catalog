@@ -9132,10 +9132,26 @@
     {
      "title": "Our House / Khang baan",
      "reason": "Possession of husband only"
+    },
+    {
+     "title": "Hostile (2026)",
+     "reason": "Adopted adolescent girls — minors flag"
+    },
+    {
+     "title": "催●洗脳改〜完堕ち温泉編〜",
+     "reason": "Character ages unverified; only aggregator sources — flagged"
+    },
+    {
+     "title": "宫蛊记",
+     "reason": "Only unofficial streaming-aggregator sources"
+    },
+    {
+     "title": "Seduce Her for Me",
+     "reason": "No control element"
     }
    ],
    "check": {
-    "raw_count": 25,
+    "raw_count": 46,
     "ok": true
    },
    "status": "local"
@@ -9219,10 +9235,10 @@
   "hypno-kids-witness-unverified-oct25": 8,
   "hypnosis-imdb-list-full-oct25": 482,
   "deep-refresh-oct30": 75,
-  "deep-refresh-nov04": 25
+  "deep-refresh-nov04": 46
  },
- "raw_total": 7195,
- "entry_count": 3655,
+ "raw_total": 7216,
+ "entry_count": 3676,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -9252,7 +9268,7 @@
    "key": "walkin",
    "label": "Child walks in on parents’ intimate scene",
    "legend_label": "Child walks in on parents’ intimate scene",
-   "entry_count": 45
+   "entry_count": 46
   },
   {
    "key": "index-62",
@@ -9270,13 +9286,13 @@
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 56
+   "entry_count": 58
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 152
+   "entry_count": 155
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -9300,7 +9316,7 @@
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 303
+   "entry_count": 304
   },
   {
    "key": "child-controller",
@@ -9312,7 +9328,7 @@
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 56
+   "entry_count": 61
   },
   {
    "key": "india-control",
@@ -9330,7 +9346,7 @@
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 346
+   "entry_count": 350
   },
   {
    "key": "index-56",
@@ -9360,7 +9376,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 120
+   "entry_count": 125
   },
   {
    "key": "index-54",
@@ -9390,7 +9406,7 @@
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 191
+   "entry_count": 193
   },
   {
    "key": "royal-hypnosis",
@@ -9432,7 +9448,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 241
+   "entry_count": 242
   },
   {
    "key": "mom-partner-control",
@@ -9462,7 +9478,7 @@
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 433
+   "entry_count": 435
   },
   {
    "key": "parents-sleeping",
@@ -9498,7 +9514,7 @@
    "key": "polygamy",
    "label": "polygamy",
    "legend_label": "polygamy",
-   "entry_count": 8
+   "entry_count": 10
   },
   {
    "key": "polygamy-hypnosis",
@@ -9528,7 +9544,7 @@
    "key": "pregnant",
    "label": "pregnant",
    "legend_label": "pregnant",
-   "entry_count": 63
+   "entry_count": 64
   },
   {
    "key": "belly-kissed",
@@ -9606,7 +9622,7 @@
    "key": "pregnancy-evil",
    "label": "Pregnant women controlled / possessed by evil forces",
    "legend_label": "Pregnant women controlled / possessed by evil forces",
-   "entry_count": 77
+   "entry_count": 79
   },
   {
    "key": "regional-pregnancy",
@@ -9684,7 +9700,7 @@
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 218
+   "entry_count": 223
   },
   {
    "key": "stepmom-control",
@@ -9744,7 +9760,7 @@
    "key": "widow-divorcee",
    "label": "Widowed / divorced woman hypnotised or mind-controlled",
    "legend_label": "Widowed / divorced woman hypnotised or mind-controlled",
-   "entry_count": 8
+   "entry_count": 9
   },
   {
    "key": "exwife-control",
@@ -9768,7 +9784,7 @@
    "key": "another-man",
    "label": "Wife with children pregnant by another man",
    "legend_label": "Wife with children pregnant by another man",
-   "entry_count": 44
+   "entry_count": 45
   },
   {
    "key": "devil-deal-pregnancy",
@@ -552449,6 +552465,1701 @@
      ]
     }
    }
+  },
+  {
+   "id": 3849,
+   "title": "Stealing the Princess's Skin: My Sorcerer Husband's Dark Revenge",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "NetShort · 13 eps · 31 Aug 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A sorcerer performs a soul-swap ritual to bring his murdered wife back in the tyrant princess's body.",
+   "character": "Daphne / Princess Kristina",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Sorcerer Avis",
+   "method": "Soul-swap ritual",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Listing synopsis",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "walkin",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "DramaFeed",
+     "url": "https://drama-feed.com/en/d/1074223"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:26": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Stealing the Princess's Skin: My Sorcerer Husband's Dark Revenge",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "NetShort · 13 eps · 31 Aug 2026",
+     "character": "Daphne / Princess Kristina",
+     "summary": "A sorcerer performs a soul-swap ritual to bring his murdered wife back in the tyrant princess's body.",
+     "hypnotist": "Sorcerer Avis",
+     "method": "Soul-swap ritual",
+     "categories": [
+      "walkin",
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "DramaFeed",
+       "url": "https://drama-feed.com/en/d/1074223"
+      }
+     ],
+     "evidence": "Listing synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3850,
+   "title": "Fixation",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Thriller · dir. Mercedes Bryce Morgan · Maddie Hasson",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A woman accused of a murder she cannot remember is put through an experimental five-step memory therapy by doctors who may be captors.",
+   "character": "Dora",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Institution doctors",
+   "method": "Experimental therapy",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Sales-agent synopsis",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "medical",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "VMI Worldwide",
+     "url": "https://www.vmiworldwide.com/titles/fixation"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:27"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:27": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Fixation",
+     "year": "2026",
+     "format": "film",
+     "meta": "Thriller · dir. Mercedes Bryce Morgan · Maddie Hasson",
+     "character": "Dora",
+     "summary": "A woman accused of a murder she cannot remember is put through an experimental five-step memory therapy by doctors who may be captors.",
+     "hypnotist": "Institution doctors",
+     "method": "Experimental therapy",
+     "categories": [
+      "medical",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "VMI Worldwide",
+       "url": "https://www.vmiworldwide.com/titles/fixation"
+      }
+     ],
+     "evidence": "Sales-agent synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3851,
+   "title": "Soy tu mensaje",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Argentina · dir. Ricardo M. Jacobo · Inés Efron · 19 Mar 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A young woman joins a gated-community cult built around a psychoactive flower to rescue her brother, and clashes with its manipulative female leader.",
+   "character": "",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Cult leader (Inés Efron)",
+   "method": "Cult rituals / psychoactive flower",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Press interview",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Tiempo Argentino",
+     "url": "https://www.tiempoar.com.ar/ta_article/ines-efron-lidera-secta/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:28"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:28": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Soy tu mensaje",
+     "year": "2026",
+     "format": "film",
+     "meta": "Argentina · dir. Ricardo M. Jacobo · Inés Efron · 19 Mar 2026",
+     "summary": "A young woman joins a gated-community cult built around a psychoactive flower to rescue her brother, and clashes with its manipulative female leader.",
+     "hypnotist": "Cult leader (Inés Efron)",
+     "method": "Cult rituals / psychoactive flower",
+     "categories": [
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Tiempo Argentino",
+       "url": "https://www.tiempoar.com.ar/ta_article/ines-efron-lidera-secta/"
+      }
+     ],
+     "evidence": "Press interview",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3852,
+   "title": "Yiwa Datang (The Heart of Yiwha: Of Love & Vengeance)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Thailand · Channel 3 · 23 eps · 12 Jan–30 Mar 2026",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A man who learns black magic to avenge his family's killing takes his enemy's adult daughter as his wife.",
+   "character": "Yiwha (Amanda Chalisa Obdam)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Yiam",
+   "method": "Black magic / revenge",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database + review",
+   "adult": "no",
+   "format": "series",
+   "categories": [
+    "occult",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList",
+     "url": "https://nl.mydramalist.com/758369-yiwa-datang"
+    },
+    {
+     "label": "Cho Na Writes",
+     "url": "https://chonawrites.com/the-heart-of-yiwha-of-love-vengeance/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:29"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:29": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Yiwa Datang (The Heart of Yiwha: Of Love & Vengeance)",
+     "year": "2026",
+     "format": "series",
+     "meta": "Thailand · Channel 3 · 23 eps · 12 Jan–30 Mar 2026",
+     "character": "Yiwha (Amanda Chalisa Obdam)",
+     "summary": "A man who learns black magic to avenge his family's killing takes his enemy's adult daughter as his wife.",
+     "hypnotist": "Yiam",
+     "method": "Black magic / revenge",
+     "categories": [
+      "occult",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList",
+       "url": "https://nl.mydramalist.com/758369-yiwa-datang"
+      },
+      {
+       "label": "Cho Na Writes",
+       "url": "https://chonawrites.com/the-heart-of-yiwha-of-love-vengeance/"
+      }
+     ],
+     "evidence": "Database + review",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3853,
+   "title": "My Boss Controls My Dreams: Use Me, Master",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "DramaBox · 51 eps · 29 Oct 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A new employee finds her CEO boss appearing in increasingly intimate dreams that leave real marks, blurring dream and waking life.",
+   "character": "Anna",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "CEO Christian",
+   "method": "Dream control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Listing synopsis",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "fantasy",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "DramaCatalog",
+     "url": "https://dramacatalog.com/series/my-boss-controls-my-dreams-use-me-master/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:30"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:30": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "My Boss Controls My Dreams: Use Me, Master",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "DramaBox · 51 eps · 29 Oct 2026",
+     "character": "Anna",
+     "summary": "A new employee finds her CEO boss appearing in increasingly intimate dreams that leave real marks, blurring dream and waking life.",
+     "hypnotist": "CEO Christian",
+     "method": "Dream control",
+     "categories": [
+      "fantasy",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "DramaCatalog",
+       "url": "https://dramacatalog.com/series/my-boss-controls-my-dreams-use-me-master/"
+      }
+     ],
+     "evidence": "Listing synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3854,
+   "title": "Ma Xó (Maxo: Forbidden Ritual)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Vietnam · dir. Phan Bá Hỷ",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A pregnant wife, fearing another miscarriage, performs a folk ritual inviting a spirit into the home to protect the baby, and the entity turns malevolent.",
+   "character": "Thảo",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Summoned spirit",
+   "method": "Folk ritual / spirit",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Magazine synopsis",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "pregnancy-evil",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "ELLE Vietnam",
+     "url": "https://www.elle.vn/the-gioi-van-hoa/bo-phim-kinh-di-viet-elle-2026/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:31"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:31": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Ma Xó (Maxo: Forbidden Ritual)",
+     "year": "2026",
+     "format": "film",
+     "meta": "Vietnam · dir. Phan Bá Hỷ",
+     "character": "Thảo",
+     "summary": "A pregnant wife, fearing another miscarriage, performs a folk ritual inviting a spirit into the home to protect the baby, and the entity turns malevolent.",
+     "hypnotist": "Summoned spirit",
+     "method": "Folk ritual / spirit",
+     "categories": [
+      "pregnancy-evil",
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "ELLE Vietnam",
+       "url": "https://www.elle.vn/the-gioi-van-hoa/bo-phim-kinh-di-viet-elle-2026/"
+      }
+     ],
+     "evidence": "Magazine synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3855,
+   "title": "危险关系 (Dangerous Relationship)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "China · iQIYI · 22 eps · from 31 Mar 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A lecturer marries a psychiatrist who uses psychological expertise, isolation and surveillance to make her dependent on him, until she recognises the manipulation and fights back.",
+   "character": "Yan Ling (Sun Li)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Luo Liang (Wu Kang-ren)",
+   "method": "Psychological manipulation / gaslighting",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "News synopsis",
+   "adult": "no",
+   "format": "series",
+   "categories": [
+    "partner-control",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "NOWnews",
+     "url": "https://www.nownews.com/news/6803150"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:32"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:32": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "危险关系 (Dangerous Relationship)",
+     "year": "2026",
+     "format": "series",
+     "meta": "China · iQIYI · 22 eps · from 31 Mar 2026",
+     "character": "Yan Ling (Sun Li)",
+     "summary": "A lecturer marries a psychiatrist who uses psychological expertise, isolation and surveillance to make her dependent on him, until she recognises the manipulation and fights back.",
+     "hypnotist": "Luo Liang (Wu Kang-ren)",
+     "method": "Psychological manipulation / gaslighting",
+     "categories": [
+      "partner-control",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "NOWnews",
+       "url": "https://www.nownews.com/news/6803150"
+      }
+     ],
+     "evidence": "News synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3856,
+   "title": "结婚三个月，老公要和我分房睡 (Three Months into Our Marriage, My Husband Wants to Sleep in a Separate Room)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "China · Hongguo · 50 eps · 22 May 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "An ER doctor investigating strange events at home is told by her new husband that she is hallucinating from stress, a deliberate campaign to make her doubt herself.",
+   "character": "Lin Wanwan",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Gu Yan",
+   "method": "Gaslighting / mental manipulation",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database synopsis",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "partner-control",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Vertlas",
+     "url": "https://vertlas.com/drama/three-months-into-our-marriage-my-husband-wants-to-sleep-in-a-separate-room"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:33"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:33": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "结婚三个月，老公要和我分房睡 (Three Months into Our Marriage, My Husband Wants to Sleep in a Separate Room)",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "China · Hongguo · 50 eps · 22 May 2026",
+     "character": "Lin Wanwan",
+     "summary": "An ER doctor investigating strange events at home is told by her new husband that she is hallucinating from stress, a deliberate campaign to make her doubt herself.",
+     "hypnotist": "Gu Yan",
+     "method": "Gaslighting / mental manipulation",
+     "categories": [
+      "partner-control",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "Vertlas",
+       "url": "https://vertlas.com/drama/three-months-into-our-marriage-my-husband-wants-to-sleep-in-a-separate-room"
+      }
+     ],
+     "evidence": "Database synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3857,
+   "title": "Si tu penses bien",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "France · dir. Géraldine Nakache · 16 Sep 2026",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A wife and mother is gradually isolated, monitored and dominated by her husband through guilt and control.",
+   "character": "Gil (Monia Chokri)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Jacques (Niels Schneider)",
+   "method": "Coercive control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Press reviews",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "partner-control",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "20 Minutes",
+     "url": "https://www.20minutes.fr/arts-stars/cinema/festival_de_cannes/4245150-20260916-si-penses-bien-confronte-femme-emprise-ordinaire-mari-toxique"
+    },
+    {
+     "label": "Paris Match",
+     "url": "https://www.parismatch.com/si-tu-penses-bien-la-critique-dun-film-necessaire-sur-lemprise-psychologique-3QQbMvHEskE4MvEXM5VQT8"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:34"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:34": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Si tu penses bien",
+     "year": "2026",
+     "format": "film",
+     "meta": "France · dir. Géraldine Nakache · 16 Sep 2026",
+     "character": "Gil (Monia Chokri)",
+     "summary": "A wife and mother is gradually isolated, monitored and dominated by her husband through guilt and control.",
+     "hypnotist": "Jacques (Niels Schneider)",
+     "method": "Coercive control",
+     "categories": [
+      "partner-control",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "20 Minutes",
+       "url": "https://www.20minutes.fr/arts-stars/cinema/festival_de_cannes/4245150-20260916-si-penses-bien-confronte-femme-emprise-ordinaire-mari-toxique"
+      },
+      {
+       "label": "Paris Match",
+       "url": "https://www.parismatch.com/si-tu-penses-bien-la-critique-dun-film-necessaire-sur-lemprise-psychologique-3QQbMvHEskE4MvEXM5VQT8"
+      }
+     ],
+     "evidence": "Press reviews",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3858,
+   "title": "Like at Home (Feels Like Home)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Hungary · dir. Gábor Holtai · Sitges Méliès d'Argent; festival run 2026 (Moventra lists 2026)",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A young woman is kidnapped by a family who insist she is their long-lost daughter and force her to live the imposed identity, gradually eroding her sense of self.",
+   "character": "Rita (Rozi Lovas)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Marcy (Áron Molnár) and family",
+   "method": "Captivity / identity manipulation",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Festival review + listing",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "crime",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Vreme",
+     "url": "https://vreme.com/en/kultura/sta-se-desi-kad-vam-oduzmu-identitet/"
+    },
+    {
+     "label": "Moventra",
+     "url": "https://www.moventra.app/movies/feels-like-home-2026"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:35"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:35": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Like at Home (Feels Like Home)",
+     "year": "2025",
+     "format": "film",
+     "meta": "Hungary · dir. Gábor Holtai · Sitges Méliès d'Argent; festival run 2026 (Moventra lists 2026)",
+     "character": "Rita (Rozi Lovas)",
+     "summary": "A young woman is kidnapped by a family who insist she is their long-lost daughter and force her to live the imposed identity, gradually eroding her sense of self.",
+     "hypnotist": "Marcy (Áron Molnár) and family",
+     "method": "Captivity / identity manipulation",
+     "categories": [
+      "crime",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Vreme",
+       "url": "https://vreme.com/en/kultura/sta-se-desi-kad-vam-oduzmu-identitet/"
+      },
+      {
+       "label": "Moventra",
+       "url": "https://www.moventra.app/movies/feels-like-home-2026"
+      }
+     ],
+     "evidence": "Festival review + listing",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3859,
+   "title": "Estoy embarazada, y el bebé no es tuyo (The Baby I'm Carrying Isn't Yours)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "GoodShort · 37 eps · Spanish dub",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A wife betrayed by her CEO husband deliberately becomes pregnant by another man and leaves him.",
+   "character": "Iris",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "(none; revenge pregnancy)",
+   "method": "Another man's child",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "News + listing",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "another-man",
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "La Razón de México",
+     "url": "https://www.razon.com.mx/entretenimiento/2026/08/30/estoy-embarazada-y-el-bebe-no-es-tuyo-donde-ver-la-serie/"
+    },
+    {
+     "label": "PlotFans",
+     "url": "https://www.plotfans.com/es/series/estoy-embarazada-no-es-tuyo"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:36"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:36": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Estoy embarazada, y el bebé no es tuyo (The Baby I'm Carrying Isn't Yours)",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "GoodShort · 37 eps · Spanish dub",
+     "character": "Iris",
+     "summary": "A wife betrayed by her CEO husband deliberately becomes pregnant by another man and leaves him.",
+     "hypnotist": "(none; revenge pregnancy)",
+     "method": "Another man's child",
+     "categories": [
+      "another-man",
+      "pregnant"
+     ],
+     "sources": [
+      {
+       "label": "La Razón de México",
+       "url": "https://www.razon.com.mx/entretenimiento/2026/08/30/estoy-embarazada-y-el-bebe-no-es-tuyo-donde-ver-la-serie/"
+      },
+      {
+       "label": "PlotFans",
+       "url": "https://www.plotfans.com/es/series/estoy-embarazada-no-es-tuyo"
+      }
+     ],
+     "evidence": "News + listing",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3860,
+   "title": "Karma",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "France · dir. Guillaume Canet · Cannes 2026 (out of competition); French release 21 Oct 2026",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A woman who fled the reclusive community she grew up in is forced to return to it and to the guru who dominates its members.",
+   "character": "Jeanne (Marion Cotillard)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Marc (Denis Ménochet)",
+   "method": "Cult control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Press coverage + review",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/cinema/980822/marion-cotillard-explore-emprise-sectaire-karma"
+    },
+    {
+     "label": "s2pmag",
+     "url": "https://s2pmag.ch/karma-un-thriller-efficace-sur-lemprise-sectaire/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:37"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:37": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Karma",
+     "year": "2026",
+     "format": "film",
+     "meta": "France · dir. Guillaume Canet · Cannes 2026 (out of competition); French release 21 Oct 2026",
+     "character": "Jeanne (Marion Cotillard)",
+     "summary": "A woman who fled the reclusive community she grew up in is forced to return to it and to the guru who dominates its members.",
+     "hypnotist": "Marc (Denis Ménochet)",
+     "method": "Cult control",
+     "categories": [
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Le Devoir",
+       "url": "https://www.ledevoir.com/culture/cinema/980822/marion-cotillard-explore-emprise-sectaire-karma"
+      },
+      {
+       "label": "s2pmag",
+       "url": "https://s2pmag.ch/karma-un-thriller-efficace-sur-lemprise-sectaire/"
+      }
+     ],
+     "evidence": "Press coverage + review",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3861,
+   "title": "El vientre del diablo",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Turkish horror (cast Miray Arıkan Aydın, Aslı Bankoğlu); Colombian release 19 Nov 2026 · original Turkish title/year unverified",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A woman desperate to have children turns to a forbidden witchcraft pact; she conceives, but the pact drags her family into a curse.",
+   "character": "Unnamed wife",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Witchcraft pact",
+   "method": "Black magic / cursed pregnancy",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Cinema listing synopsis",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "pregnancy-evil",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Cinemas Procinal",
+     "url": "https://www.procinal.com.co/pelicula/el-vientre-del-diablo"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:38"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:38": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "El vientre del diablo",
+     "year": "2026",
+     "format": "film",
+     "meta": "Turkish horror (cast Miray Arıkan Aydın, Aslı Bankoğlu); Colombian release 19 Nov 2026 · original Turkish title/year unverified",
+     "character": "Unnamed wife",
+     "summary": "A woman desperate to have children turns to a forbidden witchcraft pact; she conceives, but the pact drags her family into a curse.",
+     "hypnotist": "Witchcraft pact",
+     "method": "Black magic / cursed pregnancy",
+     "categories": [
+      "pregnancy-evil",
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "Cinemas Procinal",
+       "url": "https://www.procinal.com.co/pelicula/el-vientre-del-diablo"
+      }
+     ],
+     "evidence": "Cinema listing synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3862,
+   "title": "The Ghost Marriage",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "情棺 · Mainland China · dir. Sylvan Zhao · iQIYI International",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "An actress is haunted nightly by the ghost of her ghost marriage, which pursues her; a doctor later finds her as a disturbed village woman amid a village bully's conspiracy and an old curse.",
+   "character": "Liu Qing (actress)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Ghost-marriage spirit",
+   "method": "Spirit haunting / curse",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Platform synopsis",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "iQIYI",
+     "url": "https://www.iq.com/wiki/en_us/album/the-ghost-marriage-2026-18lnyzdm2bo"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt40623407/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:39"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:39": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Ghost Marriage",
+     "year": "2026",
+     "format": "film",
+     "meta": "情棺 · Mainland China · dir. Sylvan Zhao · iQIYI International",
+     "character": "Liu Qing (actress)",
+     "summary": "An actress is haunted nightly by the ghost of her ghost marriage, which pursues her; a doctor later finds her as a disturbed village woman amid a village bully's conspiracy and an old curse.",
+     "hypnotist": "Ghost-marriage spirit",
+     "method": "Spirit haunting / curse",
+     "categories": [
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "iQIYI",
+       "url": "https://www.iq.com/wiki/en_us/album/the-ghost-marriage-2026-18lnyzdm2bo"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt40623407/"
+      }
+     ],
+     "evidence": "Platform synopsis",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3863,
+   "title": "阴阳路惊魂",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Chinese folk horror · theatrical release 30 Oct 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A long-dormant ghost-marriage curse reawakens in a Republican-era town, with red bridal garments, paper effigies and soul-binding rituals.",
+   "character": "Unspecified",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Ghost-marriage curse",
+   "method": "Folk ritual / soul-binding curse",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Release announcement",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Sina Entertainment",
+     "url": "https://k.sina.cn/article_5538664098_m14a214ea203301jnyg.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:40"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:40": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "阴阳路惊魂",
+     "year": "2026",
+     "format": "film",
+     "meta": "Chinese folk horror · theatrical release 30 Oct 2026",
+     "character": "Unspecified",
+     "summary": "A long-dormant ghost-marriage curse reawakens in a Republican-era town, with red bridal garments, paper effigies and soul-binding rituals.",
+     "hypnotist": "Ghost-marriage curse",
+     "method": "Folk ritual / soul-binding curse",
+     "categories": [
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "Sina Entertainment",
+       "url": "https://k.sina.cn/article_5538664098_m14a214ea203301jnyg.html"
+      }
+     ],
+     "evidence": "Release announcement",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3864,
+   "title": "Madu atau Racun",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Malaysia · iQIYI Original / MIG Production · 12 eps · premiered 14 Aug 2026; remaining episodes postponed after controversy",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A childless wife's businessman husband takes a young second wife and forces both to live under one roof; the two women come to see his manipulation as the real cause of their conflict, amid domestic abuse.",
+   "character": "Azura (first wife); Nikita (second wife)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Adli (husband)",
+   "method": "Psychological manipulation / coercion",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Encyclopedia premise citing Harian Metro / Berita Harian",
+   "adult": "no",
+   "format": "series",
+   "categories": [
+    "polygamy",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (ms)",
+     "url": "https://ms.wikipedia.org/wiki/Madu_atau_Racun"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:41"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:41": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Madu atau Racun",
+     "year": "2026",
+     "format": "series",
+     "meta": "Malaysia · iQIYI Original / MIG Production · 12 eps · premiered 14 Aug 2026; remaining episodes postponed after controversy",
+     "character": "Azura (first wife); Nikita (second wife)",
+     "summary": "A childless wife's businessman husband takes a young second wife and forces both to live under one roof; the two women come to see his manipulation as the real cause of their conflict, amid domestic abuse.",
+     "hypnotist": "Adli (husband)",
+     "method": "Psychological manipulation / coercion",
+     "categories": [
+      "polygamy",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (ms)",
+       "url": "https://ms.wikipedia.org/wiki/Madu_atau_Racun"
+      }
+     ],
+     "evidence": "Encyclopedia premise citing Harian Metro / Berita Harian",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3865,
+   "title": "Married to a Deity",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Nollywood · Lizzygold Onuwaje, Clems Agbogidi · full movie on YouTube",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A native doctor who styles himself a god uses love charms to make village women marry and worship him; one woman later breaks the spell and turns it back on him.",
+   "character": "Kelechi; Bochi (village women)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Ogedi / Chukwuemeka (native doctor)",
+   "method": "Love charm / juju spell",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Full film transcript on YouTube",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "occult",
+    "wife",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (full movie)",
+     "url": "https://www.youtube.com/watch?v=DVQL1SraybQ"
+    }
+   ],
+   "youtube_ids": [
+    "DVQL1SraybQ"
+   ],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:42"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/DVQL1SraybQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:42": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Married to a Deity",
+     "year": "2026",
+     "format": "film",
+     "meta": "Nollywood · Lizzygold Onuwaje, Clems Agbogidi · full movie on YouTube",
+     "character": "Kelechi; Bochi (village women)",
+     "summary": "A native doctor who styles himself a god uses love charms to make village women marry and worship him; one woman later breaks the spell and turns it back on him.",
+     "hypnotist": "Ogedi / Chukwuemeka (native doctor)",
+     "method": "Love charm / juju spell",
+     "categories": [
+      "occult",
+      "wife",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "YouTube (full movie)",
+       "url": "https://www.youtube.com/watch?v=DVQL1SraybQ"
+      }
+     ],
+     "evidence": "Full film transcript on YouTube",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3866,
+   "title": "The Scandal",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "스캔들 · South Korea · Netflix · 8 eps · released 18 Sep 2026 · Dangerous Liaisons adaptation",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A noblewoman and a libertine aristocrat agree to manipulate romantic relationships in Joseon society; a young widow becomes the target of their game.",
+   "character": "Ahn Hui-yeon (young widow)",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Lady Cho and Cho Won",
+   "method": "Seduction / psychological manipulation",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Encyclopedia synopsis + press",
+   "adult": "no",
+   "format": "series",
+   "categories": [
+    "widow-divorcee",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Scandal_(2026_TV_series)"
+    },
+    {
+     "label": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260909/the-scandal-unleashes-forbidden-passion-in-reimagined-joseon"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:43"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:43": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Scandal",
+     "year": "2026",
+     "format": "series",
+     "meta": "스캔들 · South Korea · Netflix · 8 eps · released 18 Sep 2026 · Dangerous Liaisons adaptation",
+     "character": "Ahn Hui-yeon (young widow)",
+     "summary": "A noblewoman and a libertine aristocrat agree to manipulate romantic relationships in Joseon society; a young widow becomes the target of their game.",
+     "hypnotist": "Lady Cho and Cho Won",
+     "method": "Seduction / psychological manipulation",
+     "categories": [
+      "widow-divorcee",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Scandal_(2026_TV_series)"
+      },
+      {
+       "label": "The Korea Times",
+       "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260909/the-scandal-unleashes-forbidden-passion-in-reimagined-joseon"
+      }
+     ],
+     "evidence": "Encyclopedia synopsis + press",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3867,
+   "title": "Kadhal Countdown",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Tamil · Kuku TV · 48 eps · rated A",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A woman is kidnapped and pushed toward a marriage she does not want; a feared gangster insists she will be his wife, and his protection turns into coercive household and contract-marriage control.",
+   "character": "Anika",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Ranvir (gangster)",
+   "method": "Coercion / threats / forced marriage",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Platform synopsis",
+   "adult": "no",
+   "format": "vertical-series",
+   "categories": [
+    "crime",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Kuku TV",
+     "url": "https://kukutv.app/show/kadhal-countdown"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:44"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:44": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Kadhal Countdown",
+     "year": "2026",
+     "format": "vertical-series",
+     "meta": "Tamil · Kuku TV · 48 eps · rated A",
+     "character": "Anika",
+     "summary": "A woman is kidnapped and pushed toward a marriage she does not want; a feared gangster insists she will be his wife, and his protection turns into coercive household and contract-marriage control.",
+     "hypnotist": "Ranvir (gangster)",
+     "method": "Coercion / threats / forced marriage",
+     "categories": [
+      "crime",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Kuku TV",
+       "url": "https://kukutv.app/show/kadhal-countdown"
+      }
+     ],
+     "evidence": "Platform synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3868,
+   "title": "Home Breaker",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Nollywood · dir. Frederick Leonard, Desmond Anyanwu · released 1 Jul 2026 · 2h37m",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A husband's mother arrives with a younger woman and imposes her as his second wife, turning the home into a battleground between the two wives.",
+   "character": "Akachi; Chichi",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Emeka's mother",
+   "method": "Family pressure / imposed polygamy",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database synopsis",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "polygamy"
+   ],
+   "sources": [
+    {
+     "label": "AfricanMovieDB",
+     "url": "https://africanmoviedb.com/title/home-breaker-2026"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:45"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:45": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Home Breaker",
+     "year": "2026",
+     "format": "film",
+     "meta": "Nollywood · dir. Frederick Leonard, Desmond Anyanwu · released 1 Jul 2026 · 2h37m",
+     "character": "Akachi; Chichi",
+     "summary": "A husband's mother arrives with a younger woman and imposes her as his second wife, turning the home into a battleground between the two wives.",
+     "hypnotist": "Emeka's mother",
+     "method": "Family pressure / imposed polygamy",
+     "categories": [
+      "polygamy"
+     ],
+     "sources": [
+      {
+       "label": "AfricanMovieDB",
+       "url": "https://africanmoviedb.com/title/home-breaker-2026"
+      }
+     ],
+     "evidence": "Database synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3869,
+   "title": "Lali",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "لالی · Pakistan · Punjabi · dir. Sarmad Khoosat · Berlinale Panorama premiere 20 Feb 2026",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A bride rumoured to be cursed marries an insecure man whose paranoia turns into patriarchal control; per press coverage he pretends to be possessed in order to control his wife.",
+   "character": "Zeba",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Sajawal (husband)",
+   "method": "Feigned possession / superstition / domestic control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Encyclopedia plot + trade-press headline",
+   "adult": "no",
+   "format": "film",
+   "categories": [
+    "partner-control",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Lali_(film)"
+    },
+    {
+     "label": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/lali-film-trailer-berlin-2026-first-pakistan-movie-1236493816/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov04"
+   ],
+   "source_records": [
+    "deep-refresh-nov04:46"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov04:46": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Lali",
+     "year": "2026",
+     "format": "film",
+     "meta": "لالی · Pakistan · Punjabi · dir. Sarmad Khoosat · Berlinale Panorama premiere 20 Feb 2026",
+     "character": "Zeba",
+     "summary": "A bride rumoured to be cursed marries an insecure man whose paranoia turns into patriarchal control; per press coverage he pretends to be possessed in order to control his wife.",
+     "hypnotist": "Sajawal (husband)",
+     "method": "Feigned possession / superstition / domestic control",
+     "categories": [
+      "partner-control",
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Lali_(film)"
+      },
+      {
+       "label": "The Hollywood Reporter",
+       "url": "https://www.hollywoodreporter.com/movies/movie-news/lali-film-trailer-berlin-2026-first-pakistan-movie-1236493816/"
+      }
+     ],
+     "evidence": "Encyclopedia plot + trade-press headline",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -557446,6 +559157,10 @@
       {
        "id": 3837,
        "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3849,
+       "from_source": "deep-refresh-nov04"
       }
      ],
      "from_source": "deep-refresh-oct30"
@@ -558016,6 +559731,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3860,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3824,
        "from_source": "deep-refresh-oct30"
       },
@@ -558058,6 +559777,10 @@
       {
        "id": 3252,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3851,
+       "from_source": "deep-refresh-nov04"
       },
       {
        "id": 3808,
@@ -559068,6 +560791,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3861,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3266,
        "from_source": "deep-refresh-oct18"
       },
@@ -559092,6 +560819,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3865,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3340,
        "from_source": "deep-refresh-oct18"
       },
@@ -559102,6 +560833,10 @@
       {
        "id": 3341,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3852,
+       "from_source": "deep-refresh-nov04"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -562686,6 +564421,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3853,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3827,
        "from_source": "deep-refresh-nov04"
       },
@@ -566112,6 +567851,10 @@
        "from_source": "deep-refresh-oct30"
       },
       {
+       "id": 3869,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3846,
        "from_source": "deep-refresh-nov04"
       },
@@ -566120,7 +567863,15 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3864,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3844,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3857,
        "from_source": "deep-refresh-nov04"
       },
       {
@@ -566134,6 +567885,14 @@
       {
        "id": 3773,
        "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3855,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3856,
+       "from_source": "deep-refresh-nov04"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -573139,6 +574898,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3865,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3263,
        "from_source": "deep-refresh-oct18"
       },
@@ -573159,8 +574922,24 @@
        "from_source": "deep-refresh-nov04"
       },
       {
+       "id": 3857,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3298,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3852,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3855,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3856,
+       "from_source": "deep-refresh-nov04"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -574905,6 +576684,14 @@
       {
        "id": 3284,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3867,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3858,
+       "from_source": "deep-refresh-nov04"
       },
       {
        "id": 3118,
@@ -581732,6 +583519,10 @@
        "from_source": "deep-refresh-oct30"
       },
       {
+       "id": 3850,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3113,
        "from_source": "deep-gap-oct15"
       },
@@ -584974,7 +586765,8 @@
     "youtube-india-oct15",
     "deep-refresh-oct18",
     "deep-oct24",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "deep-refresh-nov04"
    ],
    "groups": [
     {
@@ -587295,8 +589087,16 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3853,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3250,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3866,
+       "from_source": "deep-refresh-nov04"
       },
       {
        "id": 2189,
@@ -587914,7 +589714,8 @@
     "youtube-india-oct15": null,
     "deep-refresh-oct18": null,
     "deep-oct24": null,
-    "hypnosis-imdb-list-full-oct25": null
+    "hypnosis-imdb-list-full-oct25": null,
+    "deep-refresh-nov04": null
    }
   },
   {
@@ -588379,8 +590180,16 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3868,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3823,
        "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3864,
+       "from_source": "deep-refresh-nov04"
       },
       {
        "id": 3838,
@@ -590379,6 +592188,10 @@
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3859,
+       "from_source": "deep-refresh-nov04"
+      },
       {
        "id": 3845,
        "from_source": "deep-refresh-nov04"
@@ -594926,6 +596739,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3861,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3266,
        "from_source": "deep-refresh-oct18"
       },
@@ -594944,6 +596761,10 @@
       {
        "id": 3309,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3854,
+       "from_source": "deep-refresh-nov04"
       },
       {
        "id": 3812,
@@ -602428,11 +604249,23 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3862,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3342,
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3869,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3846,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3854,
        "from_source": "deep-refresh-nov04"
       },
       {
@@ -602464,6 +604297,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3849,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3320,
        "from_source": "deep-refresh-oct18"
       },
@@ -602478,6 +604315,10 @@
       {
        "id": 3336,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3863,
+       "from_source": "deep-refresh-nov04"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -607572,6 +609413,10 @@
        "from_source": "deep-refresh-nov04"
       },
       {
+       "id": 3866,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3773,
        "from_source": "deep-refresh-oct30"
       }
@@ -609489,12 +611334,28 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3850,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3302,
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3867,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3858,
+       "from_source": "deep-refresh-nov04"
+      },
+      {
        "id": 3326,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3865,
+       "from_source": "deep-refresh-nov04"
       },
       {
        "id": 3340,
@@ -612082,6 +613943,10 @@
       {
        "id": 3285,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3859,
+       "from_source": "deep-refresh-nov04"
       },
       {
        "id": 3276,
