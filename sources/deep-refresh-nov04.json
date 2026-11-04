@@ -1,0 +1,492 @@
+{
+ "id": "deep-refresh-nov04",
+ "label": "Deep refresh across all criteria (4 Nov 2026)",
+ "group_title": "Deep gap-check (missed titles)",
+ "description": "Multi-language sweep across every catalog topic, 4 Nov 2026. Adults only; non-explicit notes; every entry sourced with a confidence label.",
+ "category_labels": {},
+ "records": [
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Pendulum",
+   "year": "2027",
+   "format": "film",
+   "meta": "Thriller · dir. Mark Heyman · release 1 Jan 2027",
+   "character": "Abigail",
+   "summary": "A husband fears his wife Abigail has been drawn into a cult by a charismatic retreat leader.",
+   "hypnotist": "Retreat leader (Jacki Weaver)",
+   "method": "Cult persuasion",
+   "categories": [
+    "cult",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "JRL Charts",
+     "url": "https://jrlcharts.com/2026/11/01/joseph-gordon-levitt-fears-his-wife-joined-a-cult-in-terrifying-pendulum-trailer/"
+    },
+    {
+     "label": "Vertical Entertainment",
+     "url": "https://vert-ent.com/library/pendulum"
+    }
+   ],
+   "evidence": "Trailer coverage + distributor page",
+   "confidence_flag": "High · 3+ sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (18+; non-explicit note)",
+   "title": "催眠で妻を寝取らせたかっただけなのに",
+   "year": "2026",
+   "format": "illustrated work (DLsite)",
+   "meta": "Adult illustrated work · circle Rinjin X · 31 Oct 2026",
+   "summary": "A husband uses hypnosis on his adult wife in a scheme involving another man.",
+   "hypnotist": "Husband",
+   "method": "Hypnosis",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "NTRDB",
+     "url": "https://ntrdb.com/works/de-wo-rasetakattadakenanoni"
+    }
+   ],
+   "evidence": "Database listing",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "My Patient Is a Mermaid",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "ReelShort · 30 eps · 24 Sep 2026",
+   "character": "Elena",
+   "summary": "Psychotherapist Daniel hypnotizes his patient Elena, who turns out to be a siren.",
+   "hypnotist": "Psychotherapist Daniel",
+   "method": "Hypnotherapy",
+   "categories": [
+    "fantasy",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "DramaFeed",
+     "url": "https://drama-feed.com/en/d/1144421"
+    },
+    {
+     "label": "ReelShort",
+     "url": "https://www.reelshort.com/episodes/episode-11-my-patient-is-a-mermaid-6ab380ed0293757f780fb454-j48p2brvmy"
+    }
+   ],
+   "evidence": "Listing + platform episode page",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "A Pregnant Widow",
+   "year": "2025",
+   "format": "film",
+   "meta": "Malayalam film · dir. Unni K.R.",
+   "character": "Ambika (Twinkle Joby)",
+   "summary": "A pregnant widow struggles against social and institutional pressure after her husband's death.",
+   "hypnotist": "n/a",
+   "method": "Social pressure",
+   "categories": [
+    "widow-divorcee"
+   ],
+   "sources": [
+    {
+     "label": "KIFF",
+     "url": "https://kiff.in/movie/2205"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt38706112/"
+    },
+    {
+     "label": "Mathrubhumi",
+     "url": "https://www.mathrubhumi.com/movies-music/news/a-pregnant-widow-malayalam-film-awards-2026-hh9gvcz3"
+    }
+   ],
+   "evidence": "Festival + IMDb + press",
+   "confidence_flag": "High · 3+ sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (18+ VN; all characters stated adult; non-explicit note)",
+   "title": "My Hypnotized Family",
+   "year": "2024",
+   "format": "visual novel",
+   "meta": "Adult VN · The Naughty Three · DRM-free release 5 Apr 2026",
+   "summary": "A man uses hypnosis on the adult women of a household, including the mother.",
+   "hypnotist": "Protagonist",
+   "method": "Hypnosis",
+   "categories": [
+    "adult-hypnosis",
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "VNDB",
+     "url": "https://vndb.org/v45297"
+    }
+   ],
+   "evidence": "VNDB entry",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "重度催眠 (Deep Hypnosis)",
+   "year": "2026",
+   "format": "film",
+   "meta": "Chinese psychological thriller · dir. Zuo Zhiguo · 6 Feb 2026",
+   "character": "Huo Wencan (He Dujuan)",
+   "summary": "A psychiatrist uses hypnotherapy on an adult woman to recover buried trauma memories, uncovering a drug-crime network.",
+   "hypnotist": "Psychiatrist Dong Bingchun (Tse Kwan-ho)",
+   "method": "Hypnotherapy",
+   "categories": [
+    "medical",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "163.com / Beijing Youth Daily",
+     "url": "https://www.163.com/dy/article/KJCQ9UG80514R9KQ.html"
+    },
+    {
+     "label": "Maoyan",
+     "url": "https://piaofang.maoyan.com/movie/1467755"
+    }
+   ],
+   "evidence": "Press release + box-office listing",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "No Escape from the Vampire",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "AnyReel · 60 eps · AKA Bound to the Vampire",
+   "character": "Selina (18+)",
+   "summary": "A vampire-hunter heiress given to the Vampire Emperor is tied by a blood bond that pulls her back whenever she tries to escape.",
+   "hypnotist": "Vampire Emperor Lucien",
+   "method": "Blood bond",
+   "categories": [
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "DramaEverAfter",
+     "url": "https://dramaeverafter.com/titles/no-escape-from-the-vampire.html"
+    }
+   ],
+   "evidence": "Listing synopsis",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "La mala madre (Dreadful Mother)",
+   "year": "2026",
+   "format": "film",
+   "meta": "Spain · dir. Alicia Albares · Sitges 2026",
+   "character": "Victoria (Thaïs Blume)",
+   "summary": "A woman wakes with no memory in an isolated house kept by a doctor and his mother, uncovering kidnappings tied to forced motherhood and fanaticism.",
+   "hypnotist": "Doctor and his mother",
+   "method": "Captivity / memory loss",
+   "categories": [
+    "medical",
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Spanish Ministry of Culture",
+     "url": "https://www.cultura.gob.es/cultura/areas/cine/mc/spanish-kaleidoscope/films/winter-spring-2026/dreadful-mother.html"
+    }
+   ],
+   "evidence": "Official catalogue",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Implant",
+   "year": "2026",
+   "format": "short film",
+   "meta": "7 min · dir. Jaden Williams",
+   "summary": "A neurosurgeon's brain implant lets him control patients until a colleague tries to stop him.",
+   "hypnotist": "Neurosurgeon",
+   "method": "Brain implant",
+   "categories": [
+    "medical",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Postcredit",
+     "url": "https://postcredit.tv/movie/1639384"
+    }
+   ],
+   "evidence": "Listing synopsis",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Implanted Desires",
+   "year": "2026",
+   "format": "series",
+   "meta": "iQIYI · 45 eps · 4 Jul 2026",
+   "summary": "A doctor treats patients implanted with desire chips that manipulate their behavior.",
+   "hypnotist": "Desire chips",
+   "method": "Implanted chip",
+   "categories": [
+    "tech",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "DramaFeed",
+     "url": "https://drama-feed.com/en/d/903207"
+    }
+   ],
+   "evidence": "Listing synopsis",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "His Virgin Bride Carries a Vampire Baby",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "GoodShort · 61 eps · 24 Sep 2026",
+   "character": "Alice",
+   "summary": "An outcast woman carries a vampire duke's child and later becomes his blood servant.",
+   "hypnotist": "Vampire Duke Gideon",
+   "method": "Blood-servant bond",
+   "categories": [
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "DramaFeed",
+     "url": "https://drama-feed.com/en/d/1146821"
+    }
+   ],
+   "evidence": "Listing synopsis",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Gondhal: Sacred Obsession",
+   "year": "2026",
+   "format": "film",
+   "meta": "Marathi · dir. Santosh Davakhar · wide release 13 Nov 2026 · India's Oscar entry",
+   "character": "Suman (Ishita Deshmukh)",
+   "summary": "A young bride in an unhappy marriage is caught in a plan built around a traditional ritual, amid obsession and manipulation.",
+   "hypnotist": "Lover Sarjerao",
+   "method": "Ritual / manipulation",
+   "categories": [
+    "occult",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "TrendMasala",
+     "url": "https://trendmasala.com/gondhal-trailer-cast-story-release-date/"
+    }
+   ],
+   "evidence": "Trailer/story article",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "My XXL Wife Is a Mafia Boss (뚱보 아내는 조폭 마누라)",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "Korea · Vigloo · 75 × 2 min · 9 Apr 2026",
+   "character": "Ji Ae",
+   "summary": "The spirit of a dead female crime boss enters a betrayed wife's body and she turns on her husband and his mistress.",
+   "hypnotist": "Spirit of Ji Yeon",
+   "method": "Spirit enters body",
+   "categories": [
+    "spirit",
+    "walkin"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/809186-my-xxl-wife-is-a-mafia-boss"
+    }
+   ],
+   "evidence": "Listing",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Secret Lives of Baba Segi's Wives",
+   "year": "2026",
+   "format": "film",
+   "meta": "Nigeria · TIFF 2026 · Nigerian release 4 Dec 2026",
+   "summary": "A wealthy patriarch's four-wife household is shaken when his youngest wife cannot conceive.",
+   "hypnotist": "n/a",
+   "method": "Polygamous household",
+   "categories": [
+    "polygamy"
+   ],
+   "sources": [
+    {
+     "label": "TIFF",
+     "url": "https://2026.tiffr.com/films/the-secret-lives-of-baba-segi-s-wives"
+    },
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/video/the-secret-lives-of-baba-segos-wives-trailer-tiff-mo-abudu/"
+    },
+    {
+     "label": "Official site",
+     "url": "https://babasegiswives.com/"
+    }
+   ],
+   "evidence": "Festival + trade + official",
+   "confidence_flag": "High · 3+ sources"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "New Group (Shudder)",
+   "reason": "Minors (high-school students) — flagged, not added"
+  },
+  {
+   "title": "KILL BLUE",
+   "reason": "Minor (junior-high student) — flagged"
+  },
+  {
+   "title": "The Hypnosis That Broke Our Princess-Knight Tale",
+   "reason": "Ages unverified — flagged, not added"
+  },
+  {
+   "title": "Other Mommy",
+   "reason": "Child focus"
+  },
+  {
+   "title": "Past Life",
+   "reason": "Male subject"
+  },
+  {
+   "title": "Love Kills",
+   "reason": "Male subject"
+  },
+  {
+   "title": "Bhoot Became Me",
+   "reason": "Pure possession"
+  },
+  {
+   "title": "Her Private Hell",
+   "reason": "Off-criteria"
+  },
+  {
+   "title": "VIEWS-1010",
+   "reason": "Ages unclear; adult-shop only source"
+  },
+  {
+   "title": "Victorian Psycho; The Blood Countess; Witch of Thorns; Chiraiya",
+   "reason": "Off-criteria"
+  },
+  {
+   "title": "Bird in a Cage",
+   "reason": "Male controlled"
+  },
+  {
+   "title": "Trust Me: The False Prophet",
+   "reason": "Involves minors — flagged"
+  },
+  {
+   "title": "Life Trade (TV Tokyo)",
+   "reason": "Body swap only, off-criteria"
+  }
+ ]
+}
