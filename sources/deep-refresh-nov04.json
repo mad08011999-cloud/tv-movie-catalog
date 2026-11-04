@@ -433,6 +433,346 @@
    ],
    "evidence": "Festival + trade + official",
    "confidence_flag": "High · 3+ sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Affection",
+   "year": "2026",
+   "format": "film",
+   "meta": "Sci-fi thriller · dir. BT Meza · Jessica Rothe",
+   "summary": "A woman whose memory keeps resetting is told by a man that he is her husband.",
+   "hypnotist": "Man claiming to be her husband",
+   "method": "Memory resets",
+   "categories": [
+    "scifi",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "Bloody Disgusting",
+     "url": "https://bloody-disgusting.com/movie/3947208/"
+    }
+   ],
+   "evidence": "Trade coverage",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Take My Memory, Keep My Heart",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "DramaBox · 81 eps",
+   "summary": "A woman is drugged to erase her memory and is then pursued into marriage.",
+   "hypnotist": "Pursuer",
+   "method": "Memory-erasing drug",
+   "categories": [
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "DramaFeed",
+     "url": "https://drama-feed.com/en/d/120378"
+    }
+   ],
+   "evidence": "Listing synopsis",
+   "confidence_flag": "Single source · flag",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "A Doctor to Die For: The Sarah Harris Story",
+   "year": "2026",
+   "format": "TV film",
+   "meta": "Lifetime · 3 Oct 2026",
+   "summary": "Based on a true case: an oral surgeon drugs a young adult woman to keep her compliant.",
+   "hypnotist": "Oral surgeon",
+   "method": "Drugging",
+   "categories": [
+    "medical",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "TV Insider",
+     "url": "https://www.tvinsider.com/1294544/"
+    },
+    {
+     "label": "Lifetime",
+     "url": "https://www.mylifetime.com/movies/a-doctor-to-die-for-the-sarah-harris-story"
+    }
+   ],
+   "evidence": "Press + network page",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "The Craving",
+   "year": "2026",
+   "format": "short film",
+   "meta": "Short · Arabella Anderson · Portland Horror FF / Screamfest 2026",
+   "summary": "A pregnant woman's cravings turn sinister.",
+   "hypnotist": "n/a",
+   "method": "Pregnancy horror",
+   "categories": [
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Portland Horror Film Festival",
+     "url": "https://portlandhorrorfilmfestival.com/film/the-craving/"
+    },
+    {
+     "label": "Screamfest",
+     "url": "https://2026screamfest.eventive.org/films/6ab466936072f5c2a952c61d"
+    }
+   ],
+   "evidence": "Two festival listings",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Guna Guna Istri Muda (Huyết ngải ái tình)",
+   "year": "2026",
+   "format": "film",
+   "meta": "Indonesia · dir. Robby Ertanto · remake of the 1977 film",
+   "summary": "A young second wife uses black magic on her husband's household.",
+   "hypnotist": "Second wife",
+   "method": "Black magic (guna-guna)",
+   "categories": [
+    "polygamy",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Thế Giới Điện Ảnh",
+     "url": "https://thegioidienanh.vn/huyet-ngai-ai-tinh-89025.html"
+    },
+    {
+     "label": "MoMo Cinema",
+     "url": "https://www.momo.vn/cinema/guna-guna-istri-muda-25055"
+    }
+   ],
+   "evidence": "Press + cinema listing",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Unchosen",
+   "year": "2026",
+   "format": "series",
+   "meta": "Netflix · 21 Apr 2026 · created by Julie Gearey",
+   "character": "Rosie (Molly Windsor)",
+   "summary": "A wife in a high-control religious community begins to question it and her controlling husband.",
+   "hypnotist": "Community leaders / husband",
+   "method": "Coercive religious control",
+   "categories": [
+    "cult",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Unchosen"
+    }
+   ],
+   "evidence": "Encyclopedia",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Rose Hunter (玫瑰猎手)",
+   "year": "2026",
+   "format": "series",
+   "meta": "Mango TV · 16 eps",
+   "character": "Ye Zhimei",
+   "summary": "A newly married heiress temporarily blinded in an accident is deceived by a stranger posing as her husband, who seeks her family fortune.",
+   "hypnotist": "Impostor Zhou Xubai",
+   "method": "Impersonation / manipulation",
+   "categories": [
+    "wife",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "DramaWiki",
+     "url": "https://wiki.d-addicts.com/Rose_Hunter"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt40876143/"
+    },
+    {
+     "label": "Mango TV",
+     "url": "https://w.mgtv.com/b/788882/24244644.html?lang=en"
+    }
+   ],
+   "evidence": "Wiki + IMDb + platform",
+   "confidence_flag": "High · 3+ sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "A Neglected Wife",
+   "year": "2026",
+   "format": "film",
+   "meta": "Thriller · dir. Dara Frazier · Vision Films",
+   "character": "Belinda (Farryl Christina Lawson)",
+   "summary": "A neglected wife has an affair, then becomes pregnant and the paternity is in doubt.",
+   "hypnotist": "n/a",
+   "method": "Affair / manipulation",
+   "categories": [
+    "another-man",
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Film Threat",
+     "url": "https://filmthreat.com/reviews/a-neglected-wife/"
+    },
+    {
+     "label": "Vision Films",
+     "url": "https://visionfilms.net/film-detail?id=49a94e3d-656b-f111-82ac-0e4a64f8a357"
+    }
+   ],
+   "evidence": "Review + distributor",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Lutrum Putrum (Siyah)",
+   "year": "2023",
+   "format": "TV short (3 eps)",
+   "meta": "Pakistan · Green TV horror anthology Siyah",
+   "character": "Sidra",
+   "summary": "A husband has a magician inject a spirit into his wife to tame her, but the spirit gets loose (horror-comedy).",
+   "hypnotist": "Husband via magician",
+   "method": "Injected spirit",
+   "categories": [
+    "spirit",
+    "walkin",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "Geo News",
+     "url": "https://www.geo.tv/latest/509700-churail-dayan-balaa-how-culturally-correct-are-pakistani-tv-shows-witches"
+    }
+   ],
+   "evidence": "Critic article",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Bogaditšong: Sister Wives",
+   "year": "2026",
+   "format": "series",
+   "meta": "South Africa · Sepedi · eVOD · 13 eps · 12 Jun 2026",
+   "summary": "A polygamist music mogul and his wives face betrayal and power struggles.",
+   "hypnotist": "n/a",
+   "method": "Polygamous household",
+   "categories": [
+    "polygamy"
+   ],
+   "sources": [
+    {
+     "label": "TVSA",
+     "url": "https://www.tvsa.co.za/shows/viewshowseasons.aspx?season=1&showId=5822"
+    },
+    {
+     "label": "Bona",
+     "url": "https://www.bona.co.za/entertainment/watch-bagoditsong-sister-wives-trailer-finally-arrives/"
+    }
+   ],
+   "evidence": "TV guide + magazine",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 4 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "title": "Socias por accidente (Accidental Partners)",
+   "year": "2026",
+   "format": "film",
+   "meta": "Mexico · rom-com · Angelique Boyer, Bárbara de Regil · 12 Mar 2026",
+   "summary": "Two women find they were both deceived and made pregnant by the same man, and team up to expose him.",
+   "hypnotist": "Deceiving partner",
+   "method": "Deception",
+   "categories": [
+    "another-man",
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Hollywood Reporter (ES)",
+     "url": "https://es.hollywoodreporter.com/angelique-boyer-protagoniza-socias-por-accidente/"
+    },
+    {
+     "label": "SensaCine",
+     "url": "https://www.sensacine.com.mx/peliculas/pelicula-1000039962/"
+    }
+   ],
+   "evidence": "Trade + film database",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
   }
  ],
  "dropped": [
@@ -487,6 +827,46 @@
   {
    "title": "Life Trade (TV Tokyo)",
    "reason": "Body swap only, off-criteria"
+  },
+  {
+   "title": "OVA Kanojo Saimin (Aug 2026)",
+   "reason": "Students — minors flag"
+  },
+  {
+   "title": "Sé dócil (Keep Sweet)",
+   "reason": "Minors"
+  },
+  {
+   "title": "Escravos da Fé",
+   "reason": "Possible minors"
+  },
+  {
+   "title": "Pirunduk",
+   "reason": "Male controlled"
+  },
+  {
+   "title": "Blossoms of Power",
+   "reason": "Male target"
+  },
+  {
+   "title": "Housemaid 2026",
+   "reason": "Weak fit"
+  },
+  {
+   "title": "Seeds of Scarlet Longing",
+   "reason": "Love spell on male target"
+  },
+  {
+   "title": "The Remarried Empress (Disney+ 4 Nov 2026)",
+   "reason": "No control element"
+  },
+  {
+   "title": "Mensonges (TF1 2026)",
+   "reason": "Assault-recovery plot; off-criteria"
+  },
+  {
+   "title": "Our House / Khang baan",
+   "reason": "Possession of husband only"
   }
  ]
 }
