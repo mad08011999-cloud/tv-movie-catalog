@@ -87,6 +87,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:170",
+     "title": "Our Man Flint",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -117,6 +124,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-oct24:7",
+     "title": "Big Trouble in Little China",
+     "subtitle": "",
+     "year": "1986",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:80",
      "title": "Big Trouble in Little China",
      "subtitle": "",
      "year": "1986",
@@ -549,6 +563,13 @@
      "subtitle": "",
      "year": "2004",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:2",
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -586,6 +607,13 @@
     },
     {
      "rid": "kr-cn-hypnosis:11",
+     "title": "The Love by Hypnotic",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:17",
      "title": "The Love by Hypnotic",
      "subtitle": "",
      "year": "2019",
@@ -1643,6 +1671,26 @@
    ]
   },
   {
+   "kept_id": 55,
+   "kept": "Trance (2013)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:55",
+     "title": "Trance",
+     "subtitle": "",
+     "year": "2013"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:8",
+     "title": "Trance",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 56,
    "kept": "被催眠的她 (Date unverified)",
    "scope": "cross-source",
@@ -1868,6 +1916,13 @@
     },
     {
      "rid": "wife-hypnosis-oct15:10",
+     "title": "The Hypnotist / Hypnotisören",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:14",
      "title": "The Hypnotist / Hypnotisören",
      "subtitle": "",
      "year": "2012",
@@ -2876,6 +2931,13 @@
      "subtitle": "",
      "year": "2009",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:20",
+     "title": "The Fourth Kind",
+     "subtitle": "",
+     "year": "2009",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -3160,6 +3222,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:42",
+     "title": "Regression",
+     "subtitle": "",
+     "year": "Year unverified",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -4088,6 +4157,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:12",
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -4278,6 +4354,13 @@
      "subtitle": "",
      "year": "1998",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:141",
+     "title": "Progeny",
+     "subtitle": "",
+     "year": "1998",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -4846,6 +4929,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:355",
+     "title": "Malignant",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:48",
      "title": "Malignant",
      "subtitle": "",
      "year": "2021",
@@ -6880,6 +6970,13 @@
      "subtitle": "",
      "year": "1991",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:15",
+     "title": "Dead Again",
+     "subtitle": "",
+     "year": "1991",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -7687,6 +7784,13 @@
      "subtitle": "",
      "year": "1970",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:134",
+     "title": "Taste the Blood of Dracula",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -7731,6 +7835,26 @@
    ]
   },
   {
+   "kept_id": 262,
+   "kept": "Twins of Evil (1971)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:263",
+     "title": "Twins of Evil",
+     "subtitle": "",
+     "year": "1971"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:88",
+     "title": "Twins of Evil",
+     "subtitle": "",
+     "year": "1971",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 263,
    "kept": "Count Yorga, Vampire (1970)",
    "scope": "cross-source",
@@ -7750,6 +7874,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:256",
+     "title": "Count Yorga, Vampire",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:55",
      "title": "Count Yorga, Vampire",
      "subtitle": "",
      "year": "1970",
@@ -7777,6 +7908,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:130",
+     "title": "Dracula A.D. 1972",
+     "subtitle": "",
+     "year": "1972",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:110",
      "title": "Dracula A.D. 1972",
      "subtitle": "",
      "year": "1972",
@@ -7896,6 +8034,13 @@
      "subtitle": "",
      "year": "1968",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:172",
+     "title": "Curse of the Crimson Altar",
+     "subtitle": "",
+     "year": "1968",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -7919,6 +8064,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:357",
+     "title": "The Devil Rides Out",
+     "subtitle": "",
+     "year": "1968",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:137",
      "title": "The Devil Rides Out",
      "subtitle": "",
      "year": "1968",
@@ -7983,6 +8135,13 @@
      "subtitle": "",
      "year": "1973",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:68",
+     "title": "The Exorcist",
+     "subtitle": "",
+     "year": "1973",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -8070,6 +8229,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:89",
+     "title": "Suspiria",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -8120,6 +8286,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:304",
+     "title": "Candyman",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:117",
      "title": "Candyman",
      "subtitle": "",
      "year": "1992",
@@ -10199,6 +10372,13 @@
      "subtitle": "",
      "year": "2017",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:13",
+     "title": "Get Out",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -10239,6 +10419,13 @@
      "subtitle": "",
      "year": "1994 miniseries",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:154",
+     "title": "The Stand",
+     "subtitle": "",
+     "year": "1994",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -10386,6 +10573,13 @@
      "subtitle": "",
      "year": "1962",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:71",
+     "title": "Freud / Freud: The Secret Passion",
+     "subtitle": "",
+     "year": "1962",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -10458,6 +10652,46 @@
      "title": "Gilligan's Island",
      "subtitle": "",
      "year": "1964–1967",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 398,
+   "kept": "Legend (1985)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:401",
+     "title": "Legend",
+     "subtitle": "",
+     "year": "1985"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:91",
+     "title": "Legend",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 401,
+   "kept": "Hocus Pocus (1993)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:404",
+     "title": "Hocus Pocus",
+     "subtitle": "",
+     "year": "1993"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:143",
+     "title": "Hocus Pocus",
+     "subtitle": "",
+     "year": "1993",
      "matched_by": "match_title"
     }
    ]
@@ -12249,6 +12483,13 @@
      "subtitle": "",
      "year": "1964",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:65",
+     "title": "The Tomb of Ligeia",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -12661,6 +12902,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:292",
+     "title": "My Husband's Deadly Past",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:102",
      "title": "My Husband's Deadly Past",
      "subtitle": "",
      "year": "2020",
@@ -13309,6 +13557,13 @@
      "subtitle": "",
      "year": "2002",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:173",
+     "title": "Harry Potter and the Chamber of Secrets",
+     "subtitle": "",
+     "year": "2002",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -13717,6 +13972,13 @@
      "subtitle": "",
      "year": "2016",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:67",
+     "title": "Shelley",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15566,6 +15828,13 @@
      "subtitle": "",
      "year": "1988",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:162",
+     "title": "The Lair of the White Worm",
+     "subtitle": "",
+     "year": "1988",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15586,6 +15855,13 @@
      "subtitle": "",
      "year": "1985",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:45",
+     "title": "Fright Night",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15602,6 +15878,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:393",
+     "title": "Fright Night",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:47",
      "title": "Fright Night",
      "subtitle": "",
      "year": "2011",
@@ -15821,6 +16104,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:76",
+     "title": "Hypnose / The Guardian Angel",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16059,6 +16349,13 @@
      "subtitle": "",
      "year": "2014",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:7",
+     "title": "The Great Hypnotist (催眠大师)",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16136,6 +16433,13 @@
     },
     {
      "rid": "wife-hypnosis-oct15:29",
+     "title": "Le Septième Ciel / The Seventh Heaven",
+     "subtitle": "",
+     "year": "1997",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:203",
      "title": "Le Septième Ciel / The Seventh Heaven",
      "subtitle": "",
      "year": "1997",
@@ -16290,6 +16594,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:31",
+     "title": "Rasputin the Mad Monk",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16418,6 +16729,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:40",
+     "title": "Oldboy (올드보이)",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16465,6 +16783,13 @@
      "subtitle": "",
      "year": "1999",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:30",
+     "title": "Saimin / Hypnosis / The Hypnotist",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16485,6 +16810,26 @@
      "subtitle": "",
      "year": "1997",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 675,
+   "kept": "Signal 100 (シグナル100) (2020)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:680",
+     "title": "Signal 100 (シグナル100)",
+     "subtitle": "",
+     "year": "2020"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:70",
+     "title": "Signal 100 (シグナル100)",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16589,6 +16934,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:254",
+     "title": "Dracula",
+     "subtitle": "",
+     "year": "1979",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:46",
      "title": "Dracula",
      "subtitle": "",
      "year": "1979",
@@ -16801,6 +17153,13 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:54",
+     "title": "Dance with Me (ダンスウィズミー)",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16821,6 +17180,33 @@
      "subtitle": "",
      "year": "2023",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:37",
+     "title": "Hypnosen / The Hypnosis / Sous hypnose",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 701,
+   "kept": "Augustine (2012)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:706",
+     "title": "Augustine",
+     "subtitle": "",
+     "year": "2012"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:18",
+     "title": "Augustine",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16871,6 +17257,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:158",
+     "title": "Looker",
+     "subtitle": "",
+     "year": "1981",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:161",
      "title": "Looker",
      "subtitle": "",
      "year": "1981",
@@ -17057,6 +17450,33 @@
      "title": "The Mindblowers / Mind Blowers",
      "subtitle": "",
      "year": "1970",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:6",
+     "title": "The Mindblowers / Mind Blowers",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 722,
+   "kept": "The Erotic Rites of Frankenstein / La maldición de Frankenstein (1972/73)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:727",
+     "title": "The Erotic Rites of Frankenstein / La maldición de Frankenstein",
+     "subtitle": "",
+     "year": "1972/73"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:133",
+     "title": "The Erotic Rites of Frankenstein / La maldición de Frankenstein",
+     "subtitle": "",
+     "year": "1972/73",
      "matched_by": "match_title"
     }
    ]
@@ -17389,6 +17809,13 @@
      "subtitle": "",
      "year": "1971",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:140",
+     "title": "The Return of Count Yorga",
+     "subtitle": "",
+     "year": "1971",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18687,6 +19114,13 @@
      "subtitle": "",
      "year": "1970",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:77",
+     "title": "The Dunwich Horror",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18738,6 +19172,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:371",
+     "title": "Ultrasound",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:114",
      "title": "Ultrasound",
      "subtitle": "",
      "year": "2021",
@@ -18842,6 +19283,13 @@
     {
      "rid": "hypnosis-assault-loose:21",
      "title": "The Antichrist / L'anticristo",
+     "subtitle": "",
+     "year": "1974",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:132",
+     "title": "The Antichrist",
      "subtitle": "",
      "year": "1974",
      "matched_by": "match_title"
@@ -20555,6 +21003,13 @@
      "subtitle": "",
      "year": "2000",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:148",
+     "title": "The Adventures of Rocky and Bullwinkle",
+     "subtitle": "",
+     "year": "2000",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21488,6 +21943,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:108",
+     "title": "An Angel for Satan",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21689,6 +22151,13 @@
      "subtitle": "",
      "year": "2012",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:149",
+     "title": "Assassin's Bullet",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21716,6 +22185,13 @@
      "subtitle": "",
      "year": "1970",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:136",
+     "title": "Assignment: Terror",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21739,6 +22215,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:279",
+     "title": "At the Earth's Core",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:150",
      "title": "At the Earth's Core",
      "subtitle": "",
      "year": "1976",
@@ -21843,6 +22326,13 @@
      "subtitle": "",
      "year": "2010",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:19",
+     "title": "Au fond des bois / Deep in the Woods",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -22835,6 +23325,13 @@
      "subtitle": "",
      "year": "2000",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:103",
+     "title": "Big Kids",
+     "subtitle": "",
+     "year": "2000",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -22922,6 +23419,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:116",
+     "title": "Billy the Kid Versus Dracula",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -23049,6 +23553,13 @@
      "subtitle": "",
      "year": "2022",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:85",
+     "title": "Black Panther: Wakanda Forever",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -23236,6 +23747,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:104",
+     "title": "Blood Scarab",
+     "subtitle": "",
+     "year": "None",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -23370,6 +23888,13 @@
      "subtitle": "",
      "year": "1973",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:1",
+     "title": "Blue Eyes of the Broken Doll",
+     "subtitle": "",
+     "year": "1973",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -24128,6 +24653,13 @@
      "subtitle": "",
      "year": "1990",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:139",
+     "title": "A Cat In The Brain",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -24275,6 +24807,13 @@
      "subtitle": "",
      "year": "2008",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:129",
+     "title": "Chemical Wedding",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -24807,6 +25346,13 @@
      "subtitle": "",
      "year": "1982",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:131",
+     "title": "Conan the Barbarian",
+     "subtitle": "",
+     "year": "1982",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -24827,6 +25373,13 @@
      "subtitle": "",
      "year": "1980",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:152",
+     "title": "Contamination",
+     "subtitle": "",
+     "year": "1980",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -25078,6 +25631,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:156",
+     "title": "Creature of Destruction",
+     "subtitle": "",
+     "year": "1967",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:33",
      "title": "Creature of Destruction",
      "subtitle": "",
      "year": "1967",
@@ -25668,6 +26228,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:319",
+     "title": "Dark Corners",
+     "subtitle": "",
+     "year": "2006",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:128",
      "title": "Dark Corners",
      "subtitle": "",
      "year": "2006",
@@ -26320,6 +26887,13 @@
      "subtitle": "",
      "year": "1964",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:25",
+     "title": "Devil Doll",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -26380,6 +26954,13 @@
      "subtitle": "",
      "year": "1983",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:123",
+     "title": "The Devonsville Terror",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -26846,6 +27427,13 @@
      "subtitle": "",
      "year": "1999",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:127",
+     "title": "Don't Go Breaking My Heart",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -26987,6 +27575,13 @@
      "subtitle": "",
      "year": "1990",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:23",
+     "title": "Dr. M",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -27255,6 +27850,13 @@
      "subtitle": "",
      "year": "1995",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:78",
+     "title": "Dracula: Dead and Loving It",
+     "subtitle": "",
+     "year": "1995",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -27335,6 +27937,13 @@
      "subtitle": "",
      "year": "1972",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:28",
+     "title": "Dracula: Prisoner Of Frankenstein",
+     "subtitle": "",
+     "year": "1972",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -27519,6 +28128,13 @@
     },
     {
      "rid": "kr-cn-hypnosis:29",
+     "title": "Dream Garden",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:72",
      "title": "Dream Garden",
      "subtitle": "",
      "year": "2021",
@@ -28436,6 +29052,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:168",
+     "title": "Eye of The Devil",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -29257,6 +29880,13 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:84",
+     "title": "Fright Night 2: New Blood",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -29833,6 +30463,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:126",
+     "title": "George of the Jungle 2",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -29876,6 +30513,13 @@
     },
     {
      "rid": "royal-hypnosis-loose:9",
+     "title": "Ghidorah, the Three-Headed Monster",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:56",
      "title": "Ghidorah, the Three-Headed Monster",
      "subtitle": "",
      "year": "1964",
@@ -30416,6 +31060,13 @@
      "subtitle": "",
      "year": "1971",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:166",
+     "title": "Guess What Happened to Count Dracula?",
+     "subtitle": "",
+     "year": "1971",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -30631,6 +31282,13 @@
      "subtitle": "",
      "year": "1988",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:66",
+     "title": "Hanussen",
+     "subtitle": "",
+     "year": "1988",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -31350,6 +32008,13 @@
      "subtitle": "",
      "year": "1992",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:83",
+     "title": "Hot Under the Collar",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -31853,6 +32518,13 @@
      "subtitle": "",
      "year": "1967",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:100",
+     "title": "In Like Flint",
+     "subtitle": "",
+     "year": "1967",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -32265,6 +32937,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:321",
+     "title": "Irma Vep",
+     "subtitle": "",
+     "year": "1996",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:124",
      "title": "Irma Vep",
      "subtitle": "",
      "year": "1996",
@@ -33235,6 +33914,13 @@
      "subtitle": "",
      "year": "1999",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:164",
+     "title": "The Killer Eye",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -33577,6 +34263,13 @@
      "subtitle": "",
      "year": "1990",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:174",
+     "title": "Kondaveeti Donga",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -34160,6 +34853,13 @@
      "subtitle": "",
      "year": "2023",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:27",
+     "title": "Late Night with the Devil",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -34611,6 +35311,13 @@
      "subtitle": "",
      "year": "2012",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:144",
+     "title": "The Lords of Salem",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -34819,6 +35526,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:16",
+     "title": "The Love Cult",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -35547,6 +36261,13 @@
      "subtitle": "",
      "year": "1994–1995",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:113",
+     "title": "M.A.N.T.I.S.",
+     "subtitle": "",
+     "year": "1994–1995",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -35724,6 +36445,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:331",
+     "title": "Mausoleum",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:122",
      "title": "Mausoleum",
      "subtitle": "",
      "year": "1983",
@@ -36019,6 +36747,13 @@
     },
     {
      "rid": "mother-kids-hypnosis:12",
+     "title": "Mighty Morphin Power Rangers: The Movie",
+     "subtitle": "",
+     "year": "1995",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:50",
      "title": "Mighty Morphin Power Rangers: The Movie",
      "subtitle": "",
      "year": "1995",
@@ -36465,6 +37200,13 @@
      "subtitle": "",
      "year": "1963",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:22",
+     "title": "The Monster of the Volcano",
+     "subtitle": "",
+     "year": "1963",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -36646,6 +37388,13 @@
      "subtitle": "",
      "year": "1997",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:159",
+     "title": "Murder In Mind",
+     "subtitle": "",
+     "year": "1997",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -36693,6 +37442,13 @@
      "subtitle": "",
      "year": "1971",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:60",
+     "title": "Murders In The Rue Morgue",
+     "subtitle": "",
+     "year": "1971",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -36880,6 +37636,13 @@
      "subtitle": "",
      "year": "1994",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:167",
+     "title": "Nadja",
+     "subtitle": "",
+     "year": "1994",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -37175,6 +37938,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:101",
+     "title": "New York Ninja",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -37554,6 +38324,13 @@
     },
     {
      "rid": "mother-kids-hypnosis:15",
+     "title": "No Dessert, Dad, till You Mow the Lawn",
+     "subtitle": "",
+     "year": "1994",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:21",
      "title": "No Dessert, Dad, till You Mow the Lawn",
      "subtitle": "",
      "year": "1994",
@@ -38262,6 +39039,13 @@
      "subtitle": "",
      "year": "2011",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:98",
+     "title": "Paranormal Xperience 3D",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -38292,6 +39076,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:174",
+     "title": "Parasomnia",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:24",
      "title": "Parasomnia",
      "subtitle": "",
      "year": "2008",
@@ -38717,6 +39508,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:207",
+     "title": "The Pit and The Pendulum",
+     "subtitle": "",
+     "year": "2009",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:59",
      "title": "The Pit and The Pendulum",
      "subtitle": "",
      "year": "2009",
@@ -39191,6 +39989,13 @@
      "subtitle": "",
      "year": "1996",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:82",
+     "title": "Profit",
+     "subtitle": "",
+     "year": "1996",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -39575,6 +40380,13 @@
      "subtitle": "",
      "year": "2011",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:95",
+     "title": "Ra.One",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -39811,6 +40623,13 @@
      "subtitle": "",
      "year": "2010",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:32",
+     "title": "Regresa",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -39881,6 +40700,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:240",
+     "title": "Remote Control",
+     "subtitle": "",
+     "year": "1988",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:99",
      "title": "Remote Control",
      "subtitle": "",
      "year": "1988",
@@ -39982,6 +40808,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:238",
+     "title": "Revenge of the Ninja",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:121",
      "title": "Revenge of the Ninja",
      "subtitle": "",
      "year": "1983",
@@ -40564,6 +41397,13 @@
      "subtitle": "",
      "year": "1973",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:153",
+     "title": "The Satanic Rites of Dracula",
+     "subtitle": "",
+     "year": "1973",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -41571,6 +42411,13 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:86",
+     "title": "Silent Retreat",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -41792,6 +42639,13 @@
      "subtitle": "",
      "year": "1973",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:41",
+     "title": "Sisters",
+     "subtitle": "",
+     "year": "1973",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -42828,6 +43682,13 @@
      "subtitle": "",
      "year": "1989",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:151",
+     "title": "Sundown: The Vampire in Retreat",
+     "subtitle": "",
+     "year": "1989",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -43252,6 +44113,13 @@
      "subtitle": "",
      "year": "1992",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:169",
+     "title": "Tahalka",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -43481,6 +44349,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:74",
+     "title": "Target for Killing",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -43504,6 +44379,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:461",
+     "title": "A Taste Of Blood",
+     "subtitle": "",
+     "year": "1967",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:138",
      "title": "A Taste Of Blood",
      "subtitle": "",
      "year": "1967",
@@ -44838,6 +45720,13 @@
      "subtitle": "",
      "year": "1988",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:39",
+     "title": "Vampire at Midnight",
+     "subtitle": "",
+     "year": "1987",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -44861,6 +45750,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:389",
+     "title": "Vampire Dog",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:106",
      "title": "Vampire Dog",
      "subtitle": "",
      "year": "2012",
@@ -44982,6 +45878,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:191",
+     "title": "Van Helsing",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:112",
      "title": "Van Helsing",
      "subtitle": "",
      "year": "2004",
@@ -45116,6 +46019,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:426",
+     "title": "Veronica",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:115",
      "title": "Veronica",
      "subtitle": "",
      "year": "2017",
@@ -45630,6 +46540,13 @@
      "subtitle": "",
      "year": "1994",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:156",
+     "title": "A Wind from Wyoming",
+     "subtitle": "",
+     "year": "1994",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -45721,6 +46638,13 @@
     },
     {
      "rid": "hypnotized-marriage:17",
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:175",
      "title": "Wizards of the Lost Kingdom",
      "subtitle": "",
      "year": "1985",
@@ -46593,6 +47517,26 @@
    ]
   },
   {
+   "kept_id": 2148,
+   "kept": "Nurse Diary: Beast Afternoon (1982)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:2166",
+     "title": "Nurse Diary: Beast Afternoon",
+     "subtitle": "看護婦日記 獣じみた午後",
+     "year": "1982"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:176",
+     "title": "Nurse Diary: Beast Afternoon",
+     "subtitle": "",
+     "year": "1982",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2152,
    "kept": "What We Do in the Shadows (2022)",
    "scope": "cross-source",
@@ -46695,6 +47639,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:64",
+     "title": "The Plague of the Zombies",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -46912,6 +47863,26 @@
    ]
   },
   {
+   "kept_id": 2238,
+   "kept": "Office Space (1999)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "ig6qlxqxoxvcxla:127",
+     "title": "Office Space",
+     "subtitle": "",
+     "year": "1999"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:35",
+     "title": "Office Space",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2255,
    "kept": "Hypnotized Bride (2026)",
    "scope": "cross-source",
@@ -47091,6 +48062,26 @@
    ]
   },
   {
+   "kept_id": 2309,
+   "kept": "A Nightmare on Elm Street 3: Dream Warriors (1987)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:27",
+     "title": "A Nightmare on Elm Street 3: Dream Warriors",
+     "subtitle": "",
+     "year": "1987"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:26",
+     "title": "A Nightmare on Elm Street 3: Dream Warriors",
+     "subtitle": "",
+     "year": "1987",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2310,
    "kept": "A Portrait of Jianghu: Reincarnated Disciple (2024)",
    "scope": "cross-source",
@@ -47213,6 +48204,13 @@
      "subtitle": "",
      "year": "2007",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:4",
+     "title": "Chaotic Ana",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -47329,6 +48327,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-oct24:20",
+     "title": "Dracula's Curse",
+     "subtitle": "",
+     "year": "2006",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:94",
      "title": "Dracula's Curse",
      "subtitle": "",
      "year": "2006",
@@ -47472,6 +48477,26 @@
      "title": "Martial Law",
      "subtitle": "",
      "year": "2008",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2385,
+   "kept": "Mars Needs Women (1967)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:568",
+     "title": "Mars Needs Women",
+     "subtitle": "",
+     "year": "1967"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:157",
+     "title": "Mars Needs Women",
+     "subtitle": "",
+     "year": "1967",
      "matched_by": "match_title"
     }
    ]
@@ -47831,6 +48856,26 @@
    ]
   },
   {
+   "kept_id": 2478,
+   "kept": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist (1969)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-assault-loose:13",
+     "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+     "subtitle": "",
+     "year": "1969"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:165",
+     "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+     "subtitle": "",
+     "year": "1969",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2479,
    "kept": "Twisted Fiction (2023)",
    "scope": "cross-source",
@@ -47853,6 +48898,26 @@
      "title": "Twisted Fiction",
      "subtitle": "",
      "year": "2023",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2483,
+   "kept": "Night Train to Terror (1985)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-assault-loose:38",
+     "title": "Night Train to Terror",
+     "subtitle": "Segment “The Case of Harry Billings”",
+     "year": "1985"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:109",
+     "title": "Night Train to Terror",
+     "subtitle": "",
+     "year": "1985",
      "matched_by": "match_title"
     }
    ]
@@ -47913,6 +48978,46 @@
      "title": "Evil Lurks",
      "subtitle": "",
      "year": "2023"
+    }
+   ]
+  },
+  {
+   "kept_id": 2681,
+   "kept": "9½ Weeks (1986)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "no-link-additions:14",
+     "title": "9½ Weeks",
+     "subtitle": "",
+     "year": "1986"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:158",
+     "title": "9½ Weeks",
+     "subtitle": "",
+     "year": "1986",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2697,
+   "kept": "The Witch (Cadı) (2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "no-link-additions:30",
+     "title": "The Witch (Cadı)",
+     "subtitle": "",
+     "year": "2024"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:53",
+     "title": "The Witch (Cadı)",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -48063,6 +49168,33 @@
      "title": "The Love Machine",
      "subtitle": "",
      "year": "2016",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:5",
+     "title": "The Love Machine",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2713,
+   "kept": "Insatiable Desires (2003)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypno-sweep-oct9:6",
+     "title": "Insatiable Desires",
+     "subtitle": "",
+     "year": "2003"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:11",
+     "title": "Insatiable Desires",
+     "subtitle": "",
+     "year": "2003",
      "matched_by": "match_title"
     }
    ]
@@ -48415,6 +49547,26 @@
    ]
   },
   {
+   "kept_id": 2768,
+   "kept": "An American Vampire Story (1997)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:14",
+     "title": "An American Vampire Story",
+     "subtitle": "",
+     "year": "1997"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:93",
+     "title": "An American Vampire Story",
+     "subtitle": "",
+     "year": "1997",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2769,
    "kept": "Armour of God (1986)",
    "scope": "cross-source",
@@ -48475,6 +49627,26 @@
    ]
   },
   {
+   "kept_id": 2780,
+   "kept": "Black Circle (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:26",
+     "title": "Black Circle",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:38",
+     "title": "Black Circle",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2781,
    "kept": "Black Magic 2 (1976 Hong Kong film) (1976)",
    "scope": "cross-source",
@@ -48507,6 +49679,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-oct24:10",
+     "title": "Captain Kronos - Vampire Hunter",
+     "subtitle": "",
+     "year": "1974",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:58",
      "title": "Captain Kronos - Vampire Hunter",
      "subtitle": "",
      "year": "1974",
@@ -48998,6 +50177,33 @@
      "subtitle": "",
      "year": "2023",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:92",
+     "title": "Natty knocks",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2877,
+   "kept": "Operation Kid Brother (1967)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:123",
+     "title": "Operation Kid Brother",
+     "subtitle": "",
+     "year": "1967"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:147",
+     "title": "Operation Kid Brother",
+     "subtitle": "",
+     "year": "1967",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -49078,6 +50284,13 @@
      "subtitle": "",
      "year": "1985",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:49",
+     "title": "Re-Animator",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -49114,6 +50327,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:234",
+     "title": "Santo Vs. Frankenstein's Daughter",
+     "subtitle": "",
+     "year": "1972",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:61",
      "title": "Santo Vs. Frankenstein's Daughter",
      "subtitle": "",
      "year": "1972",
@@ -49262,6 +50482,26 @@
    ]
   },
   {
+   "kept_id": 2909,
+   "kept": "The Demon Headmaster (2019) (1996)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:155",
+     "title": "The Demon Headmaster (2019)",
+     "subtitle": "Everystudentastar (Season 1, Episode 1)",
+     "year": "1996"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:75",
+     "title": "The Demon Headmaster (2019)",
+     "subtitle": "",
+     "year": "1996",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2911,
    "kept": "The Fox Spirit and the Golden Seal (2018)",
    "scope": "cross-source",
@@ -49398,6 +50638,13 @@
      "subtitle": "",
      "year": "1965–1969",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:62",
+     "title": "The Wild Wild West",
+     "subtitle": "",
+     "year": "1965–1969",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -49480,6 +50727,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:194",
+     "title": "Upstream Color",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:79",
      "title": "Upstream Color",
      "subtitle": "",
      "year": "2013",
@@ -50010,6 +51264,13 @@
      "subtitle": "",
      "year": "2022",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:111",
+     "title": "Mind Thief",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -50114,6 +51375,26 @@
    ]
   },
   {
+   "kept_id": 3080,
+   "kept": "Anchor (앵커) (2022)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "kr-cn-hypnosis:5",
+     "title": "Anchor (앵커)",
+     "subtitle": "",
+     "year": "2022"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:73",
+     "title": "Anchor (앵커)",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 3082,
    "kept": "My Mom's a Werewolf (1989)",
    "scope": "cross-source",
@@ -50154,6 +51435,73 @@
    ]
   },
   {
+   "kept_id": 3253,
+   "kept": "The Deep Ones (2020)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "deep-refresh-oct18:4",
+     "title": "The Deep Ones",
+     "subtitle": "",
+     "year": "2020"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:81",
+     "title": "The Deep Ones",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3268,
+   "kept": "A Private Life (Vie privée) (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "deep-refresh-oct18:19",
+     "title": "A Private Life (Vie privée)",
+     "subtitle": "",
+     "year": "2025"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:204",
+     "title": "A Private Life (Vie privée)",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:205",
+     "title": "A Private Life (Vie privée)",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3270,
+   "kept": "The Raja Saab (2026)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "deep-refresh-oct18:21",
+     "title": "The Raja Saab",
+     "subtitle": "",
+     "year": "2026"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:69",
+     "title": "The Raja Saab",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 3277,
    "kept": "Days of Our Lives — Cat Greene hypnosis (2026) (2026)",
    "scope": "cross-source",
@@ -50177,6 +51525,26 @@
      "subtitle": "",
      "year": "2026",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 3309,
+   "kept": "The Lightning Incident (Lightning Field) (1991)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "deep-refresh-oct18:61",
+     "title": "The Lightning Incident (Lightning Field)",
+     "subtitle": "",
+     "year": "1991"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:107",
+     "title": "The Lightning Incident (Lightning Field)",
+     "subtitle": "",
+     "year": "1991",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -50281,6 +51649,146 @@
    ]
   },
   {
+   "kept_id": 3410,
+   "kept": "On Her Majesty's Secret Service (1969)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-oct24:1",
+     "title": "On Her Majesty's Secret Service",
+     "subtitle": "",
+     "year": "1969"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:135",
+     "title": "On Her Majesty's Secret Service",
+     "subtitle": "",
+     "year": "1969",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3412,
+   "kept": "A Private Life (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:1",
+     "title": "A Private Life",
+     "subtitle": "",
+     "year": "2025"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:206",
+     "title": "A Private Life",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3429,
+   "kept": "Inland Empire (2006)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:18",
+     "title": "Inland Empire",
+     "subtitle": "",
+     "year": "2006"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:125",
+     "title": "Inland Empire",
+     "subtitle": "",
+     "year": "2006",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3458,
+   "kept": "Till Human Voices Wake Us (2002)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:47",
+     "title": "Till Human Voices Wake Us",
+     "subtitle": "",
+     "year": "2002"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:63",
+     "title": "Till Human Voices Wake Us",
+     "subtitle": "",
+     "year": "2002",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3459,
+   "kept": "Goke, Body Snatcher from Hell (1968)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:48",
+     "title": "Goke, Body Snatcher from Hell",
+     "subtitle": "",
+     "year": "1968"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:90",
+     "title": "Goke, Body Snatcher from Hell",
+     "subtitle": "",
+     "year": "1968",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3460,
+   "kept": "Miss Leslie's Dolls (1972)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:49",
+     "title": "Miss Leslie's Dolls",
+     "subtitle": "",
+     "year": "1972"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:105",
+     "title": "Miss Leslie's Dolls",
+     "subtitle": "",
+     "year": "1972",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3464,
+   "kept": "Divorce American Style (1967)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:53",
+     "title": "Divorce American Style",
+     "subtitle": "",
+     "year": "1967"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:155",
+     "title": "Divorce American Style",
+     "subtitle": "",
+     "year": "1967",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 3471,
    "kept": "Push (2009)",
    "scope": "cross-source",
@@ -50296,6 +51804,26 @@
      "title": "Push",
      "subtitle": "",
      "year": "2009",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3472,
+   "kept": "Batman: Hush (2019)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:62",
+     "title": "Batman: Hush",
+     "subtitle": "",
+     "year": "2019"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:87",
+     "title": "Batman: Hush",
+     "subtitle": "",
+     "year": "2019",
      "matched_by": "match_title"
     }
    ]
@@ -50337,6 +51865,53 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:3",
+     "title": "Luz",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3488,
+   "kept": "Sorority House Massacre (1986)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:78",
+     "title": "Sorority House Massacre",
+     "subtitle": "",
+     "year": "1986"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:118",
+     "title": "Sorority House Massacre",
+     "subtitle": "",
+     "year": "1986",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3492,
+   "kept": "Splitz (1982)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:82",
+     "title": "Splitz",
+     "subtitle": "",
+     "year": "1982"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:57",
+     "title": "Splitz",
+     "subtitle": "",
+     "year": "1982",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -50361,6 +51936,66 @@
    ]
   },
   {
+   "kept_id": 3510,
+   "kept": "A Killing in a Small Town (1990)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:100",
+     "title": "A Killing in a Small Town",
+     "subtitle": "",
+     "year": "1990"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:171",
+     "title": "A Killing in a Small Town",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3512,
+   "kept": "Santa Sangre (1989)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:102",
+     "title": "Santa Sangre",
+     "subtitle": "",
+     "year": "1989"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:52",
+     "title": "Santa Sangre",
+     "subtitle": "",
+     "year": "1989",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3513,
+   "kept": "Face of the Screaming Werewolf (1965)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:103",
+     "title": "Face of the Screaming Werewolf",
+     "subtitle": "",
+     "year": "1965"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:34",
+     "title": "Face of the Screaming Werewolf",
+     "subtitle": "",
+     "year": "1965",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 3514,
    "kept": "The Dead Pit (1989)",
    "scope": "cross-source",
@@ -50376,6 +52011,46 @@
      "title": "The Dead Pit",
      "subtitle": "",
      "year": "1989",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3556,
+   "kept": "The Naked Gun: From the Files of Police Squad! (1988)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25b:17",
+     "title": "The Naked Gun: From the Files of Police Squad!",
+     "subtitle": "",
+     "year": "1988"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:51",
+     "title": "The Naked Gun: From the Files of Police Squad!",
+     "subtitle": "",
+     "year": "1988",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3557,
+   "kept": "Close Your Eyes (Hypnotic) (2002)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25b:18",
+     "title": "Close Your Eyes (Hypnotic)",
+     "subtitle": "",
+     "year": "2002"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:44",
+     "title": "Close Your Eyes (Hypnotic)",
+     "subtitle": "",
+     "year": "2002",
      "matched_by": "match_title"
     }
    ]
@@ -50476,6 +52151,306 @@
      "title": "St. Vincent",
      "subtitle": "",
      "year": "2014",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3645,
+   "kept": "Psycho Beach Party (2000)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:3",
+     "title": "Psycho Beach Party",
+     "subtitle": "",
+     "year": "2000"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:43",
+     "title": "Psycho Beach Party",
+     "subtitle": "",
+     "year": "2000",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3650,
+   "kept": "Terror Toons (2002)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:8",
+     "title": "Terror Toons",
+     "subtitle": "",
+     "year": "2002"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:119",
+     "title": "Terror Toons",
+     "subtitle": "",
+     "year": "2002",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3667,
+   "kept": "Never Cry Werewolf (2008)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:25",
+     "title": "Never Cry Werewolf",
+     "subtitle": "",
+     "year": "2008"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:120",
+     "title": "Never Cry Werewolf",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3668,
+   "kept": "Young Sherlock Holmes (1985)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:26",
+     "title": "Young Sherlock Holmes",
+     "subtitle": "",
+     "year": "1985"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:146",
+     "title": "Young Sherlock Holmes",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3671,
+   "kept": "Mesmerized (1985)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:30",
+     "title": "Mesmerized",
+     "subtitle": "",
+     "year": "1985"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:160",
+     "title": "Mesmerized",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3692,
+   "kept": "Dying to Remember (1993)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:53",
+     "title": "Dying to Remember",
+     "subtitle": "",
+     "year": "1993"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:9",
+     "title": "Dying to Remember",
+     "subtitle": "",
+     "year": "1993",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3694,
+   "kept": "The Illusionist (2006)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:55",
+     "title": "The Illusionist",
+     "subtitle": "",
+     "year": "2006"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:142",
+     "title": "The Illusionist",
+     "subtitle": "",
+     "year": "2006",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3701,
+   "kept": "The Recall (2017)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:62",
+     "title": "The Recall",
+     "subtitle": "",
+     "year": "2017"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:97",
+     "title": "The Recall",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3702,
+   "kept": "The Believers (1987)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:63",
+     "title": "The Believers",
+     "subtitle": "",
+     "year": "1987"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:145",
+     "title": "The Believers",
+     "subtitle": "",
+     "year": "1987",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3724,
+   "kept": "The Wizard of Gore (2007)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:85",
+     "title": "The Wizard of Gore",
+     "subtitle": "",
+     "year": "2007"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:10",
+     "title": "The Wizard of Gore",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3726,
+   "kept": "Possessor (2020)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:87",
+     "title": "Possessor",
+     "subtitle": "",
+     "year": "2020"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:36",
+     "title": "Possessor",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3731,
+   "kept": "Truth Seekers (2020)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:92",
+     "title": "Truth Seekers",
+     "subtitle": "",
+     "year": "2020"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:130",
+     "title": "Truth Seekers",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3752,
+   "kept": "Manos Returns (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:116",
+     "title": "Manos Returns",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:96",
+     "title": "Manos Returns",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3755,
+   "kept": "Haunting Fear (1990)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "deep-refresh-oct30:2",
+     "title": "Haunting Fear",
+     "subtitle": "",
+     "year": "1990"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:29",
+     "title": "Haunting Fear",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3774,
+   "kept": "In the Lost Lands (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "deep-refresh-oct30:21",
+     "title": "In the Lost Lands",
+     "subtitle": "",
+     "year": "2025"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:163",
+     "title": "In the Lost Lands",
+     "subtitle": "",
+     "year": "2025",
      "matched_by": "match_title"
     }
    ]
@@ -51823,11 +53798,12 @@
   "hypno-kids-witness-unverified-oct25": 8,
   "hypnosis-imdb-list-full-oct25": 482,
   "deep-refresh-oct30": 75,
-  "deep-refresh-nov04": 61
+  "deep-refresh-nov04": 61,
+  "hypnosis-bestsimilar-nov5": 206
  },
- "entry_count_after_dedupe": 3691,
+ "entry_count_after_dedupe": 3717,
  "within_source_groups": 5,
- "cross_source_groups": 2017,
- "index_only_records": 56,
- "local_only_records": 1419
+ "cross_source_groups": 2072,
+ "index_only_records": 55,
+ "local_only_records": 1445
 }

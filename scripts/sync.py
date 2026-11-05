@@ -200,6 +200,8 @@ SOURCES = [
      "local": "sources/deep-refresh-oct30.json", "required": False},
     {"id": "deep-refresh-nov04", "label": "Deep refresh across all criteria (4 Nov 2026)",
      "local": "sources/deep-refresh-nov04.json", "required": False},
+    {"id": "hypnosis-bestsimilar-nov5", "label": "BestSimilar tag: hypnosis (5 Nov 2026)",
+     "local": "sources/hypnosis-bestsimilar-nov5.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

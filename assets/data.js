@@ -9155,6 +9155,2396 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypnosis-bestsimilar-nov5",
+   "label": "BestSimilar tag: hypnosis (5 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/hypnosis-bestsimilar-nov5.json",
+   "description": "Import from https://bestsimilar.com/tag/6496-hypnosis (scraped 5 Nov 2026 PT). Tag page advertised ~720 titles; scraper collected 600 unique movie/show cards across 20 paginated pages (site list ended there). Kept adult female-character hypnosis (and closely related mind-control / brainwash / possession when the tag grouped them — mechanism noted on the card). 180 existing catalog cards gain a BestSimilar source link and the bestsimilar-hypnosis-6496 tag; 26 new cards are added with BestSimilar blurbs and Wikipedia plot checks where available. Wife / prior-kids / pregnant-at-end / kids-together stay \"not stated\" unless the source states them. Existing categories only (no new category). Adults only; minors, children's/teen programmes, male-only subjects, and titles with no female-control evidence are listed under dropped. exclusions.json still applies.",
+   "dropped": [
+    {
+     "title": "Stir of Echoes",
+     "year": "1999",
+     "reason": "male-only hypnosis blurb; not linking catalog [(141, 'Stir of Echoes')]",
+     "url": "https://bestsimilar.com/movies/23283-stir-of-echoes"
+    },
+    {
+     "title": "Captain Underpants: Mega Blissmas",
+     "year": "2020",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/77222-captain-underpants-mega-blissmas"
+    },
+    {
+     "title": "Dragons: Rescue Riders: Secrets of the Songwing",
+     "year": "2020",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/79600-dragons-rescue-riders-secrets-of-the-songwing"
+    },
+    {
+     "title": "The Little Mermaid",
+     "year": "1989",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/17351-the-little-mermaid"
+    },
+    {
+     "title": "Scooby-Doo! Pirates Ahoy!",
+     "year": "2006",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/21996-scooby-doo-pirates-ahoy"
+    },
+    {
+     "title": "The Jungle Book",
+     "year": "1967",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/16368-the-jungle-book"
+    },
+    {
+     "title": "Wreck-It Ralph",
+     "year": "2012",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/26605-wreck-it-ralph"
+    },
+    {
+     "title": "The Twelve Tasks of Asterix",
+     "year": "1976",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/12403-the-twelve-tasks-of-asterix"
+    },
+    {
+     "title": "The Misadventures of Merlin Jones",
+     "year": "1964",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/36162-the-misadventures-of-merlin-jones"
+    },
+    {
+     "title": "Molly Moon and the Incredible Book of Hypnotism",
+     "year": "2015",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/38610-molly-moon-and-the-incredible-book-of-hypnotism"
+    },
+    {
+     "title": "Scooby-Doo! Legend of the Phantosaur",
+     "year": "2011",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/61896-scooby-doo-legend-of-the-phantosaur"
+    },
+    {
+     "title": "Scooby-Doo! Frankencreepy",
+     "year": "2014",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/28125-scooby-doo-frankencreepy"
+    },
+    {
+     "title": "The Jungle Book 2",
+     "year": "2003",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/16367-the-jungle-book-2"
+    },
+    {
+     "title": "Hotel Transylvania 3: Summer Vacation",
+     "year": "2018",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/58120-hotel-transylvania-3-summer-vacation"
+    },
+    {
+     "title": "Home on the Range",
+     "year": "2004",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/15204-home-on-the-range"
+    },
+    {
+     "title": "Atlantis: The Lost Empire",
+     "year": "2001",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/8759-atlantis-the-lost-empire"
+    },
+    {
+     "title": "Dennis the Menace: Cruise Control",
+     "year": "2002",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/28406-dennis-the-menace-in-cruise-control"
+    },
+    {
+     "title": "Robin Hood",
+     "year": "1973",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/21485-robin-hood"
+    },
+    {
+     "title": "Monster High: Friday Night Frights",
+     "year": "2012",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/6106-monster-high-friday-night-frights"
+    },
+    {
+     "title": "Pinocchio in Outer Space",
+     "year": "1965",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/20356-pinocchio-in-outer-space"
+    },
+    {
+     "title": "Cinderella 3: A Twist in Time",
+     "year": "2007",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/10840-cinderella-3-a-twist-in-time"
+    },
+    {
+     "title": "Plankton: The Movie",
+     "year": "2025",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/99886-plankton-the-movie"
+    },
+    {
+     "title": "Scooby-Doo! WrestleMania Mystery",
+     "year": "2014",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/27342-scooby-doo-wrestlemania-mystery"
+    },
+    {
+     "title": "The Lion, the Witch & the Wardrobe",
+     "year": "1979",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/36372-the-lion-the-witch-and-the-wardrobe"
+    },
+    {
+     "title": "Invader ZIM",
+     "year": "2001",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/30428-invader-zim"
+    },
+    {
+     "title": "Jimmy Timmy Power Hour",
+     "year": "2004",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/31976-the-jimmy-timmy-power-hour"
+    },
+    {
+     "title": "Monster Family 2",
+     "year": "2021",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/74027-monster-family-2"
+    },
+    {
+     "title": "Monster Family",
+     "year": "2017",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/41727-happy-family"
+    },
+    {
+     "title": "Gakuen Alice",
+     "year": "2004",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/36846-gakuen-alice"
+    },
+    {
+     "title": "Pokémon: The First Movie",
+     "year": "1998",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/20473-pokemon-the-first-movie-mewtwo-strikes-back"
+    },
+    {
+     "title": "Mr. Pickles",
+     "year": "2013",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/28915-mr-pickles"
+    },
+    {
+     "title": "Dear Dracula",
+     "year": "2012",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/27471-dear-dracula"
+    },
+    {
+     "title": "Suicide Squad: Hell to Pay",
+     "year": "2018",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/60503-suicide-squad-hell-to-pay"
+    },
+    {
+     "title": "Aladdin",
+     "year": "1992",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/8086-aladdin"
+    },
+    {
+     "title": "Mr. Peabody & Sherman",
+     "year": "2014",
+     "reason": "children/family title or child protagonist",
+     "url": "https://bestsimilar.com/movies/5821-mr-peabody-and-sherman"
+    },
+    {
+     "title": "Whispers",
+     "year": "1990",
+     "reason": "Wikipedia verdict=no_control; blurb=possible",
+     "url": "https://bestsimilar.com/movies/25576-whispers"
+    },
+    {
+     "title": "Henry's Night In",
+     "year": "1969",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/54397-henrys-night-in"
+    },
+    {
+     "title": "A Slice of Terror",
+     "year": "2004",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/50068-a-slice-of-terror"
+    },
+    {
+     "title": "Torture Garden",
+     "year": "1967",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/33980-torture-garden"
+    },
+    {
+     "title": "Bloodbath in the House of Knives",
+     "year": "2010",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/51885-bloodbath-in-the-house-of-knives"
+    },
+    {
+     "title": "Jack's Back",
+     "year": "1988",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/16082-jacks-back"
+    },
+    {
+     "title": "The Tangalanga Method",
+     "year": "2022",
+     "reason": "no confirmed female hypnosis (blurb=unclear; no usable Wikipedia)",
+     "url": "https://bestsimilar.com/movies/81990-the-tangalanga-method"
+    },
+    {
+     "title": "Unconscious",
+     "year": "2004",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/15766-unconscious"
+    },
+    {
+     "title": "The Menkoff Method",
+     "year": "2016",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/41090-the-menkoff-method"
+    },
+    {
+     "title": "The Magnetist's Fifth Winter",
+     "year": "1999",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/47543-the-magnetists-fifth-winter"
+    },
+    {
+     "title": "The Keeper",
+     "year": "1976",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/49052-the-keeper"
+    },
+    {
+     "title": "Alamet-i Kiyamet",
+     "year": "2016",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/99060-alamet-i-kiyamet"
+    },
+    {
+     "title": "Blood Fiend",
+     "year": "1966",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/23943-blood-fiend"
+    },
+    {
+     "title": "You, Your Brain, & You",
+     "year": "2019",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/64201-you-your-brain-and-you"
+    },
+    {
+     "title": "Billie Turf contra Kwel",
+     "year": "1983",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/52115-billie-turf-contra-kwel"
+    },
+    {
+     "title": "The Terror of Doctor Mabuse",
+     "year": "1962",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/46009-the-terror-of-doctor-mabuse"
+    },
+    {
+     "title": "The Lazarus Man",
+     "year": "1996",
+     "reason": "Wikipedia verdict=male_or_unclear; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/3963-the-lazarus-man"
+    },
+    {
+     "title": "The Pee Wee Herman Show",
+     "year": "1981",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/35063-the-pee-wee-herman-show"
+    },
+    {
+     "title": "Forgotten",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/60494-forgotten"
+    },
+    {
+     "title": "Do You Remember Dolly Bell?",
+     "year": "1981",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/22646-do-you-remember-dolly-bell"
+    },
+    {
+     "title": "Brainscan",
+     "year": "1994",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/9907-brainscan"
+    },
+    {
+     "title": "Children of the Devil",
+     "year": "1989",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/53303-children-of-the-devil"
+    },
+    {
+     "title": "The Quest",
+     "year": "1976",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/57338-the-quest"
+    },
+    {
+     "title": "Promise Me Not",
+     "year": "2005",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/101308-promise-me-not"
+    },
+    {
+     "title": "Alien Nation: The Udara Legacy",
+     "year": "1997",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/8149-alien-nation-the-udara-legacy"
+    },
+    {
+     "title": "The Seduction of Dr. Fugazzi",
+     "year": "2009",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/2456-the-seduction-of-dr-fugazzi"
+    },
+    {
+     "title": "To the Adventure",
+     "year": "2008",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/7826-a-laventure"
+    },
+    {
+     "title": "Desirable Teacher",
+     "year": "1981",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/51807-desirable-teacher"
+    },
+    {
+     "title": "Glitch!",
+     "year": "1988",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/14188-glitch"
+    },
+    {
+     "title": "Stormswept",
+     "year": "1995",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/48388-stormswept"
+    },
+    {
+     "title": "Elvira's Haunted Hills",
+     "year": "2001",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/12746-elviras-haunted-hills"
+    },
+    {
+     "title": "Nanami: The Inferno of First Love",
+     "year": "1968",
+     "reason": "teen-centred story in blurb",
+     "url": "https://bestsimilar.com/movies/38093-nanami-the-inferno-of-first-love"
+    },
+    {
+     "title": "Entrails of a Beautiful Woman",
+     "year": "1986",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/9399-entrails-of-a-beautiful-woman"
+    },
+    {
+     "title": "The Illustrated Man",
+     "year": "1969",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/15649-the-illustrated-man"
+    },
+    {
+     "title": "The Circle",
+     "year": "2003",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/100538-the-circle"
+    },
+    {
+     "title": "Lifeforce",
+     "year": "1985",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/17263-lifeforce"
+    },
+    {
+     "title": "The Nude Vampire",
+     "year": "1970",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/24996-the-nude-vampire"
+    },
+    {
+     "title": "Midnight Tease",
+     "year": "1994",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/18357-midnight-tease"
+    },
+    {
+     "title": "The Lesbian Little Mermaid",
+     "year": "2009",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/75428-the-lesbian-little-mermaid"
+    },
+    {
+     "title": "Let's Do It Again",
+     "year": "1975",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/17189-lets-do-it-again"
+    },
+    {
+     "title": "Witchcraft III: The Kiss of Death",
+     "year": "1991",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/52473-witchcraft-iii-the-kiss-of-death"
+    },
+    {
+     "title": "Sexcula",
+     "year": "1974",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/51775-sexcula"
+    },
+    {
+     "title": "Psychopathia Sexualis",
+     "year": "2006",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/92340-psychopathia-sexualis"
+    },
+    {
+     "title": "The Witchmaker",
+     "year": "1969",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/54385-the-witchmaker"
+    },
+    {
+     "title": "The Body Shop",
+     "year": "1972",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/46557-the-body-shop"
+    },
+    {
+     "title": "Blood Orgy of the She-Devils",
+     "year": "1973",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/51231-blood-orgy-of-the-she-devils"
+    },
+    {
+     "title": "Ikki Tousen",
+     "year": "2003",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/15622-ikki-tousen"
+    },
+    {
+     "title": "Short Night of Glass Dolls",
+     "year": "1971",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/34753-short-night-of-glass-dolls"
+    },
+    {
+     "title": "J.D.'s Revenge",
+     "year": "1976",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/33589-j-d-s-revenge"
+    },
+    {
+     "title": "Invasion of the Star Creatures",
+     "year": "1962",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/32506-invasion-of-the-star-creatures"
+    },
+    {
+     "title": "Scorned 2",
+     "year": "1997",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/22006-scorned-2"
+    },
+    {
+     "title": "Norma",
+     "year": "1970",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/50900-norma"
+    },
+    {
+     "title": "Delinquent School Girls",
+     "year": "1975",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/48671-delinquent-school-girls"
+    },
+    {
+     "title": "Adam & Steve",
+     "year": "2005",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/7939-adam-and-steve"
+    },
+    {
+     "title": "Demons of the Mind",
+     "year": "1972",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/32587-demons-of-the-mind"
+    },
+    {
+     "title": "Dracula in Love",
+     "year": "2018",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/61817-dracula-in-love"
+    },
+    {
+     "title": "Coach",
+     "year": "1978",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/1664-coach"
+    },
+    {
+     "title": "Phobia",
+     "year": "2013",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/28841-phobia"
+    },
+    {
+     "title": "Witchery",
+     "year": "1989",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/34807-witchery"
+    },
+    {
+     "title": "The Cabinet of Dr. Caligari",
+     "year": "2005",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/62102-the-cabinet-of-dr-caligari"
+    },
+    {
+     "title": "Invincible",
+     "year": "2001",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/15943-invincible"
+    },
+    {
+     "title": "The Butterfly Effect",
+     "year": "2004",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/10175-the-butterfly-effect"
+    },
+    {
+     "title": "Tales of Terror",
+     "year": "1962",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/23694-tales-of-terror"
+    },
+    {
+     "title": "Nobody Else But You",
+     "year": "2011",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/20567-nobody-else-but-you"
+    },
+    {
+     "title": "Santa Who?",
+     "year": "2000",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/21847-santa-who"
+    },
+    {
+     "title": "Terror Toons 3",
+     "year": "2015",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/100745-terror-toons-3"
+    },
+    {
+     "title": "Top Secret: The Revelation",
+     "year": "2008",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/80910-top-secret-the-revelation"
+    },
+    {
+     "title": "A Better You",
+     "year": "2014",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/45741-a-better-you"
+    },
+    {
+     "title": "Star Wars: Revelations",
+     "year": "2005",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/98940-star-wars-revelations"
+    },
+    {
+     "title": "Conjuring: The Beyond",
+     "year": "2022",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/80196-conjuring-the-beyond"
+    },
+    {
+     "title": "Mary Had a Little...",
+     "year": "1961",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/3404-mary-had-a-little"
+    },
+    {
+     "title": "Memory of Chang'an",
+     "year": "2020",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/98624-memory-of-changan"
+    },
+    {
+     "title": "New York is Dead",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/92786-new-york-is-dead"
+    },
+    {
+     "title": "Peripheral",
+     "year": "2018",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/92591-peripheral"
+    },
+    {
+     "title": "VFW",
+     "year": "2019",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/67670-vfw"
+    },
+    {
+     "title": "Liquorice",
+     "year": "2012",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/109299-liquorice"
+    },
+    {
+     "title": "Captain Celluloid vs. the Film Pirates",
+     "year": "1966",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/48346-captain-celluloid-vs-the-film-pirates"
+    },
+    {
+     "title": "Demonsoul",
+     "year": "1995",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/50041-demonsoul"
+    },
+    {
+     "title": "Regína",
+     "year": "2001",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/103044-regina"
+    },
+    {
+     "title": "Nothing But the Night",
+     "year": "1973",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/19468-nothing-but-the-night"
+    },
+    {
+     "title": "Shock Treatment",
+     "year": "1964",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/32270-shock-treatment"
+    },
+    {
+     "title": "Donnie Darko",
+     "year": "2001",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/12334-donnie-darko"
+    },
+    {
+     "title": "Against the Tide",
+     "year": "2014",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/90155-against-the-tide"
+    },
+    {
+     "title": "SantaClaus: A Horror Story",
+     "year": "2016",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/40331-santaclaus-a-horror-story"
+    },
+    {
+     "title": "Witchbabe: The Erotic Witch Project III",
+     "year": "2001",
+     "reason": "no confirmed female hypnosis (blurb=tag_only; no usable Wikipedia)",
+     "url": "https://bestsimilar.com/movies/46096-witchbabe-the-erotic-witch-project-iii"
+    },
+    {
+     "title": "Power Rangers Samurai: Clash of the Red Rangers - The Movie",
+     "year": "2011",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/71177-power-rangers-samurai-clash-of-the-red-rangers-the-movie"
+    },
+    {
+     "title": "The Little Mermaid",
+     "year": "2023",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/79313-the-little-mermaid"
+    },
+    {
+     "title": "Suitable Flesh",
+     "year": "2023",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/93812-suitable-flesh"
+    },
+    {
+     "title": "Buffy the Vampire Slayer",
+     "year": "1992",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/10097-buffy-the-vampire-slayer"
+    },
+    {
+     "title": "A Simple Wish",
+     "year": "1997",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/22578-a-simple-wish"
+    },
+    {
+     "title": "Scissors",
+     "year": "1991",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/21980-scissors"
+    },
+    {
+     "title": "Vampire in Brooklyn",
+     "year": "1995",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/24994-vampire-in-brooklyn"
+    },
+    {
+     "title": "Love at First Bite",
+     "year": "1979",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/17578-love-at-first-bite"
+    },
+    {
+     "title": "Amour Fou",
+     "year": "2014",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/57022-mad-love"
+    },
+    {
+     "title": "Diane Has the Right Shape",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/57706-diane-has-the-right-shape"
+    },
+    {
+     "title": "The Brood",
+     "year": "1979",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/10036-the-brood"
+    },
+    {
+     "title": "The Devil's Muse",
+     "year": "2007",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/33492-the-devils-muse"
+    },
+    {
+     "title": "Storytelling",
+     "year": "2001",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/23319-storytelling"
+    },
+    {
+     "title": "Star Wars: Episode IV - A New Hope",
+     "year": "1977",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/23171-star-wars-episode-iv-a-new-hope"
+    },
+    {
+     "title": "Maurice",
+     "year": "1987",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/18123-maurice"
+    },
+    {
+     "title": "Holy Smoke",
+     "year": "1999",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/15188-holy-smoke"
+    },
+    {
+     "title": "Juliet of the Spirits",
+     "year": "1965",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/14170-juliet-of-the-spirits"
+    },
+    {
+     "title": "Disturbing Behavior",
+     "year": "1998",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/12227-disturbing-behavior"
+    },
+    {
+     "title": "Beautiful People",
+     "year": "1999",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/9157-beautiful-people"
+    },
+    {
+     "title": "Fright Night Part 2",
+     "year": "1988",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/13802-fright-night-part-2"
+    },
+    {
+     "title": "The Lure",
+     "year": "2015",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/39308-the-lure"
+    },
+    {
+     "title": "Fiancee of Dracula",
+     "year": "2002",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/32196-fiancee-of-dracula"
+    },
+    {
+     "title": "Happiness Runs",
+     "year": "2010",
+     "reason": "Wikipedia verdict=male_or_unclear; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/1652-happiness-runs"
+    },
+    {
+     "title": "Mirrormask",
+     "year": "2005",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/18462-mirrormask"
+    },
+    {
+     "title": "Scream 4",
+     "year": "2011",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/22018-scream-4"
+    },
+    {
+     "title": "Reminiscence",
+     "year": "2021",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/72817-reminiscence"
+    },
+    {
+     "title": "Come True",
+     "year": "2020",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/70751-come-true"
+    },
+    {
+     "title": "Memoria",
+     "year": "2021",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/74979-memoria"
+    },
+    {
+     "title": "Raising Cain",
+     "year": "1992",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/21017-raising-cain"
+    },
+    {
+     "title": "The Evil of Frankenstein",
+     "year": "1964",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/34878-the-evil-of-frankenstein"
+    },
+    {
+     "title": "When Michael Calls",
+     "year": "1972",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/31416-when-michael-calls"
+    },
+    {
+     "title": "Thumbsucker",
+     "year": "2005",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/24068-thumbsucker"
+    },
+    {
+     "title": "Now You See Me 2",
+     "year": "2016",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/38942-now-you-see-me-2"
+    },
+    {
+     "title": "Endorphine",
+     "year": "2015",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/38831-endorphine"
+    },
+    {
+     "title": "Blood Deep",
+     "year": "2005",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/103255-blood-deep"
+    },
+    {
+     "title": "The Alienist",
+     "year": "2018",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/58250-the-alienist"
+    },
+    {
+     "title": "Border",
+     "year": "2018",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/61432-border"
+    },
+    {
+     "title": "The Black Cat",
+     "year": "1981",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/27040-the-black-cat"
+    },
+    {
+     "title": "Sin You Sinners",
+     "year": "1963",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/54332-sin-you-sinners"
+    },
+    {
+     "title": "Rapture",
+     "year": "1980",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/31306-rapture"
+    },
+    {
+     "title": "The Boston Strangler",
+     "year": "1968",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/9847-the-boston-strangler"
+    },
+    {
+     "title": "The Great Buck Howard",
+     "year": "2008",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/14408-the-great-buck-howard"
+    },
+    {
+     "title": "The Beasts",
+     "year": "1971",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/48114-the-beasts"
+    },
+    {
+     "title": "Cthulhu",
+     "year": "2000",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/42827-cthulhu"
+    },
+    {
+     "title": "Lathe of Heaven",
+     "year": "2002",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/34160-lathe-of-heaven"
+    },
+    {
+     "title": "Zoolander",
+     "year": "2001",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/26189-zoolander"
+    },
+    {
+     "title": "Animas",
+     "year": "2018",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/68078-animas"
+    },
+    {
+     "title": "Unlimited Psychic Squad",
+     "year": "2008",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/72013-unlimited-psychic-squad"
+    },
+    {
+     "title": "Hot Spot",
+     "year": "2026",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/114142-hot-spot"
+    },
+    {
+     "title": "The Dead Center",
+     "year": "2018",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/76104-the-dead-center"
+    },
+    {
+     "title": "Backfire",
+     "year": "2023",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/110478-backfire"
+    },
+    {
+     "title": "Guardian: The Lonely and Great God",
+     "year": "2016",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/64184-goblin"
+    },
+    {
+     "title": "Lake Mungo",
+     "year": "2008",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/34277-lake-mungo"
+    },
+    {
+     "title": "Night Slaves",
+     "year": "1970",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/49969-night-slaves"
+    },
+    {
+     "title": "Fantomas Unleashed",
+     "year": "1965",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/13171-fantomas-unleashed"
+    },
+    {
+     "title": "Kath & Kimderella",
+     "year": "2012",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/41407-kath-and-kimderella"
+    },
+    {
+     "title": "Zentropa",
+     "year": "1991",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/12939-europa"
+    },
+    {
+     "title": "Trancers",
+     "year": "1984",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/24351-trancers"
+    },
+    {
+     "title": "The Story of Adele H",
+     "year": "1975",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/15115-the-story-of-adele-h"
+    },
+    {
+     "title": "Frankie & Alice",
+     "year": "2010",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/13715-frankie-and-alice"
+    },
+    {
+     "title": "Mike Bassett: Manager",
+     "year": "2005",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/41-mike-bassett-manager"
+    },
+    {
+     "title": "Thunderbirds",
+     "year": "1965",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/30380-thunderbirds"
+    },
+    {
+     "title": "The Tracey Fragments",
+     "year": "2007",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/24323-the-tracey-fragments"
+    },
+    {
+     "title": "They Live",
+     "year": "1988",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/23963-they-live"
+    },
+    {
+     "title": "The Incredible Burt Wonderstone",
+     "year": "2013",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/5089-the-incredible-burt-wonderstone"
+    },
+    {
+     "title": "Baby Geniuses",
+     "year": "1999",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/8870-baby-geniuses"
+    },
+    {
+     "title": "Faces in the Crowd",
+     "year": "2011",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/13087-faces-in-the-crowd"
+    },
+    {
+     "title": "Wicked Stepmother",
+     "year": "1989",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/25634-wicked-stepmother"
+    },
+    {
+     "title": "Dracula",
+     "year": "1992",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/12447-bram-stokers-dracula"
+    },
+    {
+     "title": "Audrey Rose",
+     "year": "1977",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/410-audrey-rose"
+    },
+    {
+     "title": "Cecilie",
+     "year": "2007",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/44691-cecilie"
+    },
+    {
+     "title": "Frogman",
+     "year": "2023",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/104256-frogman"
+    },
+    {
+     "title": "The Return of the Prodigal Son",
+     "year": "1967",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/51819-the-return-of-the-prodigal-son"
+    },
+    {
+     "title": "Queen of Blood",
+     "year": "1966",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/33152-queen-of-blood"
+    },
+    {
+     "title": "Man on a Swing",
+     "year": "1974",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/32079-man-on-a-swing"
+    },
+    {
+     "title": "Gallery of Horror",
+     "year": "1967",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/32083-gallery-of-horror"
+    },
+    {
+     "title": "Angel Beats!",
+     "year": "2010",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/27187-angel-beats"
+    },
+    {
+     "title": "Bleeding Steel",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/40401-bleeding-steel"
+    },
+    {
+     "title": "Slender Man",
+     "year": "2018",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/61438-slender-man"
+    },
+    {
+     "title": "Rampage: The Hillside Strangler Murders",
+     "year": "2006",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/21036-rampage-the-hillside-strangler-murders"
+    },
+    {
+     "title": "Evilenko",
+     "year": "2003",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/12990-evilenko"
+    },
+    {
+     "title": "Alienator",
+     "year": "1990",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/8161-alienator"
+    },
+    {
+     "title": "Blind Witness",
+     "year": "1989",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/4932-blind-witness"
+    },
+    {
+     "title": "Voices Within: The Lives of Truddi Chase",
+     "year": "1990",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/60272-voices-within-the-lives-of-truddi-chase"
+    },
+    {
+     "title": "Dark Night",
+     "year": "2019",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/60235-dark-night"
+    },
+    {
+     "title": "Fracchia Vs. Dracula",
+     "year": "1985",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/13692-fracchia-vs-dracula"
+    },
+    {
+     "title": "The Radleys",
+     "year": "2024",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/103598-the-radleys"
+    },
+    {
+     "title": "Alison's Birthday",
+     "year": "1981",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/29041-alisons-birthday"
+    },
+    {
+     "title": "Dark Skies",
+     "year": "2013",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/26754-dark-skies"
+    },
+    {
+     "title": "Saturday the 14th",
+     "year": "1981",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/21869-saturday-the-14th"
+    },
+    {
+     "title": "Just the Ticket",
+     "year": "1998",
+     "reason": "Wikipedia verdict=male_or_unclear; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/16403-just-the-ticket"
+    },
+    {
+     "title": "Brightburn",
+     "year": "2019",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/65082-brightburn"
+    },
+    {
+     "title": "It Chapter Two",
+     "year": "2019",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/64556-it-chapter-two"
+    },
+    {
+     "title": "Death Note",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=unclear",
+     "url": "https://bestsimilar.com/movies/41204-death-note"
+    },
+    {
+     "title": "Howl",
+     "year": "2010",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/5405-howl"
+    },
+    {
+     "title": "Binibining Tsuper-Man",
+     "year": "1987",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/55689-binibining-tsuper-man"
+    },
+    {
+     "title": "Vapid Shallow Models Must Die",
+     "year": "2006",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/50333-vapid-shallow-models-must-die"
+    },
+    {
+     "title": "The Uninvited",
+     "year": "2003",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/7740-uninvited"
+    },
+    {
+     "title": "Pleasure Campus: Secret Games",
+     "year": "1980",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/49571-pleasure-campus-secret-games"
+    },
+    {
+     "title": "Gen-Y Cops",
+     "year": "2000",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/23796-gen-x-cops-2-metal-mayhem"
+    },
+    {
+     "title": "Merchant of Death",
+     "year": "1997",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/59943-merchant-of-death"
+    },
+    {
+     "title": "Now You See Me: Now You Don't",
+     "year": "2025",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/102740-now-you-see-me-now-you-dont"
+    },
+    {
+     "title": "Lora",
+     "year": "2007",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/103304-lora"
+    },
+    {
+     "title": "Kraven the Hunter",
+     "year": "2024",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/81161-kraven-the-hunter"
+    },
+    {
+     "title": "Love Bites",
+     "year": "2002",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/44017-o-beijo-do-vampiro"
+    },
+    {
+     "title": "Tales of the Third Dimension",
+     "year": "1984",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/47024-tales-of-the-third-dimension"
+    },
+    {
+     "title": "Come Blow Your Horn",
+     "year": "1963",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/3650-come-blow-your-horn"
+    },
+    {
+     "title": "Siren",
+     "year": "2010",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/2467-siren"
+    },
+    {
+     "title": "The Hunt",
+     "year": "2020",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/66871-the-hunt"
+    },
+    {
+     "title": "Doctor Sleep",
+     "year": "2019",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/65505-doctor-sleep"
+    },
+    {
+     "title": "Fantastic Beasts: The Crimes of Grindelwald",
+     "year": "2018",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/58132-fantastic-beasts-the-crimes-of-grindelwald"
+    },
+    {
+     "title": "Guardians of the Galaxy: Vol. 2",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/38314-guardians-of-the-galaxy-vol-2"
+    },
+    {
+     "title": "Evil Deeds",
+     "year": "2019",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/40673-evil-deeds"
+    },
+    {
+     "title": "Enteng ng Ina mo",
+     "year": "2011",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/42324-enteng-ng-ina-mo"
+    },
+    {
+     "title": "Amy George",
+     "year": "2011",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/42300-amy-george"
+    },
+    {
+     "title": "The Dark Tower",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/41486-the-dark-tower"
+    },
+    {
+     "title": "Messengers",
+     "year": "2004",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/61621-messengers"
+    },
+    {
+     "title": "On the Third Day",
+     "year": "2021",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/76220-on-the-third-day"
+    },
+    {
+     "title": "High Anxiety",
+     "year": "1977",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/15056-high-anxiety"
+    },
+    {
+     "title": "Murder Report",
+     "year": "2025",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/112083-murder-report"
+    },
+    {
+     "title": "Insidious: Chapter 2",
+     "year": "2013",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/4900-insidious-chapter-2"
+    },
+    {
+     "title": "The City of Lost Children",
+     "year": "1995",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/10866-the-city-of-lost-children"
+    },
+    {
+     "title": "The Little Witch",
+     "year": "2018",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/59616-the-little-witch"
+    },
+    {
+     "title": "They Cloned Tyrone",
+     "year": "2023",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/84562-they-cloned-tyrone"
+    },
+    {
+     "title": "Madhouse",
+     "year": "1974",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/36447-madhouse"
+    },
+    {
+     "title": "The Haunted Airman",
+     "year": "2006",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/29023-the-haunted-airman"
+    },
+    {
+     "title": "Street Fighter II: The Animated Movie",
+     "year": "1994",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/23555-street-fighter-ii-the-animated-movie"
+    },
+    {
+     "title": "Sleeper",
+     "year": "1973",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/22734-sleeper"
+    },
+    {
+     "title": "Passion and Romance: Double Your Pleasure",
+     "year": "1997",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/50494-passion-and-romance-double-your-pleasure"
+    },
+    {
+     "title": "Superbabies: Baby Geniuses 2",
+     "year": "2003",
+     "reason": "Wikipedia verdict=male_or_unclear; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/23496-superbabies-baby-geniuses-2"
+    },
+    {
+     "title": "The Summit",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/57685-the-summit"
+    },
+    {
+     "title": "The Reincarnation of Peter Proud",
+     "year": "1975",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/34038-the-reincarnation-of-peter-proud"
+    },
+    {
+     "title": "Adalen 31",
+     "year": "1969",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/30713-adalen-31"
+    },
+    {
+     "title": "Problem Child 2",
+     "year": "1991",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/20740-problem-child-2"
+    },
+    {
+     "title": "Control",
+     "year": "2007",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/11179-control"
+    },
+    {
+     "title": "The Case of the Hillside Stranglers",
+     "year": "1989",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/10412-the-case-of-the-hillside-stranglers"
+    },
+    {
+     "title": "Bad Milo!",
+     "year": "2013",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/56781-bad-milo"
+    },
+    {
+     "title": "Past Tense",
+     "year": "2006",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/57162-past-tense"
+    },
+    {
+     "title": "Tales That Witness Madness",
+     "year": "1973",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/33432-tales-that-witness-madness"
+    },
+    {
+     "title": "The Wolfman Never Sleeps",
+     "year": "1972",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/31370-the-wolfman-never-sleeps"
+    },
+    {
+     "title": "Mortal Kombat II",
+     "year": "2026",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/99704-mortal-kombat-ii"
+    },
+    {
+     "title": "The King's Man",
+     "year": "2021",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/65863-the-kings-man"
+    },
+    {
+     "title": "Holy Water Joe",
+     "year": "1971",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/29296-holy-water-joe"
+    },
+    {
+     "title": "Winnie-the-Pooh: Blood and Honey 2",
+     "year": "2024",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/93899-winnie-the-pooh-blood-and-honey-2"
+    },
+    {
+     "title": "Megalopolis",
+     "year": "2024",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/95184-megalopolis"
+    },
+    {
+     "title": "The Oblong Box",
+     "year": "1969",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/19571-the-oblong-box"
+    },
+    {
+     "title": "Signs of Life",
+     "year": "1968",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/31692-signs-of-life"
+    },
+    {
+     "title": "Ghost Hound",
+     "year": "2007",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/97825-ghost-hound"
+    },
+    {
+     "title": "Belladonna of Sadness",
+     "year": "1973",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/36414-belladonna-of-sadness"
+    },
+    {
+     "title": "The Shamer's Daughter",
+     "year": "2015",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/38745-the-shamers-daughter"
+    },
+    {
+     "title": "Secrets",
+     "year": "1983",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/55314-secrets"
+    },
+    {
+     "title": "Adventures of Arsene Lupin",
+     "year": "2004",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/8666-adventures-of-arsene-lupin"
+    },
+    {
+     "title": "Noir",
+     "year": "2001",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/19500-noir"
+    },
+    {
+     "title": "Tales from the Crypt: Demon Knight",
+     "year": "1995",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/11972-tales-from-the-crypt-demon-knight"
+    },
+    {
+     "title": "Alpha Code",
+     "year": "2020",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/67857-alpha-code"
+    },
+    {
+     "title": "The Testament of Sister New Devil",
+     "year": "2015",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/64511-the-testament-of-sister-new-devil"
+    },
+    {
+     "title": "What We Do in the Shadows",
+     "year": "2014",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/17875-what-we-do-in-the-shadows"
+    },
+    {
+     "title": "Speechless",
+     "year": "2012",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/33639-speechless"
+    },
+    {
+     "title": "My Best Friend Is a Vampire",
+     "year": "1987",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/18876-my-best-friend-is-a-vampire"
+    },
+    {
+     "title": "Dream Lock",
+     "year": "2024",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/40346-dream-lock"
+    },
+    {
+     "title": "Good Luck, Have Fun, Don't Die",
+     "year": "2025",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/109917-good-luck-have-fun-dont-die"
+    },
+    {
+     "title": "Haunted Honeymoon",
+     "year": "1986",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/14820-haunted-honeymoon"
+    },
+    {
+     "title": "Magic Crystal",
+     "year": "1986",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/47042-magic-crystal"
+    },
+    {
+     "title": "The Razor's Edge",
+     "year": "1984",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/21090-the-razors-edge"
+    },
+    {
+     "title": "Dark Romances Vol. 1",
+     "year": "1990",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/55750-dark-romances-vol-1"
+    },
+    {
+     "title": "Burn, Witch, Burn",
+     "year": "1962",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/33170-burn-witch-burn"
+    },
+    {
+     "title": "Manos: The Hands of Fate",
+     "year": "1966",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/35618-manos-the-hands-of-fate"
+    },
+    {
+     "title": "Enoshima Prism",
+     "year": "2013",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/67831-enoshima-prism"
+    },
+    {
+     "title": "Wounds",
+     "year": "2019",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/65608-wounds"
+    },
+    {
+     "title": "Going Berserk",
+     "year": "1983",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/14232-going-berserk"
+    },
+    {
+     "title": "Hellraiser",
+     "year": "1987",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/14960-hellraiser"
+    },
+    {
+     "title": "Collective: Unconscious",
+     "year": "2016",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/40245-collective-unconscious"
+    },
+    {
+     "title": "Dark Shadows",
+     "year": "2012",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/26544-dark-shadows"
+    },
+    {
+     "title": "KickOff",
+     "year": "2011",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/2611-kickoff"
+    },
+    {
+     "title": "Conjuring Tapes",
+     "year": "2025",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/110484-conjuring-tapes"
+    },
+    {
+     "title": "The Shadow Man",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/86490-the-shadow-man"
+    },
+    {
+     "title": "Grave Secrets",
+     "year": "1989",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/7479-grave-secrets"
+    },
+    {
+     "title": "Man of La Mancha",
+     "year": "1972",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/17914-man-of-la-mancha"
+    },
+    {
+     "title": "Pali Road",
+     "year": "2015",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/86041-pali-road"
+    },
+    {
+     "title": "A Sight for Sore Eyes",
+     "year": "2003",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/85867-a-sight-for-sore-eyes"
+    },
+    {
+     "title": "I Remember You",
+     "year": "2015",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/86201-i-remember-you"
+    },
+    {
+     "title": "The Mutants: Ways of the Heart",
+     "year": "2008",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/80756-the-mutants-ways-of-the-heart"
+    },
+    {
+     "title": "Bedlam",
+     "year": "2015",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/39405-bedlam"
+    },
+    {
+     "title": "Devil's Domain",
+     "year": "2016",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/41216-devils-domain"
+    },
+    {
+     "title": "Insidious",
+     "year": "2010",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/15855-insidious"
+    },
+    {
+     "title": "Good Boy!",
+     "year": "2003",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/14283-good-boy"
+    },
+    {
+     "title": "Girl on the Bridge",
+     "year": "1999",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/13373-the-girl-on-the-bridge"
+    },
+    {
+     "title": "Fear Runs Silent",
+     "year": "2000",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/13262-fear-runs-silent"
+    },
+    {
+     "title": "Equus",
+     "year": "1977",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/12862-equus"
+    },
+    {
+     "title": "Dracula: Two Thousand",
+     "year": "2000",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/12448-dracula-2000"
+    },
+    {
+     "title": "Doctor Mordrid",
+     "year": "1992",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/12263-doctor-mordrid"
+    },
+    {
+     "title": "Dangerous Moves",
+     "year": "1984",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/12107-dangerous-moves"
+    },
+    {
+     "title": "Delta of Venus",
+     "year": "1995",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/11960-delta-of-venus"
+    },
+    {
+     "title": "Motel Hell",
+     "year": "1980",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/18687-motel-hell"
+    },
+    {
+     "title": "The King of Blaze",
+     "year": "2018",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/91009-the-king-of-blaze"
+    },
+    {
+     "title": "Through My Eyes",
+     "year": "2013",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/89929-moimi-glazami"
+    },
+    {
+     "title": "Lord of Illusions",
+     "year": "1995",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/17503-lord-of-illusions"
+    },
+    {
+     "title": "The Hot Rock",
+     "year": "1972",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/15314-the-hot-rock"
+    },
+    {
+     "title": "Gamera vs. the Deep Sea Monster Zigra",
+     "year": "1971",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/30596-gamera-vs-the-deep-sea-monster-zigra"
+    },
+    {
+     "title": "Attack of the Adult Babies",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/64748-adult-babies"
+    },
+    {
+     "title": "Horror",
+     "year": "2003",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/15289-horror"
+    },
+    {
+     "title": "Holy Man",
+     "year": "1998",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/15185-holy-man"
+    },
+    {
+     "title": "The Governess",
+     "year": "1998",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/14348-the-governess"
+    },
+    {
+     "title": "Decision to Leave",
+     "year": "2022",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/77248-decision-to-leave"
+    },
+    {
+     "title": "Once Bitten",
+     "year": "1985",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/19695-once-bitten"
+    },
+    {
+     "title": "Planets Around Us",
+     "year": "1962",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/50056-planets-around-us"
+    },
+    {
+     "title": "The Magician",
+     "year": "2006",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/33897-the-magician"
+    },
+    {
+     "title": "Hands of a Murderer",
+     "year": "1990",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/28393-hands-of-a-murderer"
+    },
+    {
+     "title": "Judgement",
+     "year": "1992",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/54395-judgement"
+    },
+    {
+     "title": "Uuno Turhapuro – kaksoisagentti",
+     "year": "1987",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/46253-uuno-turhapuro-kaksoisagentti"
+    },
+    {
+     "title": "Rawhead Rex",
+     "year": "1986",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/21086-rawhead-rex"
+    },
+    {
+     "title": "Poltergeist II: The Other Side",
+     "year": "1986",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/20497-poltergeist-ii-the-other-side"
+    },
+    {
+     "title": "The Orphanage",
+     "year": "2007",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/19811-the-orphanage"
+    },
+    {
+     "title": "Monkeybone",
+     "year": "2001",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/18585-monkeybone"
+    },
+    {
+     "title": "Intruders",
+     "year": "1992",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/36233-intruders"
+    },
+    {
+     "title": "Planet of the Vampires",
+     "year": "1965",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/23899-planet-of-the-vampires"
+    },
+    {
+     "title": "The Strongest Man in the World",
+     "year": "1975",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/23392-the-strongest-man-in-the-world"
+    },
+    {
+     "title": "Poltergeist III",
+     "year": "1988",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/20498-poltergeist-iii"
+    },
+    {
+     "title": "Parasite Eve",
+     "year": "1997",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/20037-parasite-eve"
+    },
+    {
+     "title": "Jack Be Nimble",
+     "year": "1993",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/16066-jack-be-nimble"
+    },
+    {
+     "title": "Mountains of the Moon",
+     "year": "1990",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/18710-mountains-of-the-moon"
+    },
+    {
+     "title": "Double Trouble",
+     "year": "1984",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/19420-double-trouble"
+    },
+    {
+     "title": "Zelig",
+     "year": "1983",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/63050-zelig"
+    },
+    {
+     "title": "Double, Double Toil and Trouble",
+     "year": "1993",
+     "reason": "Wikipedia: children's film",
+     "url": "https://bestsimilar.com/movies/35254-double-double-toil-and-trouble"
+    },
+    {
+     "title": "Young Torless",
+     "year": "1966",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/34059-young-torless"
+    },
+    {
+     "title": "Night of the Demon",
+     "year": "1980",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/33862-night-of-the-demon"
+    },
+    {
+     "title": "Horror on Snape Island",
+     "year": "1972",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/32612-horror-on-snape-island"
+    },
+    {
+     "title": "The Horrible Dr. Bones",
+     "year": "2000",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/31831-the-horrible-dr-bones"
+    },
+    {
+     "title": "All Around the Town",
+     "year": "2002",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/31511-all-around-the-town"
+    },
+    {
+     "title": "Mahler on the Couch",
+     "year": "2010",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/27457-mahler-on-the-couch"
+    },
+    {
+     "title": "The Year My Voice Broke",
+     "year": "1987",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/25958-the-year-my-voice-broke"
+    },
+    {
+     "title": "Children's Play",
+     "year": "2001",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/24724-childrens-play"
+    },
+    {
+     "title": "Taking Off",
+     "year": "1971",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/23678-taking-off"
+    },
+    {
+     "title": "Mysterious Skin",
+     "year": "2004",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/18959-mysterious-skin"
+    },
+    {
+     "title": "The Lifeforce Experiment",
+     "year": "1994",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/17264-the-lifeforce-experiment"
+    },
+    {
+     "title": "The Return",
+     "year": "2020",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/74985-the-return"
+    },
+    {
+     "title": "Xtro",
+     "year": "1982",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/25925-xtro"
+    },
+    {
+     "title": "It",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/40395-it"
+    },
+    {
+     "title": "Terror",
+     "year": "1978",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/23887-terror"
+    },
+    {
+     "title": "Wild Wild West",
+     "year": "1999",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/25672-wild-wild-west"
+    },
+    {
+     "title": "Kiss the Girls",
+     "year": "1997",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/16723-kiss-the-girls"
+    },
+    {
+     "title": "Reckless",
+     "year": "1995",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/21122-reckless"
+    },
+    {
+     "title": "Mr. Stitch",
+     "year": "1995",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/18763-mr-stitch"
+    },
+    {
+     "title": "Four Rooms",
+     "year": "1995",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/13676-four-rooms"
+    },
+    {
+     "title": "Dead on Sight",
+     "year": "1994",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/49773-dead-on-sight"
+    },
+    {
+     "title": "The Dancer",
+     "year": "2016",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/38963-the-dancer"
+    },
+    {
+     "title": "Captain America: Civil War",
+     "year": "2016",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/38904-captain-america-civil-war"
+    },
+    {
+     "title": "Vampires: Out For Blood",
+     "year": "2004",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/19888-out-for-blood"
+    },
+    {
+     "title": "Ichi the Killer",
+     "year": "2001",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/16800-ichi-the-killer"
+    },
+    {
+     "title": "The Keep",
+     "year": "1983",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/16514-the-keep"
+    },
+    {
+     "title": "Johnny English Reborn",
+     "year": "2011",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/16265-johnny-english-reborn"
+    },
+    {
+     "title": "Vuelve",
+     "year": "2013",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/45463-vuelve"
+    },
+    {
+     "title": "The Vengeance of Fu Manchu",
+     "year": "1967",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/25063-the-vengeance-of-fu-manchu"
+    },
+    {
+     "title": "Halloween Ends",
+     "year": "2022",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/76157-halloween-ends"
+    },
+    {
+     "title": "Let Yourself Go",
+     "year": "2017",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/66671-let-yourself-go"
+    },
+    {
+     "title": "Echoes",
+     "year": "2014",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/72099-echoes"
+    },
+    {
+     "title": "Through the Magic Pyramid",
+     "year": "1981",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/55900-through-the-magic-pyramid"
+    },
+    {
+     "title": "Ravage",
+     "year": "1997",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/53720-ravage"
+    },
+    {
+     "title": "The Scarecrow",
+     "year": "1982",
+     "reason": "Wikipedia verdict=male_or_unclear; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/52702-the-scarecrow"
+    },
+    {
+     "title": "Liquid Dreams",
+     "year": "1991",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/52329-liquid-dreams"
+    },
+    {
+     "title": "The Golden Fortress",
+     "year": "1974",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/52304-the-golden-fortress"
+    },
+    {
+     "title": "Night Has a Thousand Desires",
+     "year": "1984",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/52096-night-has-a-thousand-desires"
+    },
+    {
+     "title": "Marked",
+     "year": "1984",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/50000-marked"
+    },
+    {
+     "title": "Alien Nation: Millennium",
+     "year": "1996",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/8147-alien-nation-millennium"
+    },
+    {
+     "title": "99.9",
+     "year": "1997",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/7815-99-9"
+    },
+    {
+     "title": "Agatha Christie: A Life in Pictures",
+     "year": "2004",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/6874-agatha-christie-a-life-in-pictures"
+    },
+    {
+     "title": "Maangamizi: The Ancient One",
+     "year": "1999",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/6245-maangamizi-the-ancient-one"
+    },
+    {
+     "title": "Sex Crazy",
+     "year": "2006",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/5902-sex-crazy"
+    },
+    {
+     "title": "The Crossing",
+     "year": "2012",
+     "reason": "Wikipedia verdict=no_control; blurb=tag_only",
+     "url": "https://bestsimilar.com/movies/5315-the-crossing"
+    },
+    {
+     "title": "The Lathe of Heaven",
+     "year": "1980",
+     "reason": "manual QC: not adult-female hypnosis (The Lathe of Heaven)",
+     "url": "https://bestsimilar.com/movies/36622-the-lathe-of-heaven"
+    },
+    {
+     "title": "The Wrong Missy",
+     "year": "2020",
+     "reason": "manual QC: not adult-female hypnosis (The Wrong Missy)",
+     "url": "https://bestsimilar.com/movies/67649-the-wrong-missy"
+    },
+    {
+     "title": "Murder or Memory: A Moment of Truth Movie",
+     "year": "1994",
+     "reason": "manual QC: not adult-female hypnosis (Murder or Memory: A Moment of Truth Movie)",
+     "url": "https://bestsimilar.com/movies/18550-murder-or-memory-a-moment-of-truth-movie"
+    },
+    {
+     "title": "Let's Kill Uncle, Before Uncle Kills Us",
+     "year": "1966",
+     "reason": "manual QC: not adult-female hypnosis (Let's Kill Uncle, Before Uncle Kills Us)",
+     "url": "https://bestsimilar.com/movies/51118-lets-kill-uncle-before-uncle-kills-us"
+    },
+    {
+     "title": "Super Inday and the Golden Bibe",
+     "year": "2010",
+     "reason": "manual QC: not adult-female hypnosis (Super Inday and the Golden Bibe)",
+     "url": "https://bestsimilar.com/movies/41976-super-inday-and-the-golden-bibe"
+    },
+    {
+     "title": "Up, Up, and Away",
+     "year": "2000",
+     "reason": "manual QC: not adult-female hypnosis (Up, Up, and Away)",
+     "url": "https://bestsimilar.com/movies/24873-up-up-and-away"
+    },
+    {
+     "title": "The Possession of Michael King",
+     "year": "2014",
+     "reason": "manual QC: not adult-female hypnosis (The Possession of Michael King)",
+     "url": "https://bestsimilar.com/movies/27165-the-possession-of-michael-king"
+    }
+   ],
+   "check": {
+    "raw_count": 206,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -9235,10 +11625,11 @@ window.CATALOG = {
   "hypno-kids-witness-unverified-oct25": 8,
   "hypnosis-imdb-list-full-oct25": 482,
   "deep-refresh-oct30": 75,
-  "deep-refresh-nov04": 61
+  "deep-refresh-nov04": 61,
+  "hypnosis-bestsimilar-nov5": 206
  },
- "raw_total": 7231,
- "entry_count": 3691,
+ "raw_total": 7437,
+ "entry_count": 3717,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -9256,7 +11647,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 332
+   "entry_count": 338
   },
   {
    "key": "belly",
@@ -9292,7 +11683,7 @@ window.CATALOG = {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 156
+   "entry_count": 158
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -9304,19 +11695,19 @@ window.CATALOG = {
    "key": "doctor-gain",
    "label": "Doctor hypnotizes female characters for personal gain",
    "legend_label": "Doctor controls female character for personal gain",
-   "entry_count": 39
+   "entry_count": 43
   },
   {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 112
+   "entry_count": 118
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 305
+   "entry_count": 310
   },
   {
    "key": "child-controller",
@@ -9328,7 +11719,7 @@ window.CATALOG = {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 63
+   "entry_count": 64
   },
   {
    "key": "india-control",
@@ -9346,7 +11737,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 350
+   "entry_count": 352
   },
   {
    "key": "index-56",
@@ -9448,7 +11839,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 243
+   "entry_count": 253
   },
   {
    "key": "mom-partner-control",
@@ -9478,7 +11869,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 437
+   "entry_count": 445
   },
   {
    "key": "parents-sleeping",
@@ -9700,7 +12091,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 224
+   "entry_count": 226
   },
   {
    "key": "stepmom-control",
@@ -9772,7 +12163,7 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 139
+   "entry_count": 143
   },
   {
    "key": "therapist-wife",
@@ -10354,7 +12745,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -10390,6 +12782,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Gianna Serra: Our Man Flint",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Our Man Flint (1966)",
+     "url": "https://bestsimilar.com/movies/19880-our-man-flint"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -10397,13 +12797,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-oct24"
+    "hypnosis-imdb-list-oct24",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:2",
     "ig6qlxqxoxvcxla:2",
     "worldwide-hypnosis:662",
-    "hypnosis-imdb-list-oct24:42"
+    "hypnosis-imdb-list-oct24:42",
+    "hypnosis-bestsimilar-nov5:170"
    ],
    "index_only": false,
    "local_only": false,
@@ -10566,6 +12968,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:170",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Our Man Flint (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Our Man Flint",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Our Man Flint (1966)",
+       "url": "https://bestsimilar.com/movies/19880-our-man-flint"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -10689,6 +13124,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (Wayback snapshot pages 1-2, 24 Oct 2026 PT session); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:170": {
+     "title": "Our Man Flint",
+     "year": "1966",
+     "match_title": "Our Man Flint",
+     "match_year": "1966",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Our Man Flint (1966)",
+       "url": "https://bestsimilar.com/movies/19880-our-man-flint"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -10705,7 +13162,8 @@ window.CATALOG = {
    "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
    "note": "",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "fit_note": "Gracie Law (adult lawyer) and Miao Yin entranced as intended brides in a curse-breaking wedding ritual; interrupted.",
    "format": "movie",
@@ -10726,6 +13184,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Suzee Pai: Big Trouble in Little China; Kim Cattrall: Big Trouble in Little China",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Big Trouble in Little China (1986)",
+     "url": "https://bestsimilar.com/movies/9394-big-trouble-in-little-china"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -10733,13 +13199,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "hypnotized-marriage",
-    "hypnosis-imdb-list-oct24"
+    "hypnosis-imdb-list-oct24",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:3",
     "ig6qlxqxoxvcxla:3",
     "hypnotized-marriage:27",
-    "hypnosis-imdb-list-oct24:7"
+    "hypnosis-imdb-list-oct24:7",
+    "hypnosis-bestsimilar-nov5:80"
    ],
    "index_only": false,
    "local_only": false,
@@ -10871,6 +13339,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:80",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Big Trouble in Little China (1986)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Big Trouble in Little China",
+     "subtitle": "",
+     "year": "1986",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Big Trouble in Little China (1986)",
+       "url": "https://bestsimilar.com/movies/9394-big-trouble-in-little-china"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -10972,6 +13473,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (Wayback snapshot pages 1-2, 24 Oct 2026 PT session); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:80": {
+     "title": "Big Trouble in Little China",
+     "year": "1986",
+     "match_title": "Big Trouble in Little China",
+     "match_year": "1986",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Big Trouble in Little China (1986)",
+       "url": "https://bestsimilar.com/movies/9394-big-trouble-in-little-china"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -14191,7 +16714,8 @@ window.CATALOG = {
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "cited sources do not mention a pregnancy",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bestsimilar-hypnosis-6496"
    ],
    "hypnotist": "psychiatrist Suk-kwon",
    "gain_motive": [
@@ -14274,6 +16798,14 @@ window.CATALOG = {
     {
      "label": "MyDramaList: Hypnotized (2004)",
      "url": "https://mydramalist.com/8548-hypnotized"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Hypnotized (2004)",
+     "url": "https://bestsimilar.com/movies/32896-the-hypnotized"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -14286,7 +16818,8 @@ window.CATALOG = {
     "hypnosis-assault",
     "streaming-oct15",
     "kr-cn-hypnosis",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:18",
@@ -14300,7 +16833,8 @@ window.CATALOG = {
     "hypnosis-assault:5",
     "streaming-oct15:2",
     "kr-cn-hypnosis:8",
-    "wife-hypnosis-oct15:1"
+    "wife-hypnosis-oct15:1",
+    "hypnosis-bestsimilar-nov5:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -14794,6 +17328,39 @@ window.CATALOG = {
      "already_married_note": "Yes — husband: her husband",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:2",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Hypnotized / Faceless Beauty (2004)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Hypnotized (2004)",
+       "url": "https://bestsimilar.com/movies/32896-the-hypnotized"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -15162,6 +17729,28 @@ window.CATALOG = {
      "already_married": "yes",
      "already_married_note": "Yes — husband: her husband"
     },
+    "hypnosis-bestsimilar-nov5:2": {
+     "title": "The Hypnotized / Faceless Beauty",
+     "year": "2004",
+     "match_title": "The Hypnotized / Faceless Beauty",
+     "match_year": "2004",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Hypnotized (2004)",
+       "url": "https://bestsimilar.com/movies/32896-the-hypnotized"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
+    },
     "streaming-oct15:2": {
      "standalone": true,
      "group": "Streaming-service additions (Oct 2026)",
@@ -15209,7 +17798,8 @@ window.CATALOG = {
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "no",
    "kids_note": "none",
@@ -15247,6 +17837,14 @@ window.CATALOG = {
     {
      "label": "mydramalist.com",
      "url": "https://mydramalist.com/49481-the-love-by-hypnotic"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Love by Hypnotic (2019)",
+     "url": "https://bestsimilar.com/movies/83962-the-love-by-hypnotic"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -15255,14 +17853,16 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "royal-hypnosis-loose",
     "hypnotized-marriage",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:19",
     "ig6qlxqxoxvcxla:704",
     "royal-hypnosis-loose:24",
     "hypnotized-marriage:20",
-    "kr-cn-hypnosis:11"
+    "kr-cn-hypnosis:11",
+    "hypnosis-bestsimilar-nov5:17"
    ],
    "index_only": false,
    "local_only": false,
@@ -15429,6 +18029,39 @@ window.CATALOG = {
      "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:17",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Love by Hypnotic (2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Love by Hypnotic",
+     "subtitle": "",
+     "year": "2019",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Love by Hypnotic (2019)",
+       "url": "https://bestsimilar.com/movies/83962-the-love-by-hypnotic"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -15548,6 +18181,28 @@ window.CATALOG = {
      "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:17": {
+     "title": "The Love by Hypnotic",
+     "year": "2019",
+     "match_title": "The Love by Hypnotic",
+     "match_year": "2019",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Love by Hypnotic (2019)",
+       "url": "https://bestsimilar.com/movies/83962-the-love-by-hypnotic"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -25227,8 +27882,11 @@ window.CATALOG = {
    "confidence_flag": "Boundary case",
    "summary": "Elizabeth becomes romantically entangled with men whose memories she probes, but the hypnosis serves art-theft memory retrieval rather than manufacturing love.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "love"
@@ -25237,20 +27895,90 @@ window.CATALOG = {
     {
      "label": "Collider",
      "url": "https://collider.com/danny-boyle-trance-james-mcavoy-rosario-dawson/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Trance (2013)",
+     "url": "https://bestsimilar.com/movies/446-trance"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "xla62ucxbx02u5:55"
+    "xla62ucxbx02u5:55",
+    "hypnosis-bestsimilar-nov5:8"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:55",
+    "source": "xla62ucxbx02u5",
+    "label": "Trance (2013)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Trance",
+    "subtitle": "",
+    "year": "2013",
+    "meta": "Movie",
+    "summary": "Elizabeth becomes romantically entangled with men whose memories she probes, but the hypnosis serves art-theft memory retrieval rather than manufacturing love.",
+    "character": "",
+    "note": "",
+    "mechanism": "Clinical hypnosis",
+    "confidence_flag": "Boundary case",
+    "categories": [
+     "love"
+    ],
+    "sources": [
+     {
+      "label": "Collider",
+      "url": "https://collider.com/danny-boyle-trance-james-mcavoy-rosario-dawson/"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:8",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Trance (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Trance",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Trance (2013)",
+       "url": "https://bestsimilar.com/movies/446-trance"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:55": {
      "t": "Trance",
@@ -25269,6 +27997,28 @@ window.CATALOG = {
        "https://collider.com/danny-boyle-trance-james-mcavoy-rosario-dawson/"
       ]
      ]
+    },
+    "hypnosis-bestsimilar-nov5:8": {
+     "title": "Trance",
+     "year": "2013",
+     "match_title": "Trance",
+     "match_year": "2013",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Trance (2013)",
+       "url": "https://bestsimilar.com/movies/446-trance"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -27010,8 +29760,11 @@ window.CATALOG = {
    "confidence_flag": "High confidence · benevolent investigative use",
    "summary": "Psychiatrist and hypnosis specialist Erik Bark hypnotizes his own wife Simone to recover information that may identify their son’s kidnapper.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "yes",
    "kids_note": "son Benjamin",
    "kids_together": "no",
@@ -27033,20 +29786,30 @@ window.CATALOG = {
     {
      "label": "Swedish Wikipedia",
      "url": "https://sv.wikipedia.org/wiki/Hypnotis%C3%B6ren_(film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Hypnotist (2012)",
+     "url": "https://bestsimilar.com/movies/1897-the-hypnotist"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:60",
     "ig6qlxqxoxvcxla:64",
     "ig6qlxqxoxvcxla:307",
     "ig6qlxqxoxvcxla:356",
-    "wife-hypnosis-oct15:10"
+    "wife-hypnosis-oct15:10",
+    "hypnosis-bestsimilar-nov5:14"
    ],
    "index_only": false,
    "local_only": false,
@@ -27196,6 +29959,39 @@ window.CATALOG = {
      "already_married_note": "Yes — husband: Erik Maria Bark (wife Simone)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:14",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Hypnotist / Hypnotisören (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnotist / Hypnotisören",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Hypnotist (2012)",
+       "url": "https://bestsimilar.com/movies/1897-the-hypnotist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -27284,6 +30080,28 @@ window.CATALOG = {
      "kids_together": "no",
      "kids_status": "yes",
      "kids_note": "son Benjamin"
+    },
+    "hypnosis-bestsimilar-nov5:14": {
+     "title": "The Hypnotist / Hypnotisören",
+     "year": "2012",
+     "match_title": "The Hypnotist / Hypnotisören",
+     "match_year": "2012",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Hypnotist (2012)",
+       "url": "https://bestsimilar.com/movies/1897-the-hypnotist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -34178,7 +36996,8 @@ window.CATALOG = {
    "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added",
    "note": "",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -34196,18 +37015,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Milla Jovovich: The Fourth Kind",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Fourth Kind (2009)",
+     "url": "https://bestsimilar.com/movies/13680-the-fourth-kind"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:98",
     "ig6qlxqxoxvcxla:767",
-    "hypnosis-imdb-list-full-oct25:316"
+    "hypnosis-imdb-list-full-oct25:316",
+    "hypnosis-bestsimilar-nov5:20"
    ],
    "index_only": false,
    "local_only": false,
@@ -34296,6 +37125,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:20",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Fourth Kind (2009)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Fourth Kind",
+     "subtitle": "",
+     "year": "2009",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Fourth Kind (2009)",
+       "url": "https://bestsimilar.com/movies/13680-the-fourth-kind"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -34346,6 +37208,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:20": {
+     "title": "The Fourth Kind",
+     "year": "2009",
+     "match_title": "The Fourth Kind",
+     "match_year": "2009",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Fourth Kind (2009)",
+       "url": "https://bestsimilar.com/movies/13680-the-fourth-kind"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -36098,8 +38982,11 @@ window.CATALOG = {
    "confidence_flag": "Borderline · no hostile controller",
    "summary": "A grieving mother voluntarily visits a hypnotist to relive her dead son’s last moments; her child is deceased and there is no hostile controller.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "short",
    "categories": [
     "mother"
@@ -36108,16 +38995,26 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt5921624"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Regression (2015)",
+     "url": "https://bestsimilar.com/movies/27637-regression"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:109",
-    "ig6qlxqxoxvcxla:781"
+    "ig6qlxqxoxvcxla:781",
+    "hypnosis-bestsimilar-nov5:42"
    ],
    "index_only": false,
    "local_only": false,
@@ -36173,6 +39070,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Regression — short",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:42",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Regression (Year unverified)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Regression",
+     "subtitle": "",
+     "year": "Year unverified",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Regression (2015)",
+       "url": "https://bestsimilar.com/movies/27637-regression"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -36201,6 +39131,28 @@ window.CATALOG = {
      "group": "Borderline",
      "confidence": "Borderline",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:42": {
+     "title": "Regression",
+     "year": "Year unverified",
+     "match_title": "Regression",
+     "match_year": "Year unverified",
+     "format": "short",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Regression (2015)",
+       "url": "https://bestsimilar.com/movies/27637-regression"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -42823,6 +45775,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Jenn had a late-term stillbirth before the story begins; Dr. Meade's hypnotherapy exploits that trauma (pregnancy-adjacent).",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
@@ -42871,6 +45826,14 @@ window.CATALOG = {
     {
      "label": "MUBI: Hypnotic (2021)",
      "url": "https://mubi.com/en/us/films/hypnotic-2021"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Hypnotic (2021)",
+     "url": "https://bestsimilar.com/movies/73981-hypnotic"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -42881,7 +45844,8 @@ window.CATALOG = {
     "hypnotized-love",
     "older-man-hypnosis",
     "streaming-oct15",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:143",
@@ -42896,7 +45860,8 @@ window.CATALOG = {
     "older-man-hypnosis:13",
     "streaming-oct15:3",
     "streaming-oct15:22",
-    "wife-hypnosis-oct15:11"
+    "wife-hypnosis-oct15:11",
+    "hypnosis-bestsimilar-nov5:12"
    ],
    "index_only": false,
    "local_only": false,
@@ -43312,6 +46277,39 @@ window.CATALOG = {
      "already_married_note": "Yes — husband: Gina's husband",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:12",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Hypnotic (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Hypnotic (2021)",
+       "url": "https://bestsimilar.com/movies/73981-hypnotic"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -43557,6 +46555,28 @@ window.CATALOG = {
      ],
      "already_married": "yes",
      "already_married_note": "Yes — husband: Gina's husband"
+    },
+    "hypnosis-bestsimilar-nov5:12": {
+     "title": "Hypnotic",
+     "year": "2021",
+     "match_title": "Hypnotic",
+     "match_year": "2021",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Hypnotic (2021)",
+       "url": "https://bestsimilar.com/movies/73981-hypnotic"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     },
     "streaming-oct15:3": {
      "standalone": true,
@@ -44939,8 +47959,11 @@ window.CATALOG = {
    "confidence_flag": "High confidence · index-verified",
    "summary": "Pregnant Sherry Burton falls under the influence of the aliens who artificially inseminated her. Her behavior grows erratic, and she says the baby told her to soak in an ice bath for hours. Pregnant-child category detail: Sherry Burton’s alien fetus speaks to and commands her; she sits in an ice bath because the baby “likes the cold” and “told her to do it.”",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "pregnancy-evil",
@@ -44958,17 +47981,27 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt0167350"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Progeny (1998)",
+     "url": "https://bestsimilar.com/movies/20756-progeny"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:149",
     "ig6qlxqxoxvcxla:841",
-    "ig6qlxqxoxvcxla:897"
+    "ig6qlxqxoxvcxla:897",
+    "hypnosis-bestsimilar-nov5:141"
    ],
    "index_only": false,
    "local_only": false,
@@ -45057,6 +48090,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Progeny (1998)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:141",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Progeny (1998)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Progeny",
+     "subtitle": "",
+     "year": "1998",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Progeny (1998)",
+       "url": "https://bestsimilar.com/movies/20756-progeny"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -45102,6 +48168,28 @@ window.CATALOG = {
      "group": "High-confidence direct control / possession",
      "confidence": "High confidence",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:141": {
+     "title": "Progeny",
+     "year": "1998",
+     "match_title": "Progeny",
+     "match_year": "1998",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Progeny (1998)",
+       "url": "https://bestsimilar.com/movies/20756-progeny"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -49191,7 +52279,8 @@ window.CATALOG = {
    "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added",
    "note": "The chronology is well supported, but infertility as the adoption motive is less independently secure.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -49222,19 +52311,29 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Annabelle Wallis: Malignant",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Malignant (2021)",
+     "url": "https://bestsimilar.com/movies/69503-malignant"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:161",
     "ig6qlxqxoxvcxla:434",
     "ig6qlxqxoxvcxla:907",
-    "hypnosis-imdb-list-full-oct25:355"
+    "hypnosis-imdb-list-full-oct25:355",
+    "hypnosis-bestsimilar-nov5:48"
    ],
    "index_only": false,
    "local_only": false,
@@ -49360,6 +52459,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:48",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Malignant (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Malignant",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Malignant (2021)",
+       "url": "https://bestsimilar.com/movies/69503-malignant"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -49437,6 +52569,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:48": {
+     "title": "Malignant",
+     "year": "2021",
+     "match_title": "Malignant",
+     "match_year": "2021",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Malignant (2021)",
+       "url": "https://bestsimilar.com/movies/69503-malignant"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -63751,7 +66905,8 @@ window.CATALOG = {
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -63775,6 +66930,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Emma Thompson: Dead Again",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Dead Again (1991)",
+     "url": "https://bestsimilar.com/movies/11731-dead-again"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -63782,13 +66945,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "streaming-oct15",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:234",
     "ig6qlxqxoxvcxla:543",
     "streaming-oct15:45",
-    "hypnosis-imdb-list-full-oct25:263"
+    "hypnosis-imdb-list-full-oct25:263",
+    "hypnosis-bestsimilar-nov5:15"
    ],
    "index_only": false,
    "local_only": false,
@@ -63906,6 +67071,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:15",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Dead Again (1991)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dead Again",
+     "subtitle": "",
+     "year": "1991",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dead Again (1991)",
+       "url": "https://bestsimilar.com/movies/11731-dead-again"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -63954,6 +67152,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:15": {
+     "title": "Dead Again",
+     "year": "1991",
+     "match_title": "Dead Again",
+     "match_year": "1991",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dead Again (1991)",
+       "url": "https://bestsimilar.com/movies/11731-dead-again"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     },
     "streaming-oct15:45": {
      "standalone": true,
@@ -70091,6 +73311,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "vampire",
@@ -70106,16 +73329,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Taste_the_Blood_of_Dracula"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Taste the Blood of Dracula (1970)",
+     "url": "https://bestsimilar.com/movies/23751-taste-the-blood-of-dracula"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:260",
-    "worldwide-hypnosis:841"
+    "worldwide-hypnosis:841",
+    "hypnosis-bestsimilar-nov5:134"
    ],
    "index_only": false,
    "local_only": false,
@@ -70190,6 +73423,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:134",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Taste the Blood of Dracula (1970)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Taste the Blood of Dracula",
+     "subtitle": "",
+     "year": "1970",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Taste the Blood of Dracula (1970)",
+       "url": "https://bestsimilar.com/movies/23751-taste-the-blood-of-dracula"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -70245,6 +73511,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:134": {
+     "title": "Taste the Blood of Dracula",
+     "year": "1970",
+     "match_title": "Taste the Blood of Dracula",
+     "match_year": "1970",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Taste the Blood of Dracula (1970)",
+       "url": "https://bestsimilar.com/movies/23751-taste-the-blood-of-dracula"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -70588,23 +73876,92 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "vampire"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "BestSimilar hypnosis tag — Twins of Evil (1971)",
+     "url": "https://bestsimilar.com/movies/24609-twins-of-evil"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "xla62ucxbx02u5:263"
+    "xla62ucxbx02u5:263",
+    "hypnosis-bestsimilar-nov5:88"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:263",
+    "source": "xla62ucxbx02u5",
+    "label": "Twins of Evil (1971)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Twins of Evil",
+    "subtitle": "",
+    "year": "1971",
+    "meta": "Film · UK",
+    "summary": "Frieda Gellhorn falls under Count Karnstein's hypnotic charm and becomes his willing vampire thrall.",
+    "character": "",
+    "note": "",
+    "mechanism": "Vampire mesmerism",
+    "confidence_flag": "Research report · web-verified",
+    "categories": [
+     "vampire"
+    ],
+    "sources": [],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:88",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Twins of Evil (1971)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Twins of Evil",
+     "subtitle": "",
+     "year": "1971",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Twins of Evil (1971)",
+       "url": "https://bestsimilar.com/movies/24609-twins-of-evil"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:263": {
      "t": "Twins of Evil",
@@ -70618,6 +73975,28 @@ window.CATALOG = {
      "flag": "Research report · web-verified",
      "s": "Frieda Gellhorn falls under Count Karnstein's hypnotic charm and becomes his willing vampire thrall.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
+    },
+    "hypnosis-bestsimilar-nov5:88": {
+     "title": "Twins of Evil",
+     "year": "1971",
+     "match_title": "Twins of Evil",
+     "match_year": "1971",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Twins of Evil (1971)",
+       "url": "https://bestsimilar.com/movies/24609-twins-of-evil"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -70659,7 +74038,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -70683,18 +74063,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Donna Anderson: Count Yorga, Vampire; Judy Lang: Count Yorga, Vampire",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Count Yorga, Vampire (1970)",
+     "url": "https://bestsimilar.com/movies/34902-count-yorga-vampire"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:264",
     "worldwide-hypnosis:208",
-    "hypnosis-imdb-list-full-oct25:256"
+    "hypnosis-imdb-list-full-oct25:256",
+    "hypnosis-bestsimilar-nov5:55"
    ],
    "index_only": false,
    "local_only": false,
@@ -70800,6 +74190,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:55",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Count Yorga, Vampire (1970)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Count Yorga, Vampire",
+     "subtitle": "",
+     "year": "1970",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Count Yorga, Vampire (1970)",
+       "url": "https://bestsimilar.com/movies/34902-count-yorga-vampire"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -70877,6 +74300,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:55": {
+     "title": "Count Yorga, Vampire",
+     "year": "1970",
+     "match_title": "Count Yorga, Vampire",
+     "match_year": "1970",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Count Yorga, Vampire (1970)",
+       "url": "https://bestsimilar.com/movies/34902-count-yorga-vampire"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -70904,7 +74349,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -70923,18 +74369,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Stephanie Beacham: Dracula AD 1972",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Dracula A.D. 1972 (1972)",
+     "url": "https://bestsimilar.com/movies/12450-dracula-a-d-1972"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:265",
     "worldwide-hypnosis:274",
-    "hypnosis-imdb-list-full-oct25:130"
+    "hypnosis-imdb-list-full-oct25:130",
+    "hypnosis-bestsimilar-nov5:110"
    ],
    "index_only": false,
    "local_only": false,
@@ -71034,6 +74490,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:110",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Dracula A.D. 1972",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dracula A.D. 1972",
+     "subtitle": "",
+     "year": "1972",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dracula A.D. 1972 (1972)",
+       "url": "https://bestsimilar.com/movies/12450-dracula-a-d-1972"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -71103,6 +74592,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:110": {
+     "title": "Dracula A.D. 1972",
+     "year": "1972",
+     "match_title": "Dracula A.D. 1972",
+     "match_year": "1972",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dracula A.D. 1972 (1972)",
+       "url": "https://bestsimilar.com/movies/12450-dracula-a-d-1972"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -71998,6 +75509,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "occult",
@@ -72011,18 +75525,28 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Curse_of_the_Crimson_Altar"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Curse of the Crimson Altar (1968)",
+     "url": "https://bestsimilar.com/movies/11474-curse-of-the-crimson-altar"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:271",
     "ig6qlxqxoxvcxla:585",
-    "worldwide-hypnosis:205"
+    "worldwide-hypnosis:205",
+    "hypnosis-bestsimilar-nov5:172"
    ],
    "index_only": false,
    "local_only": false,
@@ -72117,6 +75641,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:172",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Curse of the Crimson Altar (1968)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Curse of the Crimson Altar",
+     "subtitle": "",
+     "year": "1968",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Curse of the Crimson Altar (1968)",
+       "url": "https://bestsimilar.com/movies/11474-curse-of-the-crimson-altar"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -72175,6 +75732,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:172": {
+     "title": "Curse of the Crimson Altar",
+     "year": "1968",
+     "match_title": "Curse of the Crimson Altar",
+     "match_year": "1968",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Curse of the Crimson Altar (1968)",
+       "url": "https://bestsimilar.com/movies/11474-curse-of-the-crimson-altar"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -72200,7 +75779,8 @@ window.CATALOG = {
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -72218,18 +75798,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Lawson: The Devil Rides Out",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Devil Rides Out (1968)",
+     "url": "https://bestsimilar.com/movies/12077-the-devil-rides-out"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:272",
     "ig6qlxqxoxvcxla:586",
-    "hypnosis-imdb-list-full-oct25:357"
+    "hypnosis-imdb-list-full-oct25:357",
+    "hypnosis-bestsimilar-nov5:137"
    ],
    "index_only": false,
    "local_only": false,
@@ -72318,6 +75908,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:137",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Devil Rides Out (1968)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Devil Rides Out",
+     "subtitle": "",
+     "year": "1968",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Devil Rides Out (1968)",
+       "url": "https://bestsimilar.com/movies/12077-the-devil-rides-out"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -72369,6 +75992,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:137": {
+     "title": "The Devil Rides Out",
+     "year": "1968",
+     "match_title": "The Devil Rides Out",
+     "match_year": "1968",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Devil Rides Out (1968)",
+       "url": "https://bestsimilar.com/movies/12077-the-devil-rides-out"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -72600,21 +76245,35 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "occult",
     "spirit",
     "other-control"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "BestSimilar hypnosis tag — The Exorcist (1973)",
+     "url": "https://bestsimilar.com/movies/13017-the-exorcist"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:275",
-    "ig6qlxqxoxvcxla:589"
+    "ig6qlxqxoxvcxla:589",
+    "hypnosis-bestsimilar-nov5:68"
    ],
    "index_only": false,
    "local_only": false,
@@ -72667,6 +76326,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "The Exorcist (1973)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:68",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Exorcist (1973)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Exorcist",
+     "subtitle": "",
+     "year": "1973",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Exorcist (1973)",
+       "url": "https://bestsimilar.com/movies/13017-the-exorcist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -72691,6 +76383,28 @@ window.CATALOG = {
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:68": {
+     "title": "The Exorcist",
+     "year": "1973",
+     "match_title": "The Exorcist",
+     "match_year": "1973",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Exorcist (1973)",
+       "url": "https://bestsimilar.com/movies/13017-the-exorcist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -73080,6 +76794,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "occult",
@@ -73094,18 +76811,28 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Suspiria_%282018_film%29"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Suspiria (2018)",
+     "url": "https://bestsimilar.com/movies/58119-suspiria"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:279",
     "ig6qlxqxoxvcxla:594",
-    "worldwide-hypnosis:822"
+    "worldwide-hypnosis:822",
+    "hypnosis-bestsimilar-nov5:89"
    ],
    "index_only": false,
    "local_only": false,
@@ -73202,6 +76929,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:89",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Suspiria (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Suspiria",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Suspiria (2018)",
+       "url": "https://bestsimilar.com/movies/58119-suspiria"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -73262,6 +77022,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:89": {
+     "title": "Suspiria",
+     "year": "2018",
+     "match_title": "Suspiria",
+     "match_year": "2018",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Suspiria (2018)",
+       "url": "https://bestsimilar.com/movies/58119-suspiria"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -73398,7 +77180,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "The pregnancies in the sources concern the cast or other characters, not the hypnotized woman.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -73420,6 +77203,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Virginia Madsen: Candyman",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Candyman (1992)",
+     "url": "https://bestsimilar.com/movies/10283-candyman"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -73427,13 +77218,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:281",
     "ig6qlxqxoxvcxla:596",
     "worldwide-hypnosis:153",
-    "hypnosis-imdb-list-full-oct25:304"
+    "hypnosis-imdb-list-full-oct25:304",
+    "hypnosis-bestsimilar-nov5:117"
    ],
    "index_only": false,
    "local_only": false,
@@ -73560,6 +77353,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:117",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Candyman (1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Candyman",
+     "subtitle": "",
+     "year": "1992",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Candyman (1992)",
+       "url": "https://bestsimilar.com/movies/10283-candyman"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -73640,6 +77466,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:117": {
+     "title": "Candyman",
+     "year": "1992",
+     "match_title": "Candyman",
+     "match_year": "1992",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Candyman (1992)",
+       "url": "https://bestsimilar.com/movies/10283-candyman"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -87125,23 +90973,37 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "cult",
     "index-48",
     "scifi"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "BestSimilar hypnosis tag — Get Out (2017)",
+     "url": "https://bestsimilar.com/movies/40502-get-out"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:380",
     "ig6qlxqxoxvcxla:135",
     "ig6qlxqxoxvcxla:699",
-    "ig6qlxqxoxvcxla:714"
+    "ig6qlxqxoxvcxla:714",
+    "hypnosis-bestsimilar-nov5:13"
    ],
    "index_only": false,
    "local_only": false,
@@ -87241,6 +91103,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Get Out (2017)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:13",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Get Out (2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Get Out",
+     "subtitle": "",
+     "year": "2017",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Get Out (2017)",
+       "url": "https://bestsimilar.com/movies/40502-get-out"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -87292,6 +91187,28 @@ window.CATALOG = {
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:13": {
+     "title": "Get Out",
+     "year": "2017",
+     "match_title": "Get Out",
+     "match_year": "2017",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Get Out (2017)",
+       "url": "https://bestsimilar.com/movies/40502-get-out"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -87407,19 +91324,33 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "tv",
    "categories": [
     "cult"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "BestSimilar hypnosis tag — The Stand (1994)",
+     "url": "https://bestsimilar.com/movies/23144-the-stand"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:382",
-    "ig6qlxqxoxvcxla:716"
+    "ig6qlxqxoxvcxla:716",
+    "hypnosis-bestsimilar-nov5:154"
    ],
    "index_only": false,
    "local_only": false,
@@ -87471,6 +91402,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "The Stand (1994 miniseries)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:154",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Stand (1994)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Stand",
+     "subtitle": "",
+     "year": "1994",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Stand (1994)",
+       "url": "https://bestsimilar.com/movies/23144-the-stand"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -87493,6 +91457,28 @@ window.CATALOG = {
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:154": {
+     "title": "The Stand",
+     "year": "1994",
+     "match_title": "The Stand",
+     "match_year": "1994",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Stand (1994)",
+       "url": "https://bestsimilar.com/movies/23144-the-stand"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -88142,19 +92128,33 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "medical"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "BestSimilar hypnosis tag — Freud (1962)",
+     "url": "https://bestsimilar.com/movies/31415-freud"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:393",
-    "ig6qlxqxoxvcxla:727"
+    "ig6qlxqxoxvcxla:727",
+    "hypnosis-bestsimilar-nov5:71"
    ],
    "index_only": false,
    "local_only": false,
@@ -88206,6 +92206,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Freud (1962)",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:71",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Freud / Freud: The Secret Passion (1962)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Freud / Freud: The Secret Passion",
+     "subtitle": "",
+     "year": "1962",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Freud (1962)",
+       "url": "https://bestsimilar.com/movies/31415-freud"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -88228,6 +92261,28 @@ window.CATALOG = {
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:71": {
+     "title": "Freud / Freud: The Secret Passion",
+     "year": "1962",
+     "match_title": "Freud / Freud: The Secret Passion",
+     "match_year": "1962",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Freud (1962)",
+       "url": "https://bestsimilar.com/movies/31415-freud"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -88902,23 +92957,92 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "fantasy"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "BestSimilar hypnosis tag — Legend (1985)",
+     "url": "https://bestsimilar.com/movies/17125-legend"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "xla62ucxbx02u5:401"
+    "xla62ucxbx02u5:401",
+    "hypnosis-bestsimilar-nov5:91"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:401",
+    "source": "xla62ucxbx02u5",
+    "label": "Legend (1985)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Legend",
+    "subtitle": "",
+    "year": "1985",
+    "meta": "Film · US/UK",
+    "summary": "Princess Lili is captured by Darkness and falls under his seductive thrall, dancing with him in a fevered waltz.",
+    "character": "",
+    "note": "",
+    "mechanism": "Fantasy enchantment",
+    "confidence_flag": "Research report · web-verified",
+    "categories": [
+     "fantasy"
+    ],
+    "sources": [],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:91",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Legend (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Legend",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Legend (1985)",
+       "url": "https://bestsimilar.com/movies/17125-legend"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:401": {
      "t": "Legend",
@@ -88932,6 +93056,28 @@ window.CATALOG = {
      "flag": "Research report · web-verified",
      "s": "Princess Lili is captured by Darkness and falls under his seductive thrall, dancing with him in a fevered waltz.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
+    },
+    "hypnosis-bestsimilar-nov5:91": {
+     "title": "Legend",
+     "year": "1985",
+     "match_title": "Legend",
+     "match_year": "1985",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Legend (1985)",
+       "url": "https://bestsimilar.com/movies/17125-legend"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -89091,23 +93237,92 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "fantasy"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "BestSimilar hypnosis tag — Hocus Pocus (1993)",
+     "url": "https://bestsimilar.com/movies/15151-hocus-pocus"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "xla62ucxbx02u5:404"
+    "xla62ucxbx02u5:404",
+    "hypnosis-bestsimilar-nov5:143"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:404",
+    "source": "xla62ucxbx02u5",
+    "label": "Hocus Pocus (1993)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Hocus Pocus",
+    "subtitle": "",
+    "year": "1993",
+    "meta": "Film · USA",
+    "summary": "Sarah Sanderson hypnotises the children of Salem with her song \"Come Little Children,\" luring them entranced to the cottage.",
+    "character": "",
+    "note": "",
+    "mechanism": "Fantasy enchantment",
+    "confidence_flag": "Research report · web-verified",
+    "categories": [
+     "fantasy"
+    ],
+    "sources": [],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:143",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Hocus Pocus (1993)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hocus Pocus",
+     "subtitle": "",
+     "year": "1993",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Hocus Pocus (1993)",
+       "url": "https://bestsimilar.com/movies/15151-hocus-pocus"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:404": {
      "t": "Hocus Pocus",
@@ -89121,6 +93336,28 @@ window.CATALOG = {
      "flag": "Research report · web-verified",
      "s": "Sarah Sanderson hypnotises the children of Salem with her song \"Come Little Children,\" luring them entranced to the cottage.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
+    },
+    "hypnosis-bestsimilar-nov5:143": {
+     "title": "Hocus Pocus",
+     "year": "1993",
+     "match_title": "Hocus Pocus",
+     "match_year": "1993",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Hocus Pocus (1993)",
+       "url": "https://bestsimilar.com/movies/15151-hocus-pocus"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -102133,8 +106370,11 @@ window.CATALOG = {
    "confidence_flag": "High confidence",
    "summary": "Widower Verden Fell marries the young Lady Rowena after the death of his first wife Ligeia. Ligeia’s spirit possesses Rowena and animates her body as its own until Fell confronts the spirit.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "exwife-control"
@@ -102147,16 +106387,26 @@ window.CATALOG = {
     {
      "label": "HorrorNews.net",
      "url": "https://horrornews.net/88790/film-review-tomb-ligeia-1964/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Tomb of Ligeia (1964)",
+     "url": "https://bestsimilar.com/movies/24224-the-tomb-of-ligeia"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:485",
-    "ig6qlxqxoxvcxla:364"
+    "ig6qlxqxoxvcxla:364",
+    "hypnosis-bestsimilar-nov5:65"
    ],
    "index_only": false,
    "local_only": false,
@@ -102216,6 +106466,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "The Tomb of Ligeia (1964)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:65",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Tomb of Ligeia (1964)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Tomb of Ligeia",
+     "subtitle": "",
+     "year": "1964",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Tomb of Ligeia (1964)",
+       "url": "https://bestsimilar.com/movies/24224-the-tomb-of-ligeia"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -102248,6 +106531,28 @@ window.CATALOG = {
      "group": "Spirit possession by dead ex-wife / first wife",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:65": {
+     "title": "The Tomb of Ligeia",
+     "year": "1964",
+     "match_title": "The Tomb of Ligeia",
+     "match_year": "1964",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Tomb of Ligeia (1964)",
+       "url": "https://bestsimilar.com/movies/24224-the-tomb-of-ligeia"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -104676,7 +108981,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "hypnotist": "her husband Otto, a hypnotherapist",
    "gain_motive": [
@@ -104723,6 +109029,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Butler: My Husband's Deadly Past; Maddy Hillis: My Husband's Deadly Past",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — My Husband's Deadly Past (2020)",
+     "url": "https://bestsimilar.com/movies/84082-my-husbands-deadly-past"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -104732,7 +109046,8 @@ window.CATALOG = {
     "worldwide-hypnosis",
     "rich-wife-hypnosis",
     "wife-hypnosis-oct15",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:504",
@@ -104741,7 +109056,8 @@ window.CATALOG = {
     "worldwide-hypnosis:615",
     "rich-wife-hypnosis:13",
     "wife-hypnosis-oct15:19",
-    "hypnosis-imdb-list-full-oct25:292"
+    "hypnosis-imdb-list-full-oct25:292",
+    "hypnosis-bestsimilar-nov5:102"
    ],
    "index_only": false,
    "local_only": false,
@@ -105001,6 +109317,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:102",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "My Husband's Deadly Past (2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "My Husband's Deadly Past",
+     "subtitle": "",
+     "year": "2020",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — My Husband's Deadly Past (2020)",
+       "url": "https://bestsimilar.com/movies/84082-my-husbands-deadly-past"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -105187,6 +109536,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:102": {
+     "title": "My Husband's Deadly Past",
+     "year": "2020",
+     "match_title": "My Husband's Deadly Past",
+     "match_year": "2020",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — My Husband's Deadly Past (2020)",
+       "url": "https://bestsimilar.com/movies/84082-my-husbands-deadly-past"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -109484,8 +113855,11 @@ window.CATALOG = {
    "confidence_flag": "Medium confidence",
    "summary": "The diary of 16-year-old Tom Riddle possesses 11-year-old Ginny Weasley, drains her life and puppets her body into opening the Chamber, writing messages, killing roosters and releasing the Basilisk.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "child-controller"
@@ -109498,16 +113872,26 @@ window.CATALOG = {
     {
      "label": "ScreenRant",
      "url": "https://screenrant.com/harry-potter-tom-riddle-diary-possession-ending-change/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Harry Potter and the Chamber of Secrets (2002)",
+     "url": "https://bestsimilar.com/movies/14796-harry-potter-and-the-chamber-of-secrets"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:533",
-    "ig6qlxqxoxvcxla:815"
+    "ig6qlxqxoxvcxla:815",
+    "hypnosis-bestsimilar-nov5:173"
    ],
    "index_only": false,
    "local_only": false,
@@ -109567,6 +113951,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Harry Potter and the Chamber of Secrets (2002)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:173",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Harry Potter and the Chamber of Secrets (2002)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Harry Potter and the Chamber of Secrets",
+     "subtitle": "",
+     "year": "2002",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Harry Potter and the Chamber of Secrets (2002)",
+       "url": "https://bestsimilar.com/movies/14796-harry-potter-and-the-chamber-of-secrets"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -109599,6 +114016,28 @@ window.CATALOG = {
      "group": "Teen witches / magic / occult",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:173": {
+     "title": "Harry Potter and the Chamber of Secrets",
+     "year": "2002",
+     "match_title": "Harry Potter and the Chamber of Secrets",
+     "match_year": "2002",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Harry Potter and the Chamber of Secrets (2002)",
+       "url": "https://bestsimilar.com/movies/14796-harry-potter-and-the-chamber-of-secrets"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -112663,8 +117102,11 @@ window.CATALOG = {
    "confidence_flag": "MEDIUM",
    "summary": "Surrogate Elena believes the baby is killing her. She hallucinates, wanders in a daze, attacks a live chicken and attempts self-abortion with a knitting needle; malevolent in-utero agency is strongly implied, though a psychosis reading remains possible.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "pregnant-child"
@@ -112677,16 +117119,26 @@ window.CATALOG = {
     {
      "label": "TV Guide",
      "url": "https://www.tvguide.com/movies/Shelley/2000365430"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Shelley (2016)",
+     "url": "https://bestsimilar.com/movies/39108-shelley"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:553",
-    "ig6qlxqxoxvcxla:850"
+    "ig6qlxqxoxvcxla:850",
+    "hypnosis-bestsimilar-nov5:67"
    ],
    "index_only": false,
    "local_only": false,
@@ -112746,6 +117198,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Shelley (2016)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:67",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Shelley (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Shelley",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Shelley (2016)",
+       "url": "https://bestsimilar.com/movies/39108-shelley"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -112778,6 +117263,28 @@ window.CATALOG = {
      "group": "Agentic unborn / fetal / alien controllers",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:67": {
+     "title": "Shelley",
+     "year": "2016",
+     "match_title": "Shelley",
+     "match_year": "2016",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Shelley (2016)",
+       "url": "https://bestsimilar.com/movies/39108-shelley"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -127865,7 +132372,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -127888,18 +132396,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Catherine Oxenberg: The Lair of the White Worm",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Lair of the White Worm (1988)",
+     "url": "https://bestsimilar.com/movies/16921-the-lair-of-the-white-worm"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-oct24"
+    "hypnosis-imdb-list-oct24",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:635",
     "worldwide-hypnosis:912",
-    "hypnosis-imdb-list-oct24:53"
+    "hypnosis-imdb-list-oct24:53",
+    "hypnosis-bestsimilar-nov5:162"
    ],
    "index_only": false,
    "local_only": false,
@@ -128003,6 +132521,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:162",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Lair of the White Worm (1988)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Lair of the White Worm",
+     "subtitle": "",
+     "year": "1988",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Lair of the White Worm (1988)",
+       "url": "https://bestsimilar.com/movies/16921-the-lair-of-the-white-worm"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -128076,6 +132627,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (Wayback snapshot pages 1-2, 24 Oct 2026 PT session); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:162": {
+     "title": "The Lair of the White Worm",
+     "year": "1988",
+     "match_title": "The Lair of the White Worm",
+     "match_year": "1988",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Lair of the White Worm (1988)",
+       "url": "https://bestsimilar.com/movies/16921-the-lair-of-the-white-worm"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -128123,7 +132696,8 @@ window.CATALOG = {
    "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added",
    "note": "",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -128141,16 +132715,26 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amanda Bearse: Fright Night (1985)",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Fright Night (1985)",
+     "url": "https://bestsimilar.com/movies/13800-fright-night"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:636",
-    "hypnosis-imdb-list-full-oct25:324"
+    "hypnosis-imdb-list-full-oct25:324",
+    "hypnosis-bestsimilar-nov5:45"
    ],
    "index_only": false,
    "local_only": false,
@@ -128216,6 +132800,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:45",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Fright Night (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Fright Night",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Fright Night (1985)",
+       "url": "https://bestsimilar.com/movies/13800-fright-night"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -128260,6 +132877,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:45": {
+     "title": "Fright Night",
+     "year": "1985",
+     "match_title": "Fright Night",
+     "match_year": "1985",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Fright Night (1985)",
+       "url": "https://bestsimilar.com/movies/13800-fright-night"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -128276,7 +132915,8 @@ window.CATALOG = {
    "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added",
    "note": "",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -128294,16 +132934,26 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Imogen Poots: Fright Night (2011)",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Fright Night (2011)",
+     "url": "https://bestsimilar.com/movies/13801-fright-night"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:637",
-    "hypnosis-imdb-list-full-oct25:393"
+    "hypnosis-imdb-list-full-oct25:393",
+    "hypnosis-bestsimilar-nov5:47"
    ],
    "index_only": false,
    "local_only": false,
@@ -128369,6 +133019,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:47",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Fright Night (2011)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Fright Night",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Fright Night (2011)",
+       "url": "https://bestsimilar.com/movies/13801-fright-night"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -128413,6 +133096,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:47": {
+     "title": "Fright Night",
+     "year": "2011",
+     "match_title": "Fright Night",
+     "match_year": "2011",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Fright Night (2011)",
+       "url": "https://bestsimilar.com/movies/13801-fright-night"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -130300,7 +135005,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_note": "not stated",
@@ -130321,18 +135027,28 @@ window.CATALOG = {
     {
      "label": "French Wikipedia",
      "url": "https://fr.wikipedia.org/wiki/Hypnose_(film,_2018)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Guardian Angel (2018)",
+     "url": "https://bestsimilar.com/movies/67844-the-guardian-angel"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "wife-hypnosis-oct15",
-    "hypnosis-deep-oct25b"
+    "hypnosis-deep-oct25b",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:650",
     "wife-hypnosis-oct15:25",
-    "hypnosis-deep-oct25b:11"
+    "hypnosis-deep-oct25b:11",
+    "hypnosis-bestsimilar-nov5:76"
    ],
    "index_only": false,
    "local_only": false,
@@ -130434,6 +135150,39 @@ window.CATALOG = {
      "already_married": "not stated",
      "distinct_story": true,
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:76",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Hypnose / The Guardian Angel (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnose / The Guardian Angel",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Guardian Angel (2018)",
+       "url": "https://bestsimilar.com/movies/67844-the-guardian-angel"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -130503,6 +135252,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (fr edition, page \"Hypnose (film, 2018)\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:76": {
+     "title": "Hypnose / The Guardian Angel",
+     "year": "2018",
+     "match_title": "Hypnose / The Guardian Angel",
+     "match_year": "2018",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Guardian Angel (2018)",
+       "url": "https://bestsimilar.com/movies/67844-the-guardian-angel"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -132693,6 +137464,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for Ren Xiaoyan in the Wikipedia plot (only her adoptive mother's past pregnancy is mentioned).",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
@@ -132714,18 +137488,28 @@ window.CATALOG = {
     {
      "label": "Wikipedia: The Great Hypnotist",
      "url": "https://en.wikipedia.org/wiki/The_Great_Hypnotist"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Great Hypnotist (2014)",
+     "url": "https://bestsimilar.com/movies/67061-the-great-hypnotist"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "streaming-oct15",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:658",
     "streaming-oct15:12",
-    "kr-cn-hypnosis:15"
+    "kr-cn-hypnosis:15",
+    "hypnosis-bestsimilar-nov5:7"
    ],
    "index_only": false,
    "local_only": false,
@@ -132817,6 +137601,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for Ren Xiaoyan in the Wikipedia plot (only her adoptive mother's past pregnancy is mentioned).",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:7",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Great Hypnotist (催眠大师) (2014)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Great Hypnotist (催眠大师)",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Great Hypnotist (2014)",
+       "url": "https://bestsimilar.com/movies/67061-the-great-hypnotist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -132856,6 +137673,28 @@ window.CATALOG = {
      ],
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:7": {
+     "title": "The Great Hypnotist (催眠大师)",
+     "year": "2014",
+     "match_title": "The Great Hypnotist (催眠大师)",
+     "match_year": "2014",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Great Hypnotist (2014)",
+       "url": "https://bestsimilar.com/movies/67061-the-great-hypnotist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     },
     "streaming-oct15:12": {
      "standalone": true,
@@ -133483,8 +138322,11 @@ window.CATALOG = {
    "confidence_flag": "Medium-high confidence",
    "summary": "married Mathilde repeatedly consults a doctor-hypnotist; therapeutic hypnosis restores her enjoyment of life and changes her marriage.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; ambiguous same-year name resolved by plot",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "no",
    "kids_note": "no",
    "kids_together": "not stated",
@@ -133500,16 +138342,26 @@ window.CATALOG = {
     {
      "label": "repertoire.cinema.mcc.gouv.qc.ca",
      "url": "https://repertoire.cinema.mcc.gouv.qc.ca/wp-content/blogs.dir/2/files/sites/4/2008/09/118232.2.pdf"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Seventh Heaven (1997) (1997)",
+     "url": "https://bestsimilar.com/movies/22158-seventh-heaven"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:661",
-    "wife-hypnosis-oct15:29"
+    "wife-hypnosis-oct15:29",
+    "hypnosis-bestsimilar-nov5:203"
    ],
    "index_only": false,
    "local_only": false,
@@ -133570,6 +138422,39 @@ window.CATALOG = {
      "already_married_note": "Yes — husband: Nicolas (wife Mathilde)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:203",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Le Septième Ciel / The Seventh Heaven (1997)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Le Septième Ciel / The Seventh Heaven",
+     "subtitle": "",
+     "year": "1997",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Seventh Heaven (1997) (1997)",
+       "url": "https://bestsimilar.com/movies/22158-seventh-heaven"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -133607,6 +138492,28 @@ window.CATALOG = {
      "kids_together": "not stated",
      "kids_status": "no",
      "kids_note": "no"
+    },
+    "hypnosis-bestsimilar-nov5:203": {
+     "title": "Le Septième Ciel / The Seventh Heaven",
+     "year": "1997",
+     "match_title": "Le Septième Ciel / The Seventh Heaven",
+     "match_year": "1997",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Seventh Heaven (1997) (1997)",
+       "url": "https://bestsimilar.com/movies/22158-seventh-heaven"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; ambiguous same-year name resolved by plot"
     }
    }
   },
@@ -134585,7 +139492,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "unknown",
    "kids_note": "not mentioned in any source",
@@ -134637,6 +139545,14 @@ window.CATALOG = {
     {
      "label": "Hammer House of Horror Wiki",
      "url": "https://hammerhouseofhorror.fandom.com/wiki/Rasputin:_The_Mad_Monk_(1966)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Rasputin: The Mad Monk (1966)",
+     "url": "https://bestsimilar.com/movies/21064-rasputin-the-mad-monk"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -134647,7 +139563,8 @@ window.CATALOG = {
     "older-man-hypnosis",
     "hypno-intimacy",
     "hypnosis-assault",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:668",
@@ -134657,7 +139574,8 @@ window.CATALOG = {
     "older-man-hypnosis:1",
     "hypno-intimacy:1",
     "hypnosis-assault:3",
-    "royal-hypnosis:5"
+    "royal-hypnosis:5",
+    "hypnosis-bestsimilar-nov5:31"
    ],
    "index_only": false,
    "local_only": false,
@@ -134977,6 +139895,39 @@ window.CATALOG = {
      "already_married_note": "the Tsarina (Renée Asherson) is married to Tsar Nicholas II and is the mother of the heir, Tsarevich Alexei; Rasputin hypnotizes her so she replaces her doctor with his ally Zargo, gaining power at court. No pregnancy for her in the film. The card's Marries her / Pregnant by the end / Kids fields refer to lady-in-waiting Sonia, who is unmarried",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:31",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Rasputin the Mad Monk (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Rasputin the Mad Monk",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Rasputin: The Mad Monk (1966)",
+       "url": "https://bestsimilar.com/movies/21064-rasputin-the-mad-monk"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -135190,6 +140141,28 @@ window.CATALOG = {
      "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
      "already_married": "yes",
      "already_married_note": "the Tsarina (Renée Asherson) is married to Tsar Nicholas II and is the mother of the heir, Tsarevich Alexei; Rasputin hypnotizes her so she replaces her doctor with his ally Zargo, gaining power at court. No pregnancy for her in the film. The card's Marries her / Pregnant by the end / Kids fields refer to lady-in-waiting Sonia, who is unmarried"
+    },
+    "hypnosis-bestsimilar-nov5:31": {
+     "title": "Rasputin the Mad Monk",
+     "year": "1966",
+     "match_title": "Rasputin the Mad Monk",
+     "match_year": "1966",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Rasputin: The Mad Monk (1966)",
+       "url": "https://bestsimilar.com/movies/21064-rasputin-the-mad-monk"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     },
     "xla62ucxbx02u5:1705": {
      "t": "Rasputin: The Mad Monk",
@@ -136083,6 +141056,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Mi-do, the hypnotized woman, is never pregnant. The only pregnancy in the plot is the rumored (phantom) pregnancy of Woo-jin's sister Soo-ah years earlier (Wikipedia).",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "no",
    "kids_note": "Mi-do is herself Dae-su's lost daughter; she has no children of her own in the Wikipedia plot.",
    "format": "movie",
@@ -136111,6 +141087,14 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Oldboy_%282003_film%29"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Oldboy (2003)",
+     "url": "https://bestsimilar.com/movies/19653-oldboy"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -136119,14 +141103,16 @@ window.CATALOG = {
     "worldwide-hypnosis",
     "hypnotized-love",
     "field-fixes",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:675",
     "worldwide-hypnosis:666",
     "hypnotized-love:9",
     "field-fixes:1",
-    "kr-cn-hypnosis:17"
+    "kr-cn-hypnosis:17",
+    "hypnosis-bestsimilar-nov5:40"
    ],
    "index_only": false,
    "local_only": false,
@@ -136303,6 +141289,39 @@ window.CATALOG = {
      "kids_note": "Mi-do is herself Dae-su's lost daughter; she has no children of her own in the Wikipedia plot.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:40",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Oldboy (올드보이) (2003)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Oldboy (올드보이)",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Oldboy (2003)",
+       "url": "https://bestsimilar.com/movies/19653-oldboy"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -136433,6 +141452,28 @@ window.CATALOG = {
      ],
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:40": {
+     "title": "Oldboy (올드보이)",
+     "year": "2003",
+     "match_title": "Oldboy (올드보이)",
+     "match_year": "2003",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Oldboy (2003)",
+       "url": "https://bestsimilar.com/movies/19653-oldboy"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -136616,6 +141657,9 @@ window.CATALOG = {
    "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
    "note": "",
    "pregnancy_outcome": "unknown",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "unknown",
    "kids_together": "no",
    "married": "no",
@@ -136650,18 +141694,28 @@ window.CATALOG = {
     {
      "label": "Asian Movie Pulse review",
      "url": "https://asianmoviepulse.com/2023/04/film-review-the-hypnotist-1999-by-masayuki-ochiai/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Hypnotist (1999)",
+     "url": "https://bestsimilar.com/movies/21765-the-hypnotist"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "older-man-hypnosis",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:677",
     "older-man-hypnosis:9",
-    "hypnosis-assault:13"
+    "hypnosis-assault:13",
+    "hypnosis-bestsimilar-nov5:30"
    ],
    "index_only": false,
    "local_only": false,
@@ -136802,6 +141856,39 @@ window.CATALOG = {
      "fit_note": "Victims are described as 'young women' / 'mujeres jóvenes'; adults per reviews; main heroine Yuka is not described as assaulted.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:30",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Saimin / Hypnosis / The Hypnotist (1999)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Saimin / Hypnosis / The Hypnotist",
+     "subtitle": "",
+     "year": "1999",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Hypnotist (1999)",
+       "url": "https://bestsimilar.com/movies/21765-the-hypnotist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -136927,6 +142014,28 @@ window.CATALOG = {
      "catalog_ids": [
       655
      ]
+    },
+    "hypnosis-bestsimilar-nov5:30": {
+     "title": "Saimin / Hypnosis / The Hypnotist",
+     "year": "1999",
+     "match_title": "Saimin / Hypnosis / The Hypnotist",
+     "match_year": "1999",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Hypnotist (1999)",
+       "url": "https://bestsimilar.com/movies/21765-the-hypnotist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -137174,8 +142283,11 @@ window.CATALOG = {
    "confidence_flag": "High confidence",
    "summary": "a teacher places 36 students, including protagonist Rena Kashimura and many schoolgirls, under suicide hypnosis where 100 ordinary behaviors trigger self-killing.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "adult-hypnosis"
@@ -137184,20 +142296,90 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt10765896"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Signal 100 (2019)",
+     "url": "https://bestsimilar.com/movies/76198-signal-100"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "xla62ucxbx02u5:680"
+    "xla62ucxbx02u5:680",
+    "hypnosis-bestsimilar-nov5:70"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:680",
+    "source": "xla62ucxbx02u5",
+    "label": "Signal 100 (シグナル100) (2020)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Signal 100 (シグナル100)",
+    "subtitle": "",
+    "year": "2020",
+    "meta": "film · 2020, Japan",
+    "summary": "a teacher places 36 students, including protagonist Rena Kashimura and many schoolgirls, under suicide hypnosis where 100 ordinary behaviors trigger self-killing.",
+    "character": "",
+    "note": "",
+    "mechanism": "Criminal mastermind or villain hypnotist",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt10765896"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:70",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Signal 100 (シグナル100) (2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Signal 100 (シグナル100)",
+     "subtitle": "",
+     "year": "2020",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Signal 100 (2019)",
+       "url": "https://bestsimilar.com/movies/76198-signal-100"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:680": {
      "t": "Signal 100 (シグナル100)",
@@ -137217,6 +142399,28 @@ window.CATALOG = {
        "https://www.imdb.com/title/tt10765896"
       ]
      ]
+    },
+    "hypnosis-bestsimilar-nov5:70": {
+     "title": "Signal 100 (シグナル100)",
+     "year": "2020",
+     "match_title": "Signal 100 (シグナル100)",
+     "match_year": "2020",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Signal 100 (2019)",
+       "url": "https://bestsimilar.com/movies/76198-signal-100"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -137843,7 +143047,8 @@ window.CATALOG = {
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
     "loose fit",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "unknown",
    "kids_together": "no",
@@ -137879,6 +143084,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Kate Nelligan: Dracula (1979)",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Dracula (1979)",
+     "url": "https://bestsimilar.com/movies/12445-dracula"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -137886,13 +143099,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "hypnosis-assault-loose",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:686",
     "worldwide-hypnosis:277",
     "hypnosis-assault-loose:32",
-    "hypnosis-imdb-list-full-oct25:254"
+    "hypnosis-imdb-list-full-oct25:254",
+    "hypnosis-bestsimilar-nov5:46"
    ],
    "index_only": false,
    "local_only": false,
@@ -138049,6 +143264,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:46",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Dracula (1979)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dracula",
+     "subtitle": "",
+     "year": "1979",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dracula (1979)",
+       "url": "https://bestsimilar.com/movies/12445-dracula"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -138173,6 +143421,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:46": {
+     "title": "Dracula",
+     "year": "1979",
+     "match_title": "Dracula",
+     "match_year": "1979",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dracula (1979)",
+       "url": "https://bestsimilar.com/movies/12445-dracula"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -140254,6 +145524,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "adult-hypnosis",
@@ -140271,16 +145544,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Dance_with_Me_%282019_Iranian_film%29"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Dance With Me (2019)",
+     "url": "https://bestsimilar.com/movies/65428-dance-with-me"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:703",
-    "worldwide-hypnosis:236"
+    "worldwide-hypnosis:236",
+    "hypnosis-bestsimilar-nov5:54"
    ],
    "index_only": false,
    "local_only": false,
@@ -140356,6 +145639,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:54",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Dance with Me (ダンスウィズミー) (2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dance with Me (ダンスウィズミー)",
+     "subtitle": "",
+     "year": "2019",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dance With Me (2019)",
+       "url": "https://bestsimilar.com/movies/65428-dance-with-me"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -140411,6 +145727,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:54": {
+     "title": "Dance with Me (ダンスウィズミー)",
+     "year": "2019",
+     "match_title": "Dance with Me (ダンスウィズミー)",
+     "match_year": "2019",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dance With Me (2019)",
+       "url": "https://bestsimilar.com/movies/65428-dance-with-me"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -140424,8 +145762,11 @@ window.CATALOG = {
    "confidence_flag": "High confidence",
    "summary": "Vera undergoes hypnotherapy to quit smoking; afterward she loses social inhibitions and behaves increasingly strangely.",
    "character": "",
-   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
@@ -140443,16 +145784,26 @@ window.CATALOG = {
     {
      "label": "MUBI: The Hypnosis (2023)",
      "url": "https://mubi.com/en/us/films/the-hypnosis-2023"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Hypnosis (2023)",
+     "url": "https://bestsimilar.com/movies/105841-the-hypnosis"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "streaming-oct15"
+    "streaming-oct15",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:704",
-    "streaming-oct15:21"
+    "streaming-oct15:21",
+    "hypnosis-bestsimilar-nov5:37"
    ],
    "index_only": false,
    "local_only": false,
@@ -140516,6 +145867,39 @@ window.CATALOG = {
      "pregnant_end": "not stated",
      "distinct_story": false,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:37",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Hypnosen / The Hypnosis / Sous hypnose (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnosen / The Hypnosis / Sous hypnose",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Hypnosis (2023)",
+       "url": "https://bestsimilar.com/movies/105841-the-hypnosis"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -140537,6 +145921,28 @@ window.CATALOG = {
        "https://fr.wikipedia.org/wiki/Sous_hypnose"
       ]
      ]
+    },
+    "hypnosis-bestsimilar-nov5:37": {
+     "title": "Hypnosen / The Hypnosis / Sous hypnose",
+     "year": "2023",
+     "match_title": "Hypnosen / The Hypnosis / Sous hypnose",
+     "match_year": "2023",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Hypnosis (2023)",
+       "url": "https://bestsimilar.com/movies/105841-the-hypnosis"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     },
     "streaming-oct15:21": {
      "standalone": true,
@@ -140635,8 +146041,11 @@ window.CATALOG = {
    "confidence_flag": "High confidence",
    "summary": "Charcot has Augustine hypnotized before doctors, inducing her seizures; she becomes the star female subject of his hypnosis demonstrations at the Salpêtrière.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "adult-hypnosis",
@@ -140648,20 +146057,93 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Augustine_(film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Augustine (2012)",
+     "url": "https://bestsimilar.com/movies/2113-augustine"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "xla62ucxbx02u5:706"
+    "xla62ucxbx02u5:706",
+    "hypnosis-bestsimilar-nov5:18"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:706",
+    "source": "xla62ucxbx02u5",
+    "label": "Augustine (2012)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Augustine",
+    "subtitle": "",
+    "year": "2012",
+    "meta": "film · 2012, France",
+    "summary": "Charcot has Augustine hypnotized before doctors, inducing her seizures; she becomes the star female subject of his hypnosis demonstrations at the Salpêtrière.",
+    "character": "",
+    "note": "",
+    "mechanism": "Comedy, light stories and historical demonstrations",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "adult-hypnosis",
+     "forced-obedience",
+     "doctor-gain",
+     "hypno-intimacy"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Augustine_(film)"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:18",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Augustine (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Augustine",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Augustine (2012)",
+       "url": "https://bestsimilar.com/movies/2113-augustine"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:706": {
      "t": "Augustine",
@@ -140700,6 +146182,28 @@ window.CATALOG = {
       ]
      ],
      "dgProv": "Sources reviewed in the 2 October 2026 sweep: Cine-Sport, Newcity Film, New York Press, Spectrum Culture and MUBI."
+    },
+    "hypnosis-bestsimilar-nov5:18": {
+     "title": "Augustine",
+     "year": "2012",
+     "match_title": "Augustine",
+     "match_year": "2012",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Augustine (2012)",
+       "url": "https://bestsimilar.com/movies/2113-augustine"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -140957,7 +146461,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -140989,6 +146494,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Susan Dey: Looker; Terri Welles: Looker",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Looker (1981)",
+     "url": "https://bestsimilar.com/movies/17485-looker"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -140996,13 +146509,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:708",
     "ig6qlxqxoxvcxla:702",
     "worldwide-hypnosis:537",
-    "hypnosis-imdb-list-full-oct25:158"
+    "hypnosis-imdb-list-full-oct25:158",
+    "hypnosis-bestsimilar-nov5:161"
    ],
    "index_only": false,
    "local_only": false,
@@ -141148,6 +146663,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:161",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Looker (1981)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Looker",
+     "subtitle": "",
+     "year": "1981",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Looker (1981)",
+       "url": "https://bestsimilar.com/movies/17485-looker"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -141246,6 +146794,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:161": {
+     "title": "Looker",
+     "year": "1981",
+     "match_title": "Looker",
+     "match_year": "1981",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Looker (1981)",
+       "url": "https://bestsimilar.com/movies/17485-looker"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -143276,7 +148846,8 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "unknown",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_note": "not mentioned in the only synopsis",
@@ -143306,6 +148877,14 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt0143679/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Mindblowers (1970)",
+     "url": "https://bestsimilar.com/movies/49557-the-mindblowers"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -143313,13 +148892,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "older-man-hypnosis",
     "hypno-leftovers",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:725",
     "older-man-hypnosis:34",
     "hypno-leftovers:5",
-    "hypnosis-assault:15"
+    "hypnosis-assault:15",
+    "hypnosis-bestsimilar-nov5:6"
    ],
    "index_only": false,
    "local_only": false,
@@ -143481,6 +149062,39 @@ window.CATALOG = {
      "evidence": "Single source for the hypnosis element (Flixano); IMDb plot only mentions distress during sex and a 'startling discovery'",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:6",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Mindblowers / Mind Blowers (1970)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Mindblowers / Mind Blowers",
+     "subtitle": "",
+     "year": "1970",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Mindblowers (1970)",
+       "url": "https://bestsimilar.com/movies/49557-the-mindblowers"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -143623,6 +149237,28 @@ window.CATALOG = {
      "catalog_ids": [
       703
      ]
+    },
+    "hypnosis-bestsimilar-nov5:6": {
+     "title": "The Mindblowers / Mind Blowers",
+     "year": "1970",
+     "match_title": "The Mindblowers / Mind Blowers",
+     "match_year": "1970",
+     "format": "short",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Mindblowers (1970)",
+       "url": "https://bestsimilar.com/movies/49557-the-mindblowers"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -143724,8 +149360,11 @@ window.CATALOG = {
    "confidence_flag": "High confidence · explicit sexual content",
    "summary": "Cagliostro (Howard Vernon), immortal sorcerer with “fearsome hypnotic powers,” hypnotizes Melissa (Anne Libert), Dr. Vera Frankenstein (Beatriz Savón), and Esmeralda (Lina Romay). Melissa moves and kills in a trance explicitly attributed to Cagliostro's hypnotic will; Vera “falls under Cagliostro's spell” and works under his direction against her own will; Esmeralda wanders “under Cagliostro's mind control.” Dir. Jess Franco.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "adult-hypnosis"
@@ -143738,20 +149377,94 @@ window.CATALOG = {
     {
      "label": "cinemaparadiso.co.uk",
      "url": "https://www.cinemaparadiso.co.uk/rentals/the-erotic-rites-of-frankenstein-217301.html"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Erotic Rites of Frankenstein (1973)",
+     "url": "https://bestsimilar.com/movies/53640-the-erotic-rites-of-frankenstein"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "xla62ucxbx02u5:727"
+    "xla62ucxbx02u5:727",
+    "hypnosis-bestsimilar-nov5:133"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:727",
+    "source": "xla62ucxbx02u5",
+    "label": "The Erotic Rites of Frankenstein / La maldición de Frankenstein (1972/73)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Erotic Rites of Frankenstein / La maldición de Frankenstein",
+    "subtitle": "",
+    "year": "1972/73",
+    "meta": "film (Jesús Franco erotic horror) · 1972/73, Spain/France",
+    "summary": "Cagliostro (Howard Vernon), immortal sorcerer with “fearsome hypnotic powers,” hypnotizes Melissa (Anne Libert), Dr. Vera Frankenstein (Beatriz Savón), and Esmeralda (Lina Romay). Melissa moves and kills in a trance explicitly attributed to Cagliostro's hypnotic will; Vera “falls under Cagliostro's spell” and works under his direction against her own will; Esmeralda wanders “under Cagliostro's mind control.” Dir. Jess Franco.",
+    "character": "",
+    "note": "",
+    "mechanism": "Sorcerer's hypnotic powers / mind control",
+    "confidence_flag": "High confidence · explicit sexual content",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "The A.V. Club",
+      "url": "https://www.avclub.com/the-erotic-rites-of-frankenstein-is-a-stitched-up-serie-1798184479"
+     },
+     {
+      "label": "cinemaparadiso.co.uk",
+      "url": "https://www.cinemaparadiso.co.uk/rentals/the-erotic-rites-of-frankenstein-217301.html"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:133",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Erotic Rites of Frankenstein / La maldición de Frankenstein (1972/73)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Erotic Rites of Frankenstein / La maldición de Frankenstein",
+     "subtitle": "",
+     "year": "1972/73",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Erotic Rites of Frankenstein (1973)",
+       "url": "https://bestsimilar.com/movies/53640-the-erotic-rites-of-frankenstein"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:727": {
      "t": "The Erotic Rites of Frankenstein / La maldición de Frankenstein",
@@ -143775,6 +149488,28 @@ window.CATALOG = {
        "https://www.cinemaparadiso.co.uk/rentals/the-erotic-rites-of-frankenstein-217301.html"
       ]
      ]
+    },
+    "hypnosis-bestsimilar-nov5:133": {
+     "title": "The Erotic Rites of Frankenstein / La maldición de Frankenstein",
+     "year": "1972/73",
+     "match_title": "The Erotic Rites of Frankenstein / La maldición de Frankenstein",
+     "match_year": "1972/73",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Erotic Rites of Frankenstein (1973)",
+       "url": "https://bestsimilar.com/movies/53640-the-erotic-rites-of-frankenstein"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -147412,6 +153147,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "adult-hypnosis",
@@ -147427,16 +153165,26 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/The_Return_of_Count_Yorga"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Return of Count Yorga (1971)",
+     "url": "https://bestsimilar.com/movies/21292-the-return-of-count-yorga"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:750",
-    "worldwide-hypnosis:944"
+    "worldwide-hypnosis:944",
+    "hypnosis-bestsimilar-nov5:140"
    ],
    "index_only": false,
    "local_only": false,
@@ -147511,6 +153259,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:140",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Return of Count Yorga (1971)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Return of Count Yorga",
+     "subtitle": "",
+     "year": "1971",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Return of Count Yorga (1971)",
+       "url": "https://bestsimilar.com/movies/21292-the-return-of-count-yorga"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -147567,6 +153348,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:140": {
+     "title": "The Return of Count Yorga",
+     "year": "1971",
+     "match_title": "The Return of Count Yorga",
+     "match_year": "1971",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Return of Count Yorga (1971)",
+       "url": "https://bestsimilar.com/movies/21292-the-return-of-count-yorga"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -158056,6 +163859,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "becomes pregnant by the end",
    "pregnancy_note": "The final scene reveals Nancy is pregnant with Wilbur Whateley's child; the birth is not shown.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "unknown",
    "kids_note": "student; no children mentioned",
    "kids_together": "unknown",
@@ -158093,6 +163899,14 @@ window.CATALOG = {
     {
      "label": "Inside Pulse",
      "url": "https://insidepulse.com/2023/01/09/blu-ray-review-the-dunwich-horror/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Dunwich Horror (1970)",
+     "url": "https://bestsimilar.com/movies/12580-the-dunwich-horror"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -158100,7 +163914,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "occult-pregnancy-nearmiss",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:804",
@@ -158109,7 +163924,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:562",
     "ig6qlxqxoxvcxla:613",
     "occult-pregnancy-nearmiss:1",
-    "hypnosis-assault:25"
+    "hypnosis-assault:25",
+    "hypnosis-bestsimilar-nov5:77"
    ],
    "index_only": false,
    "local_only": false,
@@ -158357,6 +164173,39 @@ window.CATALOG = {
      "fit_note": "Hypnosis is combined with a drug.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:77",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Dunwich Horror (1970)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Dunwich Horror",
+     "subtitle": "",
+     "year": "1970",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Dunwich Horror (1970)",
+       "url": "https://bestsimilar.com/movies/12580-the-dunwich-horror"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -158532,6 +164381,28 @@ window.CATALOG = {
      "catalog_ids": [
       774
      ]
+    },
+    "hypnosis-bestsimilar-nov5:77": {
+     "title": "The Dunwich Horror",
+     "year": "1970",
+     "match_title": "The Dunwich Horror",
+     "match_year": "1970",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Dunwich Horror (1970)",
+       "url": "https://bestsimilar.com/movies/12580-the-dunwich-horror"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -158575,7 +164446,8 @@ window.CATALOG = {
    "pregnancy_note": "Katie is visibly pregnant when the hypnotist Art keeps her hypnotically unaware of the pregnancy; separately, Art hypnotically makes Cyndi believe she is pregnant (a false pregnancy). Wikipedia plot.",
    "pregnancy_highlight": true,
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -158618,6 +164490,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Chelsea Lopez: Ultrasound; Rainey Qualley: Ultrasound",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Ultrasound (2021)",
+     "url": "https://bestsimilar.com/movies/84309-ultrasound"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -158625,7 +164505,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:805",
@@ -158634,7 +164515,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:563",
     "ig6qlxqxoxvcxla:698",
     "worldwide-hypnosis:1041",
-    "hypnosis-imdb-list-full-oct25:371"
+    "hypnosis-imdb-list-full-oct25:371",
+    "hypnosis-bestsimilar-nov5:114"
    ],
    "index_only": false,
    "local_only": false,
@@ -158852,6 +164734,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:114",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Ultrasound (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ultrasound",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Ultrasound (2021)",
+       "url": "https://bestsimilar.com/movies/84309-ultrasound"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -159025,6 +164940,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:114": {
+     "title": "Ultrasound",
+     "year": "2021",
+     "match_title": "Ultrasound",
+     "match_year": "2021",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Ultrasound (2021)",
+       "url": "https://bestsimilar.com/movies/84309-ultrasound"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -159714,7 +165651,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "the demon's child is expelled with the demon at the end",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "unknown",
    "kids_together": "no",
@@ -159743,13 +165681,22 @@ window.CATALOG = {
     {
      "label": "ComingSoon.net",
      "url": "https://www.comingsoon.net/?p=776821"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Antichrist (1974)",
+     "url": "https://bestsimilar.com/movies/5526-the-antichrist"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:807",
@@ -159757,7 +165704,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:219",
     "ig6qlxqxoxvcxla:614",
     "ig6qlxqxoxvcxla:733",
-    "hypnosis-assault-loose:21"
+    "hypnosis-assault-loose:21",
+    "hypnosis-bestsimilar-nov5:132"
    ],
    "index_only": false,
    "local_only": false,
@@ -159966,6 +165914,39 @@ window.CATALOG = {
      "fit_note": "Loose fit: hypnosis only opens the way to demonic possession; the sexual and pregnancy elements come from the demon, not from a man while she is hypnotized.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:132",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Antichrist (1974)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Antichrist",
+     "subtitle": "",
+     "year": "1974",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Antichrist (1974)",
+       "url": "https://bestsimilar.com/movies/5526-the-antichrist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -160124,6 +166105,28 @@ window.CATALOG = {
      "catalog_ids": [
       777
      ]
+    },
+    "hypnosis-bestsimilar-nov5:132": {
+     "title": "The Antichrist",
+     "year": "1974",
+     "match_title": "The Antichrist",
+     "match_year": "1974",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Antichrist (1974)",
+       "url": "https://bestsimilar.com/movies/5526-the-antichrist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -172935,6 +178938,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "tv",
    "categories": [
     "scifi",
@@ -172948,16 +178954,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Rocky_and_Bullwinkle_%28film%29"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Adventures of Rocky & Bullwinkle (2000)",
+     "url": "https://bestsimilar.com/movies/7977-the-adventures-of-rocky-and-bullwinkle"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:885",
-    "worldwide-hypnosis:858"
+    "worldwide-hypnosis:858",
+    "hypnosis-bestsimilar-nov5:148"
    ],
    "index_only": false,
    "local_only": false,
@@ -173029,6 +179045,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:148",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Adventures of Rocky and Bullwinkle (2000)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Adventures of Rocky and Bullwinkle",
+     "subtitle": "",
+     "year": "2000",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Adventures of Rocky & Bullwinkle (2000)",
+       "url": "https://bestsimilar.com/movies/7977-the-adventures-of-rocky-and-bullwinkle"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -173082,6 +179131,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:148": {
+     "title": "The Adventures of Rocky and Bullwinkle",
+     "year": "2000",
+     "match_title": "The Adventures of Rocky and Bullwinkle",
+     "match_year": "2000",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Adventures of Rocky & Bullwinkle (2000)",
+       "url": "https://bestsimilar.com/movies/7977-the-adventures-of-rocky-and-bullwinkle"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -180344,7 +186415,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "hypnotist": "her uncle, Count Montebruno",
    "gain_motive": [
@@ -180371,6 +186443,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Barbara Steele: An Angel for Satan",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — An Angel for Satan (1966)",
+     "url": "https://bestsimilar.com/movies/48918-an-angel-for-satan"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -180378,13 +186458,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "rich-wife-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:925",
     "worldwide-hypnosis:62",
     "rich-wife-hypnosis:17",
-    "hypnosis-imdb-list-full-oct25:161"
+    "hypnosis-imdb-list-full-oct25:161",
+    "hypnosis-bestsimilar-nov5:108"
    ],
    "index_only": false,
    "local_only": false,
@@ -180527,6 +186609,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:108",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "An Angel for Satan (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "An Angel for Satan",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — An Angel for Satan (1966)",
+       "url": "https://bestsimilar.com/movies/48918-an-angel-for-satan"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -180632,6 +186747,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:108": {
+     "title": "An Angel for Satan",
+     "year": "1966",
+     "match_title": "An Angel for Satan",
+     "match_year": "1966",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — An Angel for Satan (1966)",
+       "url": "https://bestsimilar.com/movies/48918-an-angel-for-satan"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -182119,7 +188256,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -182137,18 +188275,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Elika Portnoy: Assassin's Bullet",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Assassin's Bullet (2012)",
+     "url": "https://bestsimilar.com/movies/1489-assassins-bullet"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:934",
     "worldwide-hypnosis:78",
-    "hypnosis-imdb-list-full-oct25:315"
+    "hypnosis-imdb-list-full-oct25:315",
+    "hypnosis-bestsimilar-nov5:149"
    ],
    "index_only": false,
    "local_only": false,
@@ -182247,6 +188395,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:149",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Assassin's Bullet (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Assassin's Bullet",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Assassin's Bullet (2012)",
+       "url": "https://bestsimilar.com/movies/1489-assassins-bullet"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -182316,6 +188497,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:149": {
+     "title": "Assassin's Bullet",
+     "year": "2012",
+     "match_title": "Assassin's Bullet",
+     "match_year": "2012",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Assassin's Bullet (2012)",
+       "url": "https://bestsimilar.com/movies/1489-assassins-bullet"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -182373,7 +188576,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -182392,18 +188596,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Karin Dor: Assignment Terror",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Assignment Terror (1970)",
+     "url": "https://bestsimilar.com/movies/45970-assignment-terror"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:935",
     "worldwide-hypnosis:67",
-    "hypnosis-imdb-list-full-oct25:459"
+    "hypnosis-imdb-list-full-oct25:459",
+    "hypnosis-bestsimilar-nov5:136"
    ],
    "index_only": false,
    "local_only": false,
@@ -182504,6 +188718,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:136",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Assignment: Terror (1970)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Assignment: Terror",
+     "subtitle": "",
+     "year": "1970",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Assignment Terror (1970)",
+       "url": "https://bestsimilar.com/movies/45970-assignment-terror"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -182575,6 +188822,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:136": {
+     "title": "Assignment: Terror",
+     "year": "1970",
+     "match_title": "Assignment: Terror",
+     "match_year": "1970",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Assignment Terror (1970)",
+       "url": "https://bestsimilar.com/movies/45970-assignment-terror"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -182593,7 +188862,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -182611,18 +188881,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Caroline Munro: At the Earth's Core",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — At the Earth's Core (1976)",
+     "url": "https://bestsimilar.com/movies/272-at-the-earths-core"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:936",
     "worldwide-hypnosis:65",
-    "hypnosis-imdb-list-full-oct25:279"
+    "hypnosis-imdb-list-full-oct25:279",
+    "hypnosis-bestsimilar-nov5:150"
    ],
    "index_only": false,
    "local_only": false,
@@ -182721,6 +189001,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:150",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "At the Earth's Core (1976)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "At the Earth's Core",
+     "subtitle": "",
+     "year": "1976",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — At the Earth's Core (1976)",
+       "url": "https://bestsimilar.com/movies/272-at-the-earths-core"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -182790,6 +189103,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:150": {
+     "title": "At the Earth's Core",
+     "year": "1976",
+     "match_title": "At the Earth's Core",
+     "match_year": "1976",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — At the Earth's Core (1976)",
+       "url": "https://bestsimilar.com/movies/272-at-the-earths-core"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -183415,6 +189750,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: unknown; married: no; kids status: unknown.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "not mentioned in the summaries checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "unknown",
    "kids_together": "no",
    "married": "no",
@@ -183444,16 +189782,26 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt1695990/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Deep in the Woods (2010)",
+     "url": "https://bestsimilar.com/movies/2192-deep-in-the-woods"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:941",
-    "hypnosis-assault:30"
+    "hypnosis-assault:30",
+    "hypnosis-bestsimilar-nov5:19"
    ],
    "index_only": false,
    "local_only": false,
@@ -183550,6 +189898,39 @@ window.CATALOG = {
      "source_conflict": "French Wikipedia notes she follows him 'without seeming forced'; the film and Le Monde treat her consent as ambiguous ('victime ambiguë').",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:19",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Au fond des bois / Deep in the Woods (2010)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Au fond des bois / Deep in the Woods",
+     "subtitle": "",
+     "year": "2010",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Deep in the Woods (2010)",
+       "url": "https://bestsimilar.com/movies/2192-deep-in-the-woods"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -183633,6 +190014,28 @@ window.CATALOG = {
      "note": "Inspired by a real mid-19th-century case; per the director, the trial was the first French legal mention of 'emprise morale'.",
      "group": "Hypnotized woman sexually assaulted under hypnosis (Sep 2026)",
      "catalog_ids": []
+    },
+    "hypnosis-bestsimilar-nov5:19": {
+     "title": "Au fond des bois / Deep in the Woods",
+     "year": "2010",
+     "match_title": "Au fond des bois / Deep in the Woods",
+     "match_year": "2010",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Deep in the Woods (2010)",
+       "url": "https://bestsimilar.com/movies/2192-deep-in-the-woods"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -191702,6 +198105,9 @@ window.CATALOG = {
      "number_verified": true
     }
    ],
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "hypnotist": "stage hypnotist Ming the Mind Master",
    "gain_motive": [
     "a stage act at a school charity event (he never properly wakes them)"
@@ -191733,18 +198139,28 @@ window.CATALOG = {
     {
      "label": "Memorable TV",
      "url": "https://www.memorabletv.com/tv/big-kids-bbc-1-2000-imogen-stubbs-duncan-duff/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Big Kids (2000)",
+     "url": "https://bestsimilar.com/movies/100333-big-kids"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "mother-kids-hypnosis",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:985",
     "mother-kids-hypnosis:21",
-    "wife-hypnosis-oct15:45"
+    "wife-hypnosis-oct15:45",
+    "hypnosis-bestsimilar-nov5:103"
    ],
    "index_only": false,
    "local_only": false,
@@ -191886,6 +198302,39 @@ window.CATALOG = {
      "already_married_note": "Yes — husband: Sarah Spiller's husband",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:103",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Big Kids (2000)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Big Kids",
+     "subtitle": "",
+     "year": "2000",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Big Kids (2000)",
+       "url": "https://bestsimilar.com/movies/100333-big-kids"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -191998,6 +198447,28 @@ window.CATALOG = {
      "already_married_note": "Yes — husband: Sarah Spiller's husband",
      "pregnant_end": "not stated",
      "kids_together": "not stated"
+    },
+    "hypnosis-bestsimilar-nov5:103": {
+     "title": "Big Kids",
+     "year": "2000",
+     "match_title": "Big Kids",
+     "match_year": "2000",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Big Kids (2000)",
+       "url": "https://bestsimilar.com/movies/100333-big-kids"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -192615,6 +199086,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: unknown.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "love",
@@ -192628,16 +199102,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Billy_the_Kid_Versus_Dracula"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Billy the Kid Versus Dracula (1966)",
+     "url": "https://bestsimilar.com/movies/7543-billy-the-kid-versus-dracula"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnotized-love"
+    "hypnotized-love",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:989",
-    "hypnotized-love:13"
+    "hypnotized-love:13",
+    "hypnosis-bestsimilar-nov5:116"
    ],
    "index_only": false,
    "local_only": false,
@@ -192709,6 +199193,39 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:116",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Billy the Kid Versus Dracula (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Billy the Kid Versus Dracula",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Billy the Kid Versus Dracula (1966)",
+       "url": "https://bestsimilar.com/movies/7543-billy-the-kid-versus-dracula"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -192762,6 +199279,28 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "hypnosis-bestsimilar-nov5:116": {
+     "title": "Billy the Kid Versus Dracula",
+     "year": "1966",
+     "match_title": "Billy the Kid Versus Dracula",
+     "match_year": "1966",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Billy the Kid Versus Dracula (1966)",
+       "url": "https://bestsimilar.com/movies/7543-billy-the-kid-versus-dracula"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -193675,6 +200214,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "scifi",
@@ -193688,16 +200230,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Black_Panther%3A_Wakanda_Forever"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Black Panther: Wakanda Forever (2022)",
+     "url": "https://bestsimilar.com/movies/74876-black-panther-wakanda-forever"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:995",
-    "worldwide-hypnosis:143"
+    "worldwide-hypnosis:143",
+    "hypnosis-bestsimilar-nov5:85"
    ],
    "index_only": false,
    "local_only": false,
@@ -193769,6 +200321,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:85",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Black Panther: Wakanda Forever (2022)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Black Panther: Wakanda Forever",
+     "subtitle": "",
+     "year": "2022",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Black Panther: Wakanda Forever (2022)",
+       "url": "https://bestsimilar.com/movies/74876-black-panther-wakanda-forever"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -193822,6 +200407,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:85": {
+     "title": "Black Panther: Wakanda Forever",
+     "year": "2022",
+     "match_title": "Black Panther: Wakanda Forever",
+     "match_year": "2022",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Black Panther: Wakanda Forever (2022)",
+       "url": "https://bestsimilar.com/movies/74876-black-panther-wakanda-forever"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -195298,6 +201905,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "vampire",
@@ -195307,16 +201917,26 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Blood_Scarab"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Blood Scarab (2008)",
+     "url": "https://bestsimilar.com/movies/61699-blood-scarab"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1004",
-    "worldwide-hypnosis:122"
+    "worldwide-hypnosis:122",
+    "hypnosis-bestsimilar-nov5:104"
    ],
    "index_only": false,
    "local_only": false,
@@ -195378,6 +201998,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:104",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Blood Scarab (None)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Blood Scarab",
+     "subtitle": "",
+     "year": "None",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Blood Scarab (2008)",
+       "url": "https://bestsimilar.com/movies/61699-blood-scarab"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -195423,6 +202076,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:104": {
+     "title": "Blood Scarab",
+     "year": "None",
+     "match_title": "Blood Scarab",
+     "match_year": "None",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Blood Scarab (2008)",
+       "url": "https://bestsimilar.com/movies/61699-blood-scarab"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -196460,6 +203135,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "crime",
@@ -196473,16 +203151,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Blue_Eyes_of_the_Broken_Doll"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Blue Eyes of the Broken Doll (1974)",
+     "url": "https://bestsimilar.com/movies/33591-blue-eyes-of-the-broken-doll"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1010",
-    "worldwide-hypnosis:132"
+    "worldwide-hypnosis:132",
+    "hypnosis-bestsimilar-nov5:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -196554,6 +203242,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:1",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Blue Eyes of the Broken Doll (1973)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Blue Eyes of the Broken Doll",
+     "subtitle": "",
+     "year": "1973",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Blue Eyes of the Broken Doll (1974)",
+       "url": "https://bestsimilar.com/movies/33591-blue-eyes-of-the-broken-doll"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -196607,6 +203328,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:1": {
+     "title": "Blue Eyes of the Broken Doll",
+     "year": "1973",
+     "match_title": "Blue Eyes of the Broken Doll",
+     "match_year": "1973",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Blue Eyes of the Broken Doll (1974)",
+       "url": "https://bestsimilar.com/movies/33591-blue-eyes-of-the-broken-doll"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -202837,6 +209580,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "medical"
@@ -202845,16 +209591,26 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/A_Cat_In_The_Brain"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — A Cat in the Brain (1990)",
+     "url": "https://bestsimilar.com/movies/32859-a-cat-in-the-brain"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1043",
-    "worldwide-hypnosis:28"
+    "worldwide-hypnosis:28",
+    "hypnosis-bestsimilar-nov5:139"
    ],
    "index_only": false,
    "local_only": false,
@@ -202916,6 +209672,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:139",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "A Cat In The Brain (1990)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Cat In The Brain",
+     "subtitle": "",
+     "year": "1990",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Cat in the Brain (1990)",
+       "url": "https://bestsimilar.com/movies/32859-a-cat-in-the-brain"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -202959,6 +209748,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:139": {
+     "title": "A Cat In The Brain",
+     "year": "1990",
+     "match_title": "A Cat In The Brain",
+     "match_year": "1990",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Cat in the Brain (1990)",
+       "url": "https://bestsimilar.com/movies/32859-a-cat-in-the-brain"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -204063,6 +210874,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "human"
@@ -204075,16 +210889,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Chemical_Wedding_%28film%29"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Chemical Wedding (2008)",
+     "url": "https://bestsimilar.com/movies/10643-chemical-wedding"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1050",
-    "worldwide-hypnosis:186"
+    "worldwide-hypnosis:186",
+    "hypnosis-bestsimilar-nov5:129"
    ],
    "index_only": false,
    "local_only": false,
@@ -204154,6 +210978,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:129",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Chemical Wedding (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Chemical Wedding",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Chemical Wedding (2008)",
+       "url": "https://bestsimilar.com/movies/10643-chemical-wedding"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -204205,6 +211062,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:129": {
+     "title": "Chemical Wedding",
+     "year": "2008",
+     "match_title": "Chemical Wedding",
+     "match_year": "2008",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Chemical Wedding (2008)",
+       "url": "https://bestsimilar.com/movies/10643-chemical-wedding"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -208705,6 +215584,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant; kids status: yes.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "hypnotist": "sorcerer-warlord Thulsa Doom",
    "gain_motive": [
     "conquest of the Cimmerian village",
@@ -208736,18 +215618,28 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Conan_the_Barbarian_%281982_film%29"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Conan the Barbarian (1982)",
+     "url": "https://bestsimilar.com/movies/11115-conan-the-barbarian"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "mother-kids-hypnosis"
+    "mother-kids-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1071",
     "worldwide-hypnosis:207",
-    "mother-kids-hypnosis:1"
+    "mother-kids-hypnosis:1",
+    "hypnosis-bestsimilar-nov5:131"
    ],
    "index_only": false,
    "local_only": false,
@@ -208885,6 +215777,39 @@ window.CATALOG = {
      "child_witness": "young Conan holds her hand and watches as she falls into Doom's trance, lowers her sword and is beheaded; the trauma drives his lifelong revenge",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:131",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Conan the Barbarian (1982)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Conan the Barbarian",
+     "subtitle": "",
+     "year": "1982",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Conan the Barbarian (1982)",
+       "url": "https://bestsimilar.com/movies/11115-conan-the-barbarian"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -208997,6 +215922,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
+    },
+    "hypnosis-bestsimilar-nov5:131": {
+     "title": "Conan the Barbarian",
+     "year": "1982",
+     "match_title": "Conan the Barbarian",
+     "match_year": "1982",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Conan the Barbarian (1982)",
+       "url": "https://bestsimilar.com/movies/11115-conan-the-barbarian"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -209014,6 +215961,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "scifi"
@@ -209026,16 +215976,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Contamination_%28film%29"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Contamination (1980)",
+     "url": "https://bestsimilar.com/movies/36398-contamination"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1072",
-    "worldwide-hypnosis:221"
+    "worldwide-hypnosis:221",
+    "hypnosis-bestsimilar-nov5:152"
    ],
    "index_only": false,
    "local_only": false,
@@ -209105,6 +216065,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:152",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Contamination (1980)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Contamination",
+     "subtitle": "",
+     "year": "1980",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Contamination (1980)",
+       "url": "https://bestsimilar.com/movies/36398-contamination"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -209156,6 +216149,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:152": {
+     "title": "Contamination",
+     "year": "1980",
+     "match_title": "Contamination",
+     "match_year": "1980",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Contamination (1980)",
+       "url": "https://bestsimilar.com/movies/36398-contamination"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -211190,7 +218205,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -211208,18 +218224,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Pat Delaney: Creature of Destruction",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Creature of Destruction (1968)",
+     "url": "https://bestsimilar.com/movies/51761-creature-of-destruction"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1083",
     "worldwide-hypnosis:200",
-    "hypnosis-imdb-list-full-oct25:156"
+    "hypnosis-imdb-list-full-oct25:156",
+    "hypnosis-bestsimilar-nov5:33"
    ],
    "index_only": false,
    "local_only": false,
@@ -211318,6 +218344,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:33",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Creature of Destruction (1967)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Creature of Destruction",
+     "subtitle": "",
+     "year": "1967",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Creature of Destruction (1968)",
+       "url": "https://bestsimilar.com/movies/51761-creature-of-destruction"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -211387,6 +218446,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:33": {
+     "title": "Creature of Destruction",
+     "year": "1967",
+     "match_title": "Creature of Destruction",
+     "match_year": "1967",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Creature of Destruction (1968)",
+       "url": "https://bestsimilar.com/movies/51761-creature-of-destruction"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -216233,7 +223314,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -216251,18 +223333,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Thora Birch: Dark Corners",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Dark Corners (2006)",
+     "url": "https://bestsimilar.com/movies/11623-dark-corners"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1110",
     "worldwide-hypnosis:238",
-    "hypnosis-imdb-list-full-oct25:319"
+    "hypnosis-imdb-list-full-oct25:319",
+    "hypnosis-bestsimilar-nov5:128"
    ],
    "index_only": false,
    "local_only": false,
@@ -216361,6 +223453,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:128",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Dark Corners (2006)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dark Corners",
+     "subtitle": "",
+     "year": "2006",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dark Corners (2006)",
+       "url": "https://bestsimilar.com/movies/11623-dark-corners"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -216430,6 +223555,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:128": {
+     "title": "Dark Corners",
+     "year": "2006",
+     "match_title": "Dark Corners",
+     "match_year": "2006",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dark Corners (2006)",
+       "url": "https://bestsimilar.com/movies/11623-dark-corners"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -221819,7 +228966,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "hypnotist": "stage hypnotist / ventriloquist the Great Vorelli",
    "gain_motive": [
@@ -221873,6 +229021,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Yvonne Romain: Devil Doll",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Devil Doll (1964)",
+     "url": "https://bestsimilar.com/movies/35775-devil-doll"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -221885,7 +229041,8 @@ window.CATALOG = {
     "hypno-intimacy",
     "hypnosis-assault",
     "hypnotized-marriage",
-    "hypnosis-imdb-list-oct24"
+    "hypnosis-imdb-list-oct24",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1136",
@@ -221896,7 +229053,8 @@ window.CATALOG = {
     "hypno-intimacy:2",
     "hypnosis-assault:1",
     "hypnotized-marriage:29",
-    "hypnosis-imdb-list-oct24:18"
+    "hypnosis-imdb-list-oct24:18",
+    "hypnosis-bestsimilar-nov5:25"
    ],
    "index_only": false,
    "local_only": false,
@@ -222249,6 +229407,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:25",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Devil Doll (1964)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Devil Doll",
+     "subtitle": "",
+     "year": "1964",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Devil Doll (1964)",
+       "url": "https://bestsimilar.com/movies/35775-devil-doll"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -222533,6 +229724,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (Wayback snapshot pages 1-2, 24 Oct 2026 PT session); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:25": {
+     "title": "Devil Doll",
+     "year": "1964",
+     "match_title": "Devil Doll",
+     "match_year": "1964",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Devil Doll (1964)",
+       "url": "https://bestsimilar.com/movies/35775-devil-doll"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -222911,6 +230124,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "medical"
@@ -222919,16 +230135,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Devonsville_Terror"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Devonsville Terror (1983)",
+     "url": "https://bestsimilar.com/movies/33820-the-devonsville-terror"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1139",
-    "worldwide-hypnosis:1075"
+    "worldwide-hypnosis:1075",
+    "hypnosis-bestsimilar-nov5:123"
    ],
    "index_only": false,
    "local_only": false,
@@ -222990,6 +230216,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:123",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Devonsville Terror (1983)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Devonsville Terror",
+     "subtitle": "",
+     "year": "1983",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Devonsville Terror (1983)",
+       "url": "https://bestsimilar.com/movies/33820-the-devonsville-terror"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -223033,6 +230292,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches."
+    },
+    "hypnosis-bestsimilar-nov5:123": {
+     "title": "The Devonsville Terror",
+     "year": "1983",
+     "match_title": "The Devonsville Terror",
+     "match_year": "1983",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Devonsville Terror (1983)",
+       "url": "https://bestsimilar.com/movies/33820-the-devonsville-terror"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -227190,7 +234471,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Suzanne is a widowed mother; no pregnancy in the plot sources.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "hypnotist": "dentist Frank",
    "gain_motive": [
@@ -227217,6 +234499,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Jenny Seagrove: Don't Go Breaking My Heart",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Don't Go Breaking My Heart (1999)",
+     "url": "https://bestsimilar.com/movies/12343-dont-go-breaking-my-heart"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -227224,13 +234514,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "hypnotized-love",
     "rich-wife-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1156",
     "hypnotized-love:8",
     "rich-wife-hypnosis:10",
-    "hypnosis-imdb-list-full-oct25:264"
+    "hypnosis-imdb-list-full-oct25:264",
+    "hypnosis-bestsimilar-nov5:127"
    ],
    "index_only": false,
    "local_only": false,
@@ -227376,6 +234668,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:127",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Don't Go Breaking My Heart (1999)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Don't Go Breaking My Heart",
+     "subtitle": "",
+     "year": "1999",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Don't Go Breaking My Heart (1999)",
+       "url": "https://bestsimilar.com/movies/12343-dont-go-breaking-my-heart"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -227485,6 +234810,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:127": {
+     "title": "Don't Go Breaking My Heart",
+     "year": "1999",
+     "match_title": "Don't Go Breaking My Heart",
+     "match_year": "1999",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Don't Go Breaking My Heart (1999)",
+       "url": "https://bestsimilar.com/movies/12343-dont-go-breaking-my-heart"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -228604,6 +235951,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: unknown.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "scifi",
@@ -228617,16 +235967,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Dr._M_%28film%29"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Dr. M (1990)",
+     "url": "https://bestsimilar.com/movies/37795-dr-m"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1162",
-    "worldwide-hypnosis:294"
+    "worldwide-hypnosis:294",
+    "hypnosis-bestsimilar-nov5:23"
    ],
    "index_only": false,
    "local_only": false,
@@ -228698,6 +236058,39 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:23",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Dr. M (1990)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dr. M",
+     "subtitle": "",
+     "year": "1990",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dr. M (1990)",
+       "url": "https://bestsimilar.com/movies/37795-dr-m"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -228751,6 +236144,28 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:23": {
+     "title": "Dr. M",
+     "year": "1990",
+     "match_title": "Dr. M",
+     "match_year": "1990",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dr. M (1990)",
+       "url": "https://bestsimilar.com/movies/37795-dr-m"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -230639,7 +238054,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -230662,18 +238078,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amy Yasbeck: Dracula Dead and Loving It",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Dracula: Dead and Loving It (1995)",
+     "url": "https://bestsimilar.com/movies/12454-dracula-dead-and-loving-it"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1174",
     "worldwide-hypnosis:303",
-    "hypnosis-imdb-list-full-oct25:252"
+    "hypnosis-imdb-list-full-oct25:252",
+    "hypnosis-bestsimilar-nov5:78"
    ],
    "index_only": false,
    "local_only": false,
@@ -230782,6 +238208,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:78",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Dracula: Dead and Loving It (1995)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dracula: Dead and Loving It",
+     "subtitle": "",
+     "year": "1995",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dracula: Dead and Loving It (1995)",
+       "url": "https://bestsimilar.com/movies/12454-dracula-dead-and-loving-it"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -230861,6 +238320,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:78": {
+     "title": "Dracula: Dead and Loving It",
+     "year": "1995",
+     "match_title": "Dracula: Dead and Loving It",
+     "match_year": "1995",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dracula: Dead and Loving It (1995)",
+       "url": "https://bestsimilar.com/movies/12454-dracula-dead-and-loving-it"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -231348,6 +238829,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "vampire",
@@ -231362,16 +238846,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Dracula%2C_Prisoner_of_Frankenstein"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Dracula, Prisoner of Frankenstein (1972)",
+     "url": "https://bestsimilar.com/movies/53641-dracula-prisoner-of-frankenstein"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1178",
-    "worldwide-hypnosis:314"
+    "worldwide-hypnosis:314",
+    "hypnosis-bestsimilar-nov5:28"
    ],
    "index_only": false,
    "local_only": false,
@@ -231445,6 +238939,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:28",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Dracula: Prisoner Of Frankenstein (1972)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dracula: Prisoner Of Frankenstein",
+     "subtitle": "",
+     "year": "1972",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dracula, Prisoner of Frankenstein (1972)",
+       "url": "https://bestsimilar.com/movies/53641-dracula-prisoner-of-frankenstein"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -231500,6 +239027,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:28": {
+     "title": "Dracula: Prisoner Of Frankenstein",
+     "year": "1972",
+     "match_title": "Dracula: Prisoner Of Frankenstein",
+     "match_year": "1972",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dracula, Prisoner of Frankenstein (1972)",
+       "url": "https://bestsimilar.com/movies/53641-dracula-prisoner-of-frankenstein"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -232813,6 +240362,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "unknown",
    "format": "tv",
    "categories": [
@@ -232826,18 +240378,28 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Dream_Garden"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Dream Garden (2021)",
+     "url": "https://bestsimilar.com/movies/84549-dream-garden"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1186",
     "worldwide-hypnosis:323",
-    "kr-cn-hypnosis:29"
+    "kr-cn-hypnosis:29",
+    "hypnosis-bestsimilar-nov5:72"
    ],
    "index_only": false,
    "local_only": false,
@@ -232929,6 +240491,39 @@ window.CATALOG = {
      "kids_status": "unknown",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:72",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Dream Garden (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dream Garden",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dream Garden (2021)",
+       "url": "https://bestsimilar.com/movies/84549-dream-garden"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -232991,6 +240586,28 @@ window.CATALOG = {
      "kids_status": "unknown",
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:72": {
+     "title": "Dream Garden",
+     "year": "2021",
+     "match_title": "Dream Garden",
+     "match_year": "2021",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dream Garden (2021)",
+       "url": "https://bestsimilar.com/movies/84549-dream-garden"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -240806,6 +248423,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "human"
@@ -240818,16 +248438,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Eye_of_the_Devil"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Eye of the Devil (1966)",
+     "url": "https://bestsimilar.com/movies/31939-eye-of-the-devil"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1226",
-    "worldwide-hypnosis:331"
+    "worldwide-hypnosis:331",
+    "hypnosis-bestsimilar-nov5:168"
    ],
    "index_only": false,
    "local_only": false,
@@ -240897,6 +248527,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:168",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Eye of The Devil (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Eye of The Devil",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Eye of the Devil (1966)",
+       "url": "https://bestsimilar.com/movies/31939-eye-of-the-devil"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -240948,6 +248611,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:168": {
+     "title": "Eye of The Devil",
+     "year": "1966",
+     "match_title": "Eye of The Devil",
+     "match_year": "1966",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Eye of the Devil (1966)",
+       "url": "https://bestsimilar.com/movies/31939-eye-of-the-devil"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -248103,6 +255788,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "vampire",
@@ -248116,16 +255804,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Fright_Night_2%3A_New_Blood"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Fright Night 2: New Blood (2013)",
+     "url": "https://bestsimilar.com/movies/27358-fright-night-2"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1259",
-    "worldwide-hypnosis:357"
+    "worldwide-hypnosis:357",
+    "hypnosis-bestsimilar-nov5:84"
    ],
    "index_only": false,
    "local_only": false,
@@ -248197,6 +255895,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:84",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Fright Night 2: New Blood (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Fright Night 2: New Blood",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Fright Night 2: New Blood (2013)",
+       "url": "https://bestsimilar.com/movies/27358-fright-night-2"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -248250,6 +255981,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:84": {
+     "title": "Fright Night 2: New Blood",
+     "year": "2013",
+     "match_title": "Fright Night 2: New Blood",
+     "match_year": "2013",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Fright Night 2: New Blood (2013)",
+       "url": "https://bestsimilar.com/movies/27358-fright-night-2"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -252722,7 +260475,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -252745,6 +260499,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Benz: George of the Jungle 2; Chelsea Gibb: George of the Jungle 2; Kirstie Hutton: George of the Jungle 2; Kelly Miracco: George of the Jungle 2",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — George of the Jungle 2 (2003)",
+     "url": "https://bestsimilar.com/movies/14033-george-of-the-jungle-2"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -252752,13 +260514,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1285",
     "ig6qlxqxoxvcxla:150",
     "worldwide-hypnosis:382",
-    "hypnosis-imdb-list-full-oct25:134"
+    "hypnosis-imdb-list-full-oct25:134",
+    "hypnosis-bestsimilar-nov5:126"
    ],
    "index_only": false,
    "local_only": false,
@@ -252890,6 +260654,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:126",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "George of the Jungle 2 (2003)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "George of the Jungle 2",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — George of the Jungle 2 (2003)",
+       "url": "https://bestsimilar.com/movies/14033-george-of-the-jungle-2"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -252986,6 +260783,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:126": {
+     "title": "George of the Jungle 2",
+     "year": "2003",
+     "match_title": "George of the Jungle 2",
+     "match_year": "2003",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — George of the Jungle 2 (2003)",
+       "url": "https://bestsimilar.com/movies/14033-george-of-the-jungle-2"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -253168,7 +260987,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "no",
    "kids_note": "none",
@@ -253192,18 +261012,28 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Ghidorah%2C_the_Three-Headed_Monster"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Ghidorah, the Three-Headed Monster (1964)",
+     "url": "https://bestsimilar.com/movies/34886-ghidorah-the-three-headed-monster"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "royal-hypnosis-loose"
+    "royal-hypnosis-loose",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1287",
     "worldwide-hypnosis:396",
-    "royal-hypnosis-loose:9"
+    "royal-hypnosis-loose:9",
+    "hypnosis-bestsimilar-nov5:56"
    ],
    "index_only": false,
    "local_only": false,
@@ -253309,6 +261139,39 @@ window.CATALOG = {
      "already_married_note": "Princess Salno is unmarried",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:56",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Ghidorah, the Three-Headed Monster (1964)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ghidorah, the Three-Headed Monster",
+     "subtitle": "",
+     "year": "1964",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Ghidorah, the Three-Headed Monster (1964)",
+       "url": "https://bestsimilar.com/movies/34886-ghidorah-the-three-headed-monster"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -253385,6 +261248,28 @@ window.CATALOG = {
      "already_married": "no",
      "already_married_note": "Princess Salno is unmarried",
      "fit_note": "Loose fit: a UFO hypnotizes her and Venusians possess her to deliver prophecies; the assassins hunting her serve a throne plot, but they are not the controllers"
+    },
+    "hypnosis-bestsimilar-nov5:56": {
+     "title": "Ghidorah, the Three-Headed Monster",
+     "year": "1964",
+     "match_title": "Ghidorah, the Three-Headed Monster",
+     "match_year": "1964",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Ghidorah, the Three-Headed Monster (1964)",
+       "url": "https://bestsimilar.com/movies/34886-ghidorah-the-three-headed-monster"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -258110,6 +265995,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "vampire",
@@ -258119,16 +266007,26 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Guess_What_Happened_to_Count_Dracula%3F"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Guess What Happened to Count Dracula? (1971)",
+     "url": "https://bestsimilar.com/movies/55091-guess-what-happened-to-count-dracula"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1311",
-    "worldwide-hypnosis:408"
+    "worldwide-hypnosis:408",
+    "hypnosis-bestsimilar-nov5:166"
    ],
    "index_only": false,
    "local_only": false,
@@ -258192,6 +266090,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:166",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Guess What Happened to Count Dracula? (1971)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Guess What Happened to Count Dracula?",
+     "subtitle": "",
+     "year": "1971",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Guess What Happened to Count Dracula? (1971)",
+       "url": "https://bestsimilar.com/movies/55091-guess-what-happened-to-count-dracula"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -258237,6 +266168,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:166": {
+     "title": "Guess What Happened to Count Dracula?",
+     "year": "1971",
+     "match_title": "Guess What Happened to Count Dracula?",
+     "match_year": "1971",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Guess What Happened to Count Dracula? (1971)",
+       "url": "https://bestsimilar.com/movies/55091-guess-what-happened-to-count-dracula"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -260090,6 +268043,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "other-control",
@@ -260103,16 +268059,26 @@ window.CATALOG = {
     {
      "label": "TV Tropes: Hypno Fool",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Hanussen (1988)",
+     "url": "https://bestsimilar.com/movies/14733-hanussen"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1320",
-    "worldwide-hypnosis:1064"
+    "worldwide-hypnosis:1064",
+    "hypnosis-bestsimilar-nov5:66"
    ],
    "index_only": false,
    "local_only": false,
@@ -260184,6 +268150,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:66",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Hanussen (1988)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hanussen",
+     "subtitle": "",
+     "year": "1988",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Hanussen (1988)",
+       "url": "https://bestsimilar.com/movies/14733-hanussen"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -260237,6 +268236,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches."
+    },
+    "hypnosis-bestsimilar-nov5:66": {
+     "title": "Hanussen",
+     "year": "1988",
+     "match_title": "Hanussen",
+     "match_year": "1988",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Hanussen (1988)",
+       "url": "https://bestsimilar.com/movies/14733-hanussen"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -265839,7 +273860,8 @@ window.CATALOG = {
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
     "loose fit",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "no",
    "kids_note": "none mentioned",
@@ -265878,6 +273900,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melinda Clarke: Hot Under the Collar",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Hot Under the Collar (1992)",
+     "url": "https://bestsimilar.com/movies/912-hot-under-the-collar"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -265886,14 +273916,16 @@ window.CATALOG = {
     "worldwide-hypnosis",
     "older-man-hypnosis",
     "hypno-leftovers",
-    "hypnosis-imdb-list-oct24"
+    "hypnosis-imdb-list-oct24",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1351",
     "worldwide-hypnosis:427",
     "older-man-hypnosis:24",
     "hypno-leftovers:12",
-    "hypnosis-imdb-list-oct24:27"
+    "hypnosis-imdb-list-oct24:27",
+    "hypnosis-bestsimilar-nov5:83"
    ],
    "index_only": false,
    "local_only": false,
@@ -266092,6 +274124,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:83",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Hot Under the Collar (1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hot Under the Collar",
+     "subtitle": "",
+     "year": "1992",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Hot Under the Collar (1992)",
+       "url": "https://bestsimilar.com/movies/912-hot-under-the-collar"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -266249,6 +274314,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (Wayback snapshot pages 1-2, 24 Oct 2026 PT session); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:83": {
+     "title": "Hot Under the Collar",
+     "year": "1992",
+     "match_title": "Hot Under the Collar",
+     "match_year": "1992",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Hot Under the Collar (1992)",
+       "url": "https://bestsimilar.com/movies/912-hot-under-the-collar"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -270175,6 +278262,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "scifi",
@@ -270188,16 +278278,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/In_Like_Flint"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — In Like Flint (1967)",
+     "url": "https://bestsimilar.com/movies/15713-in-like-flint"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1373",
-    "worldwide-hypnosis:449"
+    "worldwide-hypnosis:449",
+    "hypnosis-bestsimilar-nov5:100"
    ],
    "index_only": false,
    "local_only": false,
@@ -270269,6 +278369,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:100",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "In Like Flint (1967)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "In Like Flint",
+     "subtitle": "",
+     "year": "1967",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — In Like Flint (1967)",
+       "url": "https://bestsimilar.com/movies/15713-in-like-flint"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -270322,6 +278455,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:100": {
+     "title": "In Like Flint",
+     "year": "1967",
+     "match_title": "In Like Flint",
+     "match_year": "1967",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — In Like Flint (1967)",
+       "url": "https://bestsimilar.com/movies/15713-in-like-flint"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -273681,7 +281836,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "tv",
    "categories": [
@@ -273699,18 +281855,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Maggie Cheung: Irma Vep (1996)",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Irma Vep (1996)",
+     "url": "https://bestsimilar.com/movies/15968-irma-vep"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1391",
     "worldwide-hypnosis:479",
-    "hypnosis-imdb-list-full-oct25:321"
+    "hypnosis-imdb-list-full-oct25:321",
+    "hypnosis-bestsimilar-nov5:124"
    ],
    "index_only": false,
    "local_only": false,
@@ -273809,6 +281975,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:124",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Irma Vep (1996)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Irma Vep",
+     "subtitle": "",
+     "year": "1996",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Irma Vep (1996)",
+       "url": "https://bestsimilar.com/movies/15968-irma-vep"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -273878,6 +282077,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:124": {
+     "title": "Irma Vep",
+     "year": "1996",
+     "match_title": "Irma Vep",
+     "match_year": "1996",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Irma Vep (1996)",
+       "url": "https://bestsimilar.com/movies/15968-irma-vep"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -281756,7 +289977,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -281774,18 +289996,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Jacqueline Lovell: The Killer Eye",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Killer Eye (1999)",
+     "url": "https://bestsimilar.com/movies/16606-the-killer-eye"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1433",
     "worldwide-hypnosis:919",
-    "hypnosis-imdb-list-full-oct25:257"
+    "hypnosis-imdb-list-full-oct25:257",
+    "hypnosis-bestsimilar-nov5:164"
    ],
    "index_only": false,
    "local_only": false,
@@ -281884,6 +290116,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:164",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Killer Eye (1999)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Killer Eye",
+     "subtitle": "",
+     "year": "1999",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Killer Eye (1999)",
+       "url": "https://bestsimilar.com/movies/16606-the-killer-eye"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -281953,6 +290218,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:164": {
+     "title": "The Killer Eye",
+     "year": "1999",
+     "match_title": "The Killer Eye",
+     "match_year": "1999",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Killer Eye (1999)",
+       "url": "https://bestsimilar.com/movies/16606-the-killer-eye"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -284831,6 +293118,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "tantrik",
@@ -284846,18 +293136,28 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Kondaveeti_Donga"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Kondaveeti Donga (1990)",
+     "url": "https://bestsimilar.com/movies/54405-kondaveeti-donga"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1448",
     "india-catalog:26",
-    "worldwide-hypnosis:531"
+    "worldwide-hypnosis:531",
+    "hypnosis-bestsimilar-nov5:174"
    ],
    "index_only": false,
    "local_only": false,
@@ -284961,6 +293261,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:174",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Kondaveeti Donga (1990)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Kondaveeti Donga",
+     "subtitle": "",
+     "year": "1990",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Kondaveeti Donga (1990)",
+       "url": "https://bestsimilar.com/movies/54405-kondaveeti-donga"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -285038,6 +293371,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:174": {
+     "title": "Kondaveeti Donga",
+     "year": "1990",
+     "match_title": "Kondaveeti Donga",
+     "match_year": "1990",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Kondaveeti Donga (1990)",
+       "url": "https://bestsimilar.com/movies/54405-kondaveeti-donga"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -290176,6 +298531,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "medical"
@@ -290188,16 +298546,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Late_Night_with_the_Devil"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Late Night with the Devil (2023)",
+     "url": "https://bestsimilar.com/movies/93840-late-night-with-the-devil"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1474",
-    "worldwide-hypnosis:553"
+    "worldwide-hypnosis:553",
+    "hypnosis-bestsimilar-nov5:27"
    ],
    "index_only": false,
    "local_only": false,
@@ -290267,6 +298635,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:27",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Late Night with the Devil (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Late Night with the Devil",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Late Night with the Devil (2023)",
+       "url": "https://bestsimilar.com/movies/93840-late-night-with-the-devil"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -290318,6 +298719,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:27": {
+     "title": "Late Night with the Devil",
+     "year": "2023",
+     "match_title": "Late Night with the Devil",
+     "match_year": "2023",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Late Night with the Devil (2023)",
+       "url": "https://bestsimilar.com/movies/93840-late-night-with-the-devil"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -294154,6 +302577,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: gives birth.",
    "pregnancy_outcome": "gives birth",
    "pregnancy_note": "In the climactic rite Heidi gives birth to a small, crawfish-like creature (the devil's child of the coven's curse); no conventional pregnancy is shown beforehand.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "pregnancy-evil",
@@ -294164,16 +302590,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Lords_of_Salem_(film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Lords of Salem (2012)",
+     "url": "https://bestsimilar.com/movies/5525-the-lords-of-salem"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "occult-pregnancy-nearmiss"
+    "occult-pregnancy-nearmiss",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1492",
-    "occult-pregnancy-nearmiss:3"
+    "occult-pregnancy-nearmiss:3",
+    "hypnosis-bestsimilar-nov5:144"
    ],
    "index_only": false,
    "local_only": false,
@@ -294239,6 +302675,39 @@ window.CATALOG = {
      "pregnancy_note": "In the climactic rite Heidi gives birth to a small, crawfish-like creature (the devil's child of the coven's curse); no conventional pregnancy is shown beforehand.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:144",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Lords of Salem (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Lords of Salem",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Lords of Salem (2012)",
+       "url": "https://bestsimilar.com/movies/5525-the-lords-of-salem"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -294288,6 +302757,28 @@ window.CATALOG = {
      "pregnancy_outcome": "gives birth",
      "pregnancy_note": "In the climactic rite Heidi gives birth to a small, crawfish-like creature (the devil's child of the coven's curse); no conventional pregnancy is shown beforehand.",
      "provenance": "Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis."
+    },
+    "hypnosis-bestsimilar-nov5:144": {
+     "title": "The Lords of Salem",
+     "year": "2012",
+     "match_title": "The Lords of Salem",
+     "match_year": "2012",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Lords of Salem (2012)",
+       "url": "https://bestsimilar.com/movies/5525-the-lords-of-salem"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -295782,6 +304273,9 @@ window.CATALOG = {
    "provenance": "Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
    "note": "Outcome facts: pregnancy outcome: unknown; married: no; kids status: unknown.",
    "pregnancy_outcome": "unknown",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "unknown",
    "kids_together": "unknown",
    "married": "no",
@@ -295805,16 +304299,26 @@ window.CATALOG = {
     {
      "label": "Letterboxd",
      "url": "https://letterboxd.com/film/the-love-cult/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Love Cult (1966)",
+     "url": "https://bestsimilar.com/movies/49166-the-love-cult"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1501",
-    "hypnosis-assault:32"
+    "hypnosis-assault:32",
+    "hypnosis-bestsimilar-nov5:16"
    ],
    "index_only": false,
    "local_only": false,
@@ -295900,6 +304404,39 @@ window.CATALOG = {
      "evidence": "2 independent sources (Something Weird synopsis via CafeDVD, IMDb plot)",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:16",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Love Cult (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Love Cult",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Love Cult (1966)",
+       "url": "https://bestsimilar.com/movies/49166-the-love-cult"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -295971,6 +304508,28 @@ window.CATALOG = {
      "provenance": "Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
      "group": "Hypnotized woman sexually assaulted under hypnosis (Sep 2026)",
      "catalog_ids": []
+    },
+    "hypnosis-bestsimilar-nov5:16": {
+     "title": "The Love Cult",
+     "year": "1966",
+     "match_title": "The Love Cult",
+     "match_year": "1966",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Love Cult (1966)",
+       "url": "https://bestsimilar.com/movies/49166-the-love-cult"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -301906,7 +310465,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "tv",
    "categories": [
@@ -301929,19 +310489,29 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Marcia Cross: M.A.N.T.I.S. (1994)",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — M.A.N.T.I.S. (1994)",
+     "url": "https://bestsimilar.com/movies/17708-m-a-n-t-i-s"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-oct24"
+    "hypnosis-imdb-list-oct24",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1529",
     "worldwide-hypnosis:563",
     "worldwide-hypnosis:576",
-    "hypnosis-imdb-list-oct24:35"
+    "hypnosis-imdb-list-oct24:35",
+    "hypnosis-bestsimilar-nov5:113"
    ],
    "index_only": false,
    "local_only": false,
@@ -302076,6 +310646,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:113",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "M.A.N.T.I.S. (1994–1995)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "M.A.N.T.I.S.",
+     "subtitle": "",
+     "year": "1994–1995",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — M.A.N.T.I.S. (1994)",
+       "url": "https://bestsimilar.com/movies/17708-m-a-n-t-i-s"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -302172,6 +310775,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (Wayback snapshot pages 1-2, 24 Oct 2026 PT session); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:113": {
+     "title": "M.A.N.T.I.S.",
+     "year": "1994–1995",
+     "match_title": "M.A.N.T.I.S.",
+     "match_year": "1994–1995",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — M.A.N.T.I.S. (1994)",
+       "url": "https://bestsimilar.com/movies/17708-m-a-n-t-i-s"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -303476,7 +312101,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -303494,18 +312120,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Bobbie Bresee: Mausoleum (1983)",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Mausoleum (1983)",
+     "url": "https://bestsimilar.com/movies/31717-mausoleum"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1537",
     "worldwide-hypnosis:566",
-    "hypnosis-imdb-list-full-oct25:331"
+    "hypnosis-imdb-list-full-oct25:331",
+    "hypnosis-bestsimilar-nov5:122"
    ],
    "index_only": false,
    "local_only": false,
@@ -303604,6 +312240,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:122",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Mausoleum (1983)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mausoleum",
+     "subtitle": "",
+     "year": "1983",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Mausoleum (1983)",
+       "url": "https://bestsimilar.com/movies/31717-mausoleum"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -303673,6 +312342,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:122": {
+     "title": "Mausoleum",
+     "year": "1983",
+     "match_title": "Mausoleum",
+     "match_year": "1983",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Mausoleum (1983)",
+       "url": "https://bestsimilar.com/movies/31717-mausoleum"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -306014,6 +314705,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant; kids status: yes.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "hypnotist": "Ivan Ooze",
    "gain_motive": [
     "slave labour to dig up his Ecto-Morphicons, then mass suicide"
@@ -306039,18 +314733,28 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers%3A_The_Movie"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Mighty Morphin Power Rangers: The Movie (1995)",
+     "url": "https://bestsimilar.com/movies/18376-mighty-morphin-power-rangers-the-movie"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "mother-kids-hypnosis"
+    "mother-kids-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1550",
     "worldwide-hypnosis:590",
-    "mother-kids-hypnosis:12"
+    "mother-kids-hypnosis:12",
+    "hypnosis-bestsimilar-nov5:50"
    ],
    "index_only": false,
    "local_only": false,
@@ -306172,6 +314876,39 @@ window.CATALOG = {
      "child_witness": "the town's children see their hypnotized parents march to the construction site and try to stop them leaping to their deaths; Fred hoses them back",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:50",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Mighty Morphin Power Rangers: The Movie (1995)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mighty Morphin Power Rangers: The Movie",
+     "subtitle": "",
+     "year": "1995",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Mighty Morphin Power Rangers: The Movie (1995)",
+       "url": "https://bestsimilar.com/movies/18376-mighty-morphin-power-rangers-the-movie"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -306268,6 +315005,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
+    },
+    "hypnosis-bestsimilar-nov5:50": {
+     "title": "Mighty Morphin Power Rangers: The Movie",
+     "year": "1995",
+     "match_title": "Mighty Morphin Power Rangers: The Movie",
+     "match_year": "1995",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Mighty Morphin Power Rangers: The Movie (1995)",
+       "url": "https://bestsimilar.com/movies/18376-mighty-morphin-power-rangers-the-movie"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -309854,6 +318613,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "crime"
@@ -309862,16 +318624,26 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/The_Monster_of_the_Volcano"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Monster of the Volcano (1963)",
+     "url": "https://bestsimilar.com/movies/55986-the-monster-of-the-volcano"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1570",
-    "worldwide-hypnosis:918"
+    "worldwide-hypnosis:918",
+    "hypnosis-bestsimilar-nov5:22"
    ],
    "index_only": false,
    "local_only": false,
@@ -309933,6 +318705,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:22",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Monster of the Volcano (1963)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Monster of the Volcano",
+     "subtitle": "",
+     "year": "1963",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Monster of the Volcano (1963)",
+       "url": "https://bestsimilar.com/movies/55986-the-monster-of-the-volcano"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -309976,6 +318781,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:22": {
+     "title": "The Monster of the Volcano",
+     "year": "1963",
+     "match_title": "The Monster of the Volcano",
+     "match_year": "1963",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Monster of the Volcano (1963)",
+       "url": "https://bestsimilar.com/movies/55986-the-monster-of-the-volcano"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -311167,7 +319994,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -311193,6 +320021,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mary-Louise Parker: Murder in Mind",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Murder in Mind (1997)",
+     "url": "https://bestsimilar.com/movies/18824-murder-in-mind"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -311200,13 +320036,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "streaming-oct15",
-    "hypnosis-imdb-list-oct24"
+    "hypnosis-imdb-list-oct24",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1579",
     "worldwide-hypnosis:614",
     "streaming-oct15:19",
-    "hypnosis-imdb-list-oct24:37"
+    "hypnosis-imdb-list-oct24:37",
+    "hypnosis-bestsimilar-nov5:159"
    ],
    "index_only": false,
    "local_only": false,
@@ -311337,6 +320175,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:159",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Murder In Mind (1997)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Murder In Mind",
+     "subtitle": "",
+     "year": "1997",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Murder in Mind (1997)",
+       "url": "https://bestsimilar.com/movies/18824-murder-in-mind"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -311406,6 +320277,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (Wayback snapshot pages 1-2, 24 Oct 2026 PT session); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:159": {
+     "title": "Murder In Mind",
+     "year": "1997",
+     "match_title": "Murder In Mind",
+     "match_year": "1997",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Murder in Mind (1997)",
+       "url": "https://bestsimilar.com/movies/18824-murder-in-mind"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     },
     "streaming-oct15:19": {
      "standalone": true,
@@ -311627,6 +320520,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "human"
@@ -311639,16 +320535,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Murders_in_the_Rue_Morgue_%281971_film%29"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Murders in the Rue Morgue (1971)",
+     "url": "https://bestsimilar.com/movies/18840-murders-in-the-rue-morgue"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1581",
-    "worldwide-hypnosis:617"
+    "worldwide-hypnosis:617",
+    "hypnosis-bestsimilar-nov5:60"
    ],
    "index_only": false,
    "local_only": false,
@@ -311718,6 +320624,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:60",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Murders In The Rue Morgue (1971)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Murders In The Rue Morgue",
+     "subtitle": "",
+     "year": "1971",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Murders in the Rue Morgue (1971)",
+       "url": "https://bestsimilar.com/movies/18840-murders-in-the-rue-morgue"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -311769,6 +320708,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:60": {
+     "title": "Murders In The Rue Morgue",
+     "year": "1971",
+     "match_title": "Murders In The Rue Morgue",
+     "match_year": "1971",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Murders in the Rue Morgue (1971)",
+       "url": "https://bestsimilar.com/movies/18840-murders-in-the-rue-morgue"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -313117,6 +322078,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "vampire",
@@ -313130,16 +322094,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Nadja_%28film%29"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Nadja (1994)",
+     "url": "https://bestsimilar.com/movies/18988-nadja"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1590",
-    "worldwide-hypnosis:646"
+    "worldwide-hypnosis:646",
+    "hypnosis-bestsimilar-nov5:167"
    ],
    "index_only": false,
    "local_only": false,
@@ -313211,6 +322185,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:167",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Nadja (1994)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Nadja",
+     "subtitle": "",
+     "year": "1994",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Nadja (1994)",
+       "url": "https://bestsimilar.com/movies/18988-nadja"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -313264,6 +322271,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:167": {
+     "title": "Nadja",
+     "year": "1994",
+     "match_title": "Nadja",
+     "match_year": "1994",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Nadja (1994)",
+       "url": "https://bestsimilar.com/movies/18988-nadja"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -315608,6 +324637,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: unknown.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "crime",
@@ -315621,16 +324653,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/New_York_Ninja"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — New York Ninja (2021)",
+     "url": "https://bestsimilar.com/movies/79836-new-york-ninja"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1603",
-    "worldwide-hypnosis:648"
+    "worldwide-hypnosis:648",
+    "hypnosis-bestsimilar-nov5:101"
    ],
    "index_only": false,
    "local_only": false,
@@ -315702,6 +324744,39 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:101",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "New York Ninja (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "New York Ninja",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — New York Ninja (2021)",
+       "url": "https://bestsimilar.com/movies/79836-new-york-ninja"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -315755,6 +324830,28 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:101": {
+     "title": "New York Ninja",
+     "year": "2021",
+     "match_title": "New York Ninja",
+     "match_year": "2021",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — New York Ninja (2021)",
+       "url": "https://bestsimilar.com/movies/79836-new-york-ninja"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -318837,6 +327934,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant; kids status: yes.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "hypnotist": "her own children, via doctored self-hypnosis tapes",
    "gain_motive": [
     "to turn their parents into 'cool' parents"
@@ -318863,18 +327963,28 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/No_Dessert%2C_Dad%2C_till_You_Mow_the_Lawn"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — No Dessert, Dad, Till You Mow the Lawn (1994)",
+     "url": "https://bestsimilar.com/movies/19359-no-dessert-dad-till-you-mow-the-lawn"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "mother-kids-hypnosis"
+    "mother-kids-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1619",
     "worldwide-hypnosis:654",
-    "mother-kids-hypnosis:15"
+    "mother-kids-hypnosis:15",
+    "hypnosis-bestsimilar-nov5:21"
    ],
    "index_only": false,
    "local_only": false,
@@ -318998,6 +328108,39 @@ window.CATALOG = {
      "child_witness": "the kids plant the suggestions and watch their mother Carol (and father Ken) obey them",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:21",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "No Dessert, Dad, till You Mow the Lawn (1994)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "No Dessert, Dad, till You Mow the Lawn",
+     "subtitle": "",
+     "year": "1994",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — No Dessert, Dad, Till You Mow the Lawn (1994)",
+       "url": "https://bestsimilar.com/movies/19359-no-dessert-dad-till-you-mow-the-lawn"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -319097,6 +328240,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
+    },
+    "hypnosis-bestsimilar-nov5:21": {
+     "title": "No Dessert, Dad, till You Mow the Lawn",
+     "year": "1994",
+     "match_title": "No Dessert, Dad, till You Mow the Lawn",
+     "match_year": "1994",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — No Dessert, Dad, Till You Mow the Lawn (1994)",
+       "url": "https://bestsimilar.com/movies/19359-no-dessert-dad-till-you-mow-the-lawn"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -324723,7 +333888,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -324741,18 +333907,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amaia Salamanca: Paranormal Xperience 3D",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Paranormal Xperience 3D (2011)",
+     "url": "https://bestsimilar.com/movies/29490-paranormal-experience-3d"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1650",
     "worldwide-hypnosis:674",
-    "hypnosis-imdb-list-full-oct25:249"
+    "hypnosis-imdb-list-full-oct25:249",
+    "hypnosis-bestsimilar-nov5:98"
    ],
    "index_only": false,
    "local_only": false,
@@ -324851,6 +334027,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:98",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Paranormal Xperience 3D (2011)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Paranormal Xperience 3D",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Paranormal Xperience 3D (2011)",
+       "url": "https://bestsimilar.com/movies/29490-paranormal-experience-3d"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -324920,6 +334129,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:98": {
+     "title": "Paranormal Xperience 3D",
+     "year": "2011",
+     "match_title": "Paranormal Xperience 3D",
+     "match_year": "2011",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Paranormal Xperience 3D (2011)",
+       "url": "https://bestsimilar.com/movies/29490-paranormal-experience-3d"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -324939,7 +334170,8 @@ window.CATALOG = {
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
     "loose fit",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_note": "not stated",
@@ -324967,6 +334199,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Cherilyn Wilson: Parasomnia; Alison Brie: Parasomnia; Sean Young: Parasomnia; Katherine Carlsberg: Parasomnia",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Parasomnia (2008)",
+     "url": "https://bestsimilar.com/movies/20039-parasomnia"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -324974,13 +334214,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "wife-hypnosis-oct15",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1651",
     "worldwide-hypnosis:668",
     "wife-hypnosis-oct15:103",
-    "hypnosis-imdb-list-full-oct25:174"
+    "hypnosis-imdb-list-full-oct25:174",
+    "hypnosis-bestsimilar-nov5:24"
    ],
    "index_only": false,
    "local_only": false,
@@ -325116,6 +334358,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:24",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Parasomnia (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Parasomnia",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Parasomnia (2008)",
+       "url": "https://bestsimilar.com/movies/20039-parasomnia"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -325209,6 +334484,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:24": {
+     "title": "Parasomnia",
+     "year": "2008",
+     "match_title": "Parasomnia",
+     "match_year": "2008",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Parasomnia (2008)",
+       "url": "https://bestsimilar.com/movies/20039-parasomnia"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -328870,7 +338167,8 @@ window.CATALOG = {
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
     "loose fit",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "unknown",
    "kids_together": "no",
@@ -328900,6 +338198,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amy Paffrath: The Pit and the Pendulum (2009)",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Pit and the Pendulum (2009)",
+     "url": "https://bestsimilar.com/movies/37207-the-pit-and-the-pendulum"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -328907,13 +338213,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "hypnosis-assault-loose",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1667",
     "worldwide-hypnosis:937",
     "hypnosis-assault-loose:14",
-    "hypnosis-imdb-list-full-oct25:207"
+    "hypnosis-imdb-list-full-oct25:207",
+    "hypnosis-bestsimilar-nov5:59"
    ],
    "index_only": false,
    "local_only": false,
@@ -329057,6 +338365,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:59",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Pit and The Pendulum (2009)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Pit and The Pendulum",
+     "subtitle": "",
+     "year": "2009",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Pit and the Pendulum (2009)",
+       "url": "https://bestsimilar.com/movies/37207-the-pit-and-the-pendulum"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -329169,6 +338510,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:59": {
+     "title": "The Pit and The Pendulum",
+     "year": "2009",
+     "match_title": "The Pit and The Pendulum",
+     "match_year": "2009",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Pit and the Pendulum (2009)",
+       "url": "https://bestsimilar.com/movies/37207-the-pit-and-the-pendulum"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -333181,6 +342544,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "tv",
    "categories": [
     "medical"
@@ -333197,16 +342563,26 @@ window.CATALOG = {
     {
      "label": "TV Tropes: Hypno Fool",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Profit (1996)",
+     "url": "https://bestsimilar.com/movies/30111-profit"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1687",
-    "worldwide-hypnosis:702"
+    "worldwide-hypnosis:702",
+    "hypnosis-bestsimilar-nov5:82"
    ],
    "index_only": false,
    "local_only": false,
@@ -333284,6 +342660,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:82",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Profit (1996)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Profit",
+     "subtitle": "",
+     "year": "1996",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Profit (1996)",
+       "url": "https://bestsimilar.com/movies/30111-profit"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -333343,6 +342752,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:82": {
+     "title": "Profit",
+     "year": "1996",
+     "match_title": "Profit",
+     "match_year": "1996",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Profit (1996)",
+       "url": "https://bestsimilar.com/movies/30111-profit"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -336534,7 +345965,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -336553,6 +345985,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Kareena Kapoor: Ra.One",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Ra.One (2011)",
+     "url": "https://bestsimilar.com/movies/3794-ra-one"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -336560,13 +346000,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "india-catalog",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1702",
     "india-catalog:133",
     "worldwide-hypnosis:711",
-    "hypnosis-imdb-list-full-oct25:228"
+    "hypnosis-imdb-list-full-oct25:228",
+    "hypnosis-bestsimilar-nov5:95"
    ],
    "index_only": false,
    "local_only": false,
@@ -336700,6 +346142,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:95",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Ra.One (2011)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ra.One",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Ra.One (2011)",
+       "url": "https://bestsimilar.com/movies/3794-ra-one"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -336795,6 +346270,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:95": {
+     "title": "Ra.One",
+     "year": "2011",
+     "match_title": "Ra.One",
+     "match_year": "2011",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Ra.One (2011)",
+       "url": "https://bestsimilar.com/movies/3794-ra-one"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -338507,7 +348004,8 @@ window.CATALOG = {
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
     "loose fit",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -338533,6 +348031,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Blanca Soto: Regresa",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Regresa (2010)",
+     "url": "https://bestsimilar.com/movies/92714-regresa"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -338540,13 +348046,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "royal-hypnosis-loose",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1712",
     "worldwide-hypnosis:719",
     "royal-hypnosis-loose:21",
-    "hypnosis-imdb-list-full-oct25:460"
+    "hypnosis-imdb-list-full-oct25:460",
+    "hypnosis-bestsimilar-nov5:32"
    ],
    "index_only": false,
    "local_only": false,
@@ -338678,6 +348186,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:32",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Regresa (2010)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Regresa",
+     "subtitle": "",
+     "year": "2010",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Regresa (2010)",
+       "url": "https://bestsimilar.com/movies/92714-regresa"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -338769,6 +348310,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:32": {
+     "title": "Regresa",
+     "year": "2010",
+     "match_title": "Regresa",
+     "match_year": "2010",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Regresa (2010)",
+       "url": "https://bestsimilar.com/movies/92714-regresa"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -339209,7 +348772,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -339227,18 +348791,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Deborah Goodrich: Remote Control; Jennifer Tilly: Remote Control; Jenny Buchanan: Remote Control",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Remote Control (1988)",
+     "url": "https://bestsimilar.com/movies/37960-remote-control"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1715",
     "worldwide-hypnosis:708",
-    "hypnosis-imdb-list-full-oct25:240"
+    "hypnosis-imdb-list-full-oct25:240",
+    "hypnosis-bestsimilar-nov5:99"
    ],
    "index_only": false,
    "local_only": false,
@@ -339337,6 +348911,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:99",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Remote Control (1988)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Remote Control",
+     "subtitle": "",
+     "year": "1988",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Remote Control (1988)",
+       "url": "https://bestsimilar.com/movies/37960-remote-control"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -339406,6 +349013,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:99": {
+     "title": "Remote Control",
+     "year": "1988",
+     "match_title": "Remote Control",
+     "match_year": "1988",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Remote Control (1988)",
+       "url": "https://bestsimilar.com/movies/37960-remote-control"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -339996,7 +349625,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -340014,18 +349644,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Ashley Ferrare: Revenge of the Ninja",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Revenge of the Ninja (1983)",
+     "url": "https://bestsimilar.com/movies/21335-revenge-of-the-ninja"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1719",
     "worldwide-hypnosis:728",
-    "hypnosis-imdb-list-full-oct25:238"
+    "hypnosis-imdb-list-full-oct25:238",
+    "hypnosis-bestsimilar-nov5:121"
    ],
    "index_only": false,
    "local_only": false,
@@ -340124,6 +349764,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:121",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Revenge of the Ninja (1983)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Revenge of the Ninja",
+     "subtitle": "",
+     "year": "1983",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Revenge of the Ninja (1983)",
+       "url": "https://bestsimilar.com/movies/21335-revenge-of-the-ninja"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -340193,6 +349866,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:121": {
+     "title": "Revenge of the Ninja",
+     "year": "1983",
+     "match_title": "Revenge of the Ninja",
+     "match_year": "1983",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Revenge of the Ninja (1983)",
+       "url": "https://bestsimilar.com/movies/21335-revenge-of-the-ninja"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -345005,6 +354700,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "vampire",
@@ -345018,16 +354716,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Satanic_Rites_of_Dracula"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Satanic Rites of Dracula (1973)",
+     "url": "https://bestsimilar.com/movies/21864-the-satanic-rites-of-dracula"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1743",
-    "worldwide-hypnosis:942"
+    "worldwide-hypnosis:942",
+    "hypnosis-bestsimilar-nov5:153"
    ],
    "index_only": false,
    "local_only": false,
@@ -345099,6 +354807,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:153",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Satanic Rites of Dracula (1973)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Satanic Rites of Dracula",
+     "subtitle": "",
+     "year": "1973",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Satanic Rites of Dracula (1973)",
+       "url": "https://bestsimilar.com/movies/21864-the-satanic-rites-of-dracula"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -345152,6 +354893,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:153": {
+     "title": "The Satanic Rites of Dracula",
+     "year": "1973",
+     "match_title": "The Satanic Rites of Dracula",
+     "match_year": "1973",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Satanic Rites of Dracula (1973)",
+       "url": "https://bestsimilar.com/movies/21864-the-satanic-rites-of-dracula"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -353395,7 +363158,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -353409,18 +363173,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Katie Buitendyk: Silent Retreat; Jen Pogue: Silent Retreat",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Silent Retreat (2013)",
+     "url": "https://bestsimilar.com/movies/63986-silent-retreat"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-oct24"
+    "hypnosis-imdb-list-oct24",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1786",
     "worldwide-hypnosis:765",
-    "hypnosis-imdb-list-oct24:48"
+    "hypnosis-imdb-list-oct24:48",
+    "hypnosis-bestsimilar-nov5:86"
    ],
    "index_only": false,
    "local_only": false,
@@ -353511,6 +363285,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:86",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Silent Retreat (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Silent Retreat",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Silent Retreat (2013)",
+       "url": "https://bestsimilar.com/movies/63986-silent-retreat"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -353572,6 +363379,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (Wayback snapshot pages 1-2, 24 Oct 2026 PT session); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:86": {
+     "title": "Silent Retreat",
+     "year": "2013",
+     "match_title": "Silent Retreat",
+     "match_year": "2013",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Silent Retreat (2013)",
+       "url": "https://bestsimilar.com/movies/63986-silent-retreat"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -355368,6 +365197,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Grace is the woman hypnotized; Danielle's pregnancy is backstory.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "human"
@@ -355380,16 +365212,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Sisters_%281972_film%29"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Sisters (1972)",
+     "url": "https://bestsimilar.com/movies/22625-sisters"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1796",
-    "worldwide-hypnosis:770"
+    "worldwide-hypnosis:770",
+    "hypnosis-bestsimilar-nov5:41"
    ],
    "index_only": false,
    "local_only": false,
@@ -355459,6 +365301,39 @@ window.CATALOG = {
      "pregnancy_note": "Grace is the woman hypnotized; Danielle's pregnancy is backstory.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:41",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Sisters (1973)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sisters",
+     "subtitle": "",
+     "year": "1973",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Sisters (1972)",
+       "url": "https://bestsimilar.com/movies/22625-sisters"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -355510,6 +365385,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "Grace is the woman hypnotized; Danielle's pregnancy is backstory.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:41": {
+     "title": "Sisters",
+     "year": "1973",
+     "match_title": "Sisters",
+     "match_year": "1973",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Sisters (1972)",
+       "url": "https://bestsimilar.com/movies/22625-sisters"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -364172,6 +374069,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "vampire",
@@ -364185,16 +374085,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Sundown%3A_The_Vampire_in_Retreat"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Sundown: The Vampire in Retreat (1989)",
+     "url": "https://bestsimilar.com/movies/23479-sundown-the-vampire-in-retreat"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1838",
-    "worldwide-hypnosis:829"
+    "worldwide-hypnosis:829",
+    "hypnosis-bestsimilar-nov5:151"
    ],
    "index_only": false,
    "local_only": false,
@@ -364266,6 +374176,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:151",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Sundown: The Vampire in Retreat (1989)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sundown: The Vampire in Retreat",
+     "subtitle": "",
+     "year": "1989",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Sundown: The Vampire in Retreat (1989)",
+       "url": "https://bestsimilar.com/movies/23479-sundown-the-vampire-in-retreat"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -364319,6 +374262,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:151": {
+     "title": "Sundown: The Vampire in Retreat",
+     "year": "1989",
+     "match_title": "Sundown: The Vampire in Retreat",
+     "match_year": "1989",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Sundown: The Vampire in Retreat (1989)",
+       "url": "https://bestsimilar.com/movies/23479-sundown-the-vampire-in-retreat"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -367746,6 +377711,9 @@ window.CATALOG = {
    "character": "",
    "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki; Wikipedia)",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "cult",
@@ -367760,16 +377728,26 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Tahalka"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Tahalka (1992)",
+     "url": "https://bestsimilar.com/movies/48151-tahalka"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "india-catalog"
+    "india-catalog",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1855",
-    "india-catalog:132"
+    "india-catalog:132",
+    "hypnosis-bestsimilar-nov5:169"
    ],
    "index_only": false,
    "local_only": false,
@@ -367841,6 +377819,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:169",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Tahalka (1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Tahalka",
+     "subtitle": "",
+     "year": "1992",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Tahalka (1992)",
+       "url": "https://bestsimilar.com/movies/48151-tahalka"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -367894,6 +377905,28 @@ window.CATALOG = {
        "url": "https://mentalblock.miraheze.org/wiki/Tahalka"
       }
      ]
+    },
+    "hypnosis-bestsimilar-nov5:169": {
+     "title": "Tahalka",
+     "year": "1992",
+     "match_title": "Tahalka",
+     "match_year": "1992",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Tahalka (1992)",
+       "url": "https://bestsimilar.com/movies/48151-tahalka"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -369730,6 +379763,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant; kids status: no.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "hypnotist": "crime boss 'The Giant'",
    "gain_motive": [
     "inheritance",
@@ -369754,18 +379790,28 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Target_for_Killing"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Target for Killing (1966)",
+     "url": "https://bestsimilar.com/movies/52486-target-for-killing"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1864",
     "worldwide-hypnosis:840",
-    "rich-wife-hypnosis:18"
+    "rich-wife-hypnosis:18",
+    "hypnosis-bestsimilar-nov5:74"
    ],
    "index_only": false,
    "local_only": false,
@@ -369884,6 +379930,39 @@ window.CATALOG = {
      "kids_status": "no",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:74",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Target for Killing (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Target for Killing",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Target for Killing (1966)",
+       "url": "https://bestsimilar.com/movies/52486-target-for-killing"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -369976,6 +380055,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "hypnosis-bestsimilar-nov5:74": {
+     "title": "Target for Killing",
+     "year": "1966",
+     "match_title": "Target for Killing",
+     "match_year": "1966",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Target for Killing (1966)",
+       "url": "https://bestsimilar.com/movies/52486-target-for-killing"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -369994,7 +380095,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -370013,18 +380115,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Elizabeth Lee: A Taste of Blood",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — A Taste of Blood (1967)",
+     "url": "https://bestsimilar.com/movies/33100-a-taste-of-blood"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1865",
     "worldwide-hypnosis:11",
-    "hypnosis-imdb-list-full-oct25:461"
+    "hypnosis-imdb-list-full-oct25:461",
+    "hypnosis-bestsimilar-nov5:138"
    ],
    "index_only": false,
    "local_only": false,
@@ -370125,6 +380237,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:138",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "A Taste Of Blood (1967)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Taste Of Blood",
+     "subtitle": "",
+     "year": "1967",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Taste of Blood (1967)",
+       "url": "https://bestsimilar.com/movies/33100-a-taste-of-blood"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -370196,6 +380341,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:138": {
+     "title": "A Taste Of Blood",
+     "year": "1967",
+     "match_title": "A Taste Of Blood",
+     "match_year": "1967",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Taste of Blood (1967)",
+       "url": "https://bestsimilar.com/movies/33100-a-taste-of-blood"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -381121,6 +391288,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "vampire",
@@ -381131,18 +391301,28 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Vampire_at_Midnight"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Vampire at Midnight (1987)",
+     "url": "https://bestsimilar.com/movies/48616-vampire-at-midnight"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1921",
     "worldwide-hypnosis:1028",
-    "hypnotized-love:16"
+    "hypnotized-love:16",
+    "hypnosis-bestsimilar-nov5:39"
    ],
    "index_only": false,
    "local_only": false,
@@ -381238,6 +391418,39 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:39",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Vampire at Midnight (1987)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Vampire at Midnight",
+     "subtitle": "",
+     "year": "1987",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Vampire at Midnight (1987)",
+       "url": "https://bestsimilar.com/movies/48616-vampire-at-midnight"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -381307,6 +391520,28 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
      "match_year": "1987"
+    },
+    "hypnosis-bestsimilar-nov5:39": {
+     "title": "Vampire at Midnight",
+     "year": "1987",
+     "match_title": "Vampire at Midnight",
+     "match_year": "1987",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Vampire at Midnight (1987)",
+       "url": "https://bestsimilar.com/movies/48616-vampire-at-midnight"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -381386,7 +391621,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -381404,18 +391640,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amy Matysio: Vampire Dog",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Vampire Dog (2012)",
+     "url": "https://bestsimilar.com/movies/4542-vampire-dog"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1923",
     "worldwide-hypnosis:1040",
-    "hypnosis-imdb-list-full-oct25:389"
+    "hypnosis-imdb-list-full-oct25:389",
+    "hypnosis-bestsimilar-nov5:106"
    ],
    "index_only": false,
    "local_only": false,
@@ -381514,6 +391760,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:106",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Vampire Dog (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Vampire Dog",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Vampire Dog (2012)",
+       "url": "https://bestsimilar.com/movies/4542-vampire-dog"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -381583,6 +391862,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:106": {
+     "title": "Vampire Dog",
+     "year": "2012",
+     "match_title": "Vampire Dog",
+     "match_year": "2012",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Vampire Dog (2012)",
+       "url": "https://bestsimilar.com/movies/4542-vampire-dog"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -382330,7 +392631,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "no",
    "kids_note": "none",
@@ -382368,6 +392670,14 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Kate Beckinsale: Van Helsing; Valeria San Martín: Van Helsing (s5e13); Tricia Helfer: Van Helsing (**)",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Van Helsing (2004)",
+     "url": "https://bestsimilar.com/movies/25009-van-helsing"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -382375,13 +392685,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "royal-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1928",
     "worldwide-hypnosis:1025",
     "royal-hypnosis:7",
-    "hypnosis-imdb-list-full-oct25:191"
+    "hypnosis-imdb-list-full-oct25:191",
+    "hypnosis-bestsimilar-nov5:112"
    ],
    "index_only": false,
    "local_only": false,
@@ -382532,6 +392844,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:112",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Van Helsing (2004)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Van Helsing",
+     "subtitle": "",
+     "year": "2004",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Van Helsing (2004)",
+       "url": "https://bestsimilar.com/movies/25009-van-helsing"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -382642,6 +392987,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:112": {
+     "title": "Van Helsing",
+     "year": "2004",
+     "match_title": "Van Helsing",
+     "match_year": "2004",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Van Helsing (2004)",
+       "url": "https://bestsimilar.com/movies/25009-van-helsing"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -383635,7 +394002,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -383653,18 +394021,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Olga Segura: Veronica",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Veronica (2017)",
+     "url": "https://bestsimilar.com/movies/57683-veronica"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1934",
     "worldwide-hypnosis:1035",
-    "hypnosis-imdb-list-full-oct25:426"
+    "hypnosis-imdb-list-full-oct25:426",
+    "hypnosis-bestsimilar-nov5:115"
    ],
    "index_only": false,
    "local_only": false,
@@ -383763,6 +394141,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:115",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Veronica (2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Veronica",
+     "subtitle": "",
+     "year": "2017",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Veronica (2017)",
+       "url": "https://bestsimilar.com/movies/57683-veronica"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -383832,6 +394243,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:115": {
+     "title": "Veronica",
+     "year": "2017",
+     "match_title": "Veronica",
+     "match_year": "2017",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Veronica (2017)",
+       "url": "https://bestsimilar.com/movies/57683-veronica"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -387974,6 +398407,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "yes",
    "kids_note": "two daughters, Manon and Léa",
    "kids_together": "yes",
@@ -388012,18 +398448,28 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/A_Wind_from_Wyoming"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — A Wind from Wyoming (1994)",
+     "url": "https://bestsimilar.com/movies/33258-a-wind-from-wyoming"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypno-leftovers"
+    "hypno-leftovers",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1956",
     "worldwide-hypnosis:20",
-    "hypno-leftovers:1"
+    "hypno-leftovers:1",
+    "hypnosis-bestsimilar-nov5:156"
    ],
    "index_only": false,
    "local_only": false,
@@ -388158,6 +398604,39 @@ window.CATALOG = {
      "fit_note": "Canadian (Québec) French-language black comedy. The family hires stage hypnotist Albert the Great to win back their loved ones; according to one synopsis Marcel uses him on his wife Lizette, and Albert's spells eventually backfire on everyone. Not tagged hypno-intimacy because only one synopsis describes the intimacy",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:156",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "A Wind from Wyoming (1994)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Wind from Wyoming",
+     "subtitle": "",
+     "year": "1994",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Wind from Wyoming (1994)",
+       "url": "https://bestsimilar.com/movies/33258-a-wind-from-wyoming"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -388265,6 +398744,28 @@ window.CATALOG = {
      "evidence": "2+ independent sources for the hypnotist plot (Wikipedia, Cinébase, QfQ, Films du Québec, Mental Block); single source (Cinébase) for Marcel using Albert's hypnosis to sleep with his estranged wife Lizette",
      "fit_note": "Canadian (Québec) French-language black comedy. The family hires stage hypnotist Albert the Great to win back their loved ones; according to one synopsis Marcel uses him on his wife Lizette, and Albert's spells eventually backfire on everyone. Not tagged hypno-intimacy because only one synopsis describes the intimacy",
      "source_conflict": "Léa's age: QfQ says 17 and Films du Québec says 18, so the Mental Block scene between Léa and Albert is excluded under the adults-only rule; this card covers the adult mother Lizette only"
+    },
+    "hypnosis-bestsimilar-nov5:156": {
+     "title": "A Wind from Wyoming",
+     "year": "1994",
+     "match_title": "A Wind from Wyoming",
+     "match_year": "1994",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Wind from Wyoming (1994)",
+       "url": "https://bestsimilar.com/movies/33258-a-wind-from-wyoming"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -388682,6 +399183,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: unknown.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Wikipedia's plot (the princess is hypnotized into becoming Shurka's bride, then freed) and the Mental Block notes mention no pregnancy.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "hypnotist": "the usurping sorcerer Shurka",
    "gain_motive": [
     "marriage",
@@ -388714,6 +399218,14 @@ window.CATALOG = {
     {
      "label": "Mental Block",
      "url": "https://mentalblock.miraheze.org/wiki/Wizards_of_the_Lost_Kingdom"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Wizards of the Lost Kingdom (1985)",
+     "url": "https://bestsimilar.com/movies/51036-wizards-of-the-lost-kingdom"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -388724,7 +399236,8 @@ window.CATALOG = {
     "rich-wife-hypnosis",
     "field-fixes",
     "royal-hypnosis",
-    "hypnotized-marriage"
+    "hypnotized-marriage",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1959",
@@ -388733,7 +399246,8 @@ window.CATALOG = {
     "rich-wife-hypnosis:19",
     "field-fixes:2",
     "royal-hypnosis:2",
-    "hypnotized-marriage:17"
+    "hypnotized-marriage:17",
+    "hypnosis-bestsimilar-nov5:175"
    ],
    "index_only": false,
    "local_only": false,
@@ -388970,6 +399484,39 @@ window.CATALOG = {
      "fit_note": "Princess hypnotised into becoming the usurper's bride.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:175",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Wizards of the Lost Kingdom (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Wizards of the Lost Kingdom (1985)",
+       "url": "https://bestsimilar.com/movies/51036-wizards-of-the-lost-kingdom"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -389144,6 +399691,28 @@ window.CATALOG = {
      ],
      "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
      "fit_note": "Princess hypnotised into becoming the usurper's bride."
+    },
+    "hypnosis-bestsimilar-nov5:175": {
+     "title": "Wizards of the Lost Kingdom",
+     "year": "1985",
+     "match_title": "Wizards of the Lost Kingdom",
+     "match_year": "1985",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Wizards of the Lost Kingdom (1985)",
+       "url": "https://bestsimilar.com/movies/51036-wizards-of-the-lost-kingdom"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -408644,8 +419213,11 @@ window.CATALOG = {
    "confidence_flag": "MEDIUM · [EROTIC] PINK FILM",
    "summary": "Tachibana Clinic doctors secretly hypnotize patient Reiko as a trigger-controlled test subject for the experimental Dream Ring device; the conditioning is also used to make her commit murder.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "Erotic pink film. The gain is institutional and commercial experimentation as well as control over the patient.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "doctor-gain",
@@ -408663,20 +419235,100 @@ window.CATALOG = {
     {
      "label": "Coffee Coffee and More Coffee",
      "url": "http://www.coffeecoffeeandmorecoffee.com/archives/2016/10/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Nurse Diary: Beast Afternoon (1982)",
+     "url": "https://bestsimilar.com/movies/48436-nurse-diary-beast-afternoon"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "xla62ucxbx02u5:2166"
+    "xla62ucxbx02u5:2166",
+    "hypnosis-bestsimilar-nov5:176"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:2166",
+    "source": "xla62ucxbx02u5",
+    "label": "Nurse Diary: Beast Afternoon · 看護婦日記 獣じみた午後 (1982)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Nurse Diary: Beast Afternoon",
+    "subtitle": "看護婦日記 獣じみた午後",
+    "year": "1982",
+    "meta": "Film · Japan · Japanese · Nikkatsu pink film",
+    "summary": "Tachibana Clinic doctors secretly hypnotize patient Reiko as a trigger-controlled test subject for the experimental Dream Ring device; the conditioning is also used to make her commit murder.",
+    "character": "",
+    "note": "Erotic pink film. The gain is institutional and commercial experimentation as well as control over the patient.",
+    "mechanism": "Secret clinical hypnosis + bell post-hypnotic trigger",
+    "confidence_flag": "MEDIUM · [EROTIC] PINK FILM",
+    "categories": [
+     "doctor-gain",
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "RareFilm",
+      "url": "https://rarefilm.net/nurse-diary-beast-afternoon-1982-naosuke-kurosawa-maiko-kazama-jun-miho-miki-yamaji-hideo-shiroyama-crime-sci-fi-erotic/"
+     },
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0287516"
+     },
+     {
+      "label": "Coffee Coffee and More Coffee",
+      "url": "http://www.coffeecoffeeandmorecoffee.com/archives/2016/10/"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:176",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Nurse Diary: Beast Afternoon (1982)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Nurse Diary: Beast Afternoon",
+     "subtitle": "",
+     "year": "1982",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Nurse Diary: Beast Afternoon (1982)",
+       "url": "https://bestsimilar.com/movies/48436-nurse-diary-beast-afternoon"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:2166": {
      "t": "Nurse Diary: Beast Afternoon",
@@ -408730,6 +419382,28 @@ window.CATALOG = {
       ]
      ],
      "fog": "therapist"
+    },
+    "hypnosis-bestsimilar-nov5:176": {
+     "title": "Nurse Diary: Beast Afternoon",
+     "year": "1982",
+     "match_title": "Nurse Diary: Beast Afternoon",
+     "match_year": "1982",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Nurse Diary: Beast Afternoon (1982)",
+       "url": "https://bestsimilar.com/movies/48436-nurse-diary-beast-afternoon"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -411096,7 +421770,8 @@ window.CATALOG = {
    "note": "",
    "tags": [
     "Films Live-Action",
-    "Western Live Action"
+    "Western Live Action",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -411118,16 +421793,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia: The Plague of the Zombies",
      "url": "https://en.wikipedia.org/wiki/The_Plague_of_the_Zombies"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Plague of the Zombies (1966)",
+     "url": "https://bestsimilar.com/movies/34966-the-plague-of-the-zombies"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "xla62ucxbx02u5:2197",
-    "fanwiki-screen-oct14:169"
+    "fanwiki-screen-oct14:169",
+    "hypnosis-bestsimilar-nov5:64"
    ],
    "index_only": false,
    "local_only": false,
@@ -411197,6 +421882,39 @@ window.CATALOG = {
      "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
      "distinct_story": true,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:64",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Plague of the Zombies (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Plague of the Zombies",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Plague of the Zombies (1966)",
+       "url": "https://bestsimilar.com/movies/34966-the-plague-of-the-zombies"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -411218,6 +421936,28 @@ window.CATALOG = {
      "ka": "no",
      "kb": "no",
      "prov": "Worldwide female-hypnosis pregnancy/kids sweep, 15–16 Oct 2026 · vector A"
+    },
+    "hypnosis-bestsimilar-nov5:64": {
+     "title": "The Plague of the Zombies",
+     "year": "1966",
+     "match_title": "The Plague of the Zombies",
+     "match_year": "1966",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Plague of the Zombies (1966)",
+       "url": "https://bestsimilar.com/movies/34966-the-plague-of-the-zombies"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     },
     "fanwiki-screen-oct14:169": {
      "title": "The Plague Of The Zombies",
@@ -415574,8 +426314,11 @@ window.CATALOG = {
    "confidence_flag": "",
    "summary": "Anne persuades Peter to attend hypnotherapy. Dr. Swanson hypnotizes Peter and dies mid-session, leaving him in trance; Anne is never entranced.",
    "character": "",
-   "provenance": "",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "Non-qualifying: the intended male partner is hypnotized, not the woman.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "index-48"
@@ -415588,20 +426331,95 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt0151804"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Office Space (1999)",
+     "url": "https://bestsimilar.com/movies/19620-office-space"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:127"
+    "ig6qlxqxoxvcxla:127",
+    "hypnosis-bestsimilar-nov5:35"
    ],
-   "index_only": true,
+   "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "ig6qlxqxoxvcxla:127",
+    "source": "ig6qlxqxoxvcxla",
+    "label": "Office Space (1999)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Office Space",
+    "subtitle": "",
+    "year": "1999",
+    "meta": "Film comedy · United States · English",
+    "summary": "Anne persuades Peter to attend hypnotherapy. Dr. Swanson hypnotizes Peter and dies mid-session, leaving him in trance; Anne is never entranced.",
+    "character": "",
+    "note": "Non-qualifying: the intended male partner is hypnotized, not the woman.",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "index-48"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Office_Space"
+     },
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0151804"
+     }
+    ],
+    "distinct_story": false,
+    "index_title": "Office Space"
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:35",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Office Space (1999)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Office Space",
+     "subtitle": "",
+     "year": "1999",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Office Space (1999)",
+       "url": "https://bestsimilar.com/movies/19620-office-space"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "ig6qlxqxoxvcxla:127": {
      "detailed": {
@@ -415628,6 +426446,28 @@ window.CATALOG = {
        }
       ]
      }
+    },
+    "hypnosis-bestsimilar-nov5:35": {
+     "title": "Office Space",
+     "year": "1999",
+     "match_title": "Office Space",
+     "match_year": "1999",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Office Space (1999)",
+       "url": "https://bestsimilar.com/movies/19620-office-space"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -420490,6 +431330,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "medical"
@@ -420502,20 +431345,96 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_3%3A_Dream_Warriors"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — A Nightmare on Elm Street 3: Dream Warriors (1987)",
+     "url": "https://bestsimilar.com/movies/19284-a-nightmare-on-elm-street-3-dream-warriors"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "worldwide-hypnosis:27"
+    "worldwide-hypnosis:27",
+    "hypnosis-bestsimilar-nov5:26"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:27",
+    "source": "worldwide-hypnosis",
+    "label": "A Nightmare on Elm Street 3: Dream Warriors (1987)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "A Nightmare on Elm Street 3: Dream Warriors",
+    "subtitle": "",
+    "year": "1987",
+    "meta": "Film · United States · English",
+    "summary": "Nancy Thompson, a psychiatrist, a old enemy with the evil spirit of Freddy Krueger, helps teens at a mental hospital battle the oniric killer who is invading their nightmanres. Through hypnosis, she makes them experience lucid dreams so that they have a chance to survive Krueger's pursuit.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "High · fan-wiki scene log + Wikipedia plot mentions hypnosis",
+    "categories": [
+     "medical"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/A_Nightmare_on_Elm_Street_3%3A_Dream_Warriors"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_3%3A_Dream_Warriors"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:26",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "A Nightmare on Elm Street 3: Dream Warriors (1987)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Nightmare on Elm Street 3: Dream Warriors",
+     "subtitle": "",
+     "year": "1987",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Nightmare on Elm Street 3: Dream Warriors (1987)",
+       "url": "https://bestsimilar.com/movies/19284-a-nightmare-on-elm-street-3-dream-warriors"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:27": {
      "title": "A Nightmare on Elm Street 3: Dream Warriors",
@@ -420541,6 +431460,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:26": {
+     "title": "A Nightmare on Elm Street 3: Dream Warriors",
+     "year": "1987",
+     "match_title": "A Nightmare on Elm Street 3: Dream Warriors",
+     "match_year": "1987",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Nightmare on Elm Street 3: Dream Warriors (1987)",
+       "url": "https://bestsimilar.com/movies/19284-a-nightmare-on-elm-street-3-dream-warriors"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -422182,7 +433123,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -422209,18 +433151,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Manuela Vellés: Chaotic Ana",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Chaotic Ana (2007)",
+     "url": "https://bestsimilar.com/movies/10307-chaotic-ana"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "worldwide-hypnosis",
     "streaming-oct15",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "worldwide-hypnosis:184",
     "streaming-oct15:20",
-    "hypnosis-imdb-list-full-oct25:318"
+    "hypnosis-imdb-list-full-oct25:318",
+    "hypnosis-bestsimilar-nov5:4"
    ],
    "index_only": false,
    "local_only": true,
@@ -422318,6 +433270,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:4",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Chaotic Ana (2007)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Chaotic Ana",
+     "subtitle": "",
+     "year": "2007",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Chaotic Ana (2007)",
+       "url": "https://bestsimilar.com/movies/10307-chaotic-ana"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -422389,6 +433374,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:4": {
+     "title": "Chaotic Ana",
+     "year": "2007",
+     "match_title": "Chaotic Ana",
+     "match_year": "2007",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Chaotic Ana (2007)",
+       "url": "https://bestsimilar.com/movies/10307-chaotic-ana"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -424147,7 +435154,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "format": "movie",
    "categories": [
@@ -424162,16 +435170,26 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Elissa Dowling: Dracula's Curse",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Dracula's Curse (2006)",
+     "url": "https://bestsimilar.com/movies/32773-draculas-curse"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-oct24"
+    "hypnosis-imdb-list-oct24",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "worldwide-hypnosis:306",
-    "hypnosis-imdb-list-oct24:20"
+    "hypnosis-imdb-list-oct24:20",
+    "hypnosis-bestsimilar-nov5:94"
    ],
    "index_only": false,
    "local_only": true,
@@ -424235,6 +435253,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:94",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Dracula's Curse (2006)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dracula's Curse",
+     "subtitle": "",
+     "year": "2006",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dracula's Curse (2006)",
+       "url": "https://bestsimilar.com/movies/32773-draculas-curse"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -424277,6 +435328,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (Wayback snapshot pages 1-2, 24 Oct 2026 PT session); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:94": {
+     "title": "Dracula's Curse",
+     "year": "2006",
+     "match_title": "Dracula's Curse",
+     "match_year": "2006",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dracula's Curse (2006)",
+       "url": "https://bestsimilar.com/movies/32773-draculas-curse"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -426820,6 +437893,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "format": "movie",
    "categories": [
     "other-control"
@@ -426828,20 +437904,92 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Mars_Needs_Women"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Mars Needs Women (1968)",
+     "url": "https://bestsimilar.com/movies/32601-mars-needs-women"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "worldwide-hypnosis:568"
+    "worldwide-hypnosis:568",
+    "hypnosis-bestsimilar-nov5:157"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:568",
+    "source": "worldwide-hypnosis",
+    "label": "Mars Needs Women (1967)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Mars Needs Women",
+    "subtitle": "",
+    "year": "1967",
+    "meta": "Film · United States · English",
+    "summary": "A U. S.",
+    "character": "",
+    "note": "",
+    "mechanism": "Hypnosis (type not specified by source)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Mars_Needs_Women"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:157",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Mars Needs Women (1967)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mars Needs Women",
+     "subtitle": "",
+     "year": "1967",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Mars Needs Women (1968)",
+       "url": "https://bestsimilar.com/movies/32601-mars-needs-women"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:568": {
      "title": "Mars Needs Women",
@@ -426863,6 +438011,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-bestsimilar-nov5:157": {
+     "title": "Mars Needs Women",
+     "year": "1967",
+     "match_title": "Mars Needs Women",
+     "match_year": "1967",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Mars Needs Women (1968)",
+       "url": "https://bestsimilar.com/movies/32601-mars-needs-women"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    },
    "watch_links": [
@@ -432589,7 +443759,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "not applicable (male victim)",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "unknown",
    "kids_together": "no",
@@ -432615,20 +443786,111 @@ window.CATALOG = {
     {
      "label": "Naturalistic! Uncanny! Marvelous!",
      "url": "http://nummtheory.blogspot.com/2024/06/wanda-sadistic-hypnotist-1969.html"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Wanda the Sadistic Hypnotist (1969)",
+     "url": "https://bestsimilar.com/movies/49517-wanda-the-sadistic-hypnotist"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-assault-loose:13"
+    "hypnosis-assault-loose:13",
+    "hypnosis-bestsimilar-nov5:165"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-assault-loose:13",
+    "source": "hypnosis-assault-loose",
+    "label": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist (1969)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+    "subtitle": "",
+    "year": "1969",
+    "meta": "Sexploitation film · United States · English",
+    "summary": "Wanda and her female companions abduct Sylvester after a car crash; at their house Wanda hypnotizes him, ties him up and sexually abuses him. An escaped psychiatric patient frees him, the men then drug the women with LSD, and Sylvester is finally hypnotized into forgetting.",
+    "character": "Sylvester and Wanda",
+    "note": "",
+    "mechanism": "Hypnosis by a woman",
+    "confidence_flag": "Corroborated · loose fit",
+    "categories": [
+     "adult-hypnosis",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "AFI Catalog",
+      "url": "https://catalog.afi.com/Film/23898-WANDA-(THE-SADISTIC-HYPNOTIST)"
+     },
+     {
+      "label": "Fantastic Movie Musings",
+      "url": "https://fantasticmoviemusings.com/2021/06/15/the-sadistic-hypnotist-1969/"
+     },
+     {
+      "label": "Naturalistic! Uncanny! Marvelous!",
+      "url": "http://nummtheory.blogspot.com/2024/06/wanda-sadistic-hypnotist-1969.html"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "not applicable (male victim)",
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "no",
+    "pregnant_end": "no",
+    "pregnant_end_note": "not applicable (male victim)",
+    "evidence": "2+ independent sources (AFI, Fantastic Movie Musings, review blog)",
+    "fit_note": "Loose fit: the hypnotist is a woman and the hypnotized victim is a man; the women are later drugged, not hypnotized.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:165",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist (1969)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+     "subtitle": "",
+     "year": "1969",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Wanda the Sadistic Hypnotist (1969)",
+       "url": "https://bestsimilar.com/movies/49517-wanda-the-sadistic-hypnotist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-assault-loose:13": {
      "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
@@ -432672,6 +443934,28 @@ window.CATALOG = {
       "loose fit"
      ],
      "catalog_ids": []
+    },
+    "hypnosis-bestsimilar-nov5:165": {
+     "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+     "year": "1969",
+     "match_title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+     "match_year": "1969",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Wanda the Sadistic Hypnotist (1969)",
+       "url": "https://bestsimilar.com/movies/49517-wanda-the-sadistic-hypnotist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -433186,7 +444470,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "not mentioned",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "unknown",
    "kids_together": "no",
@@ -433214,20 +444499,114 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt0087798/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Night Train to Terror (1985)",
+     "url": "https://bestsimilar.com/movies/35249-night-train-to-terror"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-assault-loose:38"
+    "hypnosis-assault-loose:38",
+    "hypnosis-bestsimilar-nov5:109"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-assault-loose:38",
+    "source": "hypnosis-assault-loose",
+    "label": "Night Train to Terror · Segment “The Case of Harry Billings” (1985)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Night Train to Terror",
+    "subtitle": "Segment “The Case of Harry Billings”",
+    "year": "1985",
+    "meta": "Horror anthology · United States · English",
+    "summary": "In the first segment, Harry Billings is held at a psychiatric hospital where Dr. Fargo and Dr. Brewer keep him under hypnosis and use him to lure people to be murdered for organ harvesting; Fargo becomes romantically involved with the hypnotized Harry. Another segment has a man force his girlfriend into pornographic films (no hypnosis).",
+    "character": "Harry Billings and Dr. Fargo",
+    "note": "",
+    "mechanism": "Hypnosis (with drugs) at a psychiatric hospital",
+    "confidence_flag": "Corroborated · loose fit",
+    "categories": [
+     "adult-hypnosis",
+     "medical",
+     "human",
+     "crime"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Night_Train_to_Terror"
+     },
+     {
+      "label": "366 Weird Movies",
+      "url": "https://366weirdmovies.com/165-night-train-to-terror-1985/"
+     },
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0087798/"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "not mentioned",
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "no",
+    "pregnant_end": "no",
+    "pregnant_end_note": "not mentioned",
+    "evidence": "2+ independent sources (Wikipedia, 366 Weird Movies)",
+    "fit_note": "Loose fit: the hypnotized person is a man and the romantic involvement is by a female doctor; the people he lures are murdered, not sexually assaulted under hypnosis.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:109",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Night Train to Terror (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Night Train to Terror",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Night Train to Terror (1985)",
+       "url": "https://bestsimilar.com/movies/35249-night-train-to-terror"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-assault-loose:38": {
      "title": "Night Train to Terror",
@@ -433274,6 +444653,28 @@ window.CATALOG = {
       "loose fit"
      ],
      "catalog_ids": []
+    },
+    "hypnosis-bestsimilar-nov5:109": {
+     "title": "Night Train to Terror",
+     "year": "1985",
+     "match_title": "Night Train to Terror",
+     "match_year": "1985",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Night Train to Terror (1985)",
+       "url": "https://bestsimilar.com/movies/35249-night-train-to-terror"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -444155,6 +455556,9 @@ window.CATALOG = {
    "character": "",
    "provenance": "No-link additions + adult/erotic pass, 3 Oct 2026 PT (user lifted the free-link requirement; adults only; no pornography)",
    "note": "No free link found (checked JustWatch US on 3 Oct 2026). No streaming or purchase listing found.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "adult": "yes",
    "format": "movie",
    "categories": [
@@ -444164,20 +455568,91 @@ window.CATALOG = {
     {
      "label": "TMDB",
      "url": "https://www.themoviedb.org/search?query=9½+Weeks"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — 9½ Weeks (1986)",
+     "url": "https://bestsimilar.com/movies/19329-9-weeks"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "no-link-additions"
+    "no-link-additions",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "no-link-additions:14"
+    "no-link-additions:14",
+    "hypnosis-bestsimilar-nov5:158"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "no-link-additions:14",
+    "source": "no-link-additions",
+    "label": "9½ Weeks (1986)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "9½ Weeks",
+    "subtitle": "",
+    "year": "1986",
+    "meta": "Feature film",
+    "summary": "A New York art-gallery worker, Elizabeth, begins a sexually charged and increasingly controlling relationship with a Wall Street broker, John.",
+    "character": "",
+    "note": "No free link found (checked JustWatch US on 3 Oct 2026). No streaming or purchase listing found.",
+    "mechanism": "Mainstream erotic thriller / erotic drama (rated release)",
+    "confidence_flag": "Medium · Wikipedia/JustWatch synopsis and rating",
+    "categories": [
+     "erotic-mainstream"
+    ],
+    "sources": [
+     {
+      "label": "TMDB",
+      "url": "https://www.themoviedb.org/search?query=9½+Weeks"
+     }
+    ],
+    "adult": "yes",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:158",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "9½ Weeks (1986)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "9½ Weeks",
+     "subtitle": "",
+     "year": "1986",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — 9½ Weeks (1986)",
+       "url": "https://bestsimilar.com/movies/19329-9-weeks"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "no-link-additions:14": {
      "title": "9½ Weeks",
@@ -444202,6 +455677,28 @@ window.CATALOG = {
      "note": "No free link found (checked JustWatch US on 3 Oct 2026). No streaming or purchase listing found.",
      "group": "Erotic drama / romance",
      "adult": "yes"
+    },
+    "hypnosis-bestsimilar-nov5:158": {
+     "title": "9½ Weeks",
+     "year": "1986",
+     "match_title": "9½ Weeks",
+     "match_year": "1986",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — 9½ Weeks (1986)",
+       "url": "https://bestsimilar.com/movies/19329-9-weeks"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -445286,7 +456783,8 @@ window.CATALOG = {
    "provenance": "No-link additions + adult/erotic pass, 3 Oct 2026 PT (user lifted the free-link requirement; adults only; no pornography)",
    "note": "No free link found (checked JustWatch US on 3 Oct 2026). No streaming or purchase listing found. Loose fit: hypnosis is a TMDB keyword only.",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "unknown",
    "evidence": "single source - TMDB overview and the hypnosis keyword; no plot summary confirms hypnosis or a marriage under control",
@@ -445298,20 +456796,95 @@ window.CATALOG = {
     {
      "label": "TMDB",
      "url": "https://www.themoviedb.org/movie/1250999"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Witch (2024)",
+     "url": "https://bestsimilar.com/movies/105997-the-witch"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "no-link-additions"
+    "no-link-additions",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "no-link-additions:30"
+    "no-link-additions:30",
+    "hypnosis-bestsimilar-nov5:53"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "no-link-additions:30",
+    "source": "no-link-additions",
+    "label": "The Witch (Cadı) (2024)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Witch (Cadı)",
+    "subtitle": "",
+    "year": "2024",
+    "meta": "Feature film · Turkey · Turkish",
+    "summary": "During the collapse of the Ottoman Empire a woman who reluctantly goes to a gloomy Istanbul mansion as a bride and the mysterious owner of the mansion uncover its dark secrets of the past.",
+    "character": "",
+    "note": "No free link found (checked JustWatch US on 3 Oct 2026). No streaming or purchase listing found. Loose fit: hypnosis is a TMDB keyword only.",
+    "mechanism": "Hypnosis keyword (TMDB)",
+    "confidence_flag": "Low · single TMDB overview and keyword",
+    "categories": [
+     "hypnotized-marriage"
+    ],
+    "sources": [
+     {
+      "label": "TMDB",
+      "url": "https://www.themoviedb.org/movie/1250999"
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "evidence": "single source - TMDB overview and the hypnosis keyword; no plot summary confirms hypnosis or a marriage under control",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:53",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Witch (Cadı) (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Witch (Cadı)",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Witch (2024)",
+       "url": "https://bestsimilar.com/movies/105997-the-witch"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "no-link-additions:30": {
      "title": "The Witch (Cadı)",
@@ -445340,6 +456913,28 @@ window.CATALOG = {
      ],
      "evidence": "single source - TMDB overview and the hypnosis keyword; no plot summary confirms hypnosis or a marriage under control",
      "kids_status": "unknown"
+    },
+    "hypnosis-bestsimilar-nov5:53": {
+     "title": "The Witch (Cadı)",
+     "year": "2024",
+     "match_title": "The Witch (Cadı)",
+     "match_year": "2024",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Witch (2024)",
+       "url": "https://bestsimilar.com/movies/105997-the-witch"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -446878,7 +458473,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not stated",
    "pregnancy_note": "Synopsis does not mention pregnancy.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_note": "Synopsis does not mention children.",
@@ -446897,16 +458493,26 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Carter Cruise: The Love Machine; Alice Tate: The Love Machine; Pepper XO: The Love Machine",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Love Machine (2016)",
+     "url": "https://bestsimilar.com/movies/53554-the-love-machine"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "hypno-sweep-oct9",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "hypno-sweep-oct9:5",
-    "hypnosis-imdb-list-full-oct25:138"
+    "hypnosis-imdb-list-full-oct25:138",
+    "hypnosis-bestsimilar-nov5:5"
    ],
    "index_only": false,
    "local_only": true,
@@ -446974,6 +458580,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:5",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Love Machine (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Love Machine",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Love Machine (2016)",
+       "url": "https://bestsimilar.com/movies/53554-the-love-machine"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -447024,6 +458663,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:5": {
+     "title": "The Love Machine",
+     "year": "2016",
+     "match_title": "The Love Machine",
+     "match_year": "2016",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Love Machine (2016)",
+       "url": "https://bestsimilar.com/movies/53554-the-love-machine"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -447041,6 +458702,9 @@ window.CATALOG = {
    "note": "Adult-themed title; cataloged factually only. 67 min.",
    "pregnancy_outcome": "not stated",
    "pregnancy_note": "Synopsis does not mention pregnancy.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "kids_status": "not stated",
    "kids_note": "Synopsis does not mention children.",
    "kids_together": "not stated",
@@ -447058,20 +458722,101 @@ window.CATALOG = {
     {
      "label": "Letterboxd",
      "url": "https://letterboxd.com/film/insatiable-desires/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Insatiable Desires (2003)",
+     "url": "https://bestsimilar.com/movies/43078-insatiable-desires"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypno-sweep-oct9"
+    "hypno-sweep-oct9",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypno-sweep-oct9:6"
+    "hypno-sweep-oct9:6",
+    "hypnosis-bestsimilar-nov5:11"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypno-sweep-oct9:6",
+    "source": "hypno-sweep-oct9",
+    "label": "Insatiable Desires (2003)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Insatiable Desires",
+    "subtitle": "",
+    "year": "2003",
+    "meta": "Feature film · USA · adult erotic",
+    "summary": "Dr. Karin Clemmons runs group hypnotherapy with patients Tania and Justin to help them explore fantasies; the sessions become increasingly charged.",
+    "character": "",
+    "note": "Adult-themed title; cataloged factually only. 67 min.",
+    "mechanism": "Group hypnotherapy",
+    "confidence_flag": "Medium · TMDB synopsis",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "TMDB",
+      "url": "https://www.themoviedb.org/movie/195665-insatiable-desires"
+     },
+     {
+      "label": "Letterboxd",
+      "url": "https://letterboxd.com/film/insatiable-desires/"
+     }
+    ],
+    "pregnancy_outcome": "not stated",
+    "pregnancy_note": "Synopsis does not mention pregnancy.",
+    "kids_status": "not stated",
+    "kids_note": "Synopsis does not mention children.",
+    "kids_together": "not stated",
+    "pregnant_end": "not stated",
+    "adult": "yes",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:11",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Insatiable Desires (2003)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Insatiable Desires",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Insatiable Desires (2003)",
+       "url": "https://bestsimilar.com/movies/43078-insatiable-desires"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypno-sweep-oct9:6": {
      "title": "Insatiable Desires",
@@ -447106,6 +458851,28 @@ window.CATALOG = {
      "adult": "yes",
      "kids_together": "not stated",
      "pregnant_end": "not stated"
+    },
+    "hypnosis-bestsimilar-nov5:11": {
+     "title": "Insatiable Desires",
+     "year": "2003",
+     "match_title": "Insatiable Desires",
+     "match_year": "2003",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Insatiable Desires (2003)",
+       "url": "https://bestsimilar.com/movies/43078-insatiable-desires"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -453663,7 +465430,8 @@ window.CATALOG = {
    "note": "",
    "tags": [
     "Films Live-Action",
-    "Western Live Action"
+    "Western Live Action",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -453682,20 +465450,103 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Vampires (1998 film)",
      "url": "https://en.wikipedia.org/wiki/Vampires_(1998_film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — An American Vampire Story (1997)",
+     "url": "https://bestsimilar.com/movies/46327-an-american-vampire-story"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:14"
+    "fanwiki-screen-oct14:14",
+    "hypnosis-bestsimilar-nov5:93"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:14",
+    "source": "fanwiki-screen-oct14",
+    "label": "An American Vampire Story (1997)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "An American Vampire Story",
+    "subtitle": "",
+    "year": "1997",
+    "meta": "Film · English",
+    "summary": "Teenager Frankie (Trevor Lissauer), is left in charge of the family home for a few weeks while his parents are vacationing in Europe. After a day of surfing on the beach, Frankie and his best friend Bogie (Danny Hitt) happen upon a group of sexy Bohemian vampires led by Moondoggie (Johnny Venocur) along with his minions Sulka and Katrina (Carmen Electra and Deborah Xavier) and invite them to stay in Frankie's house for a few days in hopes of getting lucky. When Frankie learns that the threesome  Scene: Moondogie hypnotizes Dee Dee. Dee Dee is mesmerized. Moondogie bites Dee Dee. Frankie finds Dee Dee hypnotized. turned into a vampire, Dee Dee threatens Frankie. Moondoggie stops Dee Dee trying to kill Frankie. Moondogie is killed. With Moondoggie's death, Dee Dee is back to normal, with no memories what happened.",
+    "character": "",
+    "note": "",
+    "mechanism": "Brainwashing",
+    "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
+    "categories": [
+     "vampire"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: An American Vampire Story",
+      "url": "https://mentalblock.miraheze.org/wiki/An_American_Vampire_Story"
+     },
+     {
+      "label": "Wikipedia: Vampires (1998 film)",
+      "url": "https://en.wikipedia.org/wiki/Vampires_(1998_film)"
+     }
+    ],
+    "tags": [
+     "Films Live-Action",
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:93",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "An American Vampire Story (1997)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "An American Vampire Story",
+     "subtitle": "",
+     "year": "1997",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — An American Vampire Story (1997)",
+       "url": "https://bestsimilar.com/movies/46327-an-american-vampire-story"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:14": {
      "title": "An American Vampire Story",
@@ -453732,6 +465583,28 @@ window.CATALOG = {
       "Films Live-Action",
       "Western Live Action"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:93": {
+     "title": "An American Vampire Story",
+     "year": "1997",
+     "match_title": "An American Vampire Story",
+     "match_year": "1997",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — An American Vampire Story (1997)",
+       "url": "https://bestsimilar.com/movies/46327-an-american-vampire-story"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -454948,7 +466821,8 @@ window.CATALOG = {
    "note": "",
    "tags": [
     "Films Live-Action",
-    "Western Live Action"
+    "Western Live Action",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -454967,20 +466841,103 @@ window.CATALOG = {
     {
      "label": "IMDb: Black Circle (2018, feature)",
      "url": "https://www.imdb.com/title/tt5721636/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Black Circle (2018)",
+     "url": "https://bestsimilar.com/movies/102704-black-circle"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:26"
+    "fanwiki-screen-oct14:26",
+    "hypnosis-bestsimilar-nov5:38"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:26",
+    "source": "fanwiki-screen-oct14",
+    "label": "Black Circle (2018)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Black Circle",
+    "subtitle": "",
+    "year": "2018",
+    "meta": "Film · Swedish",
+    "summary": "The lives of two sisters change dramatically after being hypnotized by a mystical vinyl record from the 1970s. Scene: The record is played. A volunteer listens to the record. She is hypnotized... ... and falls into a trance. The sisters listen the record. They are hypnotized.",
+    "character": "",
+    "note": "",
+    "mechanism": "Brainwashing, Magical Hypnosis, Possession",
+    "confidence_flag": "Medium · scene from fan wiki; title/year confirmed on IMDb",
+    "categories": [
+     "spirit"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: Black Circle",
+      "url": "https://mentalblock.miraheze.org/wiki/Black_Circle"
+     },
+     {
+      "label": "IMDb: Black Circle (2018, feature)",
+      "url": "https://www.imdb.com/title/tt5721636/"
+     }
+    ],
+    "tags": [
+     "Films Live-Action",
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:38",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Black Circle (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Black Circle",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Black Circle (2018)",
+       "url": "https://bestsimilar.com/movies/102704-black-circle"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:26": {
      "title": "Black Circle",
@@ -455017,6 +466974,28 @@ window.CATALOG = {
       "Films Live-Action",
       "Western Live Action"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:38": {
+     "title": "Black Circle",
+     "year": "2018",
+     "match_title": "Black Circle",
+     "match_year": "2018",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Black Circle (2018)",
+       "url": "https://bestsimilar.com/movies/102704-black-circle"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -455462,7 +467441,8 @@ window.CATALOG = {
    "tags": [
     "Films Live-Action",
     "Western Live Action",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -455485,16 +467465,26 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lois Daine: Captain Kronos Vampire Hunter",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Captain Kronos - Vampire Hunter (1974)",
+     "url": "https://bestsimilar.com/movies/37573-captain-kronos-vampire-hunter"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "fanwiki-screen-oct14",
-    "hypnosis-imdb-list-oct24"
+    "hypnosis-imdb-list-oct24",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "fanwiki-screen-oct14:32",
-    "hypnosis-imdb-list-oct24:10"
+    "hypnosis-imdb-list-oct24:10",
+    "hypnosis-bestsimilar-nov5:58"
    ],
    "index_only": false,
    "local_only": true,
@@ -455568,6 +467558,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:58",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Captain Kronos - Vampire Hunter (1974)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Captain Kronos - Vampire Hunter",
+     "subtitle": "",
+     "year": "1974",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Captain Kronos - Vampire Hunter (1974)",
+       "url": "https://bestsimilar.com/movies/37573-captain-kronos-vampire-hunter"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -455624,6 +467647,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (Wayback snapshot pages 1-2, 24 Oct 2026 PT session); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:58": {
+     "title": "Captain Kronos - Vampire Hunter",
+     "year": "1974",
+     "match_title": "Captain Kronos - Vampire Hunter",
+     "match_year": "1974",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Captain Kronos - Vampire Hunter (1974)",
+       "url": "https://bestsimilar.com/movies/37573-captain-kronos-vampire-hunter"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -465085,7 +477130,8 @@ window.CATALOG = {
    "tags": [
     "Films Live-Action",
     "Western Live Action",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -465108,16 +477154,26 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Charlotte Fountain-Jardim: Natty Knocks",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Natty Knocks (2023)",
+     "url": "https://bestsimilar.com/movies/90885-natty-knocks"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "fanwiki-screen-oct14",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "fanwiki-screen-oct14:121",
-    "hypnosis-imdb-list-full-oct25:421"
+    "hypnosis-imdb-list-full-oct25:421",
+    "hypnosis-bestsimilar-nov5:92"
    ],
    "index_only": false,
    "local_only": true,
@@ -465191,6 +477247,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:92",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Natty knocks (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Natty knocks",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Natty Knocks (2023)",
+       "url": "https://bestsimilar.com/movies/90885-natty-knocks"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -465247,6 +477336,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:92": {
+     "title": "Natty knocks",
+     "year": "2023",
+     "match_title": "Natty knocks",
+     "match_year": "2023",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Natty Knocks (2023)",
+       "url": "https://bestsimilar.com/movies/90885-natty-knocks"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -465342,7 +477453,8 @@ window.CATALOG = {
    "note": "",
    "tags": [
     "Films Live-Action",
-    "Western Live Action"
+    "Western Live Action",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -465361,20 +477473,103 @@ window.CATALOG = {
     {
      "label": "IMDb: Operation Kid Brother (1967, feature)",
      "url": "https://www.imdb.com/title/tt0062078/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Operation Kid Brother (1967)",
+     "url": "https://bestsimilar.com/movies/19637-operation-kid-brother"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:123"
+    "fanwiki-screen-oct14:123",
+    "hypnosis-bestsimilar-nov5:147"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:123",
+    "source": "fanwiki-screen-oct14",
+    "label": "Operation Kid Brother (1967)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Operation Kid Brother",
+    "subtitle": "",
+    "year": "1967",
+    "meta": "Film · language not stated",
+    "summary": "When a legendary British Intelligence (SIS) agent is murdered, fellow agent Miss Maxwell (Lois Maxwell) is sent to find the late spy's girlfriend, Miss Yashuko (Yashuko Yama), who is unwittingly in possession of valuable information. Maxwell discovers that Yashuko is in the care of Dr. Neil Connery, a cosmetic surgeon who uses hypnotism in his practice. Yashuko is kidnapped from a medical conference in Monte Carlo by Maya Rafis (Daniela Bianchi), as part of a plot by Mr. Thayer (Adolfo Celi), co",
+    "character": "",
+    "note": "",
+    "mechanism": "hypnosis / mind control",
+    "confidence_flag": "Medium · scene from fan wiki; title/year confirmed on IMDb",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: Operation Kid Brother",
+      "url": "https://mentalblock.miraheze.org/wiki/Operation_Kid_Brother"
+     },
+     {
+      "label": "IMDb: Operation Kid Brother (1967, feature)",
+      "url": "https://www.imdb.com/title/tt0062078/"
+     }
+    ],
+    "tags": [
+     "Films Live-Action",
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:147",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Operation Kid Brother (1967)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Operation Kid Brother",
+     "subtitle": "",
+     "year": "1967",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Operation Kid Brother (1967)",
+       "url": "https://bestsimilar.com/movies/19637-operation-kid-brother"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:123": {
      "title": "Operation Kid Brother",
@@ -465411,6 +477606,28 @@ window.CATALOG = {
       "Films Live-Action",
       "Western Live Action"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:147": {
+     "title": "Operation Kid Brother",
+     "year": "1967",
+     "match_title": "Operation Kid Brother",
+     "match_year": "1967",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Operation Kid Brother (1967)",
+       "url": "https://bestsimilar.com/movies/19637-operation-kid-brother"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -466043,7 +478260,8 @@ window.CATALOG = {
    "tags": [
     "Films Live-Action",
     "Western Live Action",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -466066,16 +478284,26 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Barbara Crampton: Re-Animator",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Re-Animator (1985)",
+     "url": "https://bestsimilar.com/movies/21108-re-animator"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "fanwiki-screen-oct14",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "fanwiki-screen-oct14:128",
-    "hypnosis-imdb-list-full-oct25:325"
+    "hypnosis-imdb-list-full-oct25:325",
+    "hypnosis-bestsimilar-nov5:49"
    ],
    "index_only": false,
    "local_only": true,
@@ -466149,6 +478377,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:49",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Re-Animator (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Re-Animator",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Re-Animator (1985)",
+       "url": "https://bestsimilar.com/movies/21108-re-animator"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -466205,6 +478466,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:49": {
+     "title": "Re-Animator",
+     "year": "1985",
+     "match_title": "Re-Animator",
+     "match_year": "1985",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Re-Animator (1985)",
+       "url": "https://bestsimilar.com/movies/21108-re-animator"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -466744,7 +479027,8 @@ window.CATALOG = {
     "Films Live-Action",
     "Spanish-language Works",
     "Western Live Action",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -466767,16 +479051,26 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sonia Fuentes: Santo vs. Frankenstein's Daughter",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Santo vs. Frankenstein's Daughter (1972)",
+     "url": "https://bestsimilar.com/movies/48495-santo-vs-frankensteins-daughter"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "fanwiki-screen-oct14",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "fanwiki-screen-oct14:134",
-    "hypnosis-imdb-list-full-oct25:234"
+    "hypnosis-imdb-list-full-oct25:234",
+    "hypnosis-bestsimilar-nov5:61"
    ],
    "index_only": false,
    "local_only": true,
@@ -466852,6 +479146,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:61",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Santo Vs. Frankenstein's Daughter (1972)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Santo Vs. Frankenstein's Daughter",
+     "subtitle": "",
+     "year": "1972",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Santo vs. Frankenstein's Daughter (1972)",
+       "url": "https://bestsimilar.com/movies/48495-santo-vs-frankensteins-daughter"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -466909,6 +479236,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:61": {
+     "title": "Santo Vs. Frankenstein's Daughter",
+     "year": "1972",
+     "match_title": "Santo Vs. Frankenstein's Daughter",
+     "match_year": "1972",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Santo vs. Frankenstein's Daughter (1972)",
+       "url": "https://bestsimilar.com/movies/48495-santo-vs-frankensteins-daughter"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -469272,7 +481621,8 @@ window.CATALOG = {
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
    "note": "",
    "tags": [
-    "Western Live Action"
+    "Western Live Action",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -469292,20 +481642,106 @@ window.CATALOG = {
     {
      "label": "Wikipedia: The Demon Headmaster (1996 TV series)",
      "url": "https://en.wikipedia.org/wiki/The_Demon_Headmaster_(1996_TV_series)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Demon Headmaster (1996)",
+     "url": "https://bestsimilar.com/movies/58896-the-demon-headmaster"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:155"
+    "fanwiki-screen-oct14:155",
+    "hypnosis-bestsimilar-nov5:75"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:155",
+    "source": "fanwiki-screen-oct14",
+    "label": "The Demon Headmaster (2019) · Everystudentastar (Season 1, Episode 1) (1996)",
+    "identifiers": [
+     "subtitle",
+     "year/date",
+     "own title/qualifier"
+    ],
+    "title": "The Demon Headmaster (2019)",
+    "subtitle": "Everystudentastar (Season 1, Episode 1)",
+    "year": "1996",
+    "meta": "TV · English",
+    "summary": "A group of mismatched kids discover their headmaster is using hypnotism to gain ultimate control of their school. Everystudentastar (Season 1, Episode 1): Lizzie and Tyler Warren return to their failing school, Hazelbrook, only to find it's been transformed the table-topping Hazelbrook Academy. How? Under the strict leadership of the mysterious Headmaster and his hypnotic powers. Scene: A hypnotized student from the headmaster's school. Angelica and her mother were are hypnotized by the headmaster. Angelica becomes a brainwashed slave. the Headmaster puts a crowd of protesters in a trance. A woman is mesmerized after receiving an email from the Headmaster. Lizzie falls under the Headmaster's mind control.",
+    "character": "",
+    "note": "",
+    "mechanism": "Brainwashing, Technological Hypnosis, Traditional Hypnosis",
+    "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
+    "categories": [
+     "scifi",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: The Demon Headmaster (2019)",
+      "url": "https://mentalblock.miraheze.org/wiki/The_Demon_Headmaster_(2019)"
+     },
+     {
+      "label": "Wikipedia: The Demon Headmaster (1996 TV series)",
+      "url": "https://en.wikipedia.org/wiki/The_Demon_Headmaster_(1996_TV_series)"
+     }
+    ],
+    "tags": [
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:75",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Demon Headmaster (2019) (1996)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "The Demon Headmaster (2019)",
+     "subtitle": "",
+     "year": "1996",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Demon Headmaster (1996)",
+       "url": "https://bestsimilar.com/movies/58896-the-demon-headmaster"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:155": {
      "title": "The Demon Headmaster (2019)",
@@ -469342,6 +481778,28 @@ window.CATALOG = {
      "tags": [
       "Western Live Action"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:75": {
+     "title": "The Demon Headmaster (2019)",
+     "year": "1996",
+     "match_title": "The Demon Headmaster (2019)",
+     "match_year": "1996",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Demon Headmaster (1996)",
+       "url": "https://bestsimilar.com/movies/58896-the-demon-headmaster"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -471422,7 +483880,8 @@ window.CATALOG = {
    "note": "",
    "tags": [
     "Western Live Action",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -471447,16 +483906,26 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sue Ane Langdon: The Wild Wild West (s1e16); Lorri Scott: The Wild Wild West (s2e27)",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Wild Wild West (1965)",
+     "url": "https://bestsimilar.com/movies/30088-the-wild-wild-west"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "fanwiki-screen-oct14",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "fanwiki-screen-oct14:175",
-    "hypnosis-imdb-list-full-oct25:201"
+    "hypnosis-imdb-list-full-oct25:201",
+    "hypnosis-bestsimilar-nov5:62"
    ],
    "index_only": false,
    "local_only": true,
@@ -471532,6 +484001,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:62",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Wild Wild West (1965–1969)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Wild Wild West",
+     "subtitle": "",
+     "year": "1965–1969",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Wild Wild West (1965)",
+       "url": "https://bestsimilar.com/movies/30088-the-wild-wild-west"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -471589,6 +484091,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:62": {
+     "title": "The Wild Wild West",
+     "year": "1965–1969",
+     "match_title": "The Wild Wild West",
+     "match_year": "1965–1969",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Wild Wild West (1965)",
+       "url": "https://bestsimilar.com/movies/30088-the-wild-wild-west"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -472307,7 +484831,8 @@ window.CATALOG = {
    "tags": [
     "Films Live-Action",
     "Western Live Action",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -472336,18 +484861,28 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amy Seimetz: Upstream Color",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Upstream Color (2013)",
+     "url": "https://bestsimilar.com/movies/6259-upstream-color"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "fanwiki-screen-oct14",
     "streaming-oct15",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "fanwiki-screen-oct14:181",
     "streaming-oct15:6",
-    "hypnosis-imdb-list-full-oct25:194"
+    "hypnosis-imdb-list-full-oct25:194",
+    "hypnosis-bestsimilar-nov5:79"
    ],
    "index_only": false,
    "local_only": true,
@@ -472453,6 +484988,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:79",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Upstream Color (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Upstream Color",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Upstream Color (2013)",
+       "url": "https://bestsimilar.com/movies/6259-upstream-color"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -472537,6 +485105,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:79": {
+     "title": "Upstream Color",
+     "year": "2013",
+     "match_title": "Upstream Color",
+     "match_year": "2013",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Upstream Color (2013)",
+       "url": "https://bestsimilar.com/movies/6259-upstream-color"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -483161,7 +495751,8 @@ window.CATALOG = {
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Not stated.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "unknown",
    "kids_note": "Christine is single (ex-boyfriend Nathan); no children stated.",
@@ -483184,16 +495775,26 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Jamie Lynn Concepcion: Mind Thief; Gia Mora: Mind Thief; Lindsay Seim: Mind Thief; Leslie L. Miller: Mind Thief; Angelique Pretorius: Mind Thief",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Mind Thief (2022)",
+     "url": "https://bestsimilar.com/movies/94004-mind-thief"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "hypnotized-female-oct15",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "hypnotized-female-oct15:5",
-    "hypnosis-imdb-list-full-oct25:436"
+    "hypnosis-imdb-list-full-oct25:436",
+    "hypnosis-bestsimilar-nov5:111"
    ],
    "index_only": false,
    "local_only": true,
@@ -483265,6 +495866,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:111",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Mind Thief (2022)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mind Thief",
+     "subtitle": "",
+     "year": "2022",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Mind Thief (2022)",
+       "url": "https://bestsimilar.com/movies/94004-mind-thief"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -483318,6 +495952,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:111": {
+     "title": "Mind Thief",
+     "year": "2022",
+     "match_title": "Mind Thief",
+     "match_year": "2022",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Mind Thief (2022)",
+       "url": "https://bestsimilar.com/movies/94004-mind-thief"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -485114,6 +497770,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy in the synopses.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "hypnotist": "Psychiatrist Choi In-ho (Shin Ha-kyun)",
    "gain_motive": [
     "psychological manipulation"
@@ -485138,20 +497797,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Anchor (2022 film)",
      "url": "https://en.wikipedia.org/wiki/Anchor_(2022_film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Anchor (2022)",
+     "url": "https://bestsimilar.com/movies/84849-the-anchor"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "kr-cn-hypnosis:5"
+    "kr-cn-hypnosis:5",
+    "hypnosis-bestsimilar-nov5:73"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "kr-cn-hypnosis:5",
+    "source": "kr-cn-hypnosis",
+    "label": "Anchor (앵커) (2022)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Anchor (앵커)",
+    "subtitle": "",
+    "year": "2022",
+    "meta": "Film · South Korea · Korean · dir. Jung Ji-yeon · released 20 Apr 2022",
+    "summary": "Ambitious news anchor Se-ra investigates a caller's murder and meets the victim's psychiatrist, Choi In-ho. He increasingly influences her by confronting her psyche with hypnosis while she is torn between him and her controlling mother.",
+    "character": "Jung Se-ra (Chun Woo-hee)",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "Medium · hypnosis detail from one review",
+    "categories": [
+     "medical",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "MyDramaList: Anchor (synopsis + review noting hypnosis)",
+      "url": "https://mydramalist.com/40459-anchor"
+     },
+     {
+      "label": "Wikipedia: Anchor (2022 film)",
+      "url": "https://en.wikipedia.org/wiki/Anchor_(2022_film)"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy in the synopses.",
+    "hypnotist": "Psychiatrist Choi In-ho (Shin Ha-kyun)",
+    "gain_motive": [
+     "psychological manipulation"
+    ],
+    "method": "Hypnosis in therapy sessions",
+    "kids_status": "no",
+    "kids_note": "Se-ra is unmarried and has no children.",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "single source for the hypnosis detail — MyDramaList user review; Wikipedia plot does not mention hypnosis",
+    "adult": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:73",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Anchor (앵커) (2022)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Anchor (앵커)",
+     "subtitle": "",
+     "year": "2022",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Anchor (2022)",
+       "url": "https://bestsimilar.com/movies/84849-the-anchor"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "kr-cn-hypnosis:5": {
      "title": "Anchor (앵커)",
@@ -485190,6 +497937,28 @@ window.CATALOG = {
      "adult": "no",
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "hypnosis-bestsimilar-nov5:73": {
+     "title": "Anchor (앵커)",
+     "year": "2022",
+     "match_title": "Anchor (앵커)",
+     "match_year": "2022",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Anchor (2022)",
+       "url": "https://bestsimilar.com/movies/84849-the-anchor"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -501446,6 +514215,9 @@ window.CATALOG = {
    "character": "Alex",
    "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
    "note": "The hypnosis is aimed at a male character; the card is for the cult ritual pregnancy.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "hypnotist": "Cult members",
    "gain_motive": [
     "ritual pregnancy"
@@ -501469,20 +514241,105 @@ window.CATALOG = {
     {
      "label": "Culture Crypt review",
      "url": "https://culturecrypt.com/movie-reviews/the-deep-ones-2020"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Deep Ones (2020)",
+     "url": "https://bestsimilar.com/movies/73777-the-deep-ones"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "deep-refresh-oct18:4"
+    "deep-refresh-oct18:4",
+    "hypnosis-bestsimilar-nov5:81"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "deep-refresh-oct18:4",
+    "source": "deep-refresh-oct18",
+    "label": "The Deep Ones (2020)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Deep Ones",
+    "subtitle": "",
+    "year": "2020",
+    "meta": "Film · United States · English · dir. Chad Ferrin",
+    "summary": "A couple rent a seaside house from members of a Lovecraftian cult. The pregnant cult member's husband uses hypnosis on Petri, and the cult draws Alex into a ritual where she is impregnated by Dagon.",
+    "character": "Alex",
+    "note": "The hypnosis is aimed at a male character; the card is for the cult ritual pregnancy.",
+    "mechanism": "",
+    "confidence_flag": "Medium · 2 sources",
+    "categories": [
+     "pregnancy-evil",
+     "cult"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Deep_Ones"
+     },
+     {
+      "label": "Culture Crypt review",
+      "url": "https://culturecrypt.com/movie-reviews/the-deep-ones-2020"
+     }
+    ],
+    "hypnotist": "Cult members",
+    "gain_motive": [
+     "ritual pregnancy"
+    ],
+    "method": "Hypnosis and ritual",
+    "kids_status": "no",
+    "kids_together": "no",
+    "pregnant_end": "yes",
+    "evidence": "Encyclopedia plot + review",
+    "adult": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:81",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Deep Ones (2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Deep Ones",
+     "subtitle": "",
+     "year": "2020",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Deep Ones (2020)",
+       "url": "https://bestsimilar.com/movies/73777-the-deep-ones"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "deep-refresh-oct18:4": {
      "pregnant_end": "yes",
@@ -501518,6 +514375,28 @@ window.CATALOG = {
      "evidence": "Encyclopedia plot + review",
      "confidence_flag": "Medium · 2 sources",
      "note": "The hypnosis is aimed at a male character; the card is for the cult ritual pregnancy."
+    },
+    "hypnosis-bestsimilar-nov5:81": {
+     "title": "The Deep Ones",
+     "year": "2020",
+     "match_title": "The Deep Ones",
+     "match_year": "2020",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Deep Ones (2020)",
+       "url": "https://bestsimilar.com/movies/73777-the-deep-ones"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -502660,7 +515539,8 @@ window.CATALOG = {
    "provenance": "Deep refresh pass 2, 18 Oct 2026 PT (adults only; non-explicit notes)",
    "note": "Loose fit: consensual therapeutic hypnosis by a female hypnotist.",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bestsimilar-hypnosis-6496"
    ],
    "hypnotist": "Jessica (Sophie Guillemin), hypnotist",
    "gain_motive": [
@@ -502681,20 +515561,138 @@ window.CATALOG = {
     {
      "label": "Elements of Madness review",
      "url": "https://elementsofmadness.com/2026/01/29/apf/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — A Private Life (2025) (2025)",
+     "url": "https://bestsimilar.com/movies/108678-a-private-life"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "deep-refresh-oct18:19"
+    "deep-refresh-oct18:19",
+    "hypnosis-bestsimilar-nov5:204",
+    "hypnosis-bestsimilar-nov5:205"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "deep-refresh-oct18:19",
+    "source": "deep-refresh-oct18",
+    "label": "A Private Life (Vie privée) (2025)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "A Private Life (Vie privée)",
+    "subtitle": "",
+    "year": "2025",
+    "meta": "Film · France · French/English · dir. Rebecca Zlotowski · US wide release 16 Jan 2026",
+    "summary": "A psychiatrist, shaken by a patient's death, reluctantly sees the hypnotist Jessica. In a dreamlike recorded session she comes to believe she has a past-life link to the dead woman, and she then investigates the death.",
+    "character": "Lilian Steiner (Jodie Foster)",
+    "note": "Loose fit: consensual therapeutic hypnosis by a female hypnotist.",
+    "mechanism": "",
+    "confidence_flag": "Single source · flag",
+    "categories": [
+     "medical",
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "Elements of Madness review",
+      "url": "https://elementsofmadness.com/2026/01/29/apf/"
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "hypnotist": "Jessica (Sophie Guillemin), hypnotist",
+    "gain_motive": [
+     "therapy"
+    ],
+    "method": "Recorded hypnosis session",
+    "kids_status": "no",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "Review",
+    "adult": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:204",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "A Private Life (Vie privée) (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Private Life (Vie privée)",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Private Life (2025) (2025)",
+       "url": "https://bestsimilar.com/movies/108678-a-private-life"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:205",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "A Private Life (Vie privée) (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Private Life (Vie privée)",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Private Life (2025) (2025)",
+       "url": "https://bestsimilar.com/movies/108678-a-private-life"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "deep-refresh-oct18:19": {
      "pregnant_end": "no",
@@ -502730,6 +515728,50 @@ window.CATALOG = {
      "evidence": "Review",
      "confidence_flag": "Single source · flag",
      "note": "Loose fit: consensual therapeutic hypnosis by a female hypnotist."
+    },
+    "hypnosis-bestsimilar-nov5:204": {
+     "title": "A Private Life (Vie privée)",
+     "year": "2025",
+     "match_title": "A Private Life (Vie privée)",
+     "match_year": "2025",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Private Life (2025) (2025)",
+       "url": "https://bestsimilar.com/movies/108678-a-private-life"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; ambiguous same-year name resolved by plot"
+    },
+    "hypnosis-bestsimilar-nov5:205": {
+     "title": "A Private Life (Vie privée)",
+     "year": "2025",
+     "match_title": "A Private Life (Vie privée)",
+     "match_year": "2025",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Private Life (2025) (2025)",
+       "url": "https://bestsimilar.com/movies/108678-a-private-life"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; ambiguous same-year name linked to both catalog cards"
     }
    }
   },
@@ -502832,6 +515874,9 @@ window.CATALOG = {
    "character": "Gangamma, former queen (Zareena Wahab)",
    "provenance": "Deep refresh pass 2, 18 Oct 2026 PT (adults only; non-explicit notes)",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "hypnotist": "Kanakaraju (Sanjay Dutt)",
    "gain_motive": [
     "royal wealth",
@@ -502858,20 +515903,108 @@ window.CATALOG = {
     {
      "label": "Times Now ending explained",
      "url": "https://www.timesnownews.com/entertainment-news/telugu/the-raja-saab-ending-explained-does-prabhas-end-sanjay-dutts-devilish-hypnotism-article-153422458"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Raja Saab (2026)",
+     "url": "https://bestsimilar.com/movies/110801-the-raja-saab"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "deep-refresh-oct18:21"
+    "deep-refresh-oct18:21",
+    "hypnosis-bestsimilar-nov5:69"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "deep-refresh-oct18:21",
+    "source": "deep-refresh-oct18",
+    "label": "The Raja Saab (2026)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Raja Saab",
+    "subtitle": "",
+    "year": "2026",
+    "meta": "Film · India · Telugu · dir. Maruthi · 9 Jan 2026",
+    "summary": "Kanakaraju (Sanjay Dutt) uses tantric hypnotism to make Queen Gangamma believe her loyal warrior stole the kingdom's wealth, steals it himself and leaves her trapped in a false belief. Decades later her grandson Raja breaks the spell in a haunted mansion.",
+    "character": "Gangamma, former queen (Zareena Wahab)",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "Medium · 2 sources",
+    "categories": [
+     "royal-hypnosis",
+     "tantrik",
+     "india-control"
+    ],
+    "sources": [
+     {
+      "label": "New Indian Express review",
+      "url": "https://www.newindianexpress.com/entertainment/review/2026/Jan/09/telugureview2026jan09the-raja-saab-movie-review-a-tedious-fantasy-that-tests-patience"
+     },
+     {
+      "label": "Times Now ending explained",
+      "url": "https://www.timesnownews.com/entertainment-news/telugu/the-raja-saab-ending-explained-does-prabhas-end-sanjay-dutts-devilish-hypnotism-article-153422458"
+     }
+    ],
+    "hypnotist": "Kanakaraju (Sanjay Dutt)",
+    "gain_motive": [
+     "royal wealth",
+     "revenge"
+    ],
+    "method": "Tantric / black-magic hypnotism",
+    "kids_status": "yes",
+    "kids_note": "She is a grandmother in the present-day story",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "Review + ending explainer",
+    "adult": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:69",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Raja Saab (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Raja Saab",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Raja Saab (2026)",
+       "url": "https://bestsimilar.com/movies/110801-the-raja-saab"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "deep-refresh-oct18:21": {
      "pregnant_end": "no",
@@ -502909,6 +516042,28 @@ window.CATALOG = {
      ],
      "evidence": "Review + ending explainer",
      "confidence_flag": "Medium · 2 sources"
+    },
+    "hypnosis-bestsimilar-nov5:69": {
+     "title": "The Raja Saab",
+     "year": "2026",
+     "match_title": "The Raja Saab",
+     "match_year": "2026",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Raja Saab (2026)",
+       "url": "https://bestsimilar.com/movies/110801-the-raja-saab"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -505766,6 +518921,9 @@ window.CATALOG = {
    "character": "Pregnant sculptor (Nancy McKeon)",
    "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
    "note": "She is hypnotized while pregnant.",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "hypnotist": "A friend (therapeutic); the cult",
    "method": "Hypnosis (countdown induction)",
    "kids_status": "yes",
@@ -505791,20 +518949,107 @@ window.CATALOG = {
     {
      "label": "Deep Trance Now — Hypnosis in the Movies",
      "url": "https://deeptrancenow.com/movies.htm"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Lightning Incident (1991)",
+     "url": "https://bestsimilar.com/movies/47641-the-lightning-incident"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "deep-refresh-oct18:61"
+    "deep-refresh-oct18:61",
+    "hypnosis-bestsimilar-nov5:107"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "deep-refresh-oct18:61",
+    "source": "deep-refresh-oct18",
+    "label": "The Lightning Incident (Lightning Field) (1991)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Lightning Incident (Lightning Field)",
+    "subtitle": "",
+    "year": "1991",
+    "meta": "TV film · USA · USA Network World Premiere Movie",
+    "summary": "A pregnant woman suffering nightmares is hypnotized by a friend with a countdown induction and is entranced again later. A devil-worshipping cult kidnaps her baby, and she uses newly found psychic abilities to track them.",
+    "character": "Pregnant sculptor (Nancy McKeon)",
+    "note": "She is hypnotized while pregnant.",
+    "mechanism": "",
+    "confidence_flag": "High · 3 sources",
+    "categories": [
+     "adult-hypnosis",
+     "pregnancy-evil",
+     "cult"
+    ],
+    "sources": [
+     {
+      "label": "Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com/m/lightning_incident"
+     },
+     {
+      "label": "Made for TV Mayhem",
+      "url": "http://madefortvmayhem.blogspot.com/2014/11/the-usa-world-premiere-movie-project.html"
+     },
+     {
+      "label": "Deep Trance Now — Hypnosis in the Movies",
+      "url": "https://deeptrancenow.com/movies.htm"
+     }
+    ],
+    "hypnotist": "A friend (therapeutic); the cult",
+    "method": "Hypnosis (countdown induction)",
+    "kids_status": "yes",
+    "kids_together": "no",
+    "pregnant_end": "yes",
+    "evidence": "Listing + blog + hypnosis-film guide",
+    "adult": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:107",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Lightning Incident (Lightning Field) (1991)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Lightning Incident (Lightning Field)",
+     "subtitle": "",
+     "year": "1991",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Lightning Incident (1991)",
+       "url": "https://bestsimilar.com/movies/47641-the-lightning-incident"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "deep-refresh-oct18:61": {
      "pregnant_end": "yes",
@@ -505842,6 +519087,28 @@ window.CATALOG = {
      "evidence": "Listing + blog + hypnosis-film guide",
      "confidence_flag": "High · 3 sources",
      "note": "She is hypnotized while pregnant."
+    },
+    "hypnosis-bestsimilar-nov5:107": {
+     "title": "The Lightning Incident (Lightning Field)",
+     "year": "1991",
+     "match_title": "The Lightning Incident (Lightning Field)",
+     "match_year": "1991",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Lightning Incident (1991)",
+       "url": "https://bestsimilar.com/movies/47641-the-lightning-incident"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -515051,7 +528318,8 @@ window.CATALOG = {
    "note": "",
    "pregnancy_note": "no pregnancy in the plot summary",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -515072,20 +528340,105 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — On Her Majesty's Secret Service (1969)",
+     "url": "https://bestsimilar.com/movies/19680-on-her-majestys-secret-service"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-oct24"
+    "hypnosis-imdb-list-oct24",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-oct24:1"
+    "hypnosis-imdb-list-oct24:1",
+    "hypnosis-bestsimilar-nov5:135"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-oct24:1",
+    "source": "hypnosis-imdb-list-oct24",
+    "label": "On Her Majesty's Secret Service (1969)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "On Her Majesty's Secret Service",
+    "subtitle": "",
+    "year": "1969",
+    "meta": "United Kingdom · English · James Bond film",
+    "summary": "Blofeld runs an allergy clinic in the Swiss Alps where twelve young women are treated for allergies and phobias. Bond discovers that at night they are put into a hypnotic sleep while subliminal audio instructions are implanted, brainwashing them to spread a biological agent worldwide.",
+    "character": "Blofeld's twelve 'angels of death' (incl. Ruby Bartlett, played by Angela Scoular)",
+    "note": "",
+    "mechanism": "hypnotic sleep + subliminal audio instructions (brainwashing)",
+    "confidence_flag": "high for the hypnosis/mind-control event (IMDb list + Wikipedia plot); marital and kids status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052)",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)"
+     }
+    ],
+    "pregnancy_note": "no pregnancy in the plot summary",
+    "tags": [
+     "imdb-list-ls099930129"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "no",
+    "pregnant_end_note": "no pregnancy in the plot summary",
+    "evidence": "IMDb list entries (Angela Scoular, Mona Chong, Helena Ronee, Catherine Schell, Sally Sheridan) + Wikipedia plot",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:135",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "On Her Majesty's Secret Service (1969)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "On Her Majesty's Secret Service",
+     "subtitle": "",
+     "year": "1969",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — On Her Majesty's Secret Service (1969)",
+       "url": "https://bestsimilar.com/movies/19680-on-her-majestys-secret-service"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-oct24:1": {
      "title": "On Her Majesty's Secret Service",
@@ -515121,6 +528474,28 @@ window.CATALOG = {
      "tags": [
       "imdb-list-ls099930129"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:135": {
+     "title": "On Her Majesty's Secret Service",
+     "year": "1969",
+     "match_title": "On Her Majesty's Secret Service",
+     "match_year": "1969",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — On Her Majesty's Secret Service (1969)",
+       "url": "https://bestsimilar.com/movies/19680-on-her-majestys-secret-service"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -515226,7 +528601,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -515243,20 +528619,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/A_Private_Life"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — A Private Life (2025) (2025)",
+     "url": "https://bestsimilar.com/movies/108678-a-private-life"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:1"
+    "hypnosis-deep-oct25:1",
+    "hypnosis-bestsimilar-nov5:206"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:1",
+    "source": "hypnosis-deep-oct25",
+    "label": "A Private Life (2025)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "A Private Life",
+    "subtitle": "",
+    "year": "2025",
+    "meta": "Wikipedia en · movie",
+    "summary": "Therapist Lilian, fed up with her tears, visits the hypnotist Jessica, who leads her through a surreal hypnotherapy session.",
+    "character": "Lilian (therapist)",
+    "note": "",
+    "mechanism": "hypnotherapy session by hypnotist Jessica",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "medical"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/A_Private_Life"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"A Private Life\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:206",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "A Private Life (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Private Life",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Private Life (2025) (2025)",
+       "url": "https://bestsimilar.com/movies/108678-a-private-life"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:1": {
      "title": "A Private Life",
@@ -515289,6 +528747,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"A Private Life\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:206": {
+     "title": "A Private Life",
+     "year": "2025",
+     "match_title": "A Private Life",
+     "match_year": "2025",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Private Life (2025) (2025)",
+       "url": "https://bestsimilar.com/movies/108678-a-private-life"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; ambiguous same-year name linked to both catalog cards"
     }
    }
   },
@@ -516607,7 +530087,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -516624,20 +530105,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/Inland_Empire_(film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Inland Empire (2006)",
+     "url": "https://bestsimilar.com/movies/15824-inland-empire"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:18"
+    "hypnosis-deep-oct25:18",
+    "hypnosis-bestsimilar-nov5:125"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:18",
+    "source": "hypnosis-deep-oct25",
+    "label": "Inland Empire (2006)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Inland Empire",
+    "subtitle": "",
+    "year": "2006",
+    "meta": "Wikipedia en · movie",
+    "summary": "A woman tells a policeman she was hypnotised by the Phantom to kill someone.",
+    "character": "Hollywood woman",
+    "note": "",
+    "mechanism": "hypnosis by the Phantom",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/Inland_Empire_(film)"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"Inland Empire (film)\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:125",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Inland Empire (2006)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Inland Empire",
+     "subtitle": "",
+     "year": "2006",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Inland Empire (2006)",
+       "url": "https://bestsimilar.com/movies/15824-inland-empire"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:18": {
      "title": "Inland Empire",
@@ -516670,6 +530233,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"Inland Empire (film)\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:125": {
+     "title": "Inland Empire",
+     "year": "2006",
+     "match_title": "Inland Empire",
+     "match_year": "2006",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Inland Empire (2006)",
+       "url": "https://bestsimilar.com/movies/15824-inland-empire"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -518887,7 +532472,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -518904,20 +532490,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/Till_Human_Voices_Wake_Us_(film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Till Human Voices Wake Us (2002)",
+     "url": "https://bestsimilar.com/movies/24114-till-human-voices-wake-us"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:47"
+    "hypnosis-deep-oct25:47",
+    "hypnosis-bestsimilar-nov5:63"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:47",
+    "source": "hypnosis-deep-oct25",
+    "label": "Till Human Voices Wake Us (2002)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Till Human Voices Wake Us",
+    "subtitle": "",
+    "year": "2002",
+    "meta": "Wikipedia en · movie",
+    "summary": "Sam hypnotises a woman, who describes being pulled down into cold water.",
+    "character": "a woman patient",
+    "note": "",
+    "mechanism": "hypnosis by Sam",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/Till_Human_Voices_Wake_Us_(film)"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"Till Human Voices Wake Us (film)\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:63",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Till Human Voices Wake Us (2002)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Till Human Voices Wake Us",
+     "subtitle": "",
+     "year": "2002",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Till Human Voices Wake Us (2002)",
+       "url": "https://bestsimilar.com/movies/24114-till-human-voices-wake-us"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:47": {
      "title": "Till Human Voices Wake Us",
@@ -518950,6 +532618,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"Till Human Voices Wake Us (film)\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:63": {
+     "title": "Till Human Voices Wake Us",
+     "year": "2002",
+     "match_title": "Till Human Voices Wake Us",
+     "match_year": "2002",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Till Human Voices Wake Us (2002)",
+       "url": "https://bestsimilar.com/movies/24114-till-human-voices-wake-us"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -518968,7 +532658,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -518985,20 +532676,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/Goke,_Body_Snatcher_from_Hell"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Goke, Body Snatcher from Hell (1968)",
+     "url": "https://bestsimilar.com/movies/32334-goke-body-snatcher-from-hell"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:48"
+    "hypnosis-deep-oct25:48",
+    "hypnosis-bestsimilar-nov5:90"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:48",
+    "source": "hypnosis-deep-oct25",
+    "label": "Goke, Body Snatcher from Hell (1968)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Goke, Body Snatcher from Hell",
+    "subtitle": "",
+    "year": "1968",
+    "meta": "Wikipedia en · movie",
+    "summary": "Momotake hypnotises her to recount the events in the jungle.",
+    "character": "female survivor",
+    "note": "",
+    "mechanism": "hypnosis by Momotake",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/Goke,_Body_Snatcher_from_Hell"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"Goke, Body Snatcher from Hell\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:90",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Goke, Body Snatcher from Hell (1968)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Goke, Body Snatcher from Hell",
+     "subtitle": "",
+     "year": "1968",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Goke, Body Snatcher from Hell (1968)",
+       "url": "https://bestsimilar.com/movies/32334-goke-body-snatcher-from-hell"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:48": {
      "title": "Goke, Body Snatcher from Hell",
@@ -519031,6 +532804,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"Goke, Body Snatcher from Hell\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:90": {
+     "title": "Goke, Body Snatcher from Hell",
+     "year": "1968",
+     "match_title": "Goke, Body Snatcher from Hell",
+     "match_year": "1968",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Goke, Body Snatcher from Hell (1968)",
+       "url": "https://bestsimilar.com/movies/32334-goke-body-snatcher-from-hell"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -519049,7 +532844,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -519066,20 +532862,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/Miss_Leslie's_Dolls"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Miss Leslie's Dolls (1972)",
+     "url": "https://bestsimilar.com/movies/48044-miss-leslies-dolls"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:49"
+    "hypnosis-deep-oct25:49",
+    "hypnosis-bestsimilar-nov5:105"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:49",
+    "source": "hypnosis-deep-oct25",
+    "label": "Miss Leslie's Dolls (1972)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Miss Leslie's Dolls",
+    "subtitle": "",
+    "year": "1972",
+    "meta": "Wikipedia en · movie",
+    "summary": "Leslie attacks Martha and hypnotises her with her pendulum necklace.",
+    "character": "Martha",
+    "note": "",
+    "mechanism": "hypnosis by Leslie's pendulum necklace",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/Miss_Leslie's_Dolls"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"Miss Leslie's Dolls\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:105",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Miss Leslie's Dolls (1972)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Miss Leslie's Dolls",
+     "subtitle": "",
+     "year": "1972",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Miss Leslie's Dolls (1972)",
+       "url": "https://bestsimilar.com/movies/48044-miss-leslies-dolls"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:49": {
      "title": "Miss Leslie's Dolls",
@@ -519112,6 +532990,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"Miss Leslie's Dolls\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:105": {
+     "title": "Miss Leslie's Dolls",
+     "year": "1972",
+     "match_title": "Miss Leslie's Dolls",
+     "match_year": "1972",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Miss Leslie's Dolls (1972)",
+       "url": "https://bestsimilar.com/movies/48044-miss-leslies-dolls"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -519373,7 +533273,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -519390,20 +533291,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/Divorce_American_Style"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Divorce American Style (1967)",
+     "url": "https://bestsimilar.com/movies/34007-divorce-american-style"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:53"
+    "hypnosis-deep-oct25:53",
+    "hypnosis-bestsimilar-nov5:155"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:53",
+    "source": "hypnosis-deep-oct25",
+    "label": "Divorce American Style (1967)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Divorce American Style",
+    "subtitle": "",
+    "year": "1967",
+    "meta": "Wikipedia en · movie",
+    "summary": "A real-life hypnotist pulls Barbara from the nightclub audience and puts her into a trance.",
+    "character": "Barbara",
+    "note": "",
+    "mechanism": "stage hypnotist",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/Divorce_American_Style"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"Divorce American Style\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:155",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Divorce American Style (1967)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Divorce American Style",
+     "subtitle": "",
+     "year": "1967",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Divorce American Style (1967)",
+       "url": "https://bestsimilar.com/movies/34007-divorce-american-style"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:53": {
      "title": "Divorce American Style",
@@ -519436,6 +533419,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"Divorce American Style\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:155": {
+     "title": "Divorce American Style",
+     "year": "1967",
+     "match_title": "Divorce American Style",
+     "match_year": "1967",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Divorce American Style (1967)",
+       "url": "https://bestsimilar.com/movies/34007-divorce-american-style"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -520116,7 +534121,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -520133,20 +534139,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/Batman:_Hush_(film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Batman: Hush (2019)",
+     "url": "https://bestsimilar.com/movies/65175-batman-hush"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:62"
+    "hypnosis-deep-oct25:62",
+    "hypnosis-bestsimilar-nov5:87"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:62",
+    "source": "hypnosis-deep-oct25",
+    "label": "Batman: Hush (2019)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Batman: Hush",
+    "subtitle": "",
+    "year": "2019",
+    "meta": "Wikipedia en · movie",
+    "summary": "Catwoman delivers the ransom to Poison Ivy, who has been controlling her through hypnotism.",
+    "character": "Catwoman",
+    "note": "",
+    "mechanism": "hypnosis by Poison Ivy",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/Batman:_Hush_(film)"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"Batman: Hush (film)\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:87",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Batman: Hush (2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Batman: Hush",
+     "subtitle": "",
+     "year": "2019",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Batman: Hush (2019)",
+       "url": "https://bestsimilar.com/movies/65175-batman-hush"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:62": {
      "title": "Batman: Hush",
@@ -520179,6 +534267,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"Batman: Hush (film)\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:87": {
+     "title": "Batman: Hush",
+     "year": "2019",
+     "match_title": "Batman: Hush",
+     "match_year": "2019",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Batman: Hush (2019)",
+       "url": "https://bestsimilar.com/movies/65175-batman-hush"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -521429,7 +535539,8 @@ window.CATALOG = {
    "tags": [
     "deep-oct25",
     "wikipedia-plot",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -521450,16 +535561,26 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julia Riedler: Luz; Luana Velis: Luz",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Luz (2018)",
+     "url": "https://bestsimilar.com/movies/64312-luz"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "hypnosis-deep-oct25",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
     "hypnosis-deep-oct25:77",
-    "hypnosis-imdb-list-full-oct25:482"
+    "hypnosis-imdb-list-full-oct25:482",
+    "hypnosis-bestsimilar-nov5:3"
    ],
    "index_only": false,
    "local_only": true,
@@ -521532,6 +535653,39 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-bestsimilar-nov5:3",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Luz (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Luz",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Luz (2018)",
+       "url": "https://bestsimilar.com/movies/64312-luz"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -521584,6 +535738,28 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-bestsimilar-nov5:3": {
+     "title": "Luz",
+     "year": "2018",
+     "match_title": "Luz",
+     "match_year": "2018",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Luz (2018)",
+       "url": "https://bestsimilar.com/movies/64312-luz"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -521602,7 +535778,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -521619,20 +535796,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/Sorority_House_Massacre"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Sorority House Massacre (1986)",
+     "url": "https://bestsimilar.com/movies/35256-sorority-house-massacre"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:78"
+    "hypnosis-deep-oct25:78",
+    "hypnosis-bestsimilar-nov5:118"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:78",
+    "source": "hypnosis-deep-oct25",
+    "label": "Sorority House Massacre (1986)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Sorority House Massacre",
+    "subtitle": "",
+    "year": "1986",
+    "meta": "Wikipedia en · movie",
+    "summary": "Linda hypnotises Beth, who then recalls Bobby attacking her.",
+    "character": "Beth",
+    "note": "",
+    "mechanism": "hypnosis by Linda",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/Sorority_House_Massacre"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"Sorority House Massacre\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:118",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Sorority House Massacre (1986)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sorority House Massacre",
+     "subtitle": "",
+     "year": "1986",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Sorority House Massacre (1986)",
+       "url": "https://bestsimilar.com/movies/35256-sorority-house-massacre"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:78": {
      "title": "Sorority House Massacre",
@@ -521665,6 +535924,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"Sorority House Massacre\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:118": {
+     "title": "Sorority House Massacre",
+     "year": "1986",
+     "match_title": "Sorority House Massacre",
+     "match_year": "1986",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Sorority House Massacre (1986)",
+       "url": "https://bestsimilar.com/movies/35256-sorority-house-massacre"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -521926,7 +536207,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -521943,20 +536225,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/Splitz"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Splitz (1982)",
+     "url": "https://bestsimilar.com/movies/51658-splitz"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:82"
+    "hypnosis-deep-oct25:82",
+    "hypnosis-bestsimilar-nov5:57"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:82",
+    "source": "hypnosis-deep-oct25",
+    "label": "Splitz (1982)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Splitz",
+    "subtitle": "",
+    "year": "1982",
+    "meta": "Wikipedia en · movie",
+    "summary": "The school dean is hypnotised, rips open her dress and sings a bawdy tune as the opening act.",
+    "character": "Dean Hunta",
+    "note": "",
+    "mechanism": "hypnosis",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/Splitz"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"Splitz\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:57",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Splitz (1982)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Splitz",
+     "subtitle": "",
+     "year": "1982",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Splitz (1982)",
+       "url": "https://bestsimilar.com/movies/51658-splitz"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:82": {
      "title": "Splitz",
@@ -521989,6 +536353,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"Splitz\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:57": {
+     "title": "Splitz",
+     "year": "1982",
+     "match_title": "Splitz",
+     "match_year": "1982",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Splitz (1982)",
+       "url": "https://bestsimilar.com/movies/51658-splitz"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -523477,7 +537863,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -523494,20 +537881,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/A_Killing_in_a_Small_Town"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — A Killing in a Small Town (1990)",
+     "url": "https://bestsimilar.com/movies/16629-a-killing-in-a-small-town"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:100"
+    "hypnosis-deep-oct25:100",
+    "hypnosis-bestsimilar-nov5:171"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:100",
+    "source": "hypnosis-deep-oct25",
+    "label": "A Killing in a Small Town (1990)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "A Killing in a Small Town",
+    "subtitle": "",
+    "year": "1990",
+    "meta": "Wikipedia en · tv",
+    "summary": "The lawyer has Candy undergo hypnosis to uncover how she calmly resumed her daily life after the killing.",
+    "character": "Candy",
+    "note": "",
+    "mechanism": "hypnosis for the defence",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/A_Killing_in_a_Small_Town"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"A Killing in a Small Town\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:171",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "A Killing in a Small Town (1990)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Killing in a Small Town",
+     "subtitle": "",
+     "year": "1990",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Killing in a Small Town (1990)",
+       "url": "https://bestsimilar.com/movies/16629-a-killing-in-a-small-town"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:100": {
      "title": "A Killing in a Small Town",
@@ -523540,6 +538009,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"A Killing in a Small Town\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:171": {
+     "title": "A Killing in a Small Town",
+     "year": "1990",
+     "match_title": "A Killing in a Small Town",
+     "match_year": "1990",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — A Killing in a Small Town (1990)",
+       "url": "https://bestsimilar.com/movies/16629-a-killing-in-a-small-town"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -523639,7 +538130,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -523656,20 +538148,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/Santa_Sangre"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Santa Sangre (1989)",
+     "url": "https://bestsimilar.com/movies/21846-santa-sangre"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:102"
+    "hypnosis-deep-oct25:102",
+    "hypnosis-bestsimilar-nov5:52"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:102",
+    "source": "hypnosis-deep-oct25",
+    "label": "Santa Sangre (1989)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Santa Sangre",
+    "subtitle": "",
+    "year": "1989",
+    "meta": "Wikipedia en · movie",
+    "summary": "Orgo calms Concha through hypnosis before raping her.",
+    "character": "Concha",
+    "note": "",
+    "mechanism": "hypnosis by Orgo",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/Santa_Sangre"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"Santa Sangre\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:52",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Santa Sangre (1989)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Santa Sangre",
+     "subtitle": "",
+     "year": "1989",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Santa Sangre (1989)",
+       "url": "https://bestsimilar.com/movies/21846-santa-sangre"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:102": {
      "title": "Santa Sangre",
@@ -523702,6 +538276,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"Santa Sangre\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:52": {
+     "title": "Santa Sangre",
+     "year": "1989",
+     "match_title": "Santa Sangre",
+     "match_year": "1989",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Santa Sangre (1989)",
+       "url": "https://bestsimilar.com/movies/21846-santa-sangre"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -523720,7 +538316,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -523737,20 +538334,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/Face_of_the_Screaming_Werewolf"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Face of the Screaming Werewolf (1964)",
+     "url": "https://bestsimilar.com/movies/46879-face-of-the-screaming-werewolf"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:103"
+    "hypnosis-deep-oct25:103",
+    "hypnosis-bestsimilar-nov5:34"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:103",
+    "source": "hypnosis-deep-oct25",
+    "label": "Face of the Screaming Werewolf (1965)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Face of the Screaming Werewolf",
+    "subtitle": "",
+    "year": "1965",
+    "meta": "Wikipedia en · movie",
+    "summary": "A psychic woman is regressed to a former life via hypnosis and leads archaeologists into an Aztec pyramid.",
+    "character": "Ann Taylor",
+    "note": "",
+    "mechanism": "hypnotic regression",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "medical"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/Face_of_the_Screaming_Werewolf"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"Face of the Screaming Werewolf\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:34",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Face of the Screaming Werewolf (1965)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Face of the Screaming Werewolf",
+     "subtitle": "",
+     "year": "1965",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Face of the Screaming Werewolf (1964)",
+       "url": "https://bestsimilar.com/movies/46879-face-of-the-screaming-werewolf"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:103": {
      "title": "Face of the Screaming Werewolf",
@@ -523783,6 +538462,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"Face of the Screaming Werewolf\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:34": {
+     "title": "Face of the Screaming Werewolf",
+     "year": "1965",
+     "match_title": "Face of the Screaming Werewolf",
+     "match_year": "1965",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Face of the Screaming Werewolf (1964)",
+       "url": "https://bestsimilar.com/movies/46879-face-of-the-screaming-werewolf"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -526834,7 +541535,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -526851,20 +541553,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia (de) — plot summary",
      "url": "https://de.wikipedia.org/wiki/Die_nackte_Kanone"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Naked Gun: From the Files of Police Squad! (1988)",
+     "url": "https://bestsimilar.com/movies/19006-the-naked-gun-from-the-files-of-police-squad"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25b"
+    "hypnosis-deep-oct25b",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25b:17"
+    "hypnosis-deep-oct25b:17",
+    "hypnosis-bestsimilar-nov5:51"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25b:17",
+    "source": "hypnosis-deep-oct25b",
+    "label": "The Naked Gun: From the Files of Police Squad! (1988)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Naked Gun: From the Files of Police Squad!",
+    "subtitle": "",
+    "year": "1988",
+    "meta": "Wikipedia de · movie",
+    "summary": "Hypnotised, Jane aims a gun at Drebin to kill him, but he manages to wake her from the hypnosis.",
+    "character": "Jane Spencer",
+    "note": "",
+    "mechanism": "hypnosis by Ludwig",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia (de) — plot summary",
+      "url": "https://de.wikipedia.org/wiki/Die_nackte_Kanone"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (de edition, page \"Die nackte Kanone\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:51",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Naked Gun: From the Files of Police Squad! (1988)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Naked Gun: From the Files of Police Squad!",
+     "subtitle": "",
+     "year": "1988",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Naked Gun: From the Files of Police Squad! (1988)",
+       "url": "https://bestsimilar.com/movies/19006-the-naked-gun-from-the-files-of-police-squad"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25b:17": {
      "title": "The Naked Gun: From the Files of Police Squad!",
@@ -526897,6 +541681,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (de edition, page \"Die nackte Kanone\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:51": {
+     "title": "The Naked Gun: From the Files of Police Squad!",
+     "year": "1988",
+     "match_title": "The Naked Gun: From the Files of Police Squad!",
+     "match_year": "1988",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Naked Gun: From the Files of Police Squad! (1988)",
+       "url": "https://bestsimilar.com/movies/19006-the-naked-gun-from-the-files-of-police-squad"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -526915,7 +541721,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -526932,20 +541739,102 @@ window.CATALOG = {
     {
      "label": "Wikipedia (de) — plot summary",
      "url": "https://de.wikipedia.org/wiki/Doctor_Sleep_(Spielfilm)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Close Your Eyes (2002)",
+     "url": "https://bestsimilar.com/movies/12264-close-your-eyes"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25b"
+    "hypnosis-deep-oct25b",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-deep-oct25b:18"
+    "hypnosis-deep-oct25b:18",
+    "hypnosis-bestsimilar-nov5:44"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25b:18",
+    "source": "hypnosis-deep-oct25b",
+    "label": "Close Your Eyes (Hypnotic) (2002)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Close Your Eyes (Hypnotic)",
+    "subtitle": "",
+    "year": "2002",
+    "meta": "Wikipedia de · movie",
+    "summary": "The hypnotist Strother notices the trapped Heather, hypnotises her and she is able to break free and help him.",
+    "character": "Heather",
+    "note": "",
+    "mechanism": "hypnosis by the hypnotist Strother",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia (de) — plot summary",
+      "url": "https://de.wikipedia.org/wiki/Doctor_Sleep_(Spielfilm)"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (de edition, page \"Doctor Sleep (Spielfilm)\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:44",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Close Your Eyes (Hypnotic) (2002)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Close Your Eyes (Hypnotic)",
+     "subtitle": "",
+     "year": "2002",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Close Your Eyes (2002)",
+       "url": "https://bestsimilar.com/movies/12264-close-your-eyes"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25b:18": {
      "title": "Close Your Eyes (Hypnotic)",
@@ -526978,6 +541867,28 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (de edition, page \"Doctor Sleep (Spielfilm)\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "hypnosis-bestsimilar-nov5:44": {
+     "title": "Close Your Eyes (Hypnotic)",
+     "year": "2002",
+     "match_title": "Close Your Eyes (Hypnotic)",
+     "match_year": "2002",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Close Your Eyes (2002)",
+       "url": "https://bestsimilar.com/movies/12264-close-your-eyes"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -534812,7 +549723,8 @@ window.CATALOG = {
    "tags": [
     "imdb-list-ls099930129",
     "imdb-list-full-oct25",
-    "imdb-list-only"
+    "imdb-list-only",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -534834,20 +549746,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Psycho Beach Party",
      "url": "https://en.wikipedia.org/wiki/Psycho_Beach_Party"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Psycho Beach Party (2000)",
+     "url": "https://bestsimilar.com/movies/20816-psycho-beach-party"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:3"
+    "hypnosis-imdb-list-full-oct25:3",
+    "hypnosis-bestsimilar-nov5:43"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:3",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "Psycho Beach Party (2000)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Psycho Beach Party",
+    "subtitle": "",
+    "year": "2000",
+    "meta": "2000 comedy horror film · from Wikipedia first sentence",
+    "summary": "IMDb list records Lauren Ambrose as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+    "character": "Lauren Ambrose (character names not given on the list)",
+    "note": "",
+    "mechanism": "listed by IMDb list (type not verified)",
+    "confidence_flag": "low: IMDb list only, plot not verified",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lauren Ambrose: Psycho Beach Party",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: Psycho Beach Party",
+      "url": "https://en.wikipedia.org/wiki/Psycho_Beach_Party"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25",
+     "imdb-list-only"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+    "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:43",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Psycho Beach Party (2000)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Psycho Beach Party",
+     "subtitle": "",
+     "year": "2000",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Psycho Beach Party (2000)",
+       "url": "https://bestsimilar.com/movies/20816-psycho-beach-party"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:3": {
      "title": "Psycho Beach Party",
@@ -534886,6 +549886,28 @@ window.CATALOG = {
       "imdb-list-full-oct25",
       "imdb-list-only"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:43": {
+     "title": "Psycho Beach Party",
+     "year": "2000",
+     "match_title": "Psycho Beach Party",
+     "match_year": "2000",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Psycho Beach Party (2000)",
+       "url": "https://bestsimilar.com/movies/20816-psycho-beach-party"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -535277,7 +550299,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the sources used",
    "tags": [
     "imdb-list-ls099930129",
-    "imdb-list-full-oct25"
+    "imdb-list-full-oct25",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -535301,20 +550324,109 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Terror Toons",
      "url": "https://en.wikipedia.org/wiki/Terror_Toons"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Terror Toons (2002)",
+     "url": "https://bestsimilar.com/movies/23893-terror-toons"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:8"
+    "hypnosis-imdb-list-full-oct25:8",
+    "hypnosis-bestsimilar-nov5:119"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:8",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "Terror Toons (2002)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Terror Toons",
+    "subtitle": "",
+    "year": "2002",
+    "meta": "2002 American comedy horror film · from Wikipedia first sentence",
+    "summary": "IMDb list records Beverly Lynne, Lizzy Borden as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (matches her character)): \"The two rip Candy's spine out, behead her friend Tommy when he drops by, dismember a pizza delivery man with a giant pizza cutter, and do a hypnotic disco dance number that causes Eddie to vomit up his own innards.\"",
+    "character": "Beverly Lynne, Lizzy Borden (character names not given on the list)",
+    "note": "",
+    "mechanism": "hypnosis / trance",
+    "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+    "categories": [
+     "occult",
+     "tech",
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lizzy Borden: Terror Toons; Beverly Lynne: Terror Toons",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: Terror Toons",
+      "url": "https://en.wikipedia.org/wiki/Terror_Toons"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry + Wikipedia plot (matches her character) passage (hypnotic)",
+    "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is hypnosis / trance, so check whether it is hypnosis proper.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:119",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Terror Toons (2002)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Terror Toons",
+     "subtitle": "",
+     "year": "2002",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Terror Toons (2002)",
+       "url": "https://bestsimilar.com/movies/23893-terror-toons"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:8": {
      "title": "Terror Toons",
@@ -535354,6 +550466,28 @@ window.CATALOG = {
       "imdb-list-ls099930129",
       "imdb-list-full-oct25"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:119": {
+     "title": "Terror Toons",
+     "year": "2002",
+     "match_title": "Terror Toons",
+     "match_year": "2002",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Terror Toons (2002)",
+       "url": "https://bestsimilar.com/movies/23893-terror-toons"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -536870,7 +552004,8 @@ window.CATALOG = {
    "tags": [
     "imdb-list-ls099930129",
     "imdb-list-full-oct25",
-    "imdb-list-only"
+    "imdb-list-only",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -536892,20 +552027,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Never Cry Werewolf",
      "url": "https://en.wikipedia.org/wiki/Never_Cry_Werewolf"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Never Cry Werewolf (2008)",
+     "url": "https://bestsimilar.com/movies/19144-never-cry-werewolf"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:25"
+    "hypnosis-imdb-list-full-oct25:25",
+    "hypnosis-bestsimilar-nov5:120"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:25",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "Never Cry Werewolf (2008)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Never Cry Werewolf",
+    "subtitle": "",
+    "year": "2008",
+    "meta": "Canadian television film · from Wikipedia first sentence",
+    "summary": "IMDb list records Nahanni Johnstone, Nina Dobrev as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+    "character": "Nahanni Johnstone, Nina Dobrev (character names not given on the list)",
+    "note": "",
+    "mechanism": "listed by IMDb list (type not verified)",
+    "confidence_flag": "low: IMDb list only, plot not verified",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Nina Dobrev: Never Cry Werewolf; Nahanni Johnstone: Never Cry Werewolf",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: Never Cry Werewolf",
+      "url": "https://en.wikipedia.org/wiki/Never_Cry_Werewolf"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25",
+     "imdb-list-only"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+    "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Age unverified (birth year not given) for: Nahanni Johnstone; adult-only judgement based on the production's audience.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:120",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Never Cry Werewolf (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Never Cry Werewolf",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Never Cry Werewolf (2008)",
+       "url": "https://bestsimilar.com/movies/19144-never-cry-werewolf"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:25": {
      "title": "Never Cry Werewolf",
@@ -536944,6 +552167,28 @@ window.CATALOG = {
       "imdb-list-full-oct25",
       "imdb-list-only"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:120": {
+     "title": "Never Cry Werewolf",
+     "year": "2008",
+     "match_title": "Never Cry Werewolf",
+     "match_year": "2008",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Never Cry Werewolf (2008)",
+       "url": "https://bestsimilar.com/movies/19144-never-cry-werewolf"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -536963,7 +552208,8 @@ window.CATALOG = {
    "tags": [
     "imdb-list-ls099930129",
     "imdb-list-full-oct25",
-    "imdb-list-only"
+    "imdb-list-only",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -536985,20 +552231,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Young Sherlock Holmes",
      "url": "https://en.wikipedia.org/wiki/Young_Sherlock_Holmes"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Young Sherlock Holmes (1985)",
+     "url": "https://bestsimilar.com/movies/26063-young-sherlock-holmes"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:26"
+    "hypnosis-imdb-list-full-oct25:26",
+    "hypnosis-bestsimilar-nov5:146"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:26",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "Young Sherlock Holmes (1985)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Young Sherlock Holmes",
+    "subtitle": "",
+    "year": "1985",
+    "meta": "1985 American mystery adventure film · from Wikipedia first sentence",
+    "summary": "IMDb list records Sophie Ward as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+    "character": "Sophie Ward (character names not given on the list)",
+    "note": "",
+    "mechanism": "listed by IMDb list (type not verified)",
+    "confidence_flag": "low: IMDb list only, plot not verified",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sophie Ward: Young Sherlock Holmes",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: Young Sherlock Holmes",
+      "url": "https://en.wikipedia.org/wiki/Young_Sherlock_Holmes"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25",
+     "imdb-list-only"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+    "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:146",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Young Sherlock Holmes (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Young Sherlock Holmes",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Young Sherlock Holmes (1985)",
+       "url": "https://bestsimilar.com/movies/26063-young-sherlock-holmes"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:26": {
      "title": "Young Sherlock Holmes",
@@ -537037,6 +552371,28 @@ window.CATALOG = {
       "imdb-list-full-oct25",
       "imdb-list-only"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:146": {
+     "title": "Young Sherlock Holmes",
+     "year": "1985",
+     "match_title": "Young Sherlock Holmes",
+     "match_year": "1985",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Young Sherlock Holmes (1985)",
+       "url": "https://bestsimilar.com/movies/26063-young-sherlock-holmes"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -537241,7 +552597,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the sources used",
    "tags": [
     "imdb-list-ls099930129",
-    "imdb-list-full-oct25"
+    "imdb-list-full-oct25",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -537264,20 +552621,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Mesmerized (film)",
      "url": "https://en.wikipedia.org/wiki/Mesmerized_(film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Mesmerized (1985)",
+     "url": "https://bestsimilar.com/movies/18284-mesmerized"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:30"
+    "hypnosis-imdb-list-full-oct25:30",
+    "hypnosis-bestsimilar-nov5:160"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:30",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "Mesmerized (1985)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Mesmerized",
+    "subtitle": "",
+    "year": "1985",
+    "meta": "1985 drama film · from Wikipedia first sentence",
+    "summary": "IMDb list records Jodie Foster as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"She proceeds to cultivate a game with him in which she reads to him and also hypnotizes him.\"",
+    "character": "Jodie Foster (character names not given on the list)",
+    "note": "",
+    "mechanism": "hypnosis / trance",
+    "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+    "categories": [
+     "crime",
+     "wife-hypnotized"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Jodie Foster: Mesmerized (1985)",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: Mesmerized (film)",
+      "url": "https://en.wikipedia.org/wiki/Mesmerized_(film)"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (hypnotizes)",
+    "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is hypnosis / trance, so check whether it is hypnosis proper.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:160",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Mesmerized (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mesmerized",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Mesmerized (1985)",
+       "url": "https://bestsimilar.com/movies/18284-mesmerized"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:30": {
      "title": "Mesmerized",
@@ -537316,6 +552761,28 @@ window.CATALOG = {
       "imdb-list-ls099930129",
       "imdb-list-full-oct25"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:160": {
+     "title": "Mesmerized",
+     "year": "1985",
+     "match_title": "Mesmerized",
+     "match_year": "1985",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Mesmerized (1985)",
+       "url": "https://bestsimilar.com/movies/18284-mesmerized"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -539203,7 +554670,8 @@ window.CATALOG = {
    "pregnancy_note": "not stated in the sources used",
    "tags": [
     "imdb-list-ls099930129",
-    "imdb-list-full-oct25"
+    "imdb-list-full-oct25",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -539226,20 +554694,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Dying to Remember",
      "url": "https://en.wikipedia.org/wiki/Dying_to_Remember"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Dying to Remember (1993)",
+     "url": "https://bestsimilar.com/movies/12599-dying-to-remember"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:53"
+    "hypnosis-imdb-list-full-oct25:53",
+    "hypnosis-bestsimilar-nov5:9"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:53",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "Dying to Remember (1993)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Dying to Remember",
+    "subtitle": "",
+    "year": "1993",
+    "meta": "1993 American made-for-television thriller drama film · from Wikipedia first sentence",
+    "summary": "IMDb list records Melissa Gilbert as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (matches her character)): \"James Portman (Jay Robinson) and undergoes hypnotherapy, during which she learns that the woman falling is Lynn herself in her previous life, pushed down the shaft by a man in San Francisco in 1963.\"",
+    "character": "Melissa Gilbert (character names not given on the list)",
+    "note": "",
+    "mechanism": "hypnosis / trance",
+    "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+    "categories": [
+     "medical",
+     "crime"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Gilbert: Dying to Remember",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: Dying to Remember",
+      "url": "https://en.wikipedia.org/wiki/Dying_to_Remember"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry + Wikipedia plot (matches her character) passage (hypnotherapy)",
+    "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is hypnosis / trance, so check whether it is hypnosis proper.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:9",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Dying to Remember (1993)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dying to Remember",
+     "subtitle": "",
+     "year": "1993",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dying to Remember (1993)",
+       "url": "https://bestsimilar.com/movies/12599-dying-to-remember"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:53": {
      "title": "Dying to Remember",
@@ -539278,6 +554834,28 @@ window.CATALOG = {
       "imdb-list-ls099930129",
       "imdb-list-full-oct25"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:9": {
+     "title": "Dying to Remember",
+     "year": "1993",
+     "match_title": "Dying to Remember",
+     "match_year": "1993",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Dying to Remember (1993)",
+       "url": "https://bestsimilar.com/movies/12599-dying-to-remember"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -539390,7 +554968,8 @@ window.CATALOG = {
    "tags": [
     "imdb-list-ls099930129",
     "imdb-list-full-oct25",
-    "imdb-list-only"
+    "imdb-list-only",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -539412,20 +554991,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: The Illusionist (2006 film)",
      "url": "https://en.wikipedia.org/wiki/The_Illusionist_(2006_film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Illusionist (2006)",
+     "url": "https://bestsimilar.com/movies/15646-the-illusionist"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:55"
+    "hypnosis-imdb-list-full-oct25:55",
+    "hypnosis-bestsimilar-nov5:142"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:55",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "The Illusionist (2006)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Illusionist",
+    "subtitle": "",
+    "year": "2006",
+    "meta": "2006 American romantic mystery film · from Wikipedia first sentence",
+    "summary": "IMDb list records Jessica Biel as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+    "character": "Jessica Biel (character names not given on the list)",
+    "note": "",
+    "mechanism": "listed by IMDb list (type not verified)",
+    "confidence_flag": "low: IMDb list only, plot not verified",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Jessica Biel: The Illusionist",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: The Illusionist (2006 film)",
+      "url": "https://en.wikipedia.org/wiki/The_Illusionist_(2006_film)"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25",
+     "imdb-list-only"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+    "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:142",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Illusionist (2006)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Illusionist",
+     "subtitle": "",
+     "year": "2006",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Illusionist (2006)",
+       "url": "https://bestsimilar.com/movies/15646-the-illusionist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:55": {
      "title": "The Illusionist",
@@ -539464,6 +555131,28 @@ window.CATALOG = {
       "imdb-list-full-oct25",
       "imdb-list-only"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:142": {
+     "title": "The Illusionist",
+     "year": "2006",
+     "match_title": "The Illusionist",
+     "match_year": "2006",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Illusionist (2006)",
+       "url": "https://bestsimilar.com/movies/15646-the-illusionist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -540043,7 +555732,8 @@ window.CATALOG = {
    "tags": [
     "imdb-list-ls099930129",
     "imdb-list-full-oct25",
-    "imdb-list-only"
+    "imdb-list-only",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -540065,20 +555755,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: The Recall",
      "url": "https://en.wikipedia.org/wiki/The_Recall"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Recall (2017)",
+     "url": "https://bestsimilar.com/movies/41203-the-recall"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:62"
+    "hypnosis-imdb-list-full-oct25:62",
+    "hypnosis-bestsimilar-nov5:97"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:62",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "The Recall (2017)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Recall",
+    "subtitle": "",
+    "year": "2017",
+    "meta": "2017 science fiction horror film · from Wikipedia first sentence",
+    "summary": "IMDb list records Hannah Rose May as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+    "character": "Hannah Rose May (character names not given on the list)",
+    "note": "",
+    "mechanism": "listed by IMDb list (type not verified)",
+    "confidence_flag": "low: IMDb list only, plot not verified",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Hannah Rose May: The Recall",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: The Recall",
+      "url": "https://en.wikipedia.org/wiki/The_Recall"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25",
+     "imdb-list-only"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+    "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Age unverified (birth year not given) for: Hannah Rose May; adult-only judgement based on the production's audience.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:97",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Recall (2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Recall",
+     "subtitle": "",
+     "year": "2017",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Recall (2017)",
+       "url": "https://bestsimilar.com/movies/41203-the-recall"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:62": {
      "title": "The Recall",
@@ -540117,6 +555895,28 @@ window.CATALOG = {
       "imdb-list-full-oct25",
       "imdb-list-only"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:97": {
+     "title": "The Recall",
+     "year": "2017",
+     "match_title": "The Recall",
+     "match_year": "2017",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Recall (2017)",
+       "url": "https://bestsimilar.com/movies/41203-the-recall"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -540136,7 +555936,8 @@ window.CATALOG = {
    "tags": [
     "imdb-list-ls099930129",
     "imdb-list-full-oct25",
-    "imdb-list-only"
+    "imdb-list-only",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -540158,20 +555959,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: The Believers (film)",
      "url": "https://en.wikipedia.org/wiki/The_Believers_(film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Believers (1987)",
+     "url": "https://bestsimilar.com/movies/9220-the-believers"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:63"
+    "hypnosis-imdb-list-full-oct25:63",
+    "hypnosis-bestsimilar-nov5:145"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:63",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "The Believers (1987)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Believers",
+    "subtitle": "",
+    "year": "1987",
+    "meta": "1987 American horror noir film · from Wikipedia first sentence",
+    "summary": "IMDb list records Helen Shaver as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+    "character": "Helen Shaver (character names not given on the list)",
+    "note": "",
+    "mechanism": "listed by IMDb list (type not verified)",
+    "confidence_flag": "low: IMDb list only, plot not verified",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Helen Shaver: The Believers",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: The Believers (film)",
+      "url": "https://en.wikipedia.org/wiki/The_Believers_(film)"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25",
+     "imdb-list-only"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+    "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:145",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Believers (1987)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Believers",
+     "subtitle": "",
+     "year": "1987",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Believers (1987)",
+       "url": "https://bestsimilar.com/movies/9220-the-believers"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:63": {
      "title": "The Believers",
@@ -540210,6 +556099,28 @@ window.CATALOG = {
       "imdb-list-full-oct25",
       "imdb-list-only"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:145": {
+     "title": "The Believers",
+     "year": "1987",
+     "match_title": "The Believers",
+     "match_year": "1987",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Believers (1987)",
+       "url": "https://bestsimilar.com/movies/9220-the-believers"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -542186,7 +558097,8 @@ window.CATALOG = {
    "tags": [
     "imdb-list-ls099930129",
     "imdb-list-full-oct25",
-    "imdb-list-only"
+    "imdb-list-only",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -542208,20 +558120,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: The Wizard of Gore (2007 film)",
      "url": "https://en.wikipedia.org/wiki/The_Wizard_of_Gore_(2007_film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — The Wizard of Gore (2007)",
+     "url": "https://bestsimilar.com/movies/26965-the-wizard-of-gore"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:85"
+    "hypnosis-imdb-list-full-oct25:85",
+    "hypnosis-bestsimilar-nov5:10"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:85",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "The Wizard of Gore (2007)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Wizard of Gore",
+    "subtitle": "",
+    "year": "2007",
+    "meta": "2007 splatter/noir horror film · from Wikipedia first sentence",
+    "summary": "IMDb list records Bijou Phillips as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+    "character": "Bijou Phillips (character names not given on the list)",
+    "note": "",
+    "mechanism": "listed by IMDb list (type not verified)",
+    "confidence_flag": "low: IMDb list only, plot not verified",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Bijou Phillips: The Wizard of Gore (2007)",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: The Wizard of Gore (2007 film)",
+      "url": "https://en.wikipedia.org/wiki/The_Wizard_of_Gore_(2007_film)"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25",
+     "imdb-list-only"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+    "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:10",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "The Wizard of Gore (2007)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Wizard of Gore",
+     "subtitle": "",
+     "year": "2007",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Wizard of Gore (2007)",
+       "url": "https://bestsimilar.com/movies/26965-the-wizard-of-gore"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:85": {
      "title": "The Wizard of Gore",
@@ -542261,6 +558261,28 @@ window.CATALOG = {
       "imdb-list-only"
      ],
      "standalone": true
+    },
+    "hypnosis-bestsimilar-nov5:10": {
+     "title": "The Wizard of Gore",
+     "year": "2007",
+     "match_title": "The Wizard of Gore",
+     "match_year": "2007",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — The Wizard of Gore (2007)",
+       "url": "https://bestsimilar.com/movies/26965-the-wizard-of-gore"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -542373,7 +558395,8 @@ window.CATALOG = {
    "tags": [
     "imdb-list-ls099930129",
     "imdb-list-full-oct25",
-    "imdb-list-only"
+    "imdb-list-only",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -542395,20 +558418,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Possessor (film)",
      "url": "https://en.wikipedia.org/wiki/Possessor_(film)"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Possessor (2020)",
+     "url": "https://bestsimilar.com/movies/67178-possessor"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:87"
+    "hypnosis-imdb-list-full-oct25:87",
+    "hypnosis-bestsimilar-nov5:36"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:87",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "Possessor (2020)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Possessor",
+    "subtitle": "",
+    "year": "2020",
+    "meta": "2020 science fiction psychological horror film · from Wikipedia first sentence",
+    "summary": "IMDb list records Gabrielle Graham as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+    "character": "Gabrielle Graham (character names not given on the list)",
+    "note": "",
+    "mechanism": "listed by IMDb list (type not verified)",
+    "confidence_flag": "low: IMDb list only, plot not verified",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Gabrielle Graham: Possessor",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: Possessor (film)",
+      "url": "https://en.wikipedia.org/wiki/Possessor_(film)"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25",
+     "imdb-list-only"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+    "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Age unverified (birth year not given) for: Gabrielle Graham; adult-only judgement based on the production's audience.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:36",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Possessor (2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Possessor",
+     "subtitle": "",
+     "year": "2020",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Possessor (2020)",
+       "url": "https://bestsimilar.com/movies/67178-possessor"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:87": {
      "title": "Possessor",
@@ -542447,6 +558558,28 @@ window.CATALOG = {
       "imdb-list-full-oct25",
       "imdb-list-only"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:36": {
+     "title": "Possessor",
+     "year": "2020",
+     "match_title": "Possessor",
+     "match_year": "2020",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Possessor (2020)",
+       "url": "https://bestsimilar.com/movies/67178-possessor"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -542838,7 +558971,8 @@ window.CATALOG = {
    "tags": [
     "imdb-list-ls099930129",
     "imdb-list-full-oct25",
-    "imdb-list-only"
+    "imdb-list-only",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -542860,20 +558994,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Truth Seekers",
      "url": "https://en.wikipedia.org/wiki/Truth_Seekers"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Truth Seekers (2020)",
+     "url": "https://bestsimilar.com/movies/68627-truth-seekers"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:92"
+    "hypnosis-imdb-list-full-oct25:92",
+    "hypnosis-bestsimilar-nov5:130"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:92",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "Truth Seekers (2020)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Truth Seekers",
+    "subtitle": "",
+    "year": "2020",
+    "meta": "2020 British supernatural comedy horror television series · from Wikipedia first sentence",
+    "summary": "IMDb list records Susan Wokoma as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+    "character": "Susan Wokoma (character names not given on the list)",
+    "note": "",
+    "mechanism": "listed by IMDb list (type not verified)",
+    "confidence_flag": "low: IMDb list only, plot not verified",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Susan Wokoma: Truth Seekers",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: Truth Seekers",
+      "url": "https://en.wikipedia.org/wiki/Truth_Seekers"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25",
+     "imdb-list-only"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+    "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:130",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Truth Seekers (2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Truth Seekers",
+     "subtitle": "",
+     "year": "2020",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Truth Seekers (2020)",
+       "url": "https://bestsimilar.com/movies/68627-truth-seekers"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:92": {
      "title": "Truth Seekers",
@@ -542912,6 +559134,28 @@ window.CATALOG = {
       "imdb-list-full-oct25",
       "imdb-list-only"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:130": {
+     "title": "Truth Seekers",
+     "year": "2020",
+     "match_title": "Truth Seekers",
+     "match_year": "2020",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Truth Seekers (2020)",
+       "url": "https://bestsimilar.com/movies/68627-truth-seekers"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -544797,7 +561041,8 @@ window.CATALOG = {
    "tags": [
     "imdb-list-ls099930129",
     "imdb-list-full-oct25",
-    "imdb-list-only"
+    "imdb-list-only",
+    "bestsimilar-hypnosis-6496"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -544819,20 +561064,108 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Manos Returns",
      "url": "https://en.wikipedia.org/wiki/Manos_Returns"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Manos Returns (2018)",
+     "url": "https://bestsimilar.com/movies/69452-manos-returns"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "hypnosis-imdb-list-full-oct25:116"
+    "hypnosis-imdb-list-full-oct25:116",
+    "hypnosis-bestsimilar-nov5:96"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-imdb-list-full-oct25:116",
+    "source": "hypnosis-imdb-list-full-oct25",
+    "label": "Manos Returns (2018)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Manos Returns",
+    "subtitle": "",
+    "year": "2018",
+    "meta": "2018 comedy horror film · from Wikipedia first sentence",
+    "summary": "IMDb list records Christina Pezzo as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+    "character": "Christina Pezzo (character names not given on the list)",
+    "note": "",
+    "mechanism": "listed by IMDb list (type not verified)",
+    "confidence_flag": "low: IMDb list only, plot not verified",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Christina Pezzo: Manos Returns",
+      "url": "https://www.imdb.com/list/ls099930129/"
+     },
+     {
+      "label": "Wikipedia: Manos Returns",
+      "url": "https://en.wikipedia.org/wiki/Manos_Returns"
+     }
+    ],
+    "pregnancy_note": "not stated in the sources used",
+    "tags": [
+     "imdb-list-ls099930129",
+     "imdb-list-full-oct25",
+     "imdb-list-only"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "not stated in the sources used",
+    "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+    "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Age unverified (birth year not given) for: Christina Pezzo; adult-only judgement based on the production's audience.",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:96",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Manos Returns (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Manos Returns",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Manos Returns (2018)",
+       "url": "https://bestsimilar.com/movies/69452-manos-returns"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-imdb-list-full-oct25:116": {
      "title": "Manos Returns",
@@ -544871,6 +561204,28 @@ window.CATALOG = {
       "imdb-list-full-oct25",
       "imdb-list-only"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:96": {
+     "title": "Manos Returns",
+     "year": "2018",
+     "match_title": "Manos Returns",
+     "match_year": "2018",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Manos Returns (2018)",
+       "url": "https://bestsimilar.com/movies/69452-manos-returns"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -545058,6 +561413,9 @@ window.CATALOG = {
    "character": "Victoria Monroe",
    "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
    "note": "",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
    "hypnotist": "Husband / hypnotist",
    "gain_motive": [
     "money"
@@ -545080,20 +561438,104 @@ window.CATALOG = {
     {
      "label": "Sassyflix",
      "url": "https://www.sassyflix.com/movies/3260-haunting-fear"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — Haunting Fear (1990)",
+     "url": "https://bestsimilar.com/movies/46091-haunting-fear"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "deep-refresh-oct30:2"
+    "deep-refresh-oct30:2",
+    "hypnosis-bestsimilar-nov5:29"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "deep-refresh-oct30:2",
+    "source": "deep-refresh-oct30",
+    "label": "Haunting Fear (1990)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Haunting Fear",
+    "subtitle": "",
+    "year": "1990",
+    "meta": "Horror film · dir. Fred Olen Ray",
+    "summary": "Wealthy wife Victoria is put under hypnosis while her husband Terry schemes with his mistress to get her money.",
+    "character": "Victoria Monroe",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "Medium · 2 sources",
+    "categories": [
+     "index-49"
+    ],
+    "sources": [
+     {
+      "label": "WMDB",
+      "url": "https://wmdb.tv/en/movies/69fc211fa4b5a8856b250895"
+     },
+     {
+      "label": "Sassyflix",
+      "url": "https://www.sassyflix.com/movies/3260-haunting-fear"
+     }
+    ],
+    "hypnotist": "Husband / hypnotist",
+    "gain_motive": [
+     "money"
+    ],
+    "method": "Hypnosis",
+    "kids_status": "no",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "Two synopsis listings",
+    "adult": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:29",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "Haunting Fear (1990)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Haunting Fear",
+     "subtitle": "",
+     "year": "1990",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Haunting Fear (1990)",
+       "url": "https://bestsimilar.com/movies/46091-haunting-fear"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "deep-refresh-oct30:2": {
      "pregnant_end": "no",
@@ -545127,6 +561569,28 @@ window.CATALOG = {
      ],
      "evidence": "Two synopsis listings",
      "confidence_flag": "Medium · 2 sources"
+    },
+    "hypnosis-bestsimilar-nov5:29": {
+     "title": "Haunting Fear",
+     "year": "1990",
+     "match_title": "Haunting Fear",
+     "match_year": "1990",
+     "format": "film",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — Haunting Fear (1990)",
+       "url": "https://bestsimilar.com/movies/46091-haunting-fear"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -546541,7 +563005,8 @@ window.CATALOG = {
    "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
    "note": "",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bestsimilar-hypnosis-6496"
    ],
    "hypnotist": "Gray Alys (sorceress)",
    "method": "Compulsion magic",
@@ -546562,20 +563027,104 @@ window.CATALOG = {
     {
      "label": "Culture Crypt",
      "url": "https://culturecrypt.com/movie-reviews/in-the-lost-lands-2025"
+    },
+    {
+     "label": "BestSimilar hypnosis tag — In the Lost Lands (2025)",
+     "url": "https://bestsimilar.com/movies/99350-in-the-lost-lands"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "hypnosis-bestsimilar-nov5"
    ],
    "source_records": [
-    "deep-refresh-oct30:21"
+    "deep-refresh-oct30:21",
+    "hypnosis-bestsimilar-nov5:163"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "deep-refresh-oct30:21",
+    "source": "deep-refresh-oct30",
+    "label": "In the Lost Lands (2025)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "In the Lost Lands",
+    "subtitle": "",
+    "year": "2025",
+    "meta": "Dir. Paul W. S. Anderson · Milla Jovovich",
+    "summary": "Loose fit: the sorceress Gray Alys uses eye-contact magic to compel people, and a queen hires her for a quest.",
+    "character": "Gray Alys",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "Medium · 2 sources",
+    "categories": [
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Plugged In",
+      "url": "https://www.pluggedin.com/movie-reviews/in-the-lost-lands-2025/"
+     },
+     {
+      "label": "Culture Crypt",
+      "url": "https://culturecrypt.com/movie-reviews/in-the-lost-lands-2025"
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "hypnotist": "Gray Alys (sorceress)",
+    "method": "Compulsion magic",
+    "kids_status": "no",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "Two reviews",
+    "adult": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-bestsimilar-nov5:163",
+     "source": "hypnosis-bestsimilar-nov5",
+     "label": "In the Lost Lands (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "In the Lost Lands",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — In the Lost Lands (2025)",
+       "url": "https://bestsimilar.com/movies/99350-in-the-lost-lands"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "deep-refresh-oct30:21": {
      "pregnant_end": "no",
@@ -546610,6 +563159,28 @@ window.CATALOG = {
      "tags": [
       "loose fit"
      ]
+    },
+    "hypnosis-bestsimilar-nov5:163": {
+     "title": "In the Lost Lands",
+     "year": "2025",
+     "match_title": "In the Lost Lands",
+     "match_year": "2025",
+     "format": "film",
+     "categories": [],
+     "sources": [
+      {
+       "label": "BestSimilar hypnosis tag — In the Lost Lands (2025)",
+       "url": "https://bestsimilar.com/movies/99350-in-the-lost-lands"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      }
+     ],
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ],
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
     }
    }
   },
@@ -555325,6 +571896,2602 @@ window.CATALOG = {
      "confidence_flag": "Single source · flag"
     }
    }
+  },
+  {
+   "id": 3885,
+   "title": "Takin' It All Off",
+   "subtitle": "",
+   "year": "1987",
+   "meta": "USA · Comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "medium — BestSimilar blurb + Wikipedia",
+   "summary": "A school for strippers is in trouble. They audition for the owner, and he's pleased, except that the new girl can't make herself take her clothes off. After hypnosis, she's ready, willing, and able, but always strips when she hears ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "Veteran stripper Betty \"Big Ones\" suggests hypnotism, and although this helps Allison to shed her shyness, and her clothes, it has the unfortunate side-effect of making her strip whenever she hears the film's theme song, which gets played everywhere.",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Takin' It All Off (1987)",
+     "url": "https://bestsimilar.com/movies/54126-takin-it-all-off"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Takin' It All Off",
+     "url": "https://en.wikipedia.org/wiki/Takin%27_It_All_Off"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:177"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:177": {
+     "title": "Takin' It All Off",
+     "year": "1987",
+     "format": "movie",
+     "meta": "USA · Comedy",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "A school for strippers is in trouble. They audition for the owner, and he's pleased, except that the new girl can't make herself take her clothes off. After hypnosis, she's ready, willing, and able, but always strips when she hears ...",
+     "categories": [
+      "adult-hypnosis",
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Takin' It All Off (1987)",
+       "url": "https://bestsimilar.com/movies/54126-takin-it-all-off"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Takin' It All Off",
+       "url": "https://en.wikipedia.org/wiki/Takin%27_It_All_Off"
+      }
+     ],
+     "evidence": "Veteran stripper Betty \"Big Ones\" suggests hypnotism, and although this helps Allison to shed her shyness, and her clothes, it has the unfortunate side-effect of making her strip whenever she hears the film's theme song, which gets played everywhere.",
+     "confidence_flag": "medium — BestSimilar blurb + Wikipedia",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3886,
+   "title": "Busty Housewives of Beverly Hills",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "USA · Comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+   "summary": "When Rinaldi, the World's Worst Hypnotist, inherits a mansion in Beverly Hills with his wife, Kelli McCarty, he also acquires a magical amulet that gives him special power over women. Soon every Beverly Hills Housewife has her sights set on him!",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "When Rinaldi, the World's Worst Hypnotist, inherits a mansion in Beverly Hills with his wife, Kelli McCarty, he also acquires a magical amulet that gives him special power over women. Soon every Beverly Hills Housewife has her sights set on him!",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "yes",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "wife-hypnotized",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Busty Housewives of Beverly Hills (2012)",
+     "url": "https://bestsimilar.com/movies/95602-busty-housewives-of-beverly-hills"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Botched (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Botched_(TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:178"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:178": {
+     "title": "Busty Housewives of Beverly Hills",
+     "year": "2012",
+     "format": "movie",
+     "meta": "USA · Comedy",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "When Rinaldi, the World's Worst Hypnotist, inherits a mansion in Beverly Hills with his wife, Kelli McCarty, he also acquires a magical amulet that gives him special power over women. Soon every Beverly Hills Housewife has her sights set on him!",
+     "categories": [
+      "adult-hypnosis",
+      "wife-hypnotized",
+      "fantasy"
+     ],
+     "already_married": "yes",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Busty Housewives of Beverly Hills (2012)",
+       "url": "https://bestsimilar.com/movies/95602-busty-housewives-of-beverly-hills"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Botched (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Botched_(TV_series)"
+      }
+     ],
+     "evidence": "When Rinaldi, the World's Worst Hypnotist, inherits a mansion in Beverly Hills with his wife, Kelli McCarty, he also acquires a magical amulet that gives him special power over women. Soon every Beverly Hills Housewife has her sights set on him!",
+     "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3887,
+   "title": "Hipnos",
+   "subtitle": "",
+   "year": "2004",
+   "meta": "Spain · Drama",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+   "summary": "Dr Sánchez Blanch owns and operates a psychiatric hospital where he specializes in hypnotizing his severely emotionally disturbed patients.",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "Dr Sánchez Blanch owns and operates a psychiatric hospital where he specializes in hypnotizing his severely emotionally disturbed patients.",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Hipnos (2004)",
+     "url": "https://bestsimilar.com/movies/56866-hipnos"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Hypnos (film)",
+     "url": "https://en.wikipedia.org/wiki/Hypnos_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:179"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:179": {
+     "title": "Hipnos",
+     "year": "2004",
+     "format": "movie",
+     "meta": "Spain · Drama",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Dr Sánchez Blanch owns and operates a psychiatric hospital where he specializes in hypnotizing his severely emotionally disturbed patients.",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Hipnos (2004)",
+       "url": "https://bestsimilar.com/movies/56866-hipnos"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Hypnos (film)",
+       "url": "https://en.wikipedia.org/wiki/Hypnos_(film)"
+      }
+     ],
+     "evidence": "Dr Sánchez Blanch owns and operates a psychiatric hospital where he specializes in hypnotizing his severely emotionally disturbed patients.",
+     "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3888,
+   "title": "Forty Winks",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "USA · Comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+   "summary": "Forty Winks follows Fabio Berker, struggling Hypnotist in New York City, as he is blackmailed into being the world's first hypnotist hit man by a mysterious woman who finds out his degree is fake.",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "Forty Winks follows Fabio Berker, struggling Hypnotist in New York City, as he is blackmailed into being the world's first hypnotist hit man by a mysterious woman who finds out his degree is fake.",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Forty Winks (2022)",
+     "url": "https://bestsimilar.com/movies/105008-forty-winks"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Forty Winks (2022 film)",
+     "url": "https://en.wikipedia.org/wiki/Forty_Winks_(2022_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:180"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:180": {
+     "title": "Forty Winks",
+     "year": "2022",
+     "format": "movie",
+     "meta": "USA · Comedy",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Forty Winks follows Fabio Berker, struggling Hypnotist in New York City, as he is blackmailed into being the world's first hypnotist hit man by a mysterious woman who finds out his degree is fake.",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Forty Winks (2022)",
+       "url": "https://bestsimilar.com/movies/105008-forty-winks"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Forty Winks (2022 film)",
+       "url": "https://en.wikipedia.org/wiki/Forty_Winks_(2022_film)"
+      }
+     ],
+     "evidence": "Forty Winks follows Fabio Berker, struggling Hypnotist in New York City, as he is blackmailed into being the world's first hypnotist hit man by a mysterious woman who finds out his degree is fake.",
+     "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3889,
+   "title": "Beyond the Black Rainbow",
+   "subtitle": "",
+   "year": "2010",
+   "meta": "Canada · Horror",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+   "summary": "Deep within the mysterious Arboria Institute, a disturbed and beautiful girl is held captive by a doctor in search of inner peace. Her mind controlled by a sinister technology. Silently, she waits for her next session with deranged therapist Dr. ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "Deep within the mysterious Arboria Institute, a disturbed and beautiful girl is held captive by a doctor in search of inner peace. Her mind controlled by a sinister technology. Silently, she waits for her next session with deranged therapist Dr. ...",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Beyond the Black Rainbow (2010)",
+     "url": "https://bestsimilar.com/movies/27194-beyond-the-black-rainbow"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Beyond the Black Rainbow",
+     "url": "https://en.wikipedia.org/wiki/Beyond_the_Black_Rainbow"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:181"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:181": {
+     "title": "Beyond the Black Rainbow",
+     "year": "2010",
+     "format": "movie",
+     "meta": "Canada · Horror",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Deep within the mysterious Arboria Institute, a disturbed and beautiful girl is held captive by a doctor in search of inner peace. Her mind controlled by a sinister technology. Silently, she waits for her next session with deranged therapist Dr. ...",
+     "categories": [
+      "medical",
+      "tech"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Beyond the Black Rainbow (2010)",
+       "url": "https://bestsimilar.com/movies/27194-beyond-the-black-rainbow"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Beyond the Black Rainbow",
+       "url": "https://en.wikipedia.org/wiki/Beyond_the_Black_Rainbow"
+      }
+     ],
+     "evidence": "Deep within the mysterious Arboria Institute, a disturbed and beautiful girl is held captive by a doctor in search of inner peace. Her mind controlled by a sinister technology. Silently, she waits for her next session with deranged therapist Dr. ...",
+     "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3890,
+   "title": "Insomnia",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Russia · Drama",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+   "summary": "43-year old Yuri is a successful psychiatrist and hypnotist. A raving and committed non-believer, he is capable of rationalizing anything…except for his own nightmares. In his dreams, he sees his ex-wife who, many years ago, committed suicide, ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "43-year old Yuri is a successful psychiatrist and hypnotist. A raving and committed non-believer, he is capable of rationalizing anything…except for his own nightmares. In his dreams, he sees his ex-wife who, many years ago, committed suicide, ...",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "medical",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Insomnia (2021)",
+     "url": "https://bestsimilar.com/movies/91720-insomnia"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Insomnia (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Insomnia_(TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:182"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:182": {
+     "title": "Insomnia",
+     "year": "2021",
+     "format": "movie",
+     "meta": "Russia · Drama",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "43-year old Yuri is a successful psychiatrist and hypnotist. A raving and committed non-believer, he is capable of rationalizing anything…except for his own nightmares. In his dreams, he sees his ex-wife who, many years ago, committed suicide, ...",
+     "categories": [
+      "adult-hypnosis",
+      "medical",
+      "wife-hypnotized"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Insomnia (2021)",
+       "url": "https://bestsimilar.com/movies/91720-insomnia"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Insomnia (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Insomnia_(TV_series)"
+      }
+     ],
+     "evidence": "43-year old Yuri is a successful psychiatrist and hypnotist. A raving and committed non-believer, he is capable of rationalizing anything…except for his own nightmares. In his dreams, he sees his ex-wife who, many years ago, committed suicide, ...",
+     "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3891,
+   "title": "Doctor Dracula",
+   "subtitle": "",
+   "year": "1983",
+   "meta": "USA · Horror",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+   "summary": "An evil hypnotist puts a beautiful woman under his spell.",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "An evil hypnotist puts a beautiful woman under his spell.",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Doctor Dracula (1983)",
+     "url": "https://bestsimilar.com/movies/3606-doctor-dracula"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Dracula (1979 film)",
+     "url": "https://en.wikipedia.org/wiki/Dracula_(1979_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:183"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:183": {
+     "title": "Doctor Dracula",
+     "year": "1983",
+     "format": "movie",
+     "meta": "USA · Horror",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "An evil hypnotist puts a beautiful woman under his spell.",
+     "categories": [
+      "fantasy"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Doctor Dracula (1983)",
+       "url": "https://bestsimilar.com/movies/3606-doctor-dracula"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Dracula (1979 film)",
+       "url": "https://en.wikipedia.org/wiki/Dracula_(1979_film)"
+      }
+     ],
+     "evidence": "An evil hypnotist puts a beautiful woman under his spell.",
+     "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3892,
+   "title": "Love Addict",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "USA · Comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+   "summary": "A womanizing attorney is unable to have sex after a hypnotherapy session to quit smoking goes awry and he seeks help from one of his clients, an uptight psychiatrist, who teaches him that there is more to women than just sex.",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "A womanizing attorney is unable to have sex after a hypnotherapy session to quit smoking goes awry and he seeks help from one of his clients, an uptight psychiatrist, who teaches him that there is more to women than just sex.",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "doctor-gain"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Love Addict (2016)",
+     "url": "https://bestsimilar.com/movies/102410-love-addict"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Rent (film)",
+     "url": "https://en.wikipedia.org/wiki/Rent_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:184"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:184": {
+     "title": "Love Addict",
+     "year": "2016",
+     "format": "movie",
+     "meta": "USA · Comedy",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "A womanizing attorney is unable to have sex after a hypnotherapy session to quit smoking goes awry and he seeks help from one of his clients, an uptight psychiatrist, who teaches him that there is more to women than just sex.",
+     "categories": [
+      "medical",
+      "doctor-gain"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Love Addict (2016)",
+       "url": "https://bestsimilar.com/movies/102410-love-addict"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Rent (film)",
+       "url": "https://en.wikipedia.org/wiki/Rent_(film)"
+      }
+     ],
+     "evidence": "A womanizing attorney is unable to have sex after a hypnotherapy session to quit smoking goes awry and he seeks help from one of his clients, an uptight psychiatrist, who teaches him that there is more to women than just sex.",
+     "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3893,
+   "title": "A Woman Possessed",
+   "subtitle": "",
+   "year": "1968",
+   "meta": "Mexico · Drama",
+   "mechanism": "possession",
+   "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+   "summary": "An evil princess who kills her lovers is condemned by the Inquisition. Four centuries later she returns with the help of a vampire and tries to live forever in the body of an identical woman.",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "An evil princess who kills her lovers is condemned by the Inquisition. Four centuries later she returns with the help of a vampire and tries to live forever in the body of an identical woman.",
+   "fit_note": "Mechanism per sources: possession. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "occult",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — A Woman Possessed (1968)",
+     "url": "https://bestsimilar.com/movies/53397-a-woman-possessed"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Abby (film)",
+     "url": "https://en.wikipedia.org/wiki/Abby_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:185"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:185": {
+     "title": "A Woman Possessed",
+     "year": "1968",
+     "format": "movie",
+     "meta": "Mexico · Drama",
+     "mechanism": "possession",
+     "character": "not stated",
+     "summary": "An evil princess who kills her lovers is condemned by the Inquisition. Four centuries later she returns with the help of a vampire and tries to live forever in the body of an identical woman.",
+     "categories": [
+      "occult",
+      "spirit"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — A Woman Possessed (1968)",
+       "url": "https://bestsimilar.com/movies/53397-a-woman-possessed"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Abby (film)",
+       "url": "https://en.wikipedia.org/wiki/Abby_(film)"
+      }
+     ],
+     "evidence": "An evil princess who kills her lovers is condemned by the Inquisition. Four centuries later she returns with the help of a vampire and tries to live forever in the body of an identical woman.",
+     "confidence_flag": "low-medium — BestSimilar blurb (female subject)",
+     "fit_note": "Mechanism per sources: possession. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3894,
+   "title": "Nice Sister-In-Law",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "South Korea · Drama",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "Ha-yeong is a successful psychologist. One day she gets a secretive request from her sister Ha-joo. Apparently Ha-joo's husband Woo-seong is refusing to have sex. Ha-yeong agrees to be their couple therapist but finds out that her ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "Ha-yeong is a successful psychologist. One day she gets a secretive request from her sister Ha-joo. Apparently Ha-joo's husband Woo-seong is refusing to have sex. Ha-yeong agrees to be their couple therapist but finds out that her ...",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "doctor-gain",
+    "wife-hypnotized",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Nice Sister-In-Law (2015)",
+     "url": "https://bestsimilar.com/movies/71605-nice-sister-in-law"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Captain Nice",
+     "url": "https://en.wikipedia.org/wiki/Captain_Nice"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:186"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:186": {
+     "title": "Nice Sister-In-Law",
+     "year": "2015",
+     "format": "movie",
+     "meta": "South Korea · Drama",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Ha-yeong is a successful psychologist. One day she gets a secretive request from her sister Ha-joo. Apparently Ha-joo's husband Woo-seong is refusing to have sex. Ha-yeong agrees to be their couple therapist but finds out that her ...",
+     "categories": [
+      "medical",
+      "doctor-gain",
+      "wife-hypnotized",
+      "partner-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Nice Sister-In-Law (2015)",
+       "url": "https://bestsimilar.com/movies/71605-nice-sister-in-law"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Captain Nice",
+       "url": "https://en.wikipedia.org/wiki/Captain_Nice"
+      }
+     ],
+     "evidence": "Ha-yeong is a successful psychologist. One day she gets a secretive request from her sister Ha-joo. Apparently Ha-joo's husband Woo-seong is refusing to have sex. Ha-yeong agrees to be their couple therapist but finds out that her ...",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3895,
+   "title": "The Scopia Effect",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "UK · Horror",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "Reincarnation goes horribly wrong releasing dark forces across time. Basia accesses parts of her mind that should never be tampered with. Past lives merge with present as her reality becomes distorted, she fights for her very existence.",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "Reincarnation goes horribly wrong releasing dark forces across time. Basia accesses parts of her mind that should never be tampered with. Past lives merge with present as her reality becomes distorted, she fights for her very existence.",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "tech",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — The Scopia Effect (2014)",
+     "url": "https://bestsimilar.com/movies/87288-the-scopia-effect"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: List of British films of 2014",
+     "url": "https://en.wikipedia.org/wiki/List_of_British_films_of_2014"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:187"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:187": {
+     "title": "The Scopia Effect",
+     "year": "2014",
+     "format": "movie",
+     "meta": "UK · Horror",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Reincarnation goes horribly wrong releasing dark forces across time. Basia accesses parts of her mind that should never be tampered with. Past lives merge with present as her reality becomes distorted, she fights for her very existence.",
+     "categories": [
+      "medical",
+      "tech",
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — The Scopia Effect (2014)",
+       "url": "https://bestsimilar.com/movies/87288-the-scopia-effect"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: List of British films of 2014",
+       "url": "https://en.wikipedia.org/wiki/List_of_British_films_of_2014"
+      }
+     ],
+     "evidence": "Reincarnation goes horribly wrong releasing dark forces across time. Basia accesses parts of her mind that should never be tampered with. Past lives merge with present as her reality becomes distorted, she fights for her very existence.",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3896,
+   "title": "Dr. Ian",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "South Korea · Romance",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "The memories of pain and love shape our reality and personality, hence they can be used to find healing in counseling. This is the story of psychiatrist Mo Ian, who specializes in hypnosis treatments. He meets an eccentric, 4-D office girl, Lee So ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "The memories of pain and love shape our reality and personality, hence they can be used to find healing in counseling. This is the story of psychiatrist Mo Ian, who specializes in hypnosis treatments. He meets an eccentric, 4-D office girl, Lee So ...",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "doctor-gain"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Dr. Ian (2015)",
+     "url": "https://bestsimilar.com/movies/91363-dr-ian"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Dr. No (film)",
+     "url": "https://en.wikipedia.org/wiki/Dr._No_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:188"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:188": {
+     "title": "Dr. Ian",
+     "year": "2015",
+     "format": "movie",
+     "meta": "South Korea · Romance",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "The memories of pain and love shape our reality and personality, hence they can be used to find healing in counseling. This is the story of psychiatrist Mo Ian, who specializes in hypnosis treatments. He meets an eccentric, 4-D office girl, Lee So ...",
+     "categories": [
+      "medical",
+      "doctor-gain"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Dr. Ian (2015)",
+       "url": "https://bestsimilar.com/movies/91363-dr-ian"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Dr. No (film)",
+       "url": "https://en.wikipedia.org/wiki/Dr._No_(film)"
+      }
+     ],
+     "evidence": "The memories of pain and love shape our reality and personality, hence they can be used to find healing in counseling. This is the story of psychiatrist Mo Ian, who specializes in hypnosis treatments. He meets an eccentric, 4-D office girl, Lee So ...",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3897,
+   "title": "Imaginur",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "Malaysia · Drama",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "As a young man's life spirals out of control, he tries to regain focus by seeking out an offbeat hypnosis treatment. Things take a turn when the girl from his dreams starts to appear in real life. While he tries to unlock the mystery of who she ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "As a young man's life spirals out of control, he tries to regain focus by seeking out an offbeat hypnosis treatment. Things take a turn when the girl from his dreams starts to appear in real life. While he tries to unlock the mystery of who she ...",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "doctor-gain",
+    "fantasy",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Imaginur (2022)",
+     "url": "https://bestsimilar.com/movies/110205-imaginur"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Reversi (film)",
+     "url": "https://en.wikipedia.org/wiki/Reversi_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:189"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:189": {
+     "title": "Imaginur",
+     "year": "2022",
+     "format": "movie",
+     "meta": "Malaysia · Drama",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "As a young man's life spirals out of control, he tries to regain focus by seeking out an offbeat hypnosis treatment. Things take a turn when the girl from his dreams starts to appear in real life. While he tries to unlock the mystery of who she ...",
+     "categories": [
+      "medical",
+      "doctor-gain",
+      "fantasy",
+      "tech"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Imaginur (2022)",
+       "url": "https://bestsimilar.com/movies/110205-imaginur"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Reversi (film)",
+       "url": "https://en.wikipedia.org/wiki/Reversi_(film)"
+      }
+     ],
+     "evidence": "As a young man's life spirals out of control, he tries to regain focus by seeking out an offbeat hypnosis treatment. Things take a turn when the girl from his dreams starts to appear in real life. While he tries to unlock the mystery of who she ...",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3898,
+   "title": "Fear Therapy",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Brazil · Horror",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "A woman tries to help her twin sister, with whom she has a strong connection, recover from a trauma. But weird things surround their lives.",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "A woman tries to help her twin sister, with whom she has a strong connection, recover from a trauma. But weird things surround their lives.",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Fear Therapy (2021)",
+     "url": "https://bestsimilar.com/movies/73889-fear-therapy"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Thalassophobia",
+     "url": "https://en.wikipedia.org/wiki/Thalassophobia"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:190"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:190": {
+     "title": "Fear Therapy",
+     "year": "2021",
+     "format": "movie",
+     "meta": "Brazil · Horror",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "A woman tries to help her twin sister, with whom she has a strong connection, recover from a trauma. But weird things surround their lives.",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Fear Therapy (2021)",
+       "url": "https://bestsimilar.com/movies/73889-fear-therapy"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Thalassophobia",
+       "url": "https://en.wikipedia.org/wiki/Thalassophobia"
+      }
+     ],
+     "evidence": "A woman tries to help her twin sister, with whom she has a strong connection, recover from a trauma. But weird things surround their lives.",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3899,
+   "title": "The Limit of Sleeping Beauty",
+   "subtitle": "",
+   "year": "2017",
+   "meta": "Japan · Drama",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "Aki is an unsuccessful 29-year-old actress who eventually became a magician's assistant. While pretending to be hypnotised on the stage, Aki finds the boundary between reality and illusion becoming increasingly vague. For Aki, the only ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "Aki is an unsuccessful 29-year-old actress who eventually became a magician's assistant. While pretending to be hypnotised on the stage, Aki finds the boundary between reality and illusion becoming increasingly vague. For Aki, the only ...",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — The Limit of Sleeping Beauty (2017)",
+     "url": "https://bestsimilar.com/movies/76948-the-limit-of-sleeping-beauty"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Life (2017 film)",
+     "url": "https://en.wikipedia.org/wiki/Life_(2017_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:191"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:191": {
+     "title": "The Limit of Sleeping Beauty",
+     "year": "2017",
+     "format": "movie",
+     "meta": "Japan · Drama",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Aki is an unsuccessful 29-year-old actress who eventually became a magician's assistant. While pretending to be hypnotised on the stage, Aki finds the boundary between reality and illusion becoming increasingly vague. For Aki, the only ...",
+     "categories": [
+      "fantasy"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — The Limit of Sleeping Beauty (2017)",
+       "url": "https://bestsimilar.com/movies/76948-the-limit-of-sleeping-beauty"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Life (2017 film)",
+       "url": "https://en.wikipedia.org/wiki/Life_(2017_film)"
+      }
+     ],
+     "evidence": "Aki is an unsuccessful 29-year-old actress who eventually became a magician's assistant. While pretending to be hypnotised on the stage, Aki finds the boundary between reality and illusion becoming increasingly vague. For Aki, the only ...",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3900,
+   "title": "A Promise to Carolyn",
+   "subtitle": "",
+   "year": "1996",
+   "meta": "USA · Crime",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "When two sisters can no longer go on living with the painful memory of their baby sister being murdered 37 years ago by their stepmother, together they try to uncover the truth.",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "When two sisters can no longer go on living with the painful memory of their baby sister being murdered 37 years ago by their stepmother, together they try to uncover the truth.",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — A Promise to Carolyn (1996)",
+     "url": "https://bestsimilar.com/movies/20773-a-promise-to-carolyn"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Casey Biggs",
+     "url": "https://en.wikipedia.org/wiki/Casey_Biggs"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:192"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:192": {
+     "title": "A Promise to Carolyn",
+     "year": "1996",
+     "format": "movie",
+     "meta": "USA · Crime",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "When two sisters can no longer go on living with the painful memory of their baby sister being murdered 37 years ago by their stepmother, together they try to uncover the truth.",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — A Promise to Carolyn (1996)",
+       "url": "https://bestsimilar.com/movies/20773-a-promise-to-carolyn"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Casey Biggs",
+       "url": "https://en.wikipedia.org/wiki/Casey_Biggs"
+      }
+     ],
+     "evidence": "When two sisters can no longer go on living with the painful memory of their baby sister being murdered 37 years ago by their stepmother, together they try to uncover the truth.",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3901,
+   "title": "Haven't We Met Before?",
+   "subtitle": "",
+   "year": "2002",
+   "meta": "Canada, USA · Crime",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "Based on the novel by Mary Higgins Clark. Under hypnosis, a mental patient admits to several recent murders. He also offers a strange defense when he claims that he is the reincarnation of a 19th century man who was wrongly executed.",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "Based on the novel by Mary Higgins Clark. Under hypnosis, a mental patient admits to several recent murders. He also offers a strange defense when he claims that he is the reincarnation of a 19th century man who was wrongly executed.",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "medical",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Haven't We Met Before? (2002)",
+     "url": "https://bestsimilar.com/movies/14840-havent-we-met-before"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Equilibrium (film)",
+     "url": "https://en.wikipedia.org/wiki/Equilibrium_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:193"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:193": {
+     "title": "Haven't We Met Before?",
+     "year": "2002",
+     "format": "movie",
+     "meta": "Canada, USA · Crime",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Based on the novel by Mary Higgins Clark. Under hypnosis, a mental patient admits to several recent murders. He also offers a strange defense when he claims that he is the reincarnation of a 19th century man who was wrongly executed.",
+     "categories": [
+      "adult-hypnosis",
+      "medical",
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Haven't We Met Before? (2002)",
+       "url": "https://bestsimilar.com/movies/14840-havent-we-met-before"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Equilibrium (film)",
+       "url": "https://en.wikipedia.org/wiki/Equilibrium_(film)"
+      }
+     ],
+     "evidence": "Based on the novel by Mary Higgins Clark. Under hypnosis, a mental patient admits to several recent murders. He also offers a strange defense when he claims that he is the reincarnation of a 19th century man who was wrongly executed.",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3902,
+   "title": "Black Box",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "USA · Horror",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "After losing his wife and memory in a car accident, a single father undergoes an experimental treatment that makes him question who he really is.",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "After losing his wife and memory in a car accident, a single father undergoes an experimental treatment that makes him question who he really is.",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "yes",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Black Box (2020)",
+     "url": "https://bestsimilar.com/movies/68203-black-box"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Black Box (2020 film)",
+     "url": "https://en.wikipedia.org/wiki/Black_Box_(2020_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:194"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:194": {
+     "title": "Black Box",
+     "year": "2020",
+     "format": "movie",
+     "meta": "USA · Horror",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "After losing his wife and memory in a car accident, a single father undergoes an experimental treatment that makes him question who he really is.",
+     "categories": [
+      "wife-hypnotized",
+      "tech"
+     ],
+     "already_married": "yes",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Black Box (2020)",
+       "url": "https://bestsimilar.com/movies/68203-black-box"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Black Box (2020 film)",
+       "url": "https://en.wikipedia.org/wiki/Black_Box_(2020_film)"
+      }
+     ],
+     "evidence": "After losing his wife and memory in a car accident, a single father undergoes an experimental treatment that makes him question who he really is.",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3903,
+   "title": "Lupin the IIIrd: Fujiko's Lie",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Japan · Animation",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "Fujiko Mine, the devastating femme fatale whose only loyalty is to her desire, befriends a young boy whose late father hid away a fortune. A killer is on the boy's trail and it's up to Fujiko to stop him: but where do her interests really ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "Fujiko Mine, the devastating femme fatale whose only loyalty is to her desire, befriends a young boy whose late father hid away a fortune.  A killer is on the boy's trail and it's up to Fujiko to stop him: but where do her interests really ...",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Lupin the IIIrd: Fujiko's Lie (2019)",
+     "url": "https://bestsimilar.com/movies/72080-lupin-the-third-fujikos-lie"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Lupin the Third: The Woman Called Fujiko Mine",
+     "url": "https://en.wikipedia.org/wiki/Lupin_the_Third:_The_Woman_Called_Fujiko_Mine"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:195"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:195": {
+     "title": "Lupin the IIIrd: Fujiko's Lie",
+     "year": "2019",
+     "format": "movie",
+     "meta": "Japan · Animation",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Fujiko Mine, the devastating femme fatale whose only loyalty is to her desire, befriends a young boy whose late father hid away a fortune. A killer is on the boy's trail and it's up to Fujiko to stop him: but where do her interests really ...",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Lupin the IIIrd: Fujiko's Lie (2019)",
+       "url": "https://bestsimilar.com/movies/72080-lupin-the-third-fujikos-lie"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Lupin the Third: The Woman Called Fujiko Mine",
+       "url": "https://en.wikipedia.org/wiki/Lupin_the_Third:_The_Woman_Called_Fujiko_Mine"
+      }
+     ],
+     "evidence": "Fujiko Mine, the devastating femme fatale whose only loyalty is to her desire, befriends a young boy whose late father hid away a fortune.  A killer is on the boy's trail and it's up to Fujiko to stop him: but where do her interests really ...",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3904,
+   "title": "Tomie",
+   "subtitle": "",
+   "year": "1998",
+   "meta": "Japan · Crime",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "Following some trauma in her past that has since been repressed, a young woman is trying to recover her memories with the help of a psychiatrist. During her hypnosis sessions, she repeats the name \"Tomie\" but is unable to recall where she ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "Following some trauma in her past that has since been repressed, a young woman is trying to recover her memories with the help of a psychiatrist. During her hypnosis sessions, she repeats the name \"Tomie\" but is unable to recall where she ...",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "medical",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Tomie (1998)",
+     "url": "https://bestsimilar.com/movies/35275-tomie"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Tomie (film)",
+     "url": "https://en.wikipedia.org/wiki/Tomie_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:196"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:196": {
+     "title": "Tomie",
+     "year": "1998",
+     "format": "movie",
+     "meta": "Japan · Crime",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Following some trauma in her past that has since been repressed, a young woman is trying to recover her memories with the help of a psychiatrist. During her hypnosis sessions, she repeats the name \"Tomie\" but is unable to recall where she ...",
+     "categories": [
+      "adult-hypnosis",
+      "medical",
+      "tech"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Tomie (1998)",
+       "url": "https://bestsimilar.com/movies/35275-tomie"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Tomie (film)",
+       "url": "https://en.wikipedia.org/wiki/Tomie_(film)"
+      }
+     ],
+     "evidence": "Following some trauma in her past that has since been repressed, a young woman is trying to recover her memories with the help of a psychiatrist. During her hypnosis sessions, she repeats the name \"Tomie\" but is unable to recall where she ...",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3905,
+   "title": "Deadly Life of a Ninja",
+   "subtitle": "",
+   "year": "1983",
+   "meta": "Taiwan · Comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "A businessman and his sister-in-law are targeted for assassination by a band of evil ninjas and their vicious leader (Yasuaki Kurata). The ninjas are committing bizarre murders all over the city, and the police can't seem to pick up their trail ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "A businessman and his sister-in-law are targeted for assassination by a band of evil ninjas and their vicious leader (Yasuaki Kurata). The ninjas are committing bizarre murders all over the city, and the police can't seem to pick up their trail ...",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Deadly Life of a Ninja (1983)",
+     "url": "https://bestsimilar.com/movies/6835-deadly-life-of-a-ninja"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Lu Feng (actor)",
+     "url": "https://en.wikipedia.org/wiki/Lu_Feng_(actor)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:197"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:197": {
+     "title": "Deadly Life of a Ninja",
+     "year": "1983",
+     "format": "movie",
+     "meta": "Taiwan · Comedy",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "A businessman and his sister-in-law are targeted for assassination by a band of evil ninjas and their vicious leader (Yasuaki Kurata). The ninjas are committing bizarre murders all over the city, and the police can't seem to pick up their trail ...",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Deadly Life of a Ninja (1983)",
+       "url": "https://bestsimilar.com/movies/6835-deadly-life-of-a-ninja"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Lu Feng (actor)",
+       "url": "https://en.wikipedia.org/wiki/Lu_Feng_(actor)"
+      }
+     ],
+     "evidence": "A businessman and his sister-in-law are targeted for assassination by a band of evil ninjas and their vicious leader (Yasuaki Kurata). The ninjas are committing bizarre murders all over the city, and the police can't seem to pick up their trail ...",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3906,
+   "title": "The Other Black Girl",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "USA · Comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+   "summary": "Nella, an editorial assistant, is tired of being the only black girl at her company, so she’s excited when Hazel is hired. But as Hazel’s star begins to rise, Nella spirals out and discovers something sinister is going on at the company.",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bestsimilar-blurb-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "Nella, an editorial assistant, is tired of being the only black girl at her company, so she’s excited when Hazel is hired. But as Hazel’s star begins to rise, Nella spirals out and discovers something sinister is going on at the company.",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — The Other Black Girl (2023)",
+     "url": "https://bestsimilar.com/movies/89007-the-other-black-girl"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: The Other Black Girl (TV series)",
+     "url": "https://en.wikipedia.org/wiki/The_Other_Black_Girl_(TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:198"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:198": {
+     "title": "The Other Black Girl",
+     "year": "2023",
+     "format": "movie",
+     "meta": "USA · Comedy",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Nella, an editorial assistant, is tired of being the only black girl at her company, so she’s excited when Hazel is hired. But as Hazel’s star begins to rise, Nella spirals out and discovers something sinister is going on at the company.",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — The Other Black Girl (2023)",
+       "url": "https://bestsimilar.com/movies/89007-the-other-black-girl"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: The Other Black Girl (TV series)",
+       "url": "https://en.wikipedia.org/wiki/The_Other_Black_Girl_(TV_series)"
+      }
+     ],
+     "evidence": "Nella, an editorial assistant, is tired of being the only black girl at her company, so she’s excited when Hazel is hired. But as Hazel’s star begins to rise, Nella spirals out and discovers something sinister is going on at the company.",
+     "confidence_flag": "low — BestSimilar hypnosis tag; Wikipedia lacked clear female-control sentence",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496",
+      "bestsimilar-blurb-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3907,
+   "title": "The Mesmerist",
+   "subtitle": "",
+   "year": "2002",
+   "meta": "USA · Comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "medium — Wikipedia female-control passage",
+   "summary": "Based on an Edgar Allan Poe story, this film tells the grimly comic tale of a bad-tempered old man (Howard Hesseman) who cheats death, only to go on tormenting the living. When a medical experiment leaves the grouch hovering between life and death ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "female+control co-occurrence in Wikipedia extract",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — The Mesmerist (2002)",
+     "url": "https://bestsimilar.com/movies/7029-the-mesmerist"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Gil Cates Jr.",
+     "url": "https://en.wikipedia.org/wiki/Gil_Cates_Jr."
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:199"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:199": {
+     "title": "The Mesmerist",
+     "year": "2002",
+     "format": "movie",
+     "meta": "USA · Comedy",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Based on an Edgar Allan Poe story, this film tells the grimly comic tale of a bad-tempered old man (Howard Hesseman) who cheats death, only to go on tormenting the living. When a medical experiment leaves the grouch hovering between life and death ...",
+     "categories": [
+      "medical"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — The Mesmerist (2002)",
+       "url": "https://bestsimilar.com/movies/7029-the-mesmerist"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Gil Cates Jr.",
+       "url": "https://en.wikipedia.org/wiki/Gil_Cates_Jr."
+      }
+     ],
+     "evidence": "female+control co-occurrence in Wikipedia extract",
+     "confidence_flag": "medium — Wikipedia female-control passage",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3908,
+   "title": "Meat Weed Madness",
+   "subtitle": "",
+   "year": "2006",
+   "meta": "USA · Comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "medium — Wikipedia female-control passage",
+   "summary": "Four lovely southern belles smoke the meat weed and then face off against Bullpucky and his family of hillbilly hipster drug fiends!",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "female+control co-occurrence in Wikipedia extract",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Meat Weed Madness (2006)",
+     "url": "https://bestsimilar.com/movies/48552-meat-weed-madness"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Meat Weed Madness",
+     "url": "https://en.wikipedia.org/wiki/Meat_Weed_Madness"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:200"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:200": {
+     "title": "Meat Weed Madness",
+     "year": "2006",
+     "format": "movie",
+     "meta": "USA · Comedy",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Four lovely southern belles smoke the meat weed and then face off against Bullpucky and his family of hillbilly hipster drug fiends!",
+     "categories": [
+      "adult-hypnosis",
+      "tech"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Meat Weed Madness (2006)",
+       "url": "https://bestsimilar.com/movies/48552-meat-weed-madness"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Meat Weed Madness",
+       "url": "https://en.wikipedia.org/wiki/Meat_Weed_Madness"
+      }
+     ],
+     "evidence": "female+control co-occurrence in Wikipedia extract",
+     "confidence_flag": "medium — Wikipedia female-control passage",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3909,
+   "title": "Isola: Multiple Personality Girl",
+   "subtitle": "",
+   "year": "2000",
+   "meta": "Japan · Drama",
+   "mechanism": "possession",
+   "confidence_flag": "medium — Wikipedia female-control passage",
+   "summary": "When a woman, able to read the thoughts of others, comes to help survivors of the 1995 Kobe earthquake, she encounters a girl with Multiple Personality Disorder whose dangerous 13th personality, Isola, must be stopped",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "The film is about a woman with ESP who helps the survivors of the Great Hanshin earthquake, who then encounters a girl with a personality disorder, one which is malevolent and possesses paranormal powers.",
+   "fit_note": "Mechanism per sources: possession. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "occult",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Isola: Multiple Personality Girl (2000)",
+     "url": "https://bestsimilar.com/movies/43769-isola-multiple-personality-girl"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Isola (film)",
+     "url": "https://en.wikipedia.org/wiki/Isola_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:201"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:201": {
+     "title": "Isola: Multiple Personality Girl",
+     "year": "2000",
+     "format": "movie",
+     "meta": "Japan · Drama",
+     "mechanism": "possession",
+     "character": "not stated",
+     "summary": "When a woman, able to read the thoughts of others, comes to help survivors of the 1995 Kobe earthquake, she encounters a girl with Multiple Personality Disorder whose dangerous 13th personality, Isola, must be stopped",
+     "categories": [
+      "occult",
+      "spirit"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Isola: Multiple Personality Girl (2000)",
+       "url": "https://bestsimilar.com/movies/43769-isola-multiple-personality-girl"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Isola (film)",
+       "url": "https://en.wikipedia.org/wiki/Isola_(film)"
+      }
+     ],
+     "evidence": "The film is about a woman with ESP who helps the survivors of the Great Hanshin earthquake, who then encounters a girl with a personality disorder, one which is malevolent and possesses paranormal powers.",
+     "confidence_flag": "medium — Wikipedia female-control passage",
+     "fit_note": "Mechanism per sources: possession. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3910,
+   "title": "Twilight of the Ice Nymphs",
+   "subtitle": "",
+   "year": "1997",
+   "meta": "Canada · Fantasy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "medium — Wikipedia female-control passage",
+   "summary": "Peter Glahn is released after years of incarceration as a political prisoner and is now returning to his homeland, the mythical Mandragora where the sun never sets. On board the ship home, he meets the mysterious Juliana Kossel who vanishes after ...",
+   "character": "not stated",
+   "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "tags": [
+    "bestsimilar-hypnosis-6496"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+   "evidence": "female+control co-occurrence in Wikipedia extract",
+   "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "BestSimilar — Twilight of the Ice Nymphs (1997)",
+     "url": "https://bestsimilar.com/movies/24597-twilight-of-the-ice-nymphs"
+    },
+    {
+     "label": "BestSimilar tag: hypnosis",
+     "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia: Twilight of the Ice Nymphs",
+     "url": "https://en.wikipedia.org/wiki/Twilight_of_the_Ice_Nymphs"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-bestsimilar-nov5"
+   ],
+   "source_records": [
+    "hypnosis-bestsimilar-nov5:202"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-bestsimilar-nov5:202": {
+     "title": "Twilight of the Ice Nymphs",
+     "year": "1997",
+     "format": "movie",
+     "meta": "Canada · Fantasy",
+     "mechanism": "hypnosis",
+     "character": "not stated",
+     "summary": "Peter Glahn is released after years of incarceration as a political prisoner and is now returning to his homeland, the mythical Mandragora where the sun never sets. On board the ship home, he meets the mysterious Juliana Kossel who vanishes after ...",
+     "categories": [
+      "fantasy"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "pregnancy_note": "not stated in BestSimilar/Wikipedia passages checked",
+     "sources": [
+      {
+       "label": "BestSimilar — Twilight of the Ice Nymphs (1997)",
+       "url": "https://bestsimilar.com/movies/24597-twilight-of-the-ice-nymphs"
+      },
+      {
+       "label": "BestSimilar tag: hypnosis",
+       "url": "https://bestsimilar.com/tag/6496-hypnosis"
+      },
+      {
+       "label": "Wikipedia: Twilight of the Ice Nymphs",
+       "url": "https://en.wikipedia.org/wiki/Twilight_of_the_Ice_Nymphs"
+      }
+     ],
+     "evidence": "female+control co-occurrence in Wikipedia extract",
+     "confidence_flag": "medium — Wikipedia female-control passage",
+     "fit_note": "Mechanism per sources: hypnosis. BestSimilar hypnosis tag also groups related mind-control/possession; distinction noted when clear.",
+     "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT",
+     "tags": [
+      "bestsimilar-hypnosis-6496"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -555824,7 +574991,8 @@ window.CATALOG = {
     "deep-oct24",
     "hypnosis-deep-oct25c",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "hypnosis-bestsimilar-nov5"
    ],
    "groups": [
     {
@@ -556023,6 +575191,12 @@ window.CATALOG = {
         "Husband hypnotizes wife",
         "High confidence"
        ],
+       "sources": [
+        {
+         "label": "French Wikipedia",
+         "url": "https://fr.wikipedia.org/wiki/Hypnose_(film,_2018)"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -556166,6 +575340,24 @@ window.CATALOG = {
         "Hypnosis",
         "Corroborated · 3 sources"
        ],
+       "sources": [
+        {
+         "label": "French Wikipedia",
+         "url": "https://fr.wikipedia.org/wiki/Au_fond_des_bois"
+        },
+        {
+         "label": "Le Monde",
+         "url": "https://www.lemonde.fr/cinema/article/2010/10/12/au-fond-des-bois-josephine-victime-ambigue-d-une-enigme-judiciaire_1424525_3476.html"
+        },
+        {
+         "label": "AlloCiné",
+         "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=183313.html"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt1695990/"
+        }
+       ],
        "provenance": "Source basis: Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown; married: no; kids status: unknown.",
        "from_source": "xla62ucxbx02u5"
@@ -556179,6 +575371,12 @@ window.CATALOG = {
         "Hypnotized woman intimate with the hypnotist or the man he directs",
         "Comedy, light stories and historical demonstrations",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Augustine_(film)"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -556472,6 +575670,12 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Hypnotherapist or doctor manipulates a female patient",
         "Medium-high confidence"
+       ],
+       "sources": [
+        {
+         "label": "repertoire.cinema.mcc.gouv.qc.ca",
+         "url": "https://repertoire.cinema.mcc.gouv.qc.ca/wp-content/blogs.dir/2/files/sites/4/2008/09/118232.2.pdf"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -557027,6 +576231,20 @@ window.CATALOG = {
         "Hypnosis",
         "Corroborated · 2 sources"
        ],
+       "sources": [
+        {
+         "label": "CafeDVD (Something Weird Video synopsis)",
+         "url": "https://www.cafedvd.com/newcode/313206"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0151395/"
+        },
+        {
+         "label": "Letterboxd",
+         "url": "https://letterboxd.com/film/the-love-cult/"
+        }
+       ],
        "provenance": "Source basis: Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown; married: no; kids status: unknown.",
        "from_source": "xla62ucxbx02u5"
@@ -557075,6 +576293,28 @@ window.CATALOG = {
         "Human-villain control",
         "Criminal mastermind or villain hypnotist",
         "Medium-high confidence"
+       ],
+       "sources": [
+        {
+         "label": "sequart.org",
+         "url": "http://sequart.org/magazine/30991/revenge-hypnotism-and-oedipus-in-oldboy-2003/"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+        },
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Oldboy_(2003_film)"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Oldboy_%282003_film%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Oldboy_%282003_film%29"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -557168,6 +576408,28 @@ window.CATALOG = {
         "Criminal mastermind or villain hypnotist",
         "High confidence"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Saimin_(film)"
+        },
+        {
+         "label": "Mandiapple / Snowblood review",
+         "url": "https://mandiapple.com/snowblood/hypnosis.htm"
+        },
+        {
+         "label": "Eiga9 (Spanish review)",
+         "url": "http://eiga9.altervista.org/cinejapones/hypnosis.html"
+        },
+        {
+         "label": "Mandiapple review",
+         "url": "https://www.mandiapple.com/snowblood/hypnosis.htm"
+        },
+        {
+         "label": "Asian Movie Pulse review",
+         "url": "https://asianmoviepulse.com/2023/04/film-review-the-hypnotist-1999-by-masayuki-ochiai/"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -557214,6 +576476,12 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Criminal mastermind or villain hypnotist",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt10765896"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -557590,6 +576858,28 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Hypnotic gaze",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Wind_from_Wyoming"
+        },
+        {
+         "label": "Cinébase (French synopsis)",
+         "url": "https://www.cinebaseinternational.com/ensavoirplus29/vent-wyoming.htm"
+        },
+        {
+         "label": "QfQ (Québec film guide)",
+         "url": "https://guide.qfq.com/prod=8534"
+        },
+        {
+         "label": "Films du Québec",
+         "url": "https://www.filmsquebec.com/films/vent-wyoming-andre-forcier/"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/A_Wind_from_Wyoming"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -558134,6 +577424,20 @@ window.CATALOG = {
         "Comedy, light stories and historical demonstrations",
         "High confidence"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Dance_with_Me_(2019_Japanese_film)"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Dance_With_Me_%282019%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Dance_with_Me_%282019_Iranian_film%29"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -558280,6 +577584,24 @@ window.CATALOG = {
         "Hypnotic memory erasure",
         "Strong · index-level evidence"
        ],
+       "sources": [
+        {
+         "label": "MyDramaList review",
+         "url": "https://mydramalist.com/profile/Cykocyn/review/164189"
+        },
+        {
+         "label": "TV Time",
+         "url": "https://www.tvtime.com/show/371109"
+        },
+        {
+         "label": "MyDramaList",
+         "url": "https://MyDramaList.com/49481-the-love-by-hypnotic"
+        },
+        {
+         "label": "mydramalist.com",
+         "url": "https://mydramalist.com/49481-the-love-by-hypnotic"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -558320,6 +577642,24 @@ window.CATALOG = {
         "Villain / occultist hypnosis",
         "High confidence · literal hypnosis · rating not verified"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Dunwich_Horror_(film)"
+        },
+        {
+         "label": "Spectrum Culture",
+         "url": "https://spectrumculture.com/2015/06/23/from-the-vaults-of-streaming-hell-the-dunwich-horror/"
+        },
+        {
+         "label": "Alchetron",
+         "url": "https://alchetron.com/The-Dunwich-Horror-(film)"
+        },
+        {
+         "label": "Inside Pulse",
+         "url": "https://insidepulse.com/2023/01/09/blu-ray-review-the-dunwich-horror/"
+        }
+       ],
        "character": "Character: Nancy Wagner",
        "from_source": "xla62ucxbx02u5"
       },
@@ -558354,6 +577694,16 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Sorcerer's hypnotic powers / mind control",
         "High confidence · explicit sexual content"
+       ],
+       "sources": [
+        {
+         "label": "The A.V. Club",
+         "url": "https://www.avclub.com/the-erotic-rites-of-frankenstein-is-a-stitched-up-serie-1798184479"
+        },
+        {
+         "label": "cinemaparadiso.co.uk",
+         "url": "https://www.cinemaparadiso.co.uk/rentals/the-erotic-rites-of-frankenstein-217301.html"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -558859,6 +578209,20 @@ window.CATALOG = {
         "Erotic-thriller hypnotic seduction",
         "Medium confidence"
        ],
+       "sources": [
+        {
+         "label": "flixano.com",
+         "url": "https://www.flixano.com/movie/mind-blowers-1970/"
+        },
+        {
+         "label": "Critifan",
+         "url": "https://www.critifan.com/movies/141585"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0143679/"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -559207,6 +578571,16 @@ window.CATALOG = {
         "Human-villain control",
         "Vampire hypnotic suggestion",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Return_of_Count_Yorga"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Return_of_Count_Yorga"
+        }
        ],
        "character": "Character: Cynthia Nelson",
        "from_source": "xla62ucxbx02u5"
@@ -559789,6 +579163,37 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25c"
+    },
+    {
+     "title": "BestSimilar hypnosis-tag additions (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3886,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3901,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3890,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3908,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3885,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3904,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      }
+     ],
+     "from_source": "hypnosis-bestsimilar-nov5"
     }
    ],
    "declared_count_by_source": {
@@ -559818,7 +579223,8 @@ window.CATALOG = {
     "deep-oct24": null,
     "hypnosis-deep-oct25c": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "hypnosis-bestsimilar-nov5": null
    }
   },
   {
@@ -560648,6 +580054,7 @@ window.CATALOG = {
         "Cult / coercive brainwashing",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -560701,6 +580108,7 @@ window.CATALOG = {
         "Cult / coercive brainwashing",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -560712,6 +580120,16 @@ window.CATALOG = {
         "Female hypnosis / mind control — India",
         "Brainwashing",
         "High"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Tahalka"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Tahalka"
+        }
        ],
        "provenance": "Source basis: India-only research pass, 30 Sep 2026 (Mental Block wiki; Wikipedia)",
        "from_source": "xla62ucxbx02u5"
@@ -561098,7 +580516,8 @@ window.CATALOG = {
     "deep-oct24",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "hypnosis-bestsimilar-nov5"
    ],
    "groups": [
     {
@@ -561243,6 +580662,16 @@ window.CATALOG = {
         "Demonic / occult control",
         "Research report · web-verified"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Curse_of_the_Crimson_Altar"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Curse_of_the_Crimson_Altar"
+        }
+       ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -561381,6 +580810,7 @@ window.CATALOG = {
         "Demonic / occult control",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -561643,6 +581073,16 @@ window.CATALOG = {
         "Fantasy enchantment",
         "Demonic / occult control",
         "Research report · web-verified"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Suspiria_%282018%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Suspiria_%282018_film%29"
+        }
        ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
@@ -562159,6 +581599,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "BestSimilar hypnosis-tag additions (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3909,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3893,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      }
+     ],
+     "from_source": "hypnosis-bestsimilar-nov5"
     }
    ],
    "declared_count_by_source": {
@@ -562183,7 +581638,8 @@ window.CATALOG = {
     "deep-oct24": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "hypnosis-bestsimilar-nov5": null
    }
   },
   {
@@ -562230,7 +581686,8 @@ window.CATALOG = {
     "deep-gap-oct15",
     "youtube-deep-oct15",
     "deep-oct24",
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "hypnosis-bestsimilar-nov5"
    ],
    "groups": [
     {
@@ -562247,6 +581704,12 @@ window.CATALOG = {
         "Hypnotized woman intimate with the hypnotist or the man he directs",
         "Clinical hypnosis demonstrations",
         "HIGH · patient is 19 · historical doctor"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Augustine_(film)"
+        }
        ],
        "provenance": "Source basis: Sources reviewed in the 2 October 2026 sweep: Cine-Sport, Newcity Film, New York Press, Spectrum Culture and MUBI.",
        "entry_note": "Note: Augustine is a 19-year-old young adult; Charcot is a historical figure. The intimacy overlap is borderline rather than a direct hypnosis-to-sex command.",
@@ -562316,6 +581779,20 @@ window.CATALOG = {
         "Wife / female character forcibly hypnotized to obey",
         "Secret clinical hypnosis + bell post-hypnotic trigger",
         "MEDIUM · [EROTIC] PINK FILM"
+       ],
+       "sources": [
+        {
+         "label": "RareFilm",
+         "url": "https://rarefilm.net/nurse-diary-beast-afternoon-1982-naosuke-kurosawa-maiko-kazama-jun-miho-miki-yamaji-hideo-shiroyama-crime-sci-fi-erotic/"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0287516"
+        },
+        {
+         "label": "Coffee Coffee and More Coffee",
+         "url": "http://www.coffeecoffeeandmorecoffee.com/archives/2016/10/"
+        }
        ],
        "entry_note": "Note: Erotic pink film. The gain is institutional and commercial experimentation as well as control over the patient.",
        "from_source": "xla62ucxbx02u5"
@@ -562630,6 +582107,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-oct24"
+    },
+    {
+     "title": "BestSimilar hypnosis-tag additions (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3896,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3897,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3892,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3894,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      }
+     ],
+     "from_source": "hypnosis-bestsimilar-nov5"
     }
    ],
    "declared_count_by_source": {
@@ -562637,7 +582137,8 @@ window.CATALOG = {
     "deep-gap-oct15": null,
     "youtube-deep-oct15": null,
     "deep-oct24": null,
-    "deep-refresh-oct30": null
+    "deep-refresh-oct30": null,
+    "hypnosis-bestsimilar-nov5": null
    }
   },
   {
@@ -562669,7 +582170,8 @@ window.CATALOG = {
     "hypno-kids-witness-unverified-oct25",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "hypnosis-bestsimilar-nov5"
    ],
    "groups": [
     {
@@ -563252,6 +582754,37 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "BestSimilar hypnosis-tag additions (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3889,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3902,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3897,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3908,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3895,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3904,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      }
+     ],
+     "from_source": "hypnosis-bestsimilar-nov5"
     }
    ],
    "declared_count_by_source": {
@@ -563277,7 +582810,8 @@ window.CATALOG = {
     "hypno-kids-witness-unverified-oct25": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "hypnosis-bestsimilar-nov5": null
    }
   },
   {
@@ -563315,7 +582849,8 @@ window.CATALOG = {
     "hypno-kids-witness-unverified-oct25",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "hypnosis-bestsimilar-nov5"
    ],
    "groups": [
     {
@@ -563900,6 +583435,7 @@ window.CATALOG = {
         "Fantasy enchantment",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -564126,6 +583662,7 @@ window.CATALOG = {
         "Fantasy enchantment",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -565727,6 +585264,33 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "BestSimilar hypnosis-tag additions (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3886,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3891,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3897,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3899,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3910,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      }
+     ],
+     "from_source": "hypnosis-bestsimilar-nov5"
     }
    ],
    "declared_count_by_source": {
@@ -565758,7 +585322,8 @@ window.CATALOG = {
     "hypno-kids-witness-unverified-oct25": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "hypnosis-bestsimilar-nov5": null
    }
   },
   {
@@ -566195,6 +585760,16 @@ window.CATALOG = {
         "Teen soul-fragment diary possession",
         "Medium confidence"
        ],
+       "sources": [
+        {
+         "label": "Harry Potter Wiki",
+         "url": "https://harrypotter.fandom.com/wiki/T._M._Riddle%27s_Diary"
+        },
+        {
+         "label": "ScreenRant",
+         "url": "https://screenrant.com/harry-potter-tom-riddle-diary-possession-ending-change/"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -566400,6 +585975,20 @@ window.CATALOG = {
         "Other female hypnosis / mind control",
         "Trance",
         "High · Wikipedia + Mental Block"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/No_Dessert,_Dad,_till_You_Mow_the_Lawn"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/No_Dessert%2C_Dad%2C_till_You_Mow_the_Lawn"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/No_Dessert%2C_Dad%2C_till_You_Mow_the_Lawn"
+        }
        ],
        "provenance": "Source basis: Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant; kids status: yes.",
@@ -568260,7 +587849,8 @@ window.CATALOG = {
     "wife-hypnosis-oct15",
     "deep-refresh-oct18",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "hypnosis-bestsimilar-nov5"
    ],
    "groups": [
     {
@@ -568344,6 +587934,16 @@ window.CATALOG = {
         "Female hypnotized / mind-controlled by husband, boyfriend, ex-husband or ex-boyfriend",
         "Psychiatric hypnosis / investigative memory recovery",
         "High confidence · benevolent investigative use"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Hypnotist_(2012_film)"
+        },
+        {
+         "label": "Swedish Wikipedia",
+         "url": "https://sv.wikipedia.org/wiki/Hypnotis%C3%B6ren_(film)"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -569101,6 +588701,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-oct18"
+    },
+    {
+     "title": "BestSimilar hypnosis-tag additions (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3894,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      }
+     ],
+     "from_source": "hypnosis-bestsimilar-nov5"
     }
    ],
    "declared_count_by_source": {
@@ -569116,7 +588727,8 @@ window.CATALOG = {
     "wife-hypnosis-oct15": null,
     "deep-refresh-oct18": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "hypnosis-bestsimilar-nov5": null
    }
   },
   {
@@ -570138,6 +589750,16 @@ window.CATALOG = {
         "Hypnosis",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Chemical_Wedding"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Chemical_Wedding_%28film%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -570505,6 +590127,16 @@ window.CATALOG = {
         "Human-villain control",
         "Trance",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Eye_of_The_Devil"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Eye_of_the_Devil"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -571332,6 +590964,16 @@ window.CATALOG = {
         "Control mechanism unstated",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Murders_In_The_Rue_Morgue_%281971%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Murders_in_the_Rue_Morgue_%281971_film%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -571955,6 +591597,16 @@ window.CATALOG = {
         "Human-villain control",
         "Control mechanism unstated",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Sisters_%281973_Film%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Sisters_%281972_film%29"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
@@ -574589,6 +594241,28 @@ window.CATALOG = {
         "Hypnotic gaze",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Wind_from_Wyoming"
+        },
+        {
+         "label": "Cinébase (French synopsis)",
+         "url": "https://www.cinebaseinternational.com/ensavoirplus29/vent-wyoming.htm"
+        },
+        {
+         "label": "QfQ (Québec film guide)",
+         "url": "https://guide.qfq.com/prod=8534"
+        },
+        {
+         "label": "Films du Québec",
+         "url": "https://www.filmsquebec.com/films/vent-wyoming-andre-forcier/"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/A_Wind_from_Wyoming"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -574873,6 +594547,16 @@ window.CATALOG = {
         "Female hypnotized / mind-controlled by husband, boyfriend, ex-husband or ex-boyfriend",
         "Psychiatric hypnosis / investigative memory recovery",
         "High confidence · benevolent investigative use"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Hypnotist_(2012_film)"
+        },
+        {
+         "label": "Swedish Wikipedia",
+         "url": "https://sv.wikipedia.org/wiki/Hypnotis%C3%B6ren_(film)"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -577230,6 +596914,16 @@ window.CATALOG = {
         "Trance",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Blue_Eyes_of_the_Broken_Doll"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Blue_Eyes_of_the_Broken_Doll"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -577340,6 +597034,12 @@ window.CATALOG = {
         "Hypnosis",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Monster_of_the_Volcano"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -577363,6 +597063,16 @@ window.CATALOG = {
         "Human-villain control",
         "Hypnosis",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/New_York_Ninja"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/New_York_Ninja"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown.",
@@ -577465,6 +597175,16 @@ window.CATALOG = {
         "Fantasy enchantment",
         "Hypnosis",
         "Low-medium · Mental Block plot (brainwashing; how hypnotic it is is not clear)"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Target_for_Killing"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Target_for_Killing"
+        }
        ],
        "provenance": "Source basis: Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant; kids status: no.",
@@ -579086,6 +598806,16 @@ window.CATALOG = {
         "Trance",
         "Strong · fan-wiki source"
        ],
+       "sources": [
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Billy_the_Kid_Versus_Dracula"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Billy_the_Kid_Versus_Dracula"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown.",
        "from_source": "xla62ucxbx02u5"
@@ -579767,6 +599497,24 @@ window.CATALOG = {
         "Hypnotic memory erasure",
         "Strong · index-level evidence"
        ],
+       "sources": [
+        {
+         "label": "MyDramaList review",
+         "url": "https://mydramalist.com/profile/Cykocyn/review/164189"
+        },
+        {
+         "label": "TV Time",
+         "url": "https://www.tvtime.com/show/371109"
+        },
+        {
+         "label": "MyDramaList",
+         "url": "https://MyDramaList.com/49481-the-love-by-hypnotic"
+        },
+        {
+         "label": "mydramalist.com",
+         "url": "https://mydramalist.com/49481-the-love-by-hypnotic"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -580303,6 +600051,12 @@ window.CATALOG = {
         "Clinical hypnosis",
         "Boundary case"
        ],
+       "sources": [
+        {
+         "label": "Collider",
+         "url": "https://collider.com/danny-boyle-trance-james-mcavoy-rosario-dawson/"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -580403,6 +600157,16 @@ window.CATALOG = {
         "Other female hypnosis / mind control",
         "Hypnosis",
         "Strong · web-verified"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"
+        },
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Wizards_of_the_Lost_Kingdom"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown.",
@@ -581168,6 +600932,24 @@ window.CATALOG = {
         "Hypnosis",
         "Corroborated · 3 sources"
        ],
+       "sources": [
+        {
+         "label": "French Wikipedia",
+         "url": "https://fr.wikipedia.org/wiki/Au_fond_des_bois"
+        },
+        {
+         "label": "Le Monde",
+         "url": "https://www.lemonde.fr/cinema/article/2010/10/12/au-fond-des-bois-josephine-victime-ambigue-d-une-enigme-judiciaire_1424525_3476.html"
+        },
+        {
+         "label": "AlloCiné",
+         "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=183313.html"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt1695990/"
+        }
+       ],
        "provenance": "Source basis: Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown; married: no; kids status: unknown.",
        "from_source": "xla62ucxbx02u5"
@@ -581392,6 +601174,20 @@ window.CATALOG = {
         "Cult / coercive brainwashing",
         "Hypnosis",
         "Corroborated · 2 sources"
+       ],
+       "sources": [
+        {
+         "label": "CafeDVD (Something Weird Video synopsis)",
+         "url": "https://www.cafedvd.com/newcode/313206"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0151395/"
+        },
+        {
+         "label": "Letterboxd",
+         "url": "https://letterboxd.com/film/the-love-cult/"
+        }
        ],
        "provenance": "Source basis: Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown; married: no; kids status: unknown.",
@@ -583287,7 +603083,8 @@ window.CATALOG = {
     "hypno-kids-witness-oct25",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "hypnosis-bestsimilar-nov5"
    ],
    "groups": [
     {
@@ -583425,6 +603222,12 @@ window.CATALOG = {
         "Hypnosis",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/A_Cat_In_The_Brain"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -583530,6 +603333,12 @@ window.CATALOG = {
         "Hypnosis",
         "High · Wikipedia plot"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Devonsville_Terror"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -583573,6 +603382,16 @@ window.CATALOG = {
         "Medical / therapeutic hypnosis",
         "Trance",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Dream_Garden"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Dream_Garden"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -583619,6 +603438,7 @@ window.CATALOG = {
         "Medical / therapeutic hypnosis",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -583731,6 +603551,16 @@ window.CATALOG = {
         "Medical / therapeutic hypnosis",
         "Control mechanism unstated",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Late_Night_with_the_Devil"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Late_Night_with_the_Devil"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
@@ -583898,6 +603728,20 @@ window.CATALOG = {
         "Medical / therapeutic hypnosis",
         "Control mechanism unstated",
         "High · fan-wiki scene log + TV Tropes example"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Profit"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Profit_%28TV_series%29"
+        },
+        {
+         "label": "TV Tropes: Hypno Fool",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
@@ -585134,6 +604978,53 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "BestSimilar hypnosis-tag additions (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3889,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3896,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3901,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3897,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3890,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3892,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3907,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3894,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3895,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3904,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      }
+     ],
+     "from_source": "hypnosis-bestsimilar-nov5"
     }
    ],
    "declared_count_by_source": {
@@ -585177,7 +605068,8 @@ window.CATALOG = {
     "hypno-kids-witness-oct25": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "hypnosis-bestsimilar-nov5": null
    }
   },
   {
@@ -585298,6 +605190,20 @@ window.CATALOG = {
         "Stage hypnosis",
         "High · Wikipedia + CBBC wiki + Memorable TV"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Big_Kids"
+        },
+        {
+         "label": "CBBC wiki episode list",
+         "url": "https://cbbc.fandom.com/wiki/List_of_Big_Kids_Episodes"
+        },
+        {
+         "label": "Memorable TV",
+         "url": "https://www.memorabletv.com/tv/big-kids-bbc-1-2000-imogen-stubbs-duncan-duff/"
+        }
+       ],
        "provenance": "Source basis: Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content.",
        "entry_note": "Note: Borderline: Episode titles come from the CBBC fan wiki (descriptive rather than broadcast titles); only the first and last air dates are sourced. Outcome facts: pregnancy outcome: not pregnant; kids status: yes.",
        "from_source": "xla62ucxbx02u5"
@@ -585332,6 +605238,24 @@ window.CATALOG = {
         "Human-villain control",
         "Hypnotic gaze",
         "High · Wikipedia plot + Mental Block screenshots + TV Tropes"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Conan_the_Barbarian_(1982_film)"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Conan_The_Barbarian"
+        },
+        {
+         "label": "TV Tropes",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoticEyes"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Conan_the_Barbarian_%281982_film%29"
+        }
        ],
        "provenance": "Source basis: Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant; kids status: yes.",
@@ -585559,6 +605483,20 @@ window.CATALOG = {
         "Other female hypnosis / mind control",
         "Trance",
         "High · Wikipedia + Mental Block"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/No_Dessert,_Dad,_till_You_Mow_the_Lawn"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/No_Dessert%2C_Dad%2C_till_You_Mow_the_Lawn"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/No_Dessert%2C_Dad%2C_till_You_Mow_the_Lawn"
+        }
        ],
        "provenance": "Source basis: Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant; kids status: yes.",
@@ -585796,6 +605734,20 @@ window.CATALOG = {
         "Trance",
         "Medium · Wikipedia + Mental Block (mass hypnosis of parents, no named mother)"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers:_The_Movie"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Mighty_Morphin_Power_Rangers%3A_The_Movie"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers%3A_The_Movie"
+        }
+       ],
        "provenance": "Source basis: Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant; kids status: yes.",
        "from_source": "xla62ucxbx02u5"
@@ -585827,6 +605779,12 @@ window.CATALOG = {
         "Mother with child hypnotized / mind-controlled",
         "Voluntary hypnosis",
         "Borderline · no hostile controller"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt5921624"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -588013,7 +607971,8 @@ window.CATALOG = {
     "deep-refresh-oct18",
     "deep-oct24",
     "hypnosis-imdb-list-full-oct25",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "hypnosis-bestsimilar-nov5"
    ],
    "groups": [
     {
@@ -588690,6 +608649,16 @@ window.CATALOG = {
         "Hypnotized into crime",
         "Stage hypnosis",
         "High · Wikipedia + TV Tropes example"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Hanussen_%281988_film%29"
+        },
+        {
+         "label": "TV Tropes: Hypno Fool",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -589691,6 +609660,28 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Hypnotic gaze",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Wind_from_Wyoming"
+        },
+        {
+         "label": "Cinébase (French synopsis)",
+         "url": "https://www.cinebaseinternational.com/ensavoirplus29/vent-wyoming.htm"
+        },
+        {
+         "label": "QfQ (Québec film guide)",
+         "url": "https://guide.qfq.com/prod=8534"
+        },
+        {
+         "label": "Films du Québec",
+         "url": "https://www.filmsquebec.com/films/vent-wyoming-andre-forcier/"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/A_Wind_from_Wyoming"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -590946,6 +610937,45 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "BestSimilar hypnosis-tag additions (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3905,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3898,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3888,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3887,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3903,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3906,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3900,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3885,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      }
+     ],
+     "from_source": "hypnosis-bestsimilar-nov5"
     }
    ],
    "declared_count_by_source": {
@@ -590970,7 +611000,8 @@ window.CATALOG = {
     "deep-refresh-oct18": null,
     "deep-oct24": null,
     "hypnosis-imdb-list-full-oct25": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "hypnosis-bestsimilar-nov5": null
    }
   },
   {
@@ -596093,6 +616124,20 @@ window.CATALOG = {
         "Alien influence · Alien-fetus commands",
         "High confidence · index-verified"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Progeny_(film)"
+        },
+        {
+         "label": "Cult Film Archive",
+         "url": "http://www.geocities.ws/cultfilmarchive/progeny.htm"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0167350"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -596101,6 +616146,16 @@ window.CATALOG = {
         "Pregnant woman hypnotized / mind-controlled by a child (fetus, dead-child ghost, or alien child)",
         "Implied malevolent in-utero agency",
         "MEDIUM"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Shelley_(2016_film)"
+        },
+        {
+         "label": "TV Guide",
+         "url": "https://www.tvguide.com/movies/Shelley/2000365430"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -596267,6 +616322,20 @@ window.CATALOG = {
         "Therapeutic hypnosis leading into demonic possession",
         "High confidence · literal hypnosis · UK DVD 18"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Antichrist_(film)"
+        },
+        {
+         "label": "Review Graveyard",
+         "url": "http://www.reviewgraveyard.com/00_revs/r2009/dvd/09-03-16_antichrist.htm"
+        },
+        {
+         "label": "ComingSoon.net",
+         "url": "https://www.comingsoon.net/?p=776821"
+        }
+       ],
        "character": "Character: Ippolita",
        "from_source": "xla62ucxbx02u5"
       },
@@ -596283,6 +616352,24 @@ window.CATALOG = {
         "Pregnant women controlled / possessed by evil forces",
         "Villain / occultist hypnosis",
         "High confidence · literal hypnosis · rating not verified"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Dunwich_Horror_(film)"
+        },
+        {
+         "label": "Spectrum Culture",
+         "url": "https://spectrumculture.com/2015/06/23/from-the-vaults-of-streaming-hell-the-dunwich-horror/"
+        },
+        {
+         "label": "Alchetron",
+         "url": "https://alchetron.com/The-Dunwich-Horror-(film)"
+        },
+        {
+         "label": "Inside Pulse",
+         "url": "https://insidepulse.com/2023/01/09/blu-ray-review-the-dunwich-horror/"
+        }
        ],
        "character": "Character: Nancy Wagner",
        "from_source": "xla62ucxbx02u5"
@@ -596743,6 +616830,20 @@ window.CATALOG = {
         "Pregnant woman hypnotized while pregnant — strict core",
         "Therapeutic hypnosis leading into demonic possession",
         "High confidence · literal hypnosis · UK DVD 18 · borderline-strict"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Antichrist_(film)"
+        },
+        {
+         "label": "Review Graveyard",
+         "url": "http://www.reviewgraveyard.com/00_revs/r2009/dvd/09-03-16_antichrist.htm"
+        },
+        {
+         "label": "ComingSoon.net",
+         "url": "https://www.comingsoon.net/?p=776821"
+        }
        ],
        "provenance": "Source basis: Combined worldwide and Indian-language pregnancy-control sweep completed 30 Sep 2026; every title was checked against the loaded catalog before category assignment.",
        "character": "Character: Ippolita",
@@ -597619,6 +617720,20 @@ window.CATALOG = {
         "Alien influence · Alien-fetus commands",
         "High confidence · index-verified"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Progeny_(film)"
+        },
+        {
+         "label": "Cult Film Archive",
+         "url": "http://www.geocities.ws/cultfilmarchive/progeny.htm"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0167350"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       }
      ]
@@ -597760,6 +617875,12 @@ window.CATALOG = {
         "Cult / coercive brainwashing",
         "Trance",
         "Medium · Wikipedia states the record \"causes all of the women in Salem to enter a trance\" and that the coven made the music \"to control the women of Salem\"; Heidi's later visions and drug relapse blur how far she herself is entranced; no deal by Heidi (a curse on her bloodline)"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Lords_of_Salem_(film)"
+        }
        ],
        "provenance": "Source basis: Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: gives birth.",
@@ -599347,6 +619468,16 @@ window.CATALOG = {
         "Brainwashing",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Adventures_of_Rocky_and_Bullwinkle_%282000_Film%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Rocky_and_Bullwinkle_%28film%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -599748,6 +619879,16 @@ window.CATALOG = {
         "Mind control",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Black_Panther%3A_Wakanda_Forever"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Black_Panther%3A_Wakanda_Forever"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -599912,6 +620053,16 @@ window.CATALOG = {
         "Sci-fi / alien / technological control",
         "Hypnotic gaze",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Contamination"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Contamination_%28film%29"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -600297,6 +620448,16 @@ window.CATALOG = {
         "Hypnosis",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Dr._M"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Dr._M_%28film%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown.",
        "from_source": "xla62ucxbx02u5"
@@ -600602,6 +620763,16 @@ window.CATALOG = {
         "Trance",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Ghidorah%2C_the_Three-Headed_Monster"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Ghidorah%2C_the_Three-Headed_Monster"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -600841,6 +621012,16 @@ window.CATALOG = {
         "Human-villain control",
         "Control mechanism unstated",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/In_Like_Flint"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/In_Like_Flint"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -604183,7 +624364,8 @@ window.CATALOG = {
     "youtube-india-oct15",
     "deep-refresh-oct18",
     "hypnosis-imdb-list-full-oct25",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "hypnosis-bestsimilar-nov5"
    ],
    "groups": [
     {
@@ -605664,6 +625846,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "BestSimilar hypnosis-tag additions (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3909,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3893,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      }
+     ],
+     "from_source": "hypnosis-bestsimilar-nov5"
     }
    ],
    "declared_count_by_source": {
@@ -605679,7 +625876,8 @@ window.CATALOG = {
     "youtube-india-oct15": null,
     "deep-refresh-oct18": null,
     "hypnosis-imdb-list-full-oct25": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "hypnosis-bestsimilar-nov5": null
    }
   },
   {
@@ -606703,6 +626901,16 @@ window.CATALOG = {
         "Hypnotic gaze",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Kondaveeti_Donga"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Kondaveeti_Donga"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -607486,6 +627694,12 @@ window.CATALOG = {
         "Hypnosis",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Blood_Scarab"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -608187,6 +628401,16 @@ window.CATALOG = {
         "Trance",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Dracula%3A_Prisoner_Of_Frankenstein"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Dracula%2C_Prisoner_of_Frankenstein"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -608305,6 +628529,16 @@ window.CATALOG = {
         "Hypnotic gaze",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Fright_Night_2%3A_New_Blood"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Fright_Night_2%3A_New_Blood"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -608395,6 +628629,12 @@ window.CATALOG = {
         "Human-villain control",
         "Control mechanism unstated",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Guess_What_Happened_to_Count_Dracula%3F"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -608805,6 +629045,16 @@ window.CATALOG = {
         "Hypnotic gaze",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Nadja"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Nadja_%28film%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -609107,6 +629357,16 @@ window.CATALOG = {
         "Occult ritual",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Satanic_Rites_of_Dracula"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Satanic_Rites_of_Dracula"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -609233,6 +629493,16 @@ window.CATALOG = {
         "Hypnotic gaze",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Sundown%3A_The_Vampire_in_Retreat"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Sundown%3A_The_Vampire_in_Retreat"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -609302,6 +629572,16 @@ window.CATALOG = {
         "Wife / female character forcibly hypnotized to obey",
         "Vampire mesmerism",
         "Research report · web-verified"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Taste_the_Blood_of_Dracula"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Taste_the_Blood_of_Dracula"
+        }
        ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
@@ -609430,6 +629710,7 @@ window.CATALOG = {
         "Vampire mesmerism",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -609520,6 +629801,12 @@ window.CATALOG = {
         "Medical / therapeutic hypnosis",
         "Hypnotic gaze",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Vampire_at_Midnight"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -610732,7 +631019,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25c",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "hypnosis-bestsimilar-nov5"
    ],
    "groups": [
     {
@@ -611274,6 +631562,12 @@ window.CATALOG = {
         "Comedy, light stories and historical demonstrations",
         "High confidence"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Augustine_(film)"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -611545,6 +631839,20 @@ window.CATALOG = {
         "Secret clinical hypnosis + bell post-hypnotic trigger",
         "MEDIUM · [EROTIC] PINK FILM"
        ],
+       "sources": [
+        {
+         "label": "RareFilm",
+         "url": "https://rarefilm.net/nurse-diary-beast-afternoon-1982-naosuke-kurosawa-maiko-kazama-jun-miho-miki-yamaji-hideo-shiroyama-crime-sci-fi-erotic/"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0287516"
+        },
+        {
+         "label": "Coffee Coffee and More Coffee",
+         "url": "http://www.coffeecoffeeandmorecoffee.com/archives/2016/10/"
+        }
+       ],
        "entry_note": "Note: Erotic pink film. The gain is institutional and commercial experimentation as well as control over the patient.",
        "from_source": "xla62ucxbx02u5"
       },
@@ -611732,6 +632040,28 @@ window.CATALOG = {
         "Criminal mastermind or villain hypnotist",
         "High confidence"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Saimin_(film)"
+        },
+        {
+         "label": "Mandiapple / Snowblood review",
+         "url": "https://mandiapple.com/snowblood/hypnosis.htm"
+        },
+        {
+         "label": "Eiga9 (Spanish review)",
+         "url": "http://eiga9.altervista.org/cinejapones/hypnosis.html"
+        },
+        {
+         "label": "Mandiapple review",
+         "url": "https://www.mandiapple.com/snowblood/hypnosis.htm"
+        },
+        {
+         "label": "Asian Movie Pulse review",
+         "url": "https://asianmoviepulse.com/2023/04/film-review-the-hypnotist-1999-by-masayuki-ochiai/"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -611872,6 +632202,24 @@ window.CATALOG = {
         "Pregnant women controlled / possessed by evil forces",
         "Villain / occultist hypnosis",
         "High confidence · literal hypnosis · rating not verified"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Dunwich_Horror_(film)"
+        },
+        {
+         "label": "Spectrum Culture",
+         "url": "https://spectrumculture.com/2015/06/23/from-the-vaults-of-streaming-hell-the-dunwich-horror/"
+        },
+        {
+         "label": "Alchetron",
+         "url": "https://alchetron.com/The-Dunwich-Horror-(film)"
+        },
+        {
+         "label": "Inside Pulse",
+         "url": "https://insidepulse.com/2023/01/09/blu-ray-review-the-dunwich-horror/"
+        }
        ],
        "character": "Character: Nancy Wagner",
        "from_source": "xla62ucxbx02u5"
@@ -613307,6 +633655,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "BestSimilar hypnosis-tag additions (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3901,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3895,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      }
+     ],
+     "from_source": "hypnosis-bestsimilar-nov5"
     }
    ],
    "declared_count_by_source": {
@@ -613333,7 +633696,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25c": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "hypnosis-bestsimilar-nov5": null
    }
   },
   {
@@ -613353,7 +633717,8 @@ window.CATALOG = {
     "deep-oct24",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "hypnosis-bestsimilar-nov5"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -613367,7 +633732,8 @@ window.CATALOG = {
     "deep-oct24": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "hypnosis-bestsimilar-nov5": null
    },
    "groups": [
     {
@@ -613995,6 +634361,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "BestSimilar hypnosis-tag additions (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3902,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3886,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3890,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      },
+      {
+       "id": 3894,
+       "from_source": "hypnosis-bestsimilar-nov5"
+      }
+     ],
+     "from_source": "hypnosis-bestsimilar-nov5"
     }
    ]
   },
@@ -614362,6 +634751,16 @@ window.CATALOG = {
         "Wife hypnotized / mind-controlled / possessed by her husband's ex-wife or ex-lover",
         "Possession by dead first wife",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Tomb_of_Ligeia"
+        },
+        {
+         "label": "HorrorNews.net",
+         "url": "https://horrornews.net/88790/film-review-tomb-ligeia-1964/"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
