@@ -1,50 +1,50 @@
 {
- "generated": "2026-10-20",
+ "generated": "2026-11-05",
  "categories": [
   {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 116
+   "entry_count": 118
   },
   {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 31
+   "entry_count": 33
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
-   "entry_count": 13
+   "entry_count": 14
   },
   {
    "key": "human",
    "label": "Human-villain control",
-   "entry_count": 62
+   "entry_count": 72
   },
   {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
-   "entry_count": 41
+   "entry_count": 42
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
-   "entry_count": 13
+   "entry_count": 17
   },
   {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
-   "entry_count": 28
+   "entry_count": 34
   },
   {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
-   "entry_count": 9
+   "entry_count": 15
   },
   {
    "key": "hardcore-adult",
    "label": "Hardcore / adult",
-   "entry_count": 125
+   "entry_count": 136
   },
   {
    "key": "fan-made-roleplay",
@@ -53,7 +53,7 @@
   }
  ],
  "formats": {
-  "Novel": 9,
+  "Novel": 13,
   "Comic book": 8,
   "Hentai manga": 19,
   "Hentai doujinshi": 29,
@@ -61,7 +61,7 @@
   "Hentai doujinshi (parody)": 12,
   "Manhwa (webtoon)": 6,
   "Adult web comic": 1,
-  "Erotic novella (self-published)": 8,
+  "Erotic novella (self-published)": 16,
   "Erotic short-story series (self-published)": 6,
   "Manhua (webtoon)": 1,
   "Independent 3D web comic": 1,
@@ -72,7 +72,7 @@
   "Fan comic": 1,
   "Fan manga (Pixiv)": 1,
   "Fan 3D comic (Koikatsu)": 1,
-  "Erotic short story (self-published)": 17,
+  "Erotic short story (self-published)": 18,
   "Interactive erotic story (CYOA)": 1,
   "Independent illustrated vignette": 1,
   "Independent comic (commission)": 1,
@@ -5019,6 +5019,487 @@
    "note": "Posted in 2021, before Pixiv added AI labels (aiType 0). The gist comes from the Pixiv tags and the artist's caption. The post is all-ages on Pixiv (xRestrict 0).",
    "adult_basis": "the heroine's mother; tagged 人妻 (married woman)",
    "id": 153
+  },
+  {
+   "title": "The Beetle",
+   "original_title": "The Beetle: A Mystery",
+   "creator": "Richard Marsh",
+   "year": 1897,
+   "format": "Novel",
+   "language": "English",
+   "publisher": "Skeffington & Son (London)",
+   "gist": "A shape-shifting Egyptian entity uses mesmerism to control victims in London. Politician's daughter and secret fiancée Marjorie Lindon is hypnotized, abducted and dressed as a man for transport; she is later recovered unconscious and eventually marries Paul Lessingham.",
+   "where": "Marjorie Lindon's narrative (capture); Champnell narrative (pursuit and recovery)",
+   "wife": "no at hypnosis (secretly engaged); yes by the closing note (marries Lessingham)",
+   "pregnant_end": "no (not stated)",
+   "kids_together": "unknown",
+   "kids_before": "no",
+   "categories": [
+    "other-control",
+    "occult",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: The Beetle (novel)",
+     "url": "https://en.wikipedia.org/wiki/The_Beetle_(novel)"
+    },
+    {
+     "label": "Valancourt Books: The Beetle (1897)",
+     "url": "https://www.valancourtbooks.com/the-beetle-1897.html"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Mesmerism/hypnosis of an adult fiancée; cult and shape-shifting frame the control.",
+   "adult_basis": "adult political fiancée / daughter of an MP",
+   "id": 154
+  },
+  {
+   "title": "The Lair of the White Worm",
+   "original_title": "The Lair of the White Worm",
+   "creator": "Bram Stoker",
+   "year": 1911,
+   "format": "Novel",
+   "language": "English",
+   "publisher": "William Rider and Son (London)",
+   "gist": "Edgar Caswall, heir to Castra Regis and inheritor of Franz Mesmer's chest, repeatedly uses mesmerism against Lilla Watford (a little over twenty). Her cousin Mimi resists; Caswall's final mesmeric assault leaves Lilla drained and dead.",
+   "where": "Repeated mesmeric assaults at Mercy Farm; fatal final visit",
+   "wife": "no",
+   "pregnant_end": "no (dies)",
+   "kids_together": "no",
+   "kids_before": "no",
+   "categories": [
+    "other-control",
+    "human",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: The Lair of the White Worm",
+     "url": "https://en.wikipedia.org/wiki/The_Lair_of_the_White_Worm"
+    },
+    {
+     "label": "The Gothic Library: The Horrors of Hypnotism",
+     "url": "https://www.thegothiclibrary.com/the-horrors-of-hypnotism/"
+    },
+    {
+     "label": "Project Gutenberg text",
+     "url": "https://www.gutenberg.org/files/1188/1188-h/1188-h.htm"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Same author as Dracula (already catalogued); this card is the mesmeric assaults on Lilla, not the White Worm subplot.",
+   "adult_basis": "Lilla Watford described in the text as a little over twenty",
+   "id": 155
+  },
+  {
+   "title": "Breaking the Girl",
+   "original_title": "Breaking the Girl",
+   "creator": "Eva Marks",
+   "year": 2024,
+   "format": "Novel",
+   "language": "English",
+   "publisher": "self-published (Kindle)",
+   "gist": "Psychiatrist Dr. Marcus Kingston kidnaps Leighton (age 22), his daughter's adult best friend, and uses hypnosis among other coercive methods to dominate and recondition her in a dark romance frame.",
+   "where": "Full novel (dark romance / hypno)",
+   "wife": "no (captive / coerced relationship)",
+   "pregnant_end": "unknown (not confirmed from independent blurbs checked)",
+   "kids_together": "unknown",
+   "kids_before": "no",
+   "categories": [
+    "human",
+    "forced-obedience",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Amazon blurb",
+     "url": "https://www.amazon.com/Breaking-Girl-dark-friends-romance-ebook/dp/B0D5SM8F2Q"
+    },
+    {
+     "label": "Goodreads",
+     "url": "https://www.goodreads.com/book/show/213145872-breaking-the-girl"
+    },
+    {
+     "label": "SpicyReads listing",
+     "url": "https://www.spicyreads.com/books/20227"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Gist and age (22) taken from publisher/author-facing listings and secondary catalog sites; clinical wording only.",
+   "adult_basis": "heroine stated as 22",
+   "content_label": "Hardcore / adult",
+   "id": 156
+  },
+  {
+   "title": "Mesmer",
+   "original_title": "Mesmer",
+   "creator": "Cari Silverwood & Jennifer Bene",
+   "year": 2019,
+   "format": "Novel",
+   "language": "English",
+   "publisher": "self-published / Dark Hearts world",
+   "gist": "Tomik, a 'mesmer' who can mentally control susceptible women called collectables, takes adult Hannah. He manipulates her memories, emotions and actions while holding her captive; they share a prior high-school history but the control occurs when both are adults.",
+   "where": "Standalone dark romance in the Dark Hearts setting",
+   "wife": "no (captive / dark-romance pairing)",
+   "pregnant_end": "unknown (not stated in blurbs checked)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "human",
+    "fantasy",
+    "forced-obedience",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Goodreads: Mesmer",
+     "url": "https://www.goodreads.com/book/show/53047430-mesmer"
+    },
+    {
+     "label": "Author site (dark list)",
+     "url": "https://www.carisilverwood.net/my-books-listed-light-to-dark.html"
+    },
+    {
+     "label": "Review: Warhawke's Vault",
+     "url": "https://warhawkevault.wordpress.com/2020/01/05/mesmer-by-cari-silverwood-jennifer-bene/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Paranormal mind-control (mesmer ability), not stage hypnosis; adult-only at the time of control.",
+   "adult_basis": "adult woman held as a 'collectable'; prior acquaintance was in high school",
+   "content_label": "Hardcore / adult",
+   "id": 157
+  },
+  {
+   "title": "Hypnotically Taken",
+   "original_title": "HYPNOTICALLY TAKEN (Erotic Hypnosis Series Book 1)",
+   "creator": "Vicki Larson",
+   "year": 2019,
+   "format": "Erotic novella (self-published)",
+   "language": "English",
+   "publisher": "self-published (Kindle)",
+   "gist": "Recently divorced Jenna travels to Florida. Business consultant Andrew uses erotic hypnosis and mind control to reshape her desire and attachment so she bonds to him, alarming her friend Kerri.",
+   "where": "Novella (~116 pp. Kindle)",
+   "wife": "no (recently divorced)",
+   "pregnant_end": "no (not mentioned in blurbs)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "human",
+    "hardcore-adult",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Amazon blurb",
+     "url": "https://www.amazon.com/HYPNOTICALLY-TAKEN-Vicki-Larson-ebook/dp/B07PK21PP4"
+    },
+    {
+     "label": "Goodreads",
+     "url": "https://www.goodreads.com/book/show/44301798-hypnotically-taken"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Gist from publisher blurb; adults-only erotic hypnosis romance.",
+   "adult_basis": "divorced adult woman",
+   "content_label": "Hardcore / adult",
+   "id": 158
+  },
+  {
+   "title": "Giving Him Control",
+   "original_title": "Giving Him Control (BBW Hypnosis Erotic Romance)",
+   "creator": "Ariel Song",
+   "year": 2014,
+   "format": "Erotic novella (self-published)",
+   "language": "English",
+   "publisher": "self-published (Kindle)",
+   "gist": "A plus-sized adult woman enters therapy to improve her self-confidence. Her therapist uses hypnosis ostensibly to help her, then redirects the trances into a sexual dominance relationship.",
+   "where": "Therapy-session hypnosis arc (novella)",
+   "wife": "no",
+   "pregnant_end": "no (not mentioned in blurbs)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "human",
+    "hardcore-adult",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Amazon blurb",
+     "url": "https://www.amazon.com/Giving-Control-Hypnosis-Erotic-Romance-ebook/dp/B00P2Q4RL0"
+    },
+    {
+     "label": "Filthy Books guide",
+     "url": "https://www.filthybooks.com/post/erotic-hypnosis-novels"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Therapist–patient erotic hypnosis; clinical non-graphic summary only.",
+   "adult_basis": "adult therapy patient",
+   "content_label": "Hardcore / adult",
+   "id": 159
+  },
+  {
+   "title": "The Golden Artifact",
+   "original_title": "The Golden Artifact: A Kinky Lesbian Mind Control Erotic Novella",
+   "creator": "Jada Lynn",
+   "year": 2017,
+   "format": "Erotic novella (self-published)",
+   "language": "English",
+   "publisher": "self-published (Kindle / CreateSpace)",
+   "gist": "Archaeologist Lindsay Kraven uses a mind-control artifact on her adult best friend Mandy, putting Mandy under her control as a pet and directing intimate acts; the power then turns in unexpected ways.",
+   "where": "Novella (artifact mind-control arc)",
+   "wife": "no",
+   "pregnant_end": "no (not mentioned in blurbs)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "fantasy",
+    "hardcore-adult",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Amazon listing",
+     "url": "https://www.amazon.com/dp/1520779577"
+    },
+    {
+     "label": "Filthy Books guide",
+     "url": "https://www.filthybooks.com/post/erotic-hypnosis-novels"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Artifact-based mind control rather than classic stage hypnosis; adult professional / friend pair.",
+   "adult_basis": "adult archaeologist and adult best friend",
+   "content_label": "Hardcore / adult",
+   "id": 160
+  },
+  {
+   "title": "The Alpha Tomb",
+   "original_title": "The Alpha Tomb: The Complete Series",
+   "creator": "Neil Bimbeau",
+   "year": 2017,
+   "format": "Erotic novella (self-published)",
+   "language": "English",
+   "publisher": "self-published (Kindle)",
+   "gist": "Archaeologist Adam Roth's marriage is failing because his wife cannot give him an heir. After he gains hypnotic / mind-control power from a Pharaoh's tomb, women around him — including within the marriage — are compelled to serve him sexually as he builds a harem.",
+   "where": "Complete series omnibus",
+   "wife": "yes (wife is among those affected)",
+   "pregnant_end": "intended / open (heir is the stated motive; blurbs do not confirm a birth)",
+   "kids_together": "unknown",
+   "kids_before": "no (wife cannot provide an heir at the start)",
+   "categories": [
+    "wife-hypnotized",
+    "hardcore-adult",
+    "fantasy",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "Amazon listing",
+     "url": "https://www.amazon.com/Alpha-Tomb-Complete-Hypnosis-Control-ebook/dp/B071V63JG2"
+    },
+    {
+     "label": "Filthy Books guide",
+     "url": "https://www.filthybooks.com/post/erotic-hypnosis-novels"
+    },
+    {
+     "label": "LibraryThing",
+     "url": "https://www.librarything.com/work/31254852/t/The-Alpha-Tomb"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Tomb-granted mind control used on adult women including his wife; pregnancy motive stated, birth not confirmed in blurbs.",
+   "adult_basis": "married adult wife and other adult women",
+   "content_label": "Hardcore / adult",
+   "id": 161
+  },
+  {
+   "title": "Tranced: His Unfaithful Wife",
+   "original_title": "Tranced – His Unfaithful Wife (Hypno Revenge 3 of 3)",
+   "creator": "Nadia Nightside",
+   "year": 2022,
+   "format": "Erotic novella (self-published)",
+   "language": "English",
+   "publisher": "self-published / All These Roadworks",
+   "gist": "Stage magician Warren finds a watch that hypnotically controls women. After his wife Melinda steals it for her own ends, he reclaims the watch and uses it to break her will, force fertility compliance and keep her as a controlled pet within a harem frame.",
+   "where": "Hypno Revenge part 3 (also in the Tranced bundle)",
+   "wife": "yes",
+   "pregnant_end": "yes / intended (blurb states impregnation and an heir under control)",
+   "kids_together": "intended (heir sought under hypnosis)",
+   "kids_before": "no",
+   "categories": [
+    "wife-hypnotized",
+    "hardcore-adult",
+    "fantasy",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "Author page",
+     "url": "https://www.nadianightside.com/erotica-stories/tranced-his-unfaithful-wife/"
+    },
+    {
+     "label": "Bundle / store page",
+     "url": "https://alltheseroadworks.com/product/tranced-nadia-nightside-e-book/"
+    },
+    {
+     "label": "Goodreads (Tranced - His Hot Assistants / series)",
+     "url": "https://www.goodreads.com/book/show/76002064-tranced---his-hot-assistants"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Magic-watch hypnosis; clinical summary from author blurb only. Year taken from series/bundle listings (~2022).",
+   "adult_basis": "married adult wife Melinda",
+   "content_label": "Hardcore / adult",
+   "id": 162
+  },
+  {
+   "title": "Control my Lust",
+   "original_title": "Control my Lust: Steamy Mind Control Fantasy",
+   "creator": "Eliza Fisher",
+   "year": 2015,
+   "format": "Erotic short story (self-published)",
+   "language": "English",
+   "publisher": "self-published (Kindle)",
+   "gist": "Eveline takes an office job with a Harley Street practitioner. He uses hypnosis / mind control over his adult assistant so her desires override her ordinary life and she complies with intimate medical and sexual demands.",
+   "where": "Short (~45 pp.)",
+   "wife": "no",
+   "pregnant_end": "no (not mentioned in blurbs)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "human",
+    "hardcore-adult",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Amazon blurb",
+     "url": "https://www.amazon.com/Control-Lust-Fantasy-medical-hypnosis-ebook/dp/B00ZY8RJCK"
+    },
+    {
+     "label": "Goodreads",
+     "url": "https://www.goodreads.com/book/show/25755073-control-my-lust"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Medical / office hypnosis erotica; summary from blurb only.",
+   "adult_basis": "adult office assistant / employee",
+   "content_label": "Hardcore / adult",
+   "id": 163
+  },
+  {
+   "title": "Hypnosis Game: A Night In The Brainwash Mansion",
+   "original_title": "Hypnosis Game: A Night In The Brainwash Mansion",
+   "creator": "Kat Hailey",
+   "year": 2020,
+   "format": "Erotic novella (self-published)",
+   "language": "English",
+   "publisher": "Crave Publishing / self-published (Kindle)",
+   "gist": "Kira and friends wake in hypnotist Kaleb's mansion and must last the night without being hypnotized to win a large cash prize; if Kira loses, Kaleb keeps her under permanent hypnotic control.",
+   "where": "Novella (Hypnotists series)",
+   "wife": "no",
+   "pregnant_end": "no (not mentioned in blurbs)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "human",
+    "hardcore-adult",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Amazon blurb",
+     "url": "https://www.amazon.com/Hypnosis-Game-Brainwash-Mansion-Hypnotists-ebook/dp/B08BXN5BQG"
+    },
+    {
+     "label": "Google Books",
+     "url": "https://books.google.com/books/about/Hypnosis_Game_A_Night_In_The_Brainwash_M.html?id=66hVEAAAQBAJ"
+    },
+    {
+     "label": "Romance.io listing",
+     "url": "https://www.romance.io/books/5f5c72405fa4750e2dc52717/hypnosis-game-kat-hailey"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Contest / mansion hypnosis erotica; adult contestants.",
+   "adult_basis": "adult contestant competing for a cash prize",
+   "content_label": "Hardcore / adult",
+   "id": 164
+  },
+  {
+   "title": "Mesmerized for Revenge",
+   "original_title": "MESMERIZED FOR REVENGE (Mesmerized Series Book 4)",
+   "creator": "Vicki Larson",
+   "year": 2023,
+   "format": "Erotic novella (self-published)",
+   "language": "English",
+   "publisher": "self-published (Kindle)",
+   "gist": "After his younger girlfriend Kitty Rafferty takes his job, Nicholas Sereno uses a Dark Web hypnosis app to mesmerize three adult female employees and turn them against her for revenge.",
+   "where": "Mesmerized Series Book 4",
+   "wife": "no (ex-girlfriend / workplace)",
+   "pregnant_end": "no (not mentioned in blurbs)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "human",
+    "scifi",
+    "hardcore-adult",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Amazon blurb",
+     "url": "https://www.amazon.com/MESMERIZED-REVENGE-Vicki-Larson-ebook/dp/B0CFGBQHPZ"
+    },
+    {
+     "label": "Author Goodreads profile / series context",
+     "url": "https://www.goodreads.com/author/show/16069888.Vicki_Larson"
+    }
+   ],
+   "loose_fit": true,
+   "note": "Loose fit: second independent plot summary is thin (Amazon + author page); workplace women are adults. 'Younger girlfriend' age otherwise unstated beyond adult erotica framing.",
+   "adult_basis": "adult workplace employees; adult erotica framing",
+   "content_label": "Hardcore / adult",
+   "id": 165
+  },
+  {
+   "title": "Trance of Submission",
+   "original_title": "Trance of Submission: An Erotic Thriller of Hypnotic Domination and Awakened Desires",
+   "creator": "D.L. Fitzger",
+   "year": 2025,
+   "format": "Erotic novella (self-published)",
+   "language": "English",
+   "publisher": "self-published (Kindle)",
+   "gist": "Executive Sophia Kane seeks therapeutic hypnosis from Dr. Elias Crowe to unlock sexual inhibitions. Post-hypnotic triggers and commands erode her will until she becomes his submissive inside a wider obedience circle.",
+   "where": "Psychiatrist-office trance arc (2025 Kindle)",
+   "wife": "no",
+   "pregnant_end": "no (not mentioned in blurbs)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "human",
+    "hardcore-adult",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Amazon.com blurb",
+     "url": "https://www.amazon.com/Trance-Submission-Thriller-Hypnotic-Domination-ebook/dp/B0G5HLWWFH"
+    },
+    {
+     "label": "Amazon.com.au listing",
+     "url": "https://www.amazon.com.au/Trance-Submission-Thriller-Hypnotic-Domination-ebook/dp/B0G5HLWWFH"
+    }
+   ],
+   "loose_fit": true,
+   "note": "Loose fit: both listings are Amazon storefronts (same publisher blurb family), not fully independent secondary sources.",
+   "adult_basis": "adult executive / professional",
+   "content_label": "Hardcore / adult",
+   "id": 166
   }
  ],
  "dropped": [
@@ -5149,6 +5630,66 @@
   {
    "title": "DeviantArt: Starfire & Raven Housemaid Sumos, Spaceship Escape, Giantess Entranced, Five Bad Managers, Hypno Housewife CD",
    "reason": "an age is ambiguous, a minor is present, or the hypnotized person is male or feminized"
+  },
+  {
+   "title": "The Blithedale Romance (Priscilla / Veiled Lady)",
+   "creator": "Nathaniel Hawthorne",
+   "year": 1852,
+   "reason": "Priscilla described as at the outer edge of her teens; age too close to minor / unstated exact age — excluded under adults-only rule"
+  },
+  {
+   "title": "Hypnotist Professor",
+   "creator": "Kat Hailey",
+   "year": 2020,
+   "reason": "Hypnotized character is a college student whose exact age is unstated"
+  },
+  {
+   "title": "Hypnotist Roommate",
+   "creator": "Kat Hailey",
+   "year": 2020,
+   "reason": "College roommate setting; exact age of Lily Donovan unstated"
+  },
+  {
+   "title": "Roommate Corruption",
+   "creator": "Neil Bimbeau",
+   "year": 2016,
+   "reason": "Exact age of roommate Alexa unstated in available blurbs"
+  },
+  {
+   "title": "Melting Her Mind",
+   "creator": "Kat Hailey",
+   "year": 2022,
+   "reason": "Target described as a 'mathlete'; age ambiguous (could read as school-age)"
+  },
+  {
+   "title": "Taking the Librarian",
+   "creator": "Nadia Nightside",
+   "year": null,
+   "reason": "Guide text describes the hypnotist as a 'geeky teen boy' — minor involved"
+  },
+  {
+   "title": "Mind Control: The Velvet Directive",
+   "creator": "Jenna Sahara",
+   "year": null,
+   "reason": "College senior (likely adult) but publication year not confirmed from independent listings at research time; skipped rather than invent a year"
+  },
+  {
+   "title": "The Parasite",
+   "creator": "Arthur Conan Doyle",
+   "year": 1894,
+   "reason": "Primary hypnotized victim is male (Austin Gilroy); Agatha's trance is a brief demonstration only — weak female-hypnosis fit"
+  },
+  {
+   "title": "The Witch of Prague",
+   "creator": "F. Marion Crawford",
+   "year": 1891,
+   "reason": "Unorna is the female hypnotist, not the hypnotized woman"
+  },
+  {
+   "title": "nhentai / mind-control tag (bulk)",
+   "creator": "various",
+   "year": null,
+   "reason": "Explicitly refused: hentai doujinshi mix minors/ambiguous ages; not novels; no reliable dual sourcing"
   }
  ]
 }
