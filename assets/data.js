@@ -28552,7 +28552,8 @@ window.CATALOG = {
        "url": "https://www.sina.cn/news/detail/5286941319760065.html"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -301555,7 +301556,8 @@ window.CATALOG = {
        "url": "https://hongguoduanju.com/detail?series_id=7516558325870234648"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -403930,6 +403932,17 @@ window.CATALOG = {
    "character": "",
    "provenance": "DramaExpress + short-drama-sites sweep, 01 Oct 2026 (dramaexpress.net + 11 platforms; adult/18+ vector honest zero)",
    "note": "The hypnotist is the male lead's father (family controller). Filed with the caveat that the mechanism is memory erasure rather than compelled obedience. Round5 research: Primary ending overview: Annie and Leon regain memories, confess love, and Annie joins the werewolf pack under the Moon Goddess. This establishes relationship reconciliation, NOT pregnancy, existing children or a NEW birth. All old family fields preserved. Existing release source is reused for a substantive age/ending-context enrichment, not claimed a new production.",
+   "episodes": [
+    {
+     "episode": "Specific hypnosis/finale episode numbers UNKNOWN",
+     "gist": "Father hypnotizes both leads; Annie and Leon lose memories. Producer ending overview says memories and romance return; it does not establish children/pregnancy.",
+     "number_verified": false
+    }
+   ],
+   "tags": [
+    "Round5 primary-source adult-age and ending-relationship enrichment"
+   ],
+   "fit_note": "Round5 research: Producer-issued release explicitly gives Annie her25th birthday: numeric adulthood supported. Leon’s father hypnotizes BOTH Annie and Leon to preserve the pack; mistaken-mate/memory-loss plot, not mere family pressure. No AI-generation claim.",
    "format": "tv",
    "categories": [
     "forced-obedience",
@@ -403969,7 +403982,44 @@ window.CATALOG = {
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:1979",
+    "source": "xla62ucxbx02u5",
+    "label": "Alpha, She Wasn't the One (2024)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Alpha, She Wasn't the One",
+    "subtitle": "",
+    "year": "2024",
+    "meta": "Short-form vertical drama · English (7 languages) · FlexTV · premiered 27 Dec 2024 · also on DramaBox / NetShort / DramaWave",
+    "summary": "Leon's father hypnotizes both leads; female lead Annie suffers memory loss and mistaken identity (Leon misidentifies her sister Anna as his destined mate).",
+    "character": "",
+    "note": "The hypnotist is the male lead's father (family controller). Filed with the caveat that the mechanism is memory erasure rather than compelled obedience.",
+    "mechanism": "Hypnosis / memory erasure",
+    "confidence_flag": "Medium confidence · memory-erasure rather than obedience; minor plot beat",
+    "categories": [
+     "forced-obedience",
+     "fantasy",
+     "human",
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "PR Newswire via stocktitan.net",
+      "url": "https://www.stocktitan.net/news/MPU/mega-matrix-alpha-wasn-fantasy-romance-ages-2501"
+     },
+     {
+      "label": "DramaBox · review page",
+      "url": "https://www.dramaboxapp.com/resources/review/2647_alpha-she-wasnt-the-one-chinese-drama-full-movie"
+     },
+     {
+      "label": "NetShort · episode page",
+      "url": "https://netshort.com/episode/alpha-she-wasnt-the-one-1871119140218376193"
+     }
+    ],
+    "distinct_story": false
+   },
    "merged_from": [
     {
      "rid": "vertical-hypnosis-nov6:14",
@@ -403999,7 +404049,8 @@ window.CATALOG = {
        "url": "https://www.prnewswire.com/news-releases/mega-matrix-inc-announced-that-modern-fantasy-miniseries-alpha-she-wasnt-the-one-now-streaming-on-flextv-302341094.html"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     },
     {
      "rid": "vertical-hypnosis-nov6-r5:2",
@@ -404040,7 +404091,8 @@ window.CATALOG = {
       "Round5 primary-source adult-age and ending-relationship enrichment"
      ],
      "fit_note": "Round5 research: Producer-issued release explicitly gives Annie her25th birthday: numeric adulthood supported. Leon’s father hypnotizes BOTH Annie and Leon to preserve the pack; mistaken-mate/memory-loss plot, not mere family pressure. No AI-generation claim.",
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -404137,18 +404189,7 @@ window.CATALOG = {
       "Round5 primary-source adult-age and ending-relationship enrichment"
      ]
     }
-   },
-   "tags": [
-    "Round5 primary-source adult-age and ending-relationship enrichment"
-   ],
-   "fit_note": "Round5 research: Producer-issued release explicitly gives Annie her25th birthday: numeric adulthood supported. Leon’s father hypnotizes BOTH Annie and Leon to preserve the pack; mistaken-mate/memory-loss plot, not mere family pressure. No AI-generation claim.",
-   "episodes": [
-    {
-     "episode": "Specific hypnosis/finale episode numbers UNKNOWN",
-     "gist": "Father hypnotizes both leads; Annie and Leon lose memories. Producer ending overview says memories and romance return; it does not establish children/pregnancy.",
-     "number_verified": false
-    }
-   ]
+   }
   },
   {
    "id": 1966,
@@ -406040,7 +406081,8 @@ window.CATALOG = {
        "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-75"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     },
     {
      "rid": "vertical-hypnosis-nov6:26",
@@ -406098,7 +406140,8 @@ window.CATALOG = {
      ],
      "pregnant_end": "yes",
      "pregnant_end_note": "Final public episode 75 explicitly refers to Audrey’s unborn child and her plan to name it after Caspian.",
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -406372,6 +406415,8 @@ window.CATALOG = {
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
    "kids_status": "unknown",
+   "kids_together": "yes",
+   "kids_together_note": "Current public NetShort episode 66 identifies Dora as Jason’s wife and mother of their twins. Existing twins, not proof of a new birth at ending.",
    "format": "tv",
    "categories": [
     "love",
@@ -406517,7 +406562,8 @@ window.CATALOG = {
        "url": "https://netshort.com/full-episodes/snake-year-salvation-ceos-bargain-bride-1883854823432351745/page/4"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     },
     {
      "rid": "vertical-hypnosis-nov6:27",
@@ -406563,7 +406609,8 @@ window.CATALOG = {
      ],
      "kids_together": "yes",
      "kids_together_note": "Current public NetShort episode 66 identifies Dora as Jason’s wife and mother of their twins. Existing twins, not proof of a new birth at ending.",
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -406686,9 +406733,7 @@ window.CATALOG = {
      "kids_together": "yes",
      "kids_together_note": "Current public NetShort episode 66 identifies Dora as Jason’s wife and mother of their twins. Existing twins, not proof of a new birth at ending."
     }
-   },
-   "kids_together": "yes",
-   "kids_together_note": "Current public NetShort episode 66 identifies Dora as Jason’s wife and mother of their twins. Existing twins, not proof of a new birth at ending."
+   }
   },
   {
    "id": 1981,
@@ -406702,6 +406747,11 @@ window.CATALOG = {
    "character": "",
    "provenance": "Vertical short-drama hypnosis ± pregnancy sweep, 01 Oct 2026 (official synopsis corroborated across multiple indexed ReelShort pages)",
    "note": "Pregnancy is discovered after the hypnosis-and-fire incident. She may already have been pregnant during the hypnosis, but the timing is not confirmed, so this is not filed in the strict pregnancy-era category. Round6 research: Secondary DramaFeed catalog maps DramaWave title “His Wife Was Always the One” to this SAME Elena Hayes / Vincent Vance / son Leo production. Reported platform alias only; original2026 date,89episode count and its inconsistent seven-years/four-years chronology are NOT adopted. Existing primary description and all existing family fields retained.",
+   "tags": [
+    "Alias: His Wife Was Always the One",
+    "Alias provenance: SECONDARY DramaFeed platform mapping; primary distributor verification unestablished",
+    "Round6 secondary-catalog alias corroboration; not primary distributor verification"
+   ],
    "kids_status": "not stated",
    "kids_note": "not stated",
    "kids_together": "not stated",
@@ -406924,7 +406974,8 @@ window.CATALOG = {
        "url": "https://everydrama.com/drama/sweet-strategy-mr-vance-s-ex-is-too-proud-31174"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     },
     {
      "rid": "vertical-hypnosis-nov6-r6:4",
@@ -406963,7 +407014,8 @@ window.CATALOG = {
       "Alias provenance: SECONDARY DramaFeed platform mapping; primary distributor verification unestablished",
       "Round6 secondary-catalog alias corroboration; not primary distributor verification"
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -407127,12 +407179,7 @@ window.CATALOG = {
       "Round6 secondary-catalog alias corroboration; not primary distributor verification"
      ]
     }
-   },
-   "tags": [
-    "Alias: His Wife Was Always the One",
-    "Alias provenance: SECONDARY DramaFeed platform mapping; primary distributor verification unestablished",
-    "Round6 secondary-catalog alias corroboration; not primary distributor verification"
-   ]
+   }
   },
   {
    "id": 1982,
@@ -407317,7 +407364,37 @@ window.CATALOG = {
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:1998",
+    "source": "xla62ucxbx02u5",
+    "label": "They Called Me the Fake Heiress, But My Birthright Was Far Greater (Unconfirmed)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "They Called Me the Fake Heiress, But My Birthright Was Far Greater",
+    "subtitle": "",
+    "year": "Unconfirmed",
+    "meta": "Short-form vertical drama series · GoodShort · 34 episodes",
+    "summary": "The female lead learns that her apparent repeated rebirths were an illusion: her fiancé Wayne Fall had been hypnotizing her with pills, while others worried that continuing the treatment would damage her brain.",
+    "character": "",
+    "note": "No pregnancy element is documented. The relationship angle is established by Wayne's status as her fiancé; the hypnosis produces false-memory control rather than a directly verified love command.",
+    "mechanism": "Drug-assisted hypnosis / implanted false memories",
+    "confidence_flag": "Medium-high · official GoodShort synopsis; no episode-level verification; year unconfirmed",
+    "categories": [
+     "love",
+     "partner-control",
+     "forced-obedience",
+     "human",
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "GoodShort · official synopsis",
+      "url": "https://www.goodshort.com/tag/john-ashton-call-the-midwife-playlets-videos"
+     }
+    ],
+    "distinct_story": false
+   },
    "merged_from": [
     {
      "rid": "vertical-hypnosis-nov6:19",
@@ -407348,7 +407425,8 @@ window.CATALOG = {
        "url": "https://www.goodshort.com/drama/they-called-me-the-fake-heiress-but-my-birthright-was-far-greater-31001787732"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -407683,6 +407761,9 @@ window.CATALOG = {
    "note": "The mechanism and direction are supported by both uploads, but the year, episode count and any pregnancy element remain unconfirmed.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "tags": [
+    "Alias: Kiss Me, Even if It Burns"
+   ],
    "kids_status": "unknown",
    "format": "tv",
    "categories": [
@@ -407804,7 +407885,8 @@ window.CATALOG = {
      "tags": [
       "Alias: Kiss Me, Even if It Burns"
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -407871,10 +407953,7 @@ window.CATALOG = {
      ],
      "no_media": true
     }
-   },
-   "tags": [
-    "Alias: Kiss Me, Even if It Burns"
-   ]
+   }
   },
   {
    "id": 1987,
@@ -460420,7 +460499,8 @@ window.CATALOG = {
        "url": "https://www.myverticalobsession.com/117-dramapops-love-in-oblivion/"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -461318,7 +461398,8 @@ window.CATALOG = {
        "url": "https://m.suju.cc/en/showview/pq1vOu.html"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     },
     {
      "rid": "vertical-hypnosis-nov6:22",
@@ -461361,7 +461442,8 @@ window.CATALOG = {
      "kids_together": "unknown",
      "pregnant_end": "unknown",
      "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -461840,7 +461922,8 @@ window.CATALOG = {
        "url": "https://rewodj.cc/catalog/llLg.html"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     },
     {
      "rid": "vertical-hypnosis-nov6:23",
@@ -461882,7 +461965,8 @@ window.CATALOG = {
      "kids_together": "unknown",
      "pregnant_end": "unknown",
      "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -462166,7 +462250,54 @@ window.CATALOG = {
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
+   "primary_copy": {
+    "rid": "round3:7",
+    "source": "round3",
+    "label": "私尝 · Private Tasting (2025)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "私尝",
+    "subtitle": "Private Tasting",
+    "year": "2025",
+    "meta": "Chinese vertical short drama · Mandarin · 78 episodes × ~2 min · 12 May 2025 (Duanjubaike) / 17 May 2025 (MyDramaList)",
+    "summary": "Four years earlier Shu Yang was given to Qi Yan by her father; after a flirtation changed her attitude, Qi Yan's family feud led to her being kidnapped and traumatised, and through hypnosis she lost her memory. Four years later she runs a bar and Qi Yan marries her in a quick marriage under the guise of being a member of the Huo family; the story is about repairing old wounds and rekindled feeling inside this formal marriage. Adapted from the web novel 玫瑰无原则，心动至上！.",
+    "character": "Shu Yang / 舒漾 (Zhang Yutian), Qi Yan / 祁砚 (Li Muheng)",
+    "note": "Verification: Confirmed: hypnosis memory loss and a later marriage to the man who is concealing his identity. Not confirmed: pregnancy, any intimate scene. Ages are not stated in the sources read; no minor is indicated.",
+    "mechanism": "Hypnosis memory wipe after a kidnapping; the man later marries her under a false identity",
+    "confidence_flag": "Medium-high",
+    "categories": [
+     "hypnotized-marriage",
+     "adult-hypnosis",
+     "love"
+    ],
+    "sources": [
+     {
+      "label": "MyDramaList (Format: Vertical Series)",
+      "url": "https://mydramalist.com/797692-private-tasting"
+     },
+     {
+      "label": "短剧百科 私尝",
+      "url": "https://duanjubaike.cn/drama/23613"
+     },
+     {
+      "label": "Hongguo 私尝",
+      "url": "https://hongguoduanju.com/detail?series_id=7503469206143241240"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "not mentioned",
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "yes",
+    "pregnant_end": "no",
+    "pregnant_end_note": "not mentioned",
+    "evidence": "3 sources (MyDramaList, Duanjubaike, Hongguo); synopsis only",
+    "source_conflict": "Dates 12 May vs 17 May 2025; character names rendered differently (MyDramaList Qi Yan/Shu Yang vs Duanjubaike 祁砚/舒漾). MyDramaList says Qi Yan's family feud led to the kidnapping; Duanjubaike says Qi Yan hypnotized her himself — who performs the hypnosis is not clear.",
+    "fit_note": "Hypnotized woman + marriage by a man hiding the past.",
+    "distinct_story": false
+   },
    "merged_from": [
     {
      "rid": "vertical-hypnosis-nov6:21",
@@ -462203,7 +462334,8 @@ window.CATALOG = {
        "url": "https://hongguoduanju.com/detail?series_id=7503469206143241240"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     },
     {
      "rid": "vertical-hypnosis-nov6:24",
@@ -462245,7 +462377,8 @@ window.CATALOG = {
      "kids_together": "unknown",
      "pregnant_end": "unknown",
      "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -462540,7 +462673,8 @@ window.CATALOG = {
        "url": "https://findrama.ai/shows/dubbed-beneath-the-hypnosis-kj3tht"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     },
     {
      "rid": "vertical-hypnosis-nov6:25",
@@ -462583,7 +462717,8 @@ window.CATALOG = {
      "kids_together": "unknown",
      "pregnant_end": "unknown",
      "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     },
     {
      "rid": "vertical-hypnosis-nov6-r2:5",
@@ -462616,7 +462751,8 @@ window.CATALOG = {
      "tags": [
       "Alias: Rainy Night Scheme / [Dubbed] Rainy Night Scheme"
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -462879,6 +463015,13 @@ window.CATALOG = {
    "note": "Verification: Confirmed by one listing: a woman is hypnotized into confessing. No romance/intimacy; no pregnancy. Ages are not stated in the sources read; no minor is indicated. Round4 research: Hongguo-branded catalog confirms cast Jin Shan/Hu Tianyu and71episodes; domain ownership/official-publisher status not independently authenticated. Episode-specific hypnosis numbering UNKNOWN. Ending overview says Lin Ling arrested; this does not establish pregnancy/children. Do NOT borrow wife/twin-child details from same-title Wang Jianlin prose novel: different character identities/production. All old family values preserved pending separate review.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "not mentioned",
+   "episodes": [
+    {
+     "episode": "Unknown specific episode;catalog lists1–71",
+     "gist": "Wen Qin reverse-hypnotizes psychiatrist Lin Ling to expose fire/poisoning crimes. Catalog series overview gives arrest endpoint; exact episode placement unverified.",
+     "number_verified": false
+    }
+   ],
    "tags": [
     "loose fit",
     "Round4 catalog hypnosis corroboration; publisher ownership unverified"
@@ -462918,7 +463061,48 @@ window.CATALOG = {
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
+   "primary_copy": {
+    "rid": "round3:10",
+    "source": "round3",
+    "label": "催眠局中局 · Hypnosis Trap Within a Trap (2026)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "催眠局中局",
+    "subtitle": "Hypnosis Trap Within a Trap",
+    "year": "2026",
+    "meta": "Chinese vertical short drama · Mandarin · 71 episodes · premiered 17 Feb 2026 · 云菜短剧, dir. 赵志一",
+    "summary": "Top psychiatrist Lin Ling, who does not believe in ghosts, treats Wen Qin, who claims to see ghosts, and uses hypnosis to dig up his 'past victimisation'. Wen reverse-hypnotizes her, making her face her childhood family fire, and in a guided state she admits the fire was her own negligence and that she poisoned people at a psychiatric hospital. It was a sting set by her mentor and the police; she is arrested for arson and killing.",
+    "character": "Lin Ling (Jin Shan), Wen Qin (Hu Tianyu)",
+    "note": "Verification: Confirmed by one listing: a woman is hypnotized into confessing. No romance/intimacy; no pregnancy. Ages are not stated in the sources read; no minor is indicated.",
+    "mechanism": "Counter-hypnosis: a self-styled 'ghost seer' reverse-hypnotizes a psychiatrist inside a sting",
+    "confidence_flag": "Low-medium · single source",
+    "categories": [
+     "adult-hypnosis",
+     "medical",
+     "crime"
+    ],
+    "sources": [
+     {
+      "label": "短剧百科 催眠局中局",
+      "url": "https://www.duanjubaike.net/duanju/info-7607828483242200088.html"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "not mentioned",
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "unknown",
+    "pregnant_end": "no",
+    "pregnant_end_note": "not mentioned",
+    "evidence": "Single source — Single listing (Duanjubaike); not independently corroborated",
+    "fit_note": "Loose fit: hypnotized woman is the antagonist in a crime sting; no intimacy. The characters' ages are not stated. Single source.",
+    "distinct_story": false
+   },
    "merged_from": [
     {
      "rid": "vertical-hypnosis-nov6-r4:7",
@@ -462958,7 +463142,8 @@ window.CATALOG = {
       "Round4 catalog hypnosis corroboration; publisher ownership unverified"
      ],
      "fit_note": "Loose fit: hypnotized woman is the antagonist in a crime sting; no intimacy. The characters' ages are not stated. Single source. Round4 research: Catalog synopsis confirms adult female professional psychiatrist Lin Ling is reverse-hypnotized by Wen Qin into confessing. Exact age unstated; literal hypnosis, not ghost possession.",
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -463039,14 +463224,7 @@ window.CATALOG = {
       "Round4 catalog hypnosis corroboration; publisher ownership unverified"
      ]
     }
-   },
-   "episodes": [
-    {
-     "episode": "Unknown specific episode;catalog lists1–71",
-     "gist": "Wen Qin reverse-hypnotizes psychiatrist Lin Ling to expose fire/poisoning crimes. Catalog series overview gives arrest endpoint; exact episode placement unverified.",
-     "number_verified": false
-    }
-   ]
+   }
   },
   {
    "id": 2735,
@@ -463550,6 +463728,12 @@ window.CATALOG = {
    "note": "Verification: Hypnotized adult woman (therapeutic regression); no intimacy or pregnancy mentioned. Ages are not stated in the sources read; no minor is indicated. Round4 research: Esthésie credits David Trujillo,Arnaud Caron,Alice Stern,Oliva Combette;10:10,created in48hours atKinoPopParis. Existing2019 year retained. Primary synopsis confirms contact with dead sister through hypnosis; not proof of possession. Family outcomes remain unverified; old no-values HOLD.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "not mentioned",
+   "episodes": [
+    {
+     "episode": "Standalone short; scene timestamps unknown",
+     "gist": "Primary producer confirms actual therapeutic hypnosis of an adult-coded woman to recover memories, not merely a hypnotic style. Exact age unstated."
+    }
+   ],
    "tags": [
     "loose fit",
     "Round4 primary-source hypnosis verification"
@@ -463588,7 +463772,46 @@ window.CATALOG = {
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
+   "primary_copy": {
+    "rid": "round3:15",
+    "source": "round3",
+    "label": "Hypnosis (2019)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Hypnosis",
+    "subtitle": "",
+    "year": "2019",
+    "meta": "French short drama · 10 min · released 17 Jan 2019 · dir. David Trujillo · Esthesie",
+    "summary": "A woman seeking to understand forgotten parts of her life visits a hypnotist; the guided regression leads to a disturbing encounter with her dead sister and a hidden secret about the sister's death.",
+    "character": "the woman (cast listing: Alice Stern / Oliva Combette), hypnotist",
+    "note": "Verification: Hypnotized adult woman (therapeutic regression); no intimacy or pregnancy mentioned. Ages are not stated in the sources read; no minor is indicated.",
+    "mechanism": "Guided hypnosis by a hypnotist to recover lost memories",
+    "confidence_flag": "Low",
+    "categories": [
+     "adult-hypnosis",
+     "medical"
+    ],
+    "sources": [
+     {
+      "label": "WatchWhatWhere",
+      "url": "https://watchwhatwhere.com/title/3217810-hypnosis"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "not mentioned",
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "unknown",
+    "pregnant_end": "no",
+    "pregnant_end_note": "not mentioned",
+    "evidence": "Single source — Single database page",
+    "fit_note": "Loose fit: memory-recovery hypnosis; no intimacy. The characters' ages are not stated. Single source.",
+    "distinct_story": false
+   },
    "merged_from": [
     {
      "rid": "vertical-hypnosis-nov6-r4:6",
@@ -463626,7 +463849,8 @@ window.CATALOG = {
       "Round4 primary-source hypnosis verification"
      ],
      "fit_note": "Loose fit: memory-recovery hypnosis; no intimacy. The characters' ages are not stated. Single source. Round4 research: Primary producer confirms actual therapeutic hypnosis of an adult-coded woman to recover memories, not merely a hypnotic style. Exact age unstated.",
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -463703,13 +463927,7 @@ window.CATALOG = {
       "Round4 primary-source hypnosis verification"
      ]
     }
-   },
-   "episodes": [
-    {
-     "episode": "Standalone short; scene timestamps unknown",
-     "gist": "Primary producer confirms actual therapeutic hypnosis of an adult-coded woman to recover memories, not merely a hypnotic style. Exact age unstated."
-    }
-   ]
+   }
   },
   {
    "id": 2740,
@@ -493047,6 +493265,16 @@ window.CATALOG = {
    "character": "Sanjana",
    "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
    "note": "Round3 research: Official STAR Bharat clip already in catalog confirms Sanjana under hypnosis. Secondary episode guide identifies the storyline as S1E69. Catalog2754 concerns wife Kashmira in following episode70; do not add another underlying production.",
+   "episodes": [
+    {
+     "episode": "S1E69 — SECONDARY GUIDE, official numbering unverified",
+     "gist": "Sanjana is already hypnotized and difficult for Sajan to handle; Khiloni reports a stolen book. Do not infer numbering solely from existing official clip.",
+     "number_verified": false
+    }
+   ],
+   "tags": [
+    "Sanjana hypnosis: secondary episode69 identification"
+   ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
@@ -493080,7 +493308,39 @@ window.CATALOG = {
    "index_only": false,
    "local_only": true,
    "thumbnail": "thumbs/eYn6j3TWlSs.jpg",
-   "primary_copy": null,
+   "primary_copy": {
+    "rid": "official-yt-oct15:26",
+    "source": "official-yt-oct15",
+    "label": "May I Come In Madam? · Clip: 'Sanjana hui hypnotize' (2024 (YouTube upload; series 2016–17))",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "May I Come In Madam?",
+    "subtitle": "Clip: 'Sanjana hui hypnotize'",
+    "year": "2024 (YouTube upload; series 2016–17)",
+    "meta": "TV sitcom · Star Bharat · Hindi · India",
+    "summary": "The hypnotized Sanjana (Sajan's boss) showers her love on Sajan, which leaves him worried instead of happy.",
+    "character": "Sanjana",
+    "note": "",
+    "mechanism": "Hypnosis (comic)",
+    "confidence_flag": "Medium · official clip description",
+    "categories": [
+     "adult-hypnosis",
+     "india-control"
+    ],
+    "sources": [
+     {
+      "label": "STAR Bharat (YouTube): Sanjana hui hypnotize | May I Come in Madam",
+      "url": "https://www.youtube.com/watch?v=eYn6j3TWlSs"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "distinct_story": false
+   },
    "merged_from": [
     {
      "rid": "vertical-hypnosis-nov6-r3:11",
@@ -493122,7 +493382,8 @@ window.CATALOG = {
      "tags": [
       "Sanjana hypnosis: secondary episode69 identification"
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -493193,17 +493454,7 @@ window.CATALOG = {
       "Sanjana hypnosis: secondary episode69 identification"
      ]
     }
-   },
-   "tags": [
-    "Sanjana hypnosis: secondary episode69 identification"
-   ],
-   "episodes": [
-    {
-     "episode": "S1E69 — SECONDARY GUIDE, official numbering unverified",
-     "gist": "Sanjana is already hypnotized and difficult for Sajan to handle; Khiloni reports a stolen book. Do not infer numbering solely from existing official clip.",
-     "number_verified": false
-    }
-   ]
+   }
   },
   {
    "id": 2989,
@@ -564434,11 +564685,21 @@ window.CATALOG = {
    "character": "Lily (Hope Baker)",
    "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
    "note": "Round4 research: Producer Hope Baker’s first-person interview and independent2025 article corroborate published film. Public film TRANSCRIPT read, not watched: patient names Dr Sara/Sarah Collins; the voice command Take a deep breath and calm down recurs in the police-room reveal. Existing family no-values are HELD, not revalidated by this source. Numeric performer age25 is NOT character-age proof.",
+   "episodes": [
+    {
+     "episode": "Standalone short; scene timestamps unknown",
+     "gist": "Literal auditory hypnosis/ASMR-app influence, not mere relaxation. Transcript documents disorientation, memory gaps and crime; source wording identifies an adult woman, exact character age unstated."
+    }
+   ],
+   "tags": [
+    "Round4 primary-source hypnosis verification"
+   ],
    "method": "ASMR hypnosis",
    "kids_status": "no",
    "kids_together": "no",
    "pregnant_end": "no",
    "evidence": "IMDb synopsis",
+   "fit_note": "Round4 research: Literal auditory hypnosis/ASMR-app influence, not mere relaxation. Transcript documents disorientation, memory gaps and crime; source wording identifies an adult woman, exact character age unstated.",
    "adult": "no",
    "format": "short film",
    "categories": [
@@ -564475,7 +564736,40 @@ window.CATALOG = {
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
+   "primary_copy": {
+    "rid": "deep-refresh-oct30:15",
+    "source": "deep-refresh-oct30",
+    "label": "Silent Control (2025)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Silent Control",
+    "subtitle": "",
+    "year": "2025",
+    "meta": "6-min short · dir. Indra Warikoo",
+    "summary": "A woman with anxiety turns to ASMR and falls under its hypnotic grip, committing a crime she can't remember.",
+    "character": "Lily (Hope Baker)",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "Single source · flag",
+    "categories": [
+     "crime",
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt36831983/"
+     }
+    ],
+    "method": "ASMR hypnosis",
+    "kids_status": "no",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "IMDb synopsis",
+    "adult": "no",
+    "distinct_story": false
+   },
    "merged_from": [
     {
      "rid": "vertical-hypnosis-nov6-r4:5",
@@ -564521,7 +564815,8 @@ window.CATALOG = {
       "Round4 primary-source hypnosis verification"
      ],
      "fit_note": "Round4 research: Literal auditory hypnosis/ASMR-app influence, not mere relaxation. Transcript documents disorientation, memory gaps and crime; source wording identifies an adult woman, exact character age unstated.",
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -564595,17 +564890,7 @@ window.CATALOG = {
       "Round4 primary-source hypnosis verification"
      ]
     }
-   },
-   "tags": [
-    "Round4 primary-source hypnosis verification"
-   ],
-   "fit_note": "Round4 research: Literal auditory hypnosis/ASMR-app influence, not mere relaxation. Transcript documents disorientation, memory gaps and crime; source wording identifies an adult woman, exact character age unstated.",
-   "episodes": [
-    {
-     "episode": "Standalone short; scene timestamps unknown",
-     "gist": "Literal auditory hypnosis/ASMR-app influence, not mere relaxation. Transcript documents disorientation, memory gaps and crime; source wording identifies an adult woman, exact character age unstated."
-    }
-   ]
+   }
   },
   {
    "id": 3769,
@@ -565991,6 +566276,20 @@ window.CATALOG = {
    "character": "Natalia",
    "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
    "note": "Round3 research: Flixxo publishes a three-episode microseries version (2/2/4min). No portrait framing verified. Research found all family outcomes UNKNOWN, but older no-values have no explanatory notes; HOLD those field changes pending original evidence review.",
+   "episodes": [
+    {
+     "episode": "Flixxo1 (2min)",
+     "gist": "Therapist enters Natalia’s mind to investigate severe insomnia and secrets."
+    },
+    {
+     "episode": "Flixxo2 (2min)",
+     "gist": "A further hypnosis session blurs memories and visions; Natalia fears mistakes."
+    },
+    {
+     "episode": "Flixxo3 (4min)",
+     "gist": "Finale plot unverified: platform lists episode but no usable ending description."
+    }
+   ],
    "tags": [
     "loose fit",
     "AI HYBRID: generative AI + filmed footage",
@@ -566001,6 +566300,7 @@ window.CATALOG = {
    "kids_together": "no",
    "pregnant_end": "no",
    "evidence": "Trailer page",
+   "fit_note": "Round3 research: AI HYBRID — NOT WHOLLY AI-GENERATED. Actual hypnotherapy, not merely hypnotic aesthetics. Hybrid production: generative AI combined with footage filmed on set, explicitly confirmed by director. Flixxo microseries premiered December 2024; the same director/cast/writers also have a 2025 9-minute short listing. Do not create a duplicate or blindly overwrite year2025.",
    "adult": "no",
    "format": "short film",
    "categories": [
@@ -566040,7 +566340,42 @@ window.CATALOG = {
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
+   "primary_copy": {
+    "rid": "deep-refresh-oct30:34",
+    "source": "deep-refresh-oct30",
+    "label": "Insomnia (2025)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Insomnia",
+    "subtitle": "",
+    "year": "2025",
+    "meta": "Argentina · Dir. Tomás Gonzalez Montalvo · Vimeo",
+    "summary": "Loose fit: an insomniac woman is hypnotized and enters surreal inner worlds.",
+    "character": "Natalia",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "Single source · flag",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "Vimeo",
+      "url": "https://vimeo.com/1073962748"
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "method": "Hypnosis",
+    "kids_status": "no",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "Trailer page",
+    "adult": "no",
+    "distinct_story": false
+   },
    "merged_from": [
     {
      "rid": "vertical-hypnosis-nov6-r3:10",
@@ -566098,7 +566433,8 @@ window.CATALOG = {
       "Flixxo2024 microseries version; same2025film"
      ],
      "fit_note": "Round3 research: AI HYBRID — NOT WHOLLY AI-GENERATED. Actual hypnotherapy, not merely hypnotic aesthetics. Hybrid production: generative AI combined with footage filmed on set, explicitly confirmed by director. Flixxo microseries premiered December 2024; the same director/cast/writers also have a 2025 9-minute short listing. Do not create a duplicate or blindly overwrite year2025.",
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -566187,22 +566523,7 @@ window.CATALOG = {
       "Flixxo2024 microseries version; same2025film"
      ]
     }
-   },
-   "fit_note": "Round3 research: AI HYBRID — NOT WHOLLY AI-GENERATED. Actual hypnotherapy, not merely hypnotic aesthetics. Hybrid production: generative AI combined with footage filmed on set, explicitly confirmed by director. Flixxo microseries premiered December 2024; the same director/cast/writers also have a 2025 9-minute short listing. Do not create a duplicate or blindly overwrite year2025.",
-   "episodes": [
-    {
-     "episode": "Flixxo1 (2min)",
-     "gist": "Therapist enters Natalia’s mind to investigate severe insomnia and secrets."
-    },
-    {
-     "episode": "Flixxo2 (2min)",
-     "gist": "A further hypnosis session blurs memories and visions; Natalia fears mistakes."
-    },
-    {
-     "episode": "Flixxo3 (4min)",
-     "gist": "Finale plot unverified: platform lists episode but no usable ending description."
-    }
-   ]
+   }
   },
   {
    "id": 3786,
@@ -569486,7 +569807,48 @@ window.CATALOG = {
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
+   "primary_copy": {
+    "rid": "deep-refresh-nov04:3",
+    "source": "deep-refresh-nov04",
+    "label": "My Patient Is a Mermaid (2026)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "My Patient Is a Mermaid",
+    "subtitle": "",
+    "year": "2026",
+    "meta": "ReelShort · 30 eps · 24 Sep 2026",
+    "summary": "Psychotherapist Daniel hypnotizes his patient Elena, who turns out to be a siren.",
+    "character": "Elena",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "Medium · 2 sources",
+    "categories": [
+     "fantasy",
+     "medical"
+    ],
+    "sources": [
+     {
+      "label": "DramaFeed",
+      "url": "https://drama-feed.com/en/d/1144421"
+     },
+     {
+      "label": "ReelShort",
+      "url": "https://www.reelshort.com/episodes/episode-11-my-patient-is-a-mermaid-6ab380ed0293757f780fb454-j48p2brvmy"
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "hypnotist": "Psychotherapist Daniel",
+    "method": "Hypnotherapy",
+    "kids_status": "no",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "Listing + platform episode page",
+    "adult": "no",
+    "distinct_story": false
+   },
    "merged_from": [
     {
      "rid": "vertical-hypnosis-nov6:17",
@@ -569514,7 +569876,8 @@ window.CATALOG = {
        "url": "https://www.reelshort.com/episodes/episode-8-my-patient-is-a-mermaid-6ab380ed0293757f780fb454-29ysz4h8ss"
       }
      ],
-     "distinct_story": false
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -577641,8 +578004,53 @@ window.CATALOG = {
   },
   {
    "id": 3919,
+   "title": "我的心声，掌控全局",
    "subtitle": "",
-   "note": "Pregnancy and hypnosis explicitly concern the same 28-year-old woman. Prophetic fetus/reincarnation is fantasy context, not the hypnosis mechanism. Exact episode unknown; do not infer episode 1 from the landing-page title. AI-generated production not established.",
+   "year": "2026",
+   "meta": "China · Mandarin Chinese · 41-episode mobile microdrama · 河马剧场",
+   "mechanism": "Self-taught hypnosis used to steal unborn child’s prophetic knowledge; pregnant Qiao Yin is awakened by the fetus and counter-hypnotizes Wu You. Prophetic fetus/reincarnation is fantasy context, distinct from stated hypnosis.",
+   "confidence_flag": "Medium-high: platform full-series synopsis and corroborating plot text; not video-watched.",
+   "summary": "Pregnant 28-year-old Qiao Yin carries a fetus that predicts the future. Her friend Wu You learns hypnosis to extract its secrets; the fetus awakens Qiao Yin, who counter-hypnotizes Wu You and erases her memory.",
+   "character": "乔音 / Qiao Yin (赵辰洁 / Zhao Chenjie), age 28",
+   "provenance": "Deep multilingual public-text research, 6 Nov 2026 PT. No video watched. Release date differs May19/May23 across listings; year2026 used.",
+   "note": "",
+   "pregnancy_outcome": "ongoing",
+   "pregnancy_note": "Qiao Yin is already pregnant during the hypnosis attempt and still awaiting birth at the end.",
+   "hypnotist": "吴优 / 吴忧 (Wu You)",
+   "method": "Self-taught hypnosis; exact induction technique not established.",
+   "kids_status": "unknown",
+   "kids_note": "Children before this pregnancy are not stated in the cited descriptions.",
+   "kids_together": "unknown",
+   "kids_together_note": "An unborn child is present at the ending; a birth is not established.",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "Ending synopsis: 胎儿安稳待产 — the unborn child is safely awaiting birth.",
+   "fit_note": "Pregnancy and hypnosis explicitly concern the same 28-year-old woman. Prophetic fetus/reincarnation is fantasy context, not the hypnosis mechanism. Exact episode unknown; do not infer episode 1 from the landing-page title. AI-generated production not established.",
+   "already_married": "yes",
+   "already_married_note": "Married to 李博 / Li Bo in the platform synopsis.",
+   "format": "vertical series",
+   "categories": [
+    "pregnant-strict",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "河马剧场 — full-series plot, pregnancy, age28 and hypnosis",
+     "url": "https://www.kuaikaw.cn/episode/41000214272"
+    },
+    {
+     "label": "悟空视频 — corroborating plot and pregnancy ending",
+     "url": "https://www.wukongshipin.com/duanju/wo-de-xin-sheng-zhang-kong-quan-ju-2519506"
+    },
+    {
+     "label": "短剧百科 — year,41 episodes,cast",
+     "url": "https://www.duanjubaike.net/duanju/info-7641526371495185433.html"
+    },
+    {
+     "label": "喜福影视 — full synopsis including ending",
+     "url": "https://video.contentchina.com/playlet/25187"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "vertical-hypnosis-nov6"
@@ -577704,53 +578112,7 @@ window.CATALOG = {
      ],
      "no_media": true
     }
-   },
-   "title": "我的心声，掌控全局",
-   "year": "2026",
-   "format": "vertical series",
-   "meta": "China · Mandarin Chinese · 41-episode mobile microdrama · 河马剧场",
-   "character": "乔音 / Qiao Yin (赵辰洁 / Zhao Chenjie), age 28",
-   "summary": "Pregnant 28-year-old Qiao Yin carries a fetus that predicts the future. Her friend Wu You learns hypnosis to extract its secrets; the fetus awakens Qiao Yin, who counter-hypnotizes Wu You and erases her memory.",
-   "mechanism": "Self-taught hypnosis used to steal unborn child’s prophetic knowledge; pregnant Qiao Yin is awakened by the fetus and counter-hypnotizes Wu You. Prophetic fetus/reincarnation is fantasy context, distinct from stated hypnosis.",
-   "categories": [
-    "pregnant-strict",
-    "human"
-   ],
-   "already_married": "yes",
-   "already_married_note": "Married to 李博 / Li Bo in the platform synopsis.",
-   "married": "yes",
-   "pregnant_end": "yes",
-   "pregnant_end_note": "Ending synopsis: 胎儿安稳待产 — the unborn child is safely awaiting birth.",
-   "kids_status": "unknown",
-   "kids_note": "Children before this pregnancy are not stated in the cited descriptions.",
-   "kids_together": "unknown",
-   "kids_together_note": "An unborn child is present at the ending; a birth is not established.",
-   "pregnancy_outcome": "ongoing",
-   "pregnancy_note": "Qiao Yin is already pregnant during the hypnosis attempt and still awaiting birth at the end.",
-   "hypnotist": "吴优 / 吴忧 (Wu You)",
-   "method": "Self-taught hypnosis; exact induction technique not established.",
-   "confidence_flag": "Medium-high: platform full-series synopsis and corroborating plot text; not video-watched.",
-   "fit_note": "Pregnancy and hypnosis explicitly concern the same 28-year-old woman. Prophetic fetus/reincarnation is fantasy context, not the hypnosis mechanism. Exact episode unknown; do not infer episode 1 from the landing-page title. AI-generated production not established.",
-   "provenance": "Deep multilingual public-text research, 6 Nov 2026 PT. No video watched. Release date differs May19/May23 across listings; year2026 used.",
-   "sources": [
-    {
-     "label": "河马剧场 — full-series plot, pregnancy, age28 and hypnosis",
-     "url": "https://www.kuaikaw.cn/episode/41000214272"
-    },
-    {
-     "label": "悟空视频 — corroborating plot and pregnancy ending",
-     "url": "https://www.wukongshipin.com/duanju/wo-de-xin-sheng-zhang-kong-quan-ju-2519506"
-    },
-    {
-     "label": "短剧百科 — year,41 episodes,cast",
-     "url": "https://www.duanjubaike.net/duanju/info-7641526371495185433.html"
-    },
-    {
-     "label": "喜福影视 — full synopsis including ending",
-     "url": "https://video.contentchina.com/playlet/25187"
-    }
-   ],
-   "no_media": true
+   }
   },
   {
    "id": 3920,
@@ -585001,10 +585363,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3934,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r4"
     }
    ],
    "declared_count_by_source": {
@@ -585035,7 +585397,10 @@ window.CATALOG = {
     "hypnosis-deep-oct25c": null,
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
-    "hypnosis-bestsimilar-nov5": null
+    "hypnosis-bestsimilar-nov5": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r3": null,
+    "vertical-hypnosis-nov6-r4": null
    }
   },
   {
@@ -586282,10 +586647,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3937,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r6"
     }
    ],
    "declared_count_by_source": {
@@ -586308,7 +586673,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25c": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "vertical-hypnosis-nov6-r6": null
    }
   },
   {
@@ -587962,15 +588328,14 @@ window.CATALOG = {
      "items": [
       {
        "id": 3918,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3916,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round3",
@@ -587978,10 +588343,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3926,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r3"
     }
    ],
    "declared_count_by_source": {
@@ -587990,7 +588355,9 @@ window.CATALOG = {
     "youtube-deep-oct15": null,
     "deep-oct24": null,
     "deep-refresh-oct30": null,
-    "hypnosis-bestsimilar-nov5": null
+    "hypnosis-bestsimilar-nov5": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r3": null
    }
   },
   {
@@ -588647,15 +589014,14 @@ window.CATALOG = {
      "items": [
       {
        "id": 3912,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3916,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     },
     {
      "title": "AI-inclusive worldwide hypnosis research — Nov 6 round 2",
@@ -588663,10 +589029,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3920,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r2"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round4",
@@ -588674,10 +589040,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3935,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r4"
     }
    ],
    "declared_count_by_source": {
@@ -588704,7 +589070,10 @@ window.CATALOG = {
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
-    "hypnosis-bestsimilar-nov5": null
+    "hypnosis-bestsimilar-nov5": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r2": null,
+    "vertical-hypnosis-nov6-r4": null
    }
   },
   {
@@ -591194,15 +591563,14 @@ window.CATALOG = {
      "items": [
       {
        "id": 1965,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3915,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round5",
@@ -591210,10 +591578,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3936,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r5"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r5"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round6",
@@ -591221,10 +591589,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3939,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r6"
     }
    ],
    "declared_count_by_source": {
@@ -591257,7 +591625,10 @@ window.CATALOG = {
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
-    "hypnosis-bestsimilar-nov5": null
+    "hypnosis-bestsimilar-nov5": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r5": null,
+    "vertical-hypnosis-nov6-r6": null
    }
   },
   {
@@ -592322,7 +592693,8 @@ window.CATALOG = {
     "weekly-oct19": null,
     "deep-oct24": null,
     "hypno-india-oct24": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "vertical-hypnosis-nov6-r3": null
    },
    "groups": [
     {
@@ -594655,10 +595027,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 1983,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     }
    ],
    "declared_count_by_source": {
@@ -594675,7 +595047,8 @@ window.CATALOG = {
     "deep-refresh-oct18": null,
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
-    "hypnosis-bestsimilar-nov5": null
+    "hypnosis-bestsimilar-nov5": null,
+    "vertical-hypnosis-nov6": null
    }
   },
   {
@@ -600083,55 +600456,46 @@ window.CATALOG = {
      "items": [
       {
        "id": 1965,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3918,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3911,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 1980,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 1981,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 1983,
-       "tags": [],
-       "from_source": "vertical-hypnosis-nov6"
-      },
-      {
-       "id": 3916,
-       "tags": [],
-       "from_source": "vertical-hypnosis-nov6"
-      },
-      {
-       "id": 3917,
-       "tags": [],
-       "from_source": "vertical-hypnosis-nov6"
-      },
-      {
-       "id": 3914,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3919,
-       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3916,
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3917,
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3914,
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     },
     {
      "title": "AI-inclusive worldwide hypnosis research — Nov 6 round 2",
@@ -600139,15 +600503,14 @@ window.CATALOG = {
      "items": [
       {
        "id": 3921,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
       },
       {
        "id": 3922,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r2"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round3",
@@ -600155,45 +600518,38 @@ window.CATALOG = {
      "items": [
       {
        "id": 3928,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3923,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3926,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3924,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3929,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3930,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3927,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3925,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r3"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round6",
@@ -600201,10 +600557,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3937,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r6"
     }
    ],
    "declared_count_by_source": {
@@ -600240,7 +600596,12 @@ window.CATALOG = {
     "deep-oct20": null,
     "deep-oct24": null,
     "hypno-pregnant-yt-oct25": null,
-    "hypno-kids-witness-oct25": null
+    "hypno-kids-witness-oct25": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r2": null,
+    "vertical-hypnosis-nov6-r3": null,
+    "vertical-hypnosis-nov6-r5": null,
+    "vertical-hypnosis-nov6-r6": null
    }
   },
   {
@@ -600531,7 +600892,9 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla": 5,
     "rich-wife-hypnosis": null,
     "hypno-leftovers": null,
-    "round3": null
+    "round3": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r2": null
    }
   },
   {
@@ -602006,15 +602369,14 @@ window.CATALOG = {
      "items": [
       {
        "id": 1981,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3914,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round3",
@@ -602022,10 +602384,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3929,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r3"
     }
    ],
    "declared_count_by_source": {
@@ -602050,7 +602412,11 @@ window.CATALOG = {
     "hypnosis-deep-oct25b": null,
     "hypnosis-deep-oct25c": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r2": null,
+    "vertical-hypnosis-nov6-r3": null,
+    "vertical-hypnosis-nov6-r6": null
    }
   },
   {
@@ -602151,7 +602517,8 @@ window.CATALOG = {
     "gap-check-vertical-oct15": null,
     "deep-refresh-oct18": null,
     "deep-oct24": null,
-    "deep-refresh-oct30": null
+    "deep-refresh-oct30": null,
+    "vertical-hypnosis-nov6": null
    },
    "groups": [
     {
@@ -602950,7 +603317,9 @@ window.CATALOG = {
     "round3": null,
     "indonesia-sinetron-oct15": null,
     "hypnosis-yt-oct15": null,
-    "hypnosis-deep-oct25c": null
+    "hypnosis-deep-oct25c": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r2": null
    }
   },
   {
@@ -604113,10 +604482,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 1981,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     }
    ],
    "declared_count_by_source": {
@@ -604145,7 +604514,10 @@ window.CATALOG = {
     "hypno-kids-witness-oct25": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r4": null,
+    "vertical-hypnosis-nov6-r6": null
    }
   },
   {
@@ -604604,6 +604976,16 @@ window.CATALOG = {
         "Hypnotic memory erasure to keep her",
         "Medium · two independent upload sources; no episode-level confirmation"
        ],
+       "sources": [
+        {
+         "label": "繁星短劇 · full upload",
+         "url": "https://www.youtube.com/watch?v=ux5iu3yEFlM"
+        },
+        {
+         "label": "CupidCutsDrama · English-dub cut",
+         "url": "https://www.youtube.com/watch?v=My3FLv8A0Qo"
+        }
+       ],
        "provenance": "Source basis: Vertical short-drama hypnosis ± pregnancy follow-up, 01 Oct 2026",
        "entry_note": "Note: The mechanism and direction are supported by both uploads, but the year, episode count and any pregnancy element remain unconfirmed.",
        "from_source": "xla62ucxbx02u5"
@@ -604706,6 +605088,24 @@ window.CATALOG = {
         "Pocket-watch hypnosis / forced trust",
         "High · episode-level NetShort guides; release year approximate"
        ],
+       "sources": [
+        {
+         "label": "NetShort · episode 70",
+         "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-70"
+        },
+        {
+         "label": "NetShort · episode 69",
+         "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-69"
+        },
+        {
+         "label": "NetShort · episode 79",
+         "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-new-6-2047835919481831425-ep-79"
+        },
+        {
+         "label": "NetShort · episode 83",
+         "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-83"
+        }
+       ],
        "provenance": "Source basis: Vertical short-drama hypnosis ± pregnancy sweep, 01 Oct 2026 (six vectors; ~85+ query rounds)",
        "entry_note": "Note: The sweep identifies this as the only new strict pregnancy-era hypnosis match. Episode guides alternate the heroine's name between Emma and Dora.",
        "from_source": "xla62ucxbx02u5"
@@ -604733,6 +605133,12 @@ window.CATALOG = {
         "Other female hypnosis / mind control",
         "Drug-assisted hypnosis / implanted false memories",
         "Medium-high · official GoodShort synopsis; no episode-level verification; year unconfirmed"
+       ],
+       "sources": [
+        {
+         "label": "GoodShort · official synopsis",
+         "url": "https://www.goodshort.com/tag/john-ashton-call-the-midwife-playlets-videos"
+        }
        ],
        "provenance": "Source basis: Vertical short-drama hypnosis ± pregnancy sweep, 01 Oct 2026",
        "entry_note": "Note: No pregnancy element is documented. The relationship angle is established by Wayne's status as her fiancé; the hypnosis produces false-memory control rather than a directly verified love command.",
@@ -607012,10 +607418,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 1981,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     }
    ],
    "declared_count_by_source": {
@@ -607044,7 +607450,10 @@ window.CATALOG = {
     "deep-oct24": null,
     "hypnosis-deep-oct25c": null,
     "hypno-kids-witness-oct25": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r2": null,
+    "vertical-hypnosis-nov6-r6": null
    }
   },
   {
@@ -611183,20 +611592,18 @@ window.CATALOG = {
      "items": [
       {
        "id": 3918,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3913,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3917,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     },
     {
      "title": "AI-inclusive worldwide hypnosis research — Nov 6 round 2",
@@ -611204,15 +611611,14 @@ window.CATALOG = {
      "items": [
       {
        "id": 3921,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
       },
       {
        "id": 3922,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r2"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round3",
@@ -611220,35 +611626,30 @@ window.CATALOG = {
      "items": [
       {
        "id": 3923,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3926,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3924,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3929,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3927,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3925,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r3"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round4",
@@ -611256,10 +611657,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3932,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r4"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round5",
@@ -611267,10 +611668,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3936,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r5"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r5"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round6",
@@ -611278,10 +611679,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3938,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r6"
     }
    ],
    "declared_count_by_source": {
@@ -611326,7 +611727,13 @@ window.CATALOG = {
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
-    "hypnosis-bestsimilar-nov5": null
+    "hypnosis-bestsimilar-nov5": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r2": null,
+    "vertical-hypnosis-nov6-r3": null,
+    "vertical-hypnosis-nov6-r4": null,
+    "vertical-hypnosis-nov6-r5": null,
+    "vertical-hypnosis-nov6-r6": null
    }
   },
   {
@@ -612429,25 +612836,22 @@ window.CATALOG = {
      "items": [
       {
        "id": 3915,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 1980,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 1981,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3914,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     },
     {
      "title": "AI-inclusive worldwide hypnosis research — Nov 6 round 2",
@@ -612455,15 +612859,14 @@ window.CATALOG = {
      "items": [
       {
        "id": 3921,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
       },
       {
        "id": 3920,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r2"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round6",
@@ -612471,10 +612874,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3939,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r6"
     }
    ],
    "declared_count_by_source": {
@@ -612492,7 +612895,10 @@ window.CATALOG = {
     "hypno-kids-witness-oct25": null,
     "hypno-kids-witness-unverified-oct25": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r2": null,
+    "vertical-hypnosis-nov6-r6": null
    }
   },
   {
@@ -617302,55 +617708,46 @@ window.CATALOG = {
      "items": [
       {
        "id": 1965,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3918,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3913,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3912,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3911,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3915,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 1980,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 1981,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 1983,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3917,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     },
     {
      "title": "AI-inclusive worldwide hypnosis research — Nov 6 round 2",
@@ -617358,20 +617755,18 @@ window.CATALOG = {
      "items": [
       {
        "id": 3921,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
       },
       {
        "id": 3920,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
       },
       {
        "id": 3922,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r2"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round3",
@@ -617379,50 +617774,42 @@ window.CATALOG = {
      "items": [
       {
        "id": 3928,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3923,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3926,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3924,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3929,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3930,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3927,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3931,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       },
       {
        "id": 3925,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r3"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round4",
@@ -617430,25 +617817,22 @@ window.CATALOG = {
      "items": [
       {
        "id": 3935,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
       },
       {
        "id": 3933,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
       },
       {
        "id": 3932,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
       },
       {
        "id": 3934,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r4"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round5",
@@ -617456,10 +617840,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3936,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r5"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r5"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round6",
@@ -617467,20 +617851,18 @@ window.CATALOG = {
      "items": [
       {
        "id": 3938,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r6"
       },
       {
        "id": 3939,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r6"
       },
       {
        "id": 3937,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r6"
     }
    ],
    "declared_count_by_source": {
@@ -617506,7 +617888,13 @@ window.CATALOG = {
     "deep-oct24": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-nov04": null,
-    "hypnosis-bestsimilar-nov5": null
+    "hypnosis-bestsimilar-nov5": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r2": null,
+    "vertical-hypnosis-nov6-r3": null,
+    "vertical-hypnosis-nov6-r4": null,
+    "vertical-hypnosis-nov6-r5": null,
+    "vertical-hypnosis-nov6-r6": null
    }
   },
   {
@@ -623298,6 +623686,24 @@ window.CATALOG = {
         "Pocket-watch hypnosis during pregnancy",
         "High · pregnancy and hypnosis overlap in adjacent episode guides; release year approximate"
        ],
+       "sources": [
+        {
+         "label": "NetShort · episode 70",
+         "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-70"
+        },
+        {
+         "label": "NetShort · episode 69",
+         "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-69"
+        },
+        {
+         "label": "NetShort · episode 79",
+         "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-new-6-2047835919481831425-ep-79"
+        },
+        {
+         "label": "NetShort · episode 83",
+         "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-83"
+        }
+       ],
        "provenance": "Source basis: Vertical short-drama hypnosis ± pregnancy sweep, 01 Oct 2026 (six vectors; ~85+ query rounds)",
        "entry_note": "Note: The sweep identifies this as the only new strict pregnancy-era hypnosis match. Episode guides alternate the heroine's name between Emma and Dora.",
        "from_source": "xla62ucxbx02u5"
@@ -623541,16 +623947,17 @@ window.CATALOG = {
      "items": [
       {
        "id": 3919,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     }
    ],
    "declared_count_by_source": {
     "round3": null,
     "recheck-oct14": null,
-    "hypno-pregnant-yt-oct25": null
+    "hypno-pregnant-yt-oct25": null,
+    "vertical-hypnosis-nov6": null
    }
   },
   {
@@ -625252,7 +625659,8 @@ window.CATALOG = {
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 4,
     "round2": null,
-    "round3": null
+    "round3": null,
+    "vertical-hypnosis-nov6": null
    }
   },
   {
@@ -630394,10 +630802,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3935,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r4"
     }
    ],
    "declared_count_by_source": {
@@ -630418,7 +630826,8 @@ window.CATALOG = {
     "deep-oct24": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "vertical-hypnosis-nov6-r4": null
    }
   },
   {
@@ -637076,10 +637485,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3934,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r4"
     }
    ],
    "declared_count_by_source": {
@@ -637096,7 +637505,8 @@ window.CATALOG = {
     "deep-oct24": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "vertical-hypnosis-nov6-r4": null
    }
   },
   {
@@ -637684,6 +638094,20 @@ window.CATALOG = {
         "Other female hypnosis / mind control",
         "Hypnosis / memory erasure",
         "Medium confidence · memory-erasure rather than obedience; minor plot beat"
+       ],
+       "sources": [
+        {
+         "label": "PR Newswire via stocktitan.net",
+         "url": "https://www.stocktitan.net/news/MPU/mega-matrix-alpha-wasn-fantasy-romance-ages-2501"
+        },
+        {
+         "label": "DramaBox · review page",
+         "url": "https://www.dramaboxapp.com/resources/review/2647_alpha-she-wasnt-the-one-chinese-drama-full-movie"
+        },
+        {
+         "label": "NetShort · episode page",
+         "url": "https://netshort.com/episode/alpha-she-wasnt-the-one-1871119140218376193"
+        }
        ],
        "provenance": "Source basis: DramaExpress + short-drama-sites sweep, 01 Oct 2026 (dramaexpress.net + 11 platforms; adult/18+ vector honest zero)",
        "entry_note": "Note: The hypnotist is the male lead's father (family controller). Filed with the caveat that the mechanism is memory erasure rather than compelled obedience.",
@@ -640225,30 +640649,26 @@ window.CATALOG = {
      "items": [
       {
        "id": 3911,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3915,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 1980,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 1983,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       },
       {
        "id": 3916,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     },
     {
      "title": "AI-inclusive worldwide hypnosis research — Nov 6 round 2",
@@ -640256,10 +640676,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3920,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r2"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round3",
@@ -640267,10 +640687,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3928,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r3"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round6",
@@ -640278,10 +640698,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3939,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r6"
     }
    ],
    "declared_count_by_source": {
@@ -640309,7 +640729,13 @@ window.CATALOG = {
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
-    "hypnosis-bestsimilar-nov5": null
+    "hypnosis-bestsimilar-nov5": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r2": null,
+    "vertical-hypnosis-nov6-r3": null,
+    "vertical-hypnosis-nov6-r4": null,
+    "vertical-hypnosis-nov6-r5": null,
+    "vertical-hypnosis-nov6-r6": null
    }
   },
   {
@@ -640349,7 +640775,11 @@ window.CATALOG = {
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
-    "hypnosis-bestsimilar-nov5": null
+    "hypnosis-bestsimilar-nov5": null,
+    "vertical-hypnosis-nov6": null,
+    "vertical-hypnosis-nov6-r2": null,
+    "vertical-hypnosis-nov6-r4": null,
+    "vertical-hypnosis-nov6-r6": null
    },
    "groups": [
     {
@@ -641007,10 +641437,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3914,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6"
     },
     {
      "title": "Worldwide adult female hypnosis — Nov6 round4",
@@ -641018,10 +641448,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3934,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r4"
     }
    ]
   },
@@ -641304,10 +641734,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3929,
-       "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
       }
-     ]
+     ],
+     "from_source": "vertical-hypnosis-nov6-r3"
     }
    ],
    "declared_count_by_source": {
@@ -641320,7 +641750,8 @@ window.CATALOG = {
     "female-wife-scenes-oct15": null,
     "youtube-deep-oct15": null,
     "hypnosis-yt-oct15": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "vertical-hypnosis-nov6-r3": null
    }
   },
   {
