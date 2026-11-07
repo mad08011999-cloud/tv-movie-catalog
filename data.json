@@ -11597,6 +11597,19 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "vertical-hypnosis-nov6-r5",
+   "label": "Worldwide hypnosis Nov6 round5",
+   "kind": "local",
+   "share_url": "sources/vertical-hypnosis-nov6-r5.json",
+   "description": "",
+   "dropped": [],
+   "check": {
+    "raw_count": 2,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -11682,10 +11695,11 @@
   "vertical-hypnosis-nov6": 28,
   "vertical-hypnosis-nov6-r2": 5,
   "vertical-hypnosis-nov6-r3": 11,
-  "vertical-hypnosis-nov6-r4": 7
+  "vertical-hypnosis-nov6-r4": 7,
+  "vertical-hypnosis-nov6-r5": 2
  },
- "raw_total": 7488,
- "entry_count": 3742,
+ "raw_total": 7490,
+ "entry_count": 3743,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -11763,7 +11777,7 @@
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 311
+   "entry_count": 312
   },
   {
    "key": "child-controller",
@@ -11895,7 +11909,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 265
+   "entry_count": 266
   },
   {
    "key": "mom-partner-control",
@@ -11925,7 +11939,7 @@
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 467
+   "entry_count": 468
   },
   {
    "key": "parents-sleeping",
@@ -403901,7 +403915,7 @@
    "summary": "Leon's father hypnotizes both leads; female lead Annie suffers memory loss and mistaken identity (Leon misidentifies her sister Anna as his destined mate).",
    "character": "",
    "provenance": "DramaExpress + short-drama-sites sweep, 01 Oct 2026 (dramaexpress.net + 11 platforms; adult/18+ vector honest zero)",
-   "note": "The hypnotist is the male lead's father (family controller). Filed with the caveat that the mechanism is memory erasure rather than compelled obedience.",
+   "note": "The hypnotist is the male lead's father (family controller). Filed with the caveat that the mechanism is memory erasure rather than compelled obedience. Round5 research: Primary ending overview: Annie and Leon regain memories, confess love, and Annie joins the werewolf pack under the Moon Goddess. This establishes relationship reconciliation, NOT pregnancy, existing children or a NEW birth. All old family fields preserved. Existing release source is reused for a substantive age/ending-context enrichment, not claimed a new production.",
    "format": "tv",
    "categories": [
     "forced-obedience",
@@ -403930,11 +403944,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "vertical-hypnosis-nov6"
+    "vertical-hypnosis-nov6",
+    "vertical-hypnosis-nov6-r5"
    ],
    "source_records": [
     "xla62ucxbx02u5:1979",
-    "vertical-hypnosis-nov6:14"
+    "vertical-hypnosis-nov6:14",
+    "vertical-hypnosis-nov6-r5:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -403969,6 +403985,47 @@
        "url": "https://www.prnewswire.com/news-releases/mega-matrix-inc-announced-that-modern-fantasy-miniseries-alpha-she-wasnt-the-one-now-streaming-on-flextv-302341094.html"
       }
      ],
+     "distinct_story": false
+    },
+    {
+     "rid": "vertical-hypnosis-nov6-r5:2",
+     "source": "vertical-hypnosis-nov6-r5",
+     "label": "Alpha, She Wasn't the One (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Alpha, She Wasn't the One",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "The hypnotist is the male lead's father (family controller). Filed with the caveat that the mechanism is memory erasure rather than compelled obedience. Round5 research: Primary ending overview: Annie and Leon regain memories, confess love, and Annie joins the werewolf pack under the Moon Goddess. This establishes relationship reconciliation, NOT pregnancy, existing children or a NEW birth. All old family fields preserved. Existing release source is reused for a substantive age/ending-context enrichment, not claimed a new production.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "forced-obedience",
+      "fantasy",
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Producer-issued release: explicit25th birthday and hypnosis ending",
+       "url": "https://www.prnewswire.com/news-releases/mega-matrix-inc-announced-that-modern-fantasy-miniseries-alpha-she-wasnt-the-one-now-streaming-on-flextv-302341094.html"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Specific hypnosis/finale episode numbers UNKNOWN",
+       "gist": "Father hypnotizes both leads; Annie and Leon lose memories. Producer ending overview says memories and romance return; it does not establish children/pregnancy.",
+       "number_verified": false
+      }
+     ],
+     "tags": [
+      "Round5 primary-source adult-age and ending-relationship enrichment"
+     ],
+     "fit_note": "Round5 research: Producer-issued release explicitly gives Annie her25th birthday: numeric adulthood supported. Leon’s father hypnotizes BOTH Annie and Leon to preserve the pack; mistaken-mate/memory-loss plot, not mere family pressure. No AI-generation claim.",
      "distinct_story": false
     }
    ],
@@ -404026,8 +404083,58 @@
       }
      ],
      "no_media": true
+    },
+    "vertical-hypnosis-nov6-r5:2": {
+     "title": "Alpha, She Wasn't the One",
+     "match_title": "Alpha, She Wasn't the One",
+     "match_year": "2024",
+     "year": "2024",
+     "format": "tv",
+     "categories": [
+      "forced-obedience",
+      "fantasy",
+      "human",
+      "other-control"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "Producer-issued release: explicit25th birthday and hypnosis ending",
+       "url": "https://www.prnewswire.com/news-releases/mega-matrix-inc-announced-that-modern-fantasy-miniseries-alpha-she-wasnt-the-one-now-streaming-on-flextv-302341094.html"
+      }
+     ],
+     "no_media": true,
+     "existing_id": 1965,
+     "override_fields": [
+      "note",
+      "fit_note",
+      "episodes"
+     ],
+     "note": "The hypnotist is the male lead's father (family controller). Filed with the caveat that the mechanism is memory erasure rather than compelled obedience. Round5 research: Primary ending overview: Annie and Leon regain memories, confess love, and Annie joins the werewolf pack under the Moon Goddess. This establishes relationship reconciliation, NOT pregnancy, existing children or a NEW birth. All old family fields preserved. Existing release source is reused for a substantive age/ending-context enrichment, not claimed a new production.",
+     "fit_note": "Round5 research: Producer-issued release explicitly gives Annie her25th birthday: numeric adulthood supported. Leon’s father hypnotizes BOTH Annie and Leon to preserve the pack; mistaken-mate/memory-loss plot, not mere family pressure. No AI-generation claim.",
+     "episodes": [
+      {
+       "episode": "Specific hypnosis/finale episode numbers UNKNOWN",
+       "gist": "Father hypnotizes both leads; Annie and Leon lose memories. Producer ending overview says memories and romance return; it does not establish children/pregnancy.",
+       "number_verified": false
+      }
+     ],
+     "tags": [
+      "Round5 primary-source adult-age and ending-relationship enrichment"
+     ]
     }
-   }
+   },
+   "tags": [
+    "Round5 primary-source adult-age and ending-relationship enrichment"
+   ],
+   "fit_note": "Round5 research: Producer-issued release explicitly gives Annie her25th birthday: numeric adulthood supported. Leon’s father hypnotizes BOTH Annie and Leon to preserve the pack; mistaken-mate/memory-loss plot, not mere family pressure. No AI-generation claim.",
+   "episodes": [
+    {
+     "episode": "Specific hypnosis/finale episode numbers UNKNOWN",
+     "gist": "Father hypnotizes both leads; Annie and Leon lose memories. Producer ending overview says memories and romance return; it does not establish children/pregnancy.",
+     "number_verified": false
+    }
+   ]
   },
   {
    "id": 1966,
@@ -579478,6 +579585,157 @@
      ]
     }
    }
+  },
+  {
+   "id": 3936,
+   "title": "The Borrower's Hypnotist",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "United States (CalArts student production) · English · Nonvertical animated short; not labelled AI-generated",
+   "mechanism": "Literal hypnotic induction and guided recall within a fantasy face-borrowing/identity-theft story; not possession.",
+   "confidence_flag": "High mechanism/production evidence; adult-coded source wording with exact-age caveat; family outcomes unknown",
+   "summary": "Aria has been borrowing other people’s faces to fit in and seeks a hypnotist to recover her own. A close-your-eyes guided memory session becomes a trap: the closing dialogue pronounces a borrower forever a thief, and a thief forever a Ghost.",
+   "character": "Aria (Chacha Tahng); the hypnotist (Erica Malachowski)",
+   "provenance": "",
+   "note": "5min46sec per Animation First2024 programme; published2023 per CalArts2023 showcase. Earlier pregnancy UNKNOWN. Public film TRANSCRIPT read, not video watched. Ending wording comes from dialogue, not a claim of visually observing the transformation. Reject autogenerated happy-ending summaries contradicted by the spoken Ghost ending; cast labels Bathroom Girl1/2 are NOT biological-children evidence. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor AI-generation claim. Framing: Nonvertical animated short; not labelled AI-generated.",
+   "episodes": [
+    {
+     "episode": "Standalone short; precise scene timestamps unknown",
+     "gist": "Aria requests help restoring her identity. Hypnotist tells her to close her eyes, recall the first borrowed face and follow a sound. Final dialogue labels the borrower/thief a Ghost. No pregnancy or family outcome affirmatively established.",
+     "number_verified": false
+    }
+   ],
+   "tags": [
+    "Original title: The Borrower's Hypnotist"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Existing children before storyline UNKNOWN.",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing children before storyline UNKNOWN.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Creator and PBS describe Aria as a young woman. Session dialogue places the concern among young adults; exact character age is unstated, so adulthood is source-/role-inferred, not numerically proven. ADULT STATUS ROLE-BASED; exact age unstated. PBS/creator call Aria a young woman and the session refers to young adults. LITERAL HYPNOSIS within a fantasy identity-theft plot, not merely a hypnotic aesthetic or spirit possession. Animated does NOT establish AI generation; production method beyond animation remains unverified.",
+   "format": "short",
+   "categories": [
+    "medical",
+    "fantasy",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "PBS SoCal broadcaster synopsis",
+     "url": "https://www.pbssocal.org/shows/fine-cut/clip/the-borrowers-hypnotist"
+    },
+    {
+     "label": "Full film public transcript",
+     "url": "https://www.youtube.com/watch?v=yKveFi_CHZY"
+    },
+    {
+     "label": "CalArts official2023 showcase",
+     "url": "https://calarts.edu/academics/calarts-schools/filmvideo/showcase/archives/showcase-2023/character-animation-producers"
+    },
+    {
+     "label": "Filmmaker first-person release announcement",
+     "url": "https://www.linkedin.com/posts/michelle-tang-6511571a2_film-calarts-animation-activity-7060126765213487104-ukc9"
+    },
+    {
+     "label": "Animation First official2024 programme",
+     "url": "https://watch.eventive.org/animation-first-2024/play/65c1511dc3ce16004f36e588/65b40f44da6ecc005ef32458"
+    },
+    {
+     "label": "Independent Animation Blog profile",
+     "url": "https://www.theanimationblog.com/short-film-spotlight-the-borrowers-hypnotist/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r5"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r5:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r5:1": {
+     "title": "The Borrower's Hypnotist",
+     "original_language_title": "The Borrower's Hypnotist",
+     "year": "2023",
+     "format": "short",
+     "country": "United States (CalArts student production)",
+     "language": "English",
+     "orientation": "Nonvertical animated short; not labelled AI-generated",
+     "character": "Aria (Chacha Tahng); the hypnotist (Erica Malachowski)",
+     "adult_status_evidence": "Creator and PBS describe Aria as a young woman. Session dialogue places the concern among young adults; exact character age is unstated, so adulthood is source-/role-inferred, not numerically proven.",
+     "mechanism": "Literal hypnotic induction and guided recall within a fantasy face-borrowing/identity-theft story; not possession.",
+     "summary": "Aria has been borrowing other people’s faces to fit in and seeks a hypnotist to recover her own. A close-your-eyes guided memory session becomes a trap: the closing dialogue pronounces a borrower forever a thief, and a thief forever a Ghost.",
+     "fit_note": "ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Creator and PBS describe Aria as a young woman. Session dialogue places the concern among young adults; exact character age is unstated, so adulthood is source-/role-inferred, not numerically proven. ADULT STATUS ROLE-BASED; exact age unstated. PBS/creator call Aria a young woman and the session refers to young adults. LITERAL HYPNOSIS within a fantasy identity-theft plot, not merely a hypnotic aesthetic or spirit possession. Animated does NOT establish AI generation; production method beyond animation remains unverified.",
+     "categories": [
+      "medical",
+      "fantasy",
+      "other-control"
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "earlier_pregnancy": "unknown",
+     "new_birth_by_ending": "unknown",
+     "kids_note": "Existing children before storyline UNKNOWN.",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing children before storyline UNKNOWN.",
+     "note": "5min46sec per Animation First2024 programme; published2023 per CalArts2023 showcase. Earlier pregnancy UNKNOWN. Public film TRANSCRIPT read, not video watched. Ending wording comes from dialogue, not a claim of visually observing the transformation. Reject autogenerated happy-ending summaries contradicted by the spoken Ghost ending; cast labels Bathroom Girl1/2 are NOT biological-children evidence. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor AI-generation claim. Framing: Nonvertical animated short; not labelled AI-generated.",
+     "ai_generation": "Unknown; no creator/distributor AI-generation claim",
+     "relationship": "No romantic couple established in cited sources; UNKNOWN, not no.",
+     "confidence_flag": "High mechanism/production evidence; adult-coded source wording with exact-age caveat; family outcomes unknown",
+     "episodes": [
+      {
+       "episode": "Standalone short; precise scene timestamps unknown",
+       "gist": "Aria requests help restoring her identity. Hypnotist tells her to close her eyes, recall the first borrowed face and follow a sound. Final dialogue labels the borrower/thief a Ghost. No pregnancy or family outcome affirmatively established.",
+       "number_verified": false
+      }
+     ],
+     "sources": [
+      {
+       "label": "PBS SoCal broadcaster synopsis",
+       "url": "https://www.pbssocal.org/shows/fine-cut/clip/the-borrowers-hypnotist",
+       "evidence_paraphrase": "Aria explicitly a young woman seeking a hypnotist for identity issues."
+      },
+      {
+       "label": "Full film public transcript",
+       "url": "https://www.youtube.com/watch?v=yKveFi_CHZY",
+       "evidence_paraphrase": "Actual induction: Close your eyes; guided recall; young-adults dialogue; spoken Ghost ending."
+      },
+      {
+       "label": "CalArts official2023 showcase",
+       "url": "https://calarts.edu/academics/calarts-schools/filmvideo/showcase/archives/showcase-2023/character-animation-producers",
+       "evidence_paraphrase": "Lists The Borrower’s Hypnotist by Michelle Tang in2023 Character Animation Producers’ Show."
+      },
+      {
+       "label": "Filmmaker first-person release announcement",
+       "url": "https://www.linkedin.com/posts/michelle-tang-6511571a2_film-calarts-animation-activity-7060126765213487104-ukc9",
+       "evidence_paraphrase": "Creator identifies published CalArts thesis film, young woman Aria and hypnotist premise."
+      },
+      {
+       "label": "Animation First official2024 programme",
+       "url": "https://watch.eventive.org/animation-first-2024/play/65c1511dc3ce16004f36e588/65b40f44da6ecc005ef32458",
+       "evidence_paraphrase": "Names filmmaker/CalArts and5min46sec;2024 screening is not a separate production."
+      },
+      {
+       "label": "Independent Animation Blog profile",
+       "url": "https://www.theanimationblog.com/short-film-spotlight-the-borrowers-hypnotist/",
+       "evidence_paraphrase": "Director, voice credits and same Aria/identity/hypnotist synopsis."
+      }
+     ],
+     "no_media": true,
+     "meta": "United States (CalArts student production) · English · Nonvertical animated short; not labelled AI-generated",
+     "tags": [
+      "Original title: The Borrower's Hypnotist"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -587921,7 +588179,8 @@
     "deep-refresh-oct30",
     "deep-refresh-nov04",
     "hypnosis-bestsimilar-nov5",
-    "vertical-hypnosis-nov6"
+    "vertical-hypnosis-nov6",
+    "vertical-hypnosis-nov6-r5"
    ],
    "groups": [
     {
@@ -590376,6 +590635,17 @@
        "id": 3915,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round5",
+     "notes": [],
+     "items": [
+      {
+       "id": 3936,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r5"
       }
      ]
     }
@@ -594361,7 +594631,8 @@
     "hypno-kids-witness-oct25",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
-    "vertical-hypnosis-nov6-r3"
+    "vertical-hypnosis-nov6-r3",
+    "vertical-hypnosis-nov6-r5"
    ],
    "groups": [
     {
@@ -608370,7 +608641,8 @@
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r3",
-    "vertical-hypnosis-nov6-r4"
+    "vertical-hypnosis-nov6-r4",
+    "vertical-hypnosis-nov6-r5"
    ],
    "groups": [
     {
@@ -610393,6 +610665,17 @@
        "id": 3932,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round5",
+     "notes": [],
+     "items": [
+      {
+       "id": 3936,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r5"
       }
      ]
     }
@@ -613390,7 +613673,8 @@
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r3",
-    "vertical-hypnosis-nov6-r4"
+    "vertical-hypnosis-nov6-r4",
+    "vertical-hypnosis-nov6-r5"
    ],
    "groups": [
     {
@@ -616546,6 +616830,17 @@
        "id": 3934,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6-r4"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round5",
+     "notes": [],
+     "items": [
+      {
+       "id": 3936,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r5"
       }
      ]
     }
@@ -636633,7 +636928,8 @@
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r3",
-    "vertical-hypnosis-nov6-r4"
+    "vertical-hypnosis-nov6-r4",
+    "vertical-hypnosis-nov6-r5"
    ],
    "groups": [
     {

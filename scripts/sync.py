@@ -206,6 +206,7 @@ SOURCES = [
     {"id": "vertical-hypnosis-nov6-r2", "label": "AI-inclusive worldwide hypnosis Nov 6 round 2", "local": "sources/vertical-hypnosis-nov6-r2.json", "required": True},
     {"id": "vertical-hypnosis-nov6-r3", "label": "Worldwide hypnosis Nov6 round3", "local": "sources/vertical-hypnosis-nov6-r3.json", "required": True},
     {"id": "vertical-hypnosis-nov6-r4", "label": "Worldwide hypnosis Nov6 round4", "local": "sources/vertical-hypnosis-nov6-r4.json", "required": True},
+    {"id": "vertical-hypnosis-nov6-r5", "label": "Worldwide hypnosis Nov6 round5", "local": "sources/vertical-hypnosis-nov6-r5.json", "required": True},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
