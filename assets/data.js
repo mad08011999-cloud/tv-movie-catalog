@@ -11610,6 +11610,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "vertical-hypnosis-nov6-r6",
+   "label": "Worldwide hypnosis Nov6 round6",
+   "kind": "local",
+   "share_url": "sources/vertical-hypnosis-nov6-r6.json",
+   "description": "",
+   "dropped": [],
+   "check": {
+    "raw_count": 4,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -11696,10 +11709,11 @@ window.CATALOG = {
   "vertical-hypnosis-nov6-r2": 5,
   "vertical-hypnosis-nov6-r3": 11,
   "vertical-hypnosis-nov6-r4": 7,
-  "vertical-hypnosis-nov6-r5": 2
+  "vertical-hypnosis-nov6-r5": 2,
+  "vertical-hypnosis-nov6-r6": 4
  },
- "raw_total": 7490,
- "entry_count": 3743,
+ "raw_total": 7494,
+ "entry_count": 3746,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -11747,7 +11761,7 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 60
+   "entry_count": 61
   },
   {
    "key": "occult",
@@ -11777,7 +11791,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 312
+   "entry_count": 313
   },
   {
    "key": "child-controller",
@@ -11807,7 +11821,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 357
+   "entry_count": 358
   },
   {
    "key": "index-56",
@@ -11831,7 +11845,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 711
+   "entry_count": 712
   },
   {
    "key": "wife",
@@ -11909,7 +11923,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 266
+   "entry_count": 267
   },
   {
    "key": "mom-partner-control",
@@ -11921,7 +11935,7 @@ window.CATALOG = {
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 113
+   "entry_count": 114
   },
   {
    "key": "mom-pregnancy",
@@ -11939,7 +11953,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 468
+   "entry_count": 471
   },
   {
    "key": "parents-sleeping",
@@ -406687,7 +406701,7 @@ window.CATALOG = {
    "summary": "Elena Hayes is hypnotized by a rival and starts a fire while sleepwalking. Her husband Vincent Vance mistakes the event for an attempt on his life and fortune; Elena leaves, later discovers she is pregnant, and returns years later with their son Leo.",
    "character": "",
    "provenance": "Vertical short-drama hypnosis ± pregnancy sweep, 01 Oct 2026 (official synopsis corroborated across multiple indexed ReelShort pages)",
-   "note": "Pregnancy is discovered after the hypnosis-and-fire incident. She may already have been pregnant during the hypnosis, but the timing is not confirmed, so this is not filed in the strict pregnancy-era category.",
+   "note": "Pregnancy is discovered after the hypnosis-and-fire incident. She may already have been pregnant during the hypnosis, but the timing is not confirmed, so this is not filed in the strict pregnancy-era category. Round6 research: Secondary DramaFeed catalog maps DramaWave title “His Wife Was Always the One” to this SAME Elena Hayes / Vincent Vance / son Leo production. Reported platform alias only; original2026 date,89episode count and its inconsistent seven-years/four-years chronology are NOT adopted. Existing primary description and all existing family fields retained.",
    "kids_status": "not stated",
    "kids_note": "not stated",
    "kids_together": "not stated",
@@ -406741,6 +406755,10 @@ window.CATALOG = {
     {
      "label": "https://everydrama.com/drama/sweet-strategy-mr-vance-s-ex-is-too-proud-31174",
      "url": "https://everydrama.com/drama/sweet-strategy-mr-vance-s-ex-is-too-proud-31174"
+    },
+    {
+     "label": "DramaFeed secondary cross-platform alias mapping",
+     "url": "https://drama-feed.com/en/d/01973"
     }
    ],
    "youtube_ids": [],
@@ -406748,13 +406766,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "wife-hypnosis-oct15",
-    "vertical-hypnosis-nov6"
+    "vertical-hypnosis-nov6",
+    "vertical-hypnosis-nov6-r6"
    ],
    "source_records": [
     "xla62ucxbx02u5:1996",
     "ig6qlxqxoxvcxla:157",
     "wife-hypnosis-oct15:66",
-    "vertical-hypnosis-nov6:18"
+    "vertical-hypnosis-nov6:18",
+    "vertical-hypnosis-nov6-r6:4"
    ],
    "index_only": false,
    "local_only": false,
@@ -406905,6 +406925,45 @@ window.CATALOG = {
       }
      ],
      "distinct_story": false
+    },
+    {
+     "rid": "vertical-hypnosis-nov6-r6:4",
+     "source": "vertical-hypnosis-nov6-r6",
+     "label": "Sweet Strategy: Mr. Vance's Ex Is Too Proud (Unconfirmed)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+     "subtitle": "",
+     "year": "Unconfirmed",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Pregnancy is discovered after the hypnosis-and-fire incident. She may already have been pregnant during the hypnosis, but the timing is not confirmed, so this is not filed in the strict pregnancy-era category. Round6 research: Secondary DramaFeed catalog maps DramaWave title “His Wife Was Always the One” to this SAME Elena Hayes / Vincent Vance / son Leo production. Reported platform alias only; original2026 date,89episode count and its inconsistent seven-years/four-years chronology are NOT adopted. Existing primary description and all existing family fields retained.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "love",
+      "wife",
+      "human",
+      "crime",
+      "mother",
+      "other-control",
+      "forced-obedience",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "DramaFeed secondary cross-platform alias mapping",
+       "url": "https://drama-feed.com/en/d/01973"
+      }
+     ],
+     "tags": [
+      "Alias: His Wife Was Always the One",
+      "Alias provenance: SECONDARY DramaFeed platform mapping; primary distributor verification unestablished",
+      "Round6 secondary-catalog alias corroboration; not primary distributor verification"
+     ],
+     "distinct_story": false
     }
    ],
    "raw": {
@@ -407031,8 +407090,49 @@ window.CATALOG = {
       }
      ],
      "no_media": true
+    },
+    "vertical-hypnosis-nov6-r6:4": {
+     "title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+     "match_title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+     "match_year": "Unconfirmed",
+     "year": "Unconfirmed",
+     "format": "tv",
+     "categories": [
+      "love",
+      "wife",
+      "human",
+      "crime",
+      "mother",
+      "other-control",
+      "forced-obedience",
+      "wife-hypnotized"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "DramaFeed secondary cross-platform alias mapping",
+       "url": "https://drama-feed.com/en/d/01973",
+       "evidence_paraphrase": "Explicit ReelShort/DramaWave title mapping and same Elena/Vincent/Leo hypnosis-arson-pregnancy plot. Ownership not primary; dates/count not promoted."
+      }
+     ],
+     "no_media": true,
+     "existing_id": 1981,
+     "override_fields": [
+      "note"
+     ],
+     "note": "Pregnancy is discovered after the hypnosis-and-fire incident. She may already have been pregnant during the hypnosis, but the timing is not confirmed, so this is not filed in the strict pregnancy-era category. Round6 research: Secondary DramaFeed catalog maps DramaWave title “His Wife Was Always the One” to this SAME Elena Hayes / Vincent Vance / son Leo production. Reported platform alias only; original2026 date,89episode count and its inconsistent seven-years/four-years chronology are NOT adopted. Existing primary description and all existing family fields retained.",
+     "tags": [
+      "Alias: His Wife Was Always the One",
+      "Alias provenance: SECONDARY DramaFeed platform mapping; primary distributor verification unestablished",
+      "Round6 secondary-catalog alias corroboration; not primary distributor verification"
+     ]
     }
-   }
+   },
+   "tags": [
+    "Alias: His Wife Was Always the One",
+    "Alias provenance: SECONDARY DramaFeed platform mapping; primary distributor verification unestablished",
+    "Round6 secondary-catalog alias corroboration; not primary distributor verification"
+   ]
   },
   {
    "id": 1982,
@@ -579736,6 +579836,459 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 3937,
+   "title": "Hometown",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "South Korea · Korean · Horizontal television mystery/thriller, 12 episodes; NOT a vertical original",
+   "mechanism": "Literal hypnosis by Jo Kyung-ho during adult sister Jung-hyun’s prison visit; cult hypnosis/memory erasure and mind-controlling recordings in wider plot. Hallucinated ghost imagery is not evidence of possession.",
+   "confidence_flag": "High adult age, production identity and episode4 hypnosis: primary broadcaster plus contemporaneous independent reporting; family outcomes unknown",
+   "summary": "In1999 Saju,29-year-old Jo Jung-hyun searches for her missing niece and confronts her imprisoned brother, terrorist and hypnotist Jo Kyung-ho. An independent episode4 report explicitly says he hypnotizes her during their visit. His recordings and cult connect the town’s hallucinations, erased memories and killings; adult wife Kyung-joo is another affected woman.",
+   "character": "Jo Jung-hyun (조정현), age29, played by Han Ye-ri; additional adult wife Choi Kyung-joo (Kim Ye-eun)",
+   "provenance": "",
+   "note": "All five family outcomes for the cataloged adult women remain UNKNOWN. The finale recap discusses another woman Im Se-yoon’s supposed miscarriage and daughter Jae-young; these are not the target women’s pregnancies or biological children. Present-day adult hypnosis only; no school-age target entry. Official12-episode previews read, not videos watched. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor claim of AI generation established. Framing: Horizontal television mystery/thriller, 12 episodes; NOT a vertical original.",
+   "episodes": [
+    {
+     "episode": "4 (뒤집힌 꿈 / Inverted Dream)",
+     "gist": "Jung-hyun visits Kyung-ho while seeking niece Jae-young; Korean September30,2021 broadcast report explicitly says he hypnotizes her when she becomes agitated. Kyung-joo sees a recurring tape-related apparition; her husband is found dead. No claim to have watched this scene.",
+     "number_verified": true
+    },
+    {
+     "episode": "12 (최형인 / Choi Hyung-in)",
+     "gist": "Official finale preview: Jung-hyun challenges cult members’ demand for death; Choi confronts Kyung-ho. Independent ending recap explains mind-control tapes and memory erasure. No affirmative pregnancy/new-birth outcome for adult female targets.",
+     "number_verified": true
+    }
+   ],
+   "tags": [
+    "Original title: 홈타운"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Existing biological/adopted children before storyline UNKNOWN; do not infer none from silence.",
+   "kids_together": "unknown",
+   "kids_together_note": "Couple children at ending UNKNOWN; NEW birth UNKNOWN. NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "ADULT EVIDENCE: PRIMARY tvN character panel explicitly gives Jo Jung-hyun as29. Choi Kyung-joo is an adult married former classmate; her exact age is unverified. Only present-day ADULT targets are cataloged, not school-age flashback characters. LITERAL HYPNOSIS: present-day adult Jung-hyun,29 per broadcaster, is hypnotized in episode4 per contemporaneous Korean reporting. Broader recordings/cult mechanism is fantastical psychological mind control, not a proven spirit possession. Do NOT misidentify Kyung-joo as detective Choi’s wife: she is Lee Si-jung’s wife. Niece Jae-young is NOT Jung-hyun’s biological child. No AI-production claim.",
+   "format": "tv",
+   "categories": [
+    "cult",
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "tvN official series/character page",
+     "url": "https://tvn.cjenm.com/ko/hometown/"
+    },
+    {
+     "label": "XportsNews contemporaneous episode4 report",
+     "url": "https://www.xportsnews.com/article/1481148"
+    },
+    {
+     "label": "tvN official episode previews1–12",
+     "url": "https://tvn.cjenm.com/ko/hometown/episodes/"
+    },
+    {
+     "label": "Independent ending explanation, Cinemaholic",
+     "url": "https://thecinemaholic.com/hometown-ending-explained/"
+    },
+    {
+     "label": "AsianWiki staff profile/cast",
+     "url": "https://asianwiki.com/Hometown_(Korean_Drama)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r6:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r6:1": {
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "earlier_pregnancy": "unknown",
+     "new_birth_by_ending": "unknown",
+     "kids_note": "Existing biological/adopted children before storyline UNKNOWN; do not infer none from silence.",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Couple children at ending UNKNOWN; NEW birth UNKNOWN. NEW birth by ending UNKNOWN. ",
+     "ai_generation": "Unknown; no creator/distributor claim of AI generation established",
+     "no_media": true,
+     "title": "Hometown",
+     "original_language_title": "홈타운",
+     "aliases": [
+      "홈타운"
+     ],
+     "year": "2021",
+     "format": "tv",
+     "country": "South Korea",
+     "language": "Korean",
+     "orientation": "Horizontal television mystery/thriller, 12 episodes; NOT a vertical original",
+     "character": "Jo Jung-hyun (조정현), age29, played by Han Ye-ri; additional adult wife Choi Kyung-joo (Kim Ye-eun)",
+     "adult_status_evidence": "PRIMARY tvN character panel explicitly gives Jo Jung-hyun as29. Choi Kyung-joo is an adult married former classmate; her exact age is unverified. Only present-day ADULT targets are cataloged, not school-age flashback characters.",
+     "mechanism": "Literal hypnosis by Jo Kyung-ho during adult sister Jung-hyun’s prison visit; cult hypnosis/memory erasure and mind-controlling recordings in wider plot. Hallucinated ghost imagery is not evidence of possession.",
+     "summary": "In1999 Saju,29-year-old Jo Jung-hyun searches for her missing niece and confronts her imprisoned brother, terrorist and hypnotist Jo Kyung-ho. An independent episode4 report explicitly says he hypnotizes her during their visit. His recordings and cult connect the town’s hallucinations, erased memories and killings; adult wife Kyung-joo is another affected woman.",
+     "fit_note": "ADULT EVIDENCE: PRIMARY tvN character panel explicitly gives Jo Jung-hyun as29. Choi Kyung-joo is an adult married former classmate; her exact age is unverified. Only present-day ADULT targets are cataloged, not school-age flashback characters. LITERAL HYPNOSIS: present-day adult Jung-hyun,29 per broadcaster, is hypnotized in episode4 per contemporaneous Korean reporting. Broader recordings/cult mechanism is fantastical psychological mind control, not a proven spirit possession. Do NOT misidentify Kyung-joo as detective Choi’s wife: she is Lee Si-jung’s wife. Niece Jae-young is NOT Jung-hyun’s biological child. No AI-production claim.",
+     "categories": [
+      "cult",
+      "human",
+      "other-control"
+     ],
+     "relationship": "Jung-hyun / controller Kyung-ho are siblings, not romantic partners. Kyung-joo / Lee Si-jung are married. Detective Choi / Im Se-yoon and their daughter are a DIFFERENT family; do not transfer their pregnancy/children to hypnotized Jung-hyun or Kyung-joo.",
+     "note": "All five family outcomes for the cataloged adult women remain UNKNOWN. The finale recap discusses another woman Im Se-yoon’s supposed miscarriage and daughter Jae-young; these are not the target women’s pregnancies or biological children. Present-day adult hypnosis only; no school-age target entry. Official12-episode previews read, not videos watched. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor claim of AI generation established. Framing: Horizontal television mystery/thriller, 12 episodes; NOT a vertical original.",
+     "confidence_flag": "High adult age, production identity and episode4 hypnosis: primary broadcaster plus contemporaneous independent reporting; family outcomes unknown",
+     "episodes": [
+      {
+       "episode": "4 (뒤집힌 꿈 / Inverted Dream)",
+       "gist": "Jung-hyun visits Kyung-ho while seeking niece Jae-young; Korean September30,2021 broadcast report explicitly says he hypnotizes her when she becomes agitated. Kyung-joo sees a recurring tape-related apparition; her husband is found dead. No claim to have watched this scene.",
+       "number_verified": true
+      },
+      {
+       "episode": "12 (최형인 / Choi Hyung-in)",
+       "gist": "Official finale preview: Jung-hyun challenges cult members’ demand for death; Choi confronts Kyung-ho. Independent ending recap explains mind-control tapes and memory erasure. No affirmative pregnancy/new-birth outcome for adult female targets.",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "tvN official series/character page",
+       "url": "https://tvn.cjenm.com/ko/hometown/",
+       "evidence_paraphrase": "Official2021 broadcast dates and Jo Jung-hyun age29; separates15-year-old niece."
+      },
+      {
+       "label": "XportsNews contemporaneous episode4 report",
+       "url": "https://www.xportsnews.com/article/1481148",
+       "evidence_paraphrase": "조경호는 조정현이 흥분하자 최면을 걸었고 = Kyung-ho hypnotized Jung-hyun when she became agitated. Identifies broadcast as episode4 and Kyung-joo’s husband as Lee Si-jung."
+      },
+      {
+       "label": "tvN official episode previews1–12",
+       "url": "https://tvn.cjenm.com/ko/hometown/episodes/",
+       "evidence_paraphrase": "Official numbering, prison/cult investigation and finale synopsis."
+      },
+      {
+       "label": "Independent ending explanation, Cinemaholic",
+       "url": "https://thecinemaholic.com/hometown-ending-explained/",
+       "evidence_paraphrase": "Explains recordings as hypnotic mind-control, adult Kyung-joo and sibling Jung-hyun; separate Im Se-yoon/Choi pregnancy/daughter story."
+      },
+      {
+       "label": "AsianWiki staff profile/cast",
+       "url": "https://asianwiki.com/Hometown_(Korean_Drama)",
+       "evidence_paraphrase": "Director Park Hyun-suk,2021,12episodes, Korean/South Korea and separate adult/teen cast sections."
+      }
+     ],
+     "meta": "South Korea · Korean · Horizontal television mystery/thriller, 12 episodes; NOT a vertical original",
+     "tags": [
+      "Original title: 홈타운"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3938,
+   "title": "Betty and Barney",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "United States · English · Nonvertical live-action short; NOT the1975 TV movie The UFO Incident",
+   "mechanism": "Literal regression/recall hypnosis: BOTH members of a couple undergo hypnosis to remember an alleged alien abduction.",
+   "confidence_flag": "High primary-festival hypnosis/production evidence; adulthood role-inferred, exact age unstated; year secondary; family unknown",
+   "summary": "A couple undergoes hypnosis to recover memories of a horrific alleged alien abduction. Dan Sellers’s separate short uses the couple’s recollection as its central mechanism; it is not a new entry for an older film about the same historical incident.",
+   "character": "Female member Betty of the titular adult couple; precise numeric age and on-screen character surname not independently confirmed",
+   "provenance": "",
+   "note": "Primary Norwescon selection and MoPOP festival synopsis both say a couple undergoes hypnosis. TMDB identifies Dan Sellers, Michael Smallwood and Tracey Reynolds and2022 release, but lists5min versus MoPOP8min11sec; exact runtime held. Family outcomes and scene timestamps UNKNOWN. No video was watched. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor claim of AI generation established. Framing: Nonvertical live-action short; NOT the1975 TV movie The UFO Incident.",
+   "episodes": [
+    {
+     "episode": "Standalone short; hypnosis scene timestamps UNKNOWN",
+     "gist": "Both members of the titular couple undergo hypnosis to recall an alleged alien abduction. Exact induction order, practitioner identity and final family outcomes not established from available synopsis.",
+     "number_verified": false
+    }
+   ],
+   "tags": [
+    "Original title: Betty and Barney"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Existing biological/adopted children before storyline UNKNOWN; do not infer none from silence.",
+   "kids_together": "unknown",
+   "kids_together_note": "Couple children at ending UNKNOWN; NEW birth UNKNOWN. NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "ADULT EVIDENCE: Adult-couple/retrospective hypnosis-session role inference, not a verified numeric age. Festival synopsis explicitly calls them a couple; cast is Michael Smallwood and Tracey Reynolds. Do not import the historical Hills’ exact ages or reproductive history into this short. LITERAL HYPNOSIS, including the adult female member of the couple, explicitly stated by primary festival synopsis. ADULT STATUS ROLE-INFERRED; exact character age unstated. Dan Sellers production, not1975 The UFO Incident or a documentary upload/repost.2022 year comes from secondary TMDB; exhibited in2023 festivals. Runtime conflicts (festival8:11; TMDB5min) are UNRESOLVED, not different productions. No AI-generation evidence.",
+   "format": "short",
+   "categories": [
+    "medical",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Norwescon45 official film selection",
+     "url": "https://norwescon.org/archives/norwescon45/con/special-events/nwc-speculative-film-fest/index.html"
+    },
+    {
+     "label": "MoPOP festival press programme via PictureThisPost",
+     "url": "https://www.picturethispost.com/museum-of-pop-culture-the-18th-annual-science-fiction-fantasy-short-film-festival/"
+    },
+    {
+     "label": "TMDB production/cast identity (secondary)",
+     "url": "https://www.themoviedb.org/movie/1141518-betty-and-barney"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r6:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r6:2": {
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "earlier_pregnancy": "unknown",
+     "new_birth_by_ending": "unknown",
+     "kids_note": "Existing biological/adopted children before storyline UNKNOWN; do not infer none from silence.",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Couple children at ending UNKNOWN; NEW birth UNKNOWN. NEW birth by ending UNKNOWN. ",
+     "ai_generation": "Unknown; no creator/distributor claim of AI generation established",
+     "no_media": true,
+     "title": "Betty and Barney",
+     "original_language_title": "Betty and Barney",
+     "aliases": [],
+     "year": "2022",
+     "format": "short",
+     "country": "United States",
+     "language": "English",
+     "orientation": "Nonvertical live-action short; NOT the1975 TV movie The UFO Incident",
+     "character": "Female member Betty of the titular adult couple; precise numeric age and on-screen character surname not independently confirmed",
+     "adult_status_evidence": "Adult-couple/retrospective hypnosis-session role inference, not a verified numeric age. Festival synopsis explicitly calls them a couple; cast is Michael Smallwood and Tracey Reynolds. Do not import the historical Hills’ exact ages or reproductive history into this short.",
+     "mechanism": "Literal regression/recall hypnosis: BOTH members of a couple undergo hypnosis to remember an alleged alien abduction.",
+     "summary": "A couple undergoes hypnosis to recover memories of a horrific alleged alien abduction. Dan Sellers’s separate short uses the couple’s recollection as its central mechanism; it is not a new entry for an older film about the same historical incident.",
+     "fit_note": "ADULT EVIDENCE: Adult-couple/retrospective hypnosis-session role inference, not a verified numeric age. Festival synopsis explicitly calls them a couple; cast is Michael Smallwood and Tracey Reynolds. Do not import the historical Hills’ exact ages or reproductive history into this short. LITERAL HYPNOSIS, including the adult female member of the couple, explicitly stated by primary festival synopsis. ADULT STATUS ROLE-INFERRED; exact character age unstated. Dan Sellers production, not1975 The UFO Incident or a documentary upload/repost.2022 year comes from secondary TMDB; exhibited in2023 festivals. Runtime conflicts (festival8:11; TMDB5min) are UNRESOLVED, not different productions. No AI-generation evidence.",
+     "categories": [
+      "medical",
+      "other-control"
+     ],
+     "relationship": "Titular couple Betty / Barney; no sourced film-specific reproductive history. Do not import historical biography or other adaptations.",
+     "note": "Primary Norwescon selection and MoPOP festival synopsis both say a couple undergoes hypnosis. TMDB identifies Dan Sellers, Michael Smallwood and Tracey Reynolds and2022 release, but lists5min versus MoPOP8min11sec; exact runtime held. Family outcomes and scene timestamps UNKNOWN. No video was watched. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor claim of AI generation established. Framing: Nonvertical live-action short; NOT the1975 TV movie The UFO Incident.",
+     "confidence_flag": "High primary-festival hypnosis/production evidence; adulthood role-inferred, exact age unstated; year secondary; family unknown",
+     "episodes": [
+      {
+       "episode": "Standalone short; hypnosis scene timestamps UNKNOWN",
+       "gist": "Both members of the titular couple undergo hypnosis to recall an alleged alien abduction. Exact induction order, practitioner identity and final family outcomes not established from available synopsis.",
+       "number_verified": false
+      }
+     ],
+     "sources": [
+      {
+       "label": "Norwescon45 official film selection",
+       "url": "https://norwescon.org/archives/norwescon45/con/special-events/nwc-speculative-film-fest/index.html",
+       "evidence_paraphrase": "Betty and Barney; director Dan Sellers; US; A couple undergoes hypnosis to recall a horrific alien abduction."
+      },
+      {
+       "label": "MoPOP festival press programme via PictureThisPost",
+       "url": "https://www.picturethispost.com/museum-of-pop-culture-the-18th-annual-science-fiction-fantasy-short-film-festival/",
+       "evidence_paraphrase": "June3,2023 screening; Dan Sellers,US,8:11; identical explicit couple-hypnosis synopsis. Press programme corroboration, not independently watched film."
+      },
+      {
+       "label": "TMDB production/cast identity (secondary)",
+       "url": "https://www.themoviedb.org/movie/1141518-betty-and-barney",
+       "evidence_paraphrase": "2022 release, Dan Sellers director/writer, cast Michael Smallwood and Tracey Reynolds, English. Runtime discrepancy held."
+      }
+     ],
+     "meta": "United States · English · Nonvertical live-action short; NOT the1975 TV movie The UFO Incident",
+     "tags": [
+      "Original title: Betty and Barney"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3939,
+   "title": "Good Madam / Mlungu Wam",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "South Africa · Xhosa and English · Horizontal92-minute feature;2021festival premiere,July2022Shudder release; NOT vertical",
+   "mechanism": "LOOSE FIT — supernatural spell/bell-triggered hypnotic servitude. Reviews explicitly describe adult Mavis and Tsidi becoming hypnotized/compelled to clean, and a discovered spell binding servants. Not a clinical hypnosis session; ambiguity/colonial allegory retained, not relabeled as possession.",
+   "confidence_flag": "High production/adult motherhood/existing-child evidence; medium-high LOOSE-FIT bell/spell hypnosis from multiple independent reviews; ending pregnancy/new birth unknown",
+   "summary": "Single mother Tsidi and her existing daughter Winnie move into the Cape Town home where Tsidi’s mother Mavis serves the bedridden Diane. Diane’s bell and a binding spell turn domestic labor into trance-like compulsion that also grips Tsidi. Mavis ultimately intervenes; the final tea scene shows Mavis, Tsidi and the SAME existing child Winnie occupying the house.",
+   "character": "Tsidi (Chumisa Cosa), single mother of Winnie; Mavis (Nosipho Mtebe), Tsidi’s mother and long-serving domestic worker",
+   "provenance": "",
+   "note": "2021premiere is explicitly confirmed by BOTH production companies;2022is distribution year, not a second production. Common Sense Media says Sex, Romance & Nudity NOT PRESENT, so no child-witness sexual-content concern identified in that advisory. Earlier pregnancy event not separately established. Final family scene sourced from independent ending recap, not watched by researcher. FilmFugitives recap misspells child as Minnie at end; Guardian/primary story and HighOnFilms establish Winnie. No timestamps verified. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor claim of AI generation established. Framing: Horizontal92-minute feature;2021festival premiere,July2022Shudder release; NOT vertical.",
+   "episodes": [
+    {
+     "episode": "Standalone feature; exact scene timestamps UNKNOWN",
+     "gist": "Bell-triggered servitude affects adult Mavis and Tsidi; latter compulsively scrubs until hands blister. Late spellbook/ritual exposes binding. Finale: Mavis stops sacrifice; Mavis/Tsidi/Winnie have tea in former employer’s space. Same existing child, not a new birth.",
+     "number_verified": false
+    }
+   ],
+   "tags": [
+    "Original title: Mlungu Wam"
+   ],
+   "kids_status": "yes",
+   "kids_note": "YES: Tsidi already has daughter Winnie BEFORE the central house storyline; Mavis already has adult daughter Tsidi and son Gcinumzi/Stuart. These are existing children, not new births.",
+   "kids_together": "yes",
+   "kids_together_note": "EXISTING CHILD ONLY: Tsidi and estranged co-parent Luthando already share Winnie (Guardian explicitly identifies him as her father). Winnie is present in final tea scene per ending recap. NO NEW BIRTH established; romantic reunion or marriage is NOT established. NEW birth by ending UNKNOWN. NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "ADULT EVIDENCE: Adult motherhood and three-generation family roles are explicit in PRIMARY producers’ and festival synopses. Exact numeric ages of Tsidi/Mavis not established; child Winnie is NOT cataloged as hypnotized subject. LOOSE FIT: magical bell-triggered hypnotic servitude / actual supernatural compulsion in a political horror allegory, NOT clinical or medical hypnosis and NOT ordinary persuasion alone. Two independent detailed reviews describe trance/spell effects, while some criticism stresses ambiguity. Adult mothers Tsidi/Mavis only; Winnie is their existing child/grandchild, not an eligible target. No AI-production claim. Former partner/co-parent Luthando is NOT asserted to be a husband or reconciled partner.",
+   "format": "movie",
+   "categories": [
+    "fantasy",
+    "forced-obedience",
+    "mother",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Causeway Films PRIMARY producer",
+     "url": "https://causewayfilms.com.au/films/good-madam"
+    },
+    {
+     "label": "Salmira PRIMARY producer",
+     "url": "https://salmiraproductions.com/film/good-madam/"
+    },
+    {
+     "label": "FFFA official festival synopsis",
+     "url": "https://www.fantasticfilmfestival.com.au/films/good-madam"
+    },
+    {
+     "label": "Independent Fantastic Fest detailed review",
+     "url": "https://fathersonholygore.com/2021/10/04/fantastic-fest-2021-gothic-south-african-legacies-in-mlungu-wam/"
+    },
+    {
+     "label": "Signal Horizon independent review",
+     "url": "https://signalhorizon.com/shudder-secrets-good-madam-explained/"
+    },
+    {
+     "label": "Guardian review, parentage corroboration",
+     "url": "https://www.theguardian.com/film/2022/jul/12/good-madam-review-eerie-post-apartheid-chiller"
+    },
+    {
+     "label": "HighOnFilms independent ending analysis",
+     "url": "https://www.highonfilms.com/good-madam-2022-movie-ending-explained/"
+    },
+    {
+     "label": "Common Sense Media content advisory",
+     "url": "https://www.commonsensemedia.org/movie-reviews/good-madam"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r6:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r6:3": {
+     "earlier_pregnancy": "unknown",
+     "new_birth_by_ending": "unknown",
+     "ai_generation": "Unknown; no creator/distributor claim of AI generation established",
+     "no_media": true,
+     "format": "movie",
+     "title": "Good Madam / Mlungu Wam",
+     "original_language_title": "Mlungu Wam",
+     "aliases": [
+      "Good Madam",
+      "Mlungu Wam"
+     ],
+     "year": "2021",
+     "country": "South Africa",
+     "language": "Xhosa and English",
+     "orientation": "Horizontal92-minute feature;2021festival premiere,July2022Shudder release; NOT vertical",
+     "character": "Tsidi (Chumisa Cosa), single mother of Winnie; Mavis (Nosipho Mtebe), Tsidi’s mother and long-serving domestic worker",
+     "adult_status_evidence": "Adult motherhood and three-generation family roles are explicit in PRIMARY producers’ and festival synopses. Exact numeric ages of Tsidi/Mavis not established; child Winnie is NOT cataloged as hypnotized subject.",
+     "mechanism": "LOOSE FIT — supernatural spell/bell-triggered hypnotic servitude. Reviews explicitly describe adult Mavis and Tsidi becoming hypnotized/compelled to clean, and a discovered spell binding servants. Not a clinical hypnosis session; ambiguity/colonial allegory retained, not relabeled as possession.",
+     "summary": "Single mother Tsidi and her existing daughter Winnie move into the Cape Town home where Tsidi’s mother Mavis serves the bedridden Diane. Diane’s bell and a binding spell turn domestic labor into trance-like compulsion that also grips Tsidi. Mavis ultimately intervenes; the final tea scene shows Mavis, Tsidi and the SAME existing child Winnie occupying the house.",
+     "fit_note": "ADULT EVIDENCE: Adult motherhood and three-generation family roles are explicit in PRIMARY producers’ and festival synopses. Exact numeric ages of Tsidi/Mavis not established; child Winnie is NOT cataloged as hypnotized subject. LOOSE FIT: magical bell-triggered hypnotic servitude / actual supernatural compulsion in a political horror allegory, NOT clinical or medical hypnosis and NOT ordinary persuasion alone. Two independent detailed reviews describe trance/spell effects, while some criticism stresses ambiguity. Adult mothers Tsidi/Mavis only; Winnie is their existing child/grandchild, not an eligible target. No AI-production claim. Former partner/co-parent Luthando is NOT asserted to be a husband or reconciled partner.",
+     "categories": [
+      "fantasy",
+      "forced-obedience",
+      "mother",
+      "other-control"
+     ],
+     "kids_status": "yes",
+     "kids_note": "YES: Tsidi already has daughter Winnie BEFORE the central house storyline; Mavis already has adult daughter Tsidi and son Gcinumzi/Stuart. These are existing children, not new births.",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together": "yes",
+     "kids_together_note": "EXISTING CHILD ONLY: Tsidi and estranged co-parent Luthando already share Winnie (Guardian explicitly identifies him as her father). Winnie is present in final tea scene per ending recap. NO NEW BIRTH established; romantic reunion or marriage is NOT established. NEW birth by ending UNKNOWN. NEW birth by ending UNKNOWN. ",
+     "relationship": "Tsidi / estranged former partner and co-parent Luthando share existing daughter Winnie; reunion/marriage unknown. Do not confuse Mavis’s employer Diane with romantic partner.",
+     "note": "2021premiere is explicitly confirmed by BOTH production companies;2022is distribution year, not a second production. Common Sense Media says Sex, Romance & Nudity NOT PRESENT, so no child-witness sexual-content concern identified in that advisory. Earlier pregnancy event not separately established. Final family scene sourced from independent ending recap, not watched by researcher. FilmFugitives recap misspells child as Minnie at end; Guardian/primary story and HighOnFilms establish Winnie. No timestamps verified. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor claim of AI generation established. Framing: Horizontal92-minute feature;2021festival premiere,July2022Shudder release; NOT vertical.",
+     "confidence_flag": "High production/adult motherhood/existing-child evidence; medium-high LOOSE-FIT bell/spell hypnosis from multiple independent reviews; ending pregnancy/new birth unknown",
+     "episodes": [
+      {
+       "episode": "Standalone feature; exact scene timestamps UNKNOWN",
+       "gist": "Bell-triggered servitude affects adult Mavis and Tsidi; latter compulsively scrubs until hands blister. Late spellbook/ritual exposes binding. Finale: Mavis stops sacrifice; Mavis/Tsidi/Winnie have tea in former employer’s space. Same existing child, not a new birth.",
+       "number_verified": false
+      }
+     ],
+     "sources": [
+      {
+       "label": "Causeway Films PRIMARY producer",
+       "url": "https://causewayfilms.com.au/films/good-madam",
+       "evidence_paraphrase": "Single mother Tsidi, estranged mother Mavis; Jenna Cato Bass; TIFF2021premiere andJuly2022Shudder release."
+      },
+      {
+       "label": "Salmira PRIMARY producer",
+       "url": "https://salmiraproductions.com/film/good-madam/",
+       "evidence_paraphrase": "Director, production companies, Shudder, TIFF2021premiere."
+      },
+      {
+       "label": "FFFA official festival synopsis",
+       "url": "https://www.fantasticfilmfestival.com.au/films/good-madam",
+       "evidence_paraphrase": "Tsidi already has daughter; Mavis mother; supernatural household, English/Xhosa."
+      },
+      {
+       "label": "Independent Fantastic Fest detailed review",
+       "url": "https://fathersonholygore.com/2021/10/04/fantastic-fest-2021-gothic-south-african-legacies-in-mlungu-wam/",
+       "evidence_paraphrase": "Explicitly: Mavis hypnotised by servitude facilitated by ringing bell; Tsidi eventually gets hypnotised by Diane’s bell too; no clinical treatment claimed."
+      },
+      {
+       "label": "Signal Horizon independent review",
+       "url": "https://signalhorizon.com/shudder-secrets-good-madam-explained/",
+       "evidence_paraphrase": "Spell binding servants to mistress; Tsidi falls under spell compulsively scrubbing; Winnie/Luthando existing-child relationship."
+      },
+      {
+       "label": "Guardian review, parentage corroboration",
+       "url": "https://www.theguardian.com/film/2022/jul/12/good-madam-review-eerie-post-apartheid-chiller",
+       "evidence_paraphrase": "Tsidi estranged from Luthando, explicitly father of her daughter Winnie; Mavis’s son Stuart."
+      },
+      {
+       "label": "HighOnFilms independent ending analysis",
+       "url": "https://www.highonfilms.com/good-madam-2022-movie-ending-explained/",
+       "evidence_paraphrase": "Finale expressly Mavis and Tsidi along with Winnie having tea, Diane moved into former servant room. Existing child persists; no new-birth claim."
+      },
+      {
+       "label": "Common Sense Media content advisory",
+       "url": "https://www.commonsensemedia.org/movie-reviews/good-madam",
+       "evidence_paraphrase": "Sex, Romance & Nudity NOT PRESENT; Xhosa/English,92min,NR, family synopsis; no erotic-rated claim."
+      }
+     ],
+     "meta": "South Africa · Xhosa and English · Horizontal92-minute feature;2021festival premiere,July2022Shudder release; NOT vertical",
+     "tags": [
+      "Original title: Mlungu Wam"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -585288,7 +585841,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25c",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "vertical-hypnosis-nov6-r6"
    ],
    "groups": [
     {
@@ -585721,6 +586275,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round6",
+     "notes": [],
+     "items": [
+      {
+       "id": 3937,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -588180,7 +588745,8 @@ window.CATALOG = {
     "deep-refresh-nov04",
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r5"
+    "vertical-hypnosis-nov6-r5",
+    "vertical-hypnosis-nov6-r6"
    ],
    "groups": [
     {
@@ -590646,6 +591212,17 @@ window.CATALOG = {
        "id": 3936,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6-r5"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round6",
+     "notes": [],
+     "items": [
+      {
+       "id": 3939,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r6"
       }
      ]
     }
@@ -594632,7 +595209,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r3",
-    "vertical-hypnosis-nov6-r5"
+    "vertical-hypnosis-nov6-r5",
+    "vertical-hypnosis-nov6-r6"
    ],
    "groups": [
     {
@@ -599616,6 +600194,17 @@ window.CATALOG = {
        "from_source": "vertical-hypnosis-nov6-r3"
       }
      ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round6",
+     "notes": [],
+     "items": [
+      {
+       "id": 3937,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -599976,7 +600565,8 @@ window.CATALOG = {
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
-    "vertical-hypnosis-nov6-r3"
+    "vertical-hypnosis-nov6-r3",
+    "vertical-hypnosis-nov6-r6"
    ],
    "groups": [
     {
@@ -602403,7 +602993,8 @@ window.CATALOG = {
     "deep-refresh-oct30",
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r4"
+    "vertical-hypnosis-nov6-r4",
+    "vertical-hypnosis-nov6-r6"
    ],
    "groups": [
     {
@@ -603997,7 +604588,8 @@ window.CATALOG = {
     "hypno-kids-witness-oct25",
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r2"
+    "vertical-hypnosis-nov6-r2",
+    "vertical-hypnosis-nov6-r6"
    ],
    "groups": [
     {
@@ -608642,7 +609234,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r3",
     "vertical-hypnosis-nov6-r4",
-    "vertical-hypnosis-nov6-r5"
+    "vertical-hypnosis-nov6-r5",
+    "vertical-hypnosis-nov6-r6"
    ],
    "groups": [
     {
@@ -610678,6 +611271,17 @@ window.CATALOG = {
        "from_source": "vertical-hypnosis-nov6-r5"
       }
      ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round6",
+     "notes": [],
+     "items": [
+      {
+       "id": 3938,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -610807,7 +611411,8 @@ window.CATALOG = {
     "deep-refresh-oct30",
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r2"
+    "vertical-hypnosis-nov6-r2",
+    "vertical-hypnosis-nov6-r6"
    ],
    "groups": [
     {
@@ -611857,6 +612462,17 @@ window.CATALOG = {
        "id": 3920,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round6",
+     "notes": [],
+     "items": [
+      {
+       "id": 3939,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r6"
       }
      ]
     }
@@ -613674,7 +614290,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r3",
     "vertical-hypnosis-nov6-r4",
-    "vertical-hypnosis-nov6-r5"
+    "vertical-hypnosis-nov6-r5",
+    "vertical-hypnosis-nov6-r6"
    ],
    "groups": [
     {
@@ -616841,6 +617458,27 @@ window.CATALOG = {
        "id": 3936,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6-r5"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round6",
+     "notes": [],
+     "items": [
+      {
+       "id": 3938,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r6"
+      },
+      {
+       "id": 3939,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r6"
+      },
+      {
+       "id": 3937,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r6"
       }
      ]
     }
@@ -636929,7 +637567,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r3",
     "vertical-hypnosis-nov6-r4",
-    "vertical-hypnosis-nov6-r5"
+    "vertical-hypnosis-nov6-r5",
+    "vertical-hypnosis-nov6-r6"
    ],
    "groups": [
     {
@@ -639632,6 +640271,17 @@ window.CATALOG = {
        "from_source": "vertical-hypnosis-nov6-r3"
       }
      ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round6",
+     "notes": [],
+     "items": [
+      {
+       "id": 3939,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -639683,7 +640333,8 @@ window.CATALOG = {
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
-    "vertical-hypnosis-nov6-r4"
+    "vertical-hypnosis-nov6-r4",
+    "vertical-hypnosis-nov6-r6"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,

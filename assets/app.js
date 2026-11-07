@@ -382,7 +382,7 @@
       ${e.pregnancy_again ? `<p class="entry-note outcome"><strong>Pregnant again — outcome:</strong> ${esc(e.pregnancy_again)}${e.pregnancy_again_note ? ' — ' + esc(e.pregnancy_again_note) : ''}</p>` : ''}
       ${e.rating || e.adult || e.existing_kids ? `<p class="entry-note">${[e.existing_kids ? `<strong>Children before this pregnancy:</strong> ${esc(e.existing_kids)}` : '', e.rating ? `<strong>Rating:</strong> ${esc(e.rating)}` : '', e.adult ? `<strong>Adult title:</strong> ${esc(e.adult)}` : ''].filter(Boolean).join(' · ')}</p>` : ''}
       ${e.child_witness ? `<p class="entry-note witness"><strong>Who saw it:</strong> ${esc(e.child_witness)}</p>` : ''}
-      ${e.kids_together ? `<p class="entry-note"><strong>${e.married ? 'Kids together' : 'Kids together with husband'}:</strong> ${esc(e.kids_together)}${e.kids_together_note ? ' — ' + esc(e.kids_together_note) : ''}</p>` : ''}
+      ${e.kids_together ? `<p class="entry-note"><strong>Kids together:</strong> ${esc(e.kids_together)}${e.kids_together_note ? ' — ' + esc(e.kids_together_note) : ''}</p>` : ''}
       ${e.evidence ? `<p class="entry-note evidence${/^single source/i.test(e.evidence) ? ' single' : ''}"><strong>${/^single source/i.test(e.evidence) ? 'Single source' : 'Sources cross-checked'}:</strong> ${esc(e.evidence.replace(/^single source\s*[—-]\s*/i, ''))}</p>` : ''}
       ${e.source_conflict ? `<p class="entry-note conflict"><strong>Source conflict:</strong> ${esc(e.source_conflict)}</p>` : ''}
       ${e.fit_note ? `<p class="entry-note"><strong>Fit:</strong> ${esc(e.fit_note)}</p>` : ''}
