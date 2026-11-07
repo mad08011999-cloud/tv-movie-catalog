@@ -1,0 +1,291 @@
+{
+ "id": "stepfamily-pregnancy-nov7",
+ "label": "Stepfamily / new-partner pregnancy (Nov 7)",
+ "group_title": "Mother with children pregnant by a new partner",
+ "description": "Stepfamily / new-partner pregnancy pass, 7 Nov 2026 PT (adults only, non-explicit plot notes; user request t25u)",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "Cheers",
+   "year": "1982–1993",
+   "format": "tv",
+   "meta": "TV series · United States · English",
+   "character": "Carla Tortelli (Rhea Perlman)",
+   "summary": "Waitress Carla already has five children with ex-husband Nick Tortelli, then a son (Ludlow) by Dr. Bennett Ludlow. After marrying hockey player Eddie LeBec she is revealed in \"Home Is the Sailor\" to be several months pregnant with Eddie's twins.",
+   "categories": [
+    "widow-divorcee-remarry-pregnant",
+    "family"
+   ],
+   "adult": "no",
+   "existing_kids": "6",
+   "existing_kids_note": "5 with Nick Tortelli (incl. Lucinda), plus Ludlow by Bennett Ludlow",
+   "pregnancy_again": "pregnant",
+   "pregnancy_again_note": "pregnant with Eddie LeBec's twins (Wikipedia); births not checked further here",
+   "kids_status": "unknown",
+   "kids_note": "new couple's twins: birth not verified in fetched source",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "pregnant with Eddie LeBec's twins (Wikipedia); births not checked further here",
+   "confidence_flag": "EXACT FIT · High · Wikipedia character article",
+   "evidence": "Wikipedia — Carla Tortelli",
+   "sources": [
+    {
+     "label": "Wikipedia — Carla Tortelli",
+     "url": "https://en.wikipedia.org/wiki/Carla_Tortelli"
+    }
+   ],
+   "provenance": "Stepfamily / new-partner pregnancy pass, 7 Nov 2026 PT (adults only, non-explicit plot notes; user request t25u)",
+   "married": "yes",
+   "match_title": "Cheers",
+   "match_year": "1982–1993"
+  },
+  {
+   "title": "Step by Step",
+   "year": "1991–1998",
+   "format": "tv",
+   "meta": "Sitcom · United States · English",
+   "character": "Carol Foster (Suzanne Somers) and stepfather Frank Lambert (Patrick Duffy)",
+   "summary": "Widowed mother of three Carol Foster marries divorced father of three Frank Lambert, blending the families. In season 4 Carol is pregnant with Frank's child; in the season finale \"A Foster/Lambert Production\" (May 1995) daughter Lilly is born.",
+   "categories": [
+    "widow-divorcee-remarry-pregnant",
+    "family"
+   ],
+   "adult": "no",
+   "existing_kids": "3",
+   "existing_kids_note": "Dana, Karen and Mark, from her late first husband",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "Lilly Foster-Lambert born in S4 finale",
+   "kids_status": "yes",
+   "kids_note": "Lilly (new couple), plus 6 children combined",
+   "pregnant_end": "no",
+   "pregnant_end_note": "Lilly Foster-Lambert born in S4 finale",
+   "confidence_flag": "EXACT FIT · High · Wikipedia episode list + TheTVDB + fan wiki",
+   "evidence": "Wikipedia episode list, TheTVDB S4 finale",
+   "sources": [
+    {
+     "label": "Wikipedia episode list",
+     "url": "https://en.wikipedia.org/wiki/List_of_Step_by_Step_episodes"
+    },
+    {
+     "label": "TheTVDB S4 finale",
+     "url": "https://www.thetvdb.com/series/step-by-step/episodes/182904"
+    }
+   ],
+   "provenance": "Stepfamily / new-partner pregnancy pass, 7 Nov 2026 PT (adults only, non-explicit plot notes; user request t25u)",
+   "married": "yes",
+   "match_title": "Step by Step",
+   "match_year": "1991–1998"
+  },
+  {
+   "title": "Downton Abbey",
+   "year": "2015 (series 6)",
+   "format": "tv",
+   "meta": "TV series · United Kingdom · English",
+   "character": "Lady Mary Talbot (Michelle Dockery) and Henry Talbot",
+   "summary": "Widowed Lady Mary, mother of George by her late husband Matthew Crawley, marries racing driver Henry Talbot, who becomes George's stepfather. In the series 6 finale Mary tells Henry she is pregnant; the 2019 film shows their daughter Caroline.",
+   "categories": [
+    "widow-divorcee-remarry-pregnant",
+    "family"
+   ],
+   "adult": "no",
+   "existing_kids": "1",
+   "existing_kids_note": "George, by late husband Matthew Crawley",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "pregnant at series finale; daughter Caroline shown in 2019 film",
+   "kids_status": "yes",
+   "kids_note": "Caroline Talbot",
+   "pregnant_end": "no",
+   "pregnant_end_note": "pregnant at series finale; daughter Caroline shown in 2019 film",
+   "confidence_flag": "EXACT FIT · High · Wikipedia + Digital Spy",
+   "evidence": "Wikipedia — series 6, Digital Spy",
+   "sources": [
+    {
+     "label": "Wikipedia — series 6",
+     "url": "https://en.wikipedia.org/wiki/Downton_Abbey_series_6"
+    },
+    {
+     "label": "Digital Spy",
+     "url": "https://www.digitalspy.com/movies/a39845409/downton-abbey-2-matthew-goode-explained-henry-talbot/"
+    }
+   ],
+   "provenance": "Stepfamily / new-partner pregnancy pass, 7 Nov 2026 PT (adults only, non-explicit plot notes; user request t25u)",
+   "married": "yes",
+   "match_title": "Downton Abbey",
+   "match_year": "2015 (series 6)"
+  },
+  {
+   "title": "Two and a Half Men",
+   "year": "2008–2009 (season 6)",
+   "format": "tv",
+   "meta": "Sitcom · United States · English",
+   "character": "Judith Harper-Melnick (Marin Hinkle) and stepfather Herb Melnick",
+   "summary": "Judith, mother of Jake from her marriage to Alan, remarries pediatrician Herb Melnick, Jake's stepfather. In season 6 she becomes pregnant after reconciling with Herb (but also slept with Alan), and gives birth to Milly in the season finale; paternity is never resolved.",
+   "categories": [
+    "widow-divorcee-remarry-pregnant",
+    "family"
+   ],
+   "adult": "no",
+   "existing_kids": "1",
+   "existing_kids_note": "Jake, with ex-husband Alan",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "Milly born in S6 finale",
+   "kids_status": "yes",
+   "kids_note": "Milly — father Herb or Alan, never confirmed",
+   "pregnant_end": "no",
+   "pregnant_end_note": "Milly born in S6 finale",
+   "confidence_flag": "LOOSE FIT (paternity unresolved) · Medium · fan wiki",
+   "evidence": "Two and a Half Men wiki — Judith, Two and a Half Men wiki — Milly",
+   "sources": [
+    {
+     "label": "Two and a Half Men wiki — Judith",
+     "url": "https://twoandahalfmen.fandom.com/wiki/Judith_Harper-Melnick"
+    },
+    {
+     "label": "Two and a Half Men wiki — Milly",
+     "url": "https://twoandahalfmen.fandom.com/wiki/Milly_Melnick"
+    }
+   ],
+   "provenance": "Stepfamily / new-partner pregnancy pass, 7 Nov 2026 PT (adults only, non-explicit plot notes; user request t25u)",
+   "married": "yes",
+   "match_title": "Two and a Half Men",
+   "match_year": "2008–2009 (season 6)"
+  },
+  {
+   "title": "Dr. Quinn, Medicine Woman",
+   "year": "1993–1998",
+   "format": "tv",
+   "meta": "TV series · United States · English",
+   "character": "Dr. Michaela Quinn (Jane Seymour) and Byron Sully",
+   "summary": "Boston doctor Michaela takes in the three orphaned children of a dying friend. She marries Sully in the season 3 finale; in season 4 she becomes pregnant, and daughter Katie is born the following season.",
+   "categories": [
+    "adopt-pregnancy",
+    "family"
+   ],
+   "adult": "no",
+   "existing_kids": "3",
+   "existing_kids_note": "Matthew, Colleen and Brian — adopted/raised, not biological",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "Katie born (season 5)",
+   "kids_status": "yes",
+   "kids_note": "Katie Sully",
+   "pregnant_end": "no",
+   "pregnant_end_note": "Katie born (season 5)",
+   "confidence_flag": "EXACT FIT (prior kids adoptive) · High · Wikipedia",
+   "evidence": "Wikipedia",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dr._Quinn,_Medicine_Woman"
+    }
+   ],
+   "provenance": "Stepfamily / new-partner pregnancy pass, 7 Nov 2026 PT (adults only, non-explicit plot notes; user request t25u)",
+   "married": "yes",
+   "match_title": "Dr. Quinn, Medicine Woman",
+   "match_year": "1993–1998"
+  },
+  {
+   "title": "The Nanny",
+   "year": "1998–1999",
+   "format": "tv",
+   "meta": "Sitcom · United States · English",
+   "character": "Fran Fine (Fran Drescher) and Maxwell Sheffield",
+   "summary": "Nanny Fran marries widower Maxwell and becomes stepmother to Maggie, Brighton and Grace. She becomes pregnant and in the series finale gives birth to twins Jonah and Eve.",
+   "categories": [
+    "stepmom-pregnancy"
+   ],
+   "adult": "no",
+   "existing_kids": "0",
+   "existing_kids_note": "no biological children; stepmother of 3",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "twins Jonah and Eve born in finale",
+   "kids_status": "yes",
+   "kids_note": "twins Jonah Samuel and Eve Catherine",
+   "pregnant_end": "no",
+   "pregnant_end_note": "twins Jonah and Eve born in finale",
+   "confidence_flag": "EXACT FIT (stepmother pregnant) · High · fan wiki + IMDb plot",
+   "evidence": "The Nanny wiki — Finale Part II, IMDb plot",
+   "sources": [
+    {
+     "label": "The Nanny wiki — Finale Part II",
+     "url": "https://thenannytv.fandom.com/wiki/The_Finale_Part_II"
+    },
+    {
+     "label": "IMDb plot",
+     "url": "https://www.imdb.com/title/tt0657329/plotsummary/"
+    }
+   ],
+   "provenance": "Stepfamily / new-partner pregnancy pass, 7 Nov 2026 PT (adults only, non-explicit plot notes; user request t25u)",
+   "married": "yes",
+   "match_title": "The Nanny",
+   "match_year": "1998–1999"
+  },
+  {
+   "title": "The Handmaid’s Tale",
+   "year": "2018",
+   "format": "tv",
+   "meta": "TV series · United States · English",
+   "character": "June Osborne (Elisabeth Moss) and Nick Blaine",
+   "summary": "June already has daughter Hannah with husband Luke; while held in Gilead she becomes pregnant by Nick and gives birth to Holly/Nichole in season 2.",
+   "categories": [
+    "another-man"
+   ],
+   "adult": "no",
+   "existing_kids": "1",
+   "existing_kids_note": "Hannah, with husband Luke",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "Holly/Nichole born S2E11",
+   "kids_status": "yes",
+   "kids_note": "Nichole (June and Nick)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "Holly/Nichole born S2E11",
+   "confidence_flag": "EXACT FIT (enrichment of existing card) · High · TVLine",
+   "evidence": "TVLine recap",
+   "sources": [
+    {
+     "label": "TVLine recap",
+     "url": "https://www.tvline.com/recaps/the-handmaids-tale-recap-season-2-episode-11-holly-offred-gives-birth-959690/"
+    }
+   ],
+   "provenance": "Stepfamily / new-partner pregnancy pass, 7 Nov 2026 PT (adults only, non-explicit plot notes; user request t25u)",
+   "married": "yes",
+   "match_title": "The Handmaid’s Tale",
+   "match_year": "2018"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Ginny & Georgia (season 3)",
+   "reason": "Georgia's pregnancy is a lie (she shows Ginny's test to Paul); not a real pregnancy",
+   "url": "https://en.wikipedia.org/wiki/Ginny_%26_Georgia_season_3"
+  },
+  {
+   "title": "Sorry Sweetie, Mom Shouldn't Have Remarried (ReelShort)",
+   "reason": "vertical stepfamily drama but no new pregnancy in synopsis",
+   "url": "https://any-drama.com/en/watch/reelshort-sorry-sweetie-mom-shouldnt-have-remarried-69df53ca9eb806ddd8072407"
+  },
+  {
+   "title": "A Stepmother in a Blended Couple (ReelShort)",
+   "reason": "no pregnancy in synopsis",
+   "url": "https://www.reelshort.com/movie/a-stepmother-in-a-blended-couple-69df53b99eb806ddd80723f3"
+  },
+  {
+   "title": "The Single Mom Married the CEO / Mommy by Day, CEO's Wife by Night",
+   "reason": "son turns out to be CEO's own child; no new pregnancy",
+   "url": "https://www.cpophome.com/the-single-mom-married-the-ceo-xu-qingya-he-congrui/"
+  },
+  {
+   "title": "Single Mom by Mistake: CEO Wife by Fate",
+   "reason": "no new pregnancy stated",
+   "url": "https://verticalvault.app/dramas/single-mom-by-mistake-ceo-wife-by-fate-vv-1224"
+  },
+  {
+   "title": "Accidentally Pregnant, Forever Spoiled (ReelShort)",
+   "reason": "no prior children",
+   "url": "https://www.reelshort.com/movie/accidentally-pregnant-forever-spoiled-68064de0b2e1243e6b03586e"
+  },
+  {
+   "title": "TikTok 'Step Dad Got His Step Daughter Pregnant' series",
+   "reason": "EXCLUDED: step-parent/step-child sexual storyline",
+   "url": "https://www.tiktok.com/discover/dad-accidentally-gets-step-daughter-part-4-greg"
+  }
+ ]
+}

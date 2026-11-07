@@ -14713,6 +14713,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "stepfamily-pregnancy-nov7:7",
+     "title": "The Handmaid’s Tale",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -49033,7 +49040,7 @@
    ]
   },
   {
-   "kept_id": 2560,
+   "kept_id": 2566,
    "kept": "Merlin (2008–12)",
    "scope": "cross-source",
    "members": [
@@ -49053,7 +49060,7 @@
    ]
   },
   {
-   "kept_id": 2644,
+   "kept_id": 2650,
    "kept": "Snapdragon (1993)",
    "scope": "cross-source",
    "members": [
@@ -49073,7 +49080,7 @@
    ]
   },
   {
-   "kept_id": 2667,
+   "kept_id": 2673,
    "kept": "Evil Lurks (2023)",
    "scope": "cross-source",
    "members": [
@@ -49092,7 +49099,7 @@
    ]
   },
   {
-   "kept_id": 2681,
+   "kept_id": 2687,
    "kept": "9½ Weeks (1986)",
    "scope": "cross-source",
    "members": [
@@ -49112,7 +49119,7 @@
    ]
   },
   {
-   "kept_id": 2697,
+   "kept_id": 2703,
    "kept": "The Witch (Cadı) (2024)",
    "scope": "cross-source",
    "members": [
@@ -49132,7 +49139,7 @@
    ]
   },
   {
-   "kept_id": 2699,
+   "kept_id": 2705,
    "kept": "Lao Gong Qing He Wo Lian Ai Ba (2025)",
    "scope": "cross-source",
    "members": [
@@ -49152,7 +49159,7 @@
    ]
   },
   {
-   "kept_id": 2700,
+   "kept_id": 2706,
    "kept": "Fascinación (1949)",
    "scope": "cross-source",
    "members": [
@@ -49172,7 +49179,7 @@
    ]
   },
   {
-   "kept_id": 2703,
+   "kept_id": 2709,
    "kept": "The Search for Bridey Murphy (1956)",
    "scope": "cross-source",
    "members": [
@@ -49198,7 +49205,7 @@
    ]
   },
   {
-   "kept_id": 2704,
+   "kept_id": 2710,
    "kept": "Sum of Existence (2005)",
    "scope": "cross-source",
    "members": [
@@ -49224,7 +49231,7 @@
    ]
   },
   {
-   "kept_id": 2709,
+   "kept_id": 2715,
    "kept": "Tujhse Hai Raabta (2018–2020)",
    "scope": "cross-source",
    "members": [
@@ -49243,7 +49250,7 @@
    ]
   },
   {
-   "kept_id": 2710,
+   "kept_id": 2716,
    "kept": "As the World Turns (2009–10)",
    "scope": "cross-source",
    "members": [
@@ -49263,7 +49270,7 @@
    ]
   },
   {
-   "kept_id": 2712,
+   "kept_id": 2718,
    "kept": "The Love Machine (2016)",
    "scope": "cross-source",
    "members": [
@@ -49290,7 +49297,7 @@
    ]
   },
   {
-   "kept_id": 2713,
+   "kept_id": 2719,
    "kept": "Insatiable Desires (2003)",
    "scope": "cross-source",
    "members": [
@@ -49310,7 +49317,7 @@
    ]
   },
   {
-   "kept_id": 2720,
+   "kept_id": 2726,
    "kept": "Love in Oblivion (2026)",
    "scope": "cross-source",
    "members": [
@@ -49337,7 +49344,7 @@
    ]
   },
   {
-   "kept_id": 2727,
+   "kept_id": 2733,
    "kept": "醒来时，我眼里不是他 (2026)",
    "scope": "cross-source",
    "members": [
@@ -49371,7 +49378,7 @@
    ]
   },
   {
-   "kept_id": 2728,
+   "kept_id": 2734,
    "kept": "神秘的她 (2025)",
    "scope": "cross-source",
    "members": [
@@ -49391,7 +49398,7 @@
    ]
   },
   {
-   "kept_id": 2729,
+   "kept_id": 2735,
    "kept": "第一百零一次睁眼 (2025)",
    "scope": "cross-source",
    "members": [
@@ -49425,7 +49432,7 @@
    ]
   },
   {
-   "kept_id": 2731,
+   "kept_id": 2737,
    "kept": "私尝 (2025)",
    "scope": "cross-source",
    "members": [
@@ -49452,7 +49459,7 @@
    ]
   },
   {
-   "kept_id": 2732,
+   "kept_id": 2738,
    "kept": "Beneath the Hypnosis (Date unverified)",
    "scope": "cross-source",
    "members": [
@@ -49493,7 +49500,7 @@
    ]
   },
   {
-   "kept_id": 2734,
+   "kept_id": 2740,
    "kept": "催眠局中局 (2026)",
    "scope": "cross-source",
    "members": [
@@ -49513,7 +49520,7 @@
    ]
   },
   {
-   "kept_id": 2738,
+   "kept_id": 2744,
    "kept": "Don't Monkey with the Buzz Saw (1914)",
    "scope": "cross-source",
    "members": [
@@ -49533,7 +49540,7 @@
    ]
   },
   {
-   "kept_id": 2739,
+   "kept_id": 2745,
    "kept": "Hypnosis (2019)",
    "scope": "cross-source",
    "members": [
@@ -49553,7 +49560,7 @@
    ]
   },
   {
-   "kept_id": 2750,
+   "kept_id": 2756,
    "kept": "Lost Control for Him (2025)",
    "scope": "cross-source",
    "members": [
@@ -49573,7 +49580,7 @@
    ]
   },
   {
-   "kept_id": 2751,
+   "kept_id": 2757,
    "kept": "Ti Ratr (2011)",
    "scope": "cross-source",
    "members": [
@@ -49593,7 +49600,7 @@
    ]
   },
   {
-   "kept_id": 2754,
+   "kept_id": 2760,
    "kept": "May I Come In Madam? (2016)",
    "scope": "cross-source",
    "members": [
@@ -49620,7 +49627,7 @@
    ]
   },
   {
-   "kept_id": 2756,
+   "kept_id": 2762,
    "kept": "666: Devilish Charm (2014)",
    "scope": "cross-source",
    "members": [
@@ -49640,7 +49647,7 @@
    ]
   },
   {
-   "kept_id": 2757,
+   "kept_id": 2763,
    "kept": "A Different Kind of Pretty Man (2014)",
    "scope": "cross-source",
    "members": [
@@ -49660,7 +49667,7 @@
    ]
   },
   {
-   "kept_id": 2758,
+   "kept_id": 2764,
    "kept": "Absolutely Anything (2015)",
    "scope": "cross-source",
    "members": [
@@ -49680,7 +49687,7 @@
    ]
   },
   {
-   "kept_id": 2760,
+   "kept_id": 2766,
    "kept": "Adventure Inc (2002)",
    "scope": "cross-source",
    "members": [
@@ -49700,7 +49707,7 @@
    ]
   },
   {
-   "kept_id": 2764,
+   "kept_id": 2770,
    "kept": "Alien Shark (2022)",
    "scope": "cross-source",
    "members": [
@@ -49720,7 +49727,7 @@
    ]
   },
   {
-   "kept_id": 2765,
+   "kept_id": 2771,
    "kept": "All Hallows' Eve (2016)",
    "scope": "cross-source",
    "members": [
@@ -49740,7 +49747,7 @@
    ]
   },
   {
-   "kept_id": 2766,
+   "kept_id": 2772,
    "kept": "Alphas (2011–2012)",
    "scope": "cross-source",
    "members": [
@@ -49760,7 +49767,7 @@
    ]
   },
   {
-   "kept_id": 2767,
+   "kept_id": 2773,
    "kept": "Amityville: It's About Time (1992)",
    "scope": "cross-source",
    "members": [
@@ -49780,7 +49787,7 @@
    ]
   },
   {
-   "kept_id": 2768,
+   "kept_id": 2774,
    "kept": "An American Vampire Story (1997)",
    "scope": "cross-source",
    "members": [
@@ -49800,7 +49807,7 @@
    ]
   },
   {
-   "kept_id": 2769,
+   "kept_id": 2775,
    "kept": "Armour of God (1986)",
    "scope": "cross-source",
    "members": [
@@ -49820,7 +49827,7 @@
    ]
   },
   {
-   "kept_id": 2770,
+   "kept_id": 2776,
    "kept": "Avengers: Age of Ultron (2015)",
    "scope": "cross-source",
    "members": [
@@ -49840,7 +49847,7 @@
    ]
   },
   {
-   "kept_id": 2774,
+   "kept_id": 2780,
    "kept": "Beyond Reality (1991)",
    "scope": "cross-source",
    "members": [
@@ -49860,7 +49867,7 @@
    ]
   },
   {
-   "kept_id": 2780,
+   "kept_id": 2786,
    "kept": "Black Circle (2018)",
    "scope": "cross-source",
    "members": [
@@ -49880,7 +49887,7 @@
    ]
   },
   {
-   "kept_id": 2781,
+   "kept_id": 2787,
    "kept": "Black Magic 2 (1976 Hong Kong film) (1976)",
    "scope": "cross-source",
    "members": [
@@ -49900,7 +49907,7 @@
    ]
   },
   {
-   "kept_id": 2786,
+   "kept_id": 2792,
    "kept": "Captain Kronos - Vampire Hunter (1974)",
    "scope": "cross-source",
    "members": [
@@ -49927,7 +49934,7 @@
    ]
   },
   {
-   "kept_id": 2793,
+   "kept_id": 2799,
    "kept": "Conan the Adventurer (1997–1998)",
    "scope": "cross-source",
    "members": [
@@ -49947,7 +49954,7 @@
    ]
   },
   {
-   "kept_id": 2796,
+   "kept_id": 2802,
    "kept": "Crossworlds (1996)",
    "scope": "cross-source",
    "members": [
@@ -49967,7 +49974,7 @@
    ]
   },
   {
-   "kept_id": 2802,
+   "kept_id": 2808,
    "kept": "Devil's Whisper (2017)",
    "scope": "cross-source",
    "members": [
@@ -49987,7 +49994,7 @@
    ]
   },
   {
-   "kept_id": 2805,
+   "kept_id": 2811,
    "kept": "Dimension 404 (2017)",
    "scope": "cross-source",
    "members": [
@@ -50007,7 +50014,7 @@
    ]
   },
   {
-   "kept_id": 2806,
+   "kept_id": 2812,
    "kept": "Doctor Strange (1978)",
    "scope": "cross-source",
    "members": [
@@ -50027,7 +50034,7 @@
    ]
   },
   {
-   "kept_id": 2809,
+   "kept_id": 2815,
    "kept": "Dragonquest (2009)",
    "scope": "cross-source",
    "members": [
@@ -50047,7 +50054,7 @@
    ]
   },
   {
-   "kept_id": 2817,
+   "kept_id": 2823,
    "kept": "Fatih di Kampung Jawara (2018)",
    "scope": "cross-source",
    "members": [
@@ -50067,7 +50074,7 @@
    ]
   },
   {
-   "kept_id": 2828,
+   "kept_id": 2834,
    "kept": "Gilligan's Island (1964–1967)",
    "scope": "cross-source",
    "members": [
@@ -50087,7 +50094,7 @@
    ]
   },
   {
-   "kept_id": 2829,
+   "kept_id": 2835,
    "kept": "God of Thunder (2015)",
    "scope": "cross-source",
    "members": [
@@ -50107,7 +50114,7 @@
    ]
   },
   {
-   "kept_id": 2830,
+   "kept_id": 2836,
    "kept": "Gray Matter (2018) (2018)",
    "scope": "cross-source",
    "members": [
@@ -50134,7 +50141,7 @@
    ]
   },
   {
-   "kept_id": 2834,
+   "kept_id": 2840,
    "kept": "Hercules: The Legendary Journeys (1995)",
    "scope": "cross-source",
    "members": [
@@ -50154,7 +50161,7 @@
    ]
   },
   {
-   "kept_id": 2841,
+   "kept_id": 2847,
    "kept": "Ichhapyari naagin (2016)",
    "scope": "cross-source",
    "members": [
@@ -50174,7 +50181,7 @@
    ]
   },
   {
-   "kept_id": 2843,
+   "kept_id": 2849,
    "kept": "Invasion of the Bee Girls (1973)",
    "scope": "cross-source",
    "members": [
@@ -50194,7 +50201,7 @@
    ]
   },
   {
-   "kept_id": 2857,
+   "kept_id": 2863,
    "kept": "Land Of The Lost (1991) (1991)",
    "scope": "cross-source",
    "members": [
@@ -50214,7 +50221,7 @@
    ]
   },
   {
-   "kept_id": 2859,
+   "kept_id": 2865,
    "kept": "Legacies (2018–2022)",
    "scope": "cross-source",
    "members": [
@@ -50234,7 +50241,7 @@
    ]
   },
   {
-   "kept_id": 2860,
+   "kept_id": 2866,
    "kept": "Leprechaun 3 (1995)",
    "scope": "cross-source",
    "members": [
@@ -50254,7 +50261,7 @@
    ]
   },
   {
-   "kept_id": 2861,
+   "kept_id": 2867,
    "kept": "Leprechaun In The Hood (2000)",
    "scope": "cross-source",
    "members": [
@@ -50274,7 +50281,7 @@
    ]
   },
   {
-   "kept_id": 2862,
+   "kept_id": 2868,
    "kept": "Lightning Force (1991–1992)",
    "scope": "cross-source",
    "members": [
@@ -50294,7 +50301,7 @@
    ]
   },
   {
-   "kept_id": 2863,
+   "kept_id": 2869,
    "kept": "Lost Girl (2010–2015)",
    "scope": "cross-source",
    "members": [
@@ -50314,7 +50321,7 @@
    ]
   },
   {
-   "kept_id": 2866,
+   "kept_id": 2872,
    "kept": "Lyco (2018)",
    "scope": "cross-source",
    "members": [
@@ -50334,7 +50341,7 @@
    ]
   },
   {
-   "kept_id": 2869,
+   "kept_id": 2875,
    "kept": "Monster Mash: The Movie (1995)",
    "scope": "cross-source",
    "members": [
@@ -50354,7 +50361,7 @@
    ]
   },
   {
-   "kept_id": 2870,
+   "kept_id": 2876,
    "kept": "Mutant X (2001–2004)",
    "scope": "cross-source",
    "members": [
@@ -50374,7 +50381,7 @@
    ]
   },
   {
-   "kept_id": 2872,
+   "kept_id": 2878,
    "kept": "Mystic Knights of Tir Na Nog (1998–1999)",
    "scope": "cross-source",
    "members": [
@@ -50394,7 +50401,7 @@
    ]
   },
   {
-   "kept_id": 2875,
+   "kept_id": 2881,
    "kept": "Natty knocks (2023)",
    "scope": "cross-source",
    "members": [
@@ -50421,7 +50428,7 @@
    ]
   },
   {
-   "kept_id": 2877,
+   "kept_id": 2883,
    "kept": "Operation Kid Brother (1967)",
    "scope": "cross-source",
    "members": [
@@ -50441,7 +50448,7 @@
    ]
   },
   {
-   "kept_id": 2879,
+   "kept_id": 2885,
    "kept": "Power Rangers S.P.D. (2005)",
    "scope": "cross-source",
    "members": [
@@ -50461,7 +50468,7 @@
    ]
   },
   {
-   "kept_id": 2880,
+   "kept_id": 2886,
    "kept": "Prime Evil (1988)",
    "scope": "cross-source",
    "members": [
@@ -50481,7 +50488,7 @@
    ]
   },
   {
-   "kept_id": 2881,
+   "kept_id": 2887,
    "kept": "Prince of Darkness (1987)",
    "scope": "cross-source",
    "members": [
@@ -50501,7 +50508,7 @@
    ]
   },
   {
-   "kept_id": 2882,
+   "kept_id": 2888,
    "kept": "Re-Animator (1985)",
    "scope": "cross-source",
    "members": [
@@ -50528,7 +50535,7 @@
    ]
   },
   {
-   "kept_id": 2887,
+   "kept_id": 2893,
    "kept": "Sands of Oblivion (2007)",
    "scope": "cross-source",
    "members": [
@@ -50548,7 +50555,7 @@
    ]
   },
   {
-   "kept_id": 2888,
+   "kept_id": 2894,
    "kept": "Santo Vs. Frankenstein's Daughter (1972)",
    "scope": "cross-source",
    "members": [
@@ -50575,7 +50582,7 @@
    ]
   },
   {
-   "kept_id": 2892,
+   "kept_id": 2898,
    "kept": "She-Wolf of London (1990–1991)",
    "scope": "cross-source",
    "members": [
@@ -50595,7 +50602,7 @@
    ]
   },
   {
-   "kept_id": 2895,
+   "kept_id": 2901,
    "kept": "Special Unit 2 (2001–2002)",
    "scope": "cross-source",
    "members": [
@@ -50615,7 +50622,7 @@
    ]
   },
   {
-   "kept_id": 2897,
+   "kept_id": 2903,
    "kept": "Star Trek: The Next Generation (1987) (1987–1994)",
    "scope": "cross-source",
    "members": [
@@ -50635,7 +50642,7 @@
    ]
   },
   {
-   "kept_id": 2898,
+   "kept_id": 2904,
    "kept": "Stewardess School (1986)",
    "scope": "cross-source",
    "members": [
@@ -50655,7 +50662,7 @@
    ]
   },
   {
-   "kept_id": 2902,
+   "kept_id": 2908,
    "kept": "The Adventures of Doctor Fu Manchu (1956)",
    "scope": "cross-source",
    "members": [
@@ -50675,7 +50682,7 @@
    ]
   },
   {
-   "kept_id": 2907,
+   "kept_id": 2913,
    "kept": "The Champions (1968–1969)",
    "scope": "cross-source",
    "members": [
@@ -50695,7 +50702,7 @@
    ]
   },
   {
-   "kept_id": 2908,
+   "kept_id": 2914,
    "kept": "The Chronicle (2001–2002)",
    "scope": "cross-source",
    "members": [
@@ -50715,7 +50722,7 @@
    ]
   },
   {
-   "kept_id": 2909,
+   "kept_id": 2915,
    "kept": "The Demon Headmaster (2019) (1996)",
    "scope": "cross-source",
    "members": [
@@ -50735,7 +50742,7 @@
    ]
   },
   {
-   "kept_id": 2911,
+   "kept_id": 2917,
    "kept": "The Fox Spirit and the Golden Seal (2018)",
    "scope": "cross-source",
    "members": [
@@ -50755,7 +50762,7 @@
    ]
   },
   {
-   "kept_id": 2912,
+   "kept_id": 2918,
    "kept": "The Fuller Report (1968)",
    "scope": "cross-source",
    "members": [
@@ -50775,7 +50782,7 @@
    ]
   },
   {
-   "kept_id": 2915,
+   "kept_id": 2921,
    "kept": "The King of Fighters (2010)",
    "scope": "cross-source",
    "members": [
@@ -50795,7 +50802,7 @@
    ]
   },
   {
-   "kept_id": 2920,
+   "kept_id": 2926,
    "kept": "The Mentalist (2008–2015)",
    "scope": "cross-source",
    "members": [
@@ -50815,7 +50822,7 @@
    ]
   },
   {
-   "kept_id": 2926,
+   "kept_id": 2932,
    "kept": "The Suite Life of Zack & Cody (2005–2008)",
    "scope": "cross-source",
    "members": [
@@ -50835,7 +50842,7 @@
    ]
   },
   {
-   "kept_id": 2928,
+   "kept_id": 2934,
    "kept": "The Wheel of Time (2021)",
    "scope": "cross-source",
    "members": [
@@ -50855,7 +50862,7 @@
    ]
   },
   {
-   "kept_id": 2929,
+   "kept_id": 2935,
    "kept": "The Wild Wild West (1965–1969)",
    "scope": "cross-source",
    "members": [
@@ -50882,7 +50889,7 @@
    ]
   },
   {
-   "kept_id": 2931,
+   "kept_id": 2937,
    "kept": "Titans (2014)",
    "scope": "cross-source",
    "members": [
@@ -50902,7 +50909,7 @@
    ]
   },
   {
-   "kept_id": 2933,
+   "kept_id": 2939,
    "kept": "Turbo: A Power Rangers Movie (1997)",
    "scope": "cross-source",
    "members": [
@@ -50922,7 +50929,7 @@
    ]
   },
   {
-   "kept_id": 2934,
+   "kept_id": 2940,
    "kept": "Unlucky Charms (2013)",
    "scope": "cross-source",
    "members": [
@@ -50942,7 +50949,7 @@
    ]
   },
   {
-   "kept_id": 2935,
+   "kept_id": 2941,
    "kept": "Upstream Color (2013)",
    "scope": "cross-source",
    "members": [
@@ -50975,7 +50982,7 @@
    ]
   },
   {
-   "kept_id": 2937,
+   "kept_id": 2943,
    "kept": "Weird Science (1994–1998)",
    "scope": "cross-source",
    "members": [
@@ -50995,7 +51002,7 @@
    ]
   },
   {
-   "kept_id": 2939,
+   "kept_id": 2945,
    "kept": "X2 (2003)",
    "scope": "cross-source",
    "members": [
@@ -51015,7 +51022,7 @@
    ]
   },
   {
-   "kept_id": 2940,
+   "kept_id": 2946,
    "kept": "Xena: Warrior Princess (1995)",
    "scope": "cross-source",
    "members": [
@@ -51035,7 +51042,7 @@
    ]
   },
   {
-   "kept_id": 2941,
+   "kept_id": 2947,
    "kept": "Yolk Man (2019)",
    "scope": "cross-source",
    "members": [
@@ -51055,7 +51062,7 @@
    ]
   },
   {
-   "kept_id": 2945,
+   "kept_id": 2951,
    "kept": "Detective Extralarge (1991–1993)",
    "scope": "cross-source",
    "members": [
@@ -51075,7 +51082,7 @@
    ]
   },
   {
-   "kept_id": 2948,
+   "kept_id": 2954,
    "kept": "Legend of the Seeker (2008–2010)",
    "scope": "cross-source",
    "members": [
@@ -51095,7 +51102,7 @@
    ]
   },
   {
-   "kept_id": 2950,
+   "kept_id": 2956,
    "kept": "That Girl (1966–1971)",
    "scope": "cross-source",
    "members": [
@@ -51114,7 +51121,7 @@
    ]
   },
   {
-   "kept_id": 2952,
+   "kept_id": 2958,
    "kept": "Bitten (2014–2016)",
    "scope": "cross-source",
    "members": [
@@ -51134,7 +51141,7 @@
    ]
   },
   {
-   "kept_id": 2959,
+   "kept_id": 2965,
    "kept": "Signal (2016)",
    "scope": "cross-source",
    "members": [
@@ -51154,7 +51161,7 @@
    ]
   },
   {
-   "kept_id": 2966,
+   "kept_id": 2972,
    "kept": "Sembaruthi (2017–2022)",
    "scope": "cross-source",
    "members": [
@@ -51174,7 +51181,7 @@
    ]
   },
   {
-   "kept_id": 2967,
+   "kept_id": 2973,
    "kept": "Khichdi (2018)",
    "scope": "cross-source",
    "members": [
@@ -51201,7 +51208,7 @@
    ]
   },
   {
-   "kept_id": 2968,
+   "kept_id": 2974,
    "kept": "Bhabi Ji Ghar Par Hai! (2016)",
    "scope": "cross-source",
    "members": [
@@ -51221,7 +51228,7 @@
    ]
   },
   {
-   "kept_id": 2969,
+   "kept_id": 2975,
    "kept": "Othiri Othiri Swapnangal (2026)",
    "scope": "cross-source",
    "members": [
@@ -51241,7 +51248,7 @@
    ]
   },
   {
-   "kept_id": 2975,
+   "kept_id": 2981,
    "kept": "Rangeen Kahaniyan (2024)",
    "scope": "cross-source",
    "members": [
@@ -51261,7 +51268,7 @@
    ]
   },
   {
-   "kept_id": 2976,
+   "kept_id": 2982,
    "kept": "Ave Kallu (2023)",
    "scope": "cross-source",
    "members": [
@@ -51281,7 +51288,7 @@
    ]
   },
   {
-   "kept_id": 2978,
+   "kept_id": 2984,
    "kept": "Saath Nibhaana Saathiya (2026 (YouTube upload; series 2010–2017))",
    "scope": "cross-source",
    "members": [
@@ -51301,7 +51308,7 @@
    ]
   },
   {
-   "kept_id": 2980,
+   "kept_id": 2986,
    "kept": "Ishq Ki Dastaan – Naagmani (2022–2023)",
    "scope": "cross-source",
    "members": [
@@ -51321,7 +51328,7 @@
    ]
   },
   {
-   "kept_id": 2981,
+   "kept_id": 2987,
    "kept": "Saatvya Mulichi Saatvi Mulgi (2024)",
    "scope": "cross-source",
    "members": [
@@ -51341,7 +51348,7 @@
    ]
   },
   {
-   "kept_id": 2986,
+   "kept_id": 2992,
    "kept": "CID (2025)",
    "scope": "cross-source",
    "members": [
@@ -51361,7 +51368,7 @@
    ]
   },
   {
-   "kept_id": 2988,
+   "kept_id": 2994,
    "kept": "May I Come In Madam? (2024 (YouTube upload; series 2016–17))",
    "scope": "cross-source",
    "members": [
@@ -51381,7 +51388,7 @@
    ]
   },
   {
-   "kept_id": 2989,
+   "kept_id": 2995,
    "kept": "Nagin (2012)",
    "scope": "cross-source",
    "members": [
@@ -51401,7 +51408,7 @@
    ]
   },
   {
-   "kept_id": 2992,
+   "kept_id": 2998,
    "kept": "Faltu (2022–23)",
    "scope": "cross-source",
    "members": [
@@ -51421,7 +51428,7 @@
    ]
   },
   {
-   "kept_id": 2999,
+   "kept_id": 3005,
    "kept": "Sasural Simar Ka (2026 (YouTube upload; series 2011–18))",
    "scope": "cross-source",
    "members": [
@@ -51441,7 +51448,7 @@
    ]
   },
   {
-   "kept_id": 3013,
+   "kept_id": 3019,
    "kept": "Love in The Cards (2012)",
    "scope": "cross-source",
    "members": [
@@ -51461,7 +51468,7 @@
    ]
   },
   {
-   "kept_id": 3040,
+   "kept_id": 3046,
    "kept": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\" (1958)",
    "scope": "cross-source",
    "members": [
@@ -51481,7 +51488,7 @@
    ]
   },
   {
-   "kept_id": 3065,
+   "kept_id": 3071,
    "kept": "Tarkan: Altın Madalyon (1972)",
    "scope": "cross-source",
    "members": [
@@ -51501,7 +51508,7 @@
    ]
   },
   {
-   "kept_id": 3066,
+   "kept_id": 3072,
    "kept": "Mind Thief (2022)",
    "scope": "cross-source",
    "members": [
@@ -51528,7 +51535,7 @@
    ]
   },
   {
-   "kept_id": 3067,
+   "kept_id": 3073,
    "kept": "Blood from the Mummy's Tomb (1971)",
    "scope": "cross-source",
    "members": [
@@ -51548,7 +51555,7 @@
    ]
   },
   {
-   "kept_id": 3068,
+   "kept_id": 3074,
    "kept": "Desperation (2006)",
    "scope": "cross-source",
    "members": [
@@ -51568,7 +51575,7 @@
    ]
   },
   {
-   "kept_id": 3069,
+   "kept_id": 3075,
    "kept": "Sodrun Merayu Tuhan (2018)",
    "scope": "cross-source",
    "members": [
@@ -51588,7 +51595,7 @@
    ]
   },
   {
-   "kept_id": 3070,
+   "kept_id": 3076,
    "kept": "Inayah (2009)",
    "scope": "cross-source",
    "members": [
@@ -51608,7 +51615,7 @@
    ]
   },
   {
-   "kept_id": 3071,
+   "kept_id": 3077,
    "kept": "Pelet (1987)",
    "scope": "cross-source",
    "members": [
@@ -51628,7 +51635,7 @@
    ]
   },
   {
-   "kept_id": 3080,
+   "kept_id": 3086,
    "kept": "Anchor (앵커) (2022)",
    "scope": "cross-source",
    "members": [
@@ -51648,7 +51655,7 @@
    ]
   },
   {
-   "kept_id": 3082,
+   "kept_id": 3088,
    "kept": "My Mom's a Werewolf (1989)",
    "scope": "cross-source",
    "members": [
@@ -51668,7 +51675,7 @@
    ]
   },
   {
-   "kept_id": 3094,
+   "kept_id": 3100,
    "kept": "Mrs Brown's Boys (2013)",
    "scope": "cross-source",
    "members": [
@@ -51688,7 +51695,7 @@
    ]
   },
   {
-   "kept_id": 3253,
+   "kept_id": 3259,
    "kept": "The Deep Ones (2020)",
    "scope": "cross-source",
    "members": [
@@ -51708,7 +51715,7 @@
    ]
   },
   {
-   "kept_id": 3268,
+   "kept_id": 3274,
    "kept": "A Private Life (Vie privée) (2025)",
    "scope": "cross-source",
    "members": [
@@ -51735,7 +51742,7 @@
    ]
   },
   {
-   "kept_id": 3270,
+   "kept_id": 3276,
    "kept": "The Raja Saab (2026)",
    "scope": "cross-source",
    "members": [
@@ -51755,7 +51762,7 @@
    ]
   },
   {
-   "kept_id": 3277,
+   "kept_id": 3283,
    "kept": "Days of Our Lives — Cat Greene hypnosis (2026) (2026)",
    "scope": "cross-source",
    "members": [
@@ -51782,7 +51789,7 @@
    ]
   },
   {
-   "kept_id": 3309,
+   "kept_id": 3315,
    "kept": "The Lightning Incident (Lightning Field) (1991)",
    "scope": "cross-source",
    "members": [
@@ -51802,7 +51809,7 @@
    ]
   },
   {
-   "kept_id": 3320,
+   "kept_id": 3326,
    "kept": "Temptress (1995)",
    "scope": "cross-source",
    "members": [
@@ -51822,7 +51829,7 @@
    ]
   },
   {
-   "kept_id": 3333,
+   "kept_id": 3339,
    "kept": "Companion (2025)",
    "scope": "cross-source",
    "members": [
@@ -51842,7 +51849,7 @@
    ]
   },
   {
-   "kept_id": 3340,
+   "kept_id": 3346,
    "kept": "Obsession (2025)",
    "scope": "cross-source",
    "members": [
@@ -51862,7 +51869,7 @@
    ]
   },
   {
-   "kept_id": 3341,
+   "kept_id": 3347,
    "kept": "Witchboard (2025)",
    "scope": "cross-source",
    "members": [
@@ -51882,7 +51889,7 @@
    ]
   },
   {
-   "kept_id": 3345,
+   "kept_id": 3351,
    "kept": "Street Fighter (2026)",
    "scope": "cross-source",
    "members": [
@@ -51902,7 +51909,7 @@
    ]
   },
   {
-   "kept_id": 3410,
+   "kept_id": 3416,
    "kept": "On Her Majesty's Secret Service (1969)",
    "scope": "cross-source",
    "members": [
@@ -51922,7 +51929,7 @@
    ]
   },
   {
-   "kept_id": 3412,
+   "kept_id": 3418,
    "kept": "A Private Life (2025)",
    "scope": "cross-source",
    "members": [
@@ -51942,7 +51949,7 @@
    ]
   },
   {
-   "kept_id": 3429,
+   "kept_id": 3435,
    "kept": "Inland Empire (2006)",
    "scope": "cross-source",
    "members": [
@@ -51962,7 +51969,7 @@
    ]
   },
   {
-   "kept_id": 3458,
+   "kept_id": 3464,
    "kept": "Till Human Voices Wake Us (2002)",
    "scope": "cross-source",
    "members": [
@@ -51982,7 +51989,7 @@
    ]
   },
   {
-   "kept_id": 3459,
+   "kept_id": 3465,
    "kept": "Goke, Body Snatcher from Hell (1968)",
    "scope": "cross-source",
    "members": [
@@ -52002,7 +52009,7 @@
    ]
   },
   {
-   "kept_id": 3460,
+   "kept_id": 3466,
    "kept": "Miss Leslie's Dolls (1972)",
    "scope": "cross-source",
    "members": [
@@ -52022,7 +52029,7 @@
    ]
   },
   {
-   "kept_id": 3464,
+   "kept_id": 3470,
    "kept": "Divorce American Style (1967)",
    "scope": "cross-source",
    "members": [
@@ -52042,7 +52049,7 @@
    ]
   },
   {
-   "kept_id": 3471,
+   "kept_id": 3477,
    "kept": "Push (2009)",
    "scope": "cross-source",
    "members": [
@@ -52062,7 +52069,7 @@
    ]
   },
   {
-   "kept_id": 3472,
+   "kept_id": 3478,
    "kept": "Batman: Hush (2019)",
    "scope": "cross-source",
    "members": [
@@ -52082,7 +52089,7 @@
    ]
   },
   {
-   "kept_id": 3474,
+   "kept_id": 3480,
    "kept": "The Institute (2017)",
    "scope": "cross-source",
    "members": [
@@ -52102,7 +52109,7 @@
    ]
   },
   {
-   "kept_id": 3487,
+   "kept_id": 3493,
    "kept": "Luz (2018)",
    "scope": "cross-source",
    "members": [
@@ -52129,7 +52136,7 @@
    ]
   },
   {
-   "kept_id": 3488,
+   "kept_id": 3494,
    "kept": "Sorority House Massacre (1986)",
    "scope": "cross-source",
    "members": [
@@ -52149,7 +52156,7 @@
    ]
   },
   {
-   "kept_id": 3492,
+   "kept_id": 3498,
    "kept": "Splitz (1982)",
    "scope": "cross-source",
    "members": [
@@ -52169,7 +52176,7 @@
    ]
   },
   {
-   "kept_id": 3504,
+   "kept_id": 3510,
    "kept": "The Greenhouse (2012)",
    "scope": "cross-source",
    "members": [
@@ -52189,7 +52196,7 @@
    ]
   },
   {
-   "kept_id": 3510,
+   "kept_id": 3516,
    "kept": "A Killing in a Small Town (1990)",
    "scope": "cross-source",
    "members": [
@@ -52209,7 +52216,7 @@
    ]
   },
   {
-   "kept_id": 3512,
+   "kept_id": 3518,
    "kept": "Santa Sangre (1989)",
    "scope": "cross-source",
    "members": [
@@ -52229,7 +52236,7 @@
    ]
   },
   {
-   "kept_id": 3513,
+   "kept_id": 3519,
    "kept": "Face of the Screaming Werewolf (1965)",
    "scope": "cross-source",
    "members": [
@@ -52249,7 +52256,7 @@
    ]
   },
   {
-   "kept_id": 3514,
+   "kept_id": 3520,
    "kept": "The Dead Pit (1989)",
    "scope": "cross-source",
    "members": [
@@ -52269,7 +52276,7 @@
    ]
   },
   {
-   "kept_id": 3556,
+   "kept_id": 3562,
    "kept": "The Naked Gun: From the Files of Police Squad! (1988)",
    "scope": "cross-source",
    "members": [
@@ -52289,7 +52296,7 @@
    ]
   },
   {
-   "kept_id": 3557,
+   "kept_id": 3563,
    "kept": "Close Your Eyes (Hypnotic) (2002)",
    "scope": "cross-source",
    "members": [
@@ -52309,7 +52316,7 @@
    ]
   },
   {
-   "kept_id": 3564,
+   "kept_id": 3570,
    "kept": "Argylle (2024)",
    "scope": "cross-source",
    "members": [
@@ -52329,7 +52336,7 @@
    ]
   },
   {
-   "kept_id": 3571,
+   "kept_id": 3577,
    "kept": "Fringe (2008)",
    "scope": "cross-source",
    "members": [
@@ -52349,7 +52356,7 @@
    ]
   },
   {
-   "kept_id": 3572,
+   "kept_id": 3578,
    "kept": "King of the Lost World (2005)",
    "scope": "cross-source",
    "members": [
@@ -52369,7 +52376,7 @@
    ]
   },
   {
-   "kept_id": 3574,
+   "kept_id": 3580,
    "kept": "Alias (2001)",
    "scope": "cross-source",
    "members": [
@@ -52389,7 +52396,7 @@
    ]
   },
   {
-   "kept_id": 3588,
+   "kept_id": 3594,
    "kept": "St. Vincent (2014)",
    "scope": "cross-source",
    "members": [
@@ -52409,7 +52416,7 @@
    ]
   },
   {
-   "kept_id": 3645,
+   "kept_id": 3651,
    "kept": "Psycho Beach Party (2000)",
    "scope": "cross-source",
    "members": [
@@ -52429,7 +52436,7 @@
    ]
   },
   {
-   "kept_id": 3650,
+   "kept_id": 3656,
    "kept": "Terror Toons (2002)",
    "scope": "cross-source",
    "members": [
@@ -52449,7 +52456,7 @@
    ]
   },
   {
-   "kept_id": 3667,
+   "kept_id": 3673,
    "kept": "Never Cry Werewolf (2008)",
    "scope": "cross-source",
    "members": [
@@ -52469,7 +52476,7 @@
    ]
   },
   {
-   "kept_id": 3668,
+   "kept_id": 3674,
    "kept": "Young Sherlock Holmes (1985)",
    "scope": "cross-source",
    "members": [
@@ -52489,7 +52496,7 @@
    ]
   },
   {
-   "kept_id": 3671,
+   "kept_id": 3677,
    "kept": "Mesmerized (1985)",
    "scope": "cross-source",
    "members": [
@@ -52509,7 +52516,7 @@
    ]
   },
   {
-   "kept_id": 3692,
+   "kept_id": 3698,
    "kept": "Dying to Remember (1993)",
    "scope": "cross-source",
    "members": [
@@ -52529,7 +52536,7 @@
    ]
   },
   {
-   "kept_id": 3694,
+   "kept_id": 3700,
    "kept": "The Illusionist (2006)",
    "scope": "cross-source",
    "members": [
@@ -52549,7 +52556,7 @@
    ]
   },
   {
-   "kept_id": 3701,
+   "kept_id": 3707,
    "kept": "The Recall (2017)",
    "scope": "cross-source",
    "members": [
@@ -52569,7 +52576,7 @@
    ]
   },
   {
-   "kept_id": 3702,
+   "kept_id": 3708,
    "kept": "The Believers (1987)",
    "scope": "cross-source",
    "members": [
@@ -52589,7 +52596,7 @@
    ]
   },
   {
-   "kept_id": 3724,
+   "kept_id": 3730,
    "kept": "The Wizard of Gore (2007)",
    "scope": "cross-source",
    "members": [
@@ -52609,7 +52616,7 @@
    ]
   },
   {
-   "kept_id": 3726,
+   "kept_id": 3732,
    "kept": "Possessor (2020)",
    "scope": "cross-source",
    "members": [
@@ -52629,7 +52636,7 @@
    ]
   },
   {
-   "kept_id": 3731,
+   "kept_id": 3737,
    "kept": "Truth Seekers (2020)",
    "scope": "cross-source",
    "members": [
@@ -52649,7 +52656,7 @@
    ]
   },
   {
-   "kept_id": 3752,
+   "kept_id": 3758,
    "kept": "Manos Returns (2018)",
    "scope": "cross-source",
    "members": [
@@ -52669,7 +52676,7 @@
    ]
   },
   {
-   "kept_id": 3755,
+   "kept_id": 3761,
    "kept": "Haunting Fear (1990)",
    "scope": "cross-source",
    "members": [
@@ -52689,7 +52696,7 @@
    ]
   },
   {
-   "kept_id": 3768,
+   "kept_id": 3774,
    "kept": "Silent Control (2025)",
    "scope": "cross-source",
    "members": [
@@ -52709,7 +52716,7 @@
    ]
   },
   {
-   "kept_id": 3774,
+   "kept_id": 3780,
    "kept": "In the Lost Lands (2025)",
    "scope": "cross-source",
    "members": [
@@ -52729,7 +52736,7 @@
    ]
   },
   {
-   "kept_id": 3785,
+   "kept_id": 3791,
    "kept": "Insomnia (2025)",
    "scope": "cross-source",
    "members": [
@@ -52749,7 +52756,7 @@
    ]
   },
   {
-   "kept_id": 3827,
+   "kept_id": 3833,
    "kept": "My Patient Is a Mermaid (2026)",
    "scope": "cross-source",
    "members": [
@@ -53332,265 +53339,265 @@
    "title": "ER",
    "year": "2003–2004",
    "kept_id": 1204,
-   "retired_id": 2546
+   "retired_id": 2552
   },
   {
    "title": "Grey's Anatomy",
    "year": "2011–2014",
    "kept_id": 1296,
-   "retired_id": 2547
+   "retired_id": 2553
   },
   {
    "title": "Friends",
    "year": "1994–1995",
    "kept_id": 1246,
-   "retired_id": 2548
+   "retired_id": 2554
   },
   {
    "title": "Queer as Folk",
    "year": "2003–2004",
    "kept_id": 1684,
-   "retired_id": 2549
+   "retired_id": 2555
   },
   {
    "title": "Queer as Folk",
    "year": "1999",
    "kept_id": 1683,
-   "retired_id": 2550
+   "retired_id": 2556
   },
   {
    "title": "Hospital Central",
    "year": "2006",
    "kept_id": 1338,
-   "retired_id": 2551
+   "retired_id": 2557
   },
   {
    "title": "Hollyoaks",
    "year": "2015",
    "kept_id": 1333,
-   "retired_id": 2552
+   "retired_id": 2558
   },
   {
    "title": "Neighbours",
    "year": "2020–2021",
    "kept_id": 1581,
-   "retired_id": 2553
+   "retired_id": 2559
   },
   {
    "title": "Guiding Light",
    "year": "2008–2009",
    "kept_id": 1302,
-   "retired_id": 2554
+   "retired_id": 2560
   },
   {
    "title": "All My Children",
    "year": "2008",
    "kept_id": 898,
-   "retired_id": 2555
+   "retired_id": 2561
   },
   {
    "title": "Amar en tiempos revueltos",
    "year": "2010",
    "kept_id": 904,
-   "retired_id": 2556
+   "retired_id": 2562
   },
   {
    "title": "Please Don't Touch Me",
    "year": "1963",
    "kept_id": 1657,
-   "retired_id": 2705
+   "retired_id": 2711
   },
   {
    "title": "Silanerangalil",
    "year": "2008",
    "kept_id": 1770,
-   "retired_id": 2752
+   "retired_id": 2758
   },
   {
    "title": "Black Widow",
    "year": "2021",
    "kept_id": 2181,
-   "retired_id": 2782
+   "retired_id": 2788
   },
   {
    "title": "Creepy",
    "year": "2016",
    "kept_id": 2164,
-   "retired_id": 2795
+   "retired_id": 2801
   },
   {
    "title": "I Walked with a Zombie",
    "year": "1943",
    "kept_id": 2175,
-   "retired_id": 2840
+   "retired_id": 2846
   },
   {
    "title": "The Plague Of The Zombies",
    "year": "1966",
    "kept_id": 2177,
-   "retired_id": 2923
+   "retired_id": 2929
   },
   {
    "title": "The Hypnotized / Faceless Beauty",
    "year": "2004",
    "kept_id": 18,
-   "retired_id": 3008
+   "retired_id": 3014
   },
   {
    "title": "Hypnotic",
    "year": "2021",
    "kept_id": 142,
-   "retired_id": 3009
+   "retired_id": 3015
   },
   {
    "title": "À l'aventure / Adventure",
    "year": "2008",
    "kept_id": 652,
-   "retired_id": 3010
+   "retired_id": 3016
   },
   {
    "title": "Svengali",
    "year": "1931",
    "kept_id": 32,
-   "retired_id": 3011
+   "retired_id": 3017
   },
   {
    "title": "Law & Order: Special Victims Unit",
    "year": "2017",
    "kept_id": 1463,
-   "retired_id": 3015
+   "retired_id": 3021
   },
   {
    "title": "O Hipnotizador / El Hipnotizador",
    "year": "2015–17",
    "kept_id": 676,
-   "retired_id": 3016
+   "retired_id": 3022
   },
   {
    "title": "The Great Hypnotist (催眠大师)",
    "year": "2014",
    "kept_id": 653,
-   "retired_id": 3017
+   "retired_id": 3023
   },
   {
    "title": "The Hypnosis (최면)",
    "year": "2021",
    "kept_id": 655,
-   "retired_id": 3018
+   "retired_id": 3024
   },
   {
    "title": "Desire Catcher (无眠之境)",
    "year": "2023",
    "kept_id": 704,
-   "retired_id": 3019
+   "retired_id": 3025
   },
   {
    "title": "Mind Game / 心迷",
    "year": "2015",
    "kept_id": 659,
-   "retired_id": 3020
+   "retired_id": 3026
   },
   {
    "title": "Penny Dreadful",
    "year": "2014",
    "kept_id": 286,
-   "retired_id": 3021
+   "retired_id": 3027
   },
   {
    "title": "Murder In Mind",
    "year": "1997",
    "kept_id": 1565,
-   "retired_id": 3023
+   "retired_id": 3029
   },
   {
    "title": "Hypnosen / The Hypnosis / Sous hypnose",
    "year": "2023",
    "kept_id": 699,
-   "retired_id": 3024
+   "retired_id": 3030
   },
   {
    "title": "Dark Shadows",
    "year": "1966–71",
    "kept_id": 39,
-   "retired_id": 3025
+   "retired_id": 3031
   },
   {
    "title": "Girl Next",
    "year": "2021",
    "kept_id": 1285,
-   "retired_id": 3028
+   "retired_id": 3034
   },
   {
    "title": "Alfred Hitchcock Presents",
    "year": "1958",
    "kept_id": 608,
-   "retired_id": 3034
+   "retired_id": 3040
   },
   {
    "title": "Murder Me Twice",
    "year": "1958",
    "kept_id": 2280,
-   "retired_id": 3035
+   "retired_id": 3041
   },
   {
    "title": "La Femme Nikita",
    "year": "1997–2001",
    "kept_id": 1449,
-   "retired_id": 3036
+   "retired_id": 3042
   },
   {
    "title": "The Puppet",
    "year": "2013",
    "kept_id": 1679,
-   "retired_id": 3037
+   "retired_id": 3043
   },
   {
    "title": "Dead Again",
    "year": "1991",
    "kept_id": 233,
-   "retired_id": 3042
+   "retired_id": 3048
   },
   {
    "title": "Murder, She Wrote",
    "year": "1984",
    "kept_id": 44,
-   "retired_id": 3043
+   "retired_id": 3049
   },
   {
    "title": "The Flying Nun",
    "year": "1967–1970",
    "kept_id": 1236,
-   "retired_id": 3045
+   "retired_id": 3051
   },
   {
    "title": "Freddy's Nightmares",
    "year": "1988–1990",
    "kept_id": 1239,
-   "retired_id": 3046
+   "retired_id": 3052
   },
   {
    "title": "Vashikaranam",
    "year": "2026",
    "kept_id": 204,
-   "retired_id": 3050
+   "retired_id": 3056
   },
   {
    "title": "Qubool Hai",
    "year": "2014",
    "kept_id": 250,
-   "retired_id": 3055
+   "retired_id": 3061
   },
   {
    "title": "Bloodsucking Freaks",
    "year": "1976",
    "kept_id": 994,
-   "retired_id": 3568
+   "retired_id": 3574
   },
   {
    "title": "Born",
    "year": "2007",
    "kept_id": 149,
-   "retired_id": 3633
+   "retired_id": 3639
   }
  ],
  "merge_rules": [
@@ -53855,182 +53862,182 @@
    "year": "2018-19",
    "reason": "Palace drama tagged only for brainwashing/gaslighting themes; no hypnosis, drug, spell or device",
    "status": "applied",
-   "retired_id": 2698
+   "retired_id": 2704
   },
   {
    "title": "Secrets of the Sisterhood",
    "year": "2019",
    "reason": "Cult indoctrination, pledge ritual and blackmail; record says cult coercion, not hypnosis",
    "status": "applied",
-   "retired_id": 2748
+   "retired_id": 2754
   },
   {
    "title": "Catatan Hati — Eps 37",
    "year": "2026",
    "reason": "Mother falls under a cult leader's sway; record says cult influence, not hypnosis",
    "status": "applied",
-   "retired_id": 3230
+   "retired_id": 3236
   },
   {
    "title": "The Liberation",
    "year": "2026",
    "reason": "Mother joins an all-female commune \"entranced\" by its leader; record says cult entrancement, not literal hypnosis",
    "status": "applied",
-   "retired_id": 3271
+   "retired_id": 3277
   },
   {
    "title": "Papás Por Siempre",
    "year": "2026",
    "reason": "Surrogate forced by a man for money; record says coercion, not hypnosis",
    "status": "applied",
-   "retired_id": 3287
+   "retired_id": 3293
   },
   {
    "title": "Becoming the Wife of a Dark Cult Overlord (사이비 교주의 아내가 되었습니다)",
    "year": "2025",
    "reason": "Cult that brainwashes members into believing the outside world is evil; ordinary cult indoctrination",
    "status": "applied",
-   "retired_id": 3297
+   "retired_id": 3303
   },
   {
    "title": "Mother's Baby",
    "year": "2025",
    "reason": "Fertility-clinic paranoia/gaslighting-style plot; record says no hypnosis",
    "status": "applied",
-   "retired_id": 3299
+   "retired_id": 3305
   },
   {
    "title": "A Prism of Truths",
    "year": "2026",
    "reason": "Boyfriend's emotional manipulation and brainwashing over eight years; record says not hypnosis",
    "status": "applied",
-   "retired_id": 3301
+   "retired_id": 3307
   },
   {
    "title": "The Amazing Mr. X (The Spiritualist)",
    "year": "1948",
    "reason": "Fake spiritualist stages phenomena to defraud a widow; fraud, not hypnosis",
    "status": "applied",
-   "retired_id": 3305
+   "retired_id": 3311
   },
   {
    "title": "Unchosen",
    "year": "2026",
    "reason": "Sect leader abuse, husband violence and a convict who coerces his way into the community; coercion and abuse, no mind control",
    "status": "applied",
-   "retired_id": 3306
+   "retired_id": 3312
   },
   {
    "title": "Lies Hidden in My Garden (마당이 있는 집)",
    "year": "2023",
    "reason": "Husband gaslights wife about a buried body; record says psychological gaslighting, not hypnosis",
    "status": "applied",
-   "retired_id": 3310
+   "retired_id": 3316
   },
   {
    "title": "The Babymaker: The Dr. Cecil Jacobson Story (Seeds of Deception)",
    "year": "1994",
    "reason": "Fertility doctor secretly uses own sperm; fraud/deception, not hypnosis",
    "status": "applied",
-   "retired_id": 3313
+   "retired_id": 3319
   },
   {
    "title": "Poongatru Thirumbuma",
    "year": "2025",
    "reason": "Escape from controlling, abusive husband; record says abusive control, no hypnosis",
    "status": "applied",
-   "retired_id": 3315
+   "retired_id": 3321
   },
   {
    "title": "Broken Heaven (Bidaah)",
    "year": "2025",
    "reason": "Cult leader manipulates followers; ordinary cult influence, nothing about hypnosis or mind control",
    "status": "applied",
-   "retired_id": 3324
+   "retired_id": 3330
   },
   {
    "title": "The Healing",
    "year": "2025",
    "reason": "Healing community that turns cult-like; cult influence only, no control mechanism stated",
    "status": "applied",
-   "retired_id": 3325
+   "retired_id": 3331
   },
   {
    "title": "Of Dust and Stars",
    "year": "2026",
    "reason": "Heiress abused and controlled by adoptive family; record says family abuse, no hypnosis",
    "status": "applied",
-   "retired_id": 3337
+   "retired_id": 3343
   },
   {
    "title": "Bad Behaviour",
    "year": "2024",
    "reason": "Retreat run by a guru in a cult-like way; cult influence only",
    "status": "applied",
-   "retired_id": 3344
+   "retired_id": 3350
   },
   {
    "title": "The Kerala Story",
    "year": "2023",
    "reason": "Woman \"brainwashed\" into converting and becoming a terrorist; ordinary indoctrination, no hypnosis, drug, spell or device",
    "status": "applied",
-   "retired_id": 3446
+   "retired_id": 3452
   },
   {
    "title": "Lilli Marlene",
    "year": "1950",
    "reason": "Interrogation and repeated claims she was tortured/\"brainwashed\"; ordinary psychological pressure",
    "status": "applied",
-   "retired_id": 3517
+   "retired_id": 3523
   },
   {
    "title": "Rogue Agent",
    "year": "2022",
    "reason": "Cult brainwashing of a young woman (parents' remark); ordinary cult influence",
    "status": "applied",
-   "retired_id": 3519
+   "retired_id": 3525
   },
   {
    "title": "1BR",
    "year": "2019",
    "reason": "Woman slowly brainwashed into a cult by psychological conditioning; no hypnosis, drug or device",
    "status": "applied",
-   "retired_id": 3520
+   "retired_id": 3526
   },
   {
    "title": "Ripper Street",
    "year": "2012",
    "reason": "Woman dies after being \"brainwashed\" by a cult; ordinary cult influence",
    "status": "applied",
-   "retired_id": 3523
+   "retired_id": 3529
   },
   {
    "title": "Abduction",
    "year": "1975",
    "reason": "Captors brutalise and \"convert\" a woman to their cause; coercive captivity indoctrination",
    "status": "applied",
-   "retired_id": 3531
+   "retired_id": 3537
   },
   {
    "title": "Ushijima the Loan Shark (Season 3)",
    "year": "2016",
    "reason": "Con man and fake fortune teller dominate a woman and drain her money; con-artist influence",
    "status": "applied",
-   "retired_id": 3549
+   "retired_id": 3555
   },
   {
    "title": "Charlie Says",
    "year": "2018",
    "reason": "Manson cult brainwashing; ordinary cult influence",
    "status": "applied",
-   "retired_id": 3569
+   "retired_id": 3575
   },
   {
    "title": "Love Exposure",
    "year": "2008",
    "reason": "Cult camp indoctrination (Zero Church); ordinary cult influence",
    "status": "applied",
-   "retired_id": 3570
+   "retired_id": 3576
   }
  ],
  "raw_counts": {
@@ -54053,6 +54060,7 @@
   "mom-pregnancy": 84,
   "hypnosis-assault-loose": 39,
   "kids-pregnant-again": 77,
+  "stepfamily-pregnancy-nov7": 7,
   "lesbian-pregnancy": 44,
   "royal-hypnosis": 11,
   "royal-hypnosis-loose": 32,
@@ -54120,9 +54128,9 @@
   "vertical-hypnosis-nov6-r5": 2,
   "vertical-hypnosis-nov6-r6": 4
  },
- "entry_count_after_dedupe": 3746,
+ "entry_count_after_dedupe": 3752,
  "within_source_groups": 5,
  "cross_source_groups": 2081,
  "index_only_records": 55,
- "local_only_records": 1474
+ "local_only_records": 1480
 }

@@ -82,6 +82,8 @@ SOURCES = [
      "local": "sources/hypnosis-assault-loose.json", "required": False},
     {"id": "kids-pregnant-again", "label": "Parents with children get pregnant again",
      "local": "sources/kids-pregnant-again.json", "required": False},
+    {"id": "stepfamily-pregnancy-nov7", "label": "Stepfamily / new-partner pregnancy (Nov 7)",
+     "local": "sources/stepfamily-pregnancy-nov7.json", "required": False},
     {"id": "lesbian-pregnancy", "label": "Lesbian couple pregnancy research",
      "local": "sources/lesbian-pregnancy.json", "required": False},
     {"id": "royal-hypnosis", "label": "Queen/princess hypnotized for marriage or the throne",
