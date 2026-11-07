@@ -11554,7 +11554,7 @@
    "description": "",
    "dropped": [],
    "check": {
-    "raw_count": 27,
+    "raw_count": 28,
     "ok": true
    },
    "status": "local"
@@ -11640,10 +11640,10 @@
   "deep-refresh-oct30": 75,
   "deep-refresh-nov04": 61,
   "hypnosis-bestsimilar-nov5": 206,
-  "vertical-hypnosis-nov6": 27
+  "vertical-hypnosis-nov6": 28
  },
- "raw_total": 7464,
- "entry_count": 3725,
+ "raw_total": 7465,
+ "entry_count": 3726,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -11775,7 +11775,7 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 700
+   "entry_count": 701
   },
   {
    "key": "wife",
@@ -12021,7 +12021,7 @@
    "key": "pregnant-strict",
    "label": "Pregnant woman hypnotized while pregnant — strict core",
    "legend_label": "Pregnant woman hypnotized while pregnant — strict core",
-   "entry_count": 18
+   "entry_count": 19
   },
   {
    "key": "pregnancy-evil",
@@ -576719,6 +576719,119 @@
      ]
     }
    }
+  },
+  {
+   "id": 3919,
+   "subtitle": "",
+   "note": "Pregnancy and hypnosis explicitly concern the same 28-year-old woman. Prophetic fetus/reincarnation is fantasy context, not the hypnosis mechanism. Exact episode unknown; do not infer episode 1 from the landing-page title. AI-generated production not established.",
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6:28"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6:28": {
+     "title": "我的心声，掌控全局",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "China · Mandarin Chinese · 41-episode mobile microdrama · 河马剧场",
+     "character": "乔音 / Qiao Yin (赵辰洁 / Zhao Chenjie), age 28",
+     "summary": "Pregnant 28-year-old Qiao Yin carries a fetus that predicts the future. Her friend Wu You learns hypnosis to extract its secrets; the fetus awakens Qiao Yin, who counter-hypnotizes Wu You and erases her memory.",
+     "mechanism": "Self-taught hypnosis used to steal unborn child’s prophetic knowledge; pregnant Qiao Yin is awakened by the fetus and counter-hypnotizes Wu You. Prophetic fetus/reincarnation is fantasy context, distinct from stated hypnosis.",
+     "categories": [
+      "pregnant-strict",
+      "human"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Married to 李博 / Li Bo in the platform synopsis.",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "Ending synopsis: 胎儿安稳待产 — the unborn child is safely awaiting birth.",
+     "kids_status": "unknown",
+     "kids_note": "Children before this pregnancy are not stated in the cited descriptions.",
+     "kids_together": "unknown",
+     "kids_together_note": "An unborn child is present at the ending; a birth is not established.",
+     "pregnancy_outcome": "ongoing",
+     "pregnancy_note": "Qiao Yin is already pregnant during the hypnosis attempt and still awaiting birth at the end.",
+     "hypnotist": "吴优 / 吴忧 (Wu You)",
+     "method": "Self-taught hypnosis; exact induction technique not established.",
+     "confidence_flag": "Medium-high: platform full-series synopsis and corroborating plot text; not video-watched.",
+     "fit_note": "Pregnancy and hypnosis explicitly concern the same 28-year-old woman. Prophetic fetus/reincarnation is fantasy context, not the hypnosis mechanism. Exact episode unknown; do not infer episode 1 from the landing-page title. AI-generated production not established.",
+     "provenance": "Deep multilingual public-text research, 6 Nov 2026 PT. No video watched. Release date differs May19/May23 across listings; year2026 used.",
+     "sources": [
+      {
+       "label": "河马剧场 — full-series plot, pregnancy, age28 and hypnosis",
+       "url": "https://www.kuaikaw.cn/episode/41000214272"
+      },
+      {
+       "label": "悟空视频 — corroborating plot and pregnancy ending",
+       "url": "https://www.wukongshipin.com/duanju/wo-de-xin-sheng-zhang-kong-quan-ju-2519506"
+      },
+      {
+       "label": "短剧百科 — year,41 episodes,cast",
+       "url": "https://www.duanjubaike.net/duanju/info-7641526371495185433.html"
+      },
+      {
+       "label": "喜福影视 — full synopsis including ending",
+       "url": "https://video.contentchina.com/playlet/25187"
+      }
+     ],
+     "no_media": true
+    }
+   },
+   "title": "我的心声，掌控全局",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "China · Mandarin Chinese · 41-episode mobile microdrama · 河马剧场",
+   "character": "乔音 / Qiao Yin (赵辰洁 / Zhao Chenjie), age 28",
+   "summary": "Pregnant 28-year-old Qiao Yin carries a fetus that predicts the future. Her friend Wu You learns hypnosis to extract its secrets; the fetus awakens Qiao Yin, who counter-hypnotizes Wu You and erases her memory.",
+   "mechanism": "Self-taught hypnosis used to steal unborn child’s prophetic knowledge; pregnant Qiao Yin is awakened by the fetus and counter-hypnotizes Wu You. Prophetic fetus/reincarnation is fantasy context, distinct from stated hypnosis.",
+   "categories": [
+    "pregnant-strict",
+    "human"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Married to 李博 / Li Bo in the platform synopsis.",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "Ending synopsis: 胎儿安稳待产 — the unborn child is safely awaiting birth.",
+   "kids_status": "unknown",
+   "kids_note": "Children before this pregnancy are not stated in the cited descriptions.",
+   "kids_together": "unknown",
+   "kids_together_note": "An unborn child is present at the ending; a birth is not established.",
+   "pregnancy_outcome": "ongoing",
+   "pregnancy_note": "Qiao Yin is already pregnant during the hypnosis attempt and still awaiting birth at the end.",
+   "hypnotist": "吴优 / 吴忧 (Wu You)",
+   "method": "Self-taught hypnosis; exact induction technique not established.",
+   "confidence_flag": "Medium-high: platform full-series synopsis and corroborating plot text; not video-watched.",
+   "fit_note": "Pregnancy and hypnosis explicitly concern the same 28-year-old woman. Prophetic fetus/reincarnation is fantasy context, not the hypnosis mechanism. Exact episode unknown; do not infer episode 1 from the landing-page title. AI-generated production not established.",
+   "provenance": "Deep multilingual public-text research, 6 Nov 2026 PT. No video watched. Release date differs May19/May23 across listings; year2026 used.",
+   "sources": [
+    {
+     "label": "河马剧场 — full-series plot, pregnancy, age28 and hypnosis",
+     "url": "https://www.kuaikaw.cn/episode/41000214272"
+    },
+    {
+     "label": "悟空视频 — corroborating plot and pregnancy ending",
+     "url": "https://www.wukongshipin.com/duanju/wo-de-xin-sheng-zhang-kong-quan-ju-2519506"
+    },
+    {
+     "label": "短剧百科 — year,41 episodes,cast",
+     "url": "https://www.duanjubaike.net/duanju/info-7641526371495185433.html"
+    },
+    {
+     "label": "喜福影视 — full synopsis including ending",
+     "url": "https://video.contentchina.com/playlet/25187"
+    }
+   ],
+   "no_media": true
   }
  ],
  "sections": [
@@ -596463,6 +596576,11 @@
       },
       {
        "id": 3914,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3919,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6"
       }
@@ -619522,6 +619640,17 @@
       }
      ],
      "from_source": "hypno-pregnant-yt-oct25"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3919,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {

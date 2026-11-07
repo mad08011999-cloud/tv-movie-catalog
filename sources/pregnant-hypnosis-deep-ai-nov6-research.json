@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-06 PT",
+  "scope": "Existing published AI fiction and adult pregnant female hypnosis; non-graphic metadata only",
+  "queries": [
+    "\"pregnant\" \"hypnotized\" \"AI\" story video",
+    "\"孕妇\" \"催眠\" \"AI\" 故事",
+    "\"pregnant wife\" \"hypnotised\" short film",
+    "\"ibu hamil\" \"dihipnotis\" cerita",
+    "\"embarazada\" \"hipnotizada\" \"inteligencia artificial\"",
+    "\"grávida\" \"hipnotizada\" história",
+    "site:youtube.com \"pregnant\" \"hypnotized\" \"AI story\"",
+    "site:youtube.com \"pregnant\" \"trance\" \"AI\"",
+    "site:tiktok.com \"pregnant woman\" \"hypnotized\" \"story\"",
+    "site:instagram.com/reel \"pregnant\" \"hypnotized\" story",
+    "\"கர்ப்பிணி\" \"ஹிப்னாடிசம்\" சீரியல்",
+    "\"గర్భవతి\" \"హిప్నాటిజం\" సీరియల్",
+    "\"गर्भवती\" \"हिप्नोटाइज\" कहानी",
+    "\"임산부\" \"최면\" 드라마",
+    "\"baby bump\" \"hypnotized\" fiction",
+    "\"pregnant\" \"posthypnotic\" film",
+    "\"pregnant\" \"mesmerized\" \"short drama\"",
+    "\"孕妇\" \"催眠\" site:youtube.com",
+    "\"怀孕\" \"催眠\" site:netshort.com",
+    "\"pregnant\" \"hypnosis\" site:dramabox.com",
+    "\"pregnant\" \"hypnosis\" site:reelshort.com",
+    "\"pregnant\" \"hypnosis\" site:goodshort.com",
+    "\"pregnant\" \"hypnotism\" \"AI generated\"",
+    "\"pregnant\" \"hypnotized\" \"animated story\"",
+    "\"pregnant\" \"hypnotised\" \"MSA\"",
+    "\"hamile kadın\" \"hipnotize\" dizi",
+    "\"妊婦\" \"催眠\" \"ショートドラマ\"",
+    "\"임신\" \"최면\" \"숏드라마\"",
+    "\"孕妇\" \"催眠\" \"短剧\" -site:*.cc -site:*.top",
+    "\"ibu hamil\" \"hipnotis\" \"film pendek\"",
+    "\"pregnant\" \"hypnosis\" \"ShortMax\"",
+    "\"pregnant\" \"hypnotized\" \"DreameShort\"",
+    "\"pregnant\" \"hypnotized\" \"ShortTV\"",
+    "\"pregnant\" \"hypnotized\" \"My Drama\"",
+    "\"怀孕\" \"催眠\" \"红果\"",
+    "\"大肚子\" \"催眠\" \"AI短剧\"",
+    "\"pregnant\" \"hypnosis\" \"AI short film\"",
+    "\"pregnant\" \"mind control\" \"AI story\" -incest -sex",
+    "\"我的心声，掌控全局\" 催眠",
+    "\"我的心声掌控全局\" 乔音 吴优",
+    "\"我的心声\" \"盛柯杰\"",
+    "\"我的心声，掌控全局\" site:youtube.com",
+    "\"我的心声，掌控全局\" site:douyin.com",
+    "\"my thoughts\" \"control\" \"hypnosis\" pregnant drama Qiao",
+    "\"她的催眠日记\" \"孕\"",
+    "\"My Childhood Friend Hypnotized Me To Love Another\" pregnant",
+    "\"乔音\" \"催眠\" \"赵辰洁\"",
+    "\"我的心声，掌控全局\" \"结局\"",
+    "\"pregnant\" \"hypnotized\" \"AI animation\"",
+    "\"grávida\" \"hipnose\" \"novela\" personagem",
+    "\"embarazada\" \"hipnosis\" \"telenovela\" personaje",
+    "\"pregnant\" \"hypnotized\" \"AI\" site:tiktok.com",
+    "\"pregnant\" \"hypnotized\" \"AI\" site:instagram.com",
+    "\"hamil\" \"hipnotis\" \"cerita AI\"",
+    "\"embarazada\" \"hipnotizada\" \"corto\"",
+    "\"pregnant woman\" \"hypnotized\" \"horror story\"",
+    "\"我的心声，掌控全局\" \"催眠\" \"第\"",
+    "\"Amor en la deuda de sangre\" \"embarazada\"",
+    "\"Carla\" \"hipnotizada\" \"embarazada\" Netshort",
+    "\"我的心声，掌控全局\" \"河马\" 催眠"
+  ],
+  "new_query_count": 60,
+  "previous_query_count": 26,
+  "confirmed_new_plot_candidates": [
+    {
+      "title": "我的心声，掌控全局",
+      "title_translation": "My Inner Voice Controls the Whole Game (literal translation, not verified distribution title)",
+      "year": "2026",
+      "format": "TV series / Chinese mobile short drama",
+      "country": "China",
+      "language": "Mandarin Chinese",
+      "platform": "河马剧场 / Hippo Theater (public series page); other streaming listings exist",
+      "ai_generated": "not established; actor-led cast listed, do not label AI",
+      "episodes_total": 41,
+      "character": "乔音 / Qiao Yin",
+      "performer": "赵辰洁 / Zhao Chenjie",
+      "adult_age": 28,
+      "hypnotist": "吴优 / 吴忧 (Wu You); synopsis and cast spelling differ",
+      "mechanism": "Self-taught hypnosis used to steal unborn child’s prophetic knowledge; pregnant Qiao Yin is awakened by the fetus and counter-hypnotizes Wu You. Prophetic fetus/reincarnation is fantasy context, distinct from stated hypnosis.",
+      "summary": "Pregnant 28-year-old Qiao Yin carries a fetus that predicts the future. Her friend Wu You learns hypnosis to extract its secrets; the fetus awakens Qiao Yin, who counter-hypnotizes Wu You and erases her memory.",
+      "proposed_categories": [
+        "pregnant-strict",
+        "human",
+        "fantasy"
+      ],
+      "already_married": "yes — husband Li Bo / 李博",
+      "pregnant_end": "yes — fetus awaiting birth in ending synopsis",
+      "kids_status": "unknown / not stated for children before this pregnancy",
+      "kids_together": "birth not established; husband and wife reunited with unborn child still awaiting birth",
+      "pregnancy_outcome": "ongoing at ending, according to full synopsis",
+      "episode_scene": "Exact hypnosis episode unknown; landing page is labelled Episode 1 but its synopsis covers the entire series, so do NOT assign hypnosis to Episode 1.",
+      "evidence_level": "Plot-synopsis confirmed, not video-watched. Platform full description explicitly connects age28, pregnancy, hypnosis and fetus awakening same character; independent secondary synopsis corroborates.",
+      "confidence": "medium-high plot-level; precise induction technique/scene not verified",
+      "source_quotes": {
+        "adult_pregnancy": "28岁的乔音怀孕后，腹中胎儿竟能预言未来。",
+        "hypnosis_same_woman": "乔音闺蜜吴优觊觎预言能力，强求彩票号码被拒后，自学催眠术企图窃取秘密，被胎儿唤醒的乔音反催眠抹去记忆。",
+        "ending": "最终吴优在幻象警示下回归平凡赎罪，乔音一家与顾涛团聚，胎儿安稳待产。"
+      },
+      "sources_per_field": {
+        "adult_pregnancy_hypnosis_married": "https://www.kuaikaw.cn/episode/41000214272",
+        "year_cast": "https://www.duanjubaike.net/duanju/info-7641526371495185433.html",
+        "ending": "https://video.contentchina.com/playlet/25187",
+        "secondary_corroboration": "https://www.wukongshipin.com/duanju/wo-de-xin-sheng-zhang-kong-quan-ju-2519506"
+      },
+      "release_date_caveat": "Baike lists May19 2026; Wukong lists May23 2026; use year only.",
+      "dedupe": "No exact original-title or 掌控全局 match among 3725 local catalog entries; no exclusion-title hit. Alias duplicates still possible.",
+      "publication_recommendation": "One new plot-confirmed candidate for parent review; preserve confidence caveat. If parent requires scene verification rather than full plot synopsis, hold until watchVideo; do not present as personally watched."
+    }
+  ],
+  "unverified_leads": [
+    {
+      "title": "Got Pregnant by Billionaire Brothers / Devil’s Triangle",
+      "existing_id": 1979,
+      "status": "existing; no duplicate",
+      "newly_fetched": [
+        {
+          "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-53",
+          "quote": "Audrey resists a hypnotic suggestion to express hatred towards the Vanderbilt brothers"
+        },
+        {
+          "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-67",
+          "quote": "Audrey confronts a deranged suitor who kidnaps and hypnotizes her"
+        }
+      ],
+      "missing": "Video must distinguish contemporaneous induction from retrospective description and medication-only manipulation. Prior pregnancy and finale already recorded in research.json."
+    },
+    {
+      "title": "Amor en la deuda de sangre",
+      "original_title_lead": "蛇年有喜之小草进城 (cover filename only, not established official alias)",
+      "url": "https://netshort.com/es/episode/amor-en-la-deuda-de-sangre-2047835919557328898-ep-70",
+      "status": "Unverified; new strong video-review lead",
+      "evidence": "Official series synopsis says Carla becomes pregnant; public review section says José uses a watch to hypnotize Carla in episode70. Reviews are not scene proof.",
+      "missing": "Watch ep70: adult Carla actually pregnant at this moment? Has she already delivered? Actual hypnosis versus sedation? Ending and prior children unknown."
+    },
+    {
+      "title": "催眠眼镜 / Hypnosis Glasses",
+      "format": "purported creator-made AI video series",
+      "status": "Unverified adult AI lead only; no card",
+      "evidence": "Public indexed forum titles advertise AI short series eps1–7 /1–10 with pregnant woman; these are explicit-media redistribution listings, not creator proof.",
+      "missing": "Original creator, legitimate non-explicit release description, all-adult status, same-scene pregnancy, actual mechanism, ending. Did not open explicit pages, thumbnails, torrents or media.",
+      "source_url": "https://www.byte100.com/forum/archiver/tid-12584712.html"
+    },
+    {
+      "title": "Hypnotized and pregnant",
+      "format": "AI-generated single illustration, not video or story series",
+      "url": "https://www.deviantart.com/concept91/art/Hypnotized-and-pregnant-983104890",
+      "status": "Indexed description calls AI art tribute to human-authored Kat’s Cradle; do not misclassify story as AI or illustration as film. No explicit page opened."
+    }
+  ],
+  "rejected_false_positives": [
+    {
+      "title": "Date Night / Calamity AI",
+      "url": "https://thenextweb.com/news/ai-writes-movie-script",
+      "reason": "Creators say pregnancy belonged to an unused script variation; filmed variation has hypnosis. Do not merge separate variants. AI-written live action, not generative AI video."
+    },
+    {
+      "title": "Widow Gets Pregnant by AI (indexed title)",
+      "url": "https://www.youtube.com/watch?v=w_J_4LvgeOA",
+      "reason": "Accessible transcript: widow Rebecca uses chatbot, meets Paul, marries and has children. No hypnosis. AI is story subject, not evidence of AI-generated production."
+    },
+    {
+      "title": "一不小心捡到爱",
+      "url": "https://hongguoduanju.com/detail?series_id=7400279742512909374",
+      "reason": "Synopsis places forced hypnosis AFTER birth of Xiaobao; no simultaneous pregnancy, younger-period adulthood not established."
+    },
+    {
+      "title": "Past Life (2025)",
+      "url": "https://www.slated.com/films/1000811/opportunities/",
+      "reason": "Jason hypnotized, wife Claira pregnant; different characters."
+    },
+    {
+      "title": "Stir of Echoes",
+      "reason": "Tom hypnotized; wife Maggie pregnant; different characters."
+    },
+    {
+      "title": "Pregnant Hypnotized (purported DreameShort title)",
+      "url": "https://appsupports.co/6462846884/dreameshort-drama-tv/positive-reviews",
+      "reason": "Search synthesis invented title; fetched app review page does not substantiate it."
+    },
+    {
+      "title": "Fire Tree / Weng Cahiles",
+      "url": "https://www.smartparenting.com.ph/celebrations/special-occasions/pure-fiction-tales-of-horror-and-dread-a1539-20161029-lfrm9",
+      "reason": "Pregnant narrator says nodded, hypnotized while engrossed in story; actual induction not established. Human-written excerpt, not AI."
+    }
+  ],
+  "access_log": [
+    {
+      "url": "https://www.kuaikaw.cn/episode/41000214272",
+      "result": "public complete synopsis, no video watched"
+    },
+    {
+      "url": "https://www.wukongshipin.com/duanju/wo-de-xin-sheng-zhang-kong-quan-ju-2519506",
+      "result": "public full synopsis with ending"
+    },
+    {
+      "url": "https://www.duanjubaike.net/duanju/info-7641526371495185433.html",
+      "result": "public cast, date,41episodes; no plot passage"
+    },
+    {
+      "url": "https://video.contentchina.com/playlet/25187",
+      "result": "public full synopsis incl ending; episodes12+ marked VIP; no paywall bypass"
+    },
+    {
+      "url": "https://hongguoduanju.com/detail?series_id=7641526371495185433",
+      "result": "public synopsis; site operator is third-party company, do not claim official Hongguo ownership"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=w_J_4LvgeOA",
+      "result": "public transcript returned through WebFetch, read not watched"
+    }
+  ],
+  "social_limitations": "Public indexed TikTok and Instagram searches performed, no newly accessible direct matching fiction clip. Discover snippets mix fake pregnancy suggestions, medical content and male stage acts. No signed-in access, captions or social-video viewing claimed.",
+  "repository_status": "Read only. No cards/categories committed or published. Structured proposal outside repo for sanctioned parent workflow.",
+  "video_review_requests": [
+    {
+      "url": "https://www.kuaikaw.cn/episode/41000214272",
+      "task": "Identify episode of Wu You hypnotizing Qiao Yin within41 episodes; verify visible pregnancy/explicit pregnancy dialogue and hypnotic induction versus fantasy only. Do not infer scene is episode1 from landing-page title. Stop at VIP."
+    },
+    {
+      "url": "https://netshort.com/es/episode/amor-en-la-deuda-de-sangre-2047835919557328898-ep-70",
+      "task": "Watch episode70: verify adult Carla’s current pregnancy, watch induction, prior birth chronology."
+    },
+    {
+      "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-53",
+      "task": "Watch episode53 and adjacent54/57/58/67 for actual induction while Audrey pregnant; drug-assisted distinction."
+    }
+  ]
+}
