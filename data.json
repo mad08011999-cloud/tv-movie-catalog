@@ -11545,6 +11545,19 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "vertical-hypnosis-nov6",
+   "label": "Worldwide adult-female hypnosis Nov 6",
+   "kind": "local",
+   "share_url": "sources/vertical-hypnosis-nov6.json",
+   "description": "",
+   "dropped": [],
+   "check": {
+    "raw_count": 27,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -11626,10 +11639,11 @@
   "hypnosis-imdb-list-full-oct25": 482,
   "deep-refresh-oct30": 75,
   "deep-refresh-nov04": 61,
-  "hypnosis-bestsimilar-nov5": 206
+  "hypnosis-bestsimilar-nov5": 206,
+  "vertical-hypnosis-nov6": 27
  },
- "raw_total": 7437,
- "entry_count": 3717,
+ "raw_total": 7464,
+ "entry_count": 3725,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -11695,19 +11709,19 @@
    "key": "doctor-gain",
    "label": "Doctor hypnotizes female characters for personal gain",
    "legend_label": "Doctor controls female character for personal gain",
-   "entry_count": 43
+   "entry_count": 45
   },
   {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 118
+   "entry_count": 120
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 310
+   "entry_count": 311
   },
   {
    "key": "child-controller",
@@ -11737,7 +11751,7 @@
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 352
+   "entry_count": 355
   },
   {
    "key": "index-56",
@@ -11761,13 +11775,13 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 695
+   "entry_count": 700
   },
   {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 129
+   "entry_count": 130
   },
   {
    "key": "index-54",
@@ -11839,7 +11853,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 253
+   "entry_count": 256
   },
   {
    "key": "mom-partner-control",
@@ -11851,7 +11865,7 @@
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 109
+   "entry_count": 111
   },
   {
    "key": "mom-pregnancy",
@@ -11869,7 +11883,7 @@
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 445
+   "entry_count": 451
   },
   {
    "key": "parents-sleeping",
@@ -12163,7 +12177,7 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 143
+   "entry_count": 144
   },
   {
    "key": "therapist-wife",
@@ -28123,7 +28137,8 @@
     "round2",
     "round3",
     "kr-cn-hypnosis",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
     "xla62ucxbx02u5:56",
@@ -28133,7 +28148,8 @@
     "round2:3",
     "round3:3",
     "kr-cn-hypnosis:7",
-    "wife-hypnosis-oct15:7"
+    "wife-hypnosis-oct15:7",
+    "vertical-hypnosis-nov6:12"
    ],
    "index_only": false,
    "local_only": false,
@@ -28437,6 +28453,36 @@
      "already_married_note": "Yes — husband: her husband",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:12",
+     "source": "vertical-hypnosis-nov6",
+     "label": "被催眠的她 (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "被催眠的她",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Review names Zhang Qing, memory alteration by husband, drug/hypnosis control, pregnancy loss and maid Xiao Luo hypnotized by Jiangheng.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife",
+      "remarried-wife-control",
+      "partner-control",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "her-recap",
+       "url": "https://www.sina.cn/news/detail/5286941319760065.html"
+      }
+     ],
+     "distinct_story": false
     }
    ],
    "raw": {
@@ -28688,6 +28734,27 @@
       "loose fit"
      ],
      "fit_note": "Loose fit: identity of the hypnotist not firmly established"
+    },
+    "vertical-hypnosis-nov6:12": {
+     "title": "被催眠的她",
+     "match_title": "被催眠的她",
+     "year": "2026",
+     "categories": [
+      "wife",
+      "remarried-wife-control",
+      "partner-control",
+      "wife-hypnotized"
+     ],
+     "summary": "",
+     "note": "Review names Zhang Qing, memory alteration by husband, drug/hypnosis control, pregnancy loss and maid Xiao Luo hypnotized by Jiangheng.",
+     "sources": [
+      {
+       "label": "her-recap",
+       "url": "https://www.sina.cn/news/detail/5286941319760065.html",
+       "evidence_paraphrase": "Review names Zhang Qing, memory alteration by husband, drug/hypnosis control, pregnancy loss and maid Xiao Luo hypnotized by Jiangheng."
+      }
+     ],
+     "no_media": true
     }
    }
   },
@@ -301122,7 +301189,8 @@
     "round2",
     "round3",
     "kr-cn-hypnosis",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
     "xla62ucxbx02u5:1486",
@@ -301131,7 +301199,8 @@
     "round2:2",
     "round3:2",
     "kr-cn-hypnosis:10",
-    "wife-hypnosis-oct15:55"
+    "wife-hypnosis-oct15:55",
+    "vertical-hypnosis-nov6:13"
    ],
    "index_only": false,
    "local_only": false,
@@ -301387,6 +301456,36 @@
      "already_married_note": "Yes — husband: Qi Xia (wife Luo Fei)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:13",
+     "source": "vertical-hypnosis-nov6",
+     "label": "Listen To Your Husband (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Listen To Your Husband",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Synopsis explicitly identifies husband hypnotic control for property/thought control.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife",
+      "partner-control",
+      "other-control",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "https://hongguoduanju.com/detail?series_id=7516558325870234648",
+       "url": "https://hongguoduanju.com/detail?series_id=7516558325870234648"
+      }
+     ],
+     "distinct_story": false
     }
    ],
    "raw": {
@@ -301602,6 +301701,27 @@
      ],
      "already_married": "yes",
      "already_married_note": "Yes — husband: Qi Xia (wife Luo Fei)"
+    },
+    "vertical-hypnosis-nov6:13": {
+     "title": "Listen To Your Husband",
+     "match_title": "Listen To Your Husband",
+     "year": "2025",
+     "categories": [
+      "wife",
+      "partner-control",
+      "other-control",
+      "wife-hypnotized"
+     ],
+     "summary": "",
+     "note": "Synopsis explicitly identifies husband hypnotic control for property/thought control.",
+     "sources": [
+      {
+       "label": "https://hongguoduanju.com/detail?series_id=7516558325870234648",
+       "url": "https://hongguoduanju.com/detail?series_id=7516558325870234648",
+       "evidence_paraphrase": "Synopsis explicitly identifies husband hypnotic control for property/thought control."
+      }
+     ],
+     "no_media": true
     }
    }
   },
@@ -403759,20 +403879,57 @@
     {
      "label": "NetShort · episode page",
      "url": "https://netshort.com/episode/alpha-she-wasnt-the-one-1871119140218376193"
+    },
+    {
+     "label": "alpha-release",
+     "url": "https://www.prnewswire.com/news-releases/mega-matrix-inc-announced-that-modern-fantasy-miniseries-alpha-she-wasnt-the-one-now-streaming-on-flextv-302341094.html"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
-    "xla62ucxbx02u5:1979"
+    "xla62ucxbx02u5:1979",
+    "vertical-hypnosis-nov6:14"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
    "primary_copy": null,
-   "merged_from": [],
+   "merged_from": [
+    {
+     "rid": "vertical-hypnosis-nov6:14",
+     "source": "vertical-hypnosis-nov6",
+     "label": "Alpha, She Wasn't the One (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Alpha, She Wasn't the One",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Official company release names 25th birthday, hypnosis, memory restoration and happy reunion.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "forced-obedience",
+      "fantasy",
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "alpha-release",
+       "url": "https://www.prnewswire.com/news-releases/mega-matrix-inc-announced-that-modern-fantasy-miniseries-alpha-she-wasnt-the-one-now-streaming-on-flextv-302341094.html"
+      }
+     ],
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:1979": {
      "t": "Alpha, She Wasn't the One",
@@ -403806,6 +403963,27 @@
      ],
      "fog": "villain",
      "verticalShort": true
+    },
+    "vertical-hypnosis-nov6:14": {
+     "title": "Alpha, She Wasn't the One",
+     "match_title": "Alpha, She Wasn't the One",
+     "year": "2024",
+     "categories": [
+      "forced-obedience",
+      "fantasy",
+      "human",
+      "other-control"
+     ],
+     "summary": "",
+     "note": "Official company release names 25th birthday, hypnosis, memory restoration and happy reunion.",
+     "sources": [
+      {
+       "label": "alpha-release",
+       "url": "https://www.prnewswire.com/news-releases/mega-matrix-inc-announced-that-modern-fantasy-miniseries-alpha-she-wasnt-the-one-now-streaming-on-flextv-302341094.html",
+       "evidence_paraphrase": "Official company release names 25th birthday, hypnosis, memory restoration and happy reunion."
+      }
+     ],
+     "no_media": true
     }
    }
   },
@@ -405412,7 +405590,7 @@
    "kids_together": "unknown",
    "married": "no",
    "pregnant_end": "yes",
-   "pregnant_end_note": "Pregnant from the beach-escape arc on; ep 58 'likely pregnant' while hypnotized/captive; ep 62 reveals pregnancy; eps 74–75 baby named after Caspian (the ep 72 and 74 summaries suggest Caspian may not survive — unconfirmed).",
+   "pregnant_end_note": "Final public episode 75 explicitly refers to Audrey’s unborn child and her plan to name it after Caspian.",
    "evidence": "NetShort per-episode guides (one platform); DramaKing listing seen only in search results (403 on fetch)",
    "source_conflict": "The earlier catalog entry gave the year as 2024 (approximate) and 'eps 54–71' for the hypnosis arc; NetShort series id timestamp suggests ~May 2025 (inference). NetShort's page-1 summaries for eps 5–18 are unnumbered, so only eps 1–4, 19–20 are attributed.",
    "fit_note": "Pregnant adult woman hypnotized by an obsessive suitor.",
@@ -405453,6 +405631,10 @@
     {
      "label": "DramaKing listing (Devil's Triangle alias; seen via search)",
      "url": "https://www.dramaking.vip/drama/got-pregnant-by-billionaire-brothers-41000122140"
+    },
+    {
+     "label": "brothers-ending",
+     "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-75"
     }
    ],
    "youtube_ids": [
@@ -405461,12 +405643,15 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "round3",
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
     "xla62ucxbx02u5:1994",
     "round3:16",
-    "deep-refresh-oct30:22"
+    "deep-refresh-oct30:22",
+    "vertical-hypnosis-nov6:9",
+    "vertical-hypnosis-nov6:26"
    ],
    "index_only": false,
    "local_only": false,
@@ -405665,6 +405850,92 @@
      "evidence": "Episode pages",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:9",
+     "source": "vertical-hypnosis-nov6",
+     "label": "Got Pregnant by Billionaire Brothers (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Got Pregnant by Billionaire Brothers",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Episode 75 explicitly calls her child unborn and names a possible future second child.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "love",
+      "pregnant-strict"
+     ],
+     "sources": [
+      {
+       "label": "brothers-ending",
+       "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-75"
+      }
+     ],
+     "distinct_story": false
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:26",
+     "source": "vertical-hypnosis-nov6",
+     "label": "Got Pregnant by Billionaire Brothers (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Got Pregnant by Billionaire Brothers",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "love",
+      "pregnant-strict"
+     ],
+     "sources": [
+      {
+       "label": "NetShort · EP 56",
+       "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-56"
+      },
+      {
+       "label": "NetShort · EP 54",
+       "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-54"
+      },
+      {
+       "label": "NetShort · EP 61–75",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/4"
+      },
+      {
+       "label": "DramaBox listing",
+       "url": "https://www.dramaboxapp.com/tag/63048/76"
+      },
+      {
+       "label": "Series promo",
+       "url": "https://youtube.com/watch?v=7SvA6duQSNg"
+      },
+      {
+       "label": "NetShort eps 41-60",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/3"
+      },
+      {
+       "label": "NetShort eps 1-20",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/1"
+      },
+      {
+       "label": "DramaKing listing (Devil's Triangle alias; seen via search)",
+       "url": "https://www.dramaking.vip/drama/got-pregnant-by-billionaire-brothers-41000122140"
+      }
+     ],
+     "pregnant_end": "yes",
+     "pregnant_end_note": "Final public episode 75 explicitly refers to Audrey’s unborn child and her plan to name it after Caspian.",
+     "distinct_story": false
     }
    ],
    "raw": {
@@ -405850,6 +406121,76 @@
      ],
      "evidence": "Episode pages",
      "confidence_flag": "Medium · 2 sources"
+    },
+    "vertical-hypnosis-nov6:9": {
+     "title": "Got Pregnant by Billionaire Brothers",
+     "match_title": "Got Pregnant by Billionaire Brothers",
+     "year": "2024",
+     "categories": [
+      "love",
+      "pregnant-strict"
+     ],
+     "summary": "",
+     "note": "Episode 75 explicitly calls her child unborn and names a possible future second child.",
+     "sources": [
+      {
+       "label": "brothers-ending",
+       "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-75",
+       "evidence_paraphrase": "Episode 75 explicitly calls her child unborn and names a possible future second child."
+      }
+     ],
+     "no_media": true
+    },
+    "vertical-hypnosis-nov6:26": {
+     "title": "Got Pregnant by Billionaire Brothers",
+     "match_title": "Got Pregnant by Billionaire Brothers",
+     "year": "2024",
+     "categories": [
+      "love",
+      "pregnant-strict"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "NetShort · EP 56",
+       "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-56"
+      },
+      {
+       "label": "NetShort · EP 54",
+       "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-54"
+      },
+      {
+       "label": "NetShort · EP 61–75",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/4"
+      },
+      {
+       "label": "DramaBox listing",
+       "url": "https://www.dramaboxapp.com/tag/63048/76"
+      },
+      {
+       "label": "Series promo",
+       "url": "https://youtube.com/watch?v=7SvA6duQSNg"
+      },
+      {
+       "label": "NetShort eps 41-60",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/3"
+      },
+      {
+       "label": "NetShort eps 1-20",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/1"
+      },
+      {
+       "label": "DramaKing listing (Devil's Triangle alias; seen via search)",
+       "url": "https://www.dramaking.vip/drama/got-pregnant-by-billionaire-brothers-41000122140"
+      }
+     ],
+     "no_media": true,
+     "override_fields": [
+      "pregnant_end",
+      "pregnant_end_note"
+     ],
+     "pregnant_end": "yes",
+     "pregnant_end_note": "Final public episode 75 explicitly refers to Audrey’s unborn child and her plan to name it after Caspian."
     }
    }
   },
@@ -405893,16 +406234,23 @@
     {
      "label": "NetShort · episode 83",
      "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-83"
+    },
+    {
+     "label": "snake-ending",
+     "url": "https://netshort.com/full-episodes/snake-year-salvation-ceos-bargain-bride-1883854823432351745/page/4"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
     "xla62ucxbx02u5:1995",
-    "kr-cn-hypnosis:53"
+    "kr-cn-hypnosis:53",
+    "vertical-hypnosis-nov6:10",
+    "vertical-hypnosis-nov6:27"
    ],
    "index_only": false,
    "local_only": false,
@@ -405975,6 +406323,84 @@
      "kids_status": "unknown",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:10",
+     "source": "vertical-hypnosis-nov6",
+     "label": "Snake Year Salvation: CEO's Bargain Bride (c. 2024–26)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Snake Year Salvation: CEO's Bargain Bride",
+     "subtitle": "",
+     "year": "c. 2024–26",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "61 family confusion; 62 hypnosis challenge; 63–65 memory rescue; 66 wife and mother of their twins.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "love",
+      "pregnant-strict",
+      "forced-obedience",
+      "mother",
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "snake-ending",
+       "url": "https://netshort.com/full-episodes/snake-year-salvation-ceos-bargain-bride-1883854823432351745/page/4"
+      }
+     ],
+     "distinct_story": false
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:27",
+     "source": "vertical-hypnosis-nov6",
+     "label": "Snake Year Salvation: CEO's Bargain Bride (c. 2024–26)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Snake Year Salvation: CEO's Bargain Bride",
+     "subtitle": "",
+     "year": "c. 2024–26",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "love",
+      "pregnant-strict",
+      "forced-obedience",
+      "mother",
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "NetShort · episode 70",
+       "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-70"
+      },
+      {
+       "label": "NetShort · episode 69",
+       "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-69"
+      },
+      {
+       "label": "NetShort · episode 79",
+       "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-new-6-2047835919481831425-ep-79"
+      },
+      {
+       "label": "NetShort · episode 83",
+       "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-83"
+      }
+     ],
+     "kids_together": "yes",
+     "kids_together_note": "Current public NetShort episode 66 identifies Dora as Jason’s wife and mother of their twins. Existing twins, not proof of a new birth at ending.",
+     "distinct_story": false
     }
    ],
    "raw": {
@@ -406034,8 +406460,72 @@
      "kids_status": "unknown",
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "vertical-hypnosis-nov6:10": {
+     "title": "Snake Year Salvation: CEO's Bargain Bride",
+     "match_title": "Snake Year Salvation: CEO's Bargain Bride",
+     "year": "c. 2024–26",
+     "categories": [
+      "love",
+      "pregnant-strict",
+      "forced-obedience",
+      "mother",
+      "human",
+      "other-control"
+     ],
+     "summary": "",
+     "note": "61 family confusion; 62 hypnosis challenge; 63–65 memory rescue; 66 wife and mother of their twins.",
+     "sources": [
+      {
+       "label": "snake-ending",
+       "url": "https://netshort.com/full-episodes/snake-year-salvation-ceos-bargain-bride-1883854823432351745/page/4",
+       "evidence_paraphrase": "61 family confusion; 62 hypnosis challenge; 63–65 memory rescue; 66 wife and mother of their twins."
+      }
+     ],
+     "no_media": true
+    },
+    "vertical-hypnosis-nov6:27": {
+     "title": "Snake Year Salvation: CEO's Bargain Bride",
+     "match_title": "Snake Year Salvation: CEO's Bargain Bride",
+     "year": "c. 2024–26",
+     "categories": [
+      "love",
+      "pregnant-strict",
+      "forced-obedience",
+      "mother",
+      "human",
+      "other-control"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "NetShort · episode 70",
+       "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-70"
+      },
+      {
+       "label": "NetShort · episode 69",
+       "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-69"
+      },
+      {
+       "label": "NetShort · episode 79",
+       "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-new-6-2047835919481831425-ep-79"
+      },
+      {
+       "label": "NetShort · episode 83",
+       "url": "https://netshort.com/episode/snake-year-salvation-ceos-bargain-bride-2047835919481831425-ep-83"
+      }
+     ],
+     "no_media": true,
+     "override_fields": [
+      "kids_together",
+      "kids_together_note"
+     ],
+     "kids_together": "yes",
+     "kids_together_note": "Current public NetShort episode 66 identifies Dora as Jason’s wife and mother of their twins. Existing twins, not proof of a new birth at ending."
     }
-   }
+   },
+   "kids_together": "yes",
+   "kids_together_note": "Current public NetShort episode 66 identifies Dora as Jason’s wife and mother of their twins. Existing twins, not proof of a new birth at ending."
   },
   {
    "id": 1981,
@@ -406098,18 +406588,24 @@
     {
      "label": "ReelShort · Spanish catalog 2",
      "url": "https://www.reelshort.com/search?keywords=te%20extra%C3%B1o%20despues%20del%20adi%C3%B3s&page=7&uniqueid=364df0698215"
+    },
+    {
+     "label": "https://everydrama.com/drama/sweet-strategy-mr-vance-s-ex-is-too-proud-31174",
+     "url": "https://everydrama.com/drama/sweet-strategy-mr-vance-s-ex-is-too-proud-31174"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
     "xla62ucxbx02u5:1996",
     "ig6qlxqxoxvcxla:157",
-    "wife-hypnosis-oct15:66"
+    "wife-hypnosis-oct15:66",
+    "vertical-hypnosis-nov6:18"
    ],
    "index_only": false,
    "local_only": false,
@@ -406226,6 +406722,40 @@
      "already_married_note": "Yes — husband: Vincent Vance (wife Elena)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:18",
+     "source": "vertical-hypnosis-nov6",
+     "label": "Sweet Strategy: Mr. Vance's Ex Is Too Proud (Unconfirmed)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+     "subtitle": "",
+     "year": "Unconfirmed",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Hypnotized into sleepwalking fire; pregnancy discovered abroad; returns with son Leo.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "love",
+      "wife",
+      "human",
+      "crime",
+      "mother",
+      "other-control",
+      "forced-obedience",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "https://everydrama.com/drama/sweet-strategy-mr-vance-s-ex-is-too-proud-31174",
+       "url": "https://everydrama.com/drama/sweet-strategy-mr-vance-s-ex-is-too-proud-31174"
+      }
+     ],
+     "distinct_story": false
     }
    ],
    "raw": {
@@ -406327,6 +406857,31 @@
      "kids_together": "not stated",
      "kids_status": "not stated",
      "kids_note": "not stated"
+    },
+    "vertical-hypnosis-nov6:18": {
+     "title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+     "match_title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+     "year": "Unconfirmed",
+     "categories": [
+      "love",
+      "wife",
+      "human",
+      "crime",
+      "mother",
+      "other-control",
+      "forced-obedience",
+      "wife-hypnotized"
+     ],
+     "summary": "",
+     "note": "Hypnotized into sleepwalking fire; pregnancy discovered abroad; returns with son Leo.",
+     "sources": [
+      {
+       "label": "https://everydrama.com/drama/sweet-strategy-mr-vance-s-ex-is-too-proud-31174",
+       "url": "https://everydrama.com/drama/sweet-strategy-mr-vance-s-ex-is-too-proud-31174",
+       "evidence_paraphrase": "Hypnotized into sleepwalking fire; pregnancy discovered abroad; returns with son Leo."
+      }
+     ],
+     "no_media": true
     }
    }
   },
@@ -406495,20 +407050,58 @@
     {
      "label": "GoodShort · official synopsis",
      "url": "https://www.goodshort.com/tag/john-ashton-call-the-midwife-playlets-videos"
+    },
+    {
+     "label": "fake-heiress",
+     "url": "https://www.goodshort.com/drama/they-called-me-the-fake-heiress-but-my-birthright-was-far-greater-31001787732"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
-    "xla62ucxbx02u5:1998"
+    "xla62ucxbx02u5:1998",
+    "vertical-hypnosis-nov6:19"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
    "primary_copy": null,
-   "merged_from": [],
+   "merged_from": [
+    {
+     "rid": "vertical-hypnosis-nov6:19",
+     "source": "vertical-hypnosis-nov6",
+     "label": "They Called Me the Fake Heiress, But My Birthright Was Far Greater (Unconfirmed)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "They Called Me the Fake Heiress, But My Birthright Was Far Greater",
+     "subtitle": "",
+     "year": "Unconfirmed",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Official GoodShort synopsis explicitly reveals hypnosis and pills; page lists 43 episodes.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "love",
+      "partner-control",
+      "forced-obedience",
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "fake-heiress",
+       "url": "https://www.goodshort.com/drama/they-called-me-the-fake-heiress-but-my-birthright-was-far-greater-31001787732"
+      }
+     ],
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:1998": {
      "t": "They Called Me the Fake Heiress, But My Birthright Was Far Greater",
@@ -406536,6 +407129,28 @@
      "loveSweep": true,
      "verticalShortSweep": true,
      "verticalShort": true
+    },
+    "vertical-hypnosis-nov6:19": {
+     "title": "They Called Me the Fake Heiress, But My Birthright Was Far Greater",
+     "match_title": "They Called Me the Fake Heiress, But My Birthright Was Far Greater",
+     "year": "Unconfirmed",
+     "categories": [
+      "love",
+      "partner-control",
+      "forced-obedience",
+      "human",
+      "other-control"
+     ],
+     "summary": "",
+     "note": "Official GoodShort synopsis explicitly reveals hypnosis and pills; page lists 43 episodes.",
+     "sources": [
+      {
+       "label": "fake-heiress",
+       "url": "https://www.goodshort.com/drama/they-called-me-the-fake-heiress-but-my-birthright-was-far-greater-31001787732",
+       "evidence_paraphrase": "Official GoodShort synopsis explicitly reveals hypnosis and pills; page lists 43 episodes."
+      }
+     ],
+     "no_media": true
     }
    }
   },
@@ -459385,11 +460000,13 @@
    "youtube_ids": [],
    "from_sources": [
     "round2",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
     "round2:4",
-    "wife-hypnosis-oct15:78"
+    "wife-hypnosis-oct15:78",
+    "vertical-hypnosis-nov6:11"
    ],
    "index_only": false,
    "local_only": true,
@@ -459465,6 +460082,35 @@
      "already_married_note": "Yes — husband: James (wife Emily)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:11",
+     "source": "vertical-hypnosis-nov6",
+     "label": "Love in Oblivion (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Love in Oblivion",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "1:22 therapy; 6:21 hypnosis manipulation; 12:24 revenge; 13:08 explicitly Sarah hypnotized to attack Emily; taped sessions reveal plan.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife",
+      "adult-hypnosis",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "oblivion-transcript",
+       "url": "https://www.myverticalobsession.com/117-dramapops-love-in-oblivion/"
+      }
+     ],
+     "distinct_story": false
     }
    ],
    "raw": {
@@ -459522,6 +460168,26 @@
      ],
      "already_married": "yes",
      "already_married_note": "Yes — husband: James (wife Emily)"
+    },
+    "vertical-hypnosis-nov6:11": {
+     "title": "Love in Oblivion",
+     "match_title": "Love in Oblivion",
+     "year": "2026",
+     "categories": [
+      "wife",
+      "adult-hypnosis",
+      "wife-hypnotized"
+     ],
+     "summary": "",
+     "note": "1:22 therapy; 6:21 hypnosis manipulation; 12:24 revenge; 13:08 explicitly Sarah hypnotized to attack Emily; taped sessions reveal plan.",
+     "sources": [
+      {
+       "label": "oblivion-transcript",
+       "url": "https://www.myverticalobsession.com/117-dramapops-love-in-oblivion/",
+       "evidence_paraphrase": "1:22 therapy; 6:21 hypnosis manipulation; 12:24 revenge; 13:08 explicitly Sarah hypnotized to attack Emily; taped sessions reveal plan."
+      }
+     ],
+     "no_media": true
     }
    }
   },
@@ -460184,13 +460850,13 @@
    "character": "Su Wan (Yang Zhixuan), husband Lin Yue (Zhang Haowen), rival Song Yanzhi",
    "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
    "note": "Verification: Confirmed by listing synopsis: hypnosis memory wipe of a married woman by a rival who impersonates the husband. Not confirmed: any intimate scene (viewer comment suggests none of note). Ages are not stated in the sources read; no minor is indicated.",
-   "pregnancy_outcome": "not pregnant",
-   "pregnancy_note": "not mentioned",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
    "kids_status": "unknown",
-   "kids_together": "no",
+   "kids_together": "unknown",
    "married": "yes",
-   "pregnant_end": "no",
-   "pregnant_end_note": "not mentioned",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
    "evidence": "3 listings (Hongguo, Duanjubaike, aggregator); synopsis identical across them, no episode detail",
    "source_conflict": "Aggregator suju.cc blurb says the husband was 'killed' and she forgets him; Hongguo/Duanjubaike say he is imprisoned. Duanjubaike air date 26 Jun 2026.",
    "fit_note": "Hypnotized married woman, false-husband setup; no pregnancy.",
@@ -460220,11 +460886,14 @@
    "youtube_ids": [],
    "from_sources": [
     "round3",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
     "round3:1",
-    "wife-hypnosis-oct15:79"
+    "wife-hypnosis-oct15:79",
+    "vertical-hypnosis-nov6:20",
+    "vertical-hypnosis-nov6:22"
    ],
    "index_only": false,
    "local_only": true,
@@ -460302,6 +460971,87 @@
      "already_married_note": "Yes — husband: Lin Yue (wife Su Wan)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:20",
+     "source": "vertical-hypnosis-nov6",
+     "label": "醒来时，我眼里不是他 (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "醒来时，我眼里不是他",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "  ",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife",
+      "adult-hypnosis",
+      "love",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "Hongguo (红果短剧) series page",
+       "url": "https://hongguoduanju.com/detail?series_id=7655643065494801470"
+      },
+      {
+       "label": "短剧百科 (Duanjubaike)",
+       "url": "https://www.duanjubaike.net/duanju/info-7655643065494801470.html"
+      },
+      {
+       "label": "速剧 listing",
+       "url": "https://m.suju.cc/en/showview/pq1vOu.html"
+      }
+     ],
+     "distinct_story": false
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:22",
+     "source": "vertical-hypnosis-nov6",
+     "label": "醒来时，我眼里不是他 (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "醒来时，我眼里不是他",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife",
+      "adult-hypnosis",
+      "love",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "Hongguo (红果短剧) series page",
+       "url": "https://hongguoduanju.com/detail?series_id=7655643065494801470"
+      },
+      {
+       "label": "短剧百科 (Duanjubaike)",
+       "url": "https://www.duanjubaike.net/duanju/info-7655643065494801470.html"
+      },
+      {
+       "label": "速剧 listing",
+       "url": "https://m.suju.cc/en/showview/pq1vOu.html"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
+     "kids_together": "unknown",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
+     "distinct_story": false
     }
    ],
    "raw": {
@@ -460361,6 +461111,73 @@
      ],
      "already_married": "yes",
      "already_married_note": "Yes — husband: Lin Yue (wife Su Wan)"
+    },
+    "vertical-hypnosis-nov6:20": {
+     "title": "醒来时，我眼里不是他",
+     "match_title": "醒来时，我眼里不是他",
+     "year": "2026",
+     "categories": [
+      "wife",
+      "adult-hypnosis",
+      "love",
+      "wife-hypnotized"
+     ],
+     "summary": "",
+     "note": "  ",
+     "sources": [
+      {
+       "label": "Hongguo (红果短剧) series page",
+       "url": "https://hongguoduanju.com/detail?series_id=7655643065494801470"
+      },
+      {
+       "label": "短剧百科 (Duanjubaike)",
+       "url": "https://www.duanjubaike.net/duanju/info-7655643065494801470.html"
+      },
+      {
+       "label": "速剧 listing",
+       "url": "https://m.suju.cc/en/showview/pq1vOu.html"
+      }
+     ],
+     "no_media": true
+    },
+    "vertical-hypnosis-nov6:22": {
+     "title": "醒来时，我眼里不是他",
+     "match_title": "醒来时，我眼里不是他",
+     "year": "2026",
+     "categories": [
+      "wife",
+      "adult-hypnosis",
+      "love",
+      "wife-hypnotized"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "Hongguo (红果短剧) series page",
+       "url": "https://hongguoduanju.com/detail?series_id=7655643065494801470"
+      },
+      {
+       "label": "短剧百科 (Duanjubaike)",
+       "url": "https://www.duanjubaike.net/duanju/info-7655643065494801470.html"
+      },
+      {
+       "label": "速剧 listing",
+       "url": "https://m.suju.cc/en/showview/pq1vOu.html"
+      }
+     ],
+     "no_media": true,
+     "override_fields": [
+      "pregnancy_outcome",
+      "pregnant_end",
+      "pregnancy_note",
+      "pregnant_end_note",
+      "kids_together"
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
+     "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
+     "kids_together": "unknown"
     }
    }
   },
@@ -460556,16 +461373,16 @@
    "character": "Lin Mengran, husband (named Zhou Ming in the Duanjubaike credits; Xiao Zhijie in aggregator credits), friend Zhang Ting",
    "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
    "note": "Verification: Hypnosis element only partly verified (aggregator text). Not confirmed: pregnancy or any intimate scene. Ages are not stated in the sources read; no minor is indicated.",
-   "pregnancy_outcome": "not pregnant",
-   "pregnancy_note": "not mentioned",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
    "tags": [
     "loose fit"
    ],
    "kids_status": "unknown",
-   "kids_together": "no",
+   "kids_together": "unknown",
    "married": "yes",
-   "pregnant_end": "no",
-   "pregnant_end_note": "not mentioned",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
    "evidence": "3 listings; hypnosis appears only in aggregator blurbs/recaps, not in the Duanjubaike synopsis",
    "source_conflict": "Duanjubaike credits (丁海霞 as Lin Mengran, 孟祥鑫 as Zhou Ming) and its synopsis (death loop, no hypnosis) differ from the aggregator blurb/credits (肖志杰 the hypnotist husband); air date 29 Sep 2025 (Duanjubaike) vs 12 Oct 2025 (one aggregator).",
    "fit_note": "Loose fit: hypnotist husband claim is aggregator-only; main premise is a time/death loop thriller. The characters' ages are not stated.",
@@ -460589,16 +461406,23 @@
     {
      "label": "语谷短剧 (ep 41)",
      "url": "https://yugudj.cc/cn/ehtml/WeRD/41.html"
+    },
+    {
+     "label": "https://rewodj.cc/catalog/llLg.html",
+     "url": "https://rewodj.cc/catalog/llLg.html"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "round3",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
     "round3:5",
-    "wife-hypnosis-oct15:81"
+    "wife-hypnosis-oct15:81",
+    "vertical-hypnosis-nov6:16",
+    "vertical-hypnosis-nov6:23"
    ],
    "index_only": false,
    "local_only": true,
@@ -460678,6 +461502,77 @@
      "already_married_note": "Yes — husband: Lin Mengran's husband",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:16",
+     "source": "vertical-hypnosis-nov6",
+     "label": "第一百零一次睁眼 (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "第一百零一次睁眼",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Search-index synopsis identifies newlywed wife and hypnotist husband; insufficient family ending evidence.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife",
+      "partner-control",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "https://rewodj.cc/catalog/llLg.html",
+       "url": "https://rewodj.cc/catalog/llLg.html"
+      }
+     ],
+     "distinct_story": false
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:23",
+     "source": "vertical-hypnosis-nov6",
+     "label": "第一百零一次睁眼 (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "第一百零一次睁眼",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife",
+      "partner-control",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "短剧百科 第一百零一次睜眼",
+       "url": "https://duanjubaike.org/zh-Hant/drama/12906"
+      },
+      {
+       "label": "熱窩短劇 listing (hypnotist blurb)",
+       "url": "https://hk.rewodj.cc/catalog/llLg.html"
+      },
+      {
+       "label": "语谷短剧 (ep 41)",
+       "url": "https://yugudj.cc/cn/ehtml/WeRD/41.html"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
+     "kids_together": "unknown",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
+     "distinct_story": false
     }
    ],
    "raw": {
@@ -460739,6 +461634,64 @@
      ],
      "already_married": "yes",
      "already_married_note": "Yes — husband: Lin Mengran's husband"
+    },
+    "vertical-hypnosis-nov6:16": {
+     "title": "第一百零一次睁眼",
+     "match_title": "第一百零一次睁眼",
+     "year": "2025",
+     "categories": [
+      "wife",
+      "partner-control",
+      "wife-hypnotized"
+     ],
+     "summary": "",
+     "note": "Search-index synopsis identifies newlywed wife and hypnotist husband; insufficient family ending evidence.",
+     "sources": [
+      {
+       "label": "https://rewodj.cc/catalog/llLg.html",
+       "url": "https://rewodj.cc/catalog/llLg.html",
+       "evidence_paraphrase": "Search-index synopsis identifies newlywed wife and hypnotist husband; insufficient family ending evidence."
+      }
+     ],
+     "no_media": true
+    },
+    "vertical-hypnosis-nov6:23": {
+     "title": "第一百零一次睁眼",
+     "match_title": "第一百零一次睁眼",
+     "year": "2025",
+     "categories": [
+      "wife",
+      "partner-control",
+      "wife-hypnotized"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "短剧百科 第一百零一次睜眼",
+       "url": "https://duanjubaike.org/zh-Hant/drama/12906"
+      },
+      {
+       "label": "熱窩短劇 listing (hypnotist blurb)",
+       "url": "https://hk.rewodj.cc/catalog/llLg.html"
+      },
+      {
+       "label": "语谷短剧 (ep 41)",
+       "url": "https://yugudj.cc/cn/ehtml/WeRD/41.html"
+      }
+     ],
+     "no_media": true,
+     "override_fields": [
+      "pregnancy_outcome",
+      "pregnant_end",
+      "pregnancy_note",
+      "pregnant_end_note",
+      "kids_together"
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
+     "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
+     "kids_together": "unknown"
     }
    }
   },
@@ -460860,13 +461813,13 @@
    "character": "Shu Yang / 舒漾 (Zhang Yutian), Qi Yan / 祁砚 (Li Muheng)",
    "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
    "note": "Verification: Confirmed: hypnosis memory loss and a later marriage to the man who is concealing his identity. Not confirmed: pregnancy, any intimate scene. Ages are not stated in the sources read; no minor is indicated.",
-   "pregnancy_outcome": "not pregnant",
-   "pregnancy_note": "not mentioned",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
    "kids_status": "unknown",
-   "kids_together": "no",
+   "kids_together": "unknown",
    "married": "yes",
-   "pregnant_end": "no",
-   "pregnant_end_note": "not mentioned",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
    "evidence": "3 sources (MyDramaList, Duanjubaike, Hongguo); synopsis only",
    "source_conflict": "Dates 12 May vs 17 May 2025; character names rendered differently (MyDramaList Qi Yan/Shu Yang vs Duanjubaike 祁砚/舒漾). MyDramaList says Qi Yan's family feud led to the kidnapping; Duanjubaike says Qi Yan hypnotized her himself — who performs the hypnosis is not clear.",
    "fit_note": "Hypnotized woman + marriage by a man hiding the past.",
@@ -460892,16 +461845,99 @@
    ],
    "youtube_ids": [],
    "from_sources": [
-    "round3"
+    "round3",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
-    "round3:7"
+    "round3:7",
+    "vertical-hypnosis-nov6:21",
+    "vertical-hypnosis-nov6:24"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
    "primary_copy": null,
-   "merged_from": [],
+   "merged_from": [
+    {
+     "rid": "vertical-hypnosis-nov6:21",
+     "source": "vertical-hypnosis-nov6",
+     "label": "私尝 (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "私尝",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "  ",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage",
+      "adult-hypnosis",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList (Format: Vertical Series)",
+       "url": "https://mydramalist.com/797692-private-tasting"
+      },
+      {
+       "label": "短剧百科 私尝",
+       "url": "https://duanjubaike.cn/drama/23613"
+      },
+      {
+       "label": "Hongguo 私尝",
+       "url": "https://hongguoduanju.com/detail?series_id=7503469206143241240"
+      }
+     ],
+     "distinct_story": false
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:24",
+     "source": "vertical-hypnosis-nov6",
+     "label": "私尝 (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "私尝",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage",
+      "adult-hypnosis",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList (Format: Vertical Series)",
+       "url": "https://mydramalist.com/797692-private-tasting"
+      },
+      {
+       "label": "短剧百科 私尝",
+       "url": "https://duanjubaike.cn/drama/23613"
+      },
+      {
+       "label": "Hongguo 私尝",
+       "url": "https://hongguoduanju.com/detail?series_id=7503469206143241240"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
+     "kids_together": "unknown",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "round3:7": {
      "title": "私尝",
@@ -460947,6 +461983,71 @@
      "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
      "catalog_ids": [],
      "research_no": 7
+    },
+    "vertical-hypnosis-nov6:21": {
+     "title": "私尝",
+     "match_title": "私尝",
+     "year": "2025",
+     "categories": [
+      "hypnotized-marriage",
+      "adult-hypnosis",
+      "love"
+     ],
+     "summary": "",
+     "note": "  ",
+     "sources": [
+      {
+       "label": "MyDramaList (Format: Vertical Series)",
+       "url": "https://mydramalist.com/797692-private-tasting"
+      },
+      {
+       "label": "短剧百科 私尝",
+       "url": "https://duanjubaike.cn/drama/23613"
+      },
+      {
+       "label": "Hongguo 私尝",
+       "url": "https://hongguoduanju.com/detail?series_id=7503469206143241240"
+      }
+     ],
+     "no_media": true
+    },
+    "vertical-hypnosis-nov6:24": {
+     "title": "私尝",
+     "match_title": "私尝",
+     "year": "2025",
+     "categories": [
+      "hypnotized-marriage",
+      "adult-hypnosis",
+      "love"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "MyDramaList (Format: Vertical Series)",
+       "url": "https://mydramalist.com/797692-private-tasting"
+      },
+      {
+       "label": "短剧百科 私尝",
+       "url": "https://duanjubaike.cn/drama/23613"
+      },
+      {
+       "label": "Hongguo 私尝",
+       "url": "https://hongguoduanju.com/detail?series_id=7503469206143241240"
+      }
+     ],
+     "no_media": true,
+     "override_fields": [
+      "pregnancy_outcome",
+      "pregnant_end",
+      "pregnancy_note",
+      "pregnant_end_note",
+      "kids_together"
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
+     "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
+     "kids_together": "unknown"
     }
    }
   },
@@ -460962,16 +462063,16 @@
    "character": "Anne/Ana, husband Luke/León, mistress Ximena, trainer Felix/Fabián",
    "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
    "note": "Verification: Confirmed only through ShortMax mirror text: hypnosis, insurance plot, trainer entrapment. Not confirmed: who is hypnotized or whether she is assaulted; this was the round-2 'could not corroborate' lead — now listed on two ShortMax-mirror pages and MicroDramaList.",
-   "pregnancy_outcome": "not pregnant",
-   "pregnancy_note": "not mentioned",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
    "tags": [
     "loose fit"
    ],
    "kids_status": "unknown",
-   "kids_together": "no",
+   "kids_together": "unknown",
    "married": "yes",
-   "pregnant_end": "no",
-   "pregnant_end_note": "not mentioned",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
    "evidence": "Single source — Single platform (ShortMax mirror site, EN + ES pages); MicroDramaList lists the title but I could not open its detail page",
    "source_conflict": "Series ids differ between the English (29070) and Spanish (29099) mirror pages; synopses agree. A different mirror shows 'Rainy Night Scheme' under id 17127 (same alias). No Chinese original title found.",
    "fit_note": "Borderline: Hypnosis is in the title and plot but the mechanism (who hypnotizes whom) is not spelled out. Single source.",
@@ -460996,16 +462097,23 @@
     {
      "label": "MicroDramaList search (title listed)",
      "url": "https://microdramalist.com/search?q=hypno"
+    },
+    {
+     "label": "https://findrama.ai/shows/dubbed-beneath-the-hypnosis-kj3tht",
+     "url": "https://findrama.ai/shows/dubbed-beneath-the-hypnosis-kj3tht"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "round3",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
     "round3:8",
-    "wife-hypnosis-oct15:82"
+    "wife-hypnosis-oct15:82",
+    "vertical-hypnosis-nov6:15",
+    "vertical-hypnosis-nov6:25"
    ],
    "index_only": false,
    "local_only": true,
@@ -461086,6 +462194,79 @@
      "already_married_note": "Yes — husband: Luke (wife Anne)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:15",
+     "source": "vertical-hypnosis-nov6",
+     "label": "Beneath the Hypnosis (Date unverified)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Beneath the Hypnosis",
+     "subtitle": "",
+     "year": "Date unverified",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Anne/Luke/Felix conspiracy; no explicit pregnancy or children outcome.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife",
+      "cheat-control",
+      "partner-commissioned",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "https://findrama.ai/shows/dubbed-beneath-the-hypnosis-kj3tht",
+       "url": "https://findrama.ai/shows/dubbed-beneath-the-hypnosis-kj3tht"
+      }
+     ],
+     "distinct_story": false
+    },
+    {
+     "rid": "vertical-hypnosis-nov6:25",
+     "source": "vertical-hypnosis-nov6",
+     "label": "Beneath the Hypnosis (Date unverified)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Beneath the Hypnosis",
+     "subtitle": "",
+     "year": "Date unverified",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife",
+      "cheat-control",
+      "partner-commissioned",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "ShortMax mirror (EN) Beneath the Hypnosis",
+       "url": "https://www.shorttv.live/episodes/dubbedrainy-night-scheme-29070"
+      },
+      {
+       "label": "ShortMax mirror (ES) Bajo la Hipnosis",
+       "url": "https://www.shorttv.live/es/drama/dobladola-trampa-del-deseo-secretos-bajo-la-lluvia-29099"
+      },
+      {
+       "label": "MicroDramaList search (title listed)",
+       "url": "https://microdramalist.com/search?q=hypno"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
+     "kids_together": "unknown",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
+     "distinct_story": false
     }
    ],
    "raw": {
@@ -461148,6 +462329,66 @@
      ],
      "already_married": "yes",
      "already_married_note": "Yes — husband: Luke (wife Anne)"
+    },
+    "vertical-hypnosis-nov6:15": {
+     "title": "Beneath the Hypnosis",
+     "match_title": "Beneath the Hypnosis",
+     "year": "Date unverified",
+     "categories": [
+      "wife",
+      "cheat-control",
+      "partner-commissioned",
+      "wife-hypnotized"
+     ],
+     "summary": "",
+     "note": "Anne/Luke/Felix conspiracy; no explicit pregnancy or children outcome.",
+     "sources": [
+      {
+       "label": "https://findrama.ai/shows/dubbed-beneath-the-hypnosis-kj3tht",
+       "url": "https://findrama.ai/shows/dubbed-beneath-the-hypnosis-kj3tht",
+       "evidence_paraphrase": "Anne/Luke/Felix conspiracy; no explicit pregnancy or children outcome."
+      }
+     ],
+     "no_media": true
+    },
+    "vertical-hypnosis-nov6:25": {
+     "title": "Beneath the Hypnosis",
+     "match_title": "Beneath the Hypnosis",
+     "year": "Date unverified",
+     "categories": [
+      "wife",
+      "cheat-control",
+      "partner-commissioned",
+      "wife-hypnotized"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "ShortMax mirror (EN) Beneath the Hypnosis",
+       "url": "https://www.shorttv.live/episodes/dubbedrainy-night-scheme-29070"
+      },
+      {
+       "label": "ShortMax mirror (ES) Bajo la Hipnosis",
+       "url": "https://www.shorttv.live/es/drama/dobladola-trampa-del-deseo-secretos-bajo-la-lluvia-29099"
+      },
+      {
+       "label": "MicroDramaList search (title listed)",
+       "url": "https://microdramalist.com/search?q=hypno"
+      }
+     ],
+     "no_media": true,
+     "override_fields": [
+      "pregnancy_outcome",
+      "pregnant_end",
+      "pregnancy_note",
+      "pregnant_end_note",
+      "kids_together"
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "No explicit pregnancy outcome verified; original source note only said not mentioned.",
+     "pregnant_end_note": "No explicit end-pregnancy outcome verified.",
+     "kids_together": "unknown"
     }
    }
   },
@@ -567308,20 +568549,55 @@
     {
      "label": "ReelShort",
      "url": "https://www.reelshort.com/episodes/episode-11-my-patient-is-a-mermaid-6ab380ed0293757f780fb454-j48p2brvmy"
+    },
+    {
+     "label": "https://www.reelshort.com/episodes/episode-8-my-patient-is-a-mermaid-6ab380ed0293757f780fb454-29ysz4h8ss",
+     "url": "https://www.reelshort.com/episodes/episode-8-my-patient-is-a-mermaid-6ab380ed0293757f780fb454-29ysz4h8ss"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
-    "deep-refresh-nov04:3"
+    "deep-refresh-nov04:3",
+    "vertical-hypnosis-nov6:17"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
    "primary_copy": null,
-   "merged_from": [],
+   "merged_from": [
+    {
+     "rid": "vertical-hypnosis-nov6:17",
+     "source": "vertical-hypnosis-nov6",
+     "label": "My Patient Is a Mermaid (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "My Patient Is a Mermaid",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Series-wide synopsis: Daniel hypnotizes Elena, discovers siren, Kiss of Oblivion and three-year reunion; family not specified.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "fantasy",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "https://www.reelshort.com/episodes/episode-8-my-patient-is-a-mermaid-6ab380ed0293757f780fb454-29ysz4h8ss",
+       "url": "https://www.reelshort.com/episodes/episode-8-my-patient-is-a-mermaid-6ab380ed0293757f780fb454-29ysz4h8ss"
+      }
+     ],
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "deep-refresh-nov04:3": {
      "pregnant_end": "no",
@@ -567357,6 +568633,25 @@
      "tags": [
       "loose fit"
      ]
+    },
+    "vertical-hypnosis-nov6:17": {
+     "title": "My Patient Is a Mermaid",
+     "match_title": "My Patient Is a Mermaid",
+     "year": "2026",
+     "categories": [
+      "fantasy",
+      "medical"
+     ],
+     "summary": "",
+     "note": "Series-wide synopsis: Daniel hypnotizes Elena, discovers siren, Kiss of Oblivion and three-year reunion; family not specified.",
+     "sources": [
+      {
+       "label": "https://www.reelshort.com/episodes/episode-8-my-patient-is-a-mermaid-6ab380ed0293757f780fb454-29ysz4h8ss",
+       "url": "https://www.reelshort.com/episodes/episode-8-my-patient-is-a-mermaid-6ab380ed0293757f780fb454-29ysz4h8ss",
+       "evidence_paraphrase": "Series-wide synopsis: Daniel hypnotizes Elena, discovers siren, Kiss of Oblivion and three-year reunion; family not specified."
+      }
+     ],
+     "no_media": true
     }
    }
   },
@@ -574492,6 +575787,938 @@
      ]
     }
    }
+  },
+  {
+   "id": 3911,
+   "title": "Receiver",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "short film (horizontal) · Canada · English",
+   "mechanism": "Caller Drake hypnotizes Sriyani by telephone; hypnotic imagery and a manifested double intrude into her night.",
+   "confidence_flag": "High",
+   "summary": "Caller Drake hypnotizes Sriyani by telephone; hypnotic imagery and a manifested double intrude into her night. Caller/counsellor; her romantic partner and family outcomes are not established.",
+   "character": "Sriyani (Tahirih Vejdani)",
+   "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+   "note": "Original title: Receiver. Adult telephone counsellor/social worker working a night shift.  Exact hypnosis episode numbering unverified.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit family-outcome evidence in the opened sources.",
+   "episodes": [
+    {
+     "episode": "unknown",
+     "gist": "Relevant scene numbering unverified; do not infer from episode landing-page number."
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_note": "No explicit family-outcome evidence in the opened sources.",
+   "kids_together": "unknown",
+   "kids_together_note": "No explicit family-outcome evidence in the opened sources. NEW birth by ending: unknown.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit family-outcome evidence in the opened sources.",
+   "existing_kids": "unknown",
+   "format": "short",
+   "categories": [
+    "human",
+    "forced-obedience",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "receiver-official",
+     "url": "https://www.interlockpictures.com/receiver"
+    },
+    {
+     "label": "receiver-interview",
+     "url": "https://geektyrant.com/news/horror-short-film-reciever-is-about-a-telephone-councelor-who-is-hypnotized-by-a-caller"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6:1": {
+     "title": "Receiver",
+     "year": "2020",
+     "format": "short",
+     "character": "Sriyani (Tahirih Vejdani)",
+     "mechanism": "Caller Drake hypnotizes Sriyani by telephone; hypnotic imagery and a manifested double intrude into her night.",
+     "categories": [
+      "human",
+      "forced-obedience",
+      "other-control"
+     ],
+     "meta": "short film (horizontal) · Canada · English",
+     "summary": "Caller Drake hypnotizes Sriyani by telephone; hypnotic imagery and a manifested double intrude into her night. Caller/counsellor; her romantic partner and family outcomes are not established.",
+     "confidence_flag": "High",
+     "sources": [
+      {
+       "label": "receiver-official",
+       "url": "https://www.interlockpictures.com/receiver"
+      },
+      {
+       "label": "receiver-interview",
+       "url": "https://geektyrant.com/news/horror-short-film-reciever-is-about-a-telephone-councelor-who-is-hypnotized-by-a-caller"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit family-outcome evidence in the opened sources.",
+     "kids_note": "No explicit family-outcome evidence in the opened sources.",
+     "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+     "no_media": true,
+     "existing_kids": "unknown",
+     "kids_together_note": "No explicit family-outcome evidence in the opened sources. NEW birth by ending: unknown.",
+     "pregnant_end_note": "No explicit family-outcome evidence in the opened sources.",
+     "note": "Original title: Receiver. Adult telephone counsellor/social worker working a night shift.  Exact hypnosis episode numbering unverified.",
+     "episodes": [
+      {
+       "episode": "unknown",
+       "gist": "Relevant scene numbering unverified; do not infer from episode landing-page number."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 3912,
+   "title": "Micro-Short",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "short film (horizontal; NOT a vertical microdrama) · United States · English",
+   "mechanism": "A microwave hypnotizes Dani and induces her to feed its hunger.",
+   "confidence_flag": "High",
+   "summary": "A microwave hypnotizes Dani and induces her to feed its hunger. Woman/appliance; no couple established.",
+   "character": "Dani (Hannah Myers)",
+   "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+   "note": "Original title: Micro-Short. Working adult / burnt-out young professional, per Dread Central.  Exact hypnosis episode numbering unverified.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit family-outcome evidence in the opened sources.",
+   "episodes": [
+    {
+     "episode": "unknown",
+     "gist": "Relevant scene numbering unverified; do not infer from episode landing-page number."
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_note": "No explicit family-outcome evidence in the opened sources.",
+   "kids_together": "unknown",
+   "kids_together_note": "No explicit family-outcome evidence in the opened sources. NEW birth by ending: unknown.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit family-outcome evidence in the opened sources.",
+   "existing_kids": "unknown",
+   "format": "vertical series",
+   "categories": [
+    "tech",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "microshort-official",
+     "url": "https://www.flethbetcher.com/films/microshort"
+    },
+    {
+     "label": "microshort-festival",
+     "url": "https://hplfilmfestival.com/films/micro-short"
+    },
+    {
+     "label": "https://www.dreadcentral.com/news/546469/micro-short-a-killer-new-short-from-beth-fletcher-watch/",
+     "url": "https://www.dreadcentral.com/news/546469/micro-short-a-killer-new-short-from-beth-fletcher-watch/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6:2": {
+     "title": "Micro-Short",
+     "year": "2024",
+     "format": "vertical series",
+     "character": "Dani (Hannah Myers)",
+     "mechanism": "A microwave hypnotizes Dani and induces her to feed its hunger.",
+     "categories": [
+      "tech",
+      "other-control"
+     ],
+     "meta": "short film (horizontal; NOT a vertical microdrama) · United States · English",
+     "summary": "A microwave hypnotizes Dani and induces her to feed its hunger. Woman/appliance; no couple established.",
+     "confidence_flag": "High",
+     "sources": [
+      {
+       "label": "microshort-official",
+       "url": "https://www.flethbetcher.com/films/microshort"
+      },
+      {
+       "label": "microshort-festival",
+       "url": "https://hplfilmfestival.com/films/micro-short"
+      },
+      {
+       "label": "https://www.dreadcentral.com/news/546469/micro-short-a-killer-new-short-from-beth-fletcher-watch/",
+       "url": "https://www.dreadcentral.com/news/546469/micro-short-a-killer-new-short-from-beth-fletcher-watch/"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit family-outcome evidence in the opened sources.",
+     "kids_note": "No explicit family-outcome evidence in the opened sources.",
+     "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+     "no_media": true,
+     "existing_kids": "unknown",
+     "kids_together_note": "No explicit family-outcome evidence in the opened sources. NEW birth by ending: unknown.",
+     "pregnant_end_note": "No explicit family-outcome evidence in the opened sources.",
+     "note": "Original title: Micro-Short. Working adult / burnt-out young professional, per Dread Central.  Exact hypnosis episode numbering unverified.",
+     "episodes": [
+      {
+       "episode": "unknown",
+       "gist": "Relevant scene numbering unverified; do not infer from episode landing-page number."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 3913,
+   "title": "Mesmerize Me",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "short film (horizontal; 24 minutes) · United States · English",
+   "mechanism": "Travelling mesmerist Daniel is hired to treat Estella, who believes she can communicate with her dead fiancé. Director supplies hypnotizing-watch imagery and a hypnosis-treatment premise.",
+   "confidence_flag": "High for depicted hypnosis treatment; supernatural efficacy not claimed.",
+   "summary": "Travelling mesmerist Daniel is hired to treat Estella, who believes she can communicate with her dead fiancé. Director supplies hypnotizing-watch imagery and a hypnosis-treatment premise. Estella/dead fiancé Stephen; developing attachment to mesmerist Daniel.",
+   "character": "Estella (Natalie Smyka)",
+   "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+   "note": "Original title: Mesmerize Me. Adult-coded woman whose fiancé died years earlier; director describes an 1880s romantic period drama. Exact numeric age not given. Depicted mesmerism/hypnosis treatment qualifies. Ambiguity about ghosts or powers does not invalidate the treatment scene. Exact hypnosis episode numbering unverified.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit family-outcome evidence in the opened sources.",
+   "episodes": [
+    {
+     "episode": "unknown",
+     "gist": "Relevant scene numbering unverified; do not infer from episode landing-page number."
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_note": "No explicit family-outcome evidence in the opened sources.",
+   "kids_together": "unknown",
+   "kids_together_note": "No explicit family-outcome evidence in the opened sources. NEW birth by ending: unknown.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit family-outcome evidence in the opened sources.",
+   "existing_kids": "unknown",
+   "format": "short",
+   "categories": [
+    "medical",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "mesmerize-director",
+     "url": "http://www.perioddramas.com/articles/making-the-short-period-drama-mesmerize-me.php"
+    },
+    {
+     "label": "https://thestopbutton.com/2019/06/25/mesmerize-me-2009/",
+     "url": "https://thestopbutton.com/2019/06/25/mesmerize-me-2009/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6:3": {
+     "title": "Mesmerize Me",
+     "year": "2009",
+     "format": "short",
+     "character": "Estella (Natalie Smyka)",
+     "mechanism": "Travelling mesmerist Daniel is hired to treat Estella, who believes she can communicate with her dead fiancé. Director supplies hypnotizing-watch imagery and a hypnosis-treatment premise.",
+     "categories": [
+      "medical",
+      "other-control"
+     ],
+     "meta": "short film (horizontal; 24 minutes) · United States · English",
+     "summary": "Travelling mesmerist Daniel is hired to treat Estella, who believes she can communicate with her dead fiancé. Director supplies hypnotizing-watch imagery and a hypnosis-treatment premise. Estella/dead fiancé Stephen; developing attachment to mesmerist Daniel.",
+     "confidence_flag": "High for depicted hypnosis treatment; supernatural efficacy not claimed.",
+     "sources": [
+      {
+       "label": "mesmerize-director",
+       "url": "http://www.perioddramas.com/articles/making-the-short-period-drama-mesmerize-me.php"
+      },
+      {
+       "label": "https://thestopbutton.com/2019/06/25/mesmerize-me-2009/",
+       "url": "https://thestopbutton.com/2019/06/25/mesmerize-me-2009/"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit family-outcome evidence in the opened sources.",
+     "kids_note": "No explicit family-outcome evidence in the opened sources.",
+     "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+     "no_media": true,
+     "existing_kids": "unknown",
+     "kids_together_note": "No explicit family-outcome evidence in the opened sources. NEW birth by ending: unknown.",
+     "pregnant_end_note": "No explicit family-outcome evidence in the opened sources.",
+     "note": "Original title: Mesmerize Me. Adult-coded woman whose fiancé died years earlier; director describes an 1880s romantic period drama. Exact numeric age not given. Depicted mesmerism/hypnosis treatment qualifies. Ambiguity about ghosts or powers does not invalidate the treatment scene. Exact hypnosis episode numbering unverified.",
+     "episodes": [
+      {
+       "episode": "unknown",
+       "gist": "Relevant scene numbering unverified; do not infer from episode landing-page number."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 3914,
+   "title": "追凶之瞒天过海",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "vertical short drama; 84 episodes listed · China · Mandarin",
+   "mechanism": "Retired hypnotist Cheng Jisheng erases his wife’s memory to protect his family after a crime. He ultimately turns himself in and reunites with wife and daughter after seven years.",
+   "confidence_flag": "Medium-high title-level: wife-specific hypnosis explicit in multiple listings; publisher attribution secondary, not a verified publisher-owned page.",
+   "summary": "Retired hypnotist Cheng Jisheng erases his wife’s memory to protect his family after a crime. He ultimately turns himself in and reunites with wife and daughter after seven years. Hypnotist husband / adult wife; existing daughter Cheng Wenwen.",
+   "character": "Zhang Caixia / 张彩霞 (Lin Zhizhi / 林之之)",
+   "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+   "note": "Original title: 追凶之瞒天过海. Married mother of Cheng Wenwen; focus is the adult wife, not the daughter.  Exact hypnosis episode numbering unverified.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit family-outcome evidence in the opened sources.",
+   "episodes": [
+    {
+     "episode": "unknown",
+     "gist": "Relevant scene numbering unverified; do not infer from episode landing-page number."
+    }
+   ],
+   "kids_status": "yes",
+   "kids_note": "Existing daughter survives and reunites with both parents after his prison term. This is NOT evidence of a new baby.",
+   "kids_together": "yes",
+   "kids_together_note": "Existing daughter survives and reunites with both parents after his prison term. This is NOT evidence of a new baby. NEW birth by ending: unknown.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit family-outcome evidence in the opened sources.",
+   "existing_kids": "yes",
+   "format": "vertical series",
+   "categories": [
+    "wife",
+    "wife-hypnotized",
+    "mother",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "pursuit-listing",
+     "url": "https://hongguoduanju.com/detail?series_id=7637729960500677694"
+    },
+    {
+     "label": "https://drama-feed.com/ko/d/131414",
+     "url": "https://drama-feed.com/ko/d/131414"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://duanjubaike.net/duanju/info-7637729960500677694.html"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://www.duanjubaike.net/gongsi/info-3622242023642937.html"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://www.dracinema.com/movie/rahasia-di-semangkuk-sup-pd_7646239587970602001"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6:4": {
+     "title": "追凶之瞒天过海",
+     "year": "2026",
+     "format": "vertical series",
+     "character": "Zhang Caixia / 张彩霞 (Lin Zhizhi / 林之之)",
+     "mechanism": "Retired hypnotist Cheng Jisheng erases his wife’s memory to protect his family after a crime. He ultimately turns himself in and reunites with wife and daughter after seven years.",
+     "categories": [
+      "wife",
+      "wife-hypnotized",
+      "mother",
+      "human"
+     ],
+     "meta": "vertical short drama; 84 episodes listed · China · Mandarin",
+     "summary": "Retired hypnotist Cheng Jisheng erases his wife’s memory to protect his family after a crime. He ultimately turns himself in and reunites with wife and daughter after seven years. Hypnotist husband / adult wife; existing daughter Cheng Wenwen.",
+     "confidence_flag": "Medium-high title-level: wife-specific hypnosis explicit in multiple listings; publisher attribution secondary, not a verified publisher-owned page.",
+     "sources": [
+      {
+       "label": "pursuit-listing",
+       "url": "https://hongguoduanju.com/detail?series_id=7637729960500677694"
+      },
+      {
+       "label": "https://drama-feed.com/ko/d/131414",
+       "url": "https://drama-feed.com/ko/d/131414"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://duanjubaike.net/duanju/info-7637729960500677694.html"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://www.duanjubaike.net/gongsi/info-3622242023642937.html"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://www.dracinema.com/movie/rahasia-di-semangkuk-sup-pd_7646239587970602001"
+      }
+     ],
+     "kids_status": "yes",
+     "pregnant_end": "unknown",
+     "kids_together": "yes",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit family-outcome evidence in the opened sources.",
+     "kids_note": "Existing daughter survives and reunites with both parents after his prison term. This is NOT evidence of a new baby.",
+     "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+     "no_media": true,
+     "existing_kids": "yes",
+     "kids_together_note": "Existing daughter survives and reunites with both parents after his prison term. This is NOT evidence of a new baby. NEW birth by ending: unknown.",
+     "pregnant_end_note": "No explicit family-outcome evidence in the opened sources.",
+     "note": "Original title: 追凶之瞒天过海. Married mother of Cheng Wenwen; focus is the adult wife, not the daughter.  Exact hypnosis episode numbering unverified.",
+     "episodes": [
+      {
+       "episode": "unknown",
+       "gist": "Relevant scene numbering unverified; do not infer from episode landing-page number."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 3915,
+   "title": "Scratch Your Fate",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "live-action vertical short drama; 68 episodes · China · Mandarin original; English/Korean localizations",
+   "mechanism": "Olivia White uses scratch-off lottery tickets for genuine supernatural mind control; family members are explicitly hypnotized into accepting her.",
+   "confidence_flag": "High for genuine family mind-control plot; adult mother target supported by parents explicitly included in official 55–59 arc. No video viewed; mother personal name unresolved.",
+   "summary": "Olivia White uses scratch-off lottery tickets for genuine supernatural mind control; family members are explicitly hypnotized into accepting her. Olivia controls Laura’s parents and family. Laura’s romance is with James Carter; the mother’s spouse is Laura’s father (unnamed).",
+   "character": "Laura Davis / 许晴’s adult mother (unnamed securely; 王雯 appears among character names but role mapping not confirmed)",
+   "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+   "note": "Original title: 命运漩涡. Mother of adult/engaged Laura; the controlled family includes both her parents.  Exact hypnosis episode numbering unverified.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit family-outcome evidence in the opened sources.",
+   "episodes": [
+    {
+     "episode": "54",
+     "gist": "Laura suspects family hypnosis; Olivia controls her uncle’s assets."
+    },
+    {
+     "episode": "59",
+     "gist": "Family is hypnotized into accepting Olivia on the strength of an alleged pregnancy."
+    },
+    {
+     "episode": "66",
+     "gist": "Family still under hypnosis despite Olivia weakening."
+    },
+    {
+     "episode": "68",
+     "gist": "Family freed; Laura accepts James’s proposal."
+    }
+   ],
+   "kids_status": "yes",
+   "kids_note": "Existing adult daughter Laura survives and family is reportedly free. This is having an existing child, NOT having a new baby during the ending.",
+   "kids_together": "yes",
+   "kids_together_note": "Existing adult daughter Laura survives and family is reportedly free. This is having an existing child, NOT having a new baby during the ending. NEW birth by ending: unknown.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit family-outcome evidence in the opened sources.",
+   "existing_kids": "yes",
+   "format": "vertical series",
+   "categories": [
+    "fantasy",
+    "forced-obedience",
+    "mother",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "scratch-guide",
+     "url": "https://netshort.com/full-episodes/scratch-your-fate-1898996706042068993/page/3"
+    },
+    {
+     "label": "scratch-68",
+     "url": "https://netshort.com/episode/scratch-your-fate-1898996706042068993-ep-68"
+    },
+    {
+     "label": "https://drama-feed.com/en/d/118041",
+     "url": "https://drama-feed.com/en/d/118041"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://hongguoduanju.com/detail?series_id=7481171035484589118"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://netshort.com/zh/episode/命運漩渦-1898996932589391873-ep-9"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://dukudj.cc/catalog/vuOhrN/65.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6:5": {
+     "title": "Scratch Your Fate",
+     "year": "2025",
+     "format": "vertical series",
+     "character": "Laura Davis / 许晴’s adult mother (unnamed securely; 王雯 appears among character names but role mapping not confirmed)",
+     "mechanism": "Olivia White uses scratch-off lottery tickets for genuine supernatural mind control; family members are explicitly hypnotized into accepting her.",
+     "categories": [
+      "fantasy",
+      "forced-obedience",
+      "mother",
+      "other-control"
+     ],
+     "meta": "live-action vertical short drama; 68 episodes · China · Mandarin original; English/Korean localizations",
+     "summary": "Olivia White uses scratch-off lottery tickets for genuine supernatural mind control; family members are explicitly hypnotized into accepting her. Olivia controls Laura’s parents and family. Laura’s romance is with James Carter; the mother’s spouse is Laura’s father (unnamed).",
+     "confidence_flag": "High for genuine family mind-control plot; adult mother target supported by parents explicitly included in official 55–59 arc. No video viewed; mother personal name unresolved.",
+     "sources": [
+      {
+       "label": "scratch-guide",
+       "url": "https://netshort.com/full-episodes/scratch-your-fate-1898996706042068993/page/3"
+      },
+      {
+       "label": "scratch-68",
+       "url": "https://netshort.com/episode/scratch-your-fate-1898996706042068993-ep-68"
+      },
+      {
+       "label": "https://drama-feed.com/en/d/118041",
+       "url": "https://drama-feed.com/en/d/118041"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://hongguoduanju.com/detail?series_id=7481171035484589118"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://netshort.com/zh/episode/命運漩渦-1898996932589391873-ep-9"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://dukudj.cc/catalog/vuOhrN/65.html"
+      }
+     ],
+     "kids_status": "yes",
+     "pregnant_end": "unknown",
+     "kids_together": "yes",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit family-outcome evidence in the opened sources.",
+     "kids_note": "Existing adult daughter Laura survives and family is reportedly free. This is having an existing child, NOT having a new baby during the ending.",
+     "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+     "no_media": true,
+     "existing_kids": "yes",
+     "kids_together_note": "Existing adult daughter Laura survives and family is reportedly free. This is having an existing child, NOT having a new baby during the ending. NEW birth by ending: unknown.",
+     "pregnant_end_note": "No explicit family-outcome evidence in the opened sources.",
+     "note": "Original title: 命运漩涡. Mother of adult/engaged Laura; the controlled family includes both her parents.  Exact hypnosis episode numbering unverified.",
+     "episodes": [
+      {
+       "episode": "54",
+       "gist": "Laura suspects family hypnosis; Olivia controls her uncle’s assets."
+      },
+      {
+       "episode": "59",
+       "gist": "Family is hypnotized into accepting Olivia on the strength of an alleged pregnancy."
+      },
+      {
+       "episode": "66",
+       "gist": "Family still under hypnosis despite Olivia weakening."
+      },
+      {
+       "episode": "68",
+       "gist": "Family freed; Laura accepts James’s proposal."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 3916,
+   "title": "替身公寓 (The Substitute Apartment)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "25-episode live-action Chinese short drama; 27 May 2026",
+   "mechanism": "Apartment manager Chen and Doctor Lu use drugs and hypnosis to turn Shen Xin into a wealthy heiress’s substitute. She discovers the gang and escapes.",
+   "confidence_flag": "Medium-high mechanism/identity; adult status is independent-living role evidence rather than an explicit age.",
+   "summary": "Apartment manager Chen and Doctor Lu use drugs and hypnosis to turn Shen Xin into a wealthy heiress’s substitute. She discovers the gang and escapes. Criminal manager and doctor / tenant; no confirmed couple.",
+   "character": "Shen Xin / 沈心 (Ma Ziying / 马子莹)",
+   "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+   "note": "Original title: 替身公寓. Independent woman renting a luxury apartment and living alone; adult role inferred, exact age not stated. Actor age is NOT used as character-age proof.  Exact hypnosis episode numbering unverified.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit outcome established by opened sources.",
+   "episodes": [
+    {
+     "episode": "unknown",
+     "gist": "Exact scene episode not established from synopsis."
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_note": "No explicit outcome established by opened sources.",
+   "kids_together": "unknown",
+   "kids_together_note": "No explicit outcome established by opened sources. NEW birth by ending: unknown.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit outcome established by opened sources.",
+   "existing_kids": "unknown",
+   "format": "vertical series",
+   "categories": [
+    "doctor-gain",
+    "human",
+    "tech",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://duanjubaike.org/zh-Hans/drama/33772"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://vertlas.com/drama/the-substitute-apartment"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://hongguoduanju.com/detail?series_id=7644123965933227033"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6:6": {
+     "title": "替身公寓 (The Substitute Apartment)",
+     "year": "2026",
+     "format": "vertical series",
+     "character": "Shen Xin / 沈心 (Ma Ziying / 马子莹)",
+     "mechanism": "Apartment manager Chen and Doctor Lu use drugs and hypnosis to turn Shen Xin into a wealthy heiress’s substitute. She discovers the gang and escapes.",
+     "categories": [
+      "doctor-gain",
+      "human",
+      "tech",
+      "forced-obedience"
+     ],
+     "meta": "25-episode live-action Chinese short drama; 27 May 2026",
+     "summary": "Apartment manager Chen and Doctor Lu use drugs and hypnosis to turn Shen Xin into a wealthy heiress’s substitute. She discovers the gang and escapes. Criminal manager and doctor / tenant; no confirmed couple.",
+     "confidence_flag": "Medium-high mechanism/identity; adult status is independent-living role evidence rather than an explicit age.",
+     "sources": [
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://duanjubaike.org/zh-Hans/drama/33772"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://vertlas.com/drama/the-substitute-apartment"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://hongguoduanju.com/detail?series_id=7644123965933227033"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit outcome established by opened sources.",
+     "kids_note": "No explicit outcome established by opened sources.",
+     "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+     "no_media": true,
+     "existing_kids": "unknown",
+     "kids_together_note": "No explicit outcome established by opened sources. NEW birth by ending: unknown.",
+     "pregnant_end_note": "No explicit outcome established by opened sources.",
+     "note": "Original title: 替身公寓. Independent woman renting a luxury apartment and living alone; adult role inferred, exact age not stated. Actor age is NOT used as character-age proof.  Exact hypnosis episode numbering unverified.",
+     "episodes": [
+      {
+       "episode": "unknown",
+       "gist": "Exact scene episode not established from synopsis."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 3917,
+   "title": "谁是狼人 (Who Is the Werewolf?)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Chinese live-action vertical suspense; 30 episodes; not supernatural werewolf fiction",
+   "mechanism": "Following a poisoning during a company Werewolf game, Lin Yue undergoes three hypnotic regressions; a hypnotist guides her to confront conflicting memories and her reflected identity.",
+   "confidence_flag": "High for explicit hypnosis treatment/production identity; numeric age not provided.",
+   "summary": "Following a poisoning during a company Werewolf game, Lin Yue undergoes three hypnotic regressions; a hypnotist guides her to confront conflicting memories and her reflected identity. Lin Yue / hypnosis therapist; romance/engagement claims are part of the mystery, not a verified final couple.",
+   "character": "Lin Yue / 林悦 (Liu Yutong / 刘昱彤)",
+   "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+   "note": "Original title: 谁是狼人. Corporate team-building participant / adult workplace and romantic relationships; exact numeric age unstated.  Exact hypnosis episode numbering unverified.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit outcome established by opened sources.",
+   "episodes": [
+    {
+     "episode": "unknown",
+     "gist": "Exact scene episode not established from synopsis."
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_note": "No explicit outcome established by opened sources.",
+   "kids_together": "unknown",
+   "kids_together_note": "No explicit outcome established by opened sources. NEW birth by ending: unknown.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit outcome established by opened sources.",
+   "existing_kids": "unknown",
+   "format": "vertical series",
+   "categories": [
+    "medical",
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://duanjubaike.org/zh-Hans/drama/27820"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://drama-feed.com/ko/d/129700"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://www.zongyimi.com/drama/subject/62132009771/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6:7": {
+     "title": "谁是狼人 (Who Is the Werewolf?)",
+     "year": "2025",
+     "format": "vertical series",
+     "character": "Lin Yue / 林悦 (Liu Yutong / 刘昱彤)",
+     "mechanism": "Following a poisoning during a company Werewolf game, Lin Yue undergoes three hypnotic regressions; a hypnotist guides her to confront conflicting memories and her reflected identity.",
+     "categories": [
+      "medical",
+      "human",
+      "other-control"
+     ],
+     "meta": "Chinese live-action vertical suspense; 30 episodes; not supernatural werewolf fiction",
+     "summary": "Following a poisoning during a company Werewolf game, Lin Yue undergoes three hypnotic regressions; a hypnotist guides her to confront conflicting memories and her reflected identity. Lin Yue / hypnosis therapist; romance/engagement claims are part of the mystery, not a verified final couple.",
+     "confidence_flag": "High for explicit hypnosis treatment/production identity; numeric age not provided.",
+     "sources": [
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://duanjubaike.org/zh-Hans/drama/27820"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://drama-feed.com/ko/d/129700"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://www.zongyimi.com/drama/subject/62132009771/"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit outcome established by opened sources.",
+     "kids_note": "No explicit outcome established by opened sources.",
+     "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+     "no_media": true,
+     "existing_kids": "unknown",
+     "kids_together_note": "No explicit outcome established by opened sources. NEW birth by ending: unknown.",
+     "pregnant_end_note": "No explicit outcome established by opened sources.",
+     "note": "Original title: 谁是狼人. Corporate team-building participant / adult workplace and romantic relationships; exact numeric age unstated.  Exact hypnosis episode numbering unverified.",
+     "episodes": [
+      {
+       "episode": "unknown",
+       "gist": "Exact scene episode not established from synopsis."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 3918,
+   "title": "Fires of Love",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Vigloo English-language vertical; 50 eps; 26 Jun 2025",
+   "mechanism": "A therapist offers memory-recovery hypnosis to Alice after a crash; the independent review transcript explicitly describes a pen-focused induction and continued hypnosis used abusively. Non-explicit title-level note only.",
+   "confidence_flag": "High: primary series identity plus explicit independent episode-review transcript.",
+   "summary": "A therapist offers memory-recovery hypnosis to Alice after a crash; the independent review transcript explicitly describes a pen-focused induction and continued hypnosis used abusively. Non-explicit title-level note only. Alice / Caleb Quarterlain; therapist is a separate controller.",
+   "character": "Alice (Alexandra Swanbeck)",
+   "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+   "note": "Original title: Fires of Love. Adult journalist; contemporary relationship with firefighter/heir Caleb Quarterlain.  Exact hypnosis episode numbering unverified.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No explicit outcome established by opened sources.",
+   "episodes": [
+    {
+     "episode": "unknown",
+     "gist": "Exact scene episode not established from synopsis."
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_note": "No explicit outcome established by opened sources.",
+   "kids_together": "unknown",
+   "kids_together_note": "No explicit outcome established by opened sources. NEW birth by ending: unknown.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "No explicit outcome established by opened sources.",
+   "existing_kids": "unknown",
+   "format": "vertical series",
+   "categories": [
+    "medical",
+    "doctor-gain",
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://www.vigloo.com/en/video/15000304"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://www.youtube.com/watch?v=uBB5OPOAENw"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://verticalvault.app/dramas/fires-of-love-vv-0482"
+    },
+    {
+     "label": "Round 2 verified public text",
+     "url": "https://www.instagram.com/p/DLQE6wgO6ZN/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6:8": {
+     "title": "Fires of Love",
+     "year": "2025",
+     "format": "vertical series",
+     "character": "Alice (Alexandra Swanbeck)",
+     "mechanism": "A therapist offers memory-recovery hypnosis to Alice after a crash; the independent review transcript explicitly describes a pen-focused induction and continued hypnosis used abusively. Non-explicit title-level note only.",
+     "categories": [
+      "medical",
+      "doctor-gain",
+      "human",
+      "other-control"
+     ],
+     "meta": "Vigloo English-language vertical; 50 eps; 26 Jun 2025",
+     "summary": "A therapist offers memory-recovery hypnosis to Alice after a crash; the independent review transcript explicitly describes a pen-focused induction and continued hypnosis used abusively. Non-explicit title-level note only. Alice / Caleb Quarterlain; therapist is a separate controller.",
+     "confidence_flag": "High: primary series identity plus explicit independent episode-review transcript.",
+     "sources": [
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://www.vigloo.com/en/video/15000304"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://www.youtube.com/watch?v=uBB5OPOAENw"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://verticalvault.app/dramas/fires-of-love-vv-0482"
+      },
+      {
+       "label": "Round 2 verified public text",
+       "url": "https://www.instagram.com/p/DLQE6wgO6ZN/"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "No explicit outcome established by opened sources.",
+     "kids_note": "No explicit outcome established by opened sources.",
+     "provenance": "Nov 6 research only; no videos watched; title-level public-text evidence. Family yes may mean surviving EXISTING child, never inferred new birth.",
+     "no_media": true,
+     "existing_kids": "unknown",
+     "kids_together_note": "No explicit outcome established by opened sources. NEW birth by ending: unknown.",
+     "pregnant_end_note": "No explicit outcome established by opened sources.",
+     "note": "Original title: Fires of Love. Adult journalist; contemporary relationship with firefighter/heir Caleb Quarterlain.  Exact hypnosis episode numbering unverified.",
+     "episodes": [
+      {
+       "episode": "unknown",
+       "gist": "Exact scene episode not established from synopsis."
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -574992,7 +577219,8 @@
     "hypnosis-deep-oct25c",
     "deep-refresh-oct30",
     "deep-refresh-nov04",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -581687,7 +583915,8 @@
     "youtube-deep-oct15",
     "deep-oct24",
     "deep-refresh-oct30",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -582130,6 +584359,22 @@
       }
      ],
      "from_source": "hypnosis-bestsimilar-nov5"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3918,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3916,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -582171,7 +584416,8 @@
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
     "deep-refresh-nov04",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -582785,6 +585031,22 @@
       }
      ],
      "from_source": "hypnosis-bestsimilar-nov5"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3912,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3916,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -582850,7 +585112,8 @@
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
     "deep-refresh-nov04",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -585291,6 +587554,22 @@
       }
      ],
      "from_source": "hypnosis-bestsimilar-nov5"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 1965,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3915,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -587850,7 +590129,8 @@
     "deep-refresh-oct18",
     "deep-refresh-oct30",
     "deep-refresh-nov04",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -588712,6 +590992,17 @@
       }
      ],
      "from_source": "hypnosis-bestsimilar-nov5"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 1983,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -589258,7 +591549,8 @@
     "deep-oct20",
     "deep-oct24",
     "hypno-pregnant-yt-oct25",
-    "hypno-kids-witness-oct25"
+    "hypno-kids-witness-oct25",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -594124,6 +596416,57 @@
       }
      ],
      "from_source": "hypno-kids-witness-oct25"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 1965,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3918,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3911,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 1980,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 1981,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 1983,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3916,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3917,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3914,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -594183,7 +596526,8 @@
     "ig6qlxqxoxvcxla",
     "rich-wife-hypnosis",
     "hypno-leftovers",
-    "round3"
+    "round3",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -594479,7 +596823,8 @@
     "hypnosis-deep-oct25b",
     "hypnosis-deep-oct25c",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -595912,6 +598257,22 @@
       }
      ],
      "from_source": "hypnosis-deep-oct25c"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 1981,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3914,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -596027,7 +598388,8 @@
     "gap-check-vertical-oct15",
     "deep-refresh-oct18",
     "deep-oct24",
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "vertical-hypnosis-nov6"
    ],
    "declared_count_by_source": {
     "hypnotized-marriage": null,
@@ -596319,7 +598681,8 @@
     "round3",
     "indonesia-sinetron-oct15",
     "hypnosis-yt-oct15",
-    "hypnosis-deep-oct25c"
+    "hypnosis-deep-oct25c",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -596874,7 +599237,8 @@
     "hypno-kids-witness-oct25",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -597986,6 +600350,17 @@
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 1981,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -598455,7 +600830,8 @@
     "deep-oct24",
     "hypnosis-deep-oct25c",
     "hypno-kids-witness-oct25",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -600871,6 +603247,17 @@
       }
      ],
      "from_source": "hypno-kids-witness-oct25"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 1981,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -603084,7 +605471,8 @@
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
     "deep-refresh-nov04",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -605025,6 +607413,27 @@
       }
      ],
      "from_source": "hypnosis-bestsimilar-nov5"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3918,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3913,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3917,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -605152,7 +607561,8 @@
     "hypno-kids-witness-oct25",
     "hypno-kids-witness-unverified-oct25",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -606162,6 +608572,32 @@
       }
      ],
      "from_source": "hypno-kids-witness-unverified-oct25"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3915,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 1980,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 1981,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3914,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -607972,7 +610408,8 @@
     "deep-oct24",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-nov04",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -610976,6 +613413,62 @@
       }
      ],
      "from_source": "hypnosis-bestsimilar-nov5"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 1965,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3918,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3913,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3912,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3911,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3915,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 1980,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 1981,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 1983,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3917,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -616666,7 +619159,8 @@
     "xla62ucxbx02u5",
     "round3",
     "recheck-oct14",
-    "hypno-pregnant-yt-oct25"
+    "hypno-pregnant-yt-oct25",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -618602,7 +621096,8 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "round2",
-    "round3"
+    "round3",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -631020,7 +633515,8 @@
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
     "deep-refresh-nov04",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "vertical-hypnosis-nov6"
    ],
    "groups": [
     {
@@ -633670,6 +636166,37 @@
       }
      ],
      "from_source": "hypnosis-bestsimilar-nov5"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3911,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3915,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 1980,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 1983,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      },
+      {
+       "id": 3916,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -633718,7 +636245,8 @@
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
     "deep-refresh-nov04",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "vertical-hypnosis-nov6"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -634384,6 +636912,17 @@
       }
      ],
      "from_source": "hypnosis-bestsimilar-nov5"
+    },
+    {
+     "title": "Worldwide adult-female hypnosis — verified Nov 6 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3914,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
     }
    ]
   },
