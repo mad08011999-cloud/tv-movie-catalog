@@ -11584,6 +11584,19 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "vertical-hypnosis-nov6-r4",
+   "label": "Worldwide hypnosis Nov6 round4",
+   "kind": "local",
+   "share_url": "sources/vertical-hypnosis-nov6-r4.json",
+   "description": "",
+   "dropped": [],
+   "check": {
+    "raw_count": 7,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -11668,10 +11681,11 @@
   "hypnosis-bestsimilar-nov5": 206,
   "vertical-hypnosis-nov6": 28,
   "vertical-hypnosis-nov6-r2": 5,
-  "vertical-hypnosis-nov6-r3": 11
+  "vertical-hypnosis-nov6-r3": 11,
+  "vertical-hypnosis-nov6-r4": 7
  },
- "raw_total": 7481,
- "entry_count": 3738,
+ "raw_total": 7488,
+ "entry_count": 3742,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -11689,7 +11703,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 338
+   "entry_count": 339
   },
   {
    "key": "belly",
@@ -11743,7 +11757,7 @@
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 121
+   "entry_count": 122
   },
   {
    "key": "fantasy",
@@ -11881,7 +11895,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 264
+   "entry_count": 265
   },
   {
    "key": "mom-partner-control",
@@ -11911,7 +11925,7 @@
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 463
+   "entry_count": 467
   },
   {
    "key": "parents-sleeping",
@@ -12121,7 +12135,7 @@
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 407
+   "entry_count": 408
   },
   {
    "key": "family",
@@ -12175,7 +12189,7 @@
    "key": "vampire",
    "label": "Vampire mesmerism",
    "legend_label": "Vampire mesmerism",
-   "entry_count": 274
+   "entry_count": 275
   },
   {
    "key": "villain",
@@ -12205,7 +12219,7 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 144
+   "entry_count": 145
   },
   {
    "key": "therapist-wife",
@@ -462655,11 +462669,12 @@
    "summary": "Top psychiatrist Lin Ling, who does not believe in ghosts, treats Wen Qin, who claims to see ghosts, and uses hypnosis to dig up his 'past victimisation'. Wen reverse-hypnotizes her, making her face her childhood family fire, and in a guided state she admits the fire was her own negligence and that she poisoned people at a psychiatric hospital. It was a sting set by her mentor and the police; she is arrested for arson and killing.",
    "character": "Lin Ling (Jin Shan), Wen Qin (Hu Tianyu)",
    "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
-   "note": "Verification: Confirmed by one listing: a woman is hypnotized into confessing. No romance/intimacy; no pregnancy. Ages are not stated in the sources read; no minor is indicated.",
+   "note": "Verification: Confirmed by one listing: a woman is hypnotized into confessing. No romance/intimacy; no pregnancy. Ages are not stated in the sources read; no minor is indicated. Round4 research: Hongguo-branded catalog confirms cast Jin Shan/Hu Tianyu and71episodes; domain ownership/official-publisher status not independently authenticated. Episode-specific hypnosis numbering UNKNOWN. Ending overview says Lin Ling arrested; this does not establish pregnancy/children. Do NOT borrow wife/twin-child details from same-title Wang Jianlin prose novel: different character identities/production. All old family values preserved pending separate review.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "not mentioned",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "Round4 catalog hypnosis corroboration; publisher ownership unverified"
    ],
    "kids_status": "unknown",
    "kids_together": "no",
@@ -462667,7 +462682,7 @@
    "pregnant_end": "no",
    "pregnant_end_note": "not mentioned",
    "evidence": "Single source — Single listing (Duanjubaike); not independently corroborated",
-   "fit_note": "Loose fit: hypnotized woman is the antagonist in a crime sting; no intimacy. The characters' ages are not stated. Single source.",
+   "fit_note": "Loose fit: hypnotized woman is the antagonist in a crime sting; no intimacy. The characters' ages are not stated. Single source. Round4 research: Catalog synopsis confirms adult female professional psychiatrist Lin Ling is reverse-hypnotized by Wen Qin into confessing. Exact age unstated; literal hypnosis, not ghost possession.",
    "format": "vertical series",
    "categories": [
     "adult-hypnosis",
@@ -462678,20 +462693,67 @@
     {
      "label": "短剧百科 催眠局中局",
      "url": "https://www.duanjubaike.net/duanju/info-7607828483242200088.html"
+    },
+    {
+     "label": "Hongguo-branded catalog series page (publisher ownership unverified)",
+     "url": "https://hongguoduanju.com/detail?series_id=7607828483242200088"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "round3"
+    "round3",
+    "vertical-hypnosis-nov6-r4"
    ],
    "source_records": [
-    "round3:10"
+    "round3:10",
+    "vertical-hypnosis-nov6-r4:7"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
    "primary_copy": null,
-   "merged_from": [],
+   "merged_from": [
+    {
+     "rid": "vertical-hypnosis-nov6-r4:7",
+     "source": "vertical-hypnosis-nov6-r4",
+     "label": "催眠局中局 (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "催眠局中局",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Verification: Confirmed by one listing: a woman is hypnotized into confessing. No romance/intimacy; no pregnancy. Ages are not stated in the sources read; no minor is indicated. Round4 research: Hongguo-branded catalog confirms cast Jin Shan/Hu Tianyu and71episodes; domain ownership/official-publisher status not independently authenticated. Episode-specific hypnosis numbering UNKNOWN. Ending overview says Lin Ling arrested; this does not establish pregnancy/children. Do NOT borrow wife/twin-child details from same-title Wang Jianlin prose novel: different character identities/production. All old family values preserved pending separate review.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis",
+      "medical",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Hongguo-branded catalog series page (publisher ownership unverified)",
+       "url": "https://hongguoduanju.com/detail?series_id=7607828483242200088"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Unknown specific episode;catalog lists1–71",
+       "gist": "Wen Qin reverse-hypnotizes psychiatrist Lin Ling to expose fire/poisoning crimes. Catalog series overview gives arrest endpoint; exact episode placement unverified.",
+       "number_verified": false
+      }
+     ],
+     "tags": [
+      "Round4 catalog hypnosis corroboration; publisher ownership unverified"
+     ],
+     "fit_note": "Loose fit: hypnotized woman is the antagonist in a crime sting; no intimacy. The characters' ages are not stated. Single source. Round4 research: Catalog synopsis confirms adult female professional psychiatrist Lin Ling is reverse-hypnotized by Wen Qin into confessing. Exact age unstated; literal hypnosis, not ghost possession.",
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "round3:10": {
      "title": "催眠局中局",
@@ -462731,8 +462793,53 @@
      "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
      "catalog_ids": [],
      "research_no": 10
+    },
+    "vertical-hypnosis-nov6-r4:7": {
+     "title": "催眠局中局",
+     "match_title": "催眠局中局",
+     "match_year": "2026",
+     "year": "2026",
+     "format": "vertical series",
+     "categories": [
+      "adult-hypnosis",
+      "medical",
+      "crime"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "Hongguo-branded catalog series page (publisher ownership unverified)",
+       "url": "https://hongguoduanju.com/detail?series_id=7607828483242200088"
+      }
+     ],
+     "no_media": true,
+     "existing_id": 2734,
+     "override_fields": [
+      "note",
+      "fit_note",
+      "episodes"
+     ],
+     "note": "Verification: Confirmed by one listing: a woman is hypnotized into confessing. No romance/intimacy; no pregnancy. Ages are not stated in the sources read; no minor is indicated. Round4 research: Hongguo-branded catalog confirms cast Jin Shan/Hu Tianyu and71episodes; domain ownership/official-publisher status not independently authenticated. Episode-specific hypnosis numbering UNKNOWN. Ending overview says Lin Ling arrested; this does not establish pregnancy/children. Do NOT borrow wife/twin-child details from same-title Wang Jianlin prose novel: different character identities/production. All old family values preserved pending separate review.",
+     "fit_note": "Loose fit: hypnotized woman is the antagonist in a crime sting; no intimacy. The characters' ages are not stated. Single source. Round4 research: Catalog synopsis confirms adult female professional psychiatrist Lin Ling is reverse-hypnotized by Wen Qin into confessing. Exact age unstated; literal hypnosis, not ghost possession.",
+     "episodes": [
+      {
+       "episode": "Unknown specific episode;catalog lists1–71",
+       "gist": "Wen Qin reverse-hypnotizes psychiatrist Lin Ling to expose fire/poisoning crimes. Catalog series overview gives arrest endpoint; exact episode placement unverified.",
+       "number_verified": false
+      }
+     ],
+     "tags": [
+      "Round4 catalog hypnosis corroboration; publisher ownership unverified"
+     ]
     }
-   }
+   },
+   "episodes": [
+    {
+     "episode": "Unknown specific episode;catalog lists1–71",
+     "gist": "Wen Qin reverse-hypnotizes psychiatrist Lin Ling to expose fire/poisoning crimes. Catalog series overview gives arrest endpoint; exact episode placement unverified.",
+     "number_verified": false
+    }
+   ]
   },
   {
    "id": 2735,
@@ -463233,11 +463340,12 @@
    "summary": "A woman seeking to understand forgotten parts of her life visits a hypnotist; the guided regression leads to a disturbing encounter with her dead sister and a hidden secret about the sister's death.",
    "character": "the woman (cast listing: Alice Stern / Oliva Combette), hypnotist",
    "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
-   "note": "Verification: Hypnotized adult woman (therapeutic regression); no intimacy or pregnancy mentioned. Ages are not stated in the sources read; no minor is indicated.",
+   "note": "Verification: Hypnotized adult woman (therapeutic regression); no intimacy or pregnancy mentioned. Ages are not stated in the sources read; no minor is indicated. Round4 research: Esthésie credits David Trujillo,Arnaud Caron,Alice Stern,Oliva Combette;10:10,created in48hours atKinoPopParis. Existing2019 year retained. Primary synopsis confirms contact with dead sister through hypnosis; not proof of possession. Family outcomes remain unverified; old no-values HOLD.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "not mentioned",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "Round4 primary-source hypnosis verification"
    ],
    "kids_status": "unknown",
    "kids_together": "no",
@@ -463245,7 +463353,7 @@
    "pregnant_end": "no",
    "pregnant_end_note": "not mentioned",
    "evidence": "Single source — Single database page",
-   "fit_note": "Loose fit: memory-recovery hypnosis; no intimacy. The characters' ages are not stated. Single source.",
+   "fit_note": "Loose fit: memory-recovery hypnosis; no intimacy. The characters' ages are not stated. Single source. Round4 research: Primary producer confirms actual therapeutic hypnosis of an adult-coded woman to recover memories, not merely a hypnotic style. Exact age unstated.",
    "format": "short",
    "categories": [
     "adult-hypnosis",
@@ -463255,20 +463363,65 @@
     {
      "label": "WatchWhatWhere",
      "url": "https://watchwhatwhere.com/title/3217810-hypnosis"
+    },
+    {
+     "label": "Esthésie producer official project",
+     "url": "https://www.esthesie.fr/hypnosis"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "round3"
+    "round3",
+    "vertical-hypnosis-nov6-r4"
    ],
    "source_records": [
-    "round3:15"
+    "round3:15",
+    "vertical-hypnosis-nov6-r4:6"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
    "primary_copy": null,
-   "merged_from": [],
+   "merged_from": [
+    {
+     "rid": "vertical-hypnosis-nov6-r4:6",
+     "source": "vertical-hypnosis-nov6-r4",
+     "label": "Hypnosis (2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnosis",
+     "subtitle": "",
+     "year": "2019",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Verification: Hypnotized adult woman (therapeutic regression); no intimacy or pregnancy mentioned. Ages are not stated in the sources read; no minor is indicated. Round4 research: Esthésie credits David Trujillo,Arnaud Caron,Alice Stern,Oliva Combette;10:10,created in48hours atKinoPopParis. Existing2019 year retained. Primary synopsis confirms contact with dead sister through hypnosis; not proof of possession. Family outcomes remain unverified; old no-values HOLD.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Esthésie producer official project",
+       "url": "https://www.esthesie.fr/hypnosis"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Standalone short; scene timestamps unknown",
+       "gist": "Primary producer confirms actual therapeutic hypnosis of an adult-coded woman to recover memories, not merely a hypnotic style. Exact age unstated."
+      }
+     ],
+     "tags": [
+      "Round4 primary-source hypnosis verification"
+     ],
+     "fit_note": "Loose fit: memory-recovery hypnosis; no intimacy. The characters' ages are not stated. Single source. Round4 research: Primary producer confirms actual therapeutic hypnosis of an adult-coded woman to recover memories, not merely a hypnotic style. Exact age unstated.",
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "round3:15": {
      "title": "Hypnosis",
@@ -463306,8 +463459,50 @@
      "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
      "catalog_ids": [],
      "research_no": 15
+    },
+    "vertical-hypnosis-nov6-r4:6": {
+     "title": "Hypnosis",
+     "match_title": "Hypnosis",
+     "match_year": "2019",
+     "year": "2019",
+     "format": "short",
+     "categories": [
+      "adult-hypnosis",
+      "medical"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "Esthésie producer official project",
+       "url": "https://www.esthesie.fr/hypnosis"
+      }
+     ],
+     "no_media": true,
+     "existing_id": 2739,
+     "override_fields": [
+      "note",
+      "fit_note",
+      "episodes"
+     ],
+     "note": "Verification: Hypnotized adult woman (therapeutic regression); no intimacy or pregnancy mentioned. Ages are not stated in the sources read; no minor is indicated. Round4 research: Esthésie credits David Trujillo,Arnaud Caron,Alice Stern,Oliva Combette;10:10,created in48hours atKinoPopParis. Existing2019 year retained. Primary synopsis confirms contact with dead sister through hypnosis; not proof of possession. Family outcomes remain unverified; old no-values HOLD.",
+     "fit_note": "Loose fit: memory-recovery hypnosis; no intimacy. The characters' ages are not stated. Single source. Round4 research: Primary producer confirms actual therapeutic hypnosis of an adult-coded woman to recover memories, not merely a hypnotic style. Exact age unstated.",
+     "episodes": [
+      {
+       "episode": "Standalone short; scene timestamps unknown",
+       "gist": "Primary producer confirms actual therapeutic hypnosis of an adult-coded woman to recover memories, not merely a hypnotic style. Exact age unstated."
+      }
+     ],
+     "tags": [
+      "Round4 primary-source hypnosis verification"
+     ]
     }
-   }
+   },
+   "episodes": [
+    {
+     "episode": "Standalone short; scene timestamps unknown",
+     "gist": "Primary producer confirms actual therapeutic hypnosis of an adult-coded woman to recover memories, not merely a hypnotic style. Exact age unstated."
+    }
+   ]
   },
   {
    "id": 2740,
@@ -564031,7 +564226,7 @@
    "summary": "A woman with anxiety turns to ASMR and falls under its hypnotic grip, committing a crime she can't remember.",
    "character": "Lily (Hope Baker)",
    "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
-   "note": "",
+   "note": "Round4 research: Producer Hope Baker’s first-person interview and independent2025 article corroborate published film. Public film TRANSCRIPT read, not watched: patient names Dr Sara/Sarah Collins; the voice command Take a deep breath and calm down recurs in the police-room reveal. Existing family no-values are HELD, not revalidated by this source. Numeric performer age25 is NOT character-age proof.",
    "method": "ASMR hypnosis",
    "kids_status": "no",
    "kids_together": "no",
@@ -564047,20 +564242,81 @@
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt36831983/"
+    },
+    {
+     "label": "Full film public transcript",
+     "url": "https://www.youtube.com/watch?v=VNWqUfzCpkQ"
+    },
+    {
+     "label": "Producer’s first-person university interview",
+     "url": "https://tftv.arizona.edu/news/from-improv-to-impact-hope-bakers-rise-as-a-voice-for-authentic-representation/"
+    },
+    {
+     "label": "Independent2025 profile",
+     "url": "https://thebestofthesouthwest.com/arts-events-culture/in-arizona/silent-control-phoenix-filmmakers-shine-in-2025-easterseals-disability-film-challenge/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "vertical-hypnosis-nov6-r4"
    ],
    "source_records": [
-    "deep-refresh-oct30:15"
+    "deep-refresh-oct30:15",
+    "vertical-hypnosis-nov6-r4:5"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
    "primary_copy": null,
-   "merged_from": [],
+   "merged_from": [
+    {
+     "rid": "vertical-hypnosis-nov6-r4:5",
+     "source": "vertical-hypnosis-nov6-r4",
+     "label": "Silent Control (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Silent Control",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Round4 research: Producer Hope Baker’s first-person interview and independent2025 article corroborate published film. Public film TRANSCRIPT read, not watched: patient names Dr Sara/Sarah Collins; the voice command Take a deep breath and calm down recurs in the police-room reveal. Existing family no-values are HELD, not revalidated by this source. Numeric performer age25 is NOT character-age proof.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "crime",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Full film public transcript",
+       "url": "https://www.youtube.com/watch?v=VNWqUfzCpkQ"
+      },
+      {
+       "label": "Producer’s first-person university interview",
+       "url": "https://tftv.arizona.edu/news/from-improv-to-impact-hope-bakers-rise-as-a-voice-for-authentic-representation/"
+      },
+      {
+       "label": "Independent2025 profile",
+       "url": "https://thebestofthesouthwest.com/arts-events-culture/in-arizona/silent-control-phoenix-filmmakers-shine-in-2025-easterseals-disability-film-challenge/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Standalone short; scene timestamps unknown",
+       "gist": "Literal auditory hypnosis/ASMR-app influence, not mere relaxation. Transcript documents disorientation, memory gaps and crime; source wording identifies an adult woman, exact character age unstated."
+      }
+     ],
+     "tags": [
+      "Round4 primary-source hypnosis verification"
+     ],
+     "fit_note": "Round4 research: Literal auditory hypnosis/ASMR-app influence, not mere relaxation. Transcript documents disorientation, memory gaps and crime; source wording identifies an adult woman, exact character age unstated.",
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "deep-refresh-oct30:15": {
      "pregnant_end": "no",
@@ -564087,8 +564343,62 @@
      ],
      "evidence": "IMDb synopsis",
      "confidence_flag": "Single source · flag"
+    },
+    "vertical-hypnosis-nov6-r4:5": {
+     "title": "Silent Control",
+     "match_title": "Silent Control",
+     "match_year": "2025",
+     "year": "2025",
+     "format": "short film",
+     "categories": [
+      "crime",
+      "forced-obedience"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "Full film public transcript",
+       "url": "https://www.youtube.com/watch?v=VNWqUfzCpkQ"
+      },
+      {
+       "label": "Producer’s first-person university interview",
+       "url": "https://tftv.arizona.edu/news/from-improv-to-impact-hope-bakers-rise-as-a-voice-for-authentic-representation/"
+      },
+      {
+       "label": "Independent2025 profile",
+       "url": "https://thebestofthesouthwest.com/arts-events-culture/in-arizona/silent-control-phoenix-filmmakers-shine-in-2025-easterseals-disability-film-challenge/"
+      }
+     ],
+     "no_media": true,
+     "existing_id": 3768,
+     "override_fields": [
+      "note",
+      "fit_note",
+      "episodes"
+     ],
+     "note": "Round4 research: Producer Hope Baker’s first-person interview and independent2025 article corroborate published film. Public film TRANSCRIPT read, not watched: patient names Dr Sara/Sarah Collins; the voice command Take a deep breath and calm down recurs in the police-room reveal. Existing family no-values are HELD, not revalidated by this source. Numeric performer age25 is NOT character-age proof.",
+     "fit_note": "Round4 research: Literal auditory hypnosis/ASMR-app influence, not mere relaxation. Transcript documents disorientation, memory gaps and crime; source wording identifies an adult woman, exact character age unstated.",
+     "episodes": [
+      {
+       "episode": "Standalone short; scene timestamps unknown",
+       "gist": "Literal auditory hypnosis/ASMR-app influence, not mere relaxation. Transcript documents disorientation, memory gaps and crime; source wording identifies an adult woman, exact character age unstated."
+      }
+     ],
+     "tags": [
+      "Round4 primary-source hypnosis verification"
+     ]
     }
-   }
+   },
+   "tags": [
+    "Round4 primary-source hypnosis verification"
+   ],
+   "fit_note": "Round4 research: Literal auditory hypnosis/ASMR-app influence, not mere relaxation. Transcript documents disorientation, memory gaps and crime; source wording identifies an adult woman, exact character age unstated.",
+   "episodes": [
+    {
+     "episode": "Standalone short; scene timestamps unknown",
+     "gist": "Literal auditory hypnosis/ASMR-app influence, not mere relaxation. Transcript documents disorientation, memory gaps and crime; source wording identifies an adult woman, exact character age unstated."
+    }
+   ]
   },
   {
    "id": 3769,
@@ -578689,6 +578999,485 @@
      "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. "
     }
    }
+  },
+  {
+   "id": 3932,
+   "title": "Manifest",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "United States · English · Nonvertical film; no vertical claim",
+   "mechanism": "Research-study hypnosis becomes so deep that traumatic nightmare beliefs seem real.",
+   "confidence_flag": "Medium-high: explicit hypnosis mechanism in primary creator/distributor evidence; family outcomes unknown",
+   "summary": "Sarah joins a research study for quick money; deep hypnosis turns buried grief and guilt into an inescapable nightmare.",
+   "character": "Sarah (Amelia Mahrie); Dr Sheldon (Stephen Montagna)",
+   "provenance": "",
+   "note": "Prior pregnancy UNKNOWN. New birth by ending UNKNOWN. No video watched; source text/metadata only.  Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; not labelled AI-generated. Framing: Nonvertical film; no vertical claim.",
+   "episodes": [
+    {
+     "episode": "Not episodic; scene timestamps unknown",
+     "gist": "Sarah joins a research study for quick money; deep hypnosis turns buried grief and guilt into an inescapable nightmare."
+    }
+   ],
+   "tags": [
+    "Original title: Manifest"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Existing children before storyline UNKNOWN.",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing children before storyline UNKNOWN.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Festival/director describes Sarah as a struggling woman independently joining a paid research study. Adult role inferred; no numeric age. ADULT STATUS ROLE-/SOURCE-WORDING-BASED; EXACT CHARACTER AGE UNSTATED. Festival/director describes Sarah as a struggling woman independently joining a paid research study. Adult role inferred; no numeric age. Actual research hypnosis, not just a hypnotic visual aesthetic. No supported AI-production claim.",
+   "format": "short",
+   "categories": [
+    "medical",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Beloit International Film Festival with first-person director statement",
+     "url": "https://beloitfilmfest.org/films/manifest/"
+    },
+    {
+     "label": "HorrorHound official2026 screening",
+     "url": "https://horrorhound.com/Events/FilmFest/b3132cf2-2cb1-4a1c-a2a9-7e833c3ab2f9?idFilm=2026030004"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r4"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r4:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r4:1": {
+     "title": "Manifest",
+     "original_language_title": "Manifest",
+     "year": "2025",
+     "format": "short",
+     "country": "United States",
+     "language": "English",
+     "character": "Sarah (Amelia Mahrie); Dr Sheldon (Stephen Montagna)",
+     "mechanism": "Research-study hypnosis becomes so deep that traumatic nightmare beliefs seem real.",
+     "summary": "Sarah joins a research study for quick money; deep hypnosis turns buried grief and guilt into an inescapable nightmare.",
+     "categories": [
+      "medical",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Beloit International Film Festival with first-person director statement",
+       "url": "https://beloitfilmfest.org/films/manifest/",
+       "evidence_paraphrase": "Andrew Gibbs,2025 USA English14min; director explicitly asks what if a person was hypnotized so deeply that believed nightmares became real; identifies Sarah as subject."
+      },
+      {
+       "label": "HorrorHound official2026 screening",
+       "url": "https://horrorhound.com/Events/FilmFest/b3132cf2-2cb1-4a1c-a2a9-7e833c3ab2f9?idFilm=2026030004",
+       "evidence_paraphrase": "Corroborates Andrew Gibbs,14min, published festival screening and same woman/research premise."
+      }
+     ],
+     "adult_status_evidence": "Festival/director describes Sarah as a struggling woman independently joining a paid research study. Adult role inferred; no numeric age.",
+     "fit_note": "ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Festival/director describes Sarah as a struggling woman independently joining a paid research study. Adult role inferred; no numeric age. ADULT STATUS ROLE-/SOURCE-WORDING-BASED; EXACT CHARACTER AGE UNSTATED. Festival/director describes Sarah as a struggling woman independently joining a paid research study. Adult role inferred; no numeric age. Actual research hypnosis, not just a hypnotic visual aesthetic. No supported AI-production claim.",
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "Unknown/not established in sources",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_note": "Existing children before storyline UNKNOWN.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing children before storyline UNKNOWN.",
+     "note": "Prior pregnancy UNKNOWN. New birth by ending UNKNOWN. No video watched; source text/metadata only.  Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; not labelled AI-generated. Framing: Nonvertical film; no vertical claim.",
+     "confidence_flag": "Medium-high: explicit hypnosis mechanism in primary creator/distributor evidence; family outcomes unknown",
+     "orientation": "Nonvertical film; no vertical claim",
+     "episodes": [
+      {
+       "episode": "Not episodic; scene timestamps unknown",
+       "gist": "Sarah joins a research study for quick money; deep hypnosis turns buried grief and guilt into an inescapable nightmare."
+      }
+     ],
+     "no_media": true,
+     "ai_generation": "Unknown; not labelled AI-generated",
+     "meta": "United States · English · Nonvertical film; no vertical claim",
+     "tags": [
+      "Original title: Manifest"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3933,
+   "title": "Les 5 siamoises / The 5 Siameses",
+   "subtitle": "",
+   "year": "2006",
+   "meta": "France · Dialogue language unknown; music Wax Tailor’s Hypnosis Theme · Nonvertical film; no vertical claim",
+   "mechanism": "A hypnotized woman’s mental imagery develops with music.",
+   "confidence_flag": "Medium-high: explicit hypnosis mechanism in primary creator/distributor evidence; family outcomes unknown",
+   "summary": "An experimental film travels through the mind of a hypnotized woman, building a phantasmagorical image to Wax Tailor’s music.",
+   "character": "Unnamed hypnotized woman (Anastasia Tarassova)",
+   "provenance": "",
+   "note": "Prior pregnancy UNKNOWN. New birth by ending UNKNOWN. No video watched; source text/metadata only.  Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator claim of generative AI. Framing: Nonvertical film; no vertical claim.",
+   "episodes": [
+    {
+     "episode": "Not episodic; scene timestamps unknown",
+     "gist": "An experimental film travels through the mind of a hypnotized woman, building a phantasmagorical image to Wax Tailor’s music."
+    }
+   ],
+   "tags": [
+    "Original title: Les 5 siamoises"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Existing children before storyline UNKNOWN.",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing children before storyline UNKNOWN.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Creator and festival explicitly describe a woman, not a girl. Numeric age not stated. ADULT STATUS ROLE-/SOURCE-WORDING-BASED; EXACT CHARACTER AGE UNSTATED. Creator and festival explicitly describe a woman, not a girl. Numeric age not stated. Published experimental audiovisual work/music video, not a single still. The woman’s hypnotized state is explicit; induction/controller not described. Computer graphics/2006 date do NOT justify an AI-generated label.",
+   "format": "short",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Hugo Arcier creator page",
+     "url": "https://hugoarcier.com/en/les-5-siamoises/"
+    },
+    {
+     "label": "Darklight Festival archived programme",
+     "url": "https://darklight.ie/darklight-early/darklight.ie/archive/musicvid"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r4"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r4:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r4:2": {
+     "title": "Les 5 siamoises / The 5 Siameses",
+     "original_language_title": "Les 5 siamoises",
+     "year": "2006",
+     "format": "short",
+     "country": "France",
+     "language": "Dialogue language unknown; music Wax Tailor’s Hypnosis Theme",
+     "character": "Unnamed hypnotized woman (Anastasia Tarassova)",
+     "mechanism": "A hypnotized woman’s mental imagery develops with music.",
+     "summary": "An experimental film travels through the mind of a hypnotized woman, building a phantasmagorical image to Wax Tailor’s music.",
+     "categories": [
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Hugo Arcier creator page",
+       "url": "https://hugoarcier.com/en/les-5-siamoises/",
+       "evidence_paraphrase": "Creator says mental trip in mind of a hypnotized woman;2006,Anastasia Tarassova,Wax Tailor; used as official music video and museum collection work."
+      },
+      {
+       "label": "Darklight Festival archived programme",
+       "url": "https://darklight.ie/darklight-early/darklight.ie/archive/musicvid",
+       "evidence_paraphrase": "Independent festival programme confirms title,Hugo Arcier,France,5:10 and hypnotized-woman synopsis."
+      }
+     ],
+     "adult_status_evidence": "Creator and festival explicitly describe a woman, not a girl. Numeric age not stated.",
+     "fit_note": "ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Creator and festival explicitly describe a woman, not a girl. Numeric age not stated. ADULT STATUS ROLE-/SOURCE-WORDING-BASED; EXACT CHARACTER AGE UNSTATED. Creator and festival explicitly describe a woman, not a girl. Numeric age not stated. Published experimental audiovisual work/music video, not a single still. The woman’s hypnotized state is explicit; induction/controller not described. Computer graphics/2006 date do NOT justify an AI-generated label.",
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "Unknown/not established in sources",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_note": "Existing children before storyline UNKNOWN.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing children before storyline UNKNOWN.",
+     "note": "Prior pregnancy UNKNOWN. New birth by ending UNKNOWN. No video watched; source text/metadata only.  Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator claim of generative AI. Framing: Nonvertical film; no vertical claim.",
+     "confidence_flag": "Medium-high: explicit hypnosis mechanism in primary creator/distributor evidence; family outcomes unknown",
+     "orientation": "Nonvertical film; no vertical claim",
+     "episodes": [
+      {
+       "episode": "Not episodic; scene timestamps unknown",
+       "gist": "An experimental film travels through the mind of a hypnotized woman, building a phantasmagorical image to Wax Tailor’s music."
+      }
+     ],
+     "no_media": true,
+     "ai_generation": "Unknown; no creator claim of generative AI",
+     "meta": "France · Dialogue language unknown; music Wax Tailor’s Hypnosis Theme · Nonvertical film; no vertical claim",
+     "tags": [
+      "Original title: Les 5 siamoises"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3934,
+   "title": "VIS - Vampire ipnotiche seduttrici",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "Italy · Italian · Nonvertical film; no vertical claim",
+   "mechanism": "Supernatural remote mesmerism/telepathic compulsion by a female vampire. Not clinical hypnosis and not possession.",
+   "confidence_flag": "Medium-high: explicit hypnosis mechanism in primary creator/distributor evidence; family outcomes unknown",
+   "summary": "Married Shelly falls under a vampire’s remote mesmeric influence, deepening the crisis in her marriage to Radlof.",
+   "character": "Shelly/Shelley (Daniela Picciolo), married to Radlof (Roger A. Fratter)",
+   "provenance": "",
+   "note": "Prior pregnancy UNKNOWN. New birth by ending UNKNOWN. No video watched; source text/metadata only.  Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no supported generative-AI production claim. Framing: Nonvertical film; no vertical claim.",
+   "episodes": [
+    {
+     "episode": "Not episodic; scene timestamps unknown",
+     "gist": "Married Shelly falls under a vampire’s remote mesmeric influence, deepening the crisis in her marriage to Radlof."
+    }
+   ],
+   "tags": [
+    "Original title: V.I.S. Vampire ipnotiche seduttrici",
+    "Original title: Hypnotic Seductive Vampires"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Existing children before storyline UNKNOWN.",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing children before storyline UNKNOWN.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Explicit adult wife in marital crisis; numeric age unstated. ADULT STATUS ROLE-/SOURCE-WORDING-BASED; EXACT CHARACTER AGE UNSTATED. Explicit adult wife in marital crisis; numeric age unstated. LOOSE FIT: supernatural vampire mesmerism/telepathic control, not literal clinical hypnosis. Performer interview establishes actual fictional influence, not ordinary attraction alone. Erotic-horror title-level metadata only; formal age rating unverified.",
+   "rating": "Erotic-horror per Nocturno; formal rating unknown",
+   "format": "movie",
+   "categories": [
+    "vampire",
+    "adult-hypnosis",
+    "wife-hypnotized",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Nocturno critical article with lead performer interviews",
+     "url": "https://nocturno.it/v-i-s-vampire-ipnotiche-seduttrici/"
+    },
+    {
+     "label": "Nocturno/Home Movies DVD distributor listing",
+     "url": "https://shop.nocturno.it/products/dvd-v-i-s-vampire-ipnotiche-seduttrici-pre-order"
+    },
+    {
+     "label": "Movieplayer independent film metadata",
+     "url": "https://movieplayer.it/film/vis-vampire-ipnotiche-seduttrici_61701/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r4"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r4:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r4:3": {
+     "title": "VIS - Vampire ipnotiche seduttrici",
+     "original_language_title": "V.I.S. Vampire ipnotiche seduttrici / Hypnotic Seductive Vampires",
+     "year": "2023",
+     "format": "movie",
+     "country": "Italy",
+     "language": "Italian",
+     "character": "Shelly/Shelley (Daniela Picciolo), married to Radlof (Roger A. Fratter)",
+     "mechanism": "Supernatural remote mesmerism/telepathic compulsion by a female vampire. Not clinical hypnosis and not possession.",
+     "summary": "Married Shelly falls under a vampire’s remote mesmeric influence, deepening the crisis in her marriage to Radlof.",
+     "categories": [
+      "vampire",
+      "adult-hypnosis",
+      "wife-hypnotized",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Nocturno critical article with lead performer interviews",
+       "url": "https://nocturno.it/v-i-s-vampire-ipnotiche-seduttrici/",
+       "evidence_paraphrase": "Specifically describes remote mesmeric influence on several women and married Picciolo’s character; vampire performer Francesca Cavallo confirms telepathically influencing women. Erotic-horror bibliographic evidence; no need for explicit scene descriptions."
+      },
+      {
+       "label": "Nocturno/Home Movies DVD distributor listing",
+       "url": "https://shop.nocturno.it/products/dvd-v-i-s-vampire-ipnotiche-seduttrici-pre-order",
+       "evidence_paraphrase": "2023,Roger Fratter,Italian,2.55:1;married Shelly and supernatural influence. Named cast;DVD release."
+      },
+      {
+       "label": "Movieplayer independent film metadata",
+       "url": "https://movieplayer.it/film/vis-vampire-ipnotiche-seduttrici_61701/",
+       "evidence_paraphrase": "Italy2023,87min;Shelley/Radlof cast mapping and adult-marriage synopsis."
+      }
+     ],
+     "adult_status_evidence": "Explicit adult wife in marital crisis; numeric age unstated.",
+     "fit_note": "ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Explicit adult wife in marital crisis; numeric age unstated. ADULT STATUS ROLE-/SOURCE-WORDING-BASED; EXACT CHARACTER AGE UNSTATED. Explicit adult wife in marital crisis; numeric age unstated. LOOSE FIT: supernatural vampire mesmerism/telepathic control, not literal clinical hypnosis. Performer interview establishes actual fictional influence, not ordinary attraction alone. Erotic-horror title-level metadata only; formal age rating unverified.",
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "Shelly/Radlof married; vampire influence disrupts marriage. Final relationship resolution not fully verified.",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_note": "Existing children before storyline UNKNOWN.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing children before storyline UNKNOWN.",
+     "note": "Prior pregnancy UNKNOWN. New birth by ending UNKNOWN. No video watched; source text/metadata only.  Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no supported generative-AI production claim. Framing: Nonvertical film; no vertical claim.",
+     "confidence_flag": "Medium-high: explicit hypnosis mechanism in primary creator/distributor evidence; family outcomes unknown",
+     "orientation": "Nonvertical film; no vertical claim",
+     "episodes": [
+      {
+       "episode": "Not episodic; scene timestamps unknown",
+       "gist": "Married Shelly falls under a vampire’s remote mesmeric influence, deepening the crisis in her marriage to Radlof."
+      }
+     ],
+     "no_media": true,
+     "ai_generation": "Unknown; no supported generative-AI production claim",
+     "rating": "Erotic-horror per Nocturno; formal rating unknown",
+     "meta": "Italy · Italian · Nonvertical film; no vertical claim",
+     "tags": [
+      "Original title: V.I.S. Vampire ipnotiche seduttrici",
+      "Original title: Hypnotic Seductive Vampires"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3935,
+   "title": "history as hypnosis",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "United States · English; additional dialogue-language coverage unverified · Nonvertical film; no vertical claim",
+   "mechanism": "AI programming/memory erasure, described in artist dialogue as memories erased during hypnosis; technological science-fiction mind control.",
+   "confidence_flag": "Medium-high: explicit hypnosis mechanism in primary creator/distributor evidence; family outcomes unknown",
+   "summary": "Three women programmed by artificial intelligence have their previous memories erased and travel through Southern California in search of a man named X.",
+   "character": "Adult-presenting female artificial-consciousness characters A,B,C (Alison Nguyen,Andrea Clinton,Moriah Sittner)",
+   "provenance": "",
+   "note": "Prior pregnancy UNKNOWN. New birth by ending UNKNOWN. No video watched; source text/metadata only. Cinema version2023,30min;multi-channel installations/V03 are same underlying work, not new titles. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Explicitly NOT AI-generated footage: creator says all live-action/no computer-generated footage. Framing: Nonvertical film; no vertical claim.",
+   "episodes": [
+    {
+     "episode": "Not episodic; scene timestamps unknown",
+     "gist": "Three women programmed by artificial intelligence have their previous memories erased and travel through Southern California in search of a man named X."
+    }
+   ],
+   "tags": [
+    "Original title: history as hypnosis"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Existing children before storyline UNKNOWN.",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing children before storyline UNKNOWN.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Primary screening synopsis calls them three women; creator identifies adult-presenting artificial consciousness. Exact fictional ages unstated. ADULT STATUS ROLE-/SOURCE-WORDING-BASED; EXACT CHARACTER AGE UNSTATED. Primary screening synopsis calls them three women; creator identifies adult-presenting artificial consciousness. Exact fictional ages unstated. LOOSE FIT: AI PROGRAMMING/MEMORY ERASURE OF ADULT-PRESENTING ARTIFICIAL-CONSCIOUSNESS WOMEN. NOT AN AI-GENERATED FILM: creator explicitly says all live-action, no computer-generated footage. Do not confuse fictional AI with production method.",
+   "format": "short",
+   "categories": [
+    "tech",
+    "scifi",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "e-flux official artist screening synopsis",
+     "url": "https://www.e-flux.com/events/535358/alison-nguyen-history-as-hypnosis"
+    },
+    {
+     "label": "First-person artist interview",
+     "url": "https://www.e-flux.com/notes/547821/history-as-hypnosis-a-dialogue"
+    },
+    {
+     "label": "Screen Slate independent cinema premiere review",
+     "url": "https://www.screenslate.com/articles/history-hypnosis"
+    },
+    {
+     "label": "Artist official related installation credits",
+     "url": "https://www.alisonnguyen.com/works/history-as-hypnosis-v03"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r4"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r4:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r4:4": {
+     "title": "history as hypnosis",
+     "original_language_title": "history as hypnosis",
+     "year": "2023",
+     "format": "short",
+     "country": "United States",
+     "language": "English; additional dialogue-language coverage unverified",
+     "character": "Adult-presenting female artificial-consciousness characters A,B,C (Alison Nguyen,Andrea Clinton,Moriah Sittner)",
+     "mechanism": "AI programming/memory erasure, described in artist dialogue as memories erased during hypnosis; technological science-fiction mind control.",
+     "summary": "Three women programmed by artificial intelligence have their previous memories erased and travel through Southern California in search of a man named X.",
+     "categories": [
+      "tech",
+      "scifi",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "e-flux official artist screening synopsis",
+       "url": "https://www.e-flux.com/events/535358/alison-nguyen-history-as-hypnosis",
+       "evidence_paraphrase": "2023film,three women programmed by AI whose previous memories have been erased;rough-cut screeningMay2023."
+      },
+      {
+       "label": "First-person artist interview",
+       "url": "https://www.e-flux.com/notes/547821/history-as-hypnosis-a-dialogue",
+       "evidence_paraphrase": "Creator explicitly states everything shot live action, NO virtual computer-generated footage;women have artificial consciousness. Dialogue explicitly refers to memories erased during hypnosis. Cinema version30min."
+      },
+      {
+       "label": "Screen Slate independent cinema premiere review",
+       "url": "https://www.screenslate.com/articles/history-hypnosis",
+       "evidence_paraphrase": "Dec4,2023 cinema-version premiere atMoMA;same three women;distinguishes earlier multi-channel installations."
+      },
+      {
+       "label": "Artist official related installation credits",
+       "url": "https://www.alisonnguyen.com/works/history-as-hypnosis-v03",
+       "evidence_paraphrase": "2024 V03 installation of same project;A/B/C credits. NOT a separate2024 film to add."
+      }
+     ],
+     "adult_status_evidence": "Primary screening synopsis calls them three women; creator identifies adult-presenting artificial consciousness. Exact fictional ages unstated.",
+     "fit_note": "ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Primary screening synopsis calls them three women; creator identifies adult-presenting artificial consciousness. Exact fictional ages unstated. ADULT STATUS ROLE-/SOURCE-WORDING-BASED; EXACT CHARACTER AGE UNSTATED. Primary screening synopsis calls them three women; creator identifies adult-presenting artificial consciousness. Exact fictional ages unstated. LOOSE FIT: AI PROGRAMMING/MEMORY ERASURE OF ADULT-PRESENTING ARTIFICIAL-CONSCIOUSNESS WOMEN. NOT AN AI-GENERATED FILM: creator explicitly says all live-action, no computer-generated footage. Do not confuse fictional AI with production method.",
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "Unknown/not established in sources",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_note": "Existing children before storyline UNKNOWN.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing children before storyline UNKNOWN.",
+     "note": "Prior pregnancy UNKNOWN. New birth by ending UNKNOWN. No video watched; source text/metadata only. Cinema version2023,30min;multi-channel installations/V03 are same underlying work, not new titles. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Explicitly NOT AI-generated footage: creator says all live-action/no computer-generated footage. Framing: Nonvertical film; no vertical claim.",
+     "confidence_flag": "Medium-high: explicit hypnosis mechanism in primary creator/distributor evidence; family outcomes unknown",
+     "orientation": "Nonvertical film; no vertical claim",
+     "episodes": [
+      {
+       "episode": "Not episodic; scene timestamps unknown",
+       "gist": "Three women programmed by artificial intelligence have their previous memories erased and travel through Southern California in search of a man named X."
+      }
+     ],
+     "no_media": true,
+     "ai_generation": "Explicitly NOT AI-generated footage: creator says all live-action/no computer-generated footage",
+     "meta": "United States · English; additional dialogue-language coverage unverified · Nonvertical film; no vertical claim",
+     "tags": [
+      "Original title: history as hypnosis"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -579191,7 +579980,8 @@
     "deep-refresh-nov04",
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r3"
+    "vertical-hypnosis-nov6-r3",
+    "vertical-hypnosis-nov6-r4"
    ],
    "groups": [
     {
@@ -583393,6 +584183,17 @@
       }
      ],
      "from_source": "hypnosis-bestsimilar-nov5"
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round4",
+     "notes": [],
+     "items": [
+      {
+       "id": 3934,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r4"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -586401,7 +587202,8 @@
     "deep-refresh-nov04",
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r2"
+    "vertical-hypnosis-nov6-r2",
+    "vertical-hypnosis-nov6-r4"
    ],
    "groups": [
     {
@@ -587040,6 +587842,17 @@
        "id": 3920,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round4",
+     "notes": [],
+     "items": [
+      {
+       "id": 3935,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r4"
       }
      ]
     }
@@ -601318,7 +602131,8 @@
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
     "deep-refresh-nov04",
-    "vertical-hypnosis-nov6"
+    "vertical-hypnosis-nov6",
+    "vertical-hypnosis-nov6-r4"
    ],
    "groups": [
     {
@@ -607555,7 +608369,8 @@
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
-    "vertical-hypnosis-nov6-r3"
+    "vertical-hypnosis-nov6-r3",
+    "vertical-hypnosis-nov6-r4"
    ],
    "groups": [
     {
@@ -609567,6 +610382,17 @@
        "id": 3925,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round4",
+     "notes": [],
+     "items": [
+      {
+       "id": 3932,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r4"
       }
      ]
     }
@@ -612563,7 +613389,8 @@
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
-    "vertical-hypnosis-nov6-r3"
+    "vertical-hypnosis-nov6-r3",
+    "vertical-hypnosis-nov6-r4"
    ],
    "groups": [
     {
@@ -615693,6 +616520,32 @@
        "id": 3925,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6-r3"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round4",
+     "notes": [],
+     "items": [
+      {
+       "id": 3935,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r4"
+      },
+      {
+       "id": 3933,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r4"
+      },
+      {
+       "id": 3932,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r4"
+      },
+      {
+       "id": 3934,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r4"
       }
      ]
     }
@@ -624115,7 +624968,8 @@
     "deep-oct24",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "vertical-hypnosis-nov6-r4"
    ],
    "groups": [
     {
@@ -628600,6 +629454,17 @@
       }
      ],
      "from_source": "deep-refresh-oct30"
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round4",
+     "notes": [],
+     "items": [
+      {
+       "id": 3935,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r4"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -632191,7 +633056,8 @@
     "deep-oct24",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "vertical-hypnosis-nov6-r4"
    ],
    "groups": [
     {
@@ -635270,6 +636136,17 @@
       }
      ],
      "from_source": "hypnosis-imdb-list-full-oct25"
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round4",
+     "notes": [],
+     "items": [
+      {
+       "id": 3934,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r4"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -635755,7 +636632,8 @@
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
-    "vertical-hypnosis-nov6-r3"
+    "vertical-hypnosis-nov6-r3",
+    "vertical-hypnosis-nov6-r4"
    ],
    "groups": [
     {
@@ -638508,7 +639386,8 @@
     "deep-refresh-nov04",
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r2"
+    "vertical-hypnosis-nov6-r2",
+    "vertical-hypnosis-nov6-r4"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -639183,6 +640062,17 @@
        "id": 3914,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round4",
+     "notes": [],
+     "items": [
+      {
+       "id": 3934,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r4"
       }
      ]
     }
