@@ -11571,6 +11571,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "vertical-hypnosis-nov6-r3",
+   "label": "Worldwide hypnosis Nov6 round3",
+   "kind": "local",
+   "share_url": "sources/vertical-hypnosis-nov6-r3.json",
+   "description": "",
+   "dropped": [],
+   "check": {
+    "raw_count": 11,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -11654,10 +11667,11 @@ window.CATALOG = {
   "deep-refresh-nov04": 61,
   "hypnosis-bestsimilar-nov5": 206,
   "vertical-hypnosis-nov6": 28,
-  "vertical-hypnosis-nov6-r2": 5
+  "vertical-hypnosis-nov6-r2": 5,
+  "vertical-hypnosis-nov6-r3": 11
  },
- "raw_total": 7470,
- "entry_count": 3729,
+ "raw_total": 7481,
+ "entry_count": 3738,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -11723,7 +11737,7 @@ window.CATALOG = {
    "key": "doctor-gain",
    "label": "Doctor hypnotizes female characters for personal gain",
    "legend_label": "Doctor controls female character for personal gain",
-   "entry_count": 45
+   "entry_count": 46
   },
   {
    "key": "tech",
@@ -11765,7 +11779,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 356
+   "entry_count": 357
   },
   {
    "key": "index-56",
@@ -11789,13 +11803,13 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 703
+   "entry_count": 711
   },
   {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 130
+   "entry_count": 131
   },
   {
    "key": "index-54",
@@ -11867,7 +11881,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 258
+   "entry_count": 264
   },
   {
    "key": "mom-partner-control",
@@ -11897,7 +11911,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 454
+   "entry_count": 463
   },
   {
    "key": "parents-sleeping",
@@ -12197,7 +12211,7 @@ window.CATALOG = {
    "key": "therapist-wife",
    "label": "Wife hypnotized / controlled by a therapist",
    "legend_label": "Wife hypnotized / controlled by a therapist",
-   "entry_count": 23
+   "entry_count": 24
   },
   {
    "key": "another-man",
@@ -492630,7 +492644,7 @@ window.CATALOG = {
    "summary": "The hypnotized Sanjana (Sajan's boss) showers her love on Sajan, which leaves him worried instead of happy.",
    "character": "Sanjana",
    "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
-   "note": "",
+   "note": "Round3 research: Official STAR Bharat clip already in catalog confirms Sanjana under hypnosis. Secondary episode guide identifies the storyline as S1E69. Catalog2754 concerns wife Kashmira in following episode70; do not add another underlying production.",
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
@@ -492644,22 +492658,71 @@ window.CATALOG = {
     {
      "label": "STAR Bharat (YouTube): Sanjana hui hypnotize | May I Come in Madam",
      "url": "https://www.youtube.com/watch?v=eYn6j3TWlSs"
+    },
+    {
+     "label": "TVHeat episode69 guide",
+     "url": "https://tvheat.com/show/may-i-come-in-madam/season/1/episode/69"
     }
    ],
    "youtube_ids": [
     "eYn6j3TWlSs"
    ],
    "from_sources": [
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "vertical-hypnosis-nov6-r3"
    ],
    "source_records": [
-    "official-yt-oct15:26"
+    "official-yt-oct15:26",
+    "vertical-hypnosis-nov6-r3:11"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": "thumbs/eYn6j3TWlSs.jpg",
    "primary_copy": null,
-   "merged_from": [],
+   "merged_from": [
+    {
+     "rid": "vertical-hypnosis-nov6-r3:11",
+     "source": "vertical-hypnosis-nov6-r3",
+     "label": "May I Come In Madam? (2024 (YouTube upload; series 2016–17))",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "May I Come In Madam?",
+     "subtitle": "",
+     "year": "2024 (YouTube upload; series 2016–17)",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Round3 research: Official STAR Bharat clip already in catalog confirms Sanjana under hypnosis. Secondary episode guide identifies the storyline as S1E69. Catalog2754 concerns wife Kashmira in following episode70; do not add another underlying production.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "TVHeat episode69 guide",
+       "url": "https://tvheat.com/show/may-i-come-in-madam/season/1/episode/69"
+      },
+      {
+       "label": "Existing official STAR Bharat clip",
+       "url": "https://www.youtube.com/watch?v=eYn6j3TWlSs"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S1E69 — SECONDARY GUIDE, official numbering unverified",
+       "gist": "Sanjana is already hypnotized and difficult for Sajan to handle; Khiloni reports a stolen book. Do not infer numbering solely from existing official clip.",
+       "number_verified": false
+      }
+     ],
+     "tags": [
+      "Sanjana hypnosis: secondary episode69 identification"
+     ],
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "official-yt-oct15:26": {
      "standalone": true,
@@ -492688,8 +492751,57 @@ window.CATALOG = {
        "url": "https://www.youtube.com/watch?v=eYn6j3TWlSs"
       }
      ]
+    },
+    "vertical-hypnosis-nov6-r3:11": {
+     "title": "May I Come In Madam?",
+     "match_title": "May I Come In Madam?",
+     "match_year": "2024 (YouTube upload; series 2016–17)",
+     "year": "2024 (YouTube upload; series 2016–17)",
+     "format": "tv",
+     "categories": [
+      "adult-hypnosis",
+      "india-control"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "TVHeat episode69 guide",
+       "url": "https://tvheat.com/show/may-i-come-in-madam/season/1/episode/69"
+      },
+      {
+       "label": "Existing official STAR Bharat clip",
+       "url": "https://www.youtube.com/watch?v=eYn6j3TWlSs"
+      }
+     ],
+     "no_media": true,
+     "existing_id": 2988,
+     "override_fields": [
+      "note",
+      "episodes"
+     ],
+     "note": "Round3 research: Official STAR Bharat clip already in catalog confirms Sanjana under hypnosis. Secondary episode guide identifies the storyline as S1E69. Catalog2754 concerns wife Kashmira in following episode70; do not add another underlying production.",
+     "episodes": [
+      {
+       "episode": "S1E69 — SECONDARY GUIDE, official numbering unverified",
+       "gist": "Sanjana is already hypnotized and difficult for Sajan to handle; Khiloni reports a stolen book. Do not infer numbering solely from existing official clip.",
+       "number_verified": false
+      }
+     ],
+     "tags": [
+      "Sanjana hypnosis: secondary episode69 identification"
+     ]
     }
-   }
+   },
+   "tags": [
+    "Sanjana hypnosis: secondary episode69 identification"
+   ],
+   "episodes": [
+    {
+     "episode": "S1E69 — SECONDARY GUIDE, official numbering unverified",
+     "gist": "Sanjana is already hypnotized and difficult for Sajan to handle; Khiloni reports a stolen book. Do not infer numbering solely from existing official clip.",
+     "number_verified": false
+    }
+   ]
   },
   {
    "id": 2989,
@@ -565361,9 +565473,11 @@ window.CATALOG = {
    "summary": "Loose fit: an insomniac woman is hypnotized and enters surreal inner worlds.",
    "character": "Natalia",
    "provenance": "Deep refresh, 30 Oct 2026 PT (adults only; non-explicit notes)",
-   "note": "",
+   "note": "Round3 research: Flixxo publishes a three-episode microseries version (2/2/4min). No portrait framing verified. Research found all family outcomes UNKNOWN, but older no-values have no explanatory notes; HOLD those field changes pending original evidence review.",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "AI HYBRID: generative AI + filmed footage",
+    "Flixxo2024 microseries version; same2025film"
    ],
    "method": "Hypnosis",
    "kids_status": "no",
@@ -565379,20 +565493,97 @@ window.CATALOG = {
     {
      "label": "Vimeo",
      "url": "https://vimeo.com/1073962748"
+    },
+    {
+     "label": "Flixxo official series/episodes",
+     "url": "https://play.flixxo.com/es/series/98faee3a-20e2-419c-986a-9432f77ec9a6/1"
+    },
+    {
+     "label": "PRODU director/producer interview, 20Dec2024",
+     "url": "https://www.produ.com/television/noticias/flixxo-estrena-su-primera-microserie-original-hecha-con-inteligencia-artificial/"
+    },
+    {
+     "label": "Tivù23Dec2024 trade corroboration",
+     "url": "https://tivu.es/news/flixxo-lanza-insomnia-una-serie-original-realizada-con-inteligencia-artificial/"
+    },
+    {
+     "label": "Cinenacional2025 cast/crew/version",
+     "url": "https://cinenacional.com/pelicula/insomnia-2025"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "vertical-hypnosis-nov6-r3"
    ],
    "source_records": [
-    "deep-refresh-oct30:34"
+    "deep-refresh-oct30:34",
+    "vertical-hypnosis-nov6-r3:10"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
    "primary_copy": null,
-   "merged_from": [],
+   "merged_from": [
+    {
+     "rid": "vertical-hypnosis-nov6-r3:10",
+     "source": "vertical-hypnosis-nov6-r3",
+     "label": "Insomnia (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Insomnia",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Round3 research: Flixxo publishes a three-episode microseries version (2/2/4min). No portrait framing verified. Research found all family outcomes UNKNOWN, but older no-values have no explanatory notes; HOLD those field changes pending original evidence review.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Flixxo official series/episodes",
+       "url": "https://play.flixxo.com/es/series/98faee3a-20e2-419c-986a-9432f77ec9a6/1"
+      },
+      {
+       "label": "PRODU director/producer interview, 20Dec2024",
+       "url": "https://www.produ.com/television/noticias/flixxo-estrena-su-primera-microserie-original-hecha-con-inteligencia-artificial/"
+      },
+      {
+       "label": "Tivù23Dec2024 trade corroboration",
+       "url": "https://tivu.es/news/flixxo-lanza-insomnia-una-serie-original-realizada-con-inteligencia-artificial/"
+      },
+      {
+       "label": "Cinenacional2025 cast/crew/version",
+       "url": "https://cinenacional.com/pelicula/insomnia-2025"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Flixxo1 (2min)",
+       "gist": "Therapist enters Natalia’s mind to investigate severe insomnia and secrets."
+      },
+      {
+       "episode": "Flixxo2 (2min)",
+       "gist": "A further hypnosis session blurs memories and visions; Natalia fears mistakes."
+      },
+      {
+       "episode": "Flixxo3 (4min)",
+       "gist": "Finale plot unverified: platform lists episode but no usable ending description."
+      }
+     ],
+     "tags": [
+      "AI HYBRID: generative AI + filmed footage",
+      "Flixxo2024 microseries version; same2025film"
+     ],
+     "fit_note": "Round3 research: AI HYBRID — NOT WHOLLY AI-GENERATED. Actual hypnotherapy, not merely hypnotic aesthetics. Hybrid production: generative AI combined with footage filmed on set, explicitly confirmed by director. Flixxo microseries premiered December 2024; the same director/cast/writers also have a 2025 9-minute short listing. Do not create a duplicate or blindly overwrite year2025.",
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "deep-refresh-oct30:34": {
      "pregnant_end": "no",
@@ -565422,8 +565613,79 @@ window.CATALOG = {
      "tags": [
       "loose fit"
      ]
+    },
+    "vertical-hypnosis-nov6-r3:10": {
+     "title": "Insomnia",
+     "match_title": "Insomnia",
+     "match_year": "2025",
+     "year": "2025",
+     "format": "short film",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "Flixxo official series/episodes",
+       "url": "https://play.flixxo.com/es/series/98faee3a-20e2-419c-986a-9432f77ec9a6/1"
+      },
+      {
+       "label": "PRODU director/producer interview, 20Dec2024",
+       "url": "https://www.produ.com/television/noticias/flixxo-estrena-su-primera-microserie-original-hecha-con-inteligencia-artificial/"
+      },
+      {
+       "label": "Tivù23Dec2024 trade corroboration",
+       "url": "https://tivu.es/news/flixxo-lanza-insomnia-una-serie-original-realizada-con-inteligencia-artificial/"
+      },
+      {
+       "label": "Cinenacional2025 cast/crew/version",
+       "url": "https://cinenacional.com/pelicula/insomnia-2025"
+      }
+     ],
+     "no_media": true,
+     "existing_id": 3785,
+     "override_fields": [
+      "note",
+      "fit_note",
+      "episodes"
+     ],
+     "note": "Round3 research: Flixxo publishes a three-episode microseries version (2/2/4min). No portrait framing verified. Research found all family outcomes UNKNOWN, but older no-values have no explanatory notes; HOLD those field changes pending original evidence review.",
+     "fit_note": "Round3 research: AI HYBRID — NOT WHOLLY AI-GENERATED. Actual hypnotherapy, not merely hypnotic aesthetics. Hybrid production: generative AI combined with footage filmed on set, explicitly confirmed by director. Flixxo microseries premiered December 2024; the same director/cast/writers also have a 2025 9-minute short listing. Do not create a duplicate or blindly overwrite year2025.",
+     "episodes": [
+      {
+       "episode": "Flixxo1 (2min)",
+       "gist": "Therapist enters Natalia’s mind to investigate severe insomnia and secrets."
+      },
+      {
+       "episode": "Flixxo2 (2min)",
+       "gist": "A further hypnosis session blurs memories and visions; Natalia fears mistakes."
+      },
+      {
+       "episode": "Flixxo3 (4min)",
+       "gist": "Finale plot unverified: platform lists episode but no usable ending description."
+      }
+     ],
+     "tags": [
+      "AI HYBRID: generative AI + filmed footage",
+      "Flixxo2024 microseries version; same2025film"
+     ]
     }
-   }
+   },
+   "fit_note": "Round3 research: AI HYBRID — NOT WHOLLY AI-GENERATED. Actual hypnotherapy, not merely hypnotic aesthetics. Hybrid production: generative AI combined with footage filmed on set, explicitly confirmed by director. Flixxo microseries premiered December 2024; the same director/cast/writers also have a 2025 9-minute short listing. Do not create a duplicate or blindly overwrite year2025.",
+   "episodes": [
+    {
+     "episode": "Flixxo1 (2min)",
+     "gist": "Therapist enters Natalia’s mind to investigate severe insomnia and secrets."
+    },
+    {
+     "episode": "Flixxo2 (2min)",
+     "gist": "A further hypnosis session blurs memories and visions; Natalia fears mistakes."
+    },
+    {
+     "episode": "Flixxo3 (4min)",
+     "gist": "Finale plot unverified: platform lists episode but no usable ending description."
+    }
+   ]
   },
   {
    "id": 3786,
@@ -577347,6 +577609,1086 @@ window.CATALOG = {
      "no_media": true
     }
    }
+  },
+  {
+   "id": 3923,
+   "title": "In Reverie",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "United States · English · horizontal/nonvertical short; not promoted as vertical",
+   "mechanism": "Hypnotherapy after ordinary therapy fails; buried trauma emerges.",
+   "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+   "summary": "Lucy turns to hypnosis after therapy fails, uncovering traumatic memories.",
+   "character": "Lucy (Krissa Hosto)",
+   "provenance": "",
+   "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical.",
+   "episodes": [
+    {
+     "episode": "not applicable: standalone short film",
+     "gist": "Lucy turns to hypnosis after therapy fails, uncovering traumatic memories.",
+     "scene_timestamp": "unknown"
+    }
+   ],
+   "tags": [
+    "Original title: In Reverie"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Described as a young woman seeking therapy independently; adult-coded clinical role, numeric age not stated. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+   "format": "short",
+   "categories": [
+    "medical",
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Touchstone Independent Film Festival: filmmaker submission",
+     "url": "https://www.touchstoneindependentfilmfestival.com/awardwinner/tiff1478"
+    },
+    {
+     "label": "Lead performer official site",
+     "url": "https://www.krissahosto.com/"
+    },
+    {
+     "label": "Public trailer transcript",
+     "url": "https://www.youtube.com/watch?v=tP0do0KYlcM"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r3"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r3:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r3:1": {
+     "title": "In Reverie",
+     "original_language_title": "In Reverie",
+     "year": "2025",
+     "format": "short",
+     "country": "United States",
+     "language": "English",
+     "character": "Lucy (Krissa Hosto)",
+     "adult_status_evidence": "Described as a young woman seeking therapy independently; adult-coded clinical role, numeric age not stated.",
+     "mechanism": "Hypnotherapy after ordinary therapy fails; buried trauma emerges.",
+     "summary": "Lucy turns to hypnosis after therapy fails, uncovering traumatic memories.",
+     "categories": [
+      "medical",
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Touchstone Independent Film Festival: filmmaker submission",
+       "url": "https://www.touchstoneindependentfilmfestival.com/awardwinner/tiff1478",
+       "evidence_paraphrase": "Alyssa Malloy short, 16:21, woman Lucy turns to hypnotherapy to address trauma."
+      },
+      {
+       "label": "Lead performer official site",
+       "url": "https://www.krissahosto.com/",
+       "evidence_paraphrase": "Krissa Hosto identifies herself as Lucy and says the award-winning short is out now."
+      },
+      {
+       "label": "Public trailer transcript",
+       "url": "https://www.youtube.com/watch?v=tP0do0KYlcM",
+       "evidence_paraphrase": "Lucy says she fired her therapist and discusses hypnosis and unexplained visions."
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "not applicable: standalone short film",
+       "gist": "Lucy turns to hypnosis after therapy fails, uncovering traumatic memories.",
+       "scene_timestamp": "unknown"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "unknown",
+     "ai_generation": "unknown; no supported AI-production claim",
+     "orientation": "horizontal/nonvertical short; not promoted as vertical",
+     "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+     "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Described as a young woman seeking therapy independently; adult-coded clinical role, numeric age not stated. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+     "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical.",
+     "dedupe_checked_entry_count": 3729,
+     "exact_title_matches": [],
+     "no_media": true,
+     "meta": "United States · English · horizontal/nonvertical short; not promoted as vertical",
+     "tags": [
+      "Original title: In Reverie"
+     ],
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. "
+    }
+   }
+  },
+  {
+   "id": 3924,
+   "title": "Lost",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Australia · English · horizontal/nonvertical short; not promoted as vertical",
+   "mechanism": "A therapist proposes hypnosis for panic attacks; the treatment becomes dangerous.",
+   "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+   "summary": "Roo undergoes hypnosis for panic attacks, but the boundaries between healing and danger blur.",
+   "character": "Roo (Madison Chippendale)",
+   "provenance": "",
+   "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical.",
+   "episodes": [
+    {
+     "episode": "not applicable: standalone short film",
+     "gist": "Roo undergoes hypnosis for panic attacks, but the boundaries between healing and danger blur.",
+     "scene_timestamp": "unknown"
+    }
+   ],
+   "tags": [
+    "Original title: Lost"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Official synopsis describes a young woman with panic attacks seeking treatment; adult-coded independent patient, exact age unstated. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+   "format": "short",
+   "categories": [
+    "medical",
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Blue Dot Production official project",
+     "url": "https://thebluedot.com.au/films/lost"
+    },
+    {
+     "label": "Fantastic Film Festival Australia: Sydney Shorts 2025",
+     "url": "https://www.fantasticfilmfestival.com.au/films/Sydney-Shorts-2025"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r3"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r3:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r3:2": {
+     "title": "Lost",
+     "original_language_title": "Lost",
+     "year": "2025",
+     "format": "short",
+     "country": "Australia",
+     "language": "English",
+     "character": "Roo (Madison Chippendale)",
+     "adult_status_evidence": "Official synopsis describes a young woman with panic attacks seeking treatment; adult-coded independent patient, exact age unstated.",
+     "mechanism": "A therapist proposes hypnosis for panic attacks; the treatment becomes dangerous.",
+     "summary": "Roo undergoes hypnosis for panic attacks, but the boundaries between healing and danger blur.",
+     "categories": [
+      "medical",
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Blue Dot Production official project",
+       "url": "https://thebluedot.com.au/films/lost",
+       "evidence_paraphrase": "Adrian Samson director/producer; Roo is treated through hypnosis; short runtime 9:16."
+      },
+      {
+       "label": "Fantastic Film Festival Australia: Sydney Shorts 2025",
+       "url": "https://www.fantasticfilmfestival.com.au/films/Sydney-Shorts-2025",
+       "evidence_paraphrase": "Independent screening listing identifies Roo and hypnosis. Program-wide Unclassified 18+ is NOT a standalone rating or proof of character age."
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "not applicable: standalone short film",
+       "gist": "Roo undergoes hypnosis for panic attacks, but the boundaries between healing and danger blur.",
+       "scene_timestamp": "unknown"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "unknown",
+     "ai_generation": "unknown; no supported AI-production claim",
+     "orientation": "horizontal/nonvertical short; not promoted as vertical",
+     "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+     "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Official synopsis describes a young woman with panic attacks seeking treatment; adult-coded independent patient, exact age unstated. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+     "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical.",
+     "dedupe_checked_entry_count": 3729,
+     "exact_title_matches": [],
+     "no_media": true,
+     "meta": "Australia · English · horizontal/nonvertical short; not promoted as vertical",
+     "tags": [
+      "Original title: Lost"
+     ],
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. "
+    }
+   }
+  },
+  {
+   "id": 3925,
+   "title": "The Zone",
+   "subtitle": "",
+   "year": "2010",
+   "meta": "United States · English · horizontal/nonvertical short; not promoted as vertical",
+   "mechanism": "Sports hypnotherapy improves a boxer’s performance; an underground fighting scheme follows.",
+   "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+   "summary": "Boxer Olivia takes sports hypnosis to improve her performance, then her coach sends her into an underground fight.",
+   "character": "Olivia (Denisse Bon)",
+   "provenance": "",
+   "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical. Identity verified: Monica Azevedo director, Denisse Bon as boxer Olivia,13min English short; RT2010 matches these credits. Director2018 interview says shot8years earlier and delayed by music rights; festival screening2018. Not another same-title production.",
+   "episodes": [
+    {
+     "episode": "not applicable: standalone short film",
+     "gist": "Boxer Olivia takes sports hypnosis to improve her performance, then her coach sends her into an underground fight.",
+     "scene_timestamp": "unknown"
+    }
+   ],
+   "tags": [
+    "Original title: The Zone"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Adult competitive boxer using professional sports hypnotherapy; no numeric age in interview. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+   "format": "short",
+   "categories": [
+    "medical",
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "First-person director interview, Agenda Magazine",
+     "url": "https://www.agendamag.com/awiaff-2018-director-monica-azevedo-talks-zone/"
+    },
+    {
+     "label": "Rotten Tomatoes title listing",
+     "url": "https://www.rottentomatoes.com/m/the_zone"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r3"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r3:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r3:3": {
+     "title": "The Zone",
+     "original_language_title": "The Zone",
+     "year": "2010",
+     "format": "short",
+     "country": "United States",
+     "language": "English",
+     "character": "Olivia (Denisse Bon)",
+     "adult_status_evidence": "Adult competitive boxer using professional sports hypnotherapy; no numeric age in interview.",
+     "mechanism": "Sports hypnotherapy improves a boxer’s performance; an underground fighting scheme follows.",
+     "summary": "Boxer Olivia takes sports hypnosis to improve her performance, then her coach sends her into an underground fight.",
+     "categories": [
+      "medical",
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "First-person director interview, Agenda Magazine",
+       "url": "https://www.agendamag.com/awiaff-2018-director-monica-azevedo-talks-zone/",
+       "evidence_paraphrase": "Monica Azevedo describes Olivia, sports hypnotist and psychologist consultation. Interview April 2018 says shot eight years earlier and delayed by music rights."
+      },
+      {
+       "label": "Rotten Tomatoes title listing",
+       "url": "https://www.rottentomatoes.com/m/the_zone",
+       "evidence_paraphrase": "Opened matching cast/director page confirms2010,13minutes,English,Monica Azevedo/Denisse Bon and young-woman sports-hypnosis synopsis. Not confused with Joe Swanberg’s same-name feature."
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "not applicable: standalone short film",
+       "gist": "Boxer Olivia takes sports hypnosis to improve her performance, then her coach sends her into an underground fight.",
+       "scene_timestamp": "unknown"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "unknown",
+     "ai_generation": "unknown; no supported AI-production claim",
+     "orientation": "horizontal/nonvertical short; not promoted as vertical",
+     "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+     "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Adult competitive boxer using professional sports hypnotherapy; no numeric age in interview. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+     "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical. Identity verified: Monica Azevedo director, Denisse Bon as boxer Olivia,13min English short; RT2010 matches these credits. Director2018 interview says shot8years earlier and delayed by music rights; festival screening2018. Not another same-title production.",
+     "dedupe_checked_entry_count": 3729,
+     "exact_title_matches": [],
+     "no_media": true,
+     "meta": "United States · English · horizontal/nonvertical short; not promoted as vertical",
+     "tags": [
+      "Original title: The Zone"
+     ],
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. "
+    }
+   }
+  },
+  {
+   "id": 3926,
+   "title": "Le voyage de Cassandre",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "France · French · horizontal/nonvertical short; not promoted as vertical",
+   "mechanism": "Smoking-cessation hypnosis becomes a false-memory realm used by her doctor to revisit his dead ex-wife.",
+   "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+   "summary": "Dr Prélac hypnotizes Cassandre for smoking cessation but uses her to visit memories of Hannah, his dead ex-wife. Cassandre ultimately hypnotizes the doctor to help him move on.",
+   "character": "Cassandre (Caroline Fostinelli)",
+   "provenance": "",
+   "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical.",
+   "episodes": [
+    {
+     "episode": "not applicable: standalone short film",
+     "gist": "Dr Prélac hypnotizes Cassandre for smoking cessation but uses her to visit memories of Hannah, his dead ex-wife. Cassandre ultimately hypnotizes the doctor to help him move on.",
+     "scene_timestamp": "unknown"
+    }
+   ],
+   "tags": [
+    "Original title: Le voyage de Cassandre"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Woman attending smoking-cessation therapy; adult clinical/social role, exact age unstated. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+   "format": "short",
+   "categories": [
+    "medical",
+    "doctor-gain",
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "AlloCiné plot/cast",
+     "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=243684.html"
+    },
+    {
+     "label": "Indie-Clips film publication",
+     "url": "https://indie-clips.com/fr/le-voyage-de-cassandre-par-pierre-yves-runfola"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r3"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r3:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r3:4": {
+     "title": "Le voyage de Cassandre",
+     "original_language_title": "Le voyage de Cassandre",
+     "year": "2018",
+     "format": "short",
+     "country": "France",
+     "language": "French",
+     "character": "Cassandre (Caroline Fostinelli)",
+     "adult_status_evidence": "Woman attending smoking-cessation therapy; adult clinical/social role, exact age unstated.",
+     "mechanism": "Smoking-cessation hypnosis becomes a false-memory realm used by her doctor to revisit his dead ex-wife.",
+     "summary": "Dr Prélac hypnotizes Cassandre for smoking cessation but uses her to visit memories of Hannah, his dead ex-wife. Cassandre ultimately hypnotizes the doctor to help him move on.",
+     "categories": [
+      "medical",
+      "doctor-gain",
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "AlloCiné plot/cast",
+       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=243684.html",
+       "evidence_paraphrase": "2018 French short; Cassandre, Dr Prélac and Hannah; explicit therapeutic hypnosis and reversal."
+      },
+      {
+       "label": "Indie-Clips film publication",
+       "url": "https://indie-clips.com/fr/le-voyage-de-cassandre-par-pierre-yves-runfola",
+       "evidence_paraphrase": "Pierre-Yves Runfola short published March 2021; hypnosis/memory plot corroborated."
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "not applicable: standalone short film",
+       "gist": "Dr Prélac hypnotizes Cassandre for smoking cessation but uses her to visit memories of Hannah, his dead ex-wife. Cassandre ultimately hypnotizes the doctor to help him move on.",
+       "scene_timestamp": "unknown"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "unknown",
+     "ai_generation": "unknown; no supported AI-production claim",
+     "orientation": "horizontal/nonvertical short; not promoted as vertical",
+     "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+     "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Woman attending smoking-cessation therapy; adult clinical/social role, exact age unstated. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+     "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical.",
+     "dedupe_checked_entry_count": 3729,
+     "exact_title_matches": [],
+     "no_media": true,
+     "meta": "France · French · horizontal/nonvertical short; not promoted as vertical",
+     "tags": [
+      "Original title: Le voyage de Cassandre"
+     ],
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. "
+    }
+   }
+  },
+  {
+   "id": 3927,
+   "title": "Tales from the Occult: Ultimate Malevolence",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "Hong Kong · Cantonese · horizontal anthology feature",
+   "mechanism": "Flora undergoes hypnosis to retrieve her final telephone conversation with missing friend Maureen.",
+   "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+   "summary": "In anthology segment Killing Me Softly, magician Flora undergoes hypnosis to reconstruct the last call from her missing friend Maureen, exposing herself to danger.",
+   "character": "Flora (Miss Hunny), segment Killing Me Softly",
+   "provenance": "",
+   "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal anthology feature.",
+   "episodes": [
+    {
+     "episode": "Killing Me Softly anthology segment; segment ordinal/timestamp unverified",
+     "gist": "Flora uses hypnotherapy to reconstruct the call from missing Maureen."
+    }
+   ],
+   "tags": [
+    "Original title: 失衡凶間之惡念之最"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Adult professional magician; exact age unstated. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Media Asia official distributor",
+     "url": "https://mediaasia.com/En/Movies/Info/99/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r3"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r3:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r3:5": {
+     "title": "Tales from the Occult: Ultimate Malevolence",
+     "original_language_title": "失衡凶間之惡念之最",
+     "year": "2023",
+     "format": "movie",
+     "country": "Hong Kong",
+     "language": "Cantonese",
+     "character": "Flora (Miss Hunny), segment Killing Me Softly",
+     "adult_status_evidence": "Adult professional magician; exact age unstated.",
+     "mechanism": "Flora undergoes hypnosis to retrieve her final telephone conversation with missing friend Maureen.",
+     "summary": "In anthology segment Killing Me Softly, magician Flora undergoes hypnosis to reconstruct the last call from her missing friend Maureen, exposing herself to danger.",
+     "categories": [
+      "medical",
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Media Asia official distributor",
+       "url": "https://mediaasia.com/En/Movies/Info/99/",
+       "evidence_paraphrase": "Explicitly: Flora undergoes hypnosis to retrieve the memory of their conversation. Release 2023-07-27, 93 minutes, Category IIB."
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Killing Me Softly anthology segment; segment ordinal/timestamp unverified",
+       "gist": "Flora uses hypnotherapy to reconstruct the call from missing Maureen."
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "unknown",
+     "ai_generation": "unknown; no supported AI-production claim",
+     "orientation": "horizontal anthology feature",
+     "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+     "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Adult professional magician; exact age unstated. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+     "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal anthology feature.",
+     "content_rating": "Hong Kong IIB; not an erotic-title claim",
+     "dedupe_checked_entry_count": 3729,
+     "exact_title_matches": [],
+     "no_media": true,
+     "meta": "Hong Kong · Cantonese · horizontal anthology feature",
+     "tags": [
+      "Original title: 失衡凶間之惡念之最"
+     ],
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. "
+    }
+   }
+  },
+  {
+   "id": 3928,
+   "title": "Fi Lahza / Turning Point",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Egypt · Arabic · horizontal 30-episode TV serial",
+   "mechanism": "Nadia hypnotizes Farida to have her supply a Basil belonging to Saif, facilitating interference with DNA evidence.",
+   "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+   "summary": "Nadia hypnotizes Farida into giving Saif an item belonging to Basil. In the finale, Saif discovers sample tampering and marries Farida.",
+   "character": "Farida",
+   "provenance": "",
+   "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal 30-episode TV serial.",
+   "episodes": [
+    {
+     "episode": "27",
+     "gist": "Nadia hypnotizes Farida and makes her give Saif one of Basil’s belongings."
+    },
+    {
+     "episode": "30 (finale)",
+     "gist": "Saif discovers tampered DNA sample; Basil learns his mother lied; Saif forgives Asia and marries Farida."
+    }
+   ],
+   "tags": [
+    "Original title: في لحظة"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Farida prior children UNKNOWN. Saif has an existing son with ex-wife Madeleine (episode17), not a confirmed Farida/Saif child.",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Farida’s own prior children unknown. Saif already has a son with ex-wife Madeleine (episode17), a partner’s PRIOR child, not a new Farida/Saif birth. Sarah’s pregnancy in episode20 is NOT Farida’s.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Adult heroine in business/inheritance plot; marries Saif in finale. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+   "format": "tv",
+   "categories": [
+    "human",
+    "forced-obedience",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "ElCinema Arabic episode guide",
+     "url": "https://elcinema.com/work/2091822/episodes"
+    },
+    {
+     "label": "ElCinema English parallel guide",
+     "url": "https://elcinema.com/en/work/2091822/episodes"
+    },
+    {
+     "label": "TOD official distribution page (blocked fetch)",
+     "url": "https://www.tod.tv/ar/series/arabic/turning-point-5003431"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r3"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r3:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r3:6": {
+     "title": "Fi Lahza / Turning Point",
+     "original_language_title": "في لحظة",
+     "year": "2025",
+     "format": "tv",
+     "country": "Egypt",
+     "language": "Arabic",
+     "character": "Farida",
+     "adult_status_evidence": "Adult heroine in business/inheritance plot; marries Saif in finale.",
+     "mechanism": "Nadia hypnotizes Farida to have her supply a Basil belonging to Saif, facilitating interference with DNA evidence.",
+     "summary": "Nadia hypnotizes Farida into giving Saif an item belonging to Basil. In the finale, Saif discovers sample tampering and marries Farida.",
+     "categories": [
+      "human",
+      "forced-obedience",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "ElCinema Arabic episode guide",
+       "url": "https://elcinema.com/work/2091822/episodes",
+       "evidence_paraphrase": "Episode 27 explicitly calls Nadia’s action hypnosis of Farida. Episode 30: marriage to Saif."
+      },
+      {
+       "label": "ElCinema English parallel guide",
+       "url": "https://elcinema.com/en/work/2091822/episodes",
+       "evidence_paraphrase": "Same editorial guide, NOT an independent second source. Episode17: Saif previously had a son with Madeleine."
+      },
+      {
+       "label": "TOD official distribution page (blocked fetch)",
+       "url": "https://www.tod.tv/ar/series/arabic/turning-point-5003431",
+       "evidence_paraphrase": "Indexed distributor identity; HTTP403, not read as full episode evidence."
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "27",
+       "gist": "Nadia hypnotizes Farida and makes her give Saif one of Basil’s belongings."
+      },
+      {
+       "episode": "30 (finale)",
+       "gist": "Saif discovers tampered DNA sample; Basil learns his mother lied; Saif forgives Asia and marries Farida."
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "Farida/Saif; married in episode30",
+     "ai_generation": "unknown; no supported AI-production claim",
+     "orientation": "horizontal 30-episode TV serial",
+     "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+     "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Adult heroine in business/inheritance plot; marries Saif in finale. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+     "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal 30-episode TV serial.",
+     "kids_note": "Farida prior children UNKNOWN. Saif has an existing son with ex-wife Madeleine (episode17), not a confirmed Farida/Saif child.",
+     "dedupe_checked_entry_count": 3729,
+     "exact_title_matches": [],
+     "no_media": true,
+     "meta": "Egypt · Arabic · horizontal 30-episode TV serial",
+     "tags": [
+      "Original title: في لحظة"
+     ],
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Farida’s own prior children unknown. Saif already has a son with ex-wife Madeleine (episode17), a partner’s PRIOR child, not a new Farida/Saif birth. Sarah’s pregnancy in episode20 is NOT Farida’s."
+    }
+   }
+  },
+  {
+   "id": 3929,
+   "title": "She Comes from the Abyss",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "China · Mandarin · short-form episodic web serial (24 episodes); portrait/vertical framing NOT verified",
+   "mechanism": "Her therapist Zuo Mengjie hypnotizes her to dispel doubts; husband Chen Mo also performs a session revealing that an apparent encounter was a hypnotic hallucination.",
+   "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+   "summary": "An obstetrician suffering postpartum depression is treated with hypnosis while uncovering her husband’s secrets. Episode6 explicitly reveals that Chen Mo hypnotized her; the finale reunites her with daughter Yiyi and companion Cheng Yu.",
+   "character": "Lin Yazhi / 林雅芝 (Mu Le’en / 穆乐恩)",
+   "provenance": "",
+   "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: yes — childbirth five years before the story. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: short-form episodic web serial (24 episodes); portrait/vertical framing NOT verified.",
+   "episodes": [
+    {
+     "episode": "6",
+     "gist": "Chen Mo hypnotizes Lin Yazhi to confront traumatic memories of patient Li Meng’s miscarriage; Lin wakes from the imagined confrontation."
+    },
+    {
+     "episode": "24 (finale)",
+     "gist": "Lin and Meng Xiaoting cooperate; Chen Mo is exposed and critically injured. Lin recovers and is with existing daughter Yiyi and Cheng Yu."
+    }
+   ],
+   "tags": [
+    "Original title: 她从深渊来",
+    "Original title: 她從深淵來"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Existing daughter Yiyi; heroine gave birth five years before storyline. Finale24 retains this EXISTING daughter with mother and companion Cheng Yu, not proof of new childbirth or shared biological parentage.",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing daughter Yiyi. Finale mother/child/Cheng Yu together does not prove Cheng Yu is biological father, marriage, or new pregnancy. Li Meng’s miscarriage belongs to another woman.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Former obstetrician, married to Chen Mo, mother with postpartum depression after giving birth five years earlier. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "wife",
+    "therapist-wife",
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "iQIYI official distributor",
+     "url": "https://www.iq.com/album/她從深淵來-2025-wutj3zolq9?lang=zh_tw"
+    },
+    {
+     "label": "Manmankan overview",
+     "url": "https://www.manmankan.com/dy2013/juqingjieshao/2025/32171/"
+    },
+    {
+     "label": "Yingleku episode6 recap",
+     "url": "https://m.yingleku.com/tvs/3040938tv/dive6.html"
+    },
+    {
+     "label": "Yingleku finale24 recap",
+     "url": "https://m.yingleku.com/tvs/3040938tv/dive24.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r3"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r3:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r3:7": {
+     "title": "She Comes from the Abyss",
+     "original_language_title": "她从深渊来 / 她從深淵來",
+     "year": "2025",
+     "format": "tv",
+     "country": "China",
+     "language": "Mandarin",
+     "character": "Lin Yazhi / 林雅芝 (Mu Le’en / 穆乐恩)",
+     "adult_status_evidence": "Former obstetrician, married to Chen Mo, mother with postpartum depression after giving birth five years earlier.",
+     "mechanism": "Her therapist Zuo Mengjie hypnotizes her to dispel doubts; husband Chen Mo also performs a session revealing that an apparent encounter was a hypnotic hallucination.",
+     "summary": "An obstetrician suffering postpartum depression is treated with hypnosis while uncovering her husband’s secrets. Episode6 explicitly reveals that Chen Mo hypnotized her; the finale reunites her with daughter Yiyi and companion Cheng Yu.",
+     "categories": [
+      "medical",
+      "wife",
+      "therapist-wife",
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "iQIYI official distributor",
+       "url": "https://www.iq.com/album/她從深淵來-2025-wutj3zolq9?lang=zh_tw",
+       "evidence_paraphrase": "Official 2025 series, Luo Yiming, Mu Le’en, 24 episodes."
+      },
+      {
+       "label": "Manmankan overview",
+       "url": "https://www.manmankan.com/dy2013/juqingjieshao/2025/32171/",
+       "evidence_paraphrase": "Former obstetrician gave birth five years earlier; postpartum depression and Zuo Mengjie’s hypnosis."
+      },
+      {
+       "label": "Yingleku episode6 recap",
+       "url": "https://m.yingleku.com/tvs/3040938tv/dive6.html",
+       "evidence_paraphrase": "Lin Yazhi wakes from Chen Mo’s hypnosis; the threatening Li Meng encounter was a hallucination within therapy."
+      },
+      {
+       "label": "Yingleku finale24 recap",
+       "url": "https://m.yingleku.com/tvs/3040938tv/dive24.html",
+       "evidence_paraphrase": "Yiyi returns to a healthy childhood with her mother; Cheng Yu accompanies them. No ending pregnancy asserted."
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "6",
+       "gist": "Chen Mo hypnotizes Lin Yazhi to confront traumatic memories of patient Li Meng’s miscarriage; Lin wakes from the imagined confrontation."
+      },
+      {
+       "episode": "24 (finale)",
+       "gist": "Lin and Meng Xiaoting cooperate; Chen Mo is exposed and critically injured. Lin recovers and is with existing daughter Yiyi and Cheng Yu."
+      }
+     ],
+     "kids_status": "yes",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "yes — childbirth five years before the story",
+     "relationship": "Initially Chen Mo/Lin Yazhi; finale Lin Yazhi/Cheng Yu companion relationship, legal marriage not confirmed",
+     "ai_generation": "unknown; no supported AI-production claim",
+     "orientation": "short-form episodic web serial (24 episodes); portrait/vertical framing NOT verified",
+     "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+     "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Former obstetrician, married to Chen Mo, mother with postpartum depression after giving birth five years earlier. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+     "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: yes — childbirth five years before the story. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: short-form episodic web serial (24 episodes); portrait/vertical framing NOT verified.",
+     "kids_note": "Existing daughter Yiyi; heroine gave birth five years before storyline. Finale24 retains this EXISTING daughter with mother and companion Cheng Yu, not proof of new childbirth or shared biological parentage.",
+     "dedupe_checked_entry_count": 3729,
+     "exact_title_matches": [],
+     "no_media": true,
+     "meta": "China · Mandarin · short-form episodic web serial (24 episodes); portrait/vertical framing NOT verified",
+     "tags": [
+      "Original title: 她从深渊来",
+      "Original title: 她從深淵來"
+     ],
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. Existing daughter Yiyi. Finale mother/child/Cheng Yu together does not prove Cheng Yu is biological father, marriage, or new pregnancy. Li Meng’s miscarriage belongs to another woman."
+    }
+   }
+  },
+  {
+   "id": 3930,
+   "title": "Sinsentido",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "Peru · Unverified (Spanish-language source metadata; do not infer dialogue language) · horizontal/nonvertical short; not promoted as vertical",
+   "mechanism": "A mysterious man hypnotizes a woman, who progressively loses her senses.",
+   "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+   "summary": "A woman hypnotized by a mysterious man begins losing her senses one by one.",
+   "character": "Unnamed woman (Lilith Albornoz)",
+   "provenance": "",
+   "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical.",
+   "episodes": [
+    {
+     "episode": "not applicable: standalone short film",
+     "gist": "A woman hypnotized by a mysterious man begins losing her senses one by one.",
+     "scene_timestamp": "unknown"
+    }
+   ],
+   "tags": [
+    "Original title: Sinsentido"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Explicitly described as a woman, not a girl; adult-coded casting/character, numeric age not given. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+   "format": "short",
+   "categories": [
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Cineaparte film entry with director’s first-person production note",
+     "url": "https://www.cineaparte.com/p/1200/sinsentido"
+    },
+    {
+     "label": "FilmAffinity",
+     "url": "https://www.filmaffinity.com/pe/film604783.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r3"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r3:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r3:8": {
+     "title": "Sinsentido",
+     "original_language_title": "Sinsentido",
+     "year": "2016",
+     "format": "short",
+     "country": "Peru",
+     "language": "Unverified (Spanish-language source metadata; do not infer dialogue language)",
+     "character": "Unnamed woman (Lilith Albornoz)",
+     "adult_status_evidence": "Explicitly described as a woman, not a girl; adult-coded casting/character, numeric age not given.",
+     "mechanism": "A mysterious man hypnotizes a woman, who progressively loses her senses.",
+     "summary": "A woman hypnotized by a mysterious man begins losing her senses one by one.",
+     "categories": [
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Cineaparte film entry with director’s first-person production note",
+       "url": "https://www.cineaparte.com/p/1200/sinsentido",
+       "evidence_paraphrase": "Rafael Arévalo names Lilith Albornoz and describes making the experimental short. Synopsis explicitly identifies a woman hypnotized by a mysterious subject."
+      },
+      {
+       "label": "FilmAffinity",
+       "url": "https://www.filmaffinity.com/pe/film604783.html",
+       "evidence_paraphrase": "2016 Peru, 4 minutes, El Topo Producciones; same hypnosis mechanism and cast."
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "not applicable: standalone short film",
+       "gist": "A woman hypnotized by a mysterious man begins losing her senses one by one.",
+       "scene_timestamp": "unknown"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "unknown",
+     "ai_generation": "unknown; no supported AI-production claim",
+     "orientation": "horizontal/nonvertical short; not promoted as vertical",
+     "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+     "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Explicitly described as a woman, not a girl; adult-coded casting/character, numeric age not given. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+     "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical.",
+     "dedupe_checked_entry_count": 3729,
+     "exact_title_matches": [],
+     "no_media": true,
+     "meta": "Peru · Unverified (Spanish-language source metadata; do not infer dialogue language) · horizontal/nonvertical short; not promoted as vertical",
+     "tags": [
+      "Original title: Sinsentido"
+     ],
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. "
+    }
+   }
+  },
+  {
+   "id": 3931,
+   "title": "Wide Awake",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Brazil · Unverified (archive-based experimental film; Portuguese synopsis is not language proof) · horizontal/nonvertical short; not promoted as vertical",
+   "mechanism": "A hypnotized woman experiences a futuristic dream made from archive images of future television.",
+   "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+   "summary": "A hypnotized woman dreams of love, space travel and alien robots in an archive-based experimental short.",
+   "character": "Unnamed woman",
+   "provenance": "",
+   "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical.",
+   "episodes": [
+    {
+     "episode": "not applicable: standalone short film",
+     "gist": "A hypnotized woman dreams of love, space travel and alien robots in an archive-based experimental short.",
+     "scene_timestamp": "unknown"
+    }
+   ],
+   "tags": [
+    "Original title: Wide Awake"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Festival synopsis explicitly says mulher/woman; no numeric character age. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+   "format": "short",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Festival ECRÃ official selection",
+     "url": "https://www.festivalecra.com.br/3festivalecraobrasgaleria/wide_awake"
+    },
+    {
+     "label": "Vitória25 official selection",
+     "url": "https://festivaldevitoria.com.br/25fv/filme/33639/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r3"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r3:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r3:9": {
+     "title": "Wide Awake",
+     "original_language_title": "Wide Awake",
+     "year": "2018",
+     "format": "short",
+     "country": "Brazil",
+     "language": "Unverified (archive-based experimental film; Portuguese synopsis is not language proof)",
+     "character": "Unnamed woman",
+     "adult_status_evidence": "Festival synopsis explicitly says mulher/woman; no numeric character age.",
+     "mechanism": "A hypnotized woman experiences a futuristic dream made from archive images of future television.",
+     "summary": "A hypnotized woman dreams of love, space travel and alien robots in an archive-based experimental short.",
+     "categories": [
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Festival ECRÃ official selection",
+       "url": "https://www.festivalecra.com.br/3festivalecraobrasgaleria/wide_awake",
+       "evidence_paraphrase": "Rafael de Almeida, Brazil2018, 7 minutes; explicit hypnotized woman synopsis."
+      },
+      {
+       "label": "Vitória25 official selection",
+       "url": "https://festivaldevitoria.com.br/25fv/filme/33639/",
+       "evidence_paraphrase": "Corroborates 2018/7min and hypnosis synopsis; indicative classification18 years. This is NOT evidence of erotic content."
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "not applicable: standalone short film",
+       "gist": "A hypnotized woman dreams of love, space travel and alien robots in an archive-based experimental short.",
+       "scene_timestamp": "unknown"
+      }
+     ],
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "new_birth_by_ending": "unknown",
+     "earlier_pregnancy": "unknown",
+     "relationship": "unknown",
+     "ai_generation": "unknown; no supported AI-production claim",
+     "orientation": "horizontal/nonvertical short; not promoted as vertical",
+     "confidence_flag": "Medium-high: explicit published synopsis; family ending evidence incomplete",
+     "fit_note": "LITERAL HYPNOSIS; ADULT STATUS ROLE-BASED, EXACT AGE UNSTATED. Festival synopsis explicitly says mulher/woman; no numeric character age. Actual depicted hypnosis identified in published plot evidence. Numeric character age not stated; adult role/wording is identified separately. No family outcome inferred from omission.",
+     "note": "Family fields are independent. Unknown does not mean no. No video was watched; source text/metadata only. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: unknown; no supported AI-production claim. Framing: horizontal/nonvertical short; not promoted as vertical.",
+     "content_rating": "Brazil festival indicative classification: 18 years; not an erotic-content assertion",
+     "dedupe_checked_entry_count": 3729,
+     "exact_title_matches": [],
+     "no_media": true,
+     "meta": "Brazil · Unverified (archive-based experimental film; Portuguese synopsis is not language proof) · horizontal/nonvertical short; not promoted as vertical",
+     "tags": [
+      "Original title: Wide Awake"
+     ],
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Shared parentage/couple children UNKNOWN; NEW birth by ending UNKNOWN. "
+    }
+   }
   }
  ],
  "sections": [
@@ -577848,7 +579190,8 @@ window.CATALOG = {
     "deep-refresh-oct30",
     "deep-refresh-nov04",
     "hypnosis-bestsimilar-nov5",
-    "vertical-hypnosis-nov6"
+    "vertical-hypnosis-nov6",
+    "vertical-hypnosis-nov6-r3"
    ],
    "groups": [
     {
@@ -584544,7 +585887,8 @@ window.CATALOG = {
     "deep-oct24",
     "deep-refresh-oct30",
     "hypnosis-bestsimilar-nov5",
-    "vertical-hypnosis-nov6"
+    "vertical-hypnosis-nov6",
+    "vertical-hypnosis-nov6-r3"
    ],
    "groups": [
     {
@@ -585001,6 +586345,17 @@ window.CATALOG = {
        "id": 3916,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round3",
+     "notes": [],
+     "items": [
+      {
+       "id": 3926,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
       }
      ]
     }
@@ -589278,7 +590633,8 @@ window.CATALOG = {
     "weekly-oct19",
     "deep-oct24",
     "hypno-india-oct24",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "vertical-hypnosis-nov6-r3"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 57,
@@ -592191,7 +593547,8 @@ window.CATALOG = {
     "hypno-pregnant-yt-oct25",
     "hypno-kids-witness-oct25",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r2"
+    "vertical-hypnosis-nov6-r2",
+    "vertical-hypnosis-nov6-r3"
    ],
    "groups": [
     {
@@ -597129,6 +598486,52 @@ window.CATALOG = {
        "from_source": "vertical-hypnosis-nov6-r2"
       }
      ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round3",
+     "notes": [],
+     "items": [
+      {
+       "id": 3928,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3923,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3926,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3924,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3929,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3930,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3927,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3925,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -597488,7 +598891,8 @@ window.CATALOG = {
     "deep-refresh-oct30",
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r2"
+    "vertical-hypnosis-nov6-r2",
+    "vertical-hypnosis-nov6-r3"
    ],
    "groups": [
     {
@@ -598935,6 +600339,17 @@ window.CATALOG = {
        "id": 3914,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round3",
+     "notes": [],
+     "items": [
+      {
+       "id": 3929,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
       }
      ]
     }
@@ -606139,7 +607554,8 @@ window.CATALOG = {
     "deep-refresh-nov04",
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r2"
+    "vertical-hypnosis-nov6-r2",
+    "vertical-hypnosis-nov6-r3"
    ],
    "groups": [
     {
@@ -608115,6 +609531,42 @@ window.CATALOG = {
        "id": 3922,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round3",
+     "notes": [],
+     "items": [
+      {
+       "id": 3923,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3926,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3924,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3929,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3927,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3925,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
       }
      ]
     }
@@ -611110,7 +612562,8 @@ window.CATALOG = {
     "deep-refresh-nov04",
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r2"
+    "vertical-hypnosis-nov6-r2",
+    "vertical-hypnosis-nov6-r3"
    ],
    "groups": [
     {
@@ -614189,6 +615642,57 @@ window.CATALOG = {
        "id": 3922,
        "tags": [],
        "from_source": "vertical-hypnosis-nov6-r2"
+      }
+     ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round3",
+     "notes": [],
+     "items": [
+      {
+       "id": 3928,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3923,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3926,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3924,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3929,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3930,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3927,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3931,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      },
+      {
+       "id": 3925,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
       }
      ]
     }
@@ -634250,7 +635754,8 @@ window.CATALOG = {
     "deep-refresh-nov04",
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r2"
+    "vertical-hypnosis-nov6-r2",
+    "vertical-hypnosis-nov6-r3"
    ],
    "groups": [
     {
@@ -636942,6 +638447,17 @@ window.CATALOG = {
        "from_source": "vertical-hypnosis-nov6-r2"
       }
      ]
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round3",
+     "notes": [],
+     "items": [
+      {
+       "id": 3928,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -637694,7 +639210,8 @@ window.CATALOG = {
     "female-wife-scenes-oct15",
     "youtube-deep-oct15",
     "hypnosis-yt-oct15",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "vertical-hypnosis-nov6-r3"
    ],
    "groups": [
     {
@@ -637943,6 +639460,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov04"
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round3",
+     "notes": [],
+     "items": [
+      {
+       "id": 3929,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r3"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {

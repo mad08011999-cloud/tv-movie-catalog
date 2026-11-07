@@ -53855,5 +53855,25 @@
   "source": "vertical-hypnosis-nov6-r2",
   "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
   "browser_or_network_calls": 0
+ },
+ "offline_nov6_r3_integration": {
+  "new_ids": [
+   3923,
+   3924,
+   3925,
+   3926,
+   3927,
+   3928,
+   3929,
+   3930,
+   3931
+  ],
+  "enriched_ids": [
+   2988,
+   3785
+  ],
+  "source": "vertical-hypnosis-nov6-r3",
+  "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
+  "browser_or_network_calls": 0
  }
 }
