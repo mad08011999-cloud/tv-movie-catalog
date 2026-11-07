@@ -1,0 +1,46 @@
+{
+  "group_title": "Adult mother mind-control and subsequent pregnancy — verified chronology",
+  "records": [
+    {
+      "title": "Days of Our Lives",
+      "year": "1998–99 / 2019–20",
+      "match_title": "Days of Our Lives",
+      "match_year": "1998–99 / 2019–20",
+      "format": "tv",
+      "character": "Hope Brady (adult wife/mother); Bo Brady (partner and father)",
+      "categories": [
+        "tech",
+        "mother",
+        "mom-pregnancy",
+        "wife-hypnotized"
+      ],
+      "summary": "Family chronology clarification: Hope already had live-born son Shawn-Douglas (and an earlier miscarriage) before Stefano’s Princess Gina identity-conditioning storyline. During the later Gina arc she became pregnant with Zack, ultimately confirmed as Bo’s son; Zack was born and recovered after a baby switch. A subsequent pregnancy produced Ciara, also Bo’s daughter despite Patrick’s falsified paternity results. The conditioning is technological personality/mind control, not conventional hypnotherapy; chronology does not establish that it caused conception. The later 2019–20 conditioning is a separate recurrence, not the Zack pregnancy arc.",
+      "mechanism": "Technological Princess Gina personality conditioning / mind control; distinguish from clinical or stage hypnosis.",
+      "kids_status": "Already mother of Shawn-Douglas before Gina conditioning; earlier pregnancy loss is separate from a live birth.",
+      "kids_note": "Bo and Hope subsequently have Zack and Ciara. Do not assign Zack or Ciara to Stefano, John or Patrick.",
+      "kids_together": "yes",
+      "kids_together_note": "Bo and Hope have Shawn-Douglas, Zack and Ciara together.",
+      "pregnancy_outcome": "Subsequent pregnancies end in live births: Zack and Ciara.",
+      "pregnancy_note": "Pregnancies follow the earlier Gina conditioning in storyline chronology. No causal hypnosis/conception claim. Exact reveal, ultrasound/checkup, baby-shower and birth episode numbers remain unconfirmed under the two-independent-source rule.",
+      "pregnant_end": "unknown",
+      "pregnant_end_note": "Ongoing soap; birth arcs documented, not an overall series-ending pregnancy.",
+      "married": "yes",
+      "married_note": "Bo and Hope marry/remarry with later separations; no permanent-ending claim.",
+      "fit_note": "Supported EXISTING-CARD ENRICHMENT, not new title. Adult subject Hope only. Prior miscarriage versus prior live child explicitly distinguished. Separate 1990s/2000 pregnancy chronology from 2019–20 control recurrence.",
+      "sources": [
+        {
+          "label": "Soap Opera Digest — Hope Brady character history (opened Nov7)",
+          "url": "https://www.soapoperadigest.com/content/days-of-our-lives-hope-brady-173092/"
+        },
+        {
+          "label": "Wikipedia — Bo Brady and Hope Williams (opened Nov7)",
+          "url": "https://en.wikipedia.org/wiki/Bo_and_Hope_Brady"
+        }
+      ],
+      "provenance": "Nov7 2026 PT adult mother + hypnosis/mind-control + pregnant again review; exact-match existing ID48. Preserve historical member data and ID.",
+      "override_fields": [
+        "kids_together"
+      ]
+    }
+  ]
+}

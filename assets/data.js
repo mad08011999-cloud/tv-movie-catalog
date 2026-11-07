@@ -11672,6 +11672,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypnosis-repeat-pregnancy-nov7",
+   "label": "Adult mother mind-control and subsequent pregnancy chronology Nov7",
+   "kind": "local",
+   "share_url": "sources/hypnosis-repeat-pregnancy-nov7.json",
+   "description": "",
+   "dropped": [],
+   "check": {
+    "raw_count": 1,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -11760,9 +11773,10 @@ window.CATALOG = {
   "vertical-hypnosis-nov6-r3": 11,
   "vertical-hypnosis-nov6-r4": 7,
   "vertical-hypnosis-nov6-r5": 2,
-  "vertical-hypnosis-nov6-r6": 4
+  "vertical-hypnosis-nov6-r6": 4,
+  "hypnosis-repeat-pregnancy-nov7": 1
  },
- "raw_total": 7501,
+ "raw_total": 7502,
  "entry_count": 3752,
  "categories": [
   {
@@ -11835,7 +11849,7 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 122
+   "entry_count": 123
   },
   {
    "key": "fantasy",
@@ -11985,13 +11999,13 @@ window.CATALOG = {
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 114
+   "entry_count": 115
   },
   {
    "key": "mom-pregnancy",
    "label": "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
    "legend_label": "Mother pregnant again",
-   "entry_count": 180
+   "entry_count": 181
   },
   {
    "key": "hypnotised-mother-marriage",
@@ -26016,15 +26030,21 @@ window.CATALOG = {
    "confidence_flag": "Excluded",
    "summary": "A brain implant transforms Hope Brady into Princess Gina, who attempts to seduce John Black and displace Marlena; Hope is ultimately restored.",
    "character": "",
-   "provenance": "",
+   "provenance": "Nov7 2026 PT adult mother + hypnosis/mind-control + pregnant again review; exact-match existing ID48. Preserve historical member data and ID.",
    "note": "",
+   "pregnancy_outcome": "Subsequent pregnancies end in live births: Zack and Ciara.",
+   "pregnancy_note": "Pregnancies follow the earlier Gina conditioning in storyline chronology. No causal hypnosis/conception claim. Exact reveal, ultrasound/checkup, baby-shower and birth episode numbers remain unconfirmed under the two-independent-source rule.",
    "tags": [
     "loose fit"
    ],
    "kids_status": "yes",
    "kids_note": "Shawn-Douglas (son)",
-   "kids_together": "not stated",
+   "kids_together": "yes",
+   "kids_together_note": "Bo and Hope have Shawn-Douglas, Zack and Ciara together.",
+   "married": "yes",
+   "married_note": "Bo and Hope marry/remarry with later separations; no permanent-ending claim.",
    "pregnant_end": "not stated",
+   "pregnant_end_note": "Ongoing soap; birth arcs documented, not an overall series-ending pregnancy.",
    "fit_note": "Loose fit: conditioning plus implant/drug elements",
    "already_married": "yes",
    "already_married_note": "Yes — husband: Bo Brady (Hope as 'Princess Gina')",
@@ -26036,7 +26056,10 @@ window.CATALOG = {
     "royal-hypnosis",
     "cheat-control",
     "another-man",
-    "wife-hypnotized"
+    "wife-hypnotized",
+    "tech",
+    "mother",
+    "mom-pregnancy"
    ],
    "sources": [
     {
@@ -26046,19 +26069,29 @@ window.CATALOG = {
     {
      "label": "Soap Opera Spy",
      "url": "https://www.soapoperaspy.com/2020/days-of-our-lives-spoilers-guilt-ridden-hope-begs-for-forgiveness/"
+    },
+    {
+     "label": "Soap Opera Digest — Hope Brady character history (opened Nov7)",
+     "url": "https://www.soapoperadigest.com/content/days-of-our-lives-hope-brady-173092/"
+    },
+    {
+     "label": "Wikipedia — Bo Brady and Hope Williams (opened Nov7)",
+     "url": "https://en.wikipedia.org/wiki/Bo_and_Hope_Brady"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "hypnosis-repeat-pregnancy-nov7"
    ],
    "source_records": [
     "xla62ucxbx02u5:48",
     "ig6qlxqxoxvcxla:238",
     "ig6qlxqxoxvcxla:244",
-    "wife-hypnosis-oct15:5"
+    "wife-hypnosis-oct15:5",
+    "hypnosis-repeat-pregnancy-nov7:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -26180,6 +26213,52 @@ window.CATALOG = {
      "already_married_note": "Yes — husband: Bo Brady (Hope as 'Princess Gina')",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-repeat-pregnancy-nov7:1",
+     "source": "hypnosis-repeat-pregnancy-nov7",
+     "label": "Days of Our Lives (1998–99 / 2019–20)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Days of Our Lives",
+     "subtitle": "",
+     "year": "1998–99 / 2019–20",
+     "meta": "",
+     "summary": "Family chronology clarification: Hope already had live-born son Shawn-Douglas (and an earlier miscarriage) before Stefano’s Princess Gina identity-conditioning storyline. During the later Gina arc she became pregnant with Zack, ultimately confirmed as Bo’s son; Zack was born and recovered after a baby switch. A subsequent pregnancy produced Ciara, also Bo’s daughter despite Patrick’s falsified paternity results. The conditioning is technological personality/mind control, not conventional hypnotherapy; chronology does not establish that it caused conception. The later 2019–20 conditioning is a separate recurrence, not the Zack pregnancy arc.",
+     "character": "Hope Brady (adult wife/mother); Bo Brady (partner and father)",
+     "note": "",
+     "mechanism": "Technological Princess Gina personality conditioning / mind control; distinguish from clinical or stage hypnosis.",
+     "confidence_flag": "",
+     "categories": [
+      "tech",
+      "mother",
+      "mom-pregnancy",
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "Soap Opera Digest — Hope Brady character history (opened Nov7)",
+       "url": "https://www.soapoperadigest.com/content/days-of-our-lives-hope-brady-173092/"
+      },
+      {
+       "label": "Wikipedia — Bo Brady and Hope Williams (opened Nov7)",
+       "url": "https://en.wikipedia.org/wiki/Bo_and_Hope_Brady"
+      }
+     ],
+     "pregnancy_outcome": "Subsequent pregnancies end in live births: Zack and Ciara.",
+     "pregnancy_note": "Pregnancies follow the earlier Gina conditioning in storyline chronology. No causal hypnosis/conception claim. Exact reveal, ultrasound/checkup, baby-shower and birth episode numbers remain unconfirmed under the two-independent-source rule.",
+     "kids_status": "Already mother of Shawn-Douglas before Gina conditioning; earlier pregnancy loss is separate from a live birth.",
+     "kids_note": "Bo and Hope subsequently have Zack and Ciara. Do not assign Zack or Ciara to Stefano, John or Patrick.",
+     "kids_together": "yes",
+     "kids_together_note": "Bo and Hope have Shawn-Douglas, Zack and Ciara together.",
+     "married": "yes",
+     "married_note": "Bo and Hope marry/remarry with later separations; no permanent-ending claim.",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "Ongoing soap; birth arcs documented, not an overall series-ending pregnancy.",
+     "fit_note": "Supported EXISTING-CARD ENRICHMENT, not new title. Adult subject Hope only. Prior miscarriage versus prior live child explicitly distinguished. Separate 1990s/2000 pregnancy chronology from 2019–20 control recurrence.",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -26265,6 +26344,47 @@ window.CATALOG = {
       "loose fit"
      ],
      "fit_note": "Loose fit: conditioning plus implant/drug elements"
+    },
+    "hypnosis-repeat-pregnancy-nov7:1": {
+     "title": "Days of Our Lives",
+     "year": "1998–99 / 2019–20",
+     "match_title": "Days of Our Lives",
+     "match_year": "1998–99 / 2019–20",
+     "format": "tv",
+     "character": "Hope Brady (adult wife/mother); Bo Brady (partner and father)",
+     "categories": [
+      "tech",
+      "mother",
+      "mom-pregnancy",
+      "wife-hypnotized"
+     ],
+     "summary": "Family chronology clarification: Hope already had live-born son Shawn-Douglas (and an earlier miscarriage) before Stefano’s Princess Gina identity-conditioning storyline. During the later Gina arc she became pregnant with Zack, ultimately confirmed as Bo’s son; Zack was born and recovered after a baby switch. A subsequent pregnancy produced Ciara, also Bo’s daughter despite Patrick’s falsified paternity results. The conditioning is technological personality/mind control, not conventional hypnotherapy; chronology does not establish that it caused conception. The later 2019–20 conditioning is a separate recurrence, not the Zack pregnancy arc.",
+     "mechanism": "Technological Princess Gina personality conditioning / mind control; distinguish from clinical or stage hypnosis.",
+     "kids_status": "Already mother of Shawn-Douglas before Gina conditioning; earlier pregnancy loss is separate from a live birth.",
+     "kids_note": "Bo and Hope subsequently have Zack and Ciara. Do not assign Zack or Ciara to Stefano, John or Patrick.",
+     "kids_together": "yes",
+     "kids_together_note": "Bo and Hope have Shawn-Douglas, Zack and Ciara together.",
+     "pregnancy_outcome": "Subsequent pregnancies end in live births: Zack and Ciara.",
+     "pregnancy_note": "Pregnancies follow the earlier Gina conditioning in storyline chronology. No causal hypnosis/conception claim. Exact reveal, ultrasound/checkup, baby-shower and birth episode numbers remain unconfirmed under the two-independent-source rule.",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "Ongoing soap; birth arcs documented, not an overall series-ending pregnancy.",
+     "married": "yes",
+     "married_note": "Bo and Hope marry/remarry with later separations; no permanent-ending claim.",
+     "fit_note": "Supported EXISTING-CARD ENRICHMENT, not new title. Adult subject Hope only. Prior miscarriage versus prior live child explicitly distinguished. Separate 1990s/2000 pregnancy chronology from 2019–20 control recurrence.",
+     "sources": [
+      {
+       "label": "Soap Opera Digest — Hope Brady character history (opened Nov7)",
+       "url": "https://www.soapoperadigest.com/content/days-of-our-lives-hope-brady-173092/"
+      },
+      {
+       "label": "Wikipedia — Bo Brady and Hope Williams (opened Nov7)",
+       "url": "https://en.wikipedia.org/wiki/Bo_and_Hope_Brady"
+      }
+     ],
+     "provenance": "Nov7 2026 PT adult mother + hypnosis/mind-control + pregnant again review; exact-match existing ID48. Preserve historical member data and ID.",
+     "override_fields": [
+      "kids_together"
+     ]
     }
    }
   },
@@ -589059,7 +589179,8 @@ window.CATALOG = {
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
-    "vertical-hypnosis-nov6-r4"
+    "vertical-hypnosis-nov6-r4",
+    "hypnosis-repeat-pregnancy-nov7"
    ],
    "groups": [
     {
@@ -589710,6 +589831,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r4"
+    },
+    {
+     "title": "Adult mother mind-control and subsequent pregnancy — verified chronology",
+     "notes": [],
+     "items": [
+      {
+       "id": 48,
+       "from_source": "hypnosis-repeat-pregnancy-nov7"
+      }
+     ],
+     "from_source": "hypnosis-repeat-pregnancy-nov7"
     }
    ],
    "declared_count_by_source": {
@@ -589739,7 +589871,8 @@ window.CATALOG = {
     "hypnosis-bestsimilar-nov5": null,
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r2": null,
-    "vertical-hypnosis-nov6-r4": null
+    "vertical-hypnosis-nov6-r4": null,
+    "hypnosis-repeat-pregnancy-nov7": null
    }
   },
   {
@@ -606211,6 +606344,16 @@ window.CATALOG = {
         "Hypnotized queen/princess for marriage or the throne",
         "Control chip"
        ],
+       "sources": [
+        {
+         "label": "Groups.io recap",
+         "url": "https://groups.io/g/DOOL/topic/days_recap_tuesday_february/71227869"
+        },
+        {
+         "label": "Soap Opera Spy",
+         "url": "https://www.soapoperaspy.com/2020/days-of-our-lives-spoilers-guilt-ridden-hope-begs-for-forgiveness/"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -612485,7 +612628,8 @@ window.CATALOG = {
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
-    "vertical-hypnosis-nov6-r6"
+    "vertical-hypnosis-nov6-r6",
+    "hypnosis-repeat-pregnancy-nov7"
    ],
    "groups": [
     {
@@ -613544,6 +613688,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r6"
+    },
+    {
+     "title": "Adult mother mind-control and subsequent pregnancy — verified chronology",
+     "notes": [],
+     "items": [
+      {
+       "id": 48,
+       "from_source": "hypnosis-repeat-pregnancy-nov7"
+      }
+     ],
+     "from_source": "hypnosis-repeat-pregnancy-nov7"
     }
    ],
    "declared_count_by_source": {
@@ -613564,7 +613719,8 @@ window.CATALOG = {
     "deep-refresh-nov04": null,
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r2": null,
-    "vertical-hypnosis-nov6-r6": null
+    "vertical-hypnosis-nov6-r6": null,
+    "hypnosis-repeat-pregnancy-nov7": null
    }
   },
   {
@@ -613580,7 +613736,8 @@ window.CATALOG = {
     "round2",
     "deep-gap-oct15",
     "pregnant-yt-oct15",
-    "pregnancy-yt-oct15"
+    "pregnancy-yt-oct15",
+    "hypnosis-repeat-pregnancy-nov7"
    ],
    "groups": [
     {
@@ -615272,6 +615429,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnancy-yt-oct15"
+    },
+    {
+     "title": "Adult mother mind-control and subsequent pregnancy — verified chronology",
+     "notes": [],
+     "items": [
+      {
+       "id": 48,
+       "from_source": "hypnosis-repeat-pregnancy-nov7"
+      }
+     ],
+     "from_source": "hypnosis-repeat-pregnancy-nov7"
     }
    ],
    "declared_count_by_source": {
@@ -615281,7 +615449,8 @@ window.CATALOG = {
     "round2": null,
     "deep-gap-oct15": null,
     "pregnant-yt-oct15": null,
-    "pregnancy-yt-oct15": null
+    "pregnancy-yt-oct15": null,
+    "hypnosis-repeat-pregnancy-nov7": null
    }
   },
   {
@@ -639321,6 +639490,16 @@ window.CATALOG = {
         "Hypnotized queen/princess for marriage or the throne",
         "Control chip"
        ],
+       "sources": [
+        {
+         "label": "Groups.io recap",
+         "url": "https://groups.io/g/DOOL/topic/days_recap_tuesday_february/71227869"
+        },
+        {
+         "label": "Soap Opera Spy",
+         "url": "https://www.soapoperaspy.com/2020/days-of-our-lives-spoilers-guilt-ridden-hope-begs-for-forgiveness/"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -641503,7 +641682,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r4",
-    "vertical-hypnosis-nov6-r6"
+    "vertical-hypnosis-nov6-r6",
+    "hypnosis-repeat-pregnancy-nov7"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -641522,7 +641702,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r2": null,
     "vertical-hypnosis-nov6-r4": null,
-    "vertical-hypnosis-nov6-r6": null
+    "vertical-hypnosis-nov6-r6": null,
+    "hypnosis-repeat-pregnancy-nov7": null
    },
    "groups": [
     {

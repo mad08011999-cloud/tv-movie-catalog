@@ -1441,6 +1441,13 @@
      "subtitle": "",
      "year": "1998–99 / 2019–20",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-repeat-pregnancy-nov7:1",
+     "title": "Days of Our Lives",
+     "subtitle": "",
+     "year": "1998–99 / 2019–20",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -54126,7 +54133,8 @@
   "vertical-hypnosis-nov6-r3": 11,
   "vertical-hypnosis-nov6-r4": 7,
   "vertical-hypnosis-nov6-r5": 2,
-  "vertical-hypnosis-nov6-r6": 4
+  "vertical-hypnosis-nov6-r6": 4,
+  "hypnosis-repeat-pregnancy-nov7": 1
  },
  "entry_count_after_dedupe": 3752,
  "within_source_groups": 5,
