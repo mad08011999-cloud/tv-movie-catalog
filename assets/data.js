@@ -11685,6 +11685,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "vertical-hypnosis-nov6-r7",
+   "label": "Worldwide hypnosis Nov6 round7",
+   "kind": "local",
+   "share_url": "sources/vertical-hypnosis-nov6-r7.json",
+   "description": "",
+   "dropped": [],
+   "check": {
+    "raw_count": 4,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -11774,10 +11787,11 @@ window.CATALOG = {
   "vertical-hypnosis-nov6-r4": 7,
   "vertical-hypnosis-nov6-r5": 2,
   "vertical-hypnosis-nov6-r6": 4,
-  "hypnosis-repeat-pregnancy-nov7": 1
+  "hypnosis-repeat-pregnancy-nov7": 1,
+  "vertical-hypnosis-nov6-r7": 4
  },
- "raw_total": 7502,
- "entry_count": 3752,
+ "raw_total": 7506,
+ "entry_count": 3754,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -11795,7 +11809,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 339
+   "entry_count": 340
   },
   {
    "key": "belly",
@@ -11843,7 +11857,7 @@ window.CATALOG = {
    "key": "doctor-gain",
    "label": "Doctor hypnotizes female characters for personal gain",
    "legend_label": "Doctor controls female character for personal gain",
-   "entry_count": 46
+   "entry_count": 47
   },
   {
    "key": "tech",
@@ -11909,7 +11923,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 712
+   "entry_count": 714
   },
   {
    "key": "wife",
@@ -11963,7 +11977,7 @@ window.CATALOG = {
    "key": "hypno-intimacy",
    "label": "Hypnotized woman intimate with the hypnotist or the man he directs",
    "legend_label": "Hypnotized into intimacy",
-   "entry_count": 53
+   "entry_count": 54
   },
   {
    "key": "indian-female-hypnosis",
@@ -12017,7 +12031,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 471
+   "entry_count": 472
   },
   {
    "key": "parents-sleeping",
@@ -12311,7 +12325,7 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 145
+   "entry_count": 146
   },
   {
    "key": "therapist-wife",
@@ -501260,7 +501274,7 @@ window.CATALOG = {
    "summary": "Married Akiko Nozawa, terrified of ringing telephones, is taken by her husband to a psychiatric clinic where hypnotherapy uncovers a past tragedy tied to his business partner Numata.",
    "character": "Akiko Nozawa",
    "provenance": "",
-   "note": "",
+   "note": "Round7 research: Original theatrical Japanese title 淫絶！人妻をやる; R15+ re-edit title ある人妻 何度もやられた昼下がり. Eirin certificateS-2147 dated2020-02-12 explicitly confirms adult wife Akiko and psychiatrist Saeki’s hypnotherapy,58-minute secondary-market re-edit, not a new production. PG distributor-filmography lists the underlying film as2006 whereas current catalog/TMDB-based metadata says2009: year conflict HELD, no overwrite. All prior text and family values retained.",
    "kids_status": "not stated",
    "kids_note": "not stated",
    "kids_together": "not stated",
@@ -501274,19 +501288,69 @@ window.CATALOG = {
     "wife-hypnotized",
     "therapist-wife"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "Eirin official ratings-board record — certificateS-2147",
+     "url": "https://www.eirin.jp/list/index.php?e_month=12&e_year=2021&eirin_no=48835&pageID=38&s_month=1&s_year=2009&title=&x=0&y=0"
+    },
+    {
+     "label": "PG Pink Film filmography — Shintoho R15+ title mapping",
+     "url": "https://www.pg-pinkfilm.com/vod/shintoho-R15.html"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "vertical-hypnosis-nov6-r7"
    ],
    "source_records": [
-    "wife-hypnosis-oct15:108"
+    "wife-hypnosis-oct15:108",
+    "vertical-hypnosis-nov6-r7:4"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
    "primary_copy": null,
-   "merged_from": [],
+   "merged_from": [
+    {
+     "rid": "vertical-hypnosis-nov6-r7:4",
+     "source": "vertical-hypnosis-nov6-r7",
+     "label": "Extreme Lust! Doing a Married Wife (2009)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Extreme Lust! Doing a Married Wife",
+     "subtitle": "",
+     "year": "2009",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Round7 research: Original theatrical Japanese title 淫絶！人妻をやる; R15+ re-edit title ある人妻 何度もやられた昼下がり. Eirin certificateS-2147 dated2020-02-12 explicitly confirms adult wife Akiko and psychiatrist Saeki’s hypnotherapy,58-minute secondary-market re-edit, not a new production. PG distributor-filmography lists the underlying film as2006 whereas current catalog/TMDB-based metadata says2009: year conflict HELD, no overwrite. All prior text and family values retained.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized",
+      "therapist-wife"
+     ],
+     "sources": [
+      {
+       "label": "Eirin official ratings-board record — certificateS-2147",
+       "url": "https://www.eirin.jp/list/index.php?e_month=12&e_year=2021&eirin_no=48835&pageID=38&s_month=1&s_year=2009&title=&x=0&y=0"
+      },
+      {
+       "label": "PG Pink Film filmography — Shintoho R15+ title mapping",
+       "url": "https://www.pg-pinkfilm.com/vod/shintoho-R15.html"
+      }
+     ],
+     "tags": [
+      "Original title: 淫絶！人妻をやる",
+      "Alias: ある人妻 何度もやられた昼下がり",
+      "Round7 primary Eirin hypnosis corroboration; PG filmography alias mapping; year conflict held",
+      "Round7 primary Eirin hypnosis corroboration; PG filmography alias mapping; year conflict held"
+     ],
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "wife-hypnosis-oct15:108": {
      "title": "Extreme Lust! Doing a Married Wife",
@@ -501307,8 +501371,49 @@ window.CATALOG = {
      "already_married": "yes",
      "already_married_note": "Yes — husband: Shunsuke Nozawa",
      "evidence": "Moviefone; TMDB (same synopsis text — effectively single source)"
+    },
+    "vertical-hypnosis-nov6-r7:4": {
+     "title": "Extreme Lust! Doing a Married Wife",
+     "match_title": "Extreme Lust! Doing a Married Wife",
+     "match_year": "2009",
+     "year": "2009",
+     "format": "movie",
+     "categories": [
+      "wife-hypnotized",
+      "therapist-wife"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "Eirin official ratings-board record — certificateS-2147",
+       "url": "https://www.eirin.jp/list/index.php?e_month=12&e_year=2021&eirin_no=48835&pageID=38&s_month=1&s_year=2009&title=&x=0&y=0",
+       "evidence_paraphrase": "2020-02-12 record: marriedAkiko frightenedof telephonebell; psychiatristSaeki performs hypnotherapy;58min re-editof old film.2020 is certification date, not productionyear."
+      },
+      {
+       "label": "PG Pink Film filmography — Shintoho R15+ title mapping",
+       "url": "https://www.pg-pinkfilm.com/vod/shintoho-R15.html",
+       "evidence_paraphrase": "Listsある人妻 何度もやられた昼下がり and theatricaltitle淫絶！人妻をやる,2006,AkiraFukamachi,YokoSatomi. Underlying production already exists as3091; no duplicate/new2020film."
+      }
+     ],
+     "no_media": true,
+     "existing_id": 3091,
+     "override_fields": [
+      "note"
+     ],
+     "note": "Round7 research: Original theatrical Japanese title 淫絶！人妻をやる; R15+ re-edit title ある人妻 何度もやられた昼下がり. Eirin certificateS-2147 dated2020-02-12 explicitly confirms adult wife Akiko and psychiatrist Saeki’s hypnotherapy,58-minute secondary-market re-edit, not a new production. PG distributor-filmography lists the underlying film as2006 whereas current catalog/TMDB-based metadata says2009: year conflict HELD, no overwrite. All prior text and family values retained.",
+     "tags": [
+      "Original title: 淫絶！人妻をやる",
+      "Alias: ある人妻 何度もやられた昼下がり",
+      "Round7 primary Eirin hypnosis corroboration; PG filmography alias mapping; year conflict held",
+      "Round7 primary Eirin hypnosis corroboration; PG filmography alias mapping; year conflict held"
+     ]
     }
-   }
+   },
+   "tags": [
+    "Original title: 淫絶！人妻をやる",
+    "Alias: ある人妻 何度もやられた昼下がり",
+    "Round7 primary Eirin hypnosis corroboration; PG filmography alias mapping; year conflict held"
+   ]
   },
   {
    "id": 3092,
@@ -533431,11 +533536,13 @@ window.CATALOG = {
    "summary": "Sumadya enters a deep hypnotic trance during Warenya's mental exercises and becomes a conduit for a 1960s actress.",
    "character": "Sumadya",
    "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
-   "note": "",
+   "note": "Round7 research: Searchable English alias Frozen Cosmos. Independent director interview/review and Sunday Times confirm Sumadya’s actual deep hypnotic trance during acting exercises, with a fantasy cross-time conduit to married actress Rajini. This is hypnosis within fantasy framing, not an independently established possession. Lovers eventually return to separate time periods; that is NOT evidence of no pregnancy/children. Sumadya’s numeric age remains unverified; no new adult-age assertion or family overwrite.",
    "pregnancy_note": "not stated in the plot summary",
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "Alias: Frozen Cosmos",
+    "Round7 independent newspaper/director-interview hypnosis corroboration"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -533452,20 +533559,67 @@ window.CATALOG = {
     {
      "label": "Wikipedia — plot summary",
      "url": "https://en.wikipedia.org/wiki/Midunu_Vishwaya"
+    },
+    {
+     "label": "The Island — director interview and independent review",
+     "url": "https://islandback.lankapanel.net/midunu-vishwaya-frozen-cosmos/"
+    },
+    {
+     "label": "Sunday Times Sri Lanka — contemporaneous film coverage",
+     "url": "https://www.sundaytimes.lk/230702/magazine/a-star-lost-in-time-and-fate-524314.html"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "vertical-hypnosis-nov6-r7"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:22"
+    "hypnosis-deep-oct25:22",
+    "vertical-hypnosis-nov6-r7:3"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
    "primary_copy": null,
-   "merged_from": [],
+   "merged_from": [
+    {
+     "rid": "vertical-hypnosis-nov6-r7:3",
+     "source": "vertical-hypnosis-nov6-r7",
+     "label": "Midunu Vishwaya (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Midunu Vishwaya",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Round7 research: Searchable English alias Frozen Cosmos. Independent director interview/review and Sunday Times confirm Sumadya’s actual deep hypnotic trance during acting exercises, with a fantasy cross-time conduit to married actress Rajini. This is hypnosis within fantasy framing, not an independently established possession. Lovers eventually return to separate time periods; that is NOT evidence of no pregnancy/children. Sumadya’s numeric age remains unverified; no new adult-age assertion or family overwrite.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "The Island — director interview and independent review",
+       "url": "https://islandback.lankapanel.net/midunu-vishwaya-frozen-cosmos/"
+      },
+      {
+       "label": "Sunday Times Sri Lanka — contemporaneous film coverage",
+       "url": "https://www.sundaytimes.lk/230702/magazine/a-star-lost-in-time-and-fate-524314.html"
+      }
+     ],
+     "tags": [
+      "Alias: Frozen Cosmos",
+      "Round7 independent newspaper/director-interview hypnosis corroboration",
+      "Round7 independent newspaper/director-interview hypnosis corroboration"
+     ],
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:22": {
      "title": "Midunu Vishwaya",
@@ -533498,6 +533652,40 @@ window.CATALOG = {
      "evidence": "Wikipedia plot summary (en edition, page \"Midunu Vishwaya\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "vertical-hypnosis-nov6-r7:3": {
+     "title": "Midunu Vishwaya",
+     "match_title": "Midunu Vishwaya",
+     "match_year": "2023",
+     "year": "2023",
+     "format": "movie",
+     "categories": [
+      "forced-obedience"
+     ],
+     "summary": "",
+     "sources": [
+      {
+       "label": "The Island — director interview and independent review",
+       "url": "https://islandback.lankapanel.net/midunu-vishwaya-frozen-cosmos/",
+       "evidence_paraphrase": "2023 film aliasFrozenCosmos; filmmakerJayanthaChandrasiri; Sumadya entersdeep hypnotic trance and bridges Rajini/Warenya across time."
+      },
+      {
+       "label": "Sunday Times Sri Lanka — contemporaneous film coverage",
+       "url": "https://www.sundaytimes.lk/230702/magazine/a-star-lost-in-time-and-fate-524314.html",
+       "evidence_paraphrase": "Currently screening July2023; explicitly hypnosis during acting exercises; time-separated lovers walk back to own lives. No affirmative family ending outcomes."
+      }
+     ],
+     "no_media": true,
+     "existing_id": 3439,
+     "override_fields": [
+      "note"
+     ],
+     "note": "Round7 research: Searchable English alias Frozen Cosmos. Independent director interview/review and Sunday Times confirm Sumadya’s actual deep hypnotic trance during acting exercises, with a fantasy cross-time conduit to married actress Rajini. This is hypnosis within fantasy framing, not an independently established possession. Lovers eventually return to separate time periods; that is NOT evidence of no pregnancy/children. Sumadya’s numeric age remains unverified; no new adult-age assertion or family overwrite.",
+     "tags": [
+      "Alias: Frozen Cosmos",
+      "Round7 independent newspaper/director-interview hypnosis corroboration",
+      "Round7 independent newspaper/director-interview hypnosis corroboration"
+     ]
     }
    }
   },
@@ -581424,6 +581612,284 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 3946,
+   "title": "Henry's Night In",
+   "subtitle": "",
+   "year": "1969",
+   "meta": "USA · English · Conventional live-action sexploitation comedy feature; NOT vertical",
+   "mechanism": "Literal hypnosis by a psychiatrist for personal sexual exploitation; separate invisibility formula is NOT itself hypnosis.",
+   "confidence_flag": "High hypnosis/identity: licensed distributor plus independent DVD Talk and second scene-specific review; adult age role-inferred; family outcomes unknown",
+   "summary": "Henry seeks help for his troubled marriage and discovers an invisibility formula. Alongside his neighborhood misadventures, the psychiatrist hypnotizes Martha and other housewives for his own benefit. Martha later exposes Henry’s secret and reconciles with him.",
+   "character": "Martha, Henry’s wife (Barbara Kline); other adult neighborhood housewives",
+   "provenance": "",
+   "note": "Existing children, earlier pregnancy, ending pregnancy, couple children and NEW birth are all UNKNOWN. Ending review supports reconciliation, not a pregnancy or child. Director is uncredited/anonymous; do NOT assign C. Davis Smith from the other film sharing the DVD. Invisibility is a different mechanism. No episode numbering applies to a feature. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor AI-generation claim established. Framing: Conventional live-action sexploitation comedy feature; NOT vertical.",
+   "episodes": [
+    {
+     "episode": "Feature film — not episodic; exact scene timestamp unknown",
+     "gist": "After neighborhood misadventures, Martha’s psychiatrist hypnotizes her for personal exploitation. Ending: she discovers Henry’s secret and reconciles; no sourced family outcome.",
+     "number_verified": false
+    }
+   ],
+   "tags": [
+    "Original title: Henry's Night In",
+    "Alias: The Incredible Peeping Tom",
+    "Alias: Henry′s Night In",
+    "Alias: Henry’s Night In"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Existing children before the opening storyline UNKNOWN; silence is not no.",
+   "kids_together": "unknown",
+   "kids_together_note": "Couple children at ending UNKNOWN; NEW birth UNKNOWN. NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "ADULT EVIDENCE: Adult status is role-inferred from established marriage, adult neighborhood housewives and psychiatric treatment; no numeric character age is supplied. Only adult wife/housewife targets are included. LITERAL HYPNOSIS of an adult-coded WIFE: independent DVD Talk review explicitly identifies the physician hypnotizing housewives; a separate review specifically confirms Henry’s wife is hypnotized. Non-explicit title/plot metadata only. Adult/erotic softcore release, UNRATED/NR metadata, not an asserted MPAA R rating. Licensed Cultpix catalog confirms1969 USA English and anonymous director. No AI-production claim. Runtime conflicts between distributor/reviews are not promoted.",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "doctor-gain",
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Cultpix licensed Something Weird catalog — primary distributor metadata",
+     "url": "https://www.cultpix.com/movie/henry-and-8242s-night-in/1921"
+    },
+    {
+     "label": "DVD Talk — Bill Gibron independent DVD review",
+     "url": "https://www.dvdtalk.com/reviews/17999/girl-from-sin-henrys-night-in-the/"
+    },
+    {
+     "label": "The Video Vacuum — additional independent scene-specific review",
+     "url": "https://thevideovacuum.livejournal.com/646889.html"
+    },
+    {
+     "label": "DVDCompare — alternate-title and edition identity",
+     "url": "https://www.dvdcompare.net/comparisons/film.php?fid=61147"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r7"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r7:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r7:1": {
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "earlier_pregnancy": "unknown",
+     "new_birth_by_ending": "unknown",
+     "kids_note": "Existing children before the opening storyline UNKNOWN; silence is not no.",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "Couple children at ending UNKNOWN; NEW birth UNKNOWN. NEW birth by ending UNKNOWN. ",
+     "ai_generation": "Unknown; no creator/distributor AI-generation claim established",
+     "no_media": true,
+     "title": "Henry's Night In",
+     "original_language_title": "Henry's Night In",
+     "aliases": [
+      "The Incredible Peeping Tom",
+      "Henry′s Night In",
+      "Henry’s Night In"
+     ],
+     "year": "1969",
+     "format": "movie",
+     "country": "USA",
+     "language": "English",
+     "orientation": "Conventional live-action sexploitation comedy feature; NOT vertical",
+     "character": "Martha, Henry’s wife (Barbara Kline); other adult neighborhood housewives",
+     "adult_status_evidence": "Adult status is role-inferred from established marriage, adult neighborhood housewives and psychiatric treatment; no numeric character age is supplied. Only adult wife/housewife targets are included.",
+     "mechanism": "Literal hypnosis by a psychiatrist for personal sexual exploitation; separate invisibility formula is NOT itself hypnosis.",
+     "summary": "Henry seeks help for his troubled marriage and discovers an invisibility formula. Alongside his neighborhood misadventures, the psychiatrist hypnotizes Martha and other housewives for his own benefit. Martha later exposes Henry’s secret and reconciles with him.",
+     "fit_note": "ADULT EVIDENCE: Adult status is role-inferred from established marriage, adult neighborhood housewives and psychiatric treatment; no numeric character age is supplied. Only adult wife/housewife targets are included. LITERAL HYPNOSIS of an adult-coded WIFE: independent DVD Talk review explicitly identifies the physician hypnotizing housewives; a separate review specifically confirms Henry’s wife is hypnotized. Non-explicit title/plot metadata only. Adult/erotic softcore release, UNRATED/NR metadata, not an asserted MPAA R rating. Licensed Cultpix catalog confirms1969 USA English and anonymous director. No AI-production claim. Runtime conflicts between distributor/reviews are not promoted.",
+     "relationship": "Martha / Henry are married; the psychiatrist is not her husband. Other hypnotized housewives’ partners are unnamed.",
+     "note": "Existing children, earlier pregnancy, ending pregnancy, couple children and NEW birth are all UNKNOWN. Ending review supports reconciliation, not a pregnancy or child. Director is uncredited/anonymous; do NOT assign C. Davis Smith from the other film sharing the DVD. Invisibility is a different mechanism. No episode numbering applies to a feature. Earlier pregnancy: unknown. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor AI-generation claim established. Framing: Conventional live-action sexploitation comedy feature; NOT vertical.",
+     "confidence_flag": "High hypnosis/identity: licensed distributor plus independent DVD Talk and second scene-specific review; adult age role-inferred; family outcomes unknown",
+     "categories": [
+      "adult-hypnosis",
+      "doctor-gain",
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Feature film — not episodic; exact scene timestamp unknown",
+       "gist": "After neighborhood misadventures, Martha’s psychiatrist hypnotizes her for personal exploitation. Ending: she discovers Henry’s secret and reconciles; no sourced family outcome.",
+       "number_verified": false
+      }
+     ],
+     "sources": [
+      {
+       "label": "Cultpix licensed Something Weird catalog — primary distributor metadata",
+       "url": "https://www.cultpix.com/movie/henry-and-8242s-night-in/1921",
+       "evidence_paraphrase": "USA1969 English; Forman Shane and Barbara Kline; director Anonymous. Adult sci-fi comedy, not a vertical or AI production."
+      },
+      {
+       "label": "DVD Talk — Bill Gibron independent DVD review",
+       "url": "https://www.dvdtalk.com/reviews/17999/girl-from-sin-henrys-night-in-the/",
+       "evidence_paraphrase": "Explicitly says the physician is hypnotizing housewives for his own sexual benefit; ending wife unmasks and forgives Henry. Non-explicit paraphrase only."
+      },
+      {
+       "label": "The Video Vacuum — additional independent scene-specific review",
+       "url": "https://thevideovacuum.livejournal.com/646889.html",
+       "evidence_paraphrase": "Specifically identifies Henry’s wife visiting her shrink, who hypnotizes her. No video watched by researcher."
+      },
+      {
+       "label": "DVDCompare — alternate-title and edition identity",
+       "url": "https://www.dvdcompare.net/comparisons/film.php?fid=61147",
+       "evidence_paraphrase": "The Incredible Peeping Tom is an alternate title, not a second production. Director uncredited.2005 Something Weird/Image DVD."
+      }
+     ],
+     "meta": "USA · English · Conventional live-action sexploitation comedy feature; NOT vertical",
+     "tags": [
+      "Original title: Henry's Night In",
+      "Alias: The Incredible Peeping Tom",
+      "Alias: Henry′s Night In",
+      "Alias: Henry’s Night In"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3947,
+   "title": "风携桃花入君心",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "China · Mandarin Chinese · Chinese80-episode microdrama; cataloged short-drama production, not an identified horizontal-scene repost",
+   "mechanism": "Rivals Gu Qian and Zhao Xuetang kidnap Su Tao and hypnotize her; her memories are later awakened. The fantasy romance’s yang-energy premise is separate from this explicitly named hypnosis.",
+   "confidence_flag": "Moderate — detailed secondary video-catalog synopsis explicitly names hypnosis, prior pregnancy and daughter-led reunion; production corroborated separately; no verified primary scene transcript",
+   "summary": "Su Tao seeks her late father’s keepsake and becomes involved with Fu Wenfeng. She is pregnant during earlier persecution, then wins his family’s respect. Enemies Gu Qian and Zhao Xuetang kidnap and hypnotize her. Six years later their daughter Fu Wanxing helps Fu Wenfeng rescue her and restore her memory; the family reunites.",
+   "character": "Su Tao (苏桃), played by Li Haiti (李海蒂)",
+   "provenance": "",
+   "note": "Earlier pregnancy YES; whether still pregnant during hypnosis or at the ending UNKNOWN. Daughter Fu Wanxing is present by the time-skip reunion; she must not be counted as a newly delivered finale baby. Children before the opening storyline UNKNOWN; childbirth timing UNKNOWN. Two databases agree2025 but disagree exact December release date, so no exact date adopted.80 total episodes are catalog metadata; relevant hypnosis/rescue episode numbers remain UNKNOWN. Publisher ownership of supporting catalogs unverified; no claim that videos were watched. Earlier pregnancy: YES — source explicitly says 身怀有孕 during earlier persecution, before later abduction/hypnosis in its plot order; timing of birth/hypnosis overlap unknown.. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor AI-generation claim established. Framing: Chinese80-episode microdrama; cataloged short-drama production, not an identified horizontal-scene repost.",
+   "episodes": [
+    {
+     "episode": "Unknown within80 cataloged episodes",
+     "gist": "Gu Qian and Zhao Xuetang abduct and hypnotize Su Tao; after six years daughter Fu Wanxing guides Fu Wenfeng to rescue her and awaken her memories. Relevant numbered episodes not established.",
+     "number_verified": false
+    }
+   ],
+   "tags": [
+    "Original title: 风携桃花入君心",
+    "Alias: 風攜桃花入君心",
+    "Alias: Feng xie tao hua ru jun xin"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Existing children before the opening storyline UNKNOWN; silence is not no.",
+   "kids_together": "yes",
+   "kids_together_note": "YES — their daughter Fu Wanxing helps reunite Su Tao and Fu Wenfeng after a six-year time skip. This is an EXISTING daughter at the reunion, not proof of a NEW birth at the finale. NEW birth timing UNKNOWN. NEW birth by ending UNKNOWN. ",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+   "fit_note": "ADULT EVIDENCE: Role-inferred adult romantic partner of CEO Fu Wenfeng and mother of their six-year-time-skip daughter; exact numeric age and age at each flashback are NOT stated. No school-age character is cataloged as a target. LITERAL HYPNOSIS explicitly stated in a secondary commercial video catalog, with80-episode identity/cast corroborated by separate short-drama databases. PRIMARY PRODUCER/DISTRIBUTOR OWNERSHIP NOT VERIFIED for these catalogs; confidence is moderate, not official-scene verification. Adult age role-inferred, not numeric. Earlier pregnancy is explicit, but pregnancy at hypnosis or finale is UNKNOWN. No AI-generation evidence.",
+   "format": "tv",
+   "categories": [
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Xifu video catalog — secondary, named commercial operator; producer ownership unverified",
+     "url": "https://video.contentchina.com/playlet/18525"
+    },
+    {
+     "label": "Duanjubaike — secondary production/episode corroboration",
+     "url": "https://duanjubaike.net/duanju/info-7582440074864757822.html"
+    },
+    {
+     "label": "Zongyimi — secondary original-title/cast corroboration",
+     "url": "https://www.zongyimi.com/drama/subject/77494565753/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-hypnosis-nov6-r7"
+   ],
+   "source_records": [
+    "vertical-hypnosis-nov6-r7:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-hypnosis-nov6-r7:2": {
+     "kids_status": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "yes",
+     "earlier_pregnancy": "YES — source explicitly says 身怀有孕 during earlier persecution, before later abduction/hypnosis in its plot order; timing of birth/hypnosis overlap unknown.",
+     "new_birth_by_ending": "unknown",
+     "kids_note": "Existing children before the opening storyline UNKNOWN; silence is not no.",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence established; absence of mention is not a no.",
+     "kids_together_note": "YES — their daughter Fu Wanxing helps reunite Su Tao and Fu Wenfeng after a six-year time skip. This is an EXISTING daughter at the reunion, not proof of a NEW birth at the finale. NEW birth timing UNKNOWN. NEW birth by ending UNKNOWN. ",
+     "ai_generation": "Unknown; no creator/distributor AI-generation claim established",
+     "no_media": true,
+     "title": "风携桃花入君心",
+     "original_language_title": "风携桃花入君心",
+     "aliases": [
+      "風攜桃花入君心",
+      "Feng xie tao hua ru jun xin"
+     ],
+     "year": "2025",
+     "format": "tv",
+     "country": "China",
+     "language": "Mandarin Chinese",
+     "orientation": "Chinese80-episode microdrama; cataloged short-drama production, not an identified horizontal-scene repost",
+     "character": "Su Tao (苏桃), played by Li Haiti (李海蒂)",
+     "adult_status_evidence": "Role-inferred adult romantic partner of CEO Fu Wenfeng and mother of their six-year-time-skip daughter; exact numeric age and age at each flashback are NOT stated. No school-age character is cataloged as a target.",
+     "mechanism": "Rivals Gu Qian and Zhao Xuetang kidnap Su Tao and hypnotize her; her memories are later awakened. The fantasy romance’s yang-energy premise is separate from this explicitly named hypnosis.",
+     "summary": "Su Tao seeks her late father’s keepsake and becomes involved with Fu Wenfeng. She is pregnant during earlier persecution, then wins his family’s respect. Enemies Gu Qian and Zhao Xuetang kidnap and hypnotize her. Six years later their daughter Fu Wanxing helps Fu Wenfeng rescue her and restore her memory; the family reunites.",
+     "fit_note": "ADULT EVIDENCE: Role-inferred adult romantic partner of CEO Fu Wenfeng and mother of their six-year-time-skip daughter; exact numeric age and age at each flashback are NOT stated. No school-age character is cataloged as a target. LITERAL HYPNOSIS explicitly stated in a secondary commercial video catalog, with80-episode identity/cast corroborated by separate short-drama databases. PRIMARY PRODUCER/DISTRIBUTOR OWNERSHIP NOT VERIFIED for these catalogs; confidence is moderate, not official-scene verification. Adult age role-inferred, not numeric. Earlier pregnancy is explicit, but pregnancy at hypnosis or finale is UNKNOWN. No AI-generation evidence.",
+     "relationship": "Su Tao / Fu Wenfeng (傅闻风, played by Qinghe/清河); daughter Fu Wanxing (傅晚星). No exact marriage timing established.",
+     "note": "Earlier pregnancy YES; whether still pregnant during hypnosis or at the ending UNKNOWN. Daughter Fu Wanxing is present by the time-skip reunion; she must not be counted as a newly delivered finale baby. Children before the opening storyline UNKNOWN; childbirth timing UNKNOWN. Two databases agree2025 but disagree exact December release date, so no exact date adopted.80 total episodes are catalog metadata; relevant hypnosis/rescue episode numbers remain UNKNOWN. Publisher ownership of supporting catalogs unverified; no claim that videos were watched. Earlier pregnancy: YES — source explicitly says 身怀有孕 during earlier persecution, before later abduction/hypnosis in its plot order; timing of birth/hypnosis overlap unknown.. NEW birth by ending: UNKNOWN. Production method: Unknown; no creator/distributor AI-generation claim established. Framing: Chinese80-episode microdrama; cataloged short-drama production, not an identified horizontal-scene repost.",
+     "confidence_flag": "Moderate — detailed secondary video-catalog synopsis explicitly names hypnosis, prior pregnancy and daughter-led reunion; production corroborated separately; no verified primary scene transcript",
+     "categories": [
+      "human",
+      "other-control"
+     ],
+     "episodes": [
+      {
+       "episode": "Unknown within80 cataloged episodes",
+       "gist": "Gu Qian and Zhao Xuetang abduct and hypnotize Su Tao; after six years daughter Fu Wanxing guides Fu Wenfeng to rescue her and awaken her memories. Relevant numbered episodes not established.",
+       "number_verified": false
+      }
+     ],
+     "sources": [
+      {
+       "label": "Xifu video catalog — secondary, named commercial operator; producer ownership unverified",
+       "url": "https://video.contentchina.com/playlet/18525",
+       "evidence_paraphrase": "Explicit 身怀有孕; 顾谦联合赵雪棠绑架并催眠了她; six years later daughter傅晚星 leads rescue and memory awakening; family reunion.80episode listing and actors清河/李海蒂. Operator named广东鑫锘影视文化传播有限公司; not proven original producer."
+      },
+      {
+       "label": "Duanjubaike — secondary production/episode corroboration",
+       "url": "https://duanjubaike.net/duanju/info-7582440074864757822.html",
+       "evidence_paraphrase": "80episodes; December2025; actorsLiHaiti/Qinghe/邢潞尔/彭绍婧, characterFuWenfeng/FuWanxing. ID7582440074864757822. Ownership not primary. Unrelated dangling synopsis text not used."
+      },
+      {
+       "label": "Zongyimi — secondary original-title/cast corroboration",
+       "url": "https://www.zongyimi.com/drama/subject/77494565753/",
+       "evidence_paraphrase": "80episodes, first-placement2025-12-18, LiHaiti asSuTao, daughterFuWanxing; initial relationship withFuWenfeng. Conflicts with other catalog’s exact date, not year. Unrelated footer plot not used."
+      }
+     ],
+     "meta": "China · Mandarin Chinese · Chinese80-episode microdrama; cataloged short-drama production, not an identified horizontal-scene repost",
+     "tags": [
+      "Original title: 风携桃花入君心",
+      "Alias: 風攜桃花入君心",
+      "Alias: Feng xie tao hua ru jun xin"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -581940,7 +582406,8 @@ window.CATALOG = {
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r3",
-    "vertical-hypnosis-nov6-r4"
+    "vertical-hypnosis-nov6-r4",
+    "vertical-hypnosis-nov6-r7"
    ],
    "groups": [
     {
@@ -586153,6 +586620,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r4"
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round7",
+     "notes": [],
+     "items": [
+      {
+       "id": 3946,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r7"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -588664,7 +589142,8 @@ window.CATALOG = {
     "deep-refresh-oct30",
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r3"
+    "vertical-hypnosis-nov6-r3",
+    "vertical-hypnosis-nov6-r7"
    ],
    "groups": [
     {
@@ -589133,6 +589612,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r3"
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round7",
+     "notes": [],
+     "items": [
+      {
+       "id": 3946,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r7"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -596382,7 +596872,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r3",
     "vertical-hypnosis-nov6-r5",
-    "vertical-hypnosis-nov6-r6"
+    "vertical-hypnosis-nov6-r6",
+    "vertical-hypnosis-nov6-r7"
    ],
    "groups": [
     {
@@ -601360,6 +601851,22 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r6"
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round7",
+     "notes": [],
+     "items": [
+      {
+       "id": 3946,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r7"
+      },
+      {
+       "id": 3947,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r7"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -608279,7 +608786,8 @@ window.CATALOG = {
     "round2",
     "hypnotized-female-oct15",
     "adult-fanmade-oct15",
-    "deep-oct24"
+    "deep-oct24",
+    "vertical-hypnosis-nov6-r7"
    ],
    "groups": [
     {
@@ -608781,6 +609289,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-oct24"
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round7",
+     "notes": [],
+     "items": [
+      {
+       "id": 3946,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r7"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -615532,7 +616051,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r3",
     "vertical-hypnosis-nov6-r4",
     "vertical-hypnosis-nov6-r5",
-    "vertical-hypnosis-nov6-r6"
+    "vertical-hypnosis-nov6-r6",
+    "vertical-hypnosis-nov6-r7"
    ],
    "groups": [
     {
@@ -618698,6 +619218,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r6"
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round7",
+     "notes": [],
+     "items": [
+      {
+       "id": 3947,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r7"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -638890,7 +639421,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r3",
     "vertical-hypnosis-nov6-r4",
     "vertical-hypnosis-nov6-r5",
-    "vertical-hypnosis-nov6-r6"
+    "vertical-hypnosis-nov6-r6",
+    "vertical-hypnosis-nov6-r7"
    ],
    "groups": [
     {
@@ -641683,7 +642215,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r4",
     "vertical-hypnosis-nov6-r6",
-    "hypnosis-repeat-pregnancy-nov7"
+    "hypnosis-repeat-pregnancy-nov7",
+    "vertical-hypnosis-nov6-r7"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -642376,6 +642909,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r4"
+    },
+    {
+     "title": "Worldwide adult female hypnosis — Nov6 round7",
+     "notes": [],
+     "items": [
+      {
+       "id": 3946,
+       "tags": [],
+       "from_source": "vertical-hypnosis-nov6-r7"
+      }
+     ]
     }
    ]
   },
@@ -642402,7 +642946,8 @@ window.CATALOG = {
     "youtube-deep-oct15",
     "hypnosis-yt-oct15",
     "deep-refresh-nov04",
-    "vertical-hypnosis-nov6-r3"
+    "vertical-hypnosis-nov6-r3",
+    "vertical-hypnosis-nov6-r7"
    ],
    "groups": [
     {

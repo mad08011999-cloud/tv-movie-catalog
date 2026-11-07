@@ -54140,5 +54140,18 @@
  "within_source_groups": 5,
  "cross_source_groups": 2081,
  "index_only_records": 55,
- "local_only_records": 1480
+ "local_only_records": 1480,
+ "offline_nov6_r7_integration": {
+  "new_ids": [
+   3946,
+   3947
+  ],
+  "enriched_ids": [
+   3091,
+   3439
+  ],
+  "source": "vertical-hypnosis-nov6-r7",
+  "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
+  "browser_or_network_calls": 0
+ }
 }
