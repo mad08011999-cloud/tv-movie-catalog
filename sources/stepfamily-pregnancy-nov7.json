@@ -25,7 +25,7 @@
    "kids_note": "new couple's twins: birth not verified in fetched source",
    "pregnant_end": "unknown",
    "pregnant_end_note": "pregnant with Eddie LeBec's twins (Wikipedia); births not checked further here",
-   "confidence_flag": "EXACT FIT · High · Wikipedia character article",
+   "confidence_flag": "EXACT (biological prior kids, different partner) · pregnancy verified; twins' birth unverified · Wikipedia",
    "evidence": "Wikipedia — Carla Tortelli",
    "sources": [
     {
@@ -155,7 +155,7 @@
    "format": "tv",
    "meta": "TV series · United States · English",
    "character": "Dr. Michaela Quinn (Jane Seymour) and Byron Sully",
-   "summary": "Boston doctor Michaela takes in the three orphaned children of a dying friend. She marries Sully in the season 3 finale; in season 4 she becomes pregnant, and daughter Katie is born the following season.",
+   "summary": "Boston doctor Michaela takes in the three orphaned children of a dying friend. She marries Sully in the season 3 finale; in season 4 she becomes pregnant, and daughter Katie is born in the season 4 finale, \"When a Child Is Born, Part 2\" (S4E28, aired May 18, 1996), delivered by Sully.",
    "categories": [
     "adopt-pregnancy",
     "family"
@@ -164,17 +164,25 @@
    "existing_kids": "3",
    "existing_kids_note": "Matthew, Colleen and Brian — adopted/raised, not biological",
    "pregnancy_again": "birth",
-   "pregnancy_again_note": "Katie born (season 5)",
+   "pregnancy_again_note": "Katie born S4E28 (May 18, 1996)",
    "kids_status": "yes",
    "kids_note": "Katie Sully",
    "pregnant_end": "no",
-   "pregnant_end_note": "Katie born (season 5)",
-   "confidence_flag": "EXACT FIT (prior kids adoptive) · High · Wikipedia",
+   "pregnant_end_note": "Katie born S4E28 (May 18, 1996)",
+   "confidence_flag": "ADOPTED-KIDS EXTENSION (not biological prior kids) · High · Apple TV episode listing + official DQMW site",
    "evidence": "Wikipedia",
    "sources": [
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Dr._Quinn,_Medicine_Woman"
+    },
+    {
+     "label": "Apple TV S4E28",
+     "url": "https://tv.apple.com/us/episode/when-a-child-is-born-pt-2/umc.cmc.3wdc4ccasay6d2ig06gje486u?showId=umc.cmc.1uolxlcq0w5vr3nu723go37nu"
+    },
+    {
+     "label": "DQMW children bios",
+     "url": "https://www.drquinnmd.com/library/biographies_children.html"
     }
    ],
    "provenance": "Stepfamily / new-partner pregnancy pass, 7 Nov 2026 PT (adults only, non-explicit plot notes; user request t25u)",
@@ -201,7 +209,7 @@
    "kids_note": "twins Jonah Samuel and Eve Catherine",
    "pregnant_end": "no",
    "pregnant_end_note": "twins Jonah and Eve born in finale",
-   "confidence_flag": "EXACT FIT (stepmother pregnant) · High · fan wiki + IMDb plot",
+   "confidence_flag": "STEPMOTHER EXTENSION (no biological prior kids) · High · fan wiki + IMDb plot",
    "evidence": "The Nanny wiki — Finale Part II, IMDb plot",
    "sources": [
     {
@@ -237,7 +245,7 @@
    "kids_note": "Nichole (June and Nick)",
    "pregnant_end": "no",
    "pregnant_end_note": "Holly/Nichole born S2E11",
-   "confidence_flag": "EXACT FIT (enrichment of existing card) · High · TVLine",
+   "confidence_flag": "EXACT (biological prior kid, different partner) · enrichment of existing card · TVLine",
    "evidence": "TVLine recap",
    "sources": [
     {
@@ -249,6 +257,79 @@
    "married": "yes",
    "match_title": "The Handmaid’s Tale",
    "match_year": "2018"
+  },
+  {
+   "title": "家里家外 / Inside and Outside Home",
+   "year": "2025",
+   "format": "vertical",
+   "meta": "Vertical short drama · China · Mandarin (Sichuan setting) · 79 episodes · 听花岛 Tinghua Island",
+   "character": "Cai Xiaoyan (蔡晓艳, Sun Yiran) and second husband Chen Haiqing (陈海清)",
+   "summary": "Set in 1986. Cai Xiaoyan, who already has a son, Yifan (born Shao Yifan), by her jailed gambler ex-husband Shao Guogang, has remarried widower Chen Haiqing, who has a daughter, Chen Shuang. On the day her appliance shop opens she gives birth to their son, Chen Sanlun. The rest of the series follows the blended family.",
+   "categories": [
+    "widow-divorcee-remarry-pregnant",
+    "family"
+   ],
+   "married": "yes",
+   "existing_kids": "1",
+   "existing_kids_note": "son Yifan by ex-husband Shao Guogang; stepdaughter Chen Shuang",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Chen Sanlun born to Xiaoyan and Chen Haiqing in the opening",
+   "kids_status": "yes",
+   "kids_note": "Chen Sanlun",
+   "pregnant_end": "no",
+   "pregnant_end_note": "birth occurs at story start",
+   "confidence_flag": "EXACT (biological prior kid, different partner) · vertical short drama · High · duanjuhao synopsis + Tencent News + GMW",
+   "sources": [
+    {
+     "label": "短剧好 synopsis",
+     "url": "https://duanjuhao.com/ju/jia-li-jia-wai"
+    },
+    {
+     "label": "Tencent News ending",
+     "url": "https://news.qq.com/rain/a/20250319A06SJM00"
+    },
+    {
+     "label": "GMW",
+     "url": "https://m.gmw.cn/2025-03/19/content_1303994745.htm"
+    }
+   ],
+   "adult": "no",
+   "provenance": "Stepfamily pass round 2, 7 Nov 2026 PT (native-language vertical drama search)",
+   "match_title": "家里家外 / Inside and Outside Home",
+   "match_year": "2025",
+   "evidence": "短剧好 synopsis, Tencent News ending, GMW"
+  },
+  {
+   "title": "后妈生的孩子震惊全家",
+   "year": "2025–2026",
+   "format": "vertical",
+   "meta": "Vertical short drama · China · Mandarin · Hongguo (红果短剧)",
+   "character": "Unnamed stepmother (father's new partner); heroine Ji Xinyou (记心柚)",
+   "summary": "Ji Xinyou's father, over 50 and desperate for a son, brings his heavily pregnant new partner home before her mother's seven-day mourning ends. Ji Xinyou, reborn into the story, schemes around the stepmother's delivery; the hook is what the stepmother gives birth to.",
+   "categories": [
+    "stepmom-pregnancy"
+   ],
+   "married": "unknown",
+   "existing_kids": "unknown",
+   "existing_kids_note": "the stepmother's own earlier children are not stated",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "the synopsis says she gives birth; the baby's sex/outcome is withheld",
+   "kids_status": "yes",
+   "kids_note": "baby with Ji's father (details withheld)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "gives birth",
+   "confidence_flag": "LOOSE · STEPMOTHER EXTENSION (stepmother's prior kids unknown; pregnant before the marriage) · Medium · platform synopsis only",
+   "sources": [
+    {
+     "label": "红果短剧",
+     "url": "https://hongguoduanju.com/detail?series_id=7643723761564273726"
+    }
+   ],
+   "adult": "no",
+   "provenance": "Stepfamily pass round 2, 7 Nov 2026 PT (native-language vertical drama search)",
+   "match_title": "后妈生的孩子震惊全家",
+   "match_year": "2025–2026",
+   "evidence": "红果短剧"
   }
  ],
  "dropped": [
@@ -286,6 +367,56 @@
    "title": "TikTok 'Step Dad Got His Step Daughter Pregnant' series",
    "reason": "EXCLUDED: step-parent/step-child sexual storyline",
    "url": "https://www.tiktok.com/discover/dad-accidentally-gets-step-daughter-part-4-greg"
+  },
+  {
+   "title": "二婚嫁对人，婆婆全家宠 (Hongguo)",
+   "reason": "pregnant by her first husband; the child in her care is her sister-in-law's; no pregnancy by the new husband",
+   "url": "https://hongguoduanju.com/detail?series_id=7640014710280047640"
+  },
+  {
+   "title": "幸得相遇离婚时",
+   "reason": "pregnancy by ex-husband; no prior kids; no new-partner pregnancy stated",
+   "url": "https://duanjubaike.org/zh-Hans/drama/80"
+  },
+  {
+   "title": "再婚恰逢意中人 / 前夫勿扰，她已带娃再婚 / 婚后带崽甜蜜蜜 / 离婚当日：崽崽带爹来二嫁 / 天降萌宝",
+   "reason": "either no new pregnancy, or the child turns out to be the new husband's own",
+   "url": "https://hongguoduanju.com/detail?series_id=7674954954016033817"
+  },
+  {
+   "title": "180天重启计划 / Me and My Family",
+   "reason": "duplicate: already on the page (id 856) with matching categories",
+   "url": "https://www.iqilin.com/en/title-item/me-and-my-family/"
+  },
+  {
+   "title": "My CEO Daddy Found Us! / Second Chance, Double Trouble / Single Mom, Billionaire's Bride / The Baby-Planned Marriage Surprise",
+   "reason": "the new pregnancy is by the father of the existing children (same partner), or there is no new pregnancy",
+   "url": "https://www.reelshort.com/movie/my-ceo-daddy-found-us-68074ffb6b4c768240075d9e"
+  },
+  {
+   "title": "A Pledge to God (MBC 2018)",
+   "reason": "remarried, but the new pregnancy is by her ex-husband, who is the father of her existing son (same partner)",
+   "url": "https://content.mbc.co.kr/program/drama/3323558_64285.html"
+  },
+  {
+   "title": "Con bebé, casada y mimada (NetShort)",
+   "reason": "the husband is the kids' biological father; no new pregnancy",
+   "url": "https://netshort.com/full-episodes/con-beb%C3%A9-casada-y-mimada-1927684282418540546"
+  },
+  {
+   "title": "生活像阳光一样灿烂",
+   "reason": "stepmother extension candidate; only a single wiki-mirror source found, so not added",
+   "url": "https://pediainside.com/wiki/%E7%94%9F%E6%B4%BB%E5%83%8F%E9%98%B3%E5%85%89%E4%B8%80%E6%A0%B7%E7%81%BF%E7%83%82"
+  },
+  {
+   "title": "TikTok step-brother / stepdaughter pregnancy storytimes",
+   "reason": "EXCLUDED: step-sibling or step-parent/step-child sexual storylines",
+   "url": "https://www.tiktok.com/discover/story-time-about-how-i-found-out-i-was-pregnant-with-my-step-brothers-baby"
+  },
+  {
+   "title": "Punar Vivaah – Zindagi Milegi Dobara",
+   "reason": "duplicate: already on the page as 'Punar Vivah – Zindagi Milegi Dobara' with the remarry-pregnant category; Aarti fits exactly (son Ansh by ex Prashant, son Aayu by Yash per Wikipedia). A second, older 'Vivaah' card also exists (pre-existing duplicate, left alone)",
+   "url": "https://en.wikipedia.org/wiki/Punar_Vivaah_%E2%80%93_Zindagi_Milegi_Dobara"
   }
  ]
 }
