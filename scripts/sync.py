@@ -212,6 +212,7 @@ SOURCES = [
     {"id": "vertical-hypnosis-nov6-r6", "label": "Worldwide hypnosis Nov6 round6", "local": "sources/vertical-hypnosis-nov6-r6.json", "required": True},
     {"id": "hypnosis-repeat-pregnancy-nov7", "label": "Adult mother mind-control and subsequent pregnancy chronology Nov7", "local": "sources/hypnosis-repeat-pregnancy-nov7.json", "required": True},
     {"id": "vertical-hypnosis-nov6-r7", "label": "Worldwide hypnosis Nov6 round7", "local": "sources/vertical-hypnosis-nov6-r7.json", "required": True},
+    {"id": "vertical-pregnant-again-nov07", "label": "Vertical series — pregnant again (7 Nov 2026)", "local": "sources/vertical-pregnant-again-nov07.json", "required": True},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

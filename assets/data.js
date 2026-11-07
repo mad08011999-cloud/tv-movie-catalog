@@ -11748,6 +11748,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "vertical-pregnant-again-nov07",
+   "label": "Vertical series — pregnant again (7 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/vertical-pregnant-again-nov07.json",
+   "description": "Vertical/microdrama series worldwide where an adult woman becomes pregnant again, with kids-together and prior-kids notes. Plot-level only.",
+   "dropped": [],
+   "check": {
+    "raw_count": 10,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -11838,10 +11851,11 @@ window.CATALOG = {
   "vertical-hypnosis-nov6-r5": 2,
   "vertical-hypnosis-nov6-r6": 4,
   "hypnosis-repeat-pregnancy-nov7": 1,
-  "vertical-hypnosis-nov6-r7": 4
+  "vertical-hypnosis-nov6-r7": 4,
+  "vertical-pregnant-again-nov07": 10
  },
- "raw_total": 7508,
- "entry_count": 3756,
+ "raw_total": 7518,
+ "entry_count": 3766,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -12069,7 +12083,7 @@ window.CATALOG = {
    "key": "mom-pregnancy",
    "label": "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
    "legend_label": "Mother pregnant again",
-   "entry_count": 181
+   "entry_count": 186
   },
   {
    "key": "hypnotised-mother-marriage",
@@ -12147,7 +12161,7 @@ window.CATALOG = {
    "key": "pregnant",
    "label": "pregnant",
    "legend_label": "pregnant",
-   "entry_count": 64
+   "entry_count": 69
   },
   {
    "key": "belly-kissed",
@@ -12231,13 +12245,13 @@ window.CATALOG = {
    "key": "regional-pregnancy",
    "label": "Pregnant women controlled — India & Indonesia",
    "legend_label": "Pregnant women controlled — India & Indonesia",
-   "entry_count": 18
+   "entry_count": 20
   },
   {
    "key": "india-pregnancy",
    "label": "Pregnant women hypnotized / mind-controlled — India",
    "legend_label": "Pregnant women hypnotized / mind-controlled — India",
-   "entry_count": 11
+   "entry_count": 12
   },
   {
    "key": "remarried-wife-control",
@@ -582202,6 +582216,796 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 3950,
+   "title": "The Unexpected Love That Heals Us",
+   "subtitle": "",
+   "year": "",
+   "meta": "Vertical short drama · GoodShort · 88 episodes",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Sophie raises her son Jack, reunites with his father Caleb Johnson, becomes pregnant again and gives birth to twins.",
+   "character": "Sophie Archer",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Twins born",
+   "pregnancy_note": "Father: Caleb Johnson. Kids together: yes (Jack plus twins).",
+   "tags": [
+    "vertical series",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: yes, son Jack with Caleb",
+   "pregnant_end": "yes",
+   "evidence": "Official synopsis; second listing likely syndicated",
+   "fit_note": "Sophie's age at her first pregnancy is not confirmed.",
+   "format": "series",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "GoodShort",
+     "url": "https://www.goodshort.com/drama/the-unexpected-love-that-heals-us-31001009075"
+    },
+    {
+     "label": "MiniShort",
+     "url": "https://minishort.com/fullmovies/the-unexpected-love-that-heals-us"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-pregnant-again-nov07"
+   ],
+   "source_records": [
+    "vertical-pregnant-again-nov07:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-pregnant-again-nov07:1": {
+     "title": "The Unexpected Love That Heals Us",
+     "year": "",
+     "format": "series",
+     "meta": "Vertical short drama · GoodShort · 88 episodes",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "tags": [
+      "vertical series",
+      "loose fit"
+     ],
+     "fit_note": "Sophie's age at her first pregnancy is not confirmed.",
+     "character": "Sophie Archer",
+     "summary": "Sophie raises her son Jack, reunites with his father Caleb Johnson, becomes pregnant again and gives birth to twins.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Twins born",
+     "pregnancy_note": "Father: Caleb Johnson. Kids together: yes (Jack plus twins).",
+     "kids_status": "Has kids from before: yes, son Jack with Caleb",
+     "sources": [
+      {
+       "label": "GoodShort",
+       "url": "https://www.goodshort.com/drama/the-unexpected-love-that-heals-us-31001009075"
+      },
+      {
+       "label": "MiniShort",
+       "url": "https://minishort.com/fullmovies/the-unexpected-love-that-heals-us"
+      }
+     ],
+     "evidence": "Official synopsis; second listing likely syndicated"
+    }
+   }
+  },
+  {
+   "id": 3951,
+   "title": "Abstinent CEO's Pregnant Sweetheart",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Vertical series · DramaBox and others · 60 episodes",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Bella has triplets with Ian, lives happily with him, and becomes pregnant again.",
+   "character": "Bella",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Pregnant again at the end; delivery not shown in sources",
+   "pregnancy_note": "Father: Ian. Kids together: yes (triplets).",
+   "tags": [
+    "vertical series"
+   ],
+   "kids_status": "Has kids from before: yes, triplets with Ian",
+   "pregnant_end": "yes",
+   "evidence": "Two aggregators with similar synopses",
+   "format": "series",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "My Vertical Drama",
+     "url": "https://myverticaldrama.com/en/series/abstinent-ceo-s-pregnant-sweetheart/"
+    },
+    {
+     "label": "VerticalVault",
+     "url": "https://verticalvault.app/dramas/abstinent-ceo-s-pregnant-sweetheart-vv-62982"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-pregnant-again-nov07"
+   ],
+   "source_records": [
+    "vertical-pregnant-again-nov07:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-pregnant-again-nov07:2": {
+     "title": "Abstinent CEO's Pregnant Sweetheart",
+     "year": "2025",
+     "format": "series",
+     "meta": "Vertical series · DramaBox and others · 60 episodes",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "tags": [
+      "vertical series"
+     ],
+     "fit_note": "",
+     "character": "Bella",
+     "summary": "Bella has triplets with Ian, lives happily with him, and becomes pregnant again.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Pregnant again at the end; delivery not shown in sources",
+     "pregnancy_note": "Father: Ian. Kids together: yes (triplets).",
+     "kids_status": "Has kids from before: yes, triplets with Ian",
+     "sources": [
+      {
+       "label": "My Vertical Drama",
+       "url": "https://myverticaldrama.com/en/series/abstinent-ceo-s-pregnant-sweetheart/"
+      },
+      {
+       "label": "VerticalVault",
+       "url": "https://verticalvault.app/dramas/abstinent-ceo-s-pregnant-sweetheart-vv-62982"
+      }
+     ],
+     "evidence": "Two aggregators with similar synopses"
+    }
+   }
+  },
+  {
+   "id": 3952,
+   "title": "The Fantastic 7",
+   "subtitle": "",
+   "year": "",
+   "meta": "Vertical series · NetShort · 74 episodes",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Xandy, mother of septuplets with Brian Smith, is pregnant again in the final episode, possibly with septuplets again.",
+   "character": "Xandy Chow",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Pregnant again; birth not confirmed",
+   "pregnancy_note": "Father of septuplets: Brian Smith; final pregnancy's father not stated. Kids together: yes.",
+   "tags": [
+    "vertical series",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: yes, septuplets with Brian",
+   "pregnant_end": "yes",
+   "evidence": "Single-source (official episode synopses)",
+   "fit_note": "Single publisher; second pregnancy announced only.",
+   "format": "series",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "NetShort EP74",
+     "url": "https://netshort.com/episode/the-fantastic-7-1831539324688322561-ep-74"
+    },
+    {
+     "label": "NetShort EP40",
+     "url": "https://netshort.com/episode/the-fantastic-7-1831539324688322561-ep-40"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-pregnant-again-nov07"
+   ],
+   "source_records": [
+    "vertical-pregnant-again-nov07:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-pregnant-again-nov07:3": {
+     "title": "The Fantastic 7",
+     "year": "",
+     "format": "series",
+     "meta": "Vertical series · NetShort · 74 episodes",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "tags": [
+      "vertical series",
+      "loose fit"
+     ],
+     "fit_note": "Single publisher; second pregnancy announced only.",
+     "character": "Xandy Chow",
+     "summary": "Xandy, mother of septuplets with Brian Smith, is pregnant again in the final episode, possibly with septuplets again.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Pregnant again; birth not confirmed",
+     "pregnancy_note": "Father of septuplets: Brian Smith; final pregnancy's father not stated. Kids together: yes.",
+     "kids_status": "Has kids from before: yes, septuplets with Brian",
+     "sources": [
+      {
+       "label": "NetShort EP74",
+       "url": "https://netshort.com/episode/the-fantastic-7-1831539324688322561-ep-74"
+      },
+      {
+       "label": "NetShort EP40",
+       "url": "https://netshort.com/episode/the-fantastic-7-1831539324688322561-ep-40"
+      }
+     ],
+     "evidence": "Single-source (official episode synopses)"
+    }
+   }
+  },
+  {
+   "id": 3953,
+   "title": "The Don's Fatal Tenderness",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "AI-generated animated vertical series · ReelShort · 23 episodes",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Five years into her marriage to mafia boss Marcus Falcone, Lainey has a son, Gable, and is pregnant again; she survives an attack and reaches hospital.",
+   "character": "Lainey",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown",
+   "pregnancy_note": "Father: Marcus Falcone. Kids together: yes (son Gable).",
+   "tags": [
+    "vertical series",
+    "AI-generated",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: yes, son Gable with Marcus",
+   "pregnant_end": "yes",
+   "evidence": "Two listings; ending not confirmed",
+   "fit_note": "AI-generated animation; pregnancy outcome unknown.",
+   "format": "series",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "DramaFeed",
+     "url": "https://drama-feed.com/en/d/1072219"
+    },
+    {
+     "label": "ShortDramaDesk",
+     "url": "https://www.shortdramadesk.com/dramas/the-dons-fatal-tenderness"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-pregnant-again-nov07"
+   ],
+   "source_records": [
+    "vertical-pregnant-again-nov07:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-pregnant-again-nov07:4": {
+     "title": "The Don's Fatal Tenderness",
+     "year": "2026",
+     "format": "series",
+     "meta": "AI-generated animated vertical series · ReelShort · 23 episodes",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "tags": [
+      "vertical series",
+      "AI-generated",
+      "loose fit"
+     ],
+     "fit_note": "AI-generated animation; pregnancy outcome unknown.",
+     "character": "Lainey",
+     "summary": "Five years into her marriage to mafia boss Marcus Falcone, Lainey has a son, Gable, and is pregnant again; she survives an attack and reaches hospital.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Unknown",
+     "pregnancy_note": "Father: Marcus Falcone. Kids together: yes (son Gable).",
+     "kids_status": "Has kids from before: yes, son Gable with Marcus",
+     "sources": [
+      {
+       "label": "DramaFeed",
+       "url": "https://drama-feed.com/en/d/1072219"
+      },
+      {
+       "label": "ShortDramaDesk",
+       "url": "https://www.shortdramadesk.com/dramas/the-dons-fatal-tenderness"
+      }
+     ],
+     "evidence": "Two listings; ending not confirmed"
+    }
+   }
+  },
+  {
+   "id": 3954,
+   "title": "Hurt Me, Love Me",
+   "subtitle": "",
+   "year": "",
+   "meta": "Vertical series · DramaBox",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Katherine, neglected by husband Eric, is pregnant again; she divorces him over the child they lost.",
+   "character": "Katherine",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unclear",
+   "pregnancy_note": "Father: Eric. Kids together: no live child confirmed.",
+   "tags": [
+    "vertical series",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: no live child (earlier pregnancy lost)",
+   "pregnant_end": "unknown",
+   "evidence": "Single-source; review not read",
+   "fit_note": "Unclear which pregnancy ended in loss.",
+   "format": "series",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "DramaBox",
+     "url": "https://www.dramabox.com/tag/62495/5"
+    },
+    {
+     "label": "I Love Verticals review",
+     "url": "https://i-love-verticals.com/reviews/hurt-me-love-me/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-pregnant-again-nov07"
+   ],
+   "source_records": [
+    "vertical-pregnant-again-nov07:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-pregnant-again-nov07:5": {
+     "title": "Hurt Me, Love Me",
+     "year": "",
+     "format": "series",
+     "meta": "Vertical series · DramaBox",
+     "categories": [
+      "pregnant"
+     ],
+     "tags": [
+      "vertical series",
+      "loose fit"
+     ],
+     "fit_note": "Unclear which pregnancy ended in loss.",
+     "character": "Katherine",
+     "summary": "Katherine, neglected by husband Eric, is pregnant again; she divorces him over the child they lost.",
+     "pregnant_end": "unknown",
+     "pregnancy_outcome": "Unclear",
+     "pregnancy_note": "Father: Eric. Kids together: no live child confirmed.",
+     "kids_status": "Has kids from before: no live child (earlier pregnancy lost)",
+     "sources": [
+      {
+       "label": "DramaBox",
+       "url": "https://www.dramabox.com/tag/62495/5"
+      },
+      {
+       "label": "I Love Verticals review",
+       "url": "https://i-love-verticals.com/reviews/hurt-me-love-me/"
+      }
+     ],
+     "evidence": "Single-source; review not read"
+    }
+   }
+  },
+  {
+   "id": 3955,
+   "title": "Beg Me, My Mafia Ex-Husband",
+   "subtitle": "",
+   "year": "",
+   "meta": "Vertical series · DramaBox · 27 episodes",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Elena, forced by husband Adrian to end earlier pregnancies under false pretences, is pregnant again, exposes his revenge scheme and escapes with her child.",
+   "character": "Elena",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Child born; she leaves with the child",
+   "pregnancy_note": "Father: Adrian. Kids together: one child, couple separated.",
+   "tags": [
+    "vertical series",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: no (earlier pregnancies ended)",
+   "pregnant_end": "no",
+   "evidence": "Single-source",
+   "fit_note": "Plot involves reproductive coercion; single source.",
+   "format": "series",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "DramaBox",
+     "url": "https://www.dramabox.com/drama/42000023865/Beg-Me-My-Mafia-Ex-Husband"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-pregnant-again-nov07"
+   ],
+   "source_records": [
+    "vertical-pregnant-again-nov07:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-pregnant-again-nov07:6": {
+     "title": "Beg Me, My Mafia Ex-Husband",
+     "year": "",
+     "format": "series",
+     "meta": "Vertical series · DramaBox · 27 episodes",
+     "categories": [
+      "pregnant"
+     ],
+     "tags": [
+      "vertical series",
+      "loose fit"
+     ],
+     "fit_note": "Plot involves reproductive coercion; single source.",
+     "character": "Elena",
+     "summary": "Elena, forced by husband Adrian to end earlier pregnancies under false pretences, is pregnant again, exposes his revenge scheme and escapes with her child.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Child born; she leaves with the child",
+     "pregnancy_note": "Father: Adrian. Kids together: one child, couple separated.",
+     "kids_status": "Has kids from before: no (earlier pregnancies ended)",
+     "sources": [
+      {
+       "label": "DramaBox",
+       "url": "https://www.dramabox.com/drama/42000023865/Beg-Me-My-Mafia-Ex-Husband"
+      }
+     ],
+     "evidence": "Single-source"
+    }
+   }
+  },
+  {
+   "id": 3956,
+   "title": "落魄魔女的二胎计划 (The Fallen Witch's Second-Child Plan)",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Chinese vertical microdrama · Kuaishou",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Seven years after her first pregnancy, the witch Yun Qingqing raises daughter Yun Duo; reunited with Jiang Yunjing, she plans a second child to restore her magic and becomes pregnant again; they end happily.",
+   "character": "Yun Qingqing (adult witch)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Pregnant again, happy ending; birth not confirmed",
+   "pregnancy_note": "Father: Jiang Yunjing. Kids together: yes (daughter Yun Duo).",
+   "tags": [
+    "vertical series"
+   ],
+   "kids_status": "Has kids from before: yes, daughter with Jiang Yunjing",
+   "pregnant_end": "yes",
+   "evidence": "Baidu plus one independent summary",
+   "format": "series",
+   "categories": [
+    "mom-pregnancy",
+    "regional-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Baidu Baike",
+     "url": "https://baike.baidu.com/item/落魄魔女的二胎计划/65254380"
+    },
+    {
+     "label": "Taicike",
+     "url": "https://www.taicike.com/tv/93314745/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-pregnant-again-nov07"
+   ],
+   "source_records": [
+    "vertical-pregnant-again-nov07:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-pregnant-again-nov07:7": {
+     "title": "落魄魔女的二胎计划 (The Fallen Witch's Second-Child Plan)",
+     "year": "2024",
+     "format": "series",
+     "meta": "Chinese vertical microdrama · Kuaishou",
+     "categories": [
+      "mom-pregnancy",
+      "regional-pregnancy"
+     ],
+     "tags": [
+      "vertical series"
+     ],
+     "fit_note": "",
+     "character": "Yun Qingqing (adult witch)",
+     "summary": "Seven years after her first pregnancy, the witch Yun Qingqing raises daughter Yun Duo; reunited with Jiang Yunjing, she plans a second child to restore her magic and becomes pregnant again; they end happily.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Pregnant again, happy ending; birth not confirmed",
+     "pregnancy_note": "Father: Jiang Yunjing. Kids together: yes (daughter Yun Duo).",
+     "kids_status": "Has kids from before: yes, daughter with Jiang Yunjing",
+     "sources": [
+      {
+       "label": "Baidu Baike",
+       "url": "https://baike.baidu.com/item/落魄魔女的二胎计划/65254380"
+      },
+      {
+       "label": "Taicike",
+       "url": "https://www.taicike.com/tv/93314745/"
+      }
+     ],
+     "evidence": "Baidu plus one independent summary"
+    }
+   }
+  },
+  {
+   "id": 3957,
+   "title": "Al Diablo con mi Suegra (To Hell with My Mother-in-Law)",
+   "subtitle": "",
+   "year": "",
+   "meta": "Spanish-language vertical series · FlareFlow · 45 episodes",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "After losing a pregnancy and battling her traditional mother-in-law, a wife becomes pregnant again as the family reconciles.",
+   "character": "Unnamed wife",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Pregnant again; birth not stated",
+   "pregnancy_note": "Father: her husband (inferred). Kids together: not confirmed.",
+   "tags": [
+    "vertical series",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: no live child stated (earlier loss)",
+   "pregnant_end": "yes",
+   "evidence": "Single-source",
+   "fit_note": "Single-source synopsis.",
+   "format": "series",
+   "categories": [
+    "pregnant",
+    "regional-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "MicroDrama Radar",
+     "url": "https://www.microdramaradar.com/es/series/al-diablo-con-mi-suegra-6478"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-pregnant-again-nov07"
+   ],
+   "source_records": [
+    "vertical-pregnant-again-nov07:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-pregnant-again-nov07:8": {
+     "title": "Al Diablo con mi Suegra (To Hell with My Mother-in-Law)",
+     "year": "",
+     "format": "series",
+     "meta": "Spanish-language vertical series · FlareFlow · 45 episodes",
+     "categories": [
+      "pregnant",
+      "regional-pregnancy"
+     ],
+     "tags": [
+      "vertical series",
+      "loose fit"
+     ],
+     "fit_note": "Single-source synopsis.",
+     "character": "Unnamed wife",
+     "summary": "After losing a pregnancy and battling her traditional mother-in-law, a wife becomes pregnant again as the family reconciles.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Pregnant again; birth not stated",
+     "pregnancy_note": "Father: her husband (inferred). Kids together: not confirmed.",
+     "kids_status": "Has kids from before: no live child stated (earlier loss)",
+     "sources": [
+      {
+       "label": "MicroDrama Radar",
+       "url": "https://www.microdramaradar.com/es/series/al-diablo-con-mi-suegra-6478"
+      }
+     ],
+     "evidence": "Single-source"
+    }
+   }
+  },
+  {
+   "id": 3958,
+   "title": "Pati ki Chhichhori Girlfriend",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Hindi vertical series · Kuku TV · 47 episodes",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "After a miscarriage in her abusive marriage to Sahil, Kavya returns pregnant again, divorces him and later remarries.",
+   "character": "Kavya",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Child implied to survive; not verified",
+   "pregnancy_note": "Father: unclear (Sahil or new partner). Kids together with final husband: unknown.",
+   "tags": [
+    "vertical series",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: no (earlier miscarriage)",
+   "pregnant_end": "yes",
+   "evidence": "Single-source",
+   "fit_note": "Second pregnancy's father not firmly established; single source.",
+   "format": "series",
+   "categories": [
+    "pregnant",
+    "india-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Kuku TV",
+     "url": "https://kukutv.app/show/6d72553b-d249-466b-a890-63df92ca01a7"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-pregnant-again-nov07"
+   ],
+   "source_records": [
+    "vertical-pregnant-again-nov07:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-pregnant-again-nov07:9": {
+     "title": "Pati ki Chhichhori Girlfriend",
+     "year": "2026",
+     "format": "series",
+     "meta": "Hindi vertical series · Kuku TV · 47 episodes",
+     "categories": [
+      "pregnant",
+      "india-pregnancy"
+     ],
+     "tags": [
+      "vertical series",
+      "loose fit"
+     ],
+     "fit_note": "Second pregnancy's father not firmly established; single source.",
+     "character": "Kavya",
+     "summary": "After a miscarriage in her abusive marriage to Sahil, Kavya returns pregnant again, divorces him and later remarries.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Child implied to survive; not verified",
+     "pregnancy_note": "Father: unclear (Sahil or new partner). Kids together with final husband: unknown.",
+     "kids_status": "Has kids from before: no (earlier miscarriage)",
+     "sources": [
+      {
+       "label": "Kuku TV",
+       "url": "https://kukutv.app/show/6d72553b-d249-466b-a890-63df92ca01a7"
+      }
+     ],
+     "evidence": "Single-source"
+    }
+   }
+  },
+  {
+   "id": 3959,
+   "title": "Rejected by the Alpha, Chosen by the Moon",
+   "subtitle": "",
+   "year": "",
+   "meta": "Fantasy vertical series · KalosTV · 40 episodes",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Murdered while pregnant before her wedding, Cynthia is reborn, pairs with Alban, a cursed Alpha, and is pregnant again with a royal Lycan bloodline.",
+   "character": "Cynthia",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown",
+   "pregnancy_note": "Father: apparently Alban. Kids together: unknown.",
+   "tags": [
+    "vertical series",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: no (earlier pregnancy ended with her death)",
+   "pregnant_end": "yes",
+   "evidence": "Single-source",
+   "fit_note": "Rebirth plot; may replay the earlier pregnancy.",
+   "format": "series",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "DramaFeed",
+     "url": "https://drama-feed.com/en/d/166266"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vertical-pregnant-again-nov07"
+   ],
+   "source_records": [
+    "vertical-pregnant-again-nov07:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vertical-pregnant-again-nov07:10": {
+     "title": "Rejected by the Alpha, Chosen by the Moon",
+     "year": "",
+     "format": "series",
+     "meta": "Fantasy vertical series · KalosTV · 40 episodes",
+     "categories": [
+      "pregnant"
+     ],
+     "tags": [
+      "vertical series",
+      "loose fit"
+     ],
+     "fit_note": "Rebirth plot; may replay the earlier pregnancy.",
+     "character": "Cynthia",
+     "summary": "Murdered while pregnant before her wedding, Cynthia is reborn, pairs with Alban, a cursed Alpha, and is pregnant again with a royal Lycan bloodline.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Unknown",
+     "pregnancy_note": "Father: apparently Alban. Kids together: unknown.",
+     "kids_status": "Has kids from before: no (earlier pregnancy ended with her death)",
+     "sources": [
+      {
+       "label": "DramaFeed",
+       "url": "https://drama-feed.com/en/d/166266"
+      }
+     ],
+     "evidence": "Single-source"
+    }
+   }
   }
  ],
  "sections": [
@@ -614571,7 +615375,8 @@ window.CATALOG = {
     "deep-gap-oct15",
     "pregnant-yt-oct15",
     "pregnancy-yt-oct15",
-    "hypnosis-repeat-pregnancy-nov7"
+    "hypnosis-repeat-pregnancy-nov7",
+    "vertical-pregnant-again-nov07"
    ],
    "groups": [
     {
@@ -616274,6 +617079,33 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-repeat-pregnancy-nov7"
+    },
+    {
+     "title": "Vertical series: pregnant again (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3951,
+       "from_source": "vertical-pregnant-again-nov07"
+      },
+      {
+       "id": 3953,
+       "from_source": "vertical-pregnant-again-nov07"
+      },
+      {
+       "id": 3952,
+       "from_source": "vertical-pregnant-again-nov07"
+      },
+      {
+       "id": 3950,
+       "from_source": "vertical-pregnant-again-nov07"
+      },
+      {
+       "id": 3956,
+       "from_source": "vertical-pregnant-again-nov07"
+      }
+     ],
+     "from_source": "vertical-pregnant-again-nov07"
     }
    ],
    "declared_count_by_source": {
@@ -616284,7 +617116,8 @@ window.CATALOG = {
     "deep-gap-oct15": null,
     "pregnant-yt-oct15": null,
     "pregnancy-yt-oct15": null,
-    "hypnosis-repeat-pregnancy-nov7": null
+    "hypnosis-repeat-pregnancy-nov7": null,
+    "vertical-pregnant-again-nov07": null
    }
   },
   {
@@ -621755,7 +622588,8 @@ window.CATALOG = {
     "hypnosis-assault-loose",
     "pregnant-yt-oct15",
     "pregnancy-yt-oct15",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "vertical-pregnant-again-nov07"
    ],
    "declared_count_by_source": {
     "worldwide-hypnosis": null,
@@ -621764,7 +622598,8 @@ window.CATALOG = {
     "hypnosis-assault-loose": null,
     "pregnant-yt-oct15": null,
     "pregnancy-yt-oct15": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "vertical-pregnant-again-nov07": null
    },
    "groups": [
     {
@@ -622067,6 +622902,33 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov04"
+    },
+    {
+     "title": "Vertical series: pregnant again (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3957,
+       "from_source": "vertical-pregnant-again-nov07"
+      },
+      {
+       "id": 3955,
+       "from_source": "vertical-pregnant-again-nov07"
+      },
+      {
+       "id": 3954,
+       "from_source": "vertical-pregnant-again-nov07"
+      },
+      {
+       "id": 3958,
+       "from_source": "vertical-pregnant-again-nov07"
+      },
+      {
+       "id": 3959,
+       "from_source": "vertical-pregnant-again-nov07"
+      }
+     ],
+     "from_source": "vertical-pregnant-again-nov07"
     }
    ]
   },
@@ -626849,12 +627711,14 @@ window.CATALOG = {
    "from_sources": [
     "ig6qlxqxoxvcxla",
     "hypnosis-assault-loose",
-    "hypno-pregnant-yt-oct25"
+    "hypno-pregnant-yt-oct25",
+    "vertical-pregnant-again-nov07"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 10,
     "hypnosis-assault-loose": null,
-    "hypno-pregnant-yt-oct25": null
+    "hypno-pregnant-yt-oct25": null,
+    "vertical-pregnant-again-nov07": null
    },
    "groups": [
     {
@@ -626985,6 +627849,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypno-pregnant-yt-oct25"
+    },
+    {
+     "title": "Vertical series: pregnant again (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3957,
+       "from_source": "vertical-pregnant-again-nov07"
+      },
+      {
+       "id": 3956,
+       "from_source": "vertical-pregnant-again-nov07"
+      }
+     ],
+     "from_source": "vertical-pregnant-again-nov07"
     }
    ]
   },
@@ -626998,7 +627877,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
     "hypnosis-assault",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "vertical-pregnant-again-nov07"
    ],
    "groups": [
     {
@@ -627201,13 +628081,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Vertical series: pregnant again (Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3958,
+       "from_source": "vertical-pregnant-again-nov07"
+      }
+     ],
+     "from_source": "vertical-pregnant-again-nov07"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 9,
     "worldwide-hypnosis": null,
     "hypnosis-assault": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "vertical-pregnant-again-nov07": null
    }
   },
   {

@@ -54175,11 +54175,12 @@
   "vertical-hypnosis-nov6-r5": 2,
   "vertical-hypnosis-nov6-r6": 4,
   "hypnosis-repeat-pregnancy-nov7": 1,
-  "vertical-hypnosis-nov6-r7": 4
+  "vertical-hypnosis-nov6-r7": 4,
+  "vertical-pregnant-again-nov07": 10
  },
- "entry_count_after_dedupe": 3756,
+ "entry_count_after_dedupe": 3766,
  "within_source_groups": 5,
  "cross_source_groups": 2083,
  "index_only_records": 55,
- "local_only_records": 1484
+ "local_only_records": 1494
 }
