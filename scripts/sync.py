@@ -203,6 +203,7 @@ SOURCES = [
     {"id": "hypnosis-bestsimilar-nov5", "label": "BestSimilar tag: hypnosis (5 Nov 2026)",
      "local": "sources/hypnosis-bestsimilar-nov5.json", "required": False},
     {"id": "vertical-hypnosis-nov6", "label": "Worldwide adult-female hypnosis Nov 6", "local": "sources/vertical-hypnosis-nov6.json", "required": True},
+    {"id": "vertical-hypnosis-nov6-r2", "label": "AI-inclusive worldwide hypnosis Nov 6 round 2", "local": "sources/vertical-hypnosis-nov6-r2.json", "required": True},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

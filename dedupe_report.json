@@ -53841,5 +53841,19 @@
   "added_id": 3919,
   "preserved_existing_entries": true,
   "broad_sync": false
+ },
+ "offline_nov6_r2_integration": {
+  "new_ids": [
+   3920,
+   3921,
+   3922
+  ],
+  "enriched_ids": [
+   1986,
+   2732
+  ],
+  "source": "vertical-hypnosis-nov6-r2",
+  "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
+  "browser_or_network_calls": 0
  }
 }
