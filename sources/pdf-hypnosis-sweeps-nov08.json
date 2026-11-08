@@ -1,0 +1,265 @@
+{
+  "id": "pdf-hypnosis-sweeps-nov08",
+  "label": "PDF hypnosis sweeps — 8 Nov 2026",
+  "group_title": "PDF hypnosis sweeps (Nov 2026)",
+  "description": "Data-only staging from two user-supplied PDFs. Deduped against local data.json; no repository pull performed. Not independently re-researched. Records missing exact source URLs require verification before publication. Pregnancy-adjacent and probable cases clearly flagged; no new categories.",
+  "category_labels": {},
+  "records": [
+    {
+      "title": "Skyline",
+      "year": "2010",
+      "format": "movie",
+      "meta": "Feature film · USA · English",
+      "categories": [
+        "index-37",
+        "scifi"
+      ],
+      "tags": [],
+      "fit_note": "",
+      "character": "Elaine",
+      "summary": "Pregnant Elaine is hypnotised by alien blue light and harvested with Jarrod. Aboard the ship she is spared because she is pregnant; Jarrod retains consciousness in an alien body and rescues her.",
+      "pregnant_end": "yes",
+      "pregnancy_outcome": "Still pregnant; no birth shown",
+      "pregnancy_note": "Kids together: No live birth shown. ",
+      "kids_status": "Has kids from before: No",
+      "kids_together": "No live birth shown",
+      "sources": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Skyline_(2010_film)"
+        },
+        {
+          "label": "Moria Reviews",
+          "url": "https://moriareviews.com/sciencefiction/skyline-2010.htm"
+        },
+        {
+          "label": "SpoilerTown",
+          "url": "https://spoilertown.com/skyline-2010/"
+        }
+      ],
+      "evidence": "Pregnant-female sweep PDF record 2; multiple cited sources. Not independently reopened in this data-transformation pass."
+    },
+    {
+      "title": "Open",
+      "year": "2019",
+      "format": "movie",
+      "meta": "Short film · USA · English · Sarah Nocquet",
+      "categories": [
+        "index-37",
+        "forced-obedience"
+      ],
+      "tags": [
+        "loose fit"
+      ],
+      "fit_note": "Ending, prior children and live birth are unknown. Identical short logline repeated across three listings; not a vertical series.",
+      "character": "Unnamed foreign pregnant woman",
+      "summary": "A pregnant outsider in a picture-perfect community of mothers is coerced into hypnosis and must fight to save her unborn baby.",
+      "pregnant_end": "unknown",
+      "pregnancy_outcome": "Unknown",
+      "pregnancy_note": "Kids together: Unknown. Ending, prior children and live birth are unknown. Identical short logline repeated across three listings; not a vertical series.",
+      "kids_status": "Has kids from before: Unknown",
+      "kids_together": "Unknown",
+      "sources": [
+        {
+          "label": "IMDb",
+          "url": "https://www.imdb.com/title/tt9902050"
+        },
+        {
+          "label": "NFFTY",
+          "url": "https://www.nffty.org/film-of-the-week-season-three/august-18-2021-open"
+        },
+        {
+          "label": "Sundance Collab",
+          "url": "https://collab.sundance.org/catalog/Open-2020-02-26-151514"
+        }
+      ],
+      "evidence": "Pregnant-female sweep PDF record 7: CONFIRMED (thin); synopsis-level evidence only."
+    },
+    {
+      "title": "A Rainha Louca",
+      "year": "1967",
+      "format": "series",
+      "meta": "Telenovela · Brazil · Portuguese · Globo · 215 chapters",
+      "categories": [
+        "pregnant-variants",
+        "forced-obedience"
+      ],
+      "tags": [
+        "loose fit"
+      ],
+      "fit_note": "PROBABLE. Conception during hypnosis, not hypnosis of an already-pregnant woman. No ending or birth established. Hypnosis link rests on one plot summary.",
+      "character": "Maria de las Mercês",
+      "summary": "Conde Demétrio puts Maria into hypnotic sleep; Robledo assaults her while hypnotised. Pregnant afterward, she marries him dressed in black.",
+      "pregnant_end": "unknown",
+      "pregnancy_outcome": "Unknown",
+      "pregnancy_note": "Kids together: Unknown. PROBABLE. Conception during hypnosis, not hypnosis of an already-pregnant woman. No ending or birth established. Hypnosis link rests on one plot summary.",
+      "kids_status": "Has kids from before: No",
+      "kids_together": "Unknown",
+      "sources": [
+        {
+          "label": "Novelas do Brasil",
+          "url": "https://novelasdobrasil.com/a-rainha-louca-resumo/"
+        },
+        {
+          "label": "Wikipedia",
+          "url": "https://pt.wikipedia.org/wiki/A_Rainha_Louca"
+        }
+      ],
+      "evidence": "Pregnant-female sweep PDF record 9; single source for hypnosis/pregnancy link."
+    },
+    {
+      "title": "替命 / Tì Mìng (Substitute Life)",
+      "year": "",
+      "format": "series",
+      "meta": "Chinese vertical short drama · ShortAtlas listing published 24 Oct 2026",
+      "categories": [
+        "pregnant-variants"
+      ],
+      "tags": [
+        "vertical series",
+        "loose fit"
+      ],
+      "fit_note": "PROBABLE; single source. Synopsis does not identify Li Rou as the hypnosis victim or establish overlap with pregnancy. No later child.",
+      "character": "Li Rou (李柔)",
+      "summary": "Pregnant Li Rou loses her fetus after receiving an ash necklace. She exposes her husband, friend and father-in-law; the supposed life-for-life magic is revealed as a hypnosis-induced hallucination scheme.",
+      "pregnant_end": "no",
+      "pregnancy_outcome": "Pregnancy loss / missed miscarriage",
+      "pregnancy_note": "Kids together: No. PROBABLE; single source. Synopsis does not identify Li Rou as the hypnosis victim or establish overlap with pregnancy. No later child.",
+      "kids_status": "Has kids from before: No",
+      "kids_together": "No",
+      "sources": [
+        {
+          "label": "ShortAtlas",
+          "url": "https://shortatlas.com/zh-hant/play/catalog-29529"
+        }
+      ],
+      "evidence": "Pregnant-female sweep PDF record 10; thin link, victim and timing unverified."
+    },
+    {
+      "title": "谁也别想动我腹中的孩子 / No One Can Touch the Child in My Belly",
+      "year": "2026",
+      "format": "series",
+      "meta": "Chinese vertical short drama · StardustTV / 山海短剧 · 11 episodes",
+      "categories": [
+        "index-37",
+        "wife",
+        "partner-control",
+        "forced-obedience",
+        "index-49"
+      ],
+      "tags": [
+        "vertical series",
+        "loose fit"
+      ],
+      "fit_note": "Hypnosis/pregnancy overlap disputed across timelines. Do not present a clean confirmed pregnant-during claim. Final rescue contradicts villains’ report of neonatal death. He also has a son with nurse Liu Yawen, not Xia Yun.",
+      "character": "Xia Yun (夏芸)",
+      "summary": "Husband He Ziming uses pocket-watch hypnosis, drugs and altered clocks to erase Xia Yun’s pregnancy memories for insurance fraud. Reborn after a forced jump, she exposes the conspiracy and recovers her daughter.",
+      "pregnant_end": "no",
+      "pregnancy_outcome": "Baby daughter recovered alive in final scene; villains earlier claim she died",
+      "pregnancy_note": "Kids together: Daughter born to Xia Yun and He Ziming; marriage destroyed. Hypnosis/pregnancy overlap disputed across timelines. Do not present a clean confirmed pregnant-during claim. Final rescue contradicts villains’ report of neonatal death. He also has a son with nurse Liu Yawen, not Xia Yun.",
+      "kids_status": "Has kids from before: No",
+      "kids_together": "Daughter born to Xia Yun and He Ziming; marriage destroyed",
+      "sources": [
+        {
+          "label": "StardustTV full drama",
+          "url": "https://www.youtube.com/watch?v=PrXxNMTOgfg"
+        },
+        {
+          "label": "Full drama alternate upload",
+          "url": "https://www.youtube.com/watch?v=pkaMbS2DRRg"
+        },
+        {
+          "label": "Ending upload",
+          "url": "https://www.youtube.com/watch?v=0ogqexbd5Xs"
+        },
+        {
+          "label": "iLikeDrama listing",
+          "url": "https://ilikedrama.com/zh-tw/drama/drama-271550/"
+        }
+      ],
+      "evidence": "Both PDFs: same title/character/beat, merged once. Pregnant-female report record 8 resolves ending using final scene but retains timing dispute."
+    },
+    {
+      "title": "我管漂亮你管帅 / You Handle Pretty, I’ll Handle Handsome",
+      "year": "",
+      "format": "series",
+      "meta": "Chinese vertical short drama · MoboReels",
+      "categories": [
+        "pregnancy-adjacent",
+        "forced-obedience",
+        "mother"
+      ],
+      "tags": [
+        "vertical series",
+        "loose fit"
+      ],
+      "fit_note": "Hypnosis occurs AFTER birth, not while pregnant. Single-platform synopsis, unnamed hypnotist. University student; precise age not stated, no minor identified.",
+      "character": "Lin Xiaoya (林小雅)",
+      "summary": "University student Lin Xiaoya is deceived into pregnancy during a year away for illness. After giving birth she is hypnotised to forget that year. Years later, the child’s father Ye Qingfeng abducts her before her wedding.",
+      "pregnant_end": "unknown",
+      "pregnancy_outcome": "One child born before hypnosis; no later pregnancy established",
+      "pregnancy_note": "Kids together: Yes — one child with Ye Qingfeng. Hypnosis occurs AFTER birth, not while pregnant. Single-platform synopsis, unnamed hypnotist. University student; precise age not stated, no minor identified.",
+      "kids_status": "Has kids from before: Yes — same child born before hypnosis, not a prior-relationship child",
+      "kids_together": "Yes — one child with Ye Qingfeng",
+      "sources": [],
+      "evidence": "Vertical-series PDF record 5; cites MoboReels catalog page but supplies no URL. Exact source URL unavailable in attachment; verify before publication."
+    },
+    {
+      "title": "姐姐你才是替身 / Sister, You’re the Substitute",
+      "year": "2025",
+      "format": "series",
+      "meta": "Chinese vertical short drama · YouTube repost distribution · 80 episodes · Liu Xu / Yang Qianqian",
+      "categories": [
+        "other-control"
+      ],
+      "tags": [
+        "vertical series",
+        "loose fit"
+      ],
+      "fit_note": "Disambiguate from same-title Su An’an surrogate-pregnancy story, which has no hypnosis.",
+      "character": "Heroine forced to use identity Chen Hanlu",
+      "summary": "After she saves Qi Yanzhou and suffers heavy blood loss, a hired psychiatrist hypnotically erases her rescue memory so Mu Wanning can claim credit and marry him. The real saviour is confined under a maid’s imposed identity.",
+      "pregnant_end": "unknown",
+      "pregnancy_outcome": "Unknown",
+      "pregnancy_note": "Kids together: Unknown. Disambiguate from same-title Su An’an surrogate-pregnancy story, which has no hypnosis.",
+      "kids_status": "Has kids from before: Unknown",
+      "kids_together": "Unknown",
+      "sources": [],
+      "evidence": "Vertical-series PDF record 12; YouTube hypnosis-reveal transcript plus complete-collection listing, no exact source URLs supplied. Verify before publication."
+    },
+    {
+      "title": "Mommy, You Forgot Me and Daddy!",
+      "year": "",
+      "format": "series",
+      "meta": "Vertical short drama · GoodShort · 50 episodes",
+      "categories": [
+        "mother",
+        "forced-obedience"
+      ],
+      "tags": [
+        "vertical series",
+        "loose fit"
+      ],
+      "fit_note": "Pregnancy during hypnosis and at ending unknown. Possible retitle: Woke Up Married: My Husband Is My Mafia Enemy; count once.",
+      "character": "Regina Montgomery (née Fleming, name attribution uncertain)",
+      "summary": "Hunter uses years of hypnosis and injections to manipulate Regina and family assets. Escaping intensified treatment, she reverts to pre-hypnosis memories and wakes married to Linus with daughter Isla; the family fights back.",
+      "pregnant_end": "unknown",
+      "pregnancy_outcome": "Unknown",
+      "pregnancy_note": "Kids together: Yes — Isla Montgomery, approximately six. Pregnancy during hypnosis and at ending unknown. Possible retitle: Woke Up Married: My Husband Is My Mafia Enemy; count once.",
+      "kids_status": "Has kids from before: Yes — daughter Isla before regained awareness; no prior-relationship children known",
+      "kids_together": "Yes — Isla Montgomery, approximately six",
+      "sources": [],
+      "evidence": "Vertical-series PDF record 13; GoodShort listing, EP43 page and eight Facebook promos, but no exact source URLs supplied. Verify before publication."
+    }
+  ],
+  "dropped": [
+    {
+      "title": "催眠神瞳 / 神瞳觉醒 (Hypnosis Divine Eyes / Divine Eyes Awakening)",
+      "reason": "Excluded: explicitly sexual AI series with a teenage protagonist/controller; violates no-minors scope."
+    },
+    {
+      "title": "催眠眼镜 / Hypnosis Glasses",
+      "reason": "Held for age verification: sexual hypnosis premise involving protagonist and sister with no ages established, adult-aggregator-only evidence and no source URLs in PDF."
+    }
+  ]
+}
