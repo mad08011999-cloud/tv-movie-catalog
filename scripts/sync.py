@@ -214,6 +214,7 @@ SOURCES = [
     {"id": "vertical-hypnosis-nov6-r7", "label": "Worldwide hypnosis Nov6 round7", "local": "sources/vertical-hypnosis-nov6-r7.json", "required": True},
     {"id": "vertical-pregnant-again-nov07", "label": "Vertical series — pregnant again (7 Nov 2026)", "local": "sources/vertical-pregnant-again-nov07.json", "required": True},
     {"id": "pdf-hypnosis-sweeps-nov08", "label": "Hypnosis sweeps from PDFs (8 Nov 2026)", "local": "sources/pdf-hypnosis-sweeps-nov08.json", "required": True},
+    {"id": "weekly-nov09", "label": "Weekly sweep (9 Nov 2026)", "local": "sources/weekly-nov09.json", "required": True},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

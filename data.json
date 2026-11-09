@@ -11783,6 +11783,25 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "weekly-nov09",
+   "label": "Weekly sweep (9 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/weekly-nov09.json",
+   "description": "Weekly routine sweep, 9 Nov 2026 PT. Adult women hypnotised, under vashikaran or mind-controlled in titles newly aired or newly listed between about 2 and 9 Nov 2026. Adults only; notes are non-explicit. Each record cites the channel or platform with a direct link.",
+   "dropped": [
+    {
+     "title": "Kiss Me, Even if It Burns",
+     "year": "2026",
+     "reason": "Already in the catalog (entry 1977, from the muse.ai, ig6qlxqxoxvcxla and kr-cn-hypnosis sources); the 7 Nov 2026 ReelLantern listing is a re-listing"
+    }
+   ],
+   "check": {
+    "raw_count": 1,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -11875,10 +11894,11 @@
   "hypnosis-repeat-pregnancy-nov7": 1,
   "vertical-hypnosis-nov6-r7": 4,
   "vertical-pregnant-again-nov07": 10,
-  "pdf-hypnosis-sweeps-nov08": 8
+  "pdf-hypnosis-sweeps-nov08": 8,
+  "weekly-nov09": 1
  },
- "raw_total": 7526,
- "entry_count": 3774,
+ "raw_total": 7527,
+ "entry_count": 3775,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -11956,7 +11976,7 @@
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 313
+   "entry_count": 314
   },
   {
    "key": "child-controller",
@@ -12010,7 +12030,7 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 714
+   "entry_count": 715
   },
   {
    "key": "wife",
@@ -12046,7 +12066,7 @@
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 194
+   "entry_count": 195
   },
   {
    "key": "royal-hypnosis",
@@ -583683,6 +583703,141 @@
      "evidence": "Vertical-series PDF record 13; GoodShort listing, EP43 page and eight Facebook promos, but no exact source URLs supplied. Verify before publication."
     }
    }
+  },
+  {
+   "id": 3968,
+   "title": "Red River (Sora wa Akai Kawa no Hotori) — Episode 18 \"Proof of Innocence\" (Gyuzel)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "TV anime · Japan · Japanese · Nippon TV AnichU / Tatsunoko Production · ep 18 aired 3 Nov 2026 (late night, JST 4 Nov 1:40) · streaming on FOD and other Japanese services",
+   "mechanism": "Magic / potion mind control",
+   "confidence_flag": "Medium-high · synopsis + recaps",
+   "summary": "Gyuzel, a noblewoman, has been claiming her young son is Crown Prince Kail's. In episode 18 Kail shows the Senate that Gyuzel and Prince Juda were being controlled by Queen Mother Nakia through a 'black water' drink. Kail squeezes the black water out of Gyuzel with a bear hug. Freed, she confesses that the child's father is a travelling scholar, not Kail, and Nakia's plot is exposed.",
+   "character": "Gyuzel (daughter of Senate head Aigil)",
+   "provenance": "Weekly sweep, 9 Nov 2026 PT (adults only; non-explicit notes; no videos watched)",
+   "note": "Only Gyuzel (adult) is catalogued. Juda (a boy) and heroine Yuri (a middle schooler) are excluded as minors. Yuri is not controlled.",
+   "pregnancy_note": "Not stated in sources (her son was already born about a year earlier).",
+   "episodes": [
+    {
+     "episode": "18",
+     "gist": "Black-water control of Gyuzel exposed and broken; she confesses the child is not Kail's"
+    }
+   ],
+   "tags": [
+    "anime",
+    "period",
+    "weekly-nov09"
+   ],
+   "hypnotist": "Queen Mother Nakia",
+   "gain_motive": [
+    "power / throne"
+   ],
+   "method": "Mind-control drink ('black water')",
+   "kids_status": "yes",
+   "kids_note": "Before this arc she had a young son. Per the episode 16 and 18 recaps his father is a travelling scholar, not Kail. Sources do not say whether she ends up with any partner or has more children.",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Official synopsis (via MANTANWEB) says Gyuzel and Juda were being manipulated; episode recap describes the black-water mind-control drink",
+   "adult": "no",
+   "already_married": "no",
+   "format": "anime",
+   "categories": [
+    "fantasy",
+    "human",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "FOD (Fuji TV On Demand) — Red River episode 18 'Proof of Innocence'",
+     "url": "https://fod.fujitv.co.jp/title/500j/500j110018/"
+    },
+    {
+     "label": "MANTANWEB — episode 18 synopsis",
+     "url": "http://en.mantan-web.jp/e_article/20261102dog00m200065000a.html"
+    },
+    {
+     "label": "Anime Art Magazine — episode 18 recap (black water, Gyuzel freed)",
+     "url": "https://animeartmagazine.com/red-river-episode-18-fan-reactions/"
+    },
+    {
+     "label": "ani-chara.net — episode 16 recap (Gyuzel and her son)",
+     "url": "https://ani-chara.net/20535/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "weekly-nov09"
+   ],
+   "source_records": [
+    "weekly-nov09:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "weekly-nov09:1": {
+     "title": "Red River (Sora wa Akai Kawa no Hotori) — Episode 18 \"Proof of Innocence\" (Gyuzel)",
+     "year": "2026",
+     "format": "anime",
+     "meta": "TV anime · Japan · Japanese · Nippon TV AnichU / Tatsunoko Production · ep 18 aired 3 Nov 2026 (late night, JST 4 Nov 1:40) · streaming on FOD and other Japanese services",
+     "character": "Gyuzel (daughter of Senate head Aigil)",
+     "summary": "Gyuzel, a noblewoman, has been claiming her young son is Crown Prince Kail's. In episode 18 Kail shows the Senate that Gyuzel and Prince Juda were being controlled by Queen Mother Nakia through a 'black water' drink. Kail squeezes the black water out of Gyuzel with a bear hug. Freed, she confesses that the child's father is a travelling scholar, not Kail, and Nakia's plot is exposed.",
+     "hypnotist": "Queen Mother Nakia",
+     "method": "Mind-control drink ('black water')",
+     "mechanism": "Magic / potion mind control",
+     "gain_motive": [
+      "power / throne"
+     ],
+     "categories": [
+      "fantasy",
+      "human",
+      "crime"
+     ],
+     "fit": "good",
+     "tags": [
+      "anime",
+      "period",
+      "weekly-nov09"
+     ],
+     "episodes": [
+      {
+       "episode": "18",
+       "gist": "Black-water control of Gyuzel exposed and broken; she confesses the child is not Kail's"
+      }
+     ],
+     "already_married": "no",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "Not stated in sources (her son was already born about a year earlier).",
+     "kids_status": "yes",
+     "kids_together": "not stated",
+     "kids_note": "Before this arc she had a young son. Per the episode 16 and 18 recaps his father is a travelling scholar, not Kail. Sources do not say whether she ends up with any partner or has more children.",
+     "sources": [
+      {
+       "label": "FOD (Fuji TV On Demand) — Red River episode 18 'Proof of Innocence'",
+       "url": "https://fod.fujitv.co.jp/title/500j/500j110018/"
+      },
+      {
+       "label": "MANTANWEB — episode 18 synopsis",
+       "url": "http://en.mantan-web.jp/e_article/20261102dog00m200065000a.html"
+      },
+      {
+       "label": "Anime Art Magazine — episode 18 recap (black water, Gyuzel freed)",
+       "url": "https://animeartmagazine.com/red-river-episode-18-fan-reactions/"
+      },
+      {
+       "label": "ani-chara.net — episode 16 recap (Gyuzel and her son)",
+       "url": "https://ani-chara.net/20535/"
+      }
+     ],
+     "evidence": "Official synopsis (via MANTANWEB) says Gyuzel and Juda were being manipulated; episode recap describes the black-water mind-control drink",
+     "confidence_flag": "Medium-high · synopsis + recaps",
+     "provenance": "Weekly sweep, 9 Nov 2026 PT (adults only; non-explicit notes; no videos watched)",
+     "adult": "no",
+     "note": "Only Gyuzel (adult) is catalogued. Juda (a boy) and heroine Yuri (a middle schooler) are excluded as minors. Yuri is not controlled."
+    }
+   }
   }
  ],
  "sections": [
@@ -592199,7 +592354,8 @@
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r5",
-    "vertical-hypnosis-nov6-r6"
+    "vertical-hypnosis-nov6-r6",
+    "weekly-nov09"
    ],
    "groups": [
     {
@@ -594677,6 +594833,17 @@
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r6"
+    },
+    {
+     "title": "Weekly sweep — 9 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3968,
+       "from_source": "weekly-nov09"
+      }
+     ],
+     "from_source": "weekly-nov09"
     }
    ],
    "declared_count_by_source": {
@@ -594712,7 +594879,8 @@
     "hypnosis-bestsimilar-nov5": null,
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r5": null,
-    "vertical-hypnosis-nov6-r6": null
+    "vertical-hypnosis-nov6-r6": null,
+    "weekly-nov09": null
    }
   },
   {
@@ -598681,7 +598849,8 @@
     "vertical-hypnosis-nov6-r3",
     "vertical-hypnosis-nov6-r5",
     "vertical-hypnosis-nov6-r6",
-    "vertical-hypnosis-nov6-r7"
+    "vertical-hypnosis-nov6-r7",
+    "weekly-nov09"
    ],
    "groups": [
     {
@@ -603674,6 +603843,17 @@
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r7"
+    },
+    {
+     "title": "Weekly sweep — 9 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3968,
+       "from_source": "weekly-nov09"
+      }
+     ],
+     "from_source": "weekly-nov09"
     }
    ],
    "declared_count_by_source": {
@@ -603715,7 +603895,8 @@
     "vertical-hypnosis-nov6-r3": null,
     "vertical-hypnosis-nov6-r5": null,
     "vertical-hypnosis-nov6-r6": null,
-    "vertical-hypnosis-nov6-r7": null
+    "vertical-hypnosis-nov6-r7": null,
+    "weekly-nov09": null
    }
   },
   {
@@ -606490,7 +606671,8 @@
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r4",
-    "vertical-hypnosis-nov6-r6"
+    "vertical-hypnosis-nov6-r6",
+    "weekly-nov09"
    ],
    "groups": [
     {
@@ -607613,6 +607795,17 @@
       }
      ],
      "from_source": "vertical-hypnosis-nov6"
+    },
+    {
+     "title": "Weekly sweep — 9 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3968,
+       "from_source": "weekly-nov09"
+      }
+     ],
+     "from_source": "weekly-nov09"
     }
    ],
    "declared_count_by_source": {
@@ -607644,7 +607837,8 @@
     "deep-refresh-nov04": null,
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r4": null,
-    "vertical-hypnosis-nov6-r6": null
+    "vertical-hypnosis-nov6-r6": null,
+    "weekly-nov09": null
    }
   },
   {

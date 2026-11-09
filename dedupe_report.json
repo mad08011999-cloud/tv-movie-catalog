@@ -54177,11 +54177,12 @@
   "hypnosis-repeat-pregnancy-nov7": 1,
   "vertical-hypnosis-nov6-r7": 4,
   "vertical-pregnant-again-nov07": 10,
-  "pdf-hypnosis-sweeps-nov08": 8
+  "pdf-hypnosis-sweeps-nov08": 8,
+  "weekly-nov09": 1
  },
- "entry_count_after_dedupe": 3774,
+ "entry_count_after_dedupe": 3775,
  "within_source_groups": 5,
  "cross_source_groups": 2083,
  "index_only_records": 55,
- "local_only_records": 1502
+ "local_only_records": 1503
 }
