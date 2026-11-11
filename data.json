@@ -11937,10 +11937,58 @@
     {
      "title": "They Chipped Me to Obey, so I Deleted Them",
      "reason": "FLAGGED (minors): Adult lead Joy is chipped, but the premise is that she was framed for her little sister's death; minors involved — not added."
+    },
+    {
+     "title": "Mother's Baby",
+     "reason": "Already in sources/exclusions.json; fertility-clinic thriller with no hypnosis or mind-control mechanism described in the reviews checked."
+    },
+    {
+     "title": "What We Do in the Shadows S6E3 Sleep Hypnosis",
+     "reason": "The hypnotized characters are male vampires and their male familiar."
+    },
+    {
+     "title": "Pirunduk",
+     "reason": "Already dropped in the 4 Nov refresh: the pelet spell targets the husband."
+    },
+    {
+     "title": "Wishful Thinking",
+     "reason": "Already in the catalog (#3814)."
+    },
+    {
+     "title": "Got Pregnant by Billionaire Brothers",
+     "reason": "Already in the catalog (#1979)."
+    },
+    {
+     "title": "重度催眠 (Deep Hypnosis)",
+     "reason": "Already in the catalog (#3838)."
+    },
+    {
+     "title": "Kiss Me, Even If It Burns",
+     "reason": "Already in the catalog (#1977); the Nov 11 DramaBox listing was merged into that card."
+    },
+    {
+     "title": "Police Complaint (2026, Malayalam)",
+     "reason": "A pregnant woman is a murder victim in a suspected black-magic case; she is not shown under control."
+    },
+    {
+     "title": "Hipnozdaki Kocam / Mafia Cage: Love Burns and I Reborn",
+     "reason": "The hypnotized lead is a man (Shaylen)."
+    },
+    {
+     "title": "掌握催眠之力后的乱伦生活",
+     "reason": "FLAGGED (minors): AI short drama listed 4 Nov 2026 as a hypnosis incest story involving a mother and son; the son's age is not verified as adult — not added."
+    },
+    {
+     "title": "King Kaew (กิ่งแก้ว, 2026)",
+     "reason": "FLAGGED (minors): Plot centers on the alleged kidnapping and murder of a child; minors involved — not added."
+    },
+    {
+     "title": "William's Lullaby",
+     "reason": "FLAGGED (minors): A father uses hypnotherapy in a story with his young son; minors involved — not added."
     }
    ],
    "check": {
-    "raw_count": 6,
+    "raw_count": 7,
     "ok": true
    },
    "status": "local"
@@ -12038,10 +12086,10 @@
   "vertical-pregnant-again-nov07": 10,
   "pdf-hypnosis-sweeps-nov08": 8,
   "weekly-nov09": 1,
-  "deep-refresh-nov11": 6
+  "deep-refresh-nov11": 7
  },
- "raw_total": 7533,
- "entry_count": 3779,
+ "raw_total": 7534,
+ "entry_count": 3780,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -12119,7 +12167,7 @@
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 314
+   "entry_count": 315
   },
   {
    "key": "child-controller",
@@ -12179,7 +12227,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 135
+   "entry_count": 136
   },
   {
    "key": "index-54",
@@ -584503,6 +584551,85 @@
      "note": "Distinct 60-episode series about Lin Xiaowan and hypnotist Jiang Lin; not the April 2026 Zhang Qing series that already has catalog ID 56. Marked standalone so the shared Chinese title cannot merge the two works."
     }
    }
+  },
+  {
+   "id": 3974,
+   "title": "I Can Hear My Fake Wife's Thoughts",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "11 episodes · released 30 Oct 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A curse compels Isolde to act as a devoted, submissive wife while her private thoughts wish Duke Roland dead so she can claim his lands; he unexpectedly hears those thoughts and, instead of annulling the marriage, plays along.",
+   "character": "Isolde (cursed duchess; wife of Duke Roland)",
+   "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "A curse (controller not named)",
+   "method": "Curse that forces a devoted-wife performance",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Aggregator synopsis",
+   "adult": "yes",
+   "format": "vertical short drama",
+   "categories": [
+    "fantasy",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "ShortDramaSpot",
+     "url": "https://shortdramaspot.com/spot/i-can-hear-my-fake-wife-s-thoughts-t2wc6a513"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov11"
+   ],
+   "source_records": [
+    "deep-refresh-nov11:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov11:7": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "I Can Hear My Fake Wife's Thoughts",
+     "year": "2026",
+     "format": "vertical short drama",
+     "meta": "11 episodes · released 30 Oct 2026",
+     "character": "Isolde (cursed duchess; wife of Duke Roland)",
+     "summary": "A curse compels Isolde to act as a devoted, submissive wife while her private thoughts wish Duke Roland dead so she can claim his lands; he unexpectedly hears those thoughts and, instead of annulling the marriage, plays along.",
+     "hypnotist": "A curse (controller not named)",
+     "method": "Curse that forces a devoted-wife performance",
+     "categories": [
+      "fantasy",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "ShortDramaSpot",
+       "url": "https://shortdramaspot.com/spot/i-can-hear-my-fake-wife-s-thoughts-t2wc6a513"
+      }
+     ],
+     "evidence": "Aggregator synopsis",
+     "confidence_flag": "Single source · flag",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -593044,7 +593171,8 @@
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r5",
     "vertical-hypnosis-nov6-r6",
-    "weekly-nov09"
+    "weekly-nov09",
+    "deep-refresh-nov11"
    ],
    "groups": [
     {
@@ -595337,6 +595465,10 @@
        "from_source": "deep-refresh-oct30"
       },
       {
+       "id": 3974,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
        "id": 3782,
        "from_source": "deep-refresh-oct30"
       },
@@ -595569,7 +595701,8 @@
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r5": null,
     "vertical-hypnosis-nov6-r6": null,
-    "weekly-nov09": null
+    "weekly-nov09": null,
+    "deep-refresh-nov11": null
    }
   },
   {
@@ -606217,6 +606350,10 @@
       {
        "id": 3794,
        "from_source": "deep-refresh-oct30"
+      },
+      {
+       "id": 3974,
+       "from_source": "deep-refresh-nov11"
       },
       {
        "id": 3262,
