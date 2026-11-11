@@ -12005,6 +12005,72 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "saimin-sweep-nov11",
+   "label": "Saimin / hypnosis sweep (11 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/saimin-sweep-nov11.json",
+   "description": "Worldwide sweep for adult female characters put under saimin (催眠, hypnosis): adult OVAs, Japanese pink films and saimin AV, Chinese vertical dramas and a German silent film. Only hypnosis or hypnotic suggestion is included, not possession or magic. Minors and characters of unclear age are excluded. Pregnancy, kids together and prior kids are taken from the plot sources, with Unknown where the sources say nothing. Single-source titles are tagged loose fit.",
+   "dropped": [
+    {
+     "title": "Kyonyuu Kazoku Saimin (巨乳家族催眠, OVA 2014)",
+     "reason": "Excluded for age: stepmother is adult, but stepdaughters Natsuki/Akiha are sexual targets with no stated ages."
+    },
+    {
+     "title": "Kyonyuu Daikazoku Saimin (巨乳大家族催眠, OVA 2017–18)",
+     "reason": "Excluded for age: neighbour wives are adult, but stepsisters with unstated ages are sexual targets."
+    },
+    {
+     "title": "Kyonyuu Princess Saimin (巨乳プリンセス催眠, OVA 2020)",
+     "reason": "Excluded for age: queen Tamanna is adult, but second princess Safina is a sexual target with no stated age."
+    },
+    {
+     "title": "Kanojo Saimin / Ijirare ~Fukushuu Saimin~ / Iinchou wa Saimin Appli wo Shinjiteru / Inkou Kyoushi no Saimin Seikatsu Shidouroku / Kyonyuu Reijou MC Gakuen / Ayatsuri Haramase DreamNote",
+     "reason": "Excluded for age: school-student targets or a tutoring student."
+    },
+    {
+     "title": "Death's Wearing High Heels shorts (Spain, 2007/2009/2025)",
+     "reason": "Excluded for age: tagged teen comedy / student film; ages of the hypnotised girls unclear."
+    },
+    {
+     "title": "RLMP-031 and JAV saimin titles with 女子○生 / 妹 / 委員長 / 美○女 targets (e.g. SORA-514, SORA-627, SORA-631, FJIN-130/149/160/165, GVH-834/889, MIMK-275/302, SDDE-763, RCTD-738, DASS-923)",
+     "reason": "Excluded for age: schoolgirl, sister or 'girl' framing."
+    },
+    {
+     "title": "催眠眼镜 / Hypnosis Glasses (AI short drama)",
+     "reason": "Still held. New listings (luludj.com; adult forums) describe episodes about a pregnant 'Jiajia-jie' and a married woman/policewoman, so the women look adult, but the controller '小狼' has no stated age and the only sources are an aggregator and pirate forums."
+    },
+    {
+     "title": "催眠支配人妻 (AI, Chinese, eps 1–4)",
+     "reason": "AI-generated lead from a single pirate-forum post; no plot or controller age. Not added."
+    },
+    {
+     "title": "乱交催眠 私はこうして暴行された / Rankô saimin (1996 pink film)",
+     "reason": "TMDB only; synopsis mentions an aphrodisiac, so hypnosis is not confirmed. Not added."
+    },
+    {
+     "title": "The Placebo Effect (2017)",
+     "reason": "TMDB only; it is unclear whether the hypnotist's wife is herself hypnotised."
+    },
+    {
+     "title": "Sonámbulos (1978)",
+     "reason": "Sources describe a disinhibiting drug treatment rather than hypnosis. Not added."
+    },
+    {
+     "title": "开局我穿成反派神豪 / 茉莉杀姬 / 十年抑郁爱难医",
+     "reason": "The hypnosis is either the hero's unlocked skill with no confirmed female target, or a woman doing the hypnotising (reversed roles)."
+    },
+    {
+     "title": "TikTok @randomtaleshour 'Toxic Marriage Drama: A Tale of Mind Control and Revenge'",
+     "reason": "TikTok clip of an unidentified vertical drama; likely a re-upload of an existing card (e.g. Listen To Your Husband). Not added."
+    }
+   ],
+   "check": {
+    "raw_count": 26,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -12100,10 +12166,11 @@ window.CATALOG = {
   "pdf-hypnosis-sweeps-nov08": 8,
   "weekly-nov09": 1,
   "vashikaran-nov11": 9,
-  "deep-refresh-nov11": 7
+  "deep-refresh-nov11": 7,
+  "saimin-sweep-nov11": 26
  },
- "raw_total": 7543,
- "entry_count": 3789,
+ "raw_total": 7569,
+ "entry_count": 3815,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -12121,7 +12188,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 344
+   "entry_count": 367
   },
   {
    "key": "belly",
@@ -12169,19 +12236,19 @@ window.CATALOG = {
    "key": "doctor-gain",
    "label": "Doctor hypnotizes female characters for personal gain",
    "legend_label": "Doctor controls female character for personal gain",
-   "entry_count": 47
+   "entry_count": 50
   },
   {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 123
+   "entry_count": 127
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 315
+   "entry_count": 316
   },
   {
    "key": "child-controller",
@@ -12211,7 +12278,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 363
+   "entry_count": 371
   },
   {
    "key": "index-56",
@@ -12223,7 +12290,7 @@ window.CATALOG = {
    "key": "hardcore-adult",
    "label": "Hardcore / adult",
    "legend_label": "Hardcore / adult",
-   "entry_count": 8
+   "entry_count": 24
   },
   {
    "key": "index-58",
@@ -12235,7 +12302,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 716
+   "entry_count": 719
   },
   {
    "key": "wife",
@@ -12265,13 +12332,13 @@ window.CATALOG = {
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
-   "entry_count": 33
+   "entry_count": 37
   },
   {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 195
+   "entry_count": 196
   },
   {
    "key": "royal-hypnosis",
@@ -12283,13 +12350,13 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 237
+   "entry_count": 238
   },
   {
    "key": "hypno-intimacy",
    "label": "Hypnotized woman intimate with the hypnotist or the man he directs",
    "legend_label": "Hypnotized into intimacy",
-   "entry_count": 54
+   "entry_count": 64
   },
   {
    "key": "indian-female-hypnosis",
@@ -12307,13 +12374,13 @@ window.CATALOG = {
    "key": "erotic-mainstream",
    "label": "Mainstream erotic / erotic-thriller / erotic-drama (rated releases)",
    "legend_label": "Mainstream erotic / erotic-thriller / erotic-drama (rated releases)",
-   "entry_count": 137
+   "entry_count": 138
   },
   {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 267
+   "entry_count": 274
   },
   {
    "key": "mom-partner-control",
@@ -12343,7 +12410,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 474
+   "entry_count": 476
   },
   {
    "key": "parents-sleeping",
@@ -12397,7 +12464,7 @@ window.CATALOG = {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
    "legend_label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 46
+   "entry_count": 50
   },
   {
    "key": "pregnancy-adjacent",
@@ -12523,13 +12590,13 @@ window.CATALOG = {
    "key": "index-52",
    "label": "Rich woman hypnotized — revenge / control / power",
    "legend_label": "Rich woman hypnotized — revenge / control / power",
-   "entry_count": 3
+   "entry_count": 4
   },
   {
    "key": "index-50",
    "label": "Rich woman hypnotized — sex / erotic exploitation",
    "legend_label": "Rich woman hypnotized — sex / erotic exploitation",
-   "entry_count": 13
+   "entry_count": 15
   },
   {
    "key": "index-53",
@@ -12637,13 +12704,13 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 151
+   "entry_count": 165
   },
   {
    "key": "therapist-wife",
    "label": "Wife hypnotized / controlled by a therapist",
    "legend_label": "Wife hypnotized / controlled by a therapist",
-   "entry_count": 24
+   "entry_count": 25
   },
   {
    "key": "another-man",
@@ -585619,6 +585686,2417 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 3984,
+   "title": "Kyonyuu Onna Senshi: Dogeza Saimin (巨乳女戦士・土下座催眠)",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "Adult anime OVA · Japan · Japanese · 2 episodes · T-Rex / Lune Pictures (ばにぃうぉ～か～)",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A low-ranked colosseum fighter gains the power of hypnosis and uses it to sexually dominate the female warriors who mocked him, in the arena itself.",
+   "character": "Stella (warrior), Iris (priestess), Viola (dark-elf warrior)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant (no pregnancy in synopsis)",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "adult OVA",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "MAL synopsis + Lune official listing + review roundup; 3 sources.",
+   "fit_note": "Adult professional warriors in a colosseum; hypnosis power (not possession). Ages not numerically stated, but all are adult fighters/priestess.",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "hypno-intimacy",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "MyAnimeList",
+     "url": "https://myanimelist.net/anime/51294/Kyonyuu_Onna_Senshi__Dogeza_Saimin"
+    },
+    {
+     "label": "Lune Pictures OVA list (催眠)",
+     "url": "https://www.lune-soft.jp/ova/type_ova/%E5%82%AC%E7%9C%A0/"
+    },
+    {
+     "label": "eoanime-rape.com saimin OVA roundup",
+     "url": "https://eoanime-rape.com/saimin-eroanime-recommend/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:1": {
+     "title": "Kyonyuu Onna Senshi: Dogeza Saimin (巨乳女戦士・土下座催眠)",
+     "year": "2022",
+     "format": "tv",
+     "meta": "Adult anime OVA · Japan · Japanese · 2 episodes · T-Rex / Lune Pictures (ばにぃうぉ～か～)",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "hypno-intimacy",
+      "fantasy"
+     ],
+     "tags": [
+      "adult OVA",
+      "saimin"
+     ],
+     "fit_note": "Adult professional warriors in a colosseum; hypnosis power (not possession). Ages not numerically stated, but all are adult fighters/priestess.",
+     "character": "Stella (warrior), Iris (priestess), Viola (dark-elf warrior)",
+     "summary": "A low-ranked colosseum fighter gains the power of hypnosis and uses it to sexually dominate the female warriors who mocked him, in the arena itself.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant (no pregnancy in synopsis)",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "MyAnimeList",
+       "url": "https://myanimelist.net/anime/51294/Kyonyuu_Onna_Senshi__Dogeza_Saimin"
+      },
+      {
+       "label": "Lune Pictures OVA list (催眠)",
+       "url": "https://www.lune-soft.jp/ova/type_ova/%E5%82%AC%E7%9C%A0/"
+      },
+      {
+       "label": "eoanime-rape.com saimin OVA roundup",
+       "url": "https://eoanime-rape.com/saimin-eroanime-recommend/"
+      }
+     ],
+     "evidence": "MAL synopsis + Lune official listing + review roundup; 3 sources."
+    }
+   }
+  },
+  {
+   "id": 3985,
+   "title": "Tanetsuke Ojisan to Papakko JD Saimin Seikatsu The Animation (種付おじさんとパパっ子JD催眠生活)",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "Adult anime OVA · Japan · Japanese · 1 episode · Studio 1st · based on Kirintei manga",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "University student Karen has her memories rewritten by hypnosis so that a middle-aged man is her beloved 'papa'; she serves his desires and her memories are wiped after each episode, while she rejects other men.",
+   "character": "Shirotsume Karen (university student)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown — 'tanetsuke' (breeding) title, but no source states a pregnancy",
+   "pregnancy_note": "Kids together: Unknown. ",
+   "tags": [
+    "adult OVA",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: No (student, no children)",
+   "kids_together": "Unknown",
+   "pregnant_end": "Unknown",
+   "evidence": "MAL listing + aniSearch synopsis + AkibaBlog manga article.",
+   "fit_note": "JD = joshi-daisei (female university student), i.e. adult. Hypnotic memory manipulation makes her believe the man is her 'papa'.",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "hypno-intimacy"
+   ],
+   "sources": [
+    {
+     "label": "MyAnimeList",
+     "url": "https://myanimelist.net/anime/55162/Tanetsuke_Ojisan_to_Papakko_JD_Saimin_Seikatsu_The_Animation"
+    },
+    {
+     "label": "aniSearch.jp",
+     "url": "https://www.anisearch.jp/anime/18378,tanetsuke-oji-san-to-papakko-jd-saimin-seikatsu-the-animation"
+    },
+    {
+     "label": "AkibaBlog (source manga)",
+     "url": "https://akibablog.blog.jp/archives/51602652.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:2": {
+     "title": "Tanetsuke Ojisan to Papakko JD Saimin Seikatsu The Animation (種付おじさんとパパっ子JD催眠生活)",
+     "year": "2023",
+     "format": "tv",
+     "meta": "Adult anime OVA · Japan · Japanese · 1 episode · Studio 1st · based on Kirintei manga",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "hypno-intimacy"
+     ],
+     "tags": [
+      "adult OVA",
+      "saimin"
+     ],
+     "fit_note": "JD = joshi-daisei (female university student), i.e. adult. Hypnotic memory manipulation makes her believe the man is her 'papa'.",
+     "character": "Shirotsume Karen (university student)",
+     "summary": "University student Karen has her memories rewritten by hypnosis so that a middle-aged man is her beloved 'papa'; she serves his desires and her memories are wiped after each episode, while she rejects other men.",
+     "pregnant_end": "Unknown",
+     "pregnancy_outcome": "Unknown — 'tanetsuke' (breeding) title, but no source states a pregnancy",
+     "pregnancy_note": "Kids together: Unknown. ",
+     "kids_status": "Has kids from before: No (student, no children)",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "MyAnimeList",
+       "url": "https://myanimelist.net/anime/55162/Tanetsuke_Ojisan_to_Papakko_JD_Saimin_Seikatsu_The_Animation"
+      },
+      {
+       "label": "aniSearch.jp",
+       "url": "https://www.anisearch.jp/anime/18378,tanetsuke-oji-san-to-papakko-jd-saimin-seikatsu-the-animation"
+      },
+      {
+       "label": "AkibaBlog (source manga)",
+       "url": "https://akibablog.blog.jp/archives/51602652.html"
+      }
+     ],
+     "evidence": "MAL listing + aniSearch synopsis + AkibaBlog manga article."
+    }
+   }
+  },
+  {
+   "id": 3986,
+   "title": "人妻催眠 濡れつぼみ / Hitozuma Saimin: Nure Tsubomi",
+   "subtitle": "",
+   "year": "2001",
+   "meta": "Pink film (R18) · Japan · Japanese · 60 min · dir./scr. 杉浦昭嘉 · cast 里見瑤子, 桜沢夕海",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "While detectives investigate underground videos of women raped under hypnosis, Detective Igarashi's wife Junko meets psychiatrist Oshima at a party; on the way home he hypnotises her and takes her to his clinic.",
+   "character": "Junko (wife of detective Igarashi)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown",
+   "pregnancy_note": "Kids together: Unknown. ",
+   "tags": [
+    "pink film",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "Unknown",
+   "pregnant_end": "Unknown",
+   "evidence": "TMDB synopsis; JMDb and MDL confirm title/date/credits.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "doctor-gain",
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "erotic-mainstream"
+   ],
+   "sources": [
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/794871"
+    },
+    {
+     "label": "JMDb",
+     "url": "http://www.jmdb.ne.jp/2001/dy002860.htm"
+    },
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/688227-hitozuma-saimin-nure-tsubomi"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:3": {
+     "title": "人妻催眠 濡れつぼみ / Hitozuma Saimin: Nure Tsubomi",
+     "year": "2001",
+     "format": "movie",
+     "meta": "Pink film (R18) · Japan · Japanese · 60 min · dir./scr. 杉浦昭嘉 · cast 里見瑤子, 桜沢夕海",
+     "categories": [
+      "wife-hypnotized",
+      "doctor-gain",
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "erotic-mainstream"
+     ],
+     "tags": [
+      "pink film",
+      "saimin"
+     ],
+     "fit_note": "",
+     "character": "Junko (wife of detective Igarashi)",
+     "summary": "While detectives investigate underground videos of women raped under hypnosis, Detective Igarashi's wife Junko meets psychiatrist Oshima at a party; on the way home he hypnotises her and takes her to his clinic.",
+     "pregnant_end": "Unknown",
+     "pregnancy_outcome": "Unknown",
+     "pregnancy_note": "Kids together: Unknown. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/794871"
+      },
+      {
+       "label": "JMDb",
+       "url": "http://www.jmdb.ne.jp/2001/dy002860.htm"
+      },
+      {
+       "label": "MyDramaList",
+       "url": "https://mydramalist.com/688227-hitozuma-saimin-nure-tsubomi"
+      }
+     ],
+     "evidence": "TMDB synopsis; JMDb and MDL confirm title/date/credits."
+    }
+   }
+  },
+  {
+   "id": 3987,
+   "title": "変態催眠 恥唇いじめ / Hentai Saimin: Haji Kuchibiru Ijime",
+   "subtitle": "",
+   "year": "2002",
+   "meta": "Pink film (R18) · Japan · Japanese · OP Eiga / Sekine Production · dir./scr. 寺嶋亮 · cast 安西なるみ, 林由美香, 里見瑤子",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Expelled hypnosis pupil Ikuo invades rival Tojiro's hypnotherapy clinic, hypnotises Tojiro's assistant and admirer Makiko into believing he is Tojiro and has sex with her; he also hypnotises reporter Mari to deliver his revenge declaration.",
+   "character": "Makiko (assistant), Mari (TV reporter)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant (none in synopsis)",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "pink film",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Full plot from PG; JMDb and TMDB confirm.",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "hypno-intimacy",
+    "forced-obedience",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "PG pink-film database",
+     "url": "https://pg-pinkfilm.com/data/2002/020506/saimin.htm"
+    },
+    {
+     "label": "JMDb",
+     "url": "http://jmdb.ne.jp/2002/dz002090.htm"
+    },
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/1752297"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:4": {
+     "title": "変態催眠 恥唇いじめ / Hentai Saimin: Haji Kuchibiru Ijime",
+     "year": "2002",
+     "format": "movie",
+     "meta": "Pink film (R18) · Japan · Japanese · OP Eiga / Sekine Production · dir./scr. 寺嶋亮 · cast 安西なるみ, 林由美香, 里見瑤子",
+     "categories": [
+      "adult-hypnosis",
+      "hypno-intimacy",
+      "forced-obedience",
+      "medical"
+     ],
+     "tags": [
+      "pink film",
+      "saimin"
+     ],
+     "fit_note": "",
+     "character": "Makiko (assistant), Mari (TV reporter)",
+     "summary": "Expelled hypnosis pupil Ikuo invades rival Tojiro's hypnotherapy clinic, hypnotises Tojiro's assistant and admirer Makiko into believing he is Tojiro and has sex with her; he also hypnotises reporter Mari to deliver his revenge declaration.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant (none in synopsis)",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "PG pink-film database",
+       "url": "https://pg-pinkfilm.com/data/2002/020506/saimin.htm"
+      },
+      {
+       "label": "JMDb",
+       "url": "http://jmdb.ne.jp/2002/dz002090.htm"
+      },
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/1752297"
+      }
+     ],
+     "evidence": "Full plot from PG; JMDb and TMDB confirm."
+    }
+   }
+  },
+  {
+   "id": 3988,
+   "title": "催眠エクスタシー 覗かれた性交癖 / Saimin Ecstasy: Nozokareta Seikōheki (re-release: SEX療法 暴かれた性態)",
+   "subtitle": "",
+   "year": "2007",
+   "meta": "Pink film (R18) · Japan · Japanese · OP Eiga / Tantansha · dir./scr. 山崎邦紀 · cast 北川絵美, 佐々木基子",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Madoromi, who never sleeps and suffers erotic daydreams, is brought to a 'birth trauma' institute where director Ayame puts patients under hypnotherapy; Ayame discovers Madoromi denies having been born from her mother.",
+   "character": "Madoromi (insomniac woman)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "pink film",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: No",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "PG plot; DejaScene listing confirms.",
+   "fit_note": "Therapeutic hypnosis by a female therapist (birth-trauma regression), not coercive.",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "PG pink-film database",
+     "url": "https://pg-pinkfilm.com/data/2007/070102/saimin.htm"
+    },
+    {
+     "label": "DejaScene",
+     "url": "https://www.dejascene.com/movies/view/saimin-ecstasy-nozokareta-seiheiki"
+    },
+    {
+     "label": "PG 2010 releases (re-release title)",
+     "url": "https://pg-pinkfilm.com/data/2010/newmovie2010.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:5": {
+     "title": "催眠エクスタシー 覗かれた性交癖 / Saimin Ecstasy: Nozokareta Seikōheki (re-release: SEX療法 暴かれた性態)",
+     "year": "2007",
+     "format": "movie",
+     "meta": "Pink film (R18) · Japan · Japanese · OP Eiga / Tantansha · dir./scr. 山崎邦紀 · cast 北川絵美, 佐々木基子",
+     "categories": [
+      "medical",
+      "adult-hypnosis"
+     ],
+     "tags": [
+      "pink film",
+      "saimin"
+     ],
+     "fit_note": "Therapeutic hypnosis by a female therapist (birth-trauma regression), not coercive.",
+     "character": "Madoromi (insomniac woman)",
+     "summary": "Madoromi, who never sleeps and suffers erotic daydreams, is brought to a 'birth trauma' institute where director Ayame puts patients under hypnotherapy; Ayame discovers Madoromi denies having been born from her mother.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: No",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "PG pink-film database",
+       "url": "https://pg-pinkfilm.com/data/2007/070102/saimin.htm"
+      },
+      {
+       "label": "DejaScene",
+       "url": "https://www.dejascene.com/movies/view/saimin-ecstasy-nozokareta-seiheiki"
+      },
+      {
+       "label": "PG 2010 releases (re-release title)",
+       "url": "https://pg-pinkfilm.com/data/2010/newmovie2010.html"
+      }
+     ],
+     "evidence": "PG plot; DejaScene listing confirms."
+    }
+   }
+  },
+  {
+   "id": 3989,
+   "title": "好き好きエロモード 我慢しないで！",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Pink film (R18) · Japan · Japanese · OP Eiga / Nabe Cinema · dir. 渡邊元嗣",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "To overcome her fear of men, Nao visits sex therapist Risa, whose hypnosis reveals the root of her phobia is a masked flasher; she then works through her past trauma.",
+   "character": "Nao (adult woman, roommate of newly-wed Chisato)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "pink film",
+    "saimin",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: No",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Single source (PG).",
+   "fit_note": "Loose fit: single-source (PG database only); therapeutic regression hypnosis.",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "PG pink-film database",
+     "url": "https://pg-pinkfilm.com/data/2019/190920sukisuki.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:6": {
+     "title": "好き好きエロモード 我慢しないで！",
+     "year": "2019",
+     "format": "movie",
+     "meta": "Pink film (R18) · Japan · Japanese · OP Eiga / Nabe Cinema · dir. 渡邊元嗣",
+     "categories": [
+      "medical",
+      "adult-hypnosis"
+     ],
+     "tags": [
+      "pink film",
+      "saimin",
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: single-source (PG database only); therapeutic regression hypnosis.",
+     "character": "Nao (adult woman, roommate of newly-wed Chisato)",
+     "summary": "To overcome her fear of men, Nao visits sex therapist Risa, whose hypnosis reveals the root of her phobia is a masked flasher; she then works through her past trauma.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: No",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "PG pink-film database",
+       "url": "https://pg-pinkfilm.com/data/2019/190920sukisuki.html"
+      }
+     ],
+     "evidence": "Single source (PG)."
+    }
+   }
+  },
+  {
+   "id": 3990,
+   "title": "SORA-634 じんかくそうさ洗脳催眠 赤ちゃんが欲しい人妻の切なる願いを妊活マイスターが弄び五段活用で孕ませ洗脳した編 (小野坂ゆいか)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · dir. 遊星 · 136 min",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A married woman desperate for a baby consults a self-styled 'fertility meister', who hypnotises her and passes off repeated creampie 'treatments' as the most effective fertility therapy.",
+   "character": "Married woman (Onosaka Yuika)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Impregnated by the hypnotist per title (孕ませ); birth not described",
+   "pregnancy_note": "Kids together: No (the pregnancy is by the hypnotist, not her husband). ",
+   "tags": [
+    "JAV",
+    "saimin",
+    "hypnosis-caused pregnancy"
+   ],
+   "kids_status": "Has kids from before: No (childless; wants a baby)",
+   "kids_together": "No (the pregnancy is by the hypnotist, not her husband)",
+   "pregnant_end": "Unknown",
+   "evidence": "Retailer synopsis + AVDBS + listing; 3 sources.",
+   "fit_note": "Control-caused pregnancy: hypnotised while trying to conceive; title says she is impregnated (孕ませ) by the hypnotist.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "pregnant-variants",
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Super Double X (product description)",
+     "url": "https://www.sxx.co.jp/products/detail/385749"
+    },
+    {
+     "label": "AVDBS",
+     "url": "https://www.avdbs.com/menu/dvd.php?dvd_idx=878103"
+    },
+    {
+     "label": "guilty.pics",
+     "url": "https://guilty.pics/hinban/sora-634"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:7": {
+     "title": "SORA-634 じんかくそうさ洗脳催眠 赤ちゃんが欲しい人妻の切なる願いを妊活マイスターが弄び五段活用で孕ませ洗脳した編 (小野坂ゆいか)",
+     "year": "2026",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · dir. 遊星 · 136 min",
+     "categories": [
+      "wife-hypnotized",
+      "pregnant-variants",
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "hardcore-adult"
+     ],
+     "tags": [
+      "JAV",
+      "saimin",
+      "hypnosis-caused pregnancy"
+     ],
+     "fit_note": "Control-caused pregnancy: hypnotised while trying to conceive; title says she is impregnated (孕ませ) by the hypnotist.",
+     "character": "Married woman (Onosaka Yuika)",
+     "summary": "A married woman desperate for a baby consults a self-styled 'fertility meister', who hypnotises her and passes off repeated creampie 'treatments' as the most effective fertility therapy.",
+     "pregnant_end": "Unknown",
+     "pregnancy_outcome": "Impregnated by the hypnotist per title (孕ませ); birth not described",
+     "pregnancy_note": "Kids together: No (the pregnancy is by the hypnotist, not her husband). ",
+     "kids_status": "Has kids from before: No (childless; wants a baby)",
+     "kids_together": "No (the pregnancy is by the hypnotist, not her husband)",
+     "sources": [
+      {
+       "label": "Super Double X (product description)",
+       "url": "https://www.sxx.co.jp/products/detail/385749"
+      },
+      {
+       "label": "AVDBS",
+       "url": "https://www.avdbs.com/menu/dvd.php?dvd_idx=878103"
+      },
+      {
+       "label": "guilty.pics",
+       "url": "https://guilty.pics/hinban/sora-634"
+      }
+     ],
+     "evidence": "Retailer synopsis + AVDBS + listing; 3 sources."
+    }
+   }
+  },
+  {
+   "id": 3991,
+   "title": "START-614 新婚で妊活している美人OLを洗脳して、自分の旦那と誤認させ中出しSEX (宮島めい)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "JAV (18+) · Japan · Japanese · SOD Create / SOD star · 139 min",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A newly-wed office worker trying to conceive with her husband has her mind rewritten through earphones by obsessive coworker Kashiwagi; believing he is her beloved husband, she seeks his seed before her husband's.",
+   "character": "Miyajima Mei (newly-wed office worker)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown (conception attempted by the coworker; no pregnancy confirmed)",
+   "pregnancy_note": "Kids together: Unknown. ",
+   "tags": [
+    "JAV",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: No",
+   "kids_together": "Unknown",
+   "pregnant_end": "Unknown",
+   "evidence": "3 listings agree.",
+   "fit_note": "Mind-rewriting by earphone device (hypnotic suggestion); conception context only.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "hardcore-adult",
+    "tech",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "Super Double X",
+     "url": "https://www.sxx.co.jp/products/detail/414361"
+    },
+    {
+     "label": "AVDBS",
+     "url": "https://www.avdbs.com/menu/dvd.php?dvd_idx=880934"
+    },
+    {
+     "label": "NUKIPICK",
+     "url": "https://www.nukipick.com/work/1start00614"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:8": {
+     "title": "START-614 新婚で妊活している美人OLを洗脳して、自分の旦那と誤認させ中出しSEX (宮島めい)",
+     "year": "2026",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · SOD Create / SOD star · 139 min",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "hardcore-adult",
+      "tech",
+      "pregnant-variants"
+     ],
+     "tags": [
+      "JAV",
+      "saimin"
+     ],
+     "fit_note": "Mind-rewriting by earphone device (hypnotic suggestion); conception context only.",
+     "character": "Miyajima Mei (newly-wed office worker)",
+     "summary": "A newly-wed office worker trying to conceive with her husband has her mind rewritten through earphones by obsessive coworker Kashiwagi; believing he is her beloved husband, she seeks his seed before her husband's.",
+     "pregnant_end": "Unknown",
+     "pregnancy_outcome": "Unknown (conception attempted by the coworker; no pregnancy confirmed)",
+     "pregnancy_note": "Kids together: Unknown. ",
+     "kids_status": "Has kids from before: No",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "Super Double X",
+       "url": "https://www.sxx.co.jp/products/detail/414361"
+      },
+      {
+       "label": "AVDBS",
+       "url": "https://www.avdbs.com/menu/dvd.php?dvd_idx=880934"
+      },
+      {
+       "label": "NUKIPICK",
+       "url": "https://www.nukipick.com/work/1start00614"
+      }
+     ],
+     "evidence": "3 listings agree."
+    }
+   }
+  },
+  {
+   "id": 3992,
+   "title": "MEYD-528 催眠妊活NTR 追撃ピストンされイキまくる妻が自らも腰を振り他人子種をおねだり (東凛)",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "JAV (18+) · Japan · Japanese · TAMEIKE · dir. 金田一小五郎 · 150 min",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Wanting a child while her husband insists on condoms, Rin studies hypnosis to steer him into baby-making, but a crooked hypnotist hypnotises her instead (memory erasure, paralysis, euphoria) and repeatedly creampies her in front of her husband until the hypnosis starts to wear off.",
+   "character": "Azuma Rin (wife who wants a child)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown",
+   "pregnancy_note": "Kids together: Unknown. ",
+   "tags": [
+    "JAV",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: No (childless; wants a child)",
+   "kids_together": "Unknown",
+   "pregnant_end": "Unknown",
+   "evidence": "Retailer synopsis + AVDBS.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "cheat-control",
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "hardcore-adult",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "AT-Mania",
+     "url": "https://www.at-mania.com/DVD/ct/AB-MEYD528/"
+    },
+    {
+     "label": "AVDBS",
+     "url": "https://www.avdbs.com/menu/dvd.php?dvd_idx=759391"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:9": {
+     "title": "MEYD-528 催眠妊活NTR 追撃ピストンされイキまくる妻が自らも腰を振り他人子種をおねだり (東凛)",
+     "year": "2019",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · TAMEIKE · dir. 金田一小五郎 · 150 min",
+     "categories": [
+      "wife-hypnotized",
+      "cheat-control",
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "hardcore-adult",
+      "pregnant-variants"
+     ],
+     "tags": [
+      "JAV",
+      "saimin"
+     ],
+     "fit_note": "",
+     "character": "Azuma Rin (wife who wants a child)",
+     "summary": "Wanting a child while her husband insists on condoms, Rin studies hypnosis to steer him into baby-making, but a crooked hypnotist hypnotises her instead (memory erasure, paralysis, euphoria) and repeatedly creampies her in front of her husband until the hypnosis starts to wear off.",
+     "pregnant_end": "Unknown",
+     "pregnancy_outcome": "Unknown",
+     "pregnancy_note": "Kids together: Unknown. ",
+     "kids_status": "Has kids from before: No (childless; wants a child)",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "AT-Mania",
+       "url": "https://www.at-mania.com/DVD/ct/AB-MEYD528/"
+      },
+      {
+       "label": "AVDBS",
+       "url": "https://www.avdbs.com/menu/dvd.php?dvd_idx=759391"
+      }
+     ],
+     "evidence": "Retailer synopsis + AVDBS."
+    }
+   }
+  },
+  {
+   "id": 3993,
+   "title": "SORA-583 じんかくそうさ洗脳催眠 人様に点数を付け優越感を保つ性格サイテー身体は極上の有閑マダムを洗脳し採点してやった編 (大槻ひびき)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · dir. 遊星 · 126 min",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A renovation worker given a score of 5 by an arrogant company president's wife uses a hypnosis app to gradually replace her personality with a hypnotised state and wreck her daily life.",
+   "character": "Otsuki Hibiki (company president's wife)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "JAV",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "3 listings.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "index-50",
+    "adult-hypnosis",
+    "hardcore-adult",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Super Double X",
+     "url": "https://www.sxx.co.jp/products/detail/434594"
+    },
+    {
+     "label": "AVDBS",
+     "url": "https://www.avdbs.com/menu/dvd.php?dvd_idx=863142"
+    },
+    {
+     "label": "NUKIPICK",
+     "url": "https://nukipick.com/work/sora00583"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:10": {
+     "title": "SORA-583 じんかくそうさ洗脳催眠 人様に点数を付け優越感を保つ性格サイテー身体は極上の有閑マダムを洗脳し採点してやった編 (大槻ひびき)",
+     "year": "2025",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · dir. 遊星 · 126 min",
+     "categories": [
+      "wife-hypnotized",
+      "index-50",
+      "adult-hypnosis",
+      "hardcore-adult",
+      "tech"
+     ],
+     "tags": [
+      "JAV",
+      "saimin"
+     ],
+     "fit_note": "",
+     "character": "Otsuki Hibiki (company president's wife)",
+     "summary": "A renovation worker given a score of 5 by an arrogant company president's wife uses a hypnosis app to gradually replace her personality with a hypnotised state and wreck her daily life.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Super Double X",
+       "url": "https://www.sxx.co.jp/products/detail/434594"
+      },
+      {
+       "label": "AVDBS",
+       "url": "https://www.avdbs.com/menu/dvd.php?dvd_idx=863142"
+      },
+      {
+       "label": "NUKIPICK",
+       "url": "https://nukipick.com/work/sora00583"
+      }
+     ],
+     "evidence": "3 listings."
+    }
+   }
+  },
+  {
+   "id": 3994,
+   "title": "NTR-051 催眠術師に寝取られてしまったうちの妻 (川崎亜里沙)",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "JAV (18+) · Japan · Japanese · Hibino · 118 min",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Wife Arisa, impressed by a mentalist's blog, meets him; he uses hypnosis to control her into a sexual relationship behind her husband's back.",
+   "character": "Kawasaki Arisa (wife)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "JAV",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Retailer synopsis + second listing.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "cheat-control",
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "AT-Mania",
+     "url": "https://www.at-mania.com/DVD/ct/SD-NTR051/"
+    },
+    {
+     "label": "宅男异界 listing",
+     "url": "https://www.zhainyijie.com/47467.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:11": {
+     "title": "NTR-051 催眠術師に寝取られてしまったうちの妻 (川崎亜里沙)",
+     "year": "2016",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · Hibino · 118 min",
+     "categories": [
+      "wife-hypnotized",
+      "cheat-control",
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "hardcore-adult"
+     ],
+     "tags": [
+      "JAV",
+      "saimin"
+     ],
+     "fit_note": "",
+     "character": "Kawasaki Arisa (wife)",
+     "summary": "Wife Arisa, impressed by a mentalist's blog, meets him; he uses hypnosis to control her into a sexual relationship behind her husband's back.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "AT-Mania",
+       "url": "https://www.at-mania.com/DVD/ct/SD-NTR051/"
+      },
+      {
+       "label": "宅男异界 listing",
+       "url": "https://www.zhainyijie.com/47467.html"
+      }
+     ],
+     "evidence": "Retailer synopsis + second listing."
+    }
+   }
+  },
+  {
+   "id": 3995,
+   "title": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子)",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "JAV (18+) · Japan · Japanese · VENUS",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A man uses hypnosis to turn his irritating next-door wife into a sex slave, who becomes aroused by a stranger in front of her husband.",
+   "character": "Neighbour's wife (Oda Mako)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown",
+   "pregnancy_note": "Kids together: Unknown. ",
+   "tags": [
+    "JAV",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "Unknown",
+   "pregnant_end": "Unknown",
+   "evidence": "Two listings; plot from title only.",
+   "fit_note": "Series title also released with other actresses (e.g. 君島みお, 三浦恵理子); this card is the 織田真子 entry.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "cheat-control",
+    "forced-obedience",
+    "adult-hypnosis",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/1006080-ntr"
+    },
+    {
+     "label": "JAV productfeed",
+     "url": "https://jav.productfeed.org/content/548613/VAGU-246"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:12": {
+     "title": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子)",
+     "year": "2022",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · VENUS",
+     "categories": [
+      "wife-hypnotized",
+      "cheat-control",
+      "forced-obedience",
+      "adult-hypnosis",
+      "hardcore-adult"
+     ],
+     "tags": [
+      "JAV",
+      "saimin"
+     ],
+     "fit_note": "Series title also released with other actresses (e.g. 君島みお, 三浦恵理子); this card is the 織田真子 entry.",
+     "character": "Neighbour's wife (Oda Mako)",
+     "summary": "A man uses hypnosis to turn his irritating next-door wife into a sex slave, who becomes aroused by a stranger in front of her husband.",
+     "pregnant_end": "Unknown",
+     "pregnancy_outcome": "Unknown",
+     "pregnancy_note": "Kids together: Unknown. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/1006080-ntr"
+      },
+      {
+       "label": "JAV productfeed",
+       "url": "https://jav.productfeed.org/content/548613/VAGU-246"
+      }
+     ],
+     "evidence": "Two listings; plot from title only."
+    }
+   }
+  },
+  {
+   "id": 3996,
+   "title": "SORA-640 じんかくそうさ洗脳催眠 死ぬほど大嫌いな隣人へ出張エステティシャンで訪れることになり… 醜い絶倫おやじに洗脳でイカされた36歳主婦編 (本真ゆり)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · dir. 遊星 · 137 min",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "With her husband suddenly hospitalised, housewife Yuri takes a job as a home-visit aesthetician and is booked by a man she loathes, who controls her completely with a hypnosis app.",
+   "character": "Yuri (36-year-old housewife)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "JAV",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "3 listings.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis",
+    "hardcore-adult",
+    "tech",
+    "hypno-intimacy"
+   ],
+   "sources": [
+    {
+     "label": "Super Double X",
+     "url": "https://www.sxx.co.jp/products/detail/401463"
+    },
+    {
+     "label": "AVDBS",
+     "url": "https://www.avdbs.com/menu/dvd.php?dvd_idx=879813"
+    },
+    {
+     "label": "JAV productfeed",
+     "url": "https://jav.productfeed.org/content/879696/SORA-640"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:13": {
+     "title": "SORA-640 じんかくそうさ洗脳催眠 死ぬほど大嫌いな隣人へ出張エステティシャンで訪れることになり… 醜い絶倫おやじに洗脳でイカされた36歳主婦編 (本真ゆり)",
+     "year": "2026",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · dir. 遊星 · 137 min",
+     "categories": [
+      "wife-hypnotized",
+      "adult-hypnosis",
+      "hardcore-adult",
+      "tech",
+      "hypno-intimacy"
+     ],
+     "tags": [
+      "JAV",
+      "saimin"
+     ],
+     "fit_note": "",
+     "character": "Yuri (36-year-old housewife)",
+     "summary": "With her husband suddenly hospitalised, housewife Yuri takes a job as a home-visit aesthetician and is booked by a man she loathes, who controls her completely with a hypnosis app.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Super Double X",
+       "url": "https://www.sxx.co.jp/products/detail/401463"
+      },
+      {
+       "label": "AVDBS",
+       "url": "https://www.avdbs.com/menu/dvd.php?dvd_idx=879813"
+      },
+      {
+       "label": "JAV productfeed",
+       "url": "https://jav.productfeed.org/content/879696/SORA-640"
+      }
+     ],
+     "evidence": "3 listings."
+    }
+   }
+  },
+  {
+   "id": 3997,
+   "title": "SORA-645 じんかくそうさ洗脳催眠 お金が大好きなウソつき不動産の人妻のま◯こETFにザーメン投資してやった話 (宮西ひかる)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · dir. 遊星",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A greedy 29-year-old married landlady trying to evict tenants is brainwashed by one of them; the word 'investment' drops her into deep hypnosis and she becomes his compliant doll.",
+   "character": "Hikaru (29, married but separated landlord)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "JAV",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "2 listings.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "index-50",
+    "adult-hypnosis",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Super Double X",
+     "url": "https://www.sxx.co.jp/products/detail/416726"
+    },
+    {
+     "label": "guilty.pics",
+     "url": "https://guilty.pics/hinban/sora-645"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:14": {
+     "title": "SORA-645 じんかくそうさ洗脳催眠 お金が大好きなウソつき不動産の人妻のま◯こETFにザーメン投資してやった話 (宮西ひかる)",
+     "year": "2026",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · dir. 遊星",
+     "categories": [
+      "wife-hypnotized",
+      "index-50",
+      "adult-hypnosis",
+      "hardcore-adult"
+     ],
+     "tags": [
+      "JAV",
+      "saimin"
+     ],
+     "fit_note": "",
+     "character": "Hikaru (29, married but separated landlord)",
+     "summary": "A greedy 29-year-old married landlady trying to evict tenants is brainwashed by one of them; the word 'investment' drops her into deep hypnosis and she becomes his compliant doll.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Super Double X",
+       "url": "https://www.sxx.co.jp/products/detail/416726"
+      },
+      {
+       "label": "guilty.pics",
+       "url": "https://guilty.pics/hinban/sora-645"
+      }
+     ],
+     "evidence": "2 listings."
+    }
+   }
+  },
+  {
+   "id": 3998,
+   "title": "SORA-642 じんかくそうさ洗脳催眠 『私は無能でも使いこなす天才社長』 傲慢2代目女社長をパシリ社員が催眠アプリでニコニコ肉奴隷に出荷編 (黒川すみれ)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · dir. 遊星",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "After her father's death, arrogant new company president Sumire drives off all staff but errand-boy Shirasaki, who secretly hypnotises her with an app to take over her and the company.",
+   "character": "Sumire (second-generation female company president)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "JAV",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: No",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "AT-Mania synopsis + AVエロ男爵 listing.",
+   "format": "movie",
+   "categories": [
+    "index-52",
+    "forced-obedience",
+    "adult-hypnosis",
+    "hardcore-adult",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "AT-Mania",
+     "url": "https://www.at-mania.com/DVD/ct/AB-SORA642/"
+    },
+    {
+     "label": "AVエロ男爵",
+     "url": "https://av.dandansk.com/cid/sora00642/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:15": {
+     "title": "SORA-642 じんかくそうさ洗脳催眠 『私は無能でも使いこなす天才社長』 傲慢2代目女社長をパシリ社員が催眠アプリでニコニコ肉奴隷に出荷編 (黒川すみれ)",
+     "year": "2026",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · dir. 遊星",
+     "categories": [
+      "index-52",
+      "forced-obedience",
+      "adult-hypnosis",
+      "hardcore-adult",
+      "tech"
+     ],
+     "tags": [
+      "JAV",
+      "saimin"
+     ],
+     "fit_note": "",
+     "character": "Sumire (second-generation female company president)",
+     "summary": "After her father's death, arrogant new company president Sumire drives off all staff but errand-boy Shirasaki, who secretly hypnotises her with an app to take over her and the company.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: No",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "AT-Mania",
+       "url": "https://www.at-mania.com/DVD/ct/AB-SORA642/"
+      },
+      {
+       "label": "AVエロ男爵",
+       "url": "https://av.dandansk.com/cid/sora00642/"
+      }
+     ],
+     "evidence": "AT-Mania synopsis + AVエロ男爵 listing."
+    }
+   }
+  },
+  {
+   "id": 3999,
+   "title": "SORA-540 じんかくそうさ洗脳催眠 底辺中年配信おじさんが同じマンションの巨乳すぎる人妻に宣戦布告 夏の催眠まつり編 (美園和花)",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · 131 min",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A strait-laced wife who confronts her neighbour, a failing middle-aged streamer, falls under his hypnosis; he makes her post paizuri, costume and 'pregnancy creampie' streams.",
+   "character": "Waka (married woman, new condo owner)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown ('妊娠中出し' streams — pregnancy aimed at by the hypnotist; not confirmed)",
+   "pregnancy_note": "Kids together: Unknown. ",
+   "tags": [
+    "JAV",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "Unknown",
+   "pregnant_end": "Unknown",
+   "evidence": "AT-Mania synopsis + Boogie DVD listing.",
+   "fit_note": "Adult married woman; listing mentions a school-uniform costume scene (costume only, character is an adult wife).",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis",
+    "hardcore-adult",
+    "hypno-intimacy",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "AT-Mania",
+     "url": "https://www.at-mania.com/DVD/ct/AB-SORA540/"
+    },
+    {
+     "label": "AT-Mania outlet listing (synopsis)",
+     "url": "https://www.at-mania.com/DVD/ct/AB-7SORA540/"
+    },
+    {
+     "label": "ブギーDVD",
+     "url": "http://www.boogie-dvd.com/adult/av2/7SORA-540+%81y%83A%83E%83g%83%8C%83b%83g%81z%82%B6%82%F1%82%A9%82%AD%82%BB%82%A4%82%B3%90%F4%94%5D%8D%C3%96%B0%20%92%EA%95%D3%92%86%94N%94z%90M%82%A8%82%B6%82%B3%82%F1%82%AA%93%AF%82%B6%83%7D%83%93%83V%83%87%83%93%82%CC%8B%90%93%FB%82%B7%82%AC%82%E9%90l%8D%C8%82%C9%90%E9%90%ED%95z%8D%90%81I%89%C4%82%CC%8D%C3%96%B0%82%DC%82%C2%82%E8%95%D2%20%94%FC%89%80%98a%89%D4/list2.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:16": {
+     "title": "SORA-540 じんかくそうさ洗脳催眠 底辺中年配信おじさんが同じマンションの巨乳すぎる人妻に宣戦布告 夏の催眠まつり編 (美園和花)",
+     "year": "2024",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · 山と空/妄想族 · 131 min",
+     "categories": [
+      "wife-hypnotized",
+      "adult-hypnosis",
+      "hardcore-adult",
+      "hypno-intimacy",
+      "pregnant-variants"
+     ],
+     "tags": [
+      "JAV",
+      "saimin"
+     ],
+     "fit_note": "Adult married woman; listing mentions a school-uniform costume scene (costume only, character is an adult wife).",
+     "character": "Waka (married woman, new condo owner)",
+     "summary": "A strait-laced wife who confronts her neighbour, a failing middle-aged streamer, falls under his hypnosis; he makes her post paizuri, costume and 'pregnancy creampie' streams.",
+     "pregnant_end": "Unknown",
+     "pregnancy_outcome": "Unknown ('妊娠中出し' streams — pregnancy aimed at by the hypnotist; not confirmed)",
+     "pregnancy_note": "Kids together: Unknown. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "AT-Mania",
+       "url": "https://www.at-mania.com/DVD/ct/AB-SORA540/"
+      },
+      {
+       "label": "AT-Mania outlet listing (synopsis)",
+       "url": "https://www.at-mania.com/DVD/ct/AB-7SORA540/"
+      },
+      {
+       "label": "ブギーDVD",
+       "url": "http://www.boogie-dvd.com/adult/av2/7SORA-540+%81y%83A%83E%83g%83%8C%83b%83g%81z%82%B6%82%F1%82%A9%82%AD%82%BB%82%A4%82%B3%90%F4%94%5D%8D%C3%96%B0%20%92%EA%95%D3%92%86%94N%94z%90M%82%A8%82%B6%82%B3%82%F1%82%AA%93%AF%82%B6%83%7D%83%93%83V%83%87%83%93%82%CC%8B%90%93%FB%82%B7%82%AC%82%E9%90l%8D%C8%82%C9%90%E9%90%ED%95z%8D%90%81I%89%C4%82%CC%8D%C3%96%B0%82%DC%82%C2%82%E8%95%D2%20%94%FC%89%80%98a%89%D4/list2.html"
+      }
+     ],
+     "evidence": "AT-Mania synopsis + Boogie DVD listing."
+    }
+   }
+  },
+  {
+   "id": 4000,
+   "title": "DSOD-135 クリシコNTR 暗示で開発された清楚妻の変態アクメ日課 (美園和花)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "JAV (18+) · Japan · Japanese · dir. 三島六三郎 · 120 min",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Neighbour Iizuka, secretly infatuated with happily married Waka, plants hypnotic suggestions to condition her and make her his.",
+   "character": "Waka (happily married wife)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "JAV",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "2 listings.",
+   "fit_note": "Hypnotic suggestion (暗示).",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "cheat-control",
+    "adult-hypnosis",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "AT-Mania",
+     "url": "https://www.at-mania.com/DVD/ct/AB-DSOD135/"
+    },
+    {
+     "label": "ドンデッチ",
+     "url": "http://www.dondetch.com/j/av2/DSOD-135+%81y%83N%83%8A%83V%83RNTR%81z%88%C3%8E%A6%82%C5%8AJ%94%AD%82%B3%82%EA%82%BD%90%B4%91%5E%8D%C8%82%CC%95%CF%91%D4%83A%83N%83%81%93%FA%89%DB%81B%94O%93%FC%82%E8%83N%83%8A%96%81%82%AB%82%C5%83r%83%93%83r%83%93%82%C9%82%A8%82%C1%96u%82%BF%8E%93%8E%CB%90%B8%82%C5%96%7B%8BC%8F%60%82%A8%98R%82%E7%82%B5%83T%83C%83%8C%83%93%83g%90%E2%92%B8%20%94%FC%89%80%98a%89%D4/list2.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:17": {
+     "title": "DSOD-135 クリシコNTR 暗示で開発された清楚妻の変態アクメ日課 (美園和花)",
+     "year": "2026",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · dir. 三島六三郎 · 120 min",
+     "categories": [
+      "wife-hypnotized",
+      "cheat-control",
+      "adult-hypnosis",
+      "hardcore-adult"
+     ],
+     "tags": [
+      "JAV",
+      "saimin"
+     ],
+     "fit_note": "Hypnotic suggestion (暗示).",
+     "character": "Waka (happily married wife)",
+     "summary": "Neighbour Iizuka, secretly infatuated with happily married Waka, plants hypnotic suggestions to condition her and make her his.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "AT-Mania",
+       "url": "https://www.at-mania.com/DVD/ct/AB-DSOD135/"
+      },
+      {
+       "label": "ドンデッチ",
+       "url": "http://www.dondetch.com/j/av2/DSOD-135+%81y%83N%83%8A%83V%83RNTR%81z%88%C3%8E%A6%82%C5%8AJ%94%AD%82%B3%82%EA%82%BD%90%B4%91%5E%8D%C8%82%CC%95%CF%91%D4%83A%83N%83%81%93%FA%89%DB%81B%94O%93%FC%82%E8%83N%83%8A%96%81%82%AB%82%C5%83r%83%93%83r%83%93%82%C9%82%A8%82%C1%96u%82%BF%8E%93%8E%CB%90%B8%82%C5%96%7B%8BC%8F%60%82%A8%98R%82%E7%82%B5%83T%83C%83%8C%83%93%83g%90%E2%92%B8%20%94%FC%89%80%98a%89%D4/list2.html"
+      }
+     ],
+     "evidence": "2 listings."
+    }
+   }
+  },
+  {
+   "id": 4001,
+   "title": "SNOS-440 豊乳マダムな眠り姫 ～不眠治療中に受けた…えげつないワイセツ行為～ (奥田咲)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "JAV (18+) · Japan · Japanese · S1 NO.1 STYLE · dir. きとるね川口 · 125 min",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Devoted wife Saki develops severe insomnia; her husband sends her to psychiatrist Oshima, who puts her under hypnotherapy and repeatedly assaults her in his clinic.",
+   "character": "Saki (wife, married 6 years)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "JAV",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "3 listings.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "doctor-gain",
+    "therapist-wife",
+    "medical",
+    "adult-hypnosis",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Super Double X",
+     "url": "https://www.sxx.co.jp/products/detail/429871"
+    },
+    {
+     "label": "guilty.pics",
+     "url": "https://guilty.pics/hinban/snos-440"
+    },
+    {
+     "label": "AT-Mania",
+     "url": "https://www.at-mania.com/DVD/ct/AB-SNOS440/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:18": {
+     "title": "SNOS-440 豊乳マダムな眠り姫 ～不眠治療中に受けた…えげつないワイセツ行為～ (奥田咲)",
+     "year": "2026",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · S1 NO.1 STYLE · dir. きとるね川口 · 125 min",
+     "categories": [
+      "wife-hypnotized",
+      "doctor-gain",
+      "therapist-wife",
+      "medical",
+      "adult-hypnosis",
+      "hardcore-adult"
+     ],
+     "tags": [
+      "JAV",
+      "saimin"
+     ],
+     "fit_note": "",
+     "character": "Saki (wife, married 6 years)",
+     "summary": "Devoted wife Saki develops severe insomnia; her husband sends her to psychiatrist Oshima, who puts her under hypnotherapy and repeatedly assaults her in his clinic.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Super Double X",
+       "url": "https://www.sxx.co.jp/products/detail/429871"
+      },
+      {
+       "label": "guilty.pics",
+       "url": "https://guilty.pics/hinban/snos-440"
+      },
+      {
+       "label": "AT-Mania",
+       "url": "https://www.at-mania.com/DVD/ct/AB-SNOS440/"
+      }
+     ],
+     "evidence": "3 listings."
+    }
+   }
+  },
+  {
+   "id": 4002,
+   "title": "AARM-359 サブスク超乳 美人保険外交員に覚えたての催眠術を試してみたらあっさり限界突破 (綾瀬こころ)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "JAV (18+) · Japan · Japanese",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A man tries newly learned hypnosis on a beautiful insurance saleswoman; she obeys every order and he summons her whenever he likes.",
+   "character": "Insurance saleswoman (Ayase Kokoro)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "JAV",
+    "saimin",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Single source.",
+   "fit_note": "Loose fit: single-source (AT-Mania).",
+   "format": "movie",
+   "categories": [
+    "forced-obedience",
+    "adult-hypnosis",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "AT-Mania",
+     "url": "https://www.at-mania.com/DVD/ct/AB-AARM359/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:19"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:19": {
+     "title": "AARM-359 サブスク超乳 美人保険外交員に覚えたての催眠術を試してみたらあっさり限界突破 (綾瀬こころ)",
+     "year": "2026",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese",
+     "categories": [
+      "forced-obedience",
+      "adult-hypnosis",
+      "hardcore-adult"
+     ],
+     "tags": [
+      "JAV",
+      "saimin",
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: single-source (AT-Mania).",
+     "character": "Insurance saleswoman (Ayase Kokoro)",
+     "summary": "A man tries newly learned hypnosis on a beautiful insurance saleswoman; she obeys every order and he summons her whenever he likes.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "AT-Mania",
+       "url": "https://www.at-mania.com/DVD/ct/AB-AARM359/"
+      }
+     ],
+     "evidence": "Single source."
+    }
+   }
+  },
+  {
+   "id": 4003,
+   "title": "CAWD-972 「記憶ないのにカラダが火照ってる」伊藤舞雪の潜在エロス大爆発 催眠覚醒エクスタシー",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "JAV (18+) · Japan · Japanese · kawaii*",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A sceptical actress is hypnotised on set with a finger snap; she later watches footage of herself given suggestions (full-body sensitivity, masochism, rising sensitivity) she cannot remember.",
+   "character": "Ito Mayuki (as herself)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "JAV",
+    "saimin",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Single source.",
+   "fit_note": "Loose fit: single-source; documentary-style shoot where the actress herself is hypnotised.",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "hardcore-adult",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "AT-Mania",
+     "url": "https://www.at-mania.com/DVD/ct/AB-CAWD972/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:20": {
+     "title": "CAWD-972 「記憶ないのにカラダが火照ってる」伊藤舞雪の潜在エロス大爆発 催眠覚醒エクスタシー",
+     "year": "2026",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · kawaii*",
+     "categories": [
+      "adult-hypnosis",
+      "hardcore-adult",
+      "forced-obedience"
+     ],
+     "tags": [
+      "JAV",
+      "saimin",
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: single-source; documentary-style shoot where the actress herself is hypnotised.",
+     "character": "Ito Mayuki (as herself)",
+     "summary": "A sceptical actress is hypnotised on set with a finger snap; she later watches footage of herself given suggestions (full-body sensitivity, masochism, rising sensitivity) she cannot remember.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "AT-Mania",
+       "url": "https://www.at-mania.com/DVD/ct/AB-CAWD972/"
+      }
+     ],
+     "evidence": "Single source."
+    }
+   }
+  },
+  {
+   "id": 4004,
+   "title": "IPX-778 洗脳 服従セラピーで肉体を完全征服された人気女子アナ 催眠療法 (桃乃木かな)",
+   "subtitle": "",
+   "year": "Unknown",
+   "meta": "JAV (18+) · Japan · Japanese · IdeaPocket (outlet listing 2026)",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A popular announcer planning to go independent is fully controlled through 'obedience' hypnotherapy, forced into humiliations even while reading the news on air.",
+   "character": "Popular female TV announcer",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "JAV",
+    "saimin",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Single source.",
+   "fit_note": "Loose fit: single-source.",
+   "format": "movie",
+   "categories": [
+    "forced-obedience",
+    "medical",
+    "adult-hypnosis",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "AT-Mania",
+     "url": "https://www.at-mania.com/DVD/ct/AB-77IPX778/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:21": {
+     "title": "IPX-778 洗脳 服従セラピーで肉体を完全征服された人気女子アナ 催眠療法 (桃乃木かな)",
+     "year": "Unknown",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · IdeaPocket (outlet listing 2026)",
+     "categories": [
+      "forced-obedience",
+      "medical",
+      "adult-hypnosis",
+      "hardcore-adult"
+     ],
+     "tags": [
+      "JAV",
+      "saimin",
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: single-source.",
+     "character": "Popular female TV announcer",
+     "summary": "A popular announcer planning to go independent is fully controlled through 'obedience' hypnotherapy, forced into humiliations even while reading the news on air.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "AT-Mania",
+       "url": "https://www.at-mania.com/DVD/ct/AB-77IPX778/"
+      }
+     ],
+     "evidence": "Single source."
+    }
+   }
+  },
+  {
+   "id": 4005,
+   "title": "XVSR-691 洗脳調教快楽に堕ちて 催眠整体師に催淫洗脳されて染められた私 (長瀬麻美)",
+   "subtitle": "",
+   "year": "Unknown",
+   "meta": "JAV (18+) · Japan · Japanese · MAX-A (outlet listing 2026)",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Asami's daily life is broken down by so-called hypnotherapy from a hypnotist-chiropractor that is really pleasure brainwashing; billed as a tribute to a real case.",
+   "character": "Asami",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: No. ",
+   "tags": [
+    "JAV",
+    "saimin",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Single source.",
+   "fit_note": "Loose fit: single-source.",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "doctor-gain",
+    "adult-hypnosis",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "AT-Mania",
+     "url": "https://www.at-mania.com/DVD/ct/AB-7XVSR691/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:22": {
+     "title": "XVSR-691 洗脳調教快楽に堕ちて 催眠整体師に催淫洗脳されて染められた私 (長瀬麻美)",
+     "year": "Unknown",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · MAX-A (outlet listing 2026)",
+     "categories": [
+      "medical",
+      "doctor-gain",
+      "adult-hypnosis",
+      "hardcore-adult"
+     ],
+     "tags": [
+      "JAV",
+      "saimin",
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: single-source.",
+     "character": "Asami",
+     "summary": "Asami's daily life is broken down by so-called hypnotherapy from a hypnotist-chiropractor that is really pleasure brainwashing; billed as a tribute to a real case.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: No. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "AT-Mania",
+       "url": "https://www.at-mania.com/DVD/ct/AB-7XVSR691/"
+      }
+     ],
+     "evidence": "Single source."
+    }
+   }
+  },
+  {
+   "id": 4006,
+   "title": "TOT-04 淋しき人妻 催眠治療へ。",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "JAV (18+) · Japan · Japanese · 凸入 (Totsu Nyuu)",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A lonely married woman goes for hypnosis treatment (title-level description only).",
+   "character": "Lonely married woman",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown",
+   "pregnancy_note": "Kids together: Unknown. ",
+   "tags": [
+    "JAV",
+    "saimin",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "Unknown",
+   "pregnant_end": "Unknown",
+   "evidence": "Single source.",
+   "fit_note": "Loose fit: single-source; title-level plot only.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "medical",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "SouKaYo listing",
+     "url": "https://www.soukayo.com/mov/5982997b8e226d7bbc586185"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:23"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:23": {
+     "title": "TOT-04 淋しき人妻 催眠治療へ。",
+     "year": "2008",
+     "format": "movie",
+     "meta": "JAV (18+) · Japan · Japanese · 凸入 (Totsu Nyuu)",
+     "categories": [
+      "wife-hypnotized",
+      "medical",
+      "adult-hypnosis"
+     ],
+     "tags": [
+      "JAV",
+      "saimin",
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: single-source; title-level plot only.",
+     "character": "Lonely married woman",
+     "summary": "A lonely married woman goes for hypnosis treatment (title-level description only).",
+     "pregnant_end": "Unknown",
+     "pregnancy_outcome": "Unknown",
+     "pregnancy_note": "Kids together: Unknown. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "SouKaYo listing",
+       "url": "https://www.soukayo.com/mov/5982997b8e226d7bbc586185"
+      }
+     ],
+     "evidence": "Single source."
+    }
+   }
+  },
+  {
+   "id": 4007,
+   "title": "晚风吹心语 (Wan Feng Chui Xin Yu)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Chinese vertical short drama · Mandarin · completed · cast 沈知瑶 / 顾夜白 / 顾霖森 roles",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A heroine who can hear men's thoughts meets the one CEO she can't read; after a fake marriage she is caught up in a family inheritance plot and drugged and hypnotised into amnesia.",
+   "character": "Shen Zhiyao (heroine with mind-reading)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown",
+   "pregnancy_note": "Kids together: Unknown. ",
+   "tags": [
+    "vertical series",
+    "saimin"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "Unknown",
+   "pregnant_end": "Unknown",
+   "evidence": "Two aggregator synopses agree.",
+   "format": "vertical series",
+   "categories": [
+    "other-control",
+    "human",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "尼鹿追剧",
+     "url": "https://niluzj.cc/vod/bd3n.html"
+    },
+    {
+     "label": "华剧 催眠 search listing",
+     "url": "https://www.huaju.app/cn/searchvod/0ac97eca2Le0Zac97eca2LeH/1.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:24"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:24": {
+     "title": "晚风吹心语 (Wan Feng Chui Xin Yu)",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · completed · cast 沈知瑶 / 顾夜白 / 顾霖森 roles",
+     "categories": [
+      "other-control",
+      "human",
+      "love"
+     ],
+     "tags": [
+      "vertical series",
+      "saimin"
+     ],
+     "fit_note": "",
+     "character": "Shen Zhiyao (heroine with mind-reading)",
+     "summary": "A heroine who can hear men's thoughts meets the one CEO she can't read; after a fake marriage she is caught up in a family inheritance plot and drugged and hypnotised into amnesia.",
+     "pregnant_end": "Unknown",
+     "pregnancy_outcome": "Unknown",
+     "pregnancy_note": "Kids together: Unknown. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "尼鹿追剧",
+       "url": "https://niluzj.cc/vod/bd3n.html"
+      },
+      {
+       "label": "华剧 催眠 search listing",
+       "url": "https://www.huaju.app/cn/searchvod/0ac97eca2Le0Zac97eca2LeH/1.html"
+      }
+     ],
+     "evidence": "Two aggregator synopses agree."
+    }
+   }
+  },
+  {
+   "id": 4008,
+   "title": "透视小地主 (Tou Shi Xiao Di Zhu)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Chinese vertical short drama · Mandarin · 74 episodes · cast 林若风 / 若曦 roles",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A poor young landlord inherits x-ray vision and hypnosis skills, fights the village bully and gets rich, while a harem of four women (incl. his sister-in-law) falls for him.",
+   "character": "Sister-in-law, village belle and other women",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown",
+   "pregnancy_note": "Kids together: Unknown. ",
+   "tags": [
+    "vertical series",
+    "saimin",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "Unknown",
+   "pregnant_end": "Unknown",
+   "evidence": "Aggregator synopses; hypnosis-on-women not explicit.",
+   "fit_note": "Loose fit: hero gains hypnosis ('催眠') among inherited powers and wins over his sister-in-law and village beauty, but no source says outright that he hypnotises the women.",
+   "format": "vertical series",
+   "categories": [
+    "other-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "格欧短剧",
+     "url": "https://geoudj.cc/showdetail/8818270.html"
+    },
+    {
+     "label": "鹿思短剧",
+     "url": "https://lusidj.cc/showcontent/1964327866.html"
+    },
+    {
+     "label": "Dailymotion clip",
+     "url": "https://www.dailymotion.com/video/x9r0ps4"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:25"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:25": {
+     "title": "透视小地主 (Tou Shi Xiao Di Zhu)",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 74 episodes · cast 林若风 / 若曦 roles",
+     "categories": [
+      "other-control",
+      "human"
+     ],
+     "tags": [
+      "vertical series",
+      "saimin",
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: hero gains hypnosis ('催眠') among inherited powers and wins over his sister-in-law and village beauty, but no source says outright that he hypnotises the women.",
+     "character": "Sister-in-law, village belle and other women",
+     "summary": "A poor young landlord inherits x-ray vision and hypnosis skills, fights the village bully and gets rich, while a harem of four women (incl. his sister-in-law) falls for him.",
+     "pregnant_end": "Unknown",
+     "pregnancy_outcome": "Unknown",
+     "pregnancy_note": "Kids together: Unknown. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "格欧短剧",
+       "url": "https://geoudj.cc/showdetail/8818270.html"
+      },
+      {
+       "label": "鹿思短剧",
+       "url": "https://lusidj.cc/showcontent/1964327866.html"
+      },
+      {
+       "label": "Dailymotion clip",
+       "url": "https://www.dailymotion.com/video/x9r0ps4"
+      }
+     ],
+     "evidence": "Aggregator synopses; hypnosis-on-women not explicit."
+    }
+   }
+  },
+  {
+   "id": 4009,
+   "title": "Der Schrecken im Hause Ardon / Panic in the House of Ardon",
+   "subtitle": "",
+   "year": "1920",
+   "meta": "Silent film · Germany · dir. Robert Wiene · cam. Karl Freund · Stella Harf",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A criminal gang hypnotises chemist Alfons Ardon's wife to get his invention; Ardon uncovers the betrayal, kills the gang leader and forgives his wife because she acted against her will.",
+   "character": "The chemist's wife (Stella Harf)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant",
+   "pregnancy_note": "Kids together: Unknown. ",
+   "tags": [
+    "silent film"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "Unknown",
+   "pregnant_end": "no",
+   "evidence": "Multiple sources.",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "crime",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de)",
+     "url": "https://de.wikipedia.org/wiki/Der_Schrecken_im_Hause_Ardon"
+    },
+    {
+     "label": "Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Panic_in_the_House_of_Ardon"
+    },
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/426733"
+    },
+    {
+     "label": "German Early Cinema Database",
+     "url": "https://earlycinema.dch.phil-fak.uni-koeln.de/films/view/42053"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "saimin-sweep-nov11"
+   ],
+   "source_records": [
+    "saimin-sweep-nov11:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "saimin-sweep-nov11:26": {
+     "title": "Der Schrecken im Hause Ardon / Panic in the House of Ardon",
+     "year": "1920",
+     "format": "movie",
+     "meta": "Silent film · Germany · dir. Robert Wiene · cam. Karl Freund · Stella Harf",
+     "categories": [
+      "wife-hypnotized",
+      "crime",
+      "human"
+     ],
+     "tags": [
+      "silent film"
+     ],
+     "fit_note": "",
+     "character": "The chemist's wife (Stella Harf)",
+     "summary": "A criminal gang hypnotises chemist Alfons Ardon's wife to get his invention; Ardon uncovers the betrayal, kills the gang leader and forgives his wife because she acted against her will.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant",
+     "pregnancy_note": "Kids together: Unknown. ",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "Wikipedia (de)",
+       "url": "https://de.wikipedia.org/wiki/Der_Schrecken_im_Hause_Ardon"
+      },
+      {
+       "label": "Wikipedia (en)",
+       "url": "https://en.wikipedia.org/wiki/Panic_in_the_House_of_Ardon"
+      },
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/426733"
+      },
+      {
+       "label": "German Early Cinema Database",
+       "url": "https://earlycinema.dch.phil-fak.uni-koeln.de/films/view/42053"
+      }
+     ],
+     "evidence": "Multiple sources."
+    }
+   }
   }
  ],
  "sections": [
@@ -586137,7 +588615,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r3",
     "vertical-hypnosis-nov6-r4",
     "vertical-hypnosis-nov6-r7",
-    "deep-refresh-nov11"
+    "deep-refresh-nov11",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -590377,6 +592856,105 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r7"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4002,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4003,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4000,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4004,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3984,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3992,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3994,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4001,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3999,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3993,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3990,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3996,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3998,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3997,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3991,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3985,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4006,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3995,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4005,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3986,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3988,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3987,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3989,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -590412,7 +592990,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r3": null,
     "vertical-hypnosis-nov6-r4": null,
     "vertical-hypnosis-nov6-r7": null,
-    "deep-refresh-nov11": null
+    "deep-refresh-nov11": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -592910,7 +595489,8 @@ window.CATALOG = {
     "hypnosis-bestsimilar-nov5",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r3",
-    "vertical-hypnosis-nov6-r7"
+    "vertical-hypnosis-nov6-r7",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -593390,6 +595970,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r7"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4001,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4005,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3986,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -593401,7 +596000,8 @@ window.CATALOG = {
     "hypnosis-bestsimilar-nov5": null,
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r3": null,
-    "vertical-hypnosis-nov6-r7": null
+    "vertical-hypnosis-nov6-r7": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -593438,7 +596038,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r4",
-    "hypnosis-repeat-pregnancy-nov7"
+    "hypnosis-repeat-pregnancy-nov7",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -594100,6 +596701,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-repeat-pregnancy-nov7"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3993,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3996,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3998,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3991,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -594130,7 +596754,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r2": null,
     "vertical-hypnosis-nov6-r4": null,
-    "hypnosis-repeat-pregnancy-nov7": null
+    "hypnosis-repeat-pregnancy-nov7": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -594174,7 +596799,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r5",
     "vertical-hypnosis-nov6-r6",
     "weekly-nov09",
-    "deep-refresh-nov11"
+    "deep-refresh-nov11",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -596667,6 +599293,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "weekly-nov09"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3984,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -596704,7 +599341,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r5": null,
     "vertical-hypnosis-nov6-r6": null,
     "weekly-nov09": null,
-    "deep-refresh-nov11": null
+    "deep-refresh-nov11": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -600537,11 +603175,13 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "adult-fanmade-oct15",
-    "pregnant-scenes-oct25"
+    "pregnant-scenes-oct25",
+    "saimin-sweep-nov11"
    ],
    "declared_count_by_source": {
     "adult-fanmade-oct15": null,
-    "pregnant-scenes-oct25": null
+    "pregnant-scenes-oct25": null,
+    "saimin-sweep-nov11": null
    },
    "groups": [
     {
@@ -600582,6 +603222,77 @@ window.CATALOG = {
       }
      ],
      "from_source": "adult-fanmade-oct15"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4002,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4003,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4000,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4004,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3992,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3994,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4001,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3999,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3993,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3990,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3996,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3998,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3997,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3991,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3995,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4005,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ]
   },
@@ -600696,7 +603407,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6",
     "vertical-hypnosis-nov6-r7",
     "weekly-nov09",
-    "vashikaran-nov11"
+    "vashikaran-nov11",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -605711,6 +608423,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "vashikaran-nov11"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4009,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4007,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4008,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -605754,7 +608485,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6": null,
     "vertical-hypnosis-nov6-r7": null,
     "weekly-nov09": null,
-    "vashikaran-nov11": null
+    "vashikaran-nov11": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -607987,7 +610719,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15",
     "hypnosis-deep-oct25c",
     "vertical-hypnosis-nov6",
-    "vertical-hypnosis-nov6-r2"
+    "vertical-hypnosis-nov6-r2",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -608486,6 +611219,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25c"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4000,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3992,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3994,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3995,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -608503,7 +611259,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15": null,
     "hypnosis-deep-oct25c": null,
     "vertical-hypnosis-nov6": null,
-    "vertical-hypnosis-nov6-r2": null
+    "vertical-hypnosis-nov6-r2": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -608548,7 +611305,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r4",
     "vertical-hypnosis-nov6-r6",
-    "weekly-nov09"
+    "weekly-nov09",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -609682,6 +612440,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "weekly-nov09"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4009,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -609714,7 +612483,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r4": null,
     "vertical-hypnosis-nov6-r6": null,
-    "weekly-nov09": null
+    "weekly-nov09": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -610159,7 +612929,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r6",
-    "vashikaran-nov11"
+    "vashikaran-nov11",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -612653,6 +615424,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "vashikaran-nov11"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4007,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -612685,7 +615467,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r2": null,
     "vertical-hypnosis-nov6-r6": null,
-    "vashikaran-nov11": null
+    "vashikaran-nov11": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -612703,7 +615486,8 @@ window.CATALOG = {
     "hypnotized-female-oct15",
     "adult-fanmade-oct15",
     "deep-oct24",
-    "vertical-hypnosis-nov6-r7"
+    "vertical-hypnosis-nov6-r7",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -613216,6 +616000,53 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r7"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3984,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3992,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3994,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3999,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3990,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3996,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3991,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3985,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3986,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3987,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -613227,7 +616058,8 @@ window.CATALOG = {
     "hypnotized-female-oct15": null,
     "adult-fanmade-oct15": null,
     "deep-oct24": null,
-    "vertical-hypnosis-nov6-r7": null
+    "vertical-hypnosis-nov6-r7": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -614200,7 +617032,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15",
     "youtube-india-oct15",
     "pregnant-scenes-oct25",
-    "vashikaran-nov11"
+    "vashikaran-nov11",
+    "saimin-sweep-nov11"
    ],
    "declared_count_by_source": {
     "mainstream-erotic": null,
@@ -614211,7 +617044,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15": null,
     "youtube-india-oct15": null,
     "pregnant-scenes-oct25": null,
-    "vashikaran-nov11": null
+    "vashikaran-nov11": null,
+    "saimin-sweep-nov11": null
    },
    "groups": [
     {
@@ -614845,6 +617679,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "vashikaran-nov11"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3986,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ]
   },
@@ -614902,7 +617747,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r3",
     "vertical-hypnosis-nov6-r4",
     "vertical-hypnosis-nov6-r5",
-    "vertical-hypnosis-nov6-r6"
+    "vertical-hypnosis-nov6-r6",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -616941,6 +619787,41 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r6"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4004,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4001,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4006,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4005,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3988,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3987,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3989,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -616991,7 +619872,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r3": null,
     "vertical-hypnosis-nov6-r4": null,
     "vertical-hypnosis-nov6-r5": null,
-    "vertical-hypnosis-nov6-r6": null
+    "vertical-hypnosis-nov6-r6": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -620030,7 +622912,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6",
     "vertical-hypnosis-nov6-r7",
     "pdf-hypnosis-sweeps-nov08",
-    "deep-refresh-nov11"
+    "deep-refresh-nov11",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -623222,6 +626105,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "pdf-hypnosis-sweeps-nov08"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4007,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4008,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -623256,7 +626154,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6": null,
     "vertical-hypnosis-nov6-r7": null,
     "pdf-hypnosis-sweeps-nov08": null,
-    "deep-refresh-nov11": null
+    "deep-refresh-nov11": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -625253,7 +628152,8 @@ window.CATALOG = {
     "youtube-india-oct15",
     "hypno-pregnant-yt-oct25",
     "deep-refresh-oct30",
-    "pdf-hypnosis-sweeps-nov08"
+    "pdf-hypnosis-sweeps-nov08",
+    "saimin-sweep-nov11"
    ],
    "declared_count_by_source": {
     "round3": null,
@@ -625261,7 +628161,8 @@ window.CATALOG = {
     "youtube-india-oct15": null,
     "hypno-pregnant-yt-oct25": null,
     "deep-refresh-oct30": null,
-    "pdf-hypnosis-sweeps-nov08": null
+    "pdf-hypnosis-sweeps-nov08": null,
+    "saimin-sweep-nov11": null
    },
    "groups": [
     {
@@ -625341,6 +628242,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "pdf-hypnosis-sweeps-nov08"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3992,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3999,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3990,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3991,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ]
   },
@@ -631453,11 +634377,13 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "ig6qlxqxoxvcxla",
-    "older-man-hypnosis"
+    "older-man-hypnosis",
+    "saimin-sweep-nov11"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 2,
-    "older-man-hypnosis": null
+    "older-man-hypnosis": null,
+    "saimin-sweep-nov11": null
    },
    "groups": [
     {
@@ -631499,6 +634425,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "older-man-hypnosis"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3998,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ]
   },
@@ -631512,14 +634449,16 @@ window.CATALOG = {
     "rich-wife-hypnosis",
     "older-man-hypnosis",
     "hypnosis-assault",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "saimin-sweep-nov11"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 2,
     "rich-wife-hypnosis": null,
     "older-man-hypnosis": null,
     "hypnosis-assault": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "saimin-sweep-nov11": null
    },
    "groups": [
     {
@@ -631623,6 +634562,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-assault-loose"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3993,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3997,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ]
   },
@@ -643624,7 +646578,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r5",
     "vertical-hypnosis-nov6-r6",
     "vertical-hypnosis-nov6-r7",
-    "pdf-hypnosis-sweeps-nov08"
+    "pdf-hypnosis-sweeps-nov08",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -646385,6 +649340,45 @@ window.CATALOG = {
       }
      ],
      "from_source": "pdf-hypnosis-sweeps-nov08"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4002,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4003,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4004,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3984,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3998,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3985,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3995,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3987,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -646420,7 +649414,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r5": null,
     "vertical-hypnosis-nov6-r6": null,
     "vertical-hypnosis-nov6-r7": null,
-    "pdf-hypnosis-sweeps-nov08": null
+    "pdf-hypnosis-sweeps-nov08": null,
+    "saimin-sweep-nov11": null
    }
   },
   {
@@ -646449,7 +649444,8 @@ window.CATALOG = {
     "hypnosis-repeat-pregnancy-nov7",
     "vertical-hypnosis-nov6-r7",
     "vashikaran-nov11",
-    "deep-refresh-nov11"
+    "deep-refresh-nov11",
+    "saimin-sweep-nov11"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -646472,7 +649468,8 @@ window.CATALOG = {
     "hypnosis-repeat-pregnancy-nov7": null,
     "vertical-hypnosis-nov6-r7": null,
     "vashikaran-nov11": null,
-    "deep-refresh-nov11": null
+    "deep-refresh-nov11": null,
+    "saimin-sweep-nov11": null
    },
    "groups": [
     {
@@ -647183,6 +650180,69 @@ window.CATALOG = {
       }
      ],
      "from_source": "vashikaran-nov11"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4009,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4000,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3992,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3994,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4001,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3999,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3993,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3990,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3996,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3997,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3991,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4006,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3995,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 3986,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ]
   },
@@ -647210,7 +650270,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15",
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6-r3",
-    "vertical-hypnosis-nov6-r7"
+    "vertical-hypnosis-nov6-r7",
+    "saimin-sweep-nov11"
    ],
    "groups": [
     {
@@ -647470,6 +650531,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r3"
+    },
+    {
+     "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4001,
+       "from_source": "saimin-sweep-nov11"
+      }
+     ],
+     "from_source": "saimin-sweep-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -647484,7 +650556,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15": null,
     "deep-refresh-nov04": null,
     "vertical-hypnosis-nov6-r3": null,
-    "vertical-hypnosis-nov6-r7": null
+    "vertical-hypnosis-nov6-r7": null,
+    "saimin-sweep-nov11": null
    }
   },
   {

@@ -218,6 +218,7 @@ SOURCES = [
     {"id": "vashikaran-nov11", "label": "Vashikaran deep search (11 Nov 2026)", "local": "sources/vashikaran-nov11.json", "required": True},
     {"id": "deep-refresh-nov11", "label": "Deep refresh across all criteria (11 Nov 2026)",
      "local": "sources/deep-refresh-nov11.json", "required": False},
+    {"id": "saimin-sweep-nov11", "label": "Saimin / hypnosis sweep (11 Nov 2026)", "local": "sources/saimin-sweep-nov11.json", "required": True},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
