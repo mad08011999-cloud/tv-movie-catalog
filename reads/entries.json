@@ -5266,6 +5266,39 @@
    "note": "Loose fit: both listings are Amazon storefronts (same publisher blurb family), not fully independent secondary sources.",
    "adult_basis": "adult executive / professional",
    "content_label": "Hardcore / adult"
+  },
+  {
+   "title": "Le Système Ribadier",
+   "original_title": "Le Système Ribadier",
+   "creator": "Georges Feydeau and Maurice Hennequin",
+   "year": 1892,
+   "format": "Play",
+   "language": "French",
+   "publisher": "first performed at the Théâtre du Palais-Royal, Paris, November 1892",
+   "gist": "Eugène Ribadier, second husband of the jealous widow Angèle, uses his gift of hypnotism to put her into a deep sleep whenever he leaves the house to meet a mistress, then wakes her with a secret cue on his return. He unwisely teaches the cue to his friend Thommereux, who is in love with Angèle; she later turns the system back on Ribadier. They reconcile; Thommereux leaves disappointed.",
+   "where": "Acts I–III of the three-act farce (the 'Ribadier system' is used repeatedly at home)",
+   "wife": "yes (Angèle is married to Ribadier, her second husband, when he hypnotizes her; she is the widow of M. Robineau)",
+   "pregnant_end": "no (not mentioned in the cited plot sources)",
+   "kids_together": "no (none mentioned; the play ends on a marital reconciliation)",
+   "kids_before": "no (no children of Angèle’s are mentioned; she is introduced as Robineau’s widow)",
+   "categories": [
+    "wife-hypnotized",
+    "human",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (en) — Le Système Ribadier",
+     "url": "https://en.wikipedia.org/wiki/Le_Syst%C3%A8me_Ribadier"
+    },
+    {
+     "label": "Wikipedia (fr) — Le Système Ribadier",
+     "url": "https://fr.wikipedia.org/wiki/Le_Syst%C3%A8me_Ribadier"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Source play for several already-catalogued screen versions (Paris 1900: Feydeau, 1964; Au théâtre ce soir, 1975; and the 1974 RAI and 2020 France 5 productions added in the Nov 11 partner-hypnosis pass). Adult farce about a husband hypnotizing his wife so he can have affairs.",
+   "adult_basis": "adult married woman / remarried widow; no minors in the cited plot"
   }
  ],
  "dropped": [

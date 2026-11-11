@@ -1,0 +1,590 @@
+{
+ "id": "partner-hypnosis-nov11",
+ "label": "Hypnotized by her own partner / husband — 11 Nov 2026",
+ "group_title": "Female character hypnotized by her own partner or husband",
+ "description": "Worldwide pass (11 Nov 2026 PT) for screen and reading works in which an adult female character is hypnotized by her own husband, boyfriend, fiancé or lover (not a stranger, therapist-for-hire, or occult possessor). Possession, demonic/spirit control, and drug/chip control without explicit hypnosis are excluded. Existing catalog cards that already fit this pattern are enriched with the established 'wife' and/or 'partner-control' categories and a 'hypnotized by partner/husband' tag rather than duplicated. New screen records are marked standalone. Family outcomes are taken from the cited plot sources, with unknown / not stated where they are not verifiable.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "Il sistema Ribadier",
+   "year": "1974",
+   "format": "tv",
+   "standalone": true,
+   "meta": "Italian TV theatre film · RAI Secondo Programma, 8 Feb 1974 · Italian · dir. Vittorio Sindoni · 88 min",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized",
+    "cheat-control"
+   ],
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "character": "Angèle / Angela (Isabella Biagini), second wife of Eugène Ribadier (Antonio Casagrande); widow of M. Robineau",
+   "hypnotist": "her second husband, Eugène Ribadier",
+   "mechanism": "Literal hypnosis (the 'Ribadier system'): he puts her into a hypnotic sleep and wakes her with a secret cue",
+   "summary": "RAI television version of the 1892 Feydeau–Hennequin farce, made for broadcast. Jealous Angèle, already deceived by her late first husband, watches her second husband closely. Ribadier uses his gift of hypnotism to put her to sleep whenever he leaves for an affair, then wakes her on his return. He unwisely teaches the waking cue to his friend Thommereux (Enrico Montesano), who uses it to confess his love; Angèle later turns the system back on Ribadier. The couple reconcile; no pregnancy or children are mentioned in the cited plot sources.",
+   "already_married": "yes",
+   "already_married_note": "Yes — she is married to Ribadier (her second husband) when he hypnotizes her; she is the widow of M. Robineau",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy for Angèle in the cited plot sources (RAI listing, Montesano site, play plot, collection synopsis).",
+   "kids_status": "no",
+   "kids_note": "No children of Angèle’s are mentioned in the cited plot sources (she is introduced as a childless widow of Robineau).",
+   "kids_together": "no",
+   "kids_together_note": "The play and this television version end with a reconciliation; no child of the couple is mentioned.",
+   "fit_note": "Adult married woman hypnotized by her own husband so he can leave the house to have affairs.",
+   "evidence": "RAI Teche broadcast listing (8 Feb 1974, Sindoni, Casagrande/Biagini/Montesano) + Montesano official TV page (made for television) + collection plot that restates the Feydeau system + English Wikipedia play plot.",
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "sources": [
+    {
+     "label": "RAI Teche — Teatro 1973–1974",
+     "url": "https://www.teche.rai.it/teatro-1973-1974/"
+    },
+    {
+     "label": "Enrico Montesano official site — Il sistema Ribadier (1974)",
+     "url": "https://www.enricomontesano.com/televisione_bck/"
+    },
+    {
+     "label": "Collection synopsis (plot)",
+     "url": "http://www.zabot.it/films/details/81323.html"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt34541089/"
+    },
+    {
+     "label": "Wikipedia — Le Système Ribadier (play plot)",
+     "url": "https://en.wikipedia.org/wiki/Le_Syst%C3%A8me_Ribadier"
+    }
+   ]
+  },
+  {
+   "title": "Le Système Ribadier — Au théâtre chez soi",
+   "year": "2020",
+   "format": "tv",
+   "standalone": true,
+   "meta": "France 5 filmed Comédie-Française production · broadcast 31 May 2020, 20:50 · French · dir. Zabou Breitman · Laurent Lafitte as Ribadier, Julie Sicard as Angèle",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized",
+    "cheat-control"
+   ],
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "character": "Angèle Ribadier (Julie Sicard), second wife of Eugène Ribadier (Laurent Lafitte)",
+   "hypnotist": "her second husband, Eugène Ribadier",
+   "mechanism": "Literal hypnosis: eye-to-eye induction and a secret waking cue (the 'Ribadier system')",
+   "summary": "France 5’s 'Au théâtre chez soi' broadcast of the Comédie-Française staging of Feydeau and Hennequin’s 1892 farce, directed by Zabou Breitman. Each time Ribadier wants to join a mistress he hypnotizes his jealous wife Angèle — 'look into my eyes' — leaves her asleep, and wakes her on his return. The system is threatened when Thommereux (Laurent Stocker), in love with Angèle, arrives from Batavia. Same family outcomes as the play: no pregnancy or children are mentioned in the cited broadcast and plot sources.",
+   "already_married": "yes",
+   "already_married_note": "Yes — Angèle is married to Ribadier (her second husband) when he hypnotizes her",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy for Angèle in the France 5 / FranceTvPro synopsis or in the play’s cited plot.",
+   "kids_status": "no",
+   "kids_note": "No children of Angèle’s are mentioned in the cited broadcast or play-plot sources.",
+   "kids_together": "no",
+   "kids_together_note": "No child of the couple is mentioned; the farce ends on a marital reconciliation.",
+   "fit_note": "Adult wife hypnotized by her own husband so he can slip out to see his mistresses. Distinct 2020 France 5 / Comédie-Française screen production, not the 1964 Granada or 1975 Au théâtre ce soir versions already in the catalog.",
+   "evidence": "FranceTvPro press release + Coulisses TV listing (date, channel, cast, and the hypnosis-for-affairs plot) + Wikipedia play plot.",
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "sources": [
+    {
+     "label": "FranceTvPro press release, 12 May 2020",
+     "url": "https://www.francetvpro.fr/contenu-de-presse/181525"
+    },
+    {
+     "label": "Coulisses TV — France 5 listing, 31 May 2020",
+     "url": "https://www.coulisses-tv.fr/index.php/divertissements/item/14302-%E2%80%9Cau-th%C3%A9%C3%A2tre-chez-soi%E2%80%9D-%C2%AB-le-systeme-ribadier-%C2%BB-de-feydeau-ce-dimanche-31-mai-sur-france-5"
+    },
+    {
+     "label": "Wikipedia — Le Système Ribadier (play plot)",
+     "url": "https://en.wikipedia.org/wiki/Le_Syst%C3%A8me_Ribadier"
+    }
+   ]
+  },
+  {
+   "title": "Paris 1900: Feydeau",
+   "year": "1964",
+   "match_title": "Paris 1900: Feydeau",
+   "match_year": "1964",
+   "format": "tv",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized"
+   ],
+   "hypnotist": "her second husband, Eugène Ribadier",
+   "already_married": "yes",
+   "already_married_note": "Yes — Angèle is married to Ribadier when he hypnotizes her",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in the cited Granada / play-plot sources.",
+   "kids_status": "no",
+   "kids_note": "No children of Angèle’s are mentioned in the cited plot sources.",
+   "kids_together": "no",
+   "kids_together_note": "No child of the couple is mentioned.",
+   "fit_note": "Granada Television 1964 English-language screen version of the same Feydeau farce: the husband hypnotizes his wife so he can visit his mistress.",
+   "sources": [
+    {
+     "label": "Wikipedia — Le Système Ribadier",
+     "url": "https://en.wikipedia.org/wiki/Le_Syst%C3%A8me_Ribadier"
+    }
+   ],
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "The Joseph Cotten Show: On Trial — \"The Gentle Voice of Murder\"",
+   "year": "1957",
+   "match_title": "The Joseph Cotten Show: On Trial — \"The Gentle Voice of Murder\"",
+   "match_year": "1957",
+   "format": "tv",
+   "categories": [
+    "wife",
+    "partner-control",
+    "adult-hypnosis",
+    "wife-hypnotized"
+   ],
+   "hypnotist": "her husband LaCosta (also spelled Lacosta), a professional hypnotist",
+   "already_married": "yes",
+   "already_married_note": "Yes — she marries the hypnotist and then fears his control over her",
+   "pregnant_end": "unknown",
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "fit_note": "Adult woman marries a professional hypnotist and comes to fear his hypnotic control over her. Prior children, pregnancy and later children are not stated in the cited episode guide.",
+   "sources": [
+    {
+     "label": "CTVA — On Trial episode guide",
+     "url": "https://ctva.biz/US/Anthology/OnTrial.htm"
+    }
+   ],
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "Silence of Sleep",
+   "year": "2020",
+   "match_title": "Silence of Sleep",
+   "match_year": "2020",
+   "format": "tv",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized"
+   ],
+   "hypnotist": "her mysterious psychopathic lover",
+   "already_married": "unknown",
+   "already_married_note": "Sources describe the hypnotist as her lover; a legal marriage is not stated.",
+   "pregnant_end": "unknown",
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "fit_note": "An adult woman is hypnotized by her own lover and suffers a serious accident while under. Family outcomes are not stated in the cited listing.",
+   "sources": [
+    {
+     "label": "GlamGold — Silence of Sleep announcement",
+     "url": "https://glamgold.com/gemplexs-latest-offering-silence-of-sleep-to-release-on-20th-may-2020/"
+    }
+   ],
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "追凶之瞒天过海",
+   "year": "2026",
+   "match_title": "追凶之瞒天过海",
+   "match_year": "2026",
+   "format": "vertical series",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized",
+    "mother"
+   ],
+   "hypnotist": "her husband Cheng Jisheng, a retired hypnotist",
+   "already_married": "yes",
+   "already_married_note": "Yes — he is her husband when he erases her memory",
+   "fit_note": "Husband-directed hypnosis of an adult wife (existing daughter Cheng Wenwen). Added partner-control and hypnotist field; family fields already on the card.",
+   "sources": [
+    {
+     "label": "短剧百科 / duanjubaike",
+     "url": "https://www.duanjubaike.net/duanju/info-7637729960500677694.html"
+    }
+   ],
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "窃梦令：她自深海携光归",
+   "year": "2026",
+   "match_title": "窃梦令：她自深海携光归",
+   "match_year": "2026",
+   "format": "vertical short drama",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized",
+    "adult-hypnosis"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — Cheng Xianghu is her husband when he uses hypnosis to alter her memories",
+   "fit_note": "The husband used hypnosis to alter his wife’s memories of an earlier relationship; a later hypnotist helps restore them.",
+   "sources": [
+    {
+     "label": "短剧百科",
+     "url": "https://duanjubaike.org/zh-Hans/drama/55231"
+    }
+   ],
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "Wife Was Hypnotized By Husband, Became Slave To Mistress, But He Didn't Know That She Was Pretending!",
+   "year": "2025",
+   "match_title": "Wife Was Hypnotized By Husband, Became Slave To Mistress, But He Didn't Know That She Was Pretending!",
+   "match_year": "2025",
+   "format": "vertical series",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized",
+    "human"
+   ],
+   "already_married": "yes",
+   "fit_note": "Husband (with his mistress) tries to hypnotize his wealthy wife. Loose fit already on the card because the hypnosis has stopped working and she only pretends to be under.",
+   "sources": [
+    {
+     "label": "YouTube (Sweet Hearth Drama)",
+     "url": "https://www.youtube.com/watch?v=bTB-6r25INQ"
+    }
+   ],
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "Cagliostro (Black Magic)",
+   "year": "1949",
+   "match_title": "Cagliostro (Black Magic)",
+   "match_year": "1949",
+   "format": "movie",
+   "categories": [
+    "wife",
+    "partner-control",
+    "hypnotized-to-marry",
+    "forced-obedience"
+   ],
+   "hypnotist": "Cagliostro (Orson Welles), who keeps Lorenza under hypnosis, marries her while she is still entranced, and later hypnotizes her to testify falsely",
+   "already_married": "no",
+   "already_married_note": "No at the first induction — he hypnotizes her and then marries her while she is still under; he continues to hypnotize her after the wedding (to make her testify falsely).",
+   "fit_note": "Partner-hypnosis after (and during) the marriage: he is her husband when he later hypnotizes her to give false testimony. Already catalogued as hypnotized-to-marry.",
+   "sources": [
+    {
+     "label": "Wikipedia (de) — Graf Cagliostro (1949)",
+     "url": "https://de.wikipedia.org/wiki/Graf_Cagliostro_(1949)"
+    }
+   ],
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "Workin' Moms — \"Consent\"",
+   "year": "2018",
+   "match_title": "Workin' Moms — \"Consent\"",
+   "match_year": "2018",
+   "format": "tv",
+   "categories": [
+    "wife-hypnotized",
+    "partner-control",
+    "therapist-wife"
+   ],
+   "tags": [
+    "hypnotized by partner/husband",
+    "ex-partner"
+   ],
+   "hypnotist": "her ex-husband Brad, a hypnotherapist",
+   "fit_note": "Adult woman agrees to hypnotherapy with her ex-husband, then learns he tried to plant sexual suggestions. Fits partner-control (ex-partner), not a current husband.",
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "A hipnotizált feleség / The Hypnotized Wife",
+   "year": "1932",
+   "match_title": "A hipnotizált feleség / The Hypnotized Wife",
+   "match_year": "1932",
+   "format": "short",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized"
+   ],
+   "hypnotist": "her husband Rezeda, after a friend tells him that hypnosis is how he controls his own wife",
+   "already_married": "yes",
+   "pregnant_end": "unknown",
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "fit_note": "Hungarian comic short: Rezeda tries to hypnotize his wife to make her less bossy about housework; the effect is only temporary. National Film Institute / MaNDA censorship synopsis.",
+   "sources": [
+    {
+     "label": "MaNDA / Hungarian National Digital Archive",
+     "url": "https://mandadb.hu/tetel/294852/A_hipnotizalt_feleseg"
+    }
+   ],
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "Minder",
+   "year": "1984",
+   "match_title": "Minder",
+   "match_year": "1984",
+   "format": "tv",
+   "categories": [
+    "partner-control",
+    "love",
+    "index-49"
+   ],
+   "already_married": "no",
+   "already_married_note": "No — Dr. Sudbury is Rita’s fiancé, not her husband, when her family believe he has hypnotized her to get her inheritance.",
+   "fit_note": "Partner (fiancé) hypnosis for money. Family already recorded as no prior kids, not pregnant, no kids together.",
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "Don't Monkey with the Buzz Saw",
+   "year": "1914",
+   "match_title": "Don't Monkey with the Buzz Saw",
+   "match_year": "1914",
+   "format": "short",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized"
+   ],
+   "hypnotist": "her husband, after he learns hypnotism",
+   "already_married": "yes",
+   "fit_note": "After learning hypnotism, a husband puts his henpecking wife (Ruth Roland) and his mother-in-law into a trance so he can go out on the town. Already in the wife / partner-control categories.",
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "May I Come In Madam?",
+   "year": "2016",
+   "match_title": "May I Come In Madam?",
+   "match_year": "2016",
+   "format": "tv",
+   "categories": [
+    "wife",
+    "partner-control",
+    "india-control",
+    "wife-hypnotized"
+   ],
+   "hypnotist": "her husband Sajan",
+   "already_married": "yes",
+   "fit_note": "Sajan hypnotises his wife Kashmira in this sitcom episode (the catalog already recorded the act). Added partner-control and the hypnotist field.",
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "Mil sexos tiene la noche / Night of 1,000 Sexes",
+   "year": "1984",
+   "match_title": "Mil sexos tiene la noche / Night of 1,000 Sexes",
+   "match_year": "1984",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "partner-control",
+    "hypno-intimacy"
+   ],
+   "tags": [
+    "hypnotized by partner/husband",
+    "hardcore / adult"
+   ],
+   "hypnotist": "Fabián, stage magician and hypnotist, her partner in the nightclub act",
+   "already_married": "unknown",
+   "already_married_note": "Sources describe Fabián as her partner in the hypnosis act; a legal marriage is not stated.",
+   "pregnant_end": "unknown",
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "adult": "yes",
+   "content_label": "Hardcore / adult",
+   "fit_note": "Jess Franco erotic thriller: the stage-hypnotist partner hypnotically manipulates Irina (Lina Romay) into crimes and sexual encounters. Adult / R-rated-equivalent.",
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0087723"
+    },
+    {
+     "label": "rarefilm.net synopsis",
+     "url": "http://rarefilm.net/night-of-1-000-sexes-mil-sexos-tiene-la-noche-1984-jesus-franco-lina-romay-daniel-katz-carmen-carrion-horror-thriller-erotic/"
+    }
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "Cuidado con el Ángel",
+   "year": "2008",
+   "match_title": "Cuidado con el Ángel",
+   "match_year": "2008",
+   "format": "tv",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized",
+    "human"
+   ],
+   "already_married": "yes",
+   "fit_note": "Psychoanalyst husband João Miguel hypnotizes his wife Viviana without her noticing, to test whether her amnesia is faked. Already had the hypnotist field; added wife and partner-control.",
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "My Husband's Deadly Past",
+   "year": "2020",
+   "match_title": "My Husband's Deadly Past",
+   "match_year": "2020",
+   "format": "tv",
+   "categories": [
+    "wife",
+    "partner-control",
+    "therapist-wife",
+    "medical",
+    "mother",
+    "crime",
+    "wife-hypnotized"
+   ],
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy for Karen in the cited Mental Block / Lifetime plot; she already has a daughter, Jordan.",
+   "fit_note": "Hypnotherapist husband Otto hypnotizes his wife to hide a murder and later to attempt suicide. Added partner-control; pregnancy not depicted in the cited plot.",
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/My_Husband%27s_Deadly_Past"
+    },
+    {
+     "label": "Lifetime",
+     "url": "https://www.mylifetime.com/movies/my-husbands-deadly-past"
+    }
+   ],
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  },
+  {
+   "title": "Haunting Fear",
+   "year": "1990",
+   "match_title": "Haunting Fear",
+   "match_year": "1990",
+   "format": "film",
+   "categories": [
+    "partner-commissioned",
+    "index-49",
+    "wife-hypnotized"
+   ],
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Dr. Julia Harcourt (hypnotherapist). Husband Terry Monroe, who is having an affair and wants Victoria’s money, has her sent for hypnosis; he is not the hypnotist.",
+   "override_fields": [
+    "hypnotist"
+   ],
+   "fit_note": "Correction: the husband commissions hypnosis (partner-commissioned) but does not hypnotize Victoria himself. The earlier 'Husband / hypnotist' wording was misleading.",
+   "sources": [
+    {
+     "label": "Doomed Moviethon review",
+     "url": "https://www.doomedmoviethon.com/?review=haunting-fear"
+    },
+    {
+     "label": "Morbidly Beautiful review",
+     "url": "https://morbidlybeautiful.com/daily-dig-haunting-fear-1990/"
+    },
+    {
+     "label": "B&S About Movies review",
+     "url": "https://bandsaboutmovies.com/2022/05/27/haunting-fear-1990/"
+    }
+   ],
+   "provenance": "Partner-hypnosis pass, 11 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Le Système Ribadier (TV Movie 2007, Thomas Deshays / Georges Beller)",
+   "year": "2007",
+   "reason": "IMDb lists a 2007 French TV movie (tt38276843) crediting Feydeau, but the only other listing found had a generic blurb that does not restate the husband-hypnosis plot. Not added without a second plot-confirming source."
+  },
+  {
+   "title": "Le Système Ribadier — Théâtre à la table (Comédie-Française online)",
+   "year": "2021",
+   "reason": "Streamed table reading (10 Apr 2021), not a fully staged screen production. Skipped to avoid stacking table-reads on top of the 2020 France 5 broadcast."
+  },
+  {
+   "title": "Saimin Chuudoku ~Otto ga Shiranai Tsuma no Kao~",
+   "year": "2014",
+   "reason": "VNDB title and Netori tags indicate the wife is hypnotized by someone other than her husband ('the face of the wife her husband doesn't know'). Not partner-as-hypnotist."
+  },
+  {
+   "title": "El gato con gatas II",
+   "year": "1994",
+   "reason": "Sequel exists, but available synopses have the wife hypnotizing the unfaithful husband (reversed direction). Not this theme."
+  },
+  {
+   "title": "The Hypnotic Wife",
+   "year": "1909",
+   "reason": "Already in the catalog: the wife seeks hypnosis so she can influence others; she is not hypnotized by her husband."
+  },
+  {
+   "title": "Haunting Fear",
+   "year": "1990",
+   "reason": "Already in the catalog. The husband sends Victoria to hypnotherapist Dr. Julia Harcourt; he does not hypnotize her himself. Record kept as an enrichment that corrects the hypnotist field and adds partner-commissioned, not as a new partner-as-hypnotist card."
+  },
+  {
+   "title": "老公是个催眠师 (鬼小岳, Jinjiang)",
+   "year": null,
+   "reason": "Public blurb is only a few lines ('my husband is a hypnotist… I have nightmares; I forgot I am a hypnotist too'). Short derivative romance; plot not independently verifiable from the open listing. Skipped."
+  },
+  {
+   "title": "Hypnotized: Memory Restored, Love Destroyed (Minishorts)",
+   "year": null,
+   "reason": "Aggregator page returned 403; work not independently verified. Skipped."
+  },
+  {
+   "title": "Das System Ribadier (German stage productions)",
+   "year": null,
+   "reason": "Documented as theatre (e.g. Vienna 1898, Bonn 1987); no German television or film version was verified."
+  },
+  {
+   "title": "Deadly Marriage (致命婚姻)",
+   "year": "2025",
+   "reason": "Already in the catalog as a loose fit: psychological control and hidden abuse, not verified as hypnosis by the husband."
+  },
+  {
+   "title": "Get Out (2017)",
+   "year": "2017",
+   "reason": "The hypnotized lead is male; the hypnotist is his girlfriend’s mother. Wrong direction / not a female hypnotized by her partner."
+  }
+ ]
+}
