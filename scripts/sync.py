@@ -215,6 +215,7 @@ SOURCES = [
     {"id": "vertical-pregnant-again-nov07", "label": "Vertical series — pregnant again (7 Nov 2026)", "local": "sources/vertical-pregnant-again-nov07.json", "required": True},
     {"id": "pdf-hypnosis-sweeps-nov08", "label": "Hypnosis sweeps from PDFs (8 Nov 2026)", "local": "sources/pdf-hypnosis-sweeps-nov08.json", "required": True},
     {"id": "weekly-nov09", "label": "Weekly sweep (9 Nov 2026)", "local": "sources/weekly-nov09.json", "required": True},
+    {"id": "vashikaran-nov11", "label": "Vashikaran deep search (11 Nov 2026)", "local": "sources/vashikaran-nov11.json", "required": True},
     {"id": "deep-refresh-nov11", "label": "Deep refresh across all criteria (11 Nov 2026)",
      "local": "sources/deep-refresh-nov11.json", "required": False},
 ]

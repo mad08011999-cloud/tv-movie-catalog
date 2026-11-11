@@ -11804,6 +11804,19 @@ window.CATALOG = {
    "status": "local"
   },
   {
+   "id": "vashikaran-nov11",
+   "label": "Vashikaran deep search (11 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/vashikaran-nov11.json",
+   "description": "Worldwide search for adult female characters under vashikaran (vasheekaran, vashikaranam, vasiyam, mohini vidya, black-magic love spells) across TV, OTT, adult OTT, web and micro-dramas, YouTube shorts and animated stories. Possession, curses, transformation and minors are excluded. Fields not given by the sources are 'not stated'.",
+   "dropped": [],
+   "check": {
+    "raw_count": 9,
+    "ok": true
+   },
+   "status": "local"
+  },
+  {
    "id": "deep-refresh-nov11",
    "label": "Deep refresh across all criteria (11 Nov 2026)",
    "kind": "local",
@@ -12086,10 +12099,11 @@ window.CATALOG = {
   "vertical-pregnant-again-nov07": 10,
   "pdf-hypnosis-sweeps-nov08": 8,
   "weekly-nov09": 1,
+  "vashikaran-nov11": 9,
   "deep-refresh-nov11": 7
  },
- "raw_total": 7534,
- "entry_count": 3780,
+ "raw_total": 7543,
+ "entry_count": 3789,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -12125,7 +12139,7 @@ window.CATALOG = {
    "key": "index-62",
    "label": "Comedy",
    "legend_label": "Comedy",
-   "entry_count": 33
+   "entry_count": 34
   },
   {
    "key": "index-61",
@@ -12185,7 +12199,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 218
+   "entry_count": 221
   },
   {
    "key": "hypnotized-to-marry",
@@ -12221,7 +12235,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 715
+   "entry_count": 716
   },
   {
    "key": "wife",
@@ -12269,7 +12283,7 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 233
+   "entry_count": 237
   },
   {
    "key": "hypno-intimacy",
@@ -12293,7 +12307,7 @@ window.CATALOG = {
    "key": "erotic-mainstream",
    "label": "Mainstream erotic / erotic-thriller / erotic-drama (rated releases)",
    "legend_label": "Mainstream erotic / erotic-thriller / erotic-drama (rated releases)",
-   "entry_count": 136
+   "entry_count": 137
   },
   {
    "key": "medical",
@@ -12587,7 +12601,7 @@ window.CATALOG = {
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 65
+   "entry_count": 74
   },
   {
    "key": "vampire",
@@ -12623,7 +12637,7 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 148
+   "entry_count": 151
   },
   {
    "key": "therapist-wife",
@@ -584163,6 +584177,981 @@ window.CATALOG = {
   },
   {
    "id": 3969,
+   "title": "Vasheekaran (PrimePlay)",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Web series · India · Hindi · PrimePlay · 6 episodes · released 20–21 Jan 2024 · 18+ adult OTT · cast Anu Maurya, Shyna Khatri, Sweta Yadav, Tejaswini Gowda, Ujjwal Singh",
+   "mechanism": "vasheekaran spell",
+   "confidence_flag": "medium: the vashikaran premise is official; which woman is controlled in which episode is not detailed",
+   "summary": "Adult PrimePlay series built around vasheekaran, which the platform describes as a spell that brings someone under your control. A story explainer says the lives of two couples change after someone performs vasheekaran on them. Another synopsis follows a man fixated on Shraddha, who prefers someone else, and his plans to win her.",
+   "character": "Shraddha (Shyna Khatri) and the women of the two couples",
+   "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "vashikaran-nov11",
+    "loose fit",
+    "adult OTT"
+   ],
+   "hypnotist": "a man fixated on Shraddha (per the synopsis; not named)",
+   "gain_motive": [
+    "love / obsession",
+    "sex"
+   ],
+   "method": "vashikaran (tantric / black-magic control)",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "official PrimePlay description plus third-party plot synopses; per-episode plot not available",
+   "already_married": "not stated",
+   "format": "web series",
+   "categories": [
+    "tantrik",
+    "erotic-mainstream",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "PrimePlay — official show page",
+     "url": "https://primeplayapp.com/shows/details/vashikaran/30"
+    },
+    {
+     "label": "Happy2Hub — story explained (YouTube)",
+     "url": "https://www.youtube.com/watch?v=4n_STYDNciE"
+    },
+    {
+     "label": "WebSeriesWala — plot and cast",
+     "url": "https://webserieswala.com/vasheekaran-prime-play-web-series/"
+    },
+    {
+     "label": "OTTGiri — release listing",
+     "url": "https://ottgiri.com/vashikaran-3-3960/"
+    }
+   ],
+   "youtube_ids": [
+    "4n_STYDNciE"
+   ],
+   "from_sources": [
+    "vashikaran-nov11"
+   ],
+   "source_records": [
+    "vashikaran-nov11:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/4n_STYDNciE.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vashikaran-nov11:1": {
+     "fit": "loose",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [],
+     "gain_motive": [
+      "love / obsession",
+      "sex"
+     ],
+     "hypnotist": "a man fixated on Shraddha (per the synopsis; not named)",
+     "method": "vashikaran (tantric / black-magic control)",
+     "title": "Vasheekaran (PrimePlay)",
+     "year": "2024",
+     "format": "web series",
+     "meta": "Web series · India · Hindi · PrimePlay · 6 episodes · released 20–21 Jan 2024 · 18+ adult OTT · cast Anu Maurya, Shyna Khatri, Sweta Yadav, Tejaswini Gowda, Ujjwal Singh",
+     "character": "Shraddha (Shyna Khatri) and the women of the two couples",
+     "summary": "Adult PrimePlay series built around vasheekaran, which the platform describes as a spell that brings someone under your control. A story explainer says the lives of two couples change after someone performs vasheekaran on them. Another synopsis follows a man fixated on Shraddha, who prefers someone else, and his plans to win her.",
+     "mechanism": "vasheekaran spell",
+     "categories": [
+      "tantrik",
+      "erotic-mainstream",
+      "india-control"
+     ],
+     "tags": [
+      "vashikaran-nov11",
+      "loose fit",
+      "adult OTT"
+     ],
+     "sources": [
+      {
+       "label": "PrimePlay — official show page",
+       "url": "https://primeplayapp.com/shows/details/vashikaran/30"
+      },
+      {
+       "label": "Happy2Hub — story explained (YouTube)",
+       "url": "https://www.youtube.com/watch?v=4n_STYDNciE"
+      },
+      {
+       "label": "WebSeriesWala — plot and cast",
+       "url": "https://webserieswala.com/vasheekaran-prime-play-web-series/"
+      },
+      {
+       "label": "OTTGiri — release listing",
+       "url": "https://ottgiri.com/vashikaran-3-3960/"
+      }
+     ],
+     "evidence": "official PrimePlay description plus third-party plot synopses; per-episode plot not available",
+     "confidence_flag": "medium: the vashikaran premise is official; which woman is controlled in which episode is not detailed",
+     "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3970,
+   "title": "Jamai Raja",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "TV serial · India · Hindi · Zee TV / ZEE5 · 2014–2017 · Ravi Dubey, Nia Sharma",
+   "mechanism": "black magic (per the episode preview); drugging (per Wikipedia)",
+   "confidence_flag": "low-medium: the black-magic control is reported in a single preview article",
+   "summary": "In the February 2016 track, Roshni has lost her memory and is pushed toward an engagement to Kunal. SerialGossip's preview says Shabnam uses black magic to control her. Wikipedia attributes the memory loss to drugging by Shabnam and Bansi. Sid fights to bring her back.",
+   "character": "Roshni Patel Khurana (Nia Sharma)",
+   "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "Roshni had an earlier pregnancy that ended in a miscarriage, before this track",
+   "episodes": [
+    {
+     "episode": "Feb 2016 track (preview dated 4 Feb 2016)",
+     "gist": "Shabnam uses black magic to control the amnesiac Roshni, who is to be engaged to Kunal"
+    }
+   ],
+   "tags": [
+    "vashikaran-nov11",
+    "loose fit"
+   ],
+   "hypnotist": "Shabnam",
+   "gain_motive": [
+    "marry her off / break the marriage"
+   ],
+   "method": "vashikaran (tantric / black-magic control)",
+   "kids_status": "yes — Sid and Roshni had adopted Ayesha before this track",
+   "kids_note": "earlier miscarriage; adopted daughter Ayesha",
+   "kids_together": "adopted Ayesha together; no biological child stated",
+   "married": "yes",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "a pregnancy at the end of this track is not stated",
+   "evidence": "episode preview article plus Wikipedia plot; the sources disagree on black magic versus drugging",
+   "already_married": "yes — married to Sid (Siddharth Khurana)",
+   "format": "TV serial",
+   "categories": [
+    "tantrik",
+    "wife-hypnotized",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "ZEE5 — Jamai Raja",
+     "url": "https://www.zee5.com/tv-shows/details/jamai-raja/0-6-446"
+    },
+    {
+     "label": "SerialGossip — black-magic track preview",
+     "url": "https://www.serialgossip.com/gossip-3713-a"
+    },
+    {
+     "label": "Wikipedia — plot",
+     "url": "https://en.wikipedia.org/wiki/Jamai_Raja_(2014_TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "vashikaran-nov11"
+   ],
+   "source_records": [
+    "vashikaran-nov11:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vashikaran-nov11:2": {
+     "fit": "loose",
+     "already_married": "yes — married to Sid (Siddharth Khurana)",
+     "married": "yes",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "Roshni had an earlier pregnancy that ended in a miscarriage, before this track",
+     "pregnant_end_note": "a pregnancy at the end of this track is not stated",
+     "kids_status": "yes — Sid and Roshni had adopted Ayesha before this track",
+     "kids_together": "adopted Ayesha together; no biological child stated",
+     "kids_note": "earlier miscarriage; adopted daughter Ayesha",
+     "episodes": [
+      {
+       "episode": "Feb 2016 track (preview dated 4 Feb 2016)",
+       "gist": "Shabnam uses black magic to control the amnesiac Roshni, who is to be engaged to Kunal"
+      }
+     ],
+     "gain_motive": [
+      "marry her off / break the marriage"
+     ],
+     "hypnotist": "Shabnam",
+     "method": "vashikaran (tantric / black-magic control)",
+     "title": "Jamai Raja",
+     "year": "2014",
+     "format": "TV serial",
+     "meta": "TV serial · India · Hindi · Zee TV / ZEE5 · 2014–2017 · Ravi Dubey, Nia Sharma",
+     "character": "Roshni Patel Khurana (Nia Sharma)",
+     "summary": "In the February 2016 track, Roshni has lost her memory and is pushed toward an engagement to Kunal. SerialGossip's preview says Shabnam uses black magic to control her. Wikipedia attributes the memory loss to drugging by Shabnam and Bansi. Sid fights to bring her back.",
+     "mechanism": "black magic (per the episode preview); drugging (per Wikipedia)",
+     "categories": [
+      "tantrik",
+      "wife-hypnotized",
+      "india-control"
+     ],
+     "tags": [
+      "vashikaran-nov11",
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "ZEE5 — Jamai Raja",
+       "url": "https://www.zee5.com/tv-shows/details/jamai-raja/0-6-446"
+      },
+      {
+       "label": "SerialGossip — black-magic track preview",
+       "url": "https://www.serialgossip.com/gossip-3713-a"
+      },
+      {
+       "label": "Wikipedia — plot",
+       "url": "https://en.wikipedia.org/wiki/Jamai_Raja_(2014_TV_series)"
+      }
+     ],
+     "evidence": "episode preview article plus Wikipedia plot; the sources disagree on black magic versus drugging",
+     "confidence_flag": "low-medium: the black-magic control is reported in a single preview article",
+     "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3971,
+   "title": "Amita Ka Amit",
+   "subtitle": "",
+   "year": "2013",
+   "meta": "TV serial · India · Hindi · Sony Entertainment Television · 2013",
+   "mechanism": "tantrik's spell / black magic",
+   "confidence_flag": "low: unclear whether Kajri is controlled by the tantrik or is using him",
+   "summary": "In the late-2013 track, Kajri takes Amita and Amit's baby Raunak, believing he carries the soul of her dead son Suryansh. An IANS on-set clip describes Kajri as being under a tantrik's spell, while an India Forums synopsis says she relied on a tantrik's black magic.",
+   "character": "Kajri",
+   "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "vashikaran-nov11",
+    "loose fit"
+   ],
+   "hypnotist": "a tantrik",
+   "method": "vashikaran (tantric / black-magic control)",
+   "kids_status": "yes — Kajri had a son, Suryansh, who died before the track",
+   "kids_note": "her son Suryansh died before the track; she fixates on Amita's baby Raunak",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "IANS clip description; India Forums article (blocked when fetched, so seen only via its search snippet)",
+   "already_married": "not stated",
+   "format": "TV serial",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "IANS / BollywoodCountry — on-set clip (YouTube)",
+     "url": "https://www.youtube.com/watch?v=kw8WkHuDoE0"
+    },
+    {
+     "label": "India Forums — Kajri's intentions revealed",
+     "url": "https://www.indiaforums.com/forum/amita-ka-amit/3813318/article-kajris-intentions-revelead"
+    }
+   ],
+   "youtube_ids": [
+    "kw8WkHuDoE0"
+   ],
+   "from_sources": [
+    "vashikaran-nov11"
+   ],
+   "source_records": [
+    "vashikaran-nov11:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/kw8WkHuDoE0.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vashikaran-nov11:3": {
+     "fit": "loose",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "yes — Kajri had a son, Suryansh, who died before the track",
+     "kids_together": "not stated",
+     "kids_note": "her son Suryansh died before the track; she fixates on Amita's baby Raunak",
+     "episodes": [],
+     "gain_motive": [],
+     "hypnotist": "a tantrik",
+     "method": "vashikaran (tantric / black-magic control)",
+     "title": "Amita Ka Amit",
+     "year": "2013",
+     "format": "TV serial",
+     "meta": "TV serial · India · Hindi · Sony Entertainment Television · 2013",
+     "character": "Kajri",
+     "summary": "In the late-2013 track, Kajri takes Amita and Amit's baby Raunak, believing he carries the soul of her dead son Suryansh. An IANS on-set clip describes Kajri as being under a tantrik's spell, while an India Forums synopsis says she relied on a tantrik's black magic.",
+     "mechanism": "tantrik's spell / black magic",
+     "categories": [
+      "tantrik",
+      "india-control"
+     ],
+     "tags": [
+      "vashikaran-nov11",
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "IANS / BollywoodCountry — on-set clip (YouTube)",
+       "url": "https://www.youtube.com/watch?v=kw8WkHuDoE0"
+      },
+      {
+       "label": "India Forums — Kajri's intentions revealed",
+       "url": "https://www.indiaforums.com/forum/amita-ka-amit/3813318/article-kajris-intentions-revelead"
+      }
+     ],
+     "evidence": "IANS clip description; India Forums article (blocked when fetched, so seen only via its search snippet)",
+     "confidence_flag": "low: unclear whether Kajri is controlled by the tantrik or is using him",
+     "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3972,
+   "title": "Vashikaran: Pyaar Ka Shraap",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Animated horror story · India · Hindi · YouTube (Midnight Dismay) · 18 Feb 2025",
+   "mechanism": "vashikaran love spell",
+   "confidence_flag": "medium: synopsis from the creator's description",
+   "summary": "College student Rahul uses dark magic (vashikaran) to make Meghna fall in love with him. The spell backfires into a deadly obsession that destroys them both.",
+   "character": "Meghna (college student)",
+   "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "vashikaran-nov11"
+   ],
+   "hypnotist": "Rahul",
+   "gain_motive": [
+    "love / obsession"
+   ],
+   "method": "vashikaran (tantric / black-magic control)",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "no — the story ends with both destroyed",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "video description",
+   "already_married": "no",
+   "format": "animated short (YouTube)",
+   "categories": [
+    "tantrik",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — Midnight Dismay (plot in description)",
+     "url": "https://www.youtube.com/watch?v=tPd39faiRM8"
+    }
+   ],
+   "youtube_ids": [
+    "tPd39faiRM8"
+   ],
+   "from_sources": [
+    "vashikaran-nov11"
+   ],
+   "source_records": [
+    "vashikaran-nov11:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/tPd39faiRM8.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vashikaran-nov11:4": {
+     "fit": "good",
+     "already_married": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "no — the story ends with both destroyed",
+     "kids_note": "not stated in the sources",
+     "episodes": [],
+     "gain_motive": [
+      "love / obsession"
+     ],
+     "hypnotist": "Rahul",
+     "method": "vashikaran (tantric / black-magic control)",
+     "title": "Vashikaran: Pyaar Ka Shraap",
+     "year": "2025",
+     "format": "animated short (YouTube)",
+     "meta": "Animated horror story · India · Hindi · YouTube (Midnight Dismay) · 18 Feb 2025",
+     "character": "Meghna (college student)",
+     "summary": "College student Rahul uses dark magic (vashikaran) to make Meghna fall in love with him. The spell backfires into a deadly obsession that destroys them both.",
+     "mechanism": "vashikaran love spell",
+     "categories": [
+      "tantrik",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "YouTube — Midnight Dismay (plot in description)",
+       "url": "https://www.youtube.com/watch?v=tPd39faiRM8"
+      }
+     ],
+     "evidence": "video description",
+     "confidence_flag": "medium: synopsis from the creator's description",
+     "tags": [
+      "vashikaran-nov11"
+     ],
+     "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3973,
+   "title": "Vashikaran – The Spell That Almost Ruined Her Life",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Fictional animated horror story · India · Hindi · YouTube (Hindi Nightmare) · 30 Sep 2026",
+   "mechanism": "vashikaran",
+   "confidence_flag": "medium: synopsis from the creator's description",
+   "summary": "Priya suffers strange marks, memory gaps and 3 a.m. incidents and suspects her colleague Aman of vashikaran. She discovers that the person she trusted most had been controlling her life.",
+   "character": "Priya",
+   "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "vashikaran-nov11"
+   ],
+   "hypnotist": "the person she trusted most (Aman is the first suspect)",
+   "method": "vashikaran (tantric / black-magic control)",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "video description",
+   "already_married": "not stated",
+   "format": "animated short (YouTube)",
+   "categories": [
+    "tantrik",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — Hindi Nightmare (plot in description)",
+     "url": "https://www.youtube.com/watch?v=uXsWbQW3bc8"
+    }
+   ],
+   "youtube_ids": [
+    "uXsWbQW3bc8"
+   ],
+   "from_sources": [
+    "vashikaran-nov11"
+   ],
+   "source_records": [
+    "vashikaran-nov11:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/uXsWbQW3bc8.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vashikaran-nov11:5": {
+     "fit": "good",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [],
+     "gain_motive": [],
+     "hypnotist": "the person she trusted most (Aman is the first suspect)",
+     "method": "vashikaran (tantric / black-magic control)",
+     "title": "Vashikaran – The Spell That Almost Ruined Her Life",
+     "year": "2026",
+     "format": "animated short (YouTube)",
+     "meta": "Fictional animated horror story · India · Hindi · YouTube (Hindi Nightmare) · 30 Sep 2026",
+     "character": "Priya",
+     "summary": "Priya suffers strange marks, memory gaps and 3 a.m. incidents and suspects her colleague Aman of vashikaran. She discovers that the person she trusted most had been controlling her life.",
+     "mechanism": "vashikaran",
+     "categories": [
+      "tantrik",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "YouTube — Hindi Nightmare (plot in description)",
+       "url": "https://www.youtube.com/watch?v=uXsWbQW3bc8"
+      }
+     ],
+     "evidence": "video description",
+     "confidence_flag": "medium: synopsis from the creator's description",
+     "tags": [
+      "vashikaran-nov11"
+     ],
+     "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3974,
+   "title": "He Couldn't Accept the Breakup, So He Used Vashikaran on Her",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Narrated 'true' horror story · India · Hindi · YouTube (KRIMI TALES) · 24 Sep 2026",
+   "mechanism": "vashikaran ritual",
+   "confidence_flag": "medium: synopsis from the creator's description",
+   "summary": "After Soumya rejects a suitor, she starts falling into trances and whispering \"He has called me...\", then vanishes into the night. A vashikaran ritual performed on her is uncovered.",
+   "character": "Soumya (college student, Chakrata / Nainital)",
+   "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "vashikaran-nov11"
+   ],
+   "hypnotist": "the rejected suitor",
+   "gain_motive": [
+    "revenge for rejection",
+    "love / obsession"
+   ],
+   "method": "vashikaran (tantric / black-magic control)",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "video description",
+   "already_married": "no",
+   "format": "narrated horror story (YouTube)",
+   "categories": [
+    "tantrik",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — KRIMI TALES (plot in description)",
+     "url": "https://www.youtube.com/watch?v=IDhOqRyev0M"
+    }
+   ],
+   "youtube_ids": [
+    "IDhOqRyev0M"
+   ],
+   "from_sources": [
+    "vashikaran-nov11"
+   ],
+   "source_records": [
+    "vashikaran-nov11:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/IDhOqRyev0M.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vashikaran-nov11:6": {
+     "fit": "good",
+     "already_married": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [],
+     "gain_motive": [
+      "revenge for rejection",
+      "love / obsession"
+     ],
+     "hypnotist": "the rejected suitor",
+     "method": "vashikaran (tantric / black-magic control)",
+     "title": "He Couldn't Accept the Breakup, So He Used Vashikaran on Her",
+     "year": "2026",
+     "format": "narrated horror story (YouTube)",
+     "meta": "Narrated 'true' horror story · India · Hindi · YouTube (KRIMI TALES) · 24 Sep 2026",
+     "character": "Soumya (college student, Chakrata / Nainital)",
+     "summary": "After Soumya rejects a suitor, she starts falling into trances and whispering \"He has called me...\", then vanishes into the night. A vashikaran ritual performed on her is uncovered.",
+     "mechanism": "vashikaran ritual",
+     "categories": [
+      "tantrik",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "YouTube — KRIMI TALES (plot in description)",
+       "url": "https://www.youtube.com/watch?v=IDhOqRyev0M"
+      }
+     ],
+     "evidence": "video description",
+     "confidence_flag": "medium: synopsis from the creator's description",
+     "tags": [
+      "vashikaran-nov11"
+     ],
+     "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3975,
+   "title": "Bhabhi Aur Vashikaran",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Micro-drama series · India · Hindi · YouTube (The Webseries Stories) · Ep 1 12 Mar 2026; Ep 2 ('Bhabhi Par Vashikaran') 23 Apr 2026",
+   "mechanism": "",
+   "confidence_flag": "low: plot detail is thin",
+   "summary": "A married bhabhi falls under vashikaran, and its effect over her grows. Episode 2 frames it as a married couple's story with a big secret hidden behind the love.",
+   "character": "the bhabhi (married sister-in-law; not named)",
+   "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "Episode 1",
+     "gist": "vashikaran over the bhabhi begins to take effect"
+    },
+    {
+     "episode": "Episode 2 (Bhabhi Par Vashikaran)",
+     "gist": "the secret behind the marriage and the spell"
+    }
+   ],
+   "tags": [
+    "vashikaran-nov11",
+    "loose fit"
+   ],
+   "hypnotist": "not stated",
+   "method": "vashikaran (tantric / black-magic control)",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "yes",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "titles plus thin descriptions; whether it is AI-generated is not stated",
+   "already_married": "yes",
+   "format": "micro-drama web series (YouTube)",
+   "categories": [
+    "tantrik",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — Episode 1",
+     "url": "https://www.youtube.com/watch?v=rAc-YCDGk14"
+    },
+    {
+     "label": "YouTube — Episode 2",
+     "url": "https://www.youtube.com/watch?v=i_ViFRTEvoM"
+    }
+   ],
+   "youtube_ids": [
+    "rAc-YCDGk14",
+    "i_ViFRTEvoM"
+   ],
+   "from_sources": [
+    "vashikaran-nov11"
+   ],
+   "source_records": [
+    "vashikaran-nov11:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/rAc-YCDGk14.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vashikaran-nov11:7": {
+     "fit": "loose",
+     "already_married": "yes",
+     "married": "yes",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [
+      {
+       "episode": "Episode 1",
+       "gist": "vashikaran over the bhabhi begins to take effect"
+      },
+      {
+       "episode": "Episode 2 (Bhabhi Par Vashikaran)",
+       "gist": "the secret behind the marriage and the spell"
+      }
+     ],
+     "gain_motive": [],
+     "hypnotist": "not stated",
+     "method": "vashikaran (tantric / black-magic control)",
+     "title": "Bhabhi Aur Vashikaran",
+     "year": "2026",
+     "format": "micro-drama web series (YouTube)",
+     "meta": "Micro-drama series · India · Hindi · YouTube (The Webseries Stories) · Ep 1 12 Mar 2026; Ep 2 ('Bhabhi Par Vashikaran') 23 Apr 2026",
+     "character": "the bhabhi (married sister-in-law; not named)",
+     "summary": "A married bhabhi falls under vashikaran, and its effect over her grows. Episode 2 frames it as a married couple's story with a big secret hidden behind the love.",
+     "categories": [
+      "tantrik",
+      "wife-hypnotized"
+     ],
+     "tags": [
+      "vashikaran-nov11",
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "YouTube — Episode 1",
+       "url": "https://www.youtube.com/watch?v=rAc-YCDGk14"
+      },
+      {
+       "label": "YouTube — Episode 2",
+       "url": "https://www.youtube.com/watch?v=i_ViFRTEvoM"
+      }
+     ],
+     "evidence": "titles plus thin descriptions; whether it is AI-generated is not stated",
+     "confidence_flag": "low: plot detail is thin",
+     "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3976,
+   "title": "Bhabhi Par Karwaya Pyaar Ka Vashikaran",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Micro-drama series · India · Hindi · YouTube (The Webseries Shows) · Ep 2 13 Apr 2026",
+   "mechanism": "",
+   "confidence_flag": "low: plot detail is thin",
+   "summary": "A love vashikaran is performed on a bhabhi. The creator bills it as a mysterious love story of romance, magic and emotional twists.",
+   "character": "the bhabhi (married sister-in-law; not named)",
+   "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "Episode 2",
+     "gist": "love vashikaran on the bhabhi"
+    }
+   ],
+   "tags": [
+    "vashikaran-nov11",
+    "loose fit"
+   ],
+   "hypnotist": "not stated",
+   "method": "vashikaran (tantric / black-magic control)",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "yes",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "title plus description",
+   "already_married": "yes",
+   "format": "micro-drama web series (YouTube)",
+   "categories": [
+    "tantrik",
+    "love",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — Episode 2",
+     "url": "https://www.youtube.com/watch?v=PGkS0bKmyZQ"
+    }
+   ],
+   "youtube_ids": [
+    "PGkS0bKmyZQ"
+   ],
+   "from_sources": [
+    "vashikaran-nov11"
+   ],
+   "source_records": [
+    "vashikaran-nov11:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/PGkS0bKmyZQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vashikaran-nov11:8": {
+     "fit": "loose",
+     "already_married": "yes",
+     "married": "yes",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [
+      {
+       "episode": "Episode 2",
+       "gist": "love vashikaran on the bhabhi"
+      }
+     ],
+     "gain_motive": [],
+     "hypnotist": "not stated",
+     "method": "vashikaran (tantric / black-magic control)",
+     "title": "Bhabhi Par Karwaya Pyaar Ka Vashikaran",
+     "year": "2026",
+     "format": "micro-drama web series (YouTube)",
+     "meta": "Micro-drama series · India · Hindi · YouTube (The Webseries Shows) · Ep 2 13 Apr 2026",
+     "character": "the bhabhi (married sister-in-law; not named)",
+     "summary": "A love vashikaran is performed on a bhabhi. The creator bills it as a mysterious love story of romance, magic and emotional twists.",
+     "categories": [
+      "tantrik",
+      "love",
+      "wife-hypnotized"
+     ],
+     "tags": [
+      "vashikaran-nov11",
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "YouTube — Episode 2",
+       "url": "https://www.youtube.com/watch?v=PGkS0bKmyZQ"
+      }
+     ],
+     "evidence": "title plus description",
+     "confidence_flag": "low: plot detail is thin",
+     "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3977,
+   "title": "Vashikaran (ViVeK comedy short)",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Comedy short · India · Hindi · YouTube (ViVeK / Java Production) · 25 Jun 2024",
+   "mechanism": "vashikaran pamphlet spell",
+   "confidence_flag": "low: the short leaves open whether the spell worked",
+   "summary": "Vivek tries a ₹100 vashikaran pamphlet spell. Swati then turns up and proposes to him, but he blurts out that he loves Chanchal.",
+   "character": "Swati",
+   "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "vashikaran-nov11",
+    "loose fit",
+    "comedy"
+   ],
+   "hypnotist": "Vivek (via a pamphlet tantrik)",
+   "gain_motive": [
+    "love"
+   ],
+   "method": "vashikaran (tantric / black-magic control)",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "video description",
+   "already_married": "not stated",
+   "format": "short film (YouTube)",
+   "categories": [
+    "tantrik",
+    "love",
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — ViVeK (plot in description)",
+     "url": "https://www.youtube.com/watch?v=wlcct1OiEMQ"
+    }
+   ],
+   "youtube_ids": [
+    "wlcct1OiEMQ"
+   ],
+   "from_sources": [
+    "vashikaran-nov11"
+   ],
+   "source_records": [
+    "vashikaran-nov11:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/wlcct1OiEMQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "vashikaran-nov11:9": {
+     "fit": "loose",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [],
+     "gain_motive": [
+      "love"
+     ],
+     "hypnotist": "Vivek (via a pamphlet tantrik)",
+     "method": "vashikaran (tantric / black-magic control)",
+     "title": "Vashikaran (ViVeK comedy short)",
+     "year": "2024",
+     "format": "short film (YouTube)",
+     "meta": "Comedy short · India · Hindi · YouTube (ViVeK / Java Production) · 25 Jun 2024",
+     "character": "Swati",
+     "summary": "Vivek tries a ₹100 vashikaran pamphlet spell. Swati then turns up and proposes to him, but he blurts out that he loves Chanchal.",
+     "mechanism": "vashikaran pamphlet spell",
+     "categories": [
+      "tantrik",
+      "love",
+      "index-62"
+     ],
+     "tags": [
+      "vashikaran-nov11",
+      "loose fit",
+      "comedy"
+     ],
+     "sources": [
+      {
+       "label": "YouTube — ViVeK (plot in description)",
+       "url": "https://www.youtube.com/watch?v=wlcct1OiEMQ"
+      }
+     ],
+     "evidence": "video description",
+     "confidence_flag": "low: the short leaves open whether the spell worked",
+     "provenance": "Found in the vashikaran deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3978,
    "title": "窃梦令：她自深海携光归",
    "subtitle": "",
    "year": "2026",
@@ -584238,7 +585227,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3970,
+   "id": 3979,
    "title": "Jhaad Phoonk (झाड़-फूंक)",
    "subtitle": "",
    "year": "2026",
@@ -584327,7 +585316,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3971,
+   "id": 3980,
    "title": "ご近所の奥さん166人全員に催眠アプリみせてみた",
    "subtitle": "",
    "year": "2026",
@@ -584399,7 +585388,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3972,
+   "id": 3981,
    "title": "両穴から白濁液…洗脳催眠で堕ちる人妻ヒルダ",
    "subtitle": "",
    "year": "2026",
@@ -584471,7 +585460,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3973,
+   "id": 3982,
    "title": "被催眠的她 (Lin Xiaowan / Jiang Lin)",
    "subtitle": "",
    "year": "2026",
@@ -584553,7 +585542,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3974,
+   "id": 3983,
    "title": "I Can Hear My Fake Wife's Thoughts",
    "subtitle": "",
    "year": "2026",
@@ -589232,11 +590221,11 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
-       "id": 3971,
+       "id": 3980,
        "from_source": "deep-refresh-nov11"
       },
       {
-       "id": 3972,
+       "id": 3981,
        "from_source": "deep-refresh-nov11"
       },
       {
@@ -589248,11 +590237,11 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov04"
       },
       {
-       "id": 3969,
+       "id": 3978,
        "from_source": "deep-refresh-nov11"
       },
       {
-       "id": 3973,
+       "id": 3982,
        "from_source": "deep-refresh-nov11"
       }
      ],
@@ -589968,7 +590957,8 @@ window.CATALOG = {
     "female-wife-scenes-oct15",
     "hypnosis-yt-oct15",
     "weekly-oct19",
-    "deep-oct24"
+    "deep-oct24",
+    "vashikaran-nov11"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 8,
@@ -589979,7 +590969,8 @@ window.CATALOG = {
     "female-wife-scenes-oct15": null,
     "hypnosis-yt-oct15": null,
     "weekly-oct19": null,
-    "deep-oct24": null
+    "deep-oct24": null,
+    "vashikaran-nov11": null
    },
    "groups": [
     {
@@ -590169,6 +591160,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-oct24"
+    },
+    {
+     "title": "Vashikaran / black-magic control of adult women (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3977,
+       "from_source": "vashikaran-nov11"
+      }
+     ],
+     "from_source": "vashikaran-nov11"
     }
    ]
   },
@@ -591653,7 +592655,7 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov04"
       },
       {
-       "id": 3970,
+       "id": 3979,
        "from_source": "deep-refresh-nov11"
       },
       {
@@ -595465,7 +596467,7 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct30"
       },
       {
-       "id": 3974,
+       "id": 3983,
        "from_source": "deep-refresh-nov11"
       },
       {
@@ -596739,7 +597741,8 @@ window.CATALOG = {
     "deep-oct24",
     "hypno-india-oct24",
     "deep-refresh-nov04",
-    "vertical-hypnosis-nov6-r3"
+    "vertical-hypnosis-nov6-r3",
+    "vashikaran-nov11"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 57,
@@ -596768,7 +597771,8 @@ window.CATALOG = {
     "deep-oct24": null,
     "hypno-india-oct24": null,
     "deep-refresh-nov04": null,
-    "vertical-hypnosis-nov6-r3": null
+    "vertical-hypnosis-nov6-r3": null,
+    "vashikaran-nov11": null
    },
    "groups": [
     {
@@ -598197,6 +599201,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypno-india-oct24"
+    },
+    {
+     "title": "Vashikaran / black-magic control of adult women (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3971,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3970,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3969,
+       "from_source": "vashikaran-nov11"
+      }
+     ],
+     "from_source": "vashikaran-nov11"
     }
    ]
   },
@@ -599672,7 +600695,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r5",
     "vertical-hypnosis-nov6-r6",
     "vertical-hypnosis-nov6-r7",
-    "weekly-nov09"
+    "weekly-nov09",
+    "vashikaran-nov11"
    ],
    "groups": [
     {
@@ -604676,6 +605700,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "weekly-nov09"
+    },
+    {
+     "title": "Vashikaran / black-magic control of adult women (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3973,
+       "from_source": "vashikaran-nov11"
+      }
+     ],
+     "from_source": "vashikaran-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -604718,7 +605753,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r5": null,
     "vertical-hypnosis-nov6-r6": null,
     "vertical-hypnosis-nov6-r7": null,
-    "weekly-nov09": null
+    "weekly-nov09": null,
+    "vashikaran-nov11": null
    }
   },
   {
@@ -606352,7 +607388,7 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct30"
       },
       {
-       "id": 3974,
+       "id": 3983,
        "from_source": "deep-refresh-nov11"
       },
       {
@@ -606408,11 +607444,11 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov04"
       },
       {
-       "id": 3971,
+       "id": 3980,
        "from_source": "deep-refresh-nov11"
       },
       {
-       "id": 3972,
+       "id": 3981,
        "from_source": "deep-refresh-nov11"
       },
       {
@@ -606424,7 +607460,7 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov04"
       },
       {
-       "id": 3969,
+       "id": 3978,
        "from_source": "deep-refresh-nov11"
       },
       {
@@ -609122,7 +610158,8 @@ window.CATALOG = {
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
-    "vertical-hypnosis-nov6-r6"
+    "vertical-hypnosis-nov6-r6",
+    "vashikaran-nov11"
    ],
    "groups": [
     {
@@ -611593,6 +612630,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6"
+    },
+    {
+     "title": "Vashikaran / black-magic control of adult women (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3976,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3974,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3977,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3972,
+       "from_source": "vashikaran-nov11"
+      }
+     ],
+     "from_source": "vashikaran-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -611624,7 +612684,8 @@ window.CATALOG = {
     "deep-refresh-nov04": null,
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r2": null,
-    "vertical-hypnosis-nov6-r6": null
+    "vertical-hypnosis-nov6-r6": null,
+    "vashikaran-nov11": null
    }
   },
   {
@@ -613138,7 +614199,8 @@ window.CATALOG = {
     "pregnancy-yt-oct15",
     "hypnosis-yt-oct15",
     "youtube-india-oct15",
-    "pregnant-scenes-oct25"
+    "pregnant-scenes-oct25",
+    "vashikaran-nov11"
    ],
    "declared_count_by_source": {
     "mainstream-erotic": null,
@@ -613148,7 +614210,8 @@ window.CATALOG = {
     "pregnancy-yt-oct15": null,
     "hypnosis-yt-oct15": null,
     "youtube-india-oct15": null,
-    "pregnant-scenes-oct25": null
+    "pregnant-scenes-oct25": null,
+    "vashikaran-nov11": null
    },
    "groups": [
     {
@@ -613771,6 +614834,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-scenes-oct25"
+    },
+    {
+     "title": "Vashikaran / black-magic control of adult women (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3969,
+       "from_source": "vashikaran-nov11"
+      }
+     ],
+     "from_source": "vashikaran-nov11"
     }
    ]
   },
@@ -624698,7 +625772,7 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov04"
       },
       {
-       "id": 3970,
+       "id": 3979,
        "from_source": "deep-refresh-nov11"
       },
       {
@@ -638232,6 +639306,7 @@ window.CATALOG = {
     "youtube-india-oct15",
     "deep-refresh-oct18",
     "deep-refresh-oct30",
+    "vashikaran-nov11",
     "deep-refresh-nov11"
    ],
    "groups": [
@@ -638844,7 +639919,7 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct30"
       },
       {
-       "id": 3970,
+       "id": 3979,
        "from_source": "deep-refresh-nov11"
       },
       {
@@ -638853,6 +639928,49 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-oct18"
+    },
+    {
+     "title": "Vashikaran / black-magic control of adult women (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3971,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3975,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3976,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3974,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3970,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3969,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3977,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3973,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3972,
+       "from_source": "vashikaran-nov11"
+      }
+     ],
+     "from_source": "vashikaran-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -638871,6 +639989,7 @@ window.CATALOG = {
     "youtube-india-oct15": null,
     "deep-refresh-oct18": null,
     "deep-refresh-oct30": null,
+    "vashikaran-nov11": null,
     "deep-refresh-nov11": null
    }
   },
@@ -645329,6 +646448,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6",
     "hypnosis-repeat-pregnancy-nov7",
     "vertical-hypnosis-nov6-r7",
+    "vashikaran-nov11",
     "deep-refresh-nov11"
    ],
    "declared_count_by_source": {
@@ -645351,6 +646471,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6": null,
     "hypnosis-repeat-pregnancy-nov7": null,
     "vertical-hypnosis-nov6-r7": null,
+    "vashikaran-nov11": null,
     "deep-refresh-nov11": null
    },
    "groups": [
@@ -645925,11 +647046,11 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov04"
       },
       {
-       "id": 3969,
+       "id": 3978,
        "from_source": "deep-refresh-nov11"
       },
       {
-       "id": 3973,
+       "id": 3982,
        "from_source": "deep-refresh-nov11"
       }
      ],
@@ -646043,6 +647164,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r7"
+    },
+    {
+     "title": "Vashikaran / black-magic control of adult women (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3975,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3976,
+       "from_source": "vashikaran-nov11"
+      },
+      {
+       "id": 3970,
+       "from_source": "vashikaran-nov11"
+      }
+     ],
+     "from_source": "vashikaran-nov11"
     }
    ]
   },
