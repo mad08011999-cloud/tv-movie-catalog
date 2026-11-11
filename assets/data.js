@@ -11877,10 +11877,70 @@ window.CATALOG = {
     {
      "title": "MIAB-159",
      "reason": "FLAGGED (minors): Adult-video listing describes hypnotizing a student; minors risk — not added."
+    },
+    {
+     "title": "Love's Ultimate Surrender",
+     "reason": "Same plot, length and bodyguard-memory-erasure premise as Kiss Me, Even if It Burns; treated as the same work."
+    },
+    {
+     "title": "浮気人妻の提案！旦那に催眠かけて目の前でヤりまくってみない?",
+     "reason": "The hypnosis target in the listing is the husband, a male lead."
+    },
+    {
+     "title": "She Who Heals Their Sleepless Nights",
+     "reason": "Therapeutic hypnosis; the series also turns on a childhood hypnosis of a boy and a younger sister whose age is not verified as adult."
+    },
+    {
+     "title": "La Vénus électrique",
+     "reason": "Hypnosis is used to contact a dead wife, not to control a living woman."
+    },
+    {
+     "title": "The Oracle (2026, J.J. Adler)",
+     "reason": "The hypnotized patient is a man (Mark)."
+    },
+    {
+     "title": "The Enchantress Bride",
+     "reason": "The heroine's own necklace creates a protective alter ego; no outside controller of her will is described."
+    },
+    {
+     "title": "The Perfect House",
+     "reason": "Talisman/occult-apartment horror opening 25 Nov 2026; no mind-control or hypnosis plot is described."
+    },
+    {
+     "title": "Surrogate for a Ruthless Billionaire",
+     "reason": "Contract surrogacy romance; no hypnosis or mind-control mechanism described."
+    },
+    {
+     "title": "Nightborn / Yön lapsi",
+     "reason": "Already in the catalog (#3300)."
+    },
+    {
+     "title": "The Rebrand",
+     "reason": "Already in the catalog from the 4 Nov refresh."
+    },
+    {
+     "title": "Vashikaranam",
+     "reason": "Already in the catalog (#204)."
+    },
+    {
+     "title": "I Remarried as a Widow and Became a Wealthy Heir's Wife",
+     "reason": "Remarriage plot with no hypnosis or control mechanism described."
+    },
+    {
+     "title": "Poisoned by His Love",
+     "reason": "Forced mafia marriage; no hypnosis or mind-control mechanism described."
+    },
+    {
+     "title": "Love Feeds Eternity",
+     "reason": "Vampire substitute-bride romance; no thrall or hypnosis plot verified."
+    },
+    {
+     "title": "They Chipped Me to Obey, so I Deleted Them",
+     "reason": "FLAGGED (minors): Adult lead Joy is chipped, but the premise is that she was framed for her little sister's death; minors involved — not added."
     }
    ],
    "check": {
-    "raw_count": 3,
+    "raw_count": 6,
     "ok": true
    },
    "status": "local"
@@ -11978,10 +12038,10 @@ window.CATALOG = {
   "vertical-pregnant-again-nov07": 10,
   "pdf-hypnosis-sweeps-nov08": 8,
   "weekly-nov09": 1,
-  "deep-refresh-nov11": 3
+  "deep-refresh-nov11": 6
  },
- "raw_total": 7530,
- "entry_count": 3776,
+ "raw_total": 7533,
+ "entry_count": 3779,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -11999,7 +12059,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 341
+   "entry_count": 344
   },
   {
    "key": "belly",
@@ -12119,7 +12179,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 133
+   "entry_count": 135
   },
   {
    "key": "index-54",
@@ -12221,7 +12281,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 473
+   "entry_count": 474
   },
   {
    "key": "parents-sleeping",
@@ -12515,7 +12575,7 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 147
+   "entry_count": 148
   },
   {
    "key": "therapist-wife",
@@ -28497,8 +28557,6 @@ window.CATALOG = {
    "tags": [
     "loose fit"
    ],
-   "hypnotist": "Jiang Lin",
-   "method": "Hypnosis",
    "kids_status": "unknown",
    "kids_together": "no",
    "married": "yes",
@@ -28507,7 +28565,6 @@ window.CATALOG = {
    "evidence": "4 independent-ish sources (Hongguo, Duanjubaike, Sina recap, aggregator tags); official synopsis does not use the word hypnosis — hypnosis comes from the title, aggregator tags and viewer reviews",
    "source_conflict": "Some low-quality sites show a different synopsis for the same title (Lin Qian hypnotized by fiancé Gu Yan/friend Su Yao; hypnotist Gu Chen) — it does not match the Hongguo/Duanjubaike credits and is treated as unreliable. A Vietnamese listing says 2 episodes (vs 60), Russian listing says 60 × 3 min. Catalog card 56 has 'Date unverified'; now dated.",
    "fit_note": "Borderline: the title and tags name hypnosis, but no source says who hypnotizes her or describes any intimate scene.",
-   "adult": "yes (married adult woman)",
    "already_married": "yes",
    "already_married_note": "Yes — husband: her husband",
    "format": "vertical series",
@@ -28515,8 +28572,7 @@ window.CATALOG = {
     "wife",
     "remarried-wife-control",
     "partner-control",
-    "wife-hypnotized",
-    "adult-hypnosis"
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -28570,14 +28626,6 @@ window.CATALOG = {
     {
      "label": "Vertlas: Hypnotized (被催眠的她)",
      "url": "https://vertlas.com/drama/hypnotized"
-    },
-    {
-     "label": "黄豆短剧",
-     "url": "https://huangdoumj.com/series/details/6a53a7bb2cbdb80e01a102ca-bd.html"
-    },
-    {
-     "label": "玫瑰短剧",
-     "url": "https://mgdju.com/video/bei-cui-mian-de-ta.html"
     }
    ],
    "youtube_ids": [
@@ -28594,8 +28642,7 @@ window.CATALOG = {
     "round3",
     "kr-cn-hypnosis",
     "wife-hypnosis-oct15",
-    "vertical-hypnosis-nov6",
-    "deep-refresh-nov11"
+    "vertical-hypnosis-nov6"
    ],
    "source_records": [
     "xla62ucxbx02u5:56",
@@ -28606,8 +28653,7 @@ window.CATALOG = {
     "round3:3",
     "kr-cn-hypnosis:7",
     "wife-hypnosis-oct15:7",
-    "vertical-hypnosis-nov6:12",
-    "deep-refresh-nov11:1"
+    "vertical-hypnosis-nov6:12"
    ],
    "index_only": false,
    "local_only": false,
@@ -28942,47 +28988,6 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
-    },
-    {
-     "rid": "deep-refresh-nov11:1",
-     "source": "deep-refresh-nov11",
-     "label": "被催眠的她 (Lin Xiaowan / Jiang Lin) (2026)",
-     "identifiers": [
-      "year/date",
-      "own title/qualifier"
-     ],
-     "title": "被催眠的她 (Lin Xiaowan / Jiang Lin)",
-     "subtitle": "",
-     "year": "2026",
-     "meta": "China · Mandarin · 60 episodes · listings updated 31 Oct 2026 (distinct from the April 2026 Zhang Qing series of the same Chinese title)",
-     "summary": "After three years of marriage, Lin Xiaowan secretly visits hypnotist Jiang Lin to treat her husband's insomnia; after the first session her manner changes, she addresses her husband as \"master,\" cannot remember what she has done, and repeats secrets only Jiang Lin would know.",
-     "character": "Lin Xiaowan (wife of Shen Yi)",
-     "note": "",
-     "mechanism": "",
-     "confidence_flag": "Single source · flag",
-     "categories": [
-      "wife-hypnotized",
-      "adult-hypnosis"
-     ],
-     "sources": [
-      {
-       "label": "黄豆短剧",
-       "url": "https://huangdoumj.com/series/details/6a53a7bb2cbdb80e01a102ca-bd.html"
-      },
-      {
-       "label": "玫瑰短剧",
-       "url": "https://mgdju.com/video/bei-cui-mian-de-ta.html"
-      }
-     ],
-     "hypnotist": "Jiang Lin",
-     "method": "Hypnosis",
-     "kids_status": "no",
-     "kids_together": "no",
-     "pregnant_end": "no",
-     "evidence": "Platform synopses naming the same couple and hypnotist",
-     "adult": "yes (married adult woman)",
-     "distinct_story": true,
-     "matched_by": "alias"
     }
    ],
    "raw": {
@@ -29255,37 +29260,6 @@ window.CATALOG = {
       }
      ],
      "no_media": true
-    },
-    "deep-refresh-nov11:1": {
-     "pregnant_end": "no",
-     "kids_status": "no",
-     "kids_together": "no",
-     "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
-     "adult": "yes (married adult woman)",
-     "title": "被催眠的她 (Lin Xiaowan / Jiang Lin)",
-     "year": "2026",
-     "format": "vertical short drama",
-     "meta": "China · Mandarin · 60 episodes · listings updated 31 Oct 2026 (distinct from the April 2026 Zhang Qing series of the same Chinese title)",
-     "character": "Lin Xiaowan (wife of Shen Yi)",
-     "summary": "After three years of marriage, Lin Xiaowan secretly visits hypnotist Jiang Lin to treat her husband's insomnia; after the first session her manner changes, she addresses her husband as \"master,\" cannot remember what she has done, and repeats secrets only Jiang Lin would know.",
-     "hypnotist": "Jiang Lin",
-     "method": "Hypnosis",
-     "categories": [
-      "wife-hypnotized",
-      "adult-hypnosis"
-     ],
-     "sources": [
-      {
-       "label": "黄豆短剧",
-       "url": "https://huangdoumj.com/series/details/6a53a7bb2cbdb80e01a102ca-bd.html"
-      },
-      {
-       "label": "玫瑰短剧",
-       "url": "https://mgdju.com/video/bei-cui-mian-de-ta.html"
-      }
-     ],
-     "evidence": "Platform synopses naming the same couple and hypnotist",
-     "confidence_flag": "Single source · flag"
     }
    }
   },
@@ -405948,11 +405922,19 @@ window.CATALOG = {
    "note": "Outcome facts: marriage outcome: not married; pregnancy outcome: unknown.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "hypnotist": "Dylan Pitt",
+   "method": "Hypnosis (memory erasure)",
    "kids_status": "unknown",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Two aggregator synopses of the same DramaBox series; Love's Ultimate Surrender matches this plot and is treated as the same work, not a second card.",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "love",
-    "partner-control"
+    "partner-control",
+    "adult-hypnosis",
+    "other-control"
    ],
    "sources": [
     {
@@ -405982,6 +405964,14 @@ window.CATALOG = {
     {
      "label": "CupidCutsDrama · YouTube",
      "url": "https://www.youtube.com/watch?v=My3FLv8A0Qo"
+    },
+    {
+     "label": "Plotmoon",
+     "url": "https://plotmoon.com/drama/kiss-me-even-if-it-burns-6b9d8x"
+    },
+    {
+     "label": "ReelLantern",
+     "url": "https://reellantern.com/drama/kiss-me-even-if-it-burns-g7mb3o"
     }
    ],
    "youtube_ids": [
@@ -405993,12 +405983,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "deep-refresh-nov11"
    ],
    "source_records": [
     "xla62ucxbx02u5:1992",
     "ig6qlxqxoxvcxla:156",
-    "kr-cn-hypnosis:52"
+    "kr-cn-hypnosis:52",
+    "deep-refresh-nov11:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -406107,6 +406099,46 @@ window.CATALOG = {
      "kids_status": "unknown",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "deep-refresh-nov11:3",
+     "source": "deep-refresh-nov11",
+     "label": "Kiss Me, Even if It Burns (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Kiss Me, Even if It Burns",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "DramaBox / also listed as Love's Ultimate Surrender on StardustTV · 77 episodes · aggregators added the DramaBox listing 4–7 Nov 2026",
+     "summary": "Bodyguard Scarlet Novak stays with Dylan Pitt through his rise but will not obey him; after she stages her death to escape, he brings her back and uses hypnosis to erase her memories, then finds that a life without her means nothing to him.",
+     "character": "Scarlet Novak (bodyguard to Dylan Pitt)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "Medium · 2 sources",
+     "categories": [
+      "adult-hypnosis",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Plotmoon",
+       "url": "https://plotmoon.com/drama/kiss-me-even-if-it-burns-6b9d8x"
+      },
+      {
+       "label": "ReelLantern",
+       "url": "https://reellantern.com/drama/kiss-me-even-if-it-burns-g7mb3o"
+      }
+     ],
+     "hypnotist": "Dylan Pitt",
+     "method": "Hypnosis (memory erasure)",
+     "kids_status": "no",
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "evidence": "Two aggregator synopses of the same DramaBox series; Love's Ultimate Surrender matches this plot and is treated as the same work, not a second card.",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -406199,6 +406231,37 @@ window.CATALOG = {
      "kids_status": "unknown",
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "deep-refresh-nov11:3": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Kiss Me, Even if It Burns",
+     "year": "2026",
+     "format": "vertical short drama",
+     "meta": "DramaBox / also listed as Love's Ultimate Surrender on StardustTV · 77 episodes · aggregators added the DramaBox listing 4–7 Nov 2026",
+     "character": "Scarlet Novak (bodyguard to Dylan Pitt)",
+     "summary": "Bodyguard Scarlet Novak stays with Dylan Pitt through his rise but will not obey him; after she stages her death to escape, he brings her back and uses hypnosis to erase her memories, then finds that a life without her means nothing to him.",
+     "hypnotist": "Dylan Pitt",
+     "method": "Hypnosis (memory erasure)",
+     "categories": [
+      "adult-hypnosis",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Plotmoon",
+       "url": "https://plotmoon.com/drama/kiss-me-even-if-it-burns-6b9d8x"
+      },
+      {
+       "label": "ReelLantern",
+       "url": "https://reellantern.com/drama/kiss-me-even-if-it-burns-g7mb3o"
+      }
+     ],
+     "evidence": "Two aggregator synopses of the same DramaBox series; Love's Ultimate Surrender matches this plot and is treated as the same work, not a second card.",
+     "confidence_flag": "Medium · 2 sources"
     }
    }
   },
@@ -584087,7 +584150,7 @@ window.CATALOG = {
     "deep-refresh-nov11"
    ],
    "source_records": [
-    "deep-refresh-nov11:2"
+    "deep-refresh-nov11:1"
    ],
    "index_only": false,
    "local_only": true,
@@ -584095,7 +584158,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "deep-refresh-nov11:2": {
+    "deep-refresh-nov11:1": {
      "pregnant_end": "no",
      "kids_status": "yes",
      "kids_together": "not stated",
@@ -584169,7 +584232,7 @@ window.CATALOG = {
     "deep-refresh-nov11"
    ],
    "source_records": [
-    "deep-refresh-nov11:3"
+    "deep-refresh-nov11:2"
    ],
    "index_only": false,
    "local_only": true,
@@ -584177,7 +584240,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "deep-refresh-nov11:3": {
+    "deep-refresh-nov11:2": {
      "pregnant_end": "not stated",
      "kids_status": "no",
      "kids_together": "no",
@@ -584212,6 +584275,232 @@ window.CATALOG = {
      "tags": [
       "loose fit"
      ]
+    }
+   }
+  },
+  {
+   "id": 3971,
+   "title": "ご近所の奥さん166人全員に催眠アプリみせてみた",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Japan · Japanese · orz · released 26 Oct 2026 · illustrated omnibus; the listing states every wife is 18 or older",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "An illustrated omnibus in which a hypnosis app is used on many married women in a neighborhood.",
+   "character": "Neighborhood wives (unnamed)",
+   "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Unnamed user of a hypnosis app",
+   "method": "Hypnosis app",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database listing; the work itself states all characters are wives 18 or older",
+   "adult": "yes (18+; non-explicit note)",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "adult-hypnosis",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "NTRDB",
+     "url": "https://ntrdb.com/ja/works/go-no-san166-ni-apurimisetemita"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov11"
+   ],
+   "source_records": [
+    "deep-refresh-nov11:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov11:4": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes (18+; non-explicit note)",
+     "title": "ご近所の奥さん166人全員に催眠アプリみせてみた",
+     "year": "2026",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "Japan · Japanese · orz · released 26 Oct 2026 · illustrated omnibus; the listing states every wife is 18 or older",
+     "character": "Neighborhood wives (unnamed)",
+     "summary": "An illustrated omnibus in which a hypnosis app is used on many married women in a neighborhood.",
+     "hypnotist": "Unnamed user of a hypnosis app",
+     "method": "Hypnosis app",
+     "categories": [
+      "adult-hypnosis",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "NTRDB",
+       "url": "https://ntrdb.com/ja/works/go-no-san166-ni-apurimisetemita"
+      }
+     ],
+     "evidence": "Database listing; the work itself states all characters are wives 18 or older",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3972,
+   "title": "両穴から白濁液…洗脳催眠で堕ちる人妻ヒルダ",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Japan · Japanese · paperhero · released 15 Oct 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "An illustrated work in which a married woman named Hilda is placed under hypnosis.",
+   "character": "Hilda (married woman)",
+   "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Not named in the listing",
+   "method": "Hypnosis / brainwashing, as titled",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database listing and title; no longer synopsis was published",
+   "adult": "yes (18+; non-explicit note)",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "adult-hypnosis",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "NTRDB",
+     "url": "https://ntrdb.com/ja/works/kara-de-chiru-hiruda"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov11"
+   ],
+   "source_records": [
+    "deep-refresh-nov11:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov11:5": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes (18+; non-explicit note)",
+     "title": "両穴から白濁液…洗脳催眠で堕ちる人妻ヒルダ",
+     "year": "2026",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "Japan · Japanese · paperhero · released 15 Oct 2026",
+     "character": "Hilda (married woman)",
+     "summary": "An illustrated work in which a married woman named Hilda is placed under hypnosis.",
+     "hypnotist": "Not named in the listing",
+     "method": "Hypnosis / brainwashing, as titled",
+     "categories": [
+      "adult-hypnosis",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "NTRDB",
+       "url": "https://ntrdb.com/ja/works/kara-de-chiru-hiruda"
+      }
+     ],
+     "evidence": "Database listing and title; no longer synopsis was published",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3973,
+   "title": "被催眠的她 (Lin Xiaowan / Jiang Lin)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "China · Mandarin · 60 episodes · listings updated 31 Oct 2026 (distinct from the April 2026 Zhang Qing series of the same Chinese title)",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "After three years of marriage, Lin Xiaowan secretly visits hypnotist Jiang Lin to treat her husband's insomnia; after the first session her manner changes, she addresses her husband as \"master,\" cannot remember what she has done, and repeats secrets only Jiang Lin would know.",
+   "character": "Lin Xiaowan (wife of Shen Yi)",
+   "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "Distinct 60-episode series about Lin Xiaowan and hypnotist Jiang Lin; not the April 2026 Zhang Qing series that already has catalog ID 56. Marked standalone so the shared Chinese title cannot merge the two works.",
+   "hypnotist": "Jiang Lin",
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Platform synopses naming the same couple and hypnotist",
+   "adult": "yes (married adult woman)",
+   "format": "vertical short drama",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "黄豆短剧",
+     "url": "https://huangdoumj.com/series/details/6a53a7bb2cbdb80e01a102ca-bd.html"
+    },
+    {
+     "label": "玫瑰短剧",
+     "url": "https://mgdju.com/video/bei-cui-mian-de-ta.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov11"
+   ],
+   "source_records": [
+    "deep-refresh-nov11:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov11:6": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes (married adult woman)",
+     "title": "被催眠的她 (Lin Xiaowan / Jiang Lin)",
+     "year": "2026",
+     "format": "vertical short drama",
+     "meta": "China · Mandarin · 60 episodes · listings updated 31 Oct 2026 (distinct from the April 2026 Zhang Qing series of the same Chinese title)",
+     "character": "Lin Xiaowan (wife of Shen Yi)",
+     "summary": "After three years of marriage, Lin Xiaowan secretly visits hypnotist Jiang Lin to treat her husband's insomnia; after the first session her manner changes, she addresses her husband as \"master,\" cannot remember what she has done, and repeats secrets only Jiang Lin would know.",
+     "hypnotist": "Jiang Lin",
+     "method": "Hypnosis",
+     "categories": [
+      "wife-hypnotized",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "黄豆短剧",
+       "url": "https://huangdoumj.com/series/details/6a53a7bb2cbdb80e01a102ca-bd.html"
+      },
+      {
+       "label": "玫瑰短剧",
+       "url": "https://mgdju.com/video/bei-cui-mian-de-ta.html"
+      }
+     ],
+     "evidence": "Platform synopses naming the same couple and hypnotist",
+     "confidence_flag": "Single source · flag",
+     "standalone": true,
+     "note": "Distinct 60-episode series about Lin Xiaowan and hypnotist Jiang Lin; not the April 2026 Zhang Qing series that already has catalog ID 56. Marked standalone so the shared Chinese title cannot merge the two works."
     }
    }
   }
@@ -588752,6 +589041,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct30"
       },
       {
+       "id": 1977,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
        "id": 3317,
        "from_source": "deep-refresh-oct18"
       },
@@ -588812,6 +589105,14 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3971,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
+       "id": 3972,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
        "id": 3784,
        "from_source": "deep-refresh-oct30"
       },
@@ -588824,7 +589125,7 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov11"
       },
       {
-       "id": 56,
+       "id": 3973,
        "from_source": "deep-refresh-nov11"
       }
      ],
@@ -605970,6 +606271,14 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov04"
       },
       {
+       "id": 3971,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
+       "id": 3972,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
        "id": 3834,
        "from_source": "deep-refresh-nov04"
       },
@@ -618509,7 +618818,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r5",
     "vertical-hypnosis-nov6-r6",
     "vertical-hypnosis-nov6-r7",
-    "pdf-hypnosis-sweeps-nov08"
+    "pdf-hypnosis-sweeps-nov08",
+    "deep-refresh-nov11"
    ],
    "groups": [
     {
@@ -620862,6 +621172,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov04"
       },
       {
+       "id": 1977,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
        "id": 3322,
        "from_source": "deep-refresh-oct18"
       },
@@ -621730,7 +622044,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r5": null,
     "vertical-hypnosis-nov6-r6": null,
     "vertical-hypnosis-nov6-r7": null,
-    "pdf-hypnosis-sweeps-nov08": null
+    "pdf-hypnosis-sweeps-nov08": null,
+    "deep-refresh-nov11": null
    }
   },
   {
@@ -645474,6 +645789,10 @@ window.CATALOG = {
       },
       {
        "id": 3969,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
+       "id": 3973,
        "from_source": "deep-refresh-nov11"
       }
      ],
