@@ -54221,11 +54221,12 @@
   "weekly-nov09": 1,
   "vashikaran-nov11": 9,
   "deep-refresh-nov11": 7,
-  "saimin-sweep-nov11": 26
+  "saimin-sweep-nov11": 26,
+  "pregnant-intimacy-nov11": 3
  },
- "entry_count_after_dedupe": 3815,
+ "entry_count_after_dedupe": 3818,
  "within_source_groups": 6,
  "cross_source_groups": 2083,
  "index_only_records": 55,
- "local_only_records": 1543
+ "local_only_records": 1546
 }

@@ -11998,6 +11998,46 @@ window.CATALOG = {
     {
      "title": "William's Lullaby",
      "reason": "FLAGGED (minors): A father uses hypnotherapy in a story with his young son; minors involved — not added."
+    },
+    {
+     "title": "War (Sky/HBO, 2026, Sienna Miller)",
+     "reason": "Actress was pregnant during a love-scene shoot; sources do not establish that the character Carla is pregnant. Not added."
+    },
+    {
+     "title": "Nobody Wants This / Nessuno lo vuole (Kristen Bell)",
+     "reason": "Actress pregnancy during filming of a sex scene; character pregnancy not established. Not added."
+    },
+    {
+     "title": "Mamífera (2026)",
+     "reason": "Sex scene occurs before the character discovers she is pregnant (conception, not sex while pregnant)."
+    },
+    {
+     "title": "Mum, I'm Alien Pregnant (2026)",
+     "reason": "Intimate encounter causes the pregnancy; not a scene of sex while already pregnant."
+    },
+    {
+     "title": "I Have a Baby / Positively Yours (2026)",
+     "reason": "Already in catalog (#3281). First-episode bed scene is the conception night, not sex while pregnant. Category not added."
+    },
+    {
+     "title": "Project Baby (2026)",
+     "reason": "Sex leads to pregnancy; sources do not describe intimacy while already pregnant."
+    },
+    {
+     "title": "Pregnant (Lada Imamovic short, 2026)",
+     "reason": "Two-minute short about a nine-months-pregnant woman preparing for a date; no sex scene described."
+    },
+    {
+     "title": "The Body (Netflix, 2026)",
+     "reason": "Catholic schoolgirls; held back (minors)."
+    },
+    {
+     "title": "催眠性指導 妊婦性交指導",
+     "reason": "Part of the Saimin Seishidou series, which is a school/student setting; held back (minors)."
+    },
+    {
+     "title": "孕ませ学園 / 危険日狙って！？孕ませ学園",
+     "reason": "School setting in the title; held back (minors)."
     }
    ],
    "check": {
@@ -12068,6 +12108,19 @@ window.CATALOG = {
    ],
    "check": {
     "raw_count": 26,
+    "ok": true
+   },
+   "status": "local"
+  },
+  {
+   "id": "pregnant-intimacy-nov11",
+   "label": "Pregnant-character intimacy deep search (11 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/pregnant-intimacy-nov11.json",
+   "description": "Focused 11 Nov 2026 search across film, TV, vertical drama, anime, games/visual novels, novels/webtoons/manga, and short films. Adults only; non-explicit notes. New unique titles only; existing catalog cards should receive the category via a same-title merge record rather than a new ID.",
+   "dropped": [],
+   "check": {
+    "raw_count": 3,
     "ok": true
    },
    "status": "local"
@@ -12167,10 +12220,11 @@ window.CATALOG = {
   "weekly-nov09": 1,
   "vashikaran-nov11": 9,
   "deep-refresh-nov11": 7,
-  "saimin-sweep-nov11": 26
+  "saimin-sweep-nov11": 26,
+  "pregnant-intimacy-nov11": 3
  },
- "raw_total": 7569,
- "entry_count": 3815,
+ "raw_total": 7572,
+ "entry_count": 3818,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -12488,7 +12542,7 @@ window.CATALOG = {
    "key": "pregnant-sex",
    "label": "Pregnant characters having sex",
    "legend_label": "Pregnant characters having sex",
-   "entry_count": 74
+   "entry_count": 77
   },
   {
    "key": "pregnant-female",
@@ -12500,7 +12554,7 @@ window.CATALOG = {
    "key": "pregnant-intimate",
    "label": "Pregnant intimate scenes",
    "legend_label": "Pregnant intimate scenes",
-   "entry_count": 28
+   "entry_count": 29
   },
   {
    "key": "pregnant-lesbian-intimate",
@@ -588097,6 +588151,235 @@ window.CATALOG = {
      "evidence": "Multiple sources."
     }
    }
+  },
+  {
+   "id": 4010,
+   "title": "Home Delivery",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Film · United States · English · comedy · written and directed by Thom Harp · released 27 Mar 2026 · 105 min · R",
+   "mechanism": "On-screen intimacy during labor, including a midwife-suggested sex scene and a later private attempt to restart contractions",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "During a stalled home birth, midwife Sara suggests that Ellye and her husband Jimmy have sex to help labor resume; later Ellye also uses a vibrator to restart contractions. Family tensions and a hospital transfer follow, and the baby is born.",
+   "character": "Ellye Ferguson (plus-sized model, in labor with her first child)",
+   "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_outcome": "The baby is born in hospital; Ellye is told she will not be able to give birth again",
+   "pregnancy_note": "Partner in the labor-intimacy scenes: husband Jimmy Ferguson; first child",
+   "kids_status": "no",
+   "kids_note": "first child",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Wikipedia plot describes the midwife suggesting sex and a later vibrator scene; Common Sense Media independently flags on-screen sex, masturbation, and orgasms during the childbirth story.",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex",
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Home_Delivery_(2026_film)"
+    },
+    {
+     "label": "Common Sense Media",
+     "url": "https://www.commonsensemedia.org/movie-reviews/home-delivery"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy-nov11"
+   ],
+   "source_records": [
+    "pregnant-intimacy-nov11:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy-nov11:1": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Home Delivery",
+     "year": "2026",
+     "format": "movie",
+     "meta": "Film · United States · English · comedy · written and directed by Thom Harp · released 27 Mar 2026 · 105 min · R",
+     "character": "Ellye Ferguson (plus-sized model, in labor with her first child)",
+     "summary": "During a stalled home birth, midwife Sara suggests that Ellye and her husband Jimmy have sex to help labor resume; later Ellye also uses a vibrator to restart contractions. Family tensions and a hospital transfer follow, and the baby is born.",
+     "categories": [
+      "pregnant-sex",
+      "pregnant-intimate"
+     ],
+     "mechanism": "On-screen intimacy during labor, including a midwife-suggested sex scene and a later private attempt to restart contractions",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Home_Delivery_(2026_film)"
+      },
+      {
+       "label": "Common Sense Media",
+       "url": "https://www.commonsensemedia.org/movie-reviews/home-delivery"
+      }
+     ],
+     "evidence": "Wikipedia plot describes the midwife suggesting sex and a later vibrator scene; Common Sense Media independently flags on-screen sex, masturbation, and orgasms during the childbirth story.",
+     "confidence_flag": "Medium · 2 sources",
+     "pregnancy_outcome": "The baby is born in hospital; Ellye is told she will not be able to give birth again",
+     "pregnancy_note": "Partner in the labor-intimacy scenes: husband Jimmy Ferguson; first child",
+     "kids_note": "first child"
+    }
+   }
+  },
+  {
+   "id": 4011,
+   "title": "The Couple Next Door",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "TV series · United States · English · Starz · premiered 17 Jan 2025 · Season 1 Episode 5 “The Ultimatum” · starring Eleanor Tomlinson and Sam Heughan",
+   "mechanism": "On-screen sex scene while Evie is already pregnant",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "After her husband Pete confronts her about the pregnancy and demands she cut contact and end it, Evie goes to Danny's police-station workplace; they have sex there, and she then tells him the baby is his.",
+   "character": "Evie (wife of Pete; pregnant with Danny's child)",
+   "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "Partner in the scene: Danny (not her husband); the pregnancy is already known to Evie and Pete before the scene",
+   "kids_status": "not stated",
+   "kids_together": "no",
+   "pregnant_end": "not stated",
+   "evidence": "Two independent recaps: Pete already knows Evie is pregnant before she goes to the station; Decider describes the workplace sex scene, and the second recap confirms she is already pregnant and has another intimate encounter at his work.",
+   "adult": "yes",
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Decider",
+     "url": "https://decider.com/2025/02/14/the-couple-next-door-episode-5-sex-scene-sam-heughan/"
+    },
+    {
+     "label": "Claire and Jamie recap",
+     "url": "https://claireandjamie.com/the-couple-next-door-season-1-episode-5-recap-the-ultimatum"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy-nov11"
+   ],
+   "source_records": [
+    "pregnant-intimacy-nov11:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy-nov11:2": {
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "The Couple Next Door",
+     "year": "2025",
+     "format": "tv",
+     "meta": "TV series · United States · English · Starz · premiered 17 Jan 2025 · Season 1 Episode 5 “The Ultimatum” · starring Eleanor Tomlinson and Sam Heughan",
+     "character": "Evie (wife of Pete; pregnant with Danny's child)",
+     "summary": "After her husband Pete confronts her about the pregnancy and demands she cut contact and end it, Evie goes to Danny's police-station workplace; they have sex there, and she then tells him the baby is his.",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "mechanism": "On-screen sex scene while Evie is already pregnant",
+     "sources": [
+      {
+       "label": "Decider",
+       "url": "https://decider.com/2025/02/14/the-couple-next-door-episode-5-sex-scene-sam-heughan/"
+      },
+      {
+       "label": "Claire and Jamie recap",
+       "url": "https://claireandjamie.com/the-couple-next-door-season-1-episode-5-recap-the-ultimatum"
+      }
+     ],
+     "evidence": "Two independent recaps: Pete already knows Evie is pregnant before she goes to the station; Decider describes the workplace sex scene, and the second recap confirms she is already pregnant and has another intimate encounter at his work.",
+     "confidence_flag": "Medium · 2 sources",
+     "pregnancy_note": "Partner in the scene: Danny (not her husband); the pregnancy is already known to Evie and Pete before the scene"
+    }
+   }
+  },
+  {
+   "id": 4012,
+   "title": "Gravida",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Adult sandbox visual novel · English · Windows / macOS / Linux · HongFire / HongFire Studios · public alpha 0.1.1, published about 1 Nov 2026",
+   "mechanism": "Player-optional adult scenes that continue through pregnancy stages",
+   "confidence_flag": "Single source · flag",
+   "summary": "Zera works as a paid companion in a city that rewards women for having children. The game includes a full pregnancy system, and companionship scenes can continue at every stage of pregnancy. The developer states all characters are 18+.",
+   "character": "Zera (adult companion in the city-state of Meridian)",
+   "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "The game includes birth as part of a repeating pregnancy cycle; partner(s) are generated clients in the companionship system",
+   "kids_status": "varies (game system; twins possible after a first child)",
+   "kids_together": "not stated",
+   "pregnant_end": "yes",
+   "evidence": "Developer store page states adults only, all characters 18+, and that companionship is animated at every belly stage.",
+   "adult": "yes",
+   "format": "visual novel",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "itch.io (developer page)",
+     "url": "https://hongfirestudios.itch.io/gravida"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy-nov11"
+   ],
+   "source_records": [
+    "pregnant-intimacy-nov11:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy-nov11:3": {
+     "pregnant_end": "yes",
+     "kids_status": "varies (game system; twins possible after a first child)",
+     "kids_together": "not stated",
+     "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Gravida",
+     "year": "2026",
+     "format": "visual novel",
+     "meta": "Adult sandbox visual novel · English · Windows / macOS / Linux · HongFire / HongFire Studios · public alpha 0.1.1, published about 1 Nov 2026",
+     "character": "Zera (adult companion in the city-state of Meridian)",
+     "summary": "Zera works as a paid companion in a city that rewards women for having children. The game includes a full pregnancy system, and companionship scenes can continue at every stage of pregnancy. The developer states all characters are 18+.",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "mechanism": "Player-optional adult scenes that continue through pregnancy stages",
+     "sources": [
+      {
+       "label": "itch.io (developer page)",
+       "url": "https://hongfirestudios.itch.io/gravida"
+      }
+     ],
+     "evidence": "Developer store page states adults only, all characters 18+, and that companionship is animated at every belly stage.",
+     "confidence_flag": "Single source · flag",
+     "pregnancy_note": "The game includes birth as part of a repeating pregnancy cycle; partner(s) are generated clients in the companionship system"
+    }
+   }
   }
  ],
  "sections": [
@@ -628905,7 +629188,8 @@ window.CATALOG = {
     "pregnant-intimate-oct25",
     "pregnant-scenes-oct25",
     "imdb-pregnant-oct25",
-    "pregnant-intimate-imdb-oct25"
+    "pregnant-intimate-imdb-oct25",
+    "pregnant-intimacy-nov11"
    ],
    "groups": [
     {
@@ -629667,6 +629951,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-intimate-imdb-oct25"
+    },
+    {
+     "title": "Pregnant female characters: plot-relevant intimacy between adults",
+     "notes": [],
+     "items": [
+      {
+       "id": 4011,
+       "from_source": "pregnant-intimacy-nov11"
+      },
+      {
+       "id": 4012,
+       "from_source": "pregnant-intimacy-nov11"
+      },
+      {
+       "id": 4010,
+       "from_source": "pregnant-intimacy-nov11"
+      }
+     ],
+     "from_source": "pregnant-intimacy-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -629677,7 +629980,8 @@ window.CATALOG = {
     "pregnant-intimate-oct25": null,
     "pregnant-scenes-oct25": null,
     "imdb-pregnant-oct25": null,
-    "pregnant-intimate-imdb-oct25": null
+    "pregnant-intimate-imdb-oct25": null,
+    "pregnant-intimacy-nov11": null
    }
   },
   {
@@ -629812,7 +630116,8 @@ window.CATALOG = {
     "pregnant-intimate-oct25",
     "pregnant-scenes-oct25",
     "pregnant-intimate-imdb-oct25",
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "pregnant-intimacy-nov11"
    ],
    "groups": [
     {
@@ -630091,6 +630396,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-oct30"
+    },
+    {
+     "title": "Pregnant female characters: plot-relevant intimacy between adults",
+     "notes": [],
+     "items": [
+      {
+       "id": 4010,
+       "from_source": "pregnant-intimacy-nov11"
+      }
+     ],
+     "from_source": "pregnant-intimacy-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -630100,7 +630416,8 @@ window.CATALOG = {
     "pregnant-intimate-oct25": null,
     "pregnant-scenes-oct25": null,
     "pregnant-intimate-imdb-oct25": null,
-    "deep-refresh-oct30": null
+    "deep-refresh-oct30": null,
+    "pregnant-intimacy-nov11": null
    }
   },
   {
