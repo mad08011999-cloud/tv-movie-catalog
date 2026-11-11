@@ -12118,9 +12118,118 @@
    "kind": "local",
    "share_url": "sources/pregnant-intimacy-nov11.json",
    "description": "Focused 11 Nov 2026 search across film, TV, vertical drama, anime, games/visual novels, novels/webtoons/manga, and short films. Adults only; non-explicit notes. New unique titles only; existing catalog cards should receive the category via a same-title merge record rather than a new ID.",
-   "dropped": [],
+   "dropped": [
+    {
+     "title": "Kinda Pregnant / Irgendwie schwanger (2025)",
+     "reason": "The on-screen sex scene is with Lainy, who is wearing a fake bump and pretending to be pregnant; she is not actually pregnant. Not added."
+    },
+    {
+     "title": "Pregnant Roommates, Send Help!",
+     "reason": "The studio page describes five already-pregnant roommates and animated adult scenes, but the official itch.io and Steam pages were blocked (403 / login wall), so 18+ store text and an explicit sex-while-already-pregnant line could not be independently verified. Not added."
+    },
+    {
+     "title": "Villa Embarazo",
+     "reason": "A Spanish-language game search failed, and no readable source confirming adult sex while a character is already pregnant was obtained. Not added."
+    },
+    {
+     "title": "トラブル孕ま性活〜妊娠したまま何度も中に出す〜 (Luigi, FANZA, 5 Oct 2026)",
+     "reason": "The title implies sex while already pregnant and FANZA is an 18+ store, but no plot blurb or character-age text could be verified on a readable page. Not added."
+    },
+    {
+     "title": "妻の姉に溺れて (懺悔, 2026)",
+     "reason": "A 2026 erotic-novel roundup and one reader comment suggest play with a sister-in-law after pregnancy, but the official blurb is ambiguous (the affair may deepen because of a pregnancy, or end in impregnation). Not added without a clearer official plot."
+    },
+    {
+     "title": "임신의 덫 / The Pregnancy Trap (Lezhin)",
+     "reason": "The Lezhin page confirms a 19+ rating but returned no plot text establishing sex while a character is already pregnant. Not added."
+    },
+    {
+     "title": "Ore dake ni Kashizuku Haramaid-tachi (Guilty, 2025)",
+     "reason": "FLAGGED (minors): VNDB lists an 18+ rating and a 'Pregnant Sex' trait, but the official description states that the protagonist is a male student attending school. Held back."
+    },
+    {
+     "title": "Ayane: The Pregnancy Planet (Steam, 2026)",
+     "reason": "Characters are described as 20+, but the game is a sperm-journey / fertilization minigame, not a clear scene of sex while a female character is already pregnant. Not added."
+    },
+    {
+     "title": "War (Sky/HBO, 2026, Sienna Miller)",
+     "reason": "Actress was pregnant during a love-scene shoot; sources do not establish that the character Carla is pregnant. Not added."
+    },
+    {
+     "title": "Nobody Wants This / Nessuno lo vuole (Kristen Bell)",
+     "reason": "Actress pregnancy during filming of a sex scene; character pregnancy not established. Not added."
+    },
+    {
+     "title": "Mamífera (2026)",
+     "reason": "Sex occurs before the character discovers she is pregnant (conception, not sex while already pregnant). Not added."
+    },
+    {
+     "title": "Mum, I'm Alien Pregnant (2026)",
+     "reason": "The intimate encounter causes the pregnancy; not a scene of sex while already pregnant. Not added."
+    },
+    {
+     "title": "I Have a Baby / Positively Yours (2026)",
+     "reason": "Already in the catalog (#3281). First-episode bed scene is the conception night, not sex while pregnant. Category not added."
+    },
+    {
+     "title": "Project Baby (2026)",
+     "reason": "Sex leads to pregnancy; sources do not describe intimacy while already pregnant. Not added."
+    },
+    {
+     "title": "Pregnant (Lada Imamovic short, 2026)",
+     "reason": "Two-minute short about a nine-months-pregnant woman preparing for a date; no sex scene described. Not added."
+    },
+    {
+     "title": "The Body (Netflix, 2026)",
+     "reason": "Catholic schoolgirls; held back (minors)."
+    },
+    {
+     "title": "催眠性指導 妊婦性交指導",
+     "reason": "Part of the Saimin Seishidou school/student series; held back (minors)."
+    },
+    {
+     "title": "孕ませ学園 / 危険日狙って！？孕ませ学園",
+     "reason": "School setting in the title; held back (minors)."
+    },
+    {
+     "title": "Immaculata (Kim Lêa Sakkal, 2024/25)",
+     "reason": "Festival short about a pregnant woman who has not had sex; no sex-while-pregnant scene. Not added."
+    },
+    {
+     "title": "남편은 임신을 원하지 않았다 / My Husband Didn't Want a Pregnancy",
+     "reason": "Search snippets alleged sex during pregnancy, including possible coercion, but the official book page could not be read (403). Not added."
+    },
+    {
+     "title": "Doctor Odyssey (2024–25)",
+     "reason": "Parents-guide notes mention a threesome that leads to pregnancy (conception), not sex while already pregnant. Not added."
+    },
+    {
+     "title": "Des preuves d'amour / Love Letters (2025)",
+     "reason": "Already in the catalog (#1973, also a second card at #3291). Existing tagging is pregnant-lesbian-intimate / lesbian-couple-pregnancy; reviews describe sensual, non-explicit intimacy, not a verified sex-while-pregnant scene, so pregnant-sex was not added."
+    },
+    {
+     "title": "CEO / 'got pregnant' vertical dramas (DramaBox, ReelShort, ShortMax, FlexTV, 红果, etc.)",
+     "reason": "Many 2025–26 shorts use pregnancy after a one-night stand. Sources checked described conception or post-pregnancy romance, not verified sex while the woman was already pregnant. Not added."
+    },
+    {
+     "title": "孕期欢爱 and similar pirate-hosted 'pregnant sex' shorts",
+     "reason": "Titles appeared only on unofficial/pirate pages with no legitimate distributor source. Not added."
+    },
+    {
+     "title": "おかあさん世代の年上ママさんと生Hして孕ませちゃう本4 (DLsite, Nov 2026)",
+     "reason": "The title is an impregnation premise (孕ませ), not clearly sex while already pregnant. Not added."
+    },
+    {
+     "title": "Himegoto Maternity and similar 'try to conceive' manga",
+     "reason": "Plot is newlyweds trying to become pregnant, not sex while already pregnant. Not added."
+    },
+    {
+     "title": "Japanese 2024–26 adult-video listings with pregnancy in the title",
+     "reason": "Individual store pages were not independently verified for character age and a sex-while-already-pregnant plot, so no AV titles were added in this pass."
+    }
+   ],
    "check": {
-    "raw_count": 3,
+    "raw_count": 9,
     "ok": true
    },
    "status": "local"
@@ -12221,10 +12330,10 @@
   "vashikaran-nov11": 9,
   "deep-refresh-nov11": 7,
   "saimin-sweep-nov11": 26,
-  "pregnant-intimacy-nov11": 3
+  "pregnant-intimacy-nov11": 9
  },
- "raw_total": 7572,
- "entry_count": 3818,
+ "raw_total": 7578,
+ "entry_count": 3824,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -12542,7 +12651,7 @@
    "key": "pregnant-sex",
    "label": "Pregnant characters having sex",
    "legend_label": "Pregnant characters having sex",
-   "entry_count": 77
+   "entry_count": 83
   },
   {
    "key": "pregnant-female",
@@ -12554,13 +12663,13 @@
    "key": "pregnant-intimate",
    "label": "Pregnant intimate scenes",
    "legend_label": "Pregnant intimate scenes",
-   "entry_count": 29
+   "entry_count": 30
   },
   {
    "key": "pregnant-lesbian-intimate",
    "label": "Pregnant lesbian couple — intimate/sex scene",
    "legend_label": "Pregnant lesbian couple — intimate/sex scene",
-   "entry_count": 13
+   "entry_count": 14
   },
   {
    "key": "pregnant-walkin",
@@ -588380,6 +588489,480 @@
      "pregnancy_note": "The game includes birth as part of a repeating pregnancy cycle; partner(s) are generated clients in the companionship system"
     }
    }
+  },
+  {
+   "id": 4013,
+   "title": "Sexploration – How Do I Really Want It?",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Documentary feature · Germany · German, with English subtitles · 90 min · written, directed and produced by Liisa Zielke · Academy of Media Arts Cologne (KHM) · premiered 24 Oct 2024 at the Hof International Film Festival",
+   "mechanism": "On-camera lovemaking while Kyra is already pregnant",
+   "confidence_flag": "High · 3+ sources",
+   "summary": "In this documentary about sexual empowerment, six adults choose actions to film. Kyra, already pregnant with her second child in her primary partnership, and her partner Manu decide to make love on camera as a way to affirm pregnancy, their bodies and their relationship.",
+   "character": "Kyra (adult documentary participant, already pregnant with her second child)",
+   "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "Partner in the filmed scene: Manu; Kyra is pregnant within her primary partnership and also has a consensual relationship with Manu. Original title: Sexploration – Wie will ich's wirklich?",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "not stated",
+   "evidence": "The festival synopsis, the official press kit and the academy page all describe a 'making love while pregnant' segment. The press kit names Kyra and Manu and states that Kyra is already pregnant with her second child.",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex",
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Hof International Film Festival",
+     "url": "https://www.hofer-filmtage.com/en/2024/films/sexploration---how-do-i-really-want-it"
+    },
+    {
+     "label": "German Films Quarterly press kit (PDF)",
+     "url": "https://germanfilmsquarterly.de/mediapool/PressKit_SEXPLORATION_Doku_Liisa_Zielke.pdf"
+    },
+    {
+     "label": "Academy of Media Arts Cologne",
+     "url": "https://en.khm.de/studentische_arbeiten/id.31354.sexploration-wie-will-ichs-wirklich/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy-nov11"
+   ],
+   "source_records": [
+    "pregnant-intimacy-nov11:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy-nov11:4": {
+     "pregnant_end": "not stated",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Sexploration – How Do I Really Want It?",
+     "year": "2024",
+     "format": "movie",
+     "meta": "Documentary feature · Germany · German, with English subtitles · 90 min · written, directed and produced by Liisa Zielke · Academy of Media Arts Cologne (KHM) · premiered 24 Oct 2024 at the Hof International Film Festival",
+     "character": "Kyra (adult documentary participant, already pregnant with her second child)",
+     "summary": "In this documentary about sexual empowerment, six adults choose actions to film. Kyra, already pregnant with her second child in her primary partnership, and her partner Manu decide to make love on camera as a way to affirm pregnancy, their bodies and their relationship.",
+     "categories": [
+      "pregnant-sex",
+      "pregnant-intimate"
+     ],
+     "mechanism": "On-camera lovemaking while Kyra is already pregnant",
+     "sources": [
+      {
+       "label": "Hof International Film Festival",
+       "url": "https://www.hofer-filmtage.com/en/2024/films/sexploration---how-do-i-really-want-it"
+      },
+      {
+       "label": "German Films Quarterly press kit (PDF)",
+       "url": "https://germanfilmsquarterly.de/mediapool/PressKit_SEXPLORATION_Doku_Liisa_Zielke.pdf"
+      },
+      {
+       "label": "Academy of Media Arts Cologne",
+       "url": "https://en.khm.de/studentische_arbeiten/id.31354.sexploration-wie-will-ichs-wirklich/"
+      }
+     ],
+     "evidence": "The festival synopsis, the official press kit and the academy page all describe a 'making love while pregnant' segment. The press kit names Kyra and Manu and states that Kyra is already pregnant with her second child.",
+     "confidence_flag": "High · 3+ sources",
+     "pregnancy_note": "Partner in the filmed scene: Manu; Kyra is pregnant within her primary partnership and also has a consensual relationship with Manu. Original title: Sexploration – Wie will ich's wirklich?"
+    }
+   }
+  },
+  {
+   "id": 4014,
+   "title": "The Last of Us — Season 2 (E4 “Day One”)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "TV series episode · United States · English · HBO · Season 2 Episode 4 “Day One” · aired 4 May 2025 · 53 min · directed by Kate Herron · written by Craig Mazin · starring Bella Ramsey and Isabela Merced",
+   "mechanism": "On-screen sex after Dina has already told Ellie she is pregnant",
+   "confidence_flag": "High · 3+ sources",
+   "summary": "After a narrow escape in Seattle, Ellie proves to Dina that she is immune. Dina then tells Ellie she is pregnant. They have sex for the first time, and the next morning they talk about making a family together while continuing their search.",
+   "character": "Dina (Jackson patrol partner; already pregnant with Jesse's child)",
+   "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "Partner in the scene: Ellie. The child's father is Jesse. In Season 2, Ellie is 19 (five years after Season 1). Dina is her adult Jackson peer and patrol partner; her exact age is not officially published, but she is presented as an adult already in a relationship with Jesse.",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "not stated",
+   "evidence": "The episode's Wikipedia plot and two independent interviews/recaps all state that Dina reveals the pregnancy first and that the sex scene follows in the same episode.",
+   "adult": "yes",
+   "format": "tv",
+   "categories": [
+    "pregnant-sex",
+    "pregnant-lesbian-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (Day One episode)",
+     "url": "https://en.wikipedia.org/wiki/Day_One_(The_Last_of_Us)"
+    },
+    {
+     "label": "Elle interview with director Kate Herron",
+     "url": "https://www.elle.com/culture/movies-tv/a64674814/the-last-of-us-season-2-ellie-dina-sex-scene-pregnancy-interview-kate-herron/"
+    },
+    {
+     "label": "TVLine recap",
+     "url": "https://www.tvline.com/recaps/the-last-of-us-ellie-dina-sex-season-2-episode-4-recap-1235442490/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy-nov11"
+   ],
+   "source_records": [
+    "pregnant-intimacy-nov11:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy-nov11:5": {
+     "pregnant_end": "not stated",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "The Last of Us — Season 2 (E4 “Day One”)",
+     "year": "2025",
+     "format": "tv",
+     "meta": "TV series episode · United States · English · HBO · Season 2 Episode 4 “Day One” · aired 4 May 2025 · 53 min · directed by Kate Herron · written by Craig Mazin · starring Bella Ramsey and Isabela Merced",
+     "character": "Dina (Jackson patrol partner; already pregnant with Jesse's child)",
+     "summary": "After a narrow escape in Seattle, Ellie proves to Dina that she is immune. Dina then tells Ellie she is pregnant. They have sex for the first time, and the next morning they talk about making a family together while continuing their search.",
+     "categories": [
+      "pregnant-sex",
+      "pregnant-lesbian-intimate"
+     ],
+     "mechanism": "On-screen sex after Dina has already told Ellie she is pregnant",
+     "sources": [
+      {
+       "label": "Wikipedia (Day One episode)",
+       "url": "https://en.wikipedia.org/wiki/Day_One_(The_Last_of_Us)"
+      },
+      {
+       "label": "Elle interview with director Kate Herron",
+       "url": "https://www.elle.com/culture/movies-tv/a64674814/the-last-of-us-season-2-ellie-dina-sex-scene-pregnancy-interview-kate-herron/"
+      },
+      {
+       "label": "TVLine recap",
+       "url": "https://www.tvline.com/recaps/the-last-of-us-ellie-dina-sex-season-2-episode-4-recap-1235442490/"
+      }
+     ],
+     "evidence": "The episode's Wikipedia plot and two independent interviews/recaps all state that Dina reveals the pregnancy first and that the sex scene follows in the same episode.",
+     "confidence_flag": "High · 3+ sources",
+     "pregnancy_note": "Partner in the scene: Ellie. The child's father is Jesse. In Season 2, Ellie is 19 (five years after Season 1). Dina is her adult Jackson peer and patrol partner; her exact age is not officially published, but she is presented as an adult already in a relationship with Jesse."
+    }
+   }
+  },
+  {
+   "id": 4015,
+   "title": "Birth of a New Realm",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Adult romance / visual novel game · English · Windows, macOS, Linux · Anonymoose Productions · Steam full release 1 May 2026 · 18+",
+   "mechanism": "Player-optional adult scenes that continue after characters are already pregnant",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A player rescued by three women in another realm builds relationships with them. The game is rated 18+ and has a pregnancy-focused system; once a relationship is established, intimate scenes can continue through the course of those pregnancies.",
+   "character": "the three adult romance leads the player is stranded with",
+   "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "The game advertises 13 possible endings and a gallery of pregnancy progression. The official developer site describes an adult romance with a pregnancy focus but does not itself spell out sex during pregnancy; that detail comes from MacGaming.",
+   "kids_status": "varies (game system; multiple pregnancies possible)",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "MacGaming states that players can sleep with the women at night, continuing through the course of their pregnancies. SRec's Steam-derived listing confirms 18+ adult sexual content and a pregnancy-focused system (DEJUS age 18; 'Adult Only Sexual Content'). The official Steam store page was login-walled and could not be read directly.",
+   "adult": "yes",
+   "format": "game",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "MacGaming",
+     "url": "https://www.macgaming.com/news/birth-of-a-new-realm-for-mac-choice-driven-adult-romance-in-a-stranded-fantasy-universe"
+    },
+    {
+     "label": "SRec (Steam metadata)",
+     "url": "https://srec.ai/app/4444350"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy-nov11"
+   ],
+   "source_records": [
+    "pregnant-intimacy-nov11:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy-nov11:6": {
+     "pregnant_end": "yes",
+     "kids_status": "varies (game system; multiple pregnancies possible)",
+     "kids_together": "no",
+     "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Birth of a New Realm",
+     "year": "2026",
+     "format": "game",
+     "meta": "Adult romance / visual novel game · English · Windows, macOS, Linux · Anonymoose Productions · Steam full release 1 May 2026 · 18+",
+     "character": "the three adult romance leads the player is stranded with",
+     "summary": "A player rescued by three women in another realm builds relationships with them. The game is rated 18+ and has a pregnancy-focused system; once a relationship is established, intimate scenes can continue through the course of those pregnancies.",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "mechanism": "Player-optional adult scenes that continue after characters are already pregnant",
+     "sources": [
+      {
+       "label": "MacGaming",
+       "url": "https://www.macgaming.com/news/birth-of-a-new-realm-for-mac-choice-driven-adult-romance-in-a-stranded-fantasy-universe"
+      },
+      {
+       "label": "SRec (Steam metadata)",
+       "url": "https://srec.ai/app/4444350"
+      }
+     ],
+     "evidence": "MacGaming states that players can sleep with the women at night, continuing through the course of their pregnancies. SRec's Steam-derived listing confirms 18+ adult sexual content and a pregnancy-focused system (DEJUS age 18; 'Adult Only Sexual Content'). The official Steam store page was login-walled and could not be read directly.",
+     "confidence_flag": "Medium · 2 sources",
+     "pregnancy_note": "The game advertises 13 possible endings and a gallery of pregnancy progression. The official developer site describes an adult romance with a pregnancy focus but does not itself spell out sex during pregnancy; that detail comes from MacGaming."
+    }
+   }
+  },
+  {
+   "id": 4016,
+   "title": "ZeroZeroZero",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "TV mini-series · Italy / international · English, Spanish, Italian and others · 8 episodes · created by Stefano Sollima, Leonardo Fasoli and Mauricio Katz · Sky Atlantic / Amazon Prime Video · Italian premiere 14 Feb 2020",
+   "mechanism": "On-screen intimacy involving a pregnant woman",
+   "confidence_flag": "Single source · flag",
+   "summary": "In this crime drama about a cocaine shipment moving from Mexico to Italy, a parents guide notes a scene in which a man performs oral sex on a pregnant woman.",
+   "character": "a pregnant woman (not named in the parents-guide source used)",
+   "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "Single-source entry. Wikipedia separately notes that Diego's widow Chiquitita is pregnant and later gives birth, but that plot line is not explicitly tied to the parents-guide scene in the source used.",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "not stated",
+   "evidence": "Bontent's parents guide describes oral sex involving a topless pregnant woman. IMDb's parents guide could not be retrieved (timeout / empty response), and episode recaps checked did not independently describe the scene, so the character and episode are not named here.",
+   "adult": "yes",
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Bontent parents guide",
+     "url": "https://glimpse.bontent.app/parent-guide/series/zerozerozero-2020"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy-nov11"
+   ],
+   "source_records": [
+    "pregnant-intimacy-nov11:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy-nov11:7": {
+     "pregnant_end": "not stated",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "ZeroZeroZero",
+     "year": "2020",
+     "format": "tv",
+     "meta": "TV mini-series · Italy / international · English, Spanish, Italian and others · 8 episodes · created by Stefano Sollima, Leonardo Fasoli and Mauricio Katz · Sky Atlantic / Amazon Prime Video · Italian premiere 14 Feb 2020",
+     "character": "a pregnant woman (not named in the parents-guide source used)",
+     "summary": "In this crime drama about a cocaine shipment moving from Mexico to Italy, a parents guide notes a scene in which a man performs oral sex on a pregnant woman.",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "mechanism": "On-screen intimacy involving a pregnant woman",
+     "sources": [
+      {
+       "label": "Bontent parents guide",
+       "url": "https://glimpse.bontent.app/parent-guide/series/zerozerozero-2020"
+      }
+     ],
+     "evidence": "Bontent's parents guide describes oral sex involving a topless pregnant woman. IMDb's parents guide could not be retrieved (timeout / empty response), and episode recaps checked did not independently describe the scene, so the character and episode are not named here.",
+     "confidence_flag": "Single source · flag",
+     "pregnancy_note": "Single-source entry. Wikipedia separately notes that Diego's widow Chiquitita is pregnant and later gives birth, but that plot line is not explicitly tied to the parents-guide scene in the source used."
+    }
+   }
+  },
+  {
+   "id": 4017,
+   "title": "Oh, Baby!",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Short film · United States · English · about 10–10.5 min · directed by Brooke Trantor · written with Kate Morgan Chadwick · completed 2020 · premiered at Dances With Films 2021 · starring Kate Morgan Chadwick and TJ Linnard",
+   "mechanism": "The date is built around Jane's request for sex while she is already pregnant; the director also discusses filming an intimate scene",
+   "confidence_flag": "High · 3+ sources",
+   "summary": "Jane goes on an internet date hoping for a one-night stand. After Ben arrives, she tells him she is already very pregnant and still wants to have sex that night. The short follows their connection in the present rather than planning a shared future.",
+   "character": "Jane (already very pregnant)",
+   "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "Partner in the scene: Ben, Jane's date. Festival materials date the short to 2020; it premiered at Dances With Films in 2021.",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "not stated",
+   "evidence": "A 2021 festival review states that Jane confesses she is very pregnant and wants sex that night. The festival listing describes a one-night stand before an impending arrival. An interview with the director discusses shooting an intimate scene and the choice to show a woman's sexuality while pregnant.",
+   "adult": "yes",
+   "format": "short",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Film Threat (Dances With Films 2021 review)",
+     "url": "https://filmthreat.com/reviews/oh-baby/"
+    },
+    {
+     "label": "Dances With Films listing",
+     "url": "https://danceswithfilms.com/oh-baby/"
+    },
+    {
+     "label": "Final Draft interview with Brooke Trantor",
+     "url": "https://www.finaldraft.com/blog/oh-baby-creates-lovely-afterglow-at-dances-with-films"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy-nov11"
+   ],
+   "source_records": [
+    "pregnant-intimacy-nov11:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy-nov11:8": {
+     "pregnant_end": "not stated",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Oh, Baby!",
+     "year": "2021",
+     "format": "short",
+     "meta": "Short film · United States · English · about 10–10.5 min · directed by Brooke Trantor · written with Kate Morgan Chadwick · completed 2020 · premiered at Dances With Films 2021 · starring Kate Morgan Chadwick and TJ Linnard",
+     "character": "Jane (already very pregnant)",
+     "summary": "Jane goes on an internet date hoping for a one-night stand. After Ben arrives, she tells him she is already very pregnant and still wants to have sex that night. The short follows their connection in the present rather than planning a shared future.",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "mechanism": "The date is built around Jane's request for sex while she is already pregnant; the director also discusses filming an intimate scene",
+     "sources": [
+      {
+       "label": "Film Threat (Dances With Films 2021 review)",
+       "url": "https://filmthreat.com/reviews/oh-baby/"
+      },
+      {
+       "label": "Dances With Films listing",
+       "url": "https://danceswithfilms.com/oh-baby/"
+      },
+      {
+       "label": "Final Draft interview with Brooke Trantor",
+       "url": "https://www.finaldraft.com/blog/oh-baby-creates-lovely-afterglow-at-dances-with-films"
+      }
+     ],
+     "evidence": "A 2021 festival review states that Jane confesses she is very pregnant and wants sex that night. The festival listing describes a one-night stand before an impending arrival. An interview with the director discusses shooting an intimate scene and the choice to show a woman's sexuality while pregnant.",
+     "confidence_flag": "High · 3+ sources",
+     "pregnancy_note": "Partner in the scene: Ben, Jane's date. Festival materials date the short to 2020; it premiered at Dances With Films in 2021."
+    }
+   }
+  },
+  {
+   "id": 4018,
+   "title": "Cravings",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Erotic short film · United States · English · 10 min · directed by Ori Pinch · starring Maxine Holloway and Mickey Mod · screened at the Fish&Chips Film Festival",
+   "mechanism": "The festival synopsis describes a hookup involving a visibly pregnant woman",
+   "confidence_flag": "Single source · flag",
+   "summary": "A short about a summer hookup that presents a pregnant woman as a sexual adult, pairing pregnancy food cravings with a desire for intimacy.",
+   "character": "a pregnant woman (portrayed by Maxine Holloway)",
+   "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "Single-source entry. Partner in the scene: the character played by Mickey Mod.",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "not stated",
+   "evidence": "The festival page describes a steamy summer hookup starring Maxine Holloway 'and her beautiful baby bump,' and says the film explores how pregnant people can be sexual beings. No second independent source was retrieved.",
+   "adult": "yes",
+   "format": "short",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Fish&Chips Film Festival",
+     "url": "https://fishandchipsfilmfestival.it/en/film/cravings/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy-nov11"
+   ],
+   "source_records": [
+    "pregnant-intimacy-nov11:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy-nov11:9": {
+     "pregnant_end": "not stated",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Pregnant-character intimacy deep search, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Cravings",
+     "year": "2021",
+     "format": "short",
+     "meta": "Erotic short film · United States · English · 10 min · directed by Ori Pinch · starring Maxine Holloway and Mickey Mod · screened at the Fish&Chips Film Festival",
+     "character": "a pregnant woman (portrayed by Maxine Holloway)",
+     "summary": "A short about a summer hookup that presents a pregnant woman as a sexual adult, pairing pregnancy food cravings with a desire for intimacy.",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "mechanism": "The festival synopsis describes a hookup involving a visibly pregnant woman",
+     "sources": [
+      {
+       "label": "Fish&Chips Film Festival",
+       "url": "https://fishandchipsfilmfestival.it/en/film/cravings/"
+      }
+     ],
+     "evidence": "The festival page describes a steamy summer hookup starring Maxine Holloway 'and her beautiful baby bump,' and says the film explores how pregnant people can be sexual beings. No second independent source was retrieved.",
+     "confidence_flag": "Single source · flag",
+     "pregnancy_note": "Single-source entry. Partner in the scene: the character played by Mickey Mod."
+    }
+   }
   }
  ],
  "sections": [
@@ -629957,7 +630540,15 @@
      "notes": [],
      "items": [
       {
+       "id": 4015,
+       "from_source": "pregnant-intimacy-nov11"
+      },
+      {
        "id": 4011,
+       "from_source": "pregnant-intimacy-nov11"
+      },
+      {
+       "id": 4018,
        "from_source": "pregnant-intimacy-nov11"
       },
       {
@@ -629966,6 +630557,22 @@
       },
       {
        "id": 4010,
+       "from_source": "pregnant-intimacy-nov11"
+      },
+      {
+       "id": 4014,
+       "from_source": "pregnant-intimacy-nov11"
+      },
+      {
+       "id": 4017,
+       "from_source": "pregnant-intimacy-nov11"
+      },
+      {
+       "id": 4013,
+       "from_source": "pregnant-intimacy-nov11"
+      },
+      {
+       "id": 4016,
        "from_source": "pregnant-intimacy-nov11"
       }
      ],
@@ -630404,6 +631011,10 @@
       {
        "id": 4010,
        "from_source": "pregnant-intimacy-nov11"
+      },
+      {
+       "id": 4013,
+       "from_source": "pregnant-intimacy-nov11"
       }
      ],
      "from_source": "pregnant-intimacy-nov11"
@@ -630438,7 +631049,8 @@
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "pregnant-intimate-oct25"
+    "pregnant-intimate-oct25",
+    "pregnant-intimacy-nov11"
    ],
    "groups": [
     {
@@ -630539,10 +631151,22 @@
       }
      ],
      "from_source": "pregnant-intimate-oct25"
+    },
+    {
+     "title": "Pregnant female characters: plot-relevant intimacy between adults",
+     "notes": [],
+     "items": [
+      {
+       "id": 4014,
+       "from_source": "pregnant-intimacy-nov11"
+      }
+     ],
+     "from_source": "pregnant-intimacy-nov11"
     }
    ],
    "declared_count_by_source": {
-    "pregnant-intimate-oct25": null
+    "pregnant-intimate-oct25": null,
+    "pregnant-intimacy-nov11": null
    }
   },
   {
