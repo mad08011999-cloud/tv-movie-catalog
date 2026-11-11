@@ -12047,6 +12047,19 @@ window.CATALOG = {
    "status": "local"
   },
   {
+   "id": "hypnosis-nov11",
+   "label": "All-media female hypnosis deep search (11 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/hypnosis-nov11.json",
+   "description": "Worldwide all-media sweep (TV episode guides, soaps, anime, games, comics, silent film, C-drama) for adult female characters who are hypnotised, brainwashed or mind-controlled. Possession, curses and magic that isn't explicit mind control are excluded, as are minors and children's shows. Fields not given by the sources are 'not stated'.",
+   "dropped": [],
+   "check": {
+    "raw_count": 22,
+    "ok": true
+   },
+   "status": "local"
+  },
+  {
    "id": "saimin-sweep-nov11",
    "label": "Saimin / hypnosis sweep (11 Nov 2026)",
    "kind": "local",
@@ -12398,12 +12411,13 @@ window.CATALOG = {
   "weekly-nov09": 1,
   "vashikaran-nov11": 9,
   "deep-refresh-nov11": 7,
+  "hypnosis-nov11": 22,
   "saimin-sweep-nov11": 26,
   "pregnant-intimacy-nov11": 9,
   "partner-hypnosis-nov11": 18
  },
- "raw_total": 7596,
- "entry_count": 3826,
+ "raw_total": 7618,
+ "entry_count": 3848,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -12439,7 +12453,7 @@ window.CATALOG = {
    "key": "index-62",
    "label": "Comedy",
    "legend_label": "Comedy",
-   "entry_count": 34
+   "entry_count": 36
   },
   {
    "key": "index-61",
@@ -12451,7 +12465,7 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 61
+   "entry_count": 63
   },
   {
    "key": "occult",
@@ -12475,13 +12489,13 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 127
+   "entry_count": 129
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 316
+   "entry_count": 317
   },
   {
    "key": "child-controller",
@@ -12511,7 +12525,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 371
+   "entry_count": 383
   },
   {
    "key": "index-56",
@@ -12535,7 +12549,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 719
+   "entry_count": 724
   },
   {
    "key": "wife",
@@ -12559,31 +12573,31 @@ window.CATALOG = {
    "key": "hypnotized-marriage",
    "label": "Hypnotised / spell-bound into marriage (or married while under control)",
    "legend_label": "Hypnotised / spell-bound into marriage (or married while under control)",
-   "entry_count": 51
+   "entry_count": 52
   },
   {
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
-   "entry_count": 39
+   "entry_count": 40
   },
   {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 196
+   "entry_count": 199
   },
   {
    "key": "royal-hypnosis",
    "label": "Hypnotized queen/princess for marriage or the throne",
    "legend_label": "Hypnotized queen / princess",
-   "entry_count": 59
+   "entry_count": 60
   },
   {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 238
+   "entry_count": 239
   },
   {
    "key": "hypno-intimacy",
@@ -12613,7 +12627,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 274
+   "entry_count": 279
   },
   {
    "key": "mom-partner-control",
@@ -12625,7 +12639,7 @@ window.CATALOG = {
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 117
+   "entry_count": 121
   },
   {
    "key": "mom-pregnancy",
@@ -12643,7 +12657,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 476
+   "entry_count": 478
   },
   {
    "key": "parents-sleeping",
@@ -12697,7 +12711,7 @@ window.CATALOG = {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
    "legend_label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 50
+   "entry_count": 51
   },
   {
    "key": "pregnancy-adjacent",
@@ -12775,7 +12789,7 @@ window.CATALOG = {
    "key": "index-37",
    "label": "Pregnant woman hypnotized / mind-controlled",
    "legend_label": "Pregnant woman hypnotized / mind-controlled",
-   "entry_count": 17
+   "entry_count": 19
   },
   {
    "key": "pregnant-strict",
@@ -12853,7 +12867,7 @@ window.CATALOG = {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 409
+   "entry_count": 418
   },
   {
    "key": "family",
@@ -12937,7 +12951,7 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 170
+   "entry_count": 174
   },
   {
    "key": "therapist-wife",
@@ -436432,7 +436446,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    4021
+    4043
    ]
   },
   {
@@ -587429,6 +587443,2510 @@ window.CATALOG = {
   },
   {
    "id": 3984,
+   "title": "Star Trek: Voyager — \"Workforce\"",
+   "subtitle": "",
+   "year": "2001",
+   "meta": "TV episode · USA · English · UPN · Season 7, Episodes 16–17 (two-parter) · aired 21 & 28 Feb 2001",
+   "mechanism": "memory replacement / brainwashing to supply workers",
+   "confidence_flag": "high",
+   "summary": "The Voyager crew is brainwashed into taking new jobs on an industrialised planet with a labour shortage. With her memory replaced, Janeway works at the power plant and falls for a local man, Jaffen. B'Elanna, who is pregnant, also works at the plant with her memory wiped and meets Tom Paris as a stranger. The Doctor, Chakotay, Kim and Neelix rescue the crew and restore their memories.",
+   "character": "Captain Kathryn Janeway (Kate Mulgrew); also B'Elanna Torres (Roxann Dawson) and Seven of Nine",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "B'Elanna's pregnancy with Tom Paris's child is established in 'Lineage' (aired 24 Jan 2001) and she is described as pregnant in 'Workforce'",
+   "episodes": [
+    {
+     "episode": "S07E16 Workforce, Part I",
+     "gist": "crew brainwashed into jobs on the Quarra homeworld; Janeway meets Jaffen"
+    },
+    {
+     "episode": "S07E17 Workforce, Part II",
+     "gist": "rescue and restoration of memories"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "the Quarren authorities",
+   "gain_motive": [
+    "labour / forced work"
+   ],
+   "method": "memory-wipe brainwashing (technological)",
+   "kids_status": "no — none of the women had children before",
+   "kids_note": "B'Elanna was pregnant (first child); Janeway had no children",
+   "kids_together": "B'Elanna and Tom: their daughter is born later in the series ('Endgame'); Janeway and Jaffen: no",
+   "married": "yes",
+   "pregnant_end": "yes — B'Elanna is pregnant with Tom Paris's child throughout the episode",
+   "pregnant_end_note": "B'Elanna is still pregnant at the end (by her husband Tom Paris); Janeway is not pregnant",
+   "evidence": "Wikipedia episode article plus 'Lineage' article for the pregnancy",
+   "already_married": "B'Elanna: yes (Tom Paris); Janeway: no",
+   "format": "TV episode",
+   "categories": [
+    "scifi",
+    "forced-obedience",
+    "love",
+    "index-37"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Star Trek: Voyager (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/star-trek-voyager"
+    },
+    {
+     "label": "Wikipedia — Workforce (episode plot)",
+     "url": "https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)"
+    },
+    {
+     "label": "Wikipedia — Lineage (B'Elanna and Tom's pregnancy)",
+     "url": "https://en.wikipedia.org/wiki/Lineage_(Star_Trek:_Voyager)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:1": {
+     "fit": "core",
+     "already_married": "B'Elanna: yes (Tom Paris); Janeway: no",
+     "married": "yes",
+     "pregnant_end": "yes — B'Elanna is pregnant with Tom Paris's child throughout the episode",
+     "pregnancy_note": "B'Elanna's pregnancy with Tom Paris's child is established in 'Lineage' (aired 24 Jan 2001) and she is described as pregnant in 'Workforce'",
+     "pregnant_end_note": "B'Elanna is still pregnant at the end (by her husband Tom Paris); Janeway is not pregnant",
+     "kids_status": "no — none of the women had children before",
+     "kids_together": "B'Elanna and Tom: their daughter is born later in the series ('Endgame'); Janeway and Jaffen: no",
+     "kids_note": "B'Elanna was pregnant (first child); Janeway had no children",
+     "episodes": [
+      {
+       "episode": "S07E16 Workforce, Part I",
+       "gist": "crew brainwashed into jobs on the Quarra homeworld; Janeway meets Jaffen"
+      },
+      {
+       "episode": "S07E17 Workforce, Part II",
+       "gist": "rescue and restoration of memories"
+      }
+     ],
+     "gain_motive": [
+      "labour / forced work"
+     ],
+     "hypnotist": "the Quarren authorities",
+     "method": "memory-wipe brainwashing (technological)",
+     "title": "Star Trek: Voyager — \"Workforce\"",
+     "year": "2001",
+     "format": "TV episode",
+     "meta": "TV episode · USA · English · UPN · Season 7, Episodes 16–17 (two-parter) · aired 21 & 28 Feb 2001",
+     "character": "Captain Kathryn Janeway (Kate Mulgrew); also B'Elanna Torres (Roxann Dawson) and Seven of Nine",
+     "summary": "The Voyager crew is brainwashed into taking new jobs on an industrialised planet with a labour shortage. With her memory replaced, Janeway works at the power plant and falls for a local man, Jaffen. B'Elanna, who is pregnant, also works at the plant with her memory wiped and meets Tom Paris as a stranger. The Doctor, Chakotay, Kim and Neelix rescue the crew and restore their memories.",
+     "mechanism": "memory replacement / brainwashing to supply workers",
+     "categories": [
+      "scifi",
+      "forced-obedience",
+      "love",
+      "index-37"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch — Star Trek: Voyager (where to watch)",
+       "url": "https://www.justwatch.com/us/tv-show/star-trek-voyager"
+      },
+      {
+       "label": "Wikipedia — Workforce (episode plot)",
+       "url": "https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)"
+      },
+      {
+       "label": "Wikipedia — Lineage (B'Elanna and Tom's pregnancy)",
+       "url": "https://en.wikipedia.org/wiki/Lineage_(Star_Trek:_Voyager)"
+      }
+     ],
+     "evidence": "Wikipedia episode article plus 'Lineage' article for the pregnancy",
+     "confidence_flag": "high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3985,
+   "title": "Star Trek: Voyager — \"Retrospect\"",
+   "subtitle": "",
+   "year": "1998",
+   "meta": "TV episode · USA · English · UPN · Season 4, Episode 17 · aired 25 Feb 1998",
+   "mechanism": "hypnotic regression",
+   "confidence_flag": "high",
+   "summary": "After Seven of Nine strikes the arms dealer Kovin, the Doctor puts her under hypnosis. In the trance she 'recalls' Kovin forcibly removing Borg technology from her body. The memory turns out to be unreliable, Kovin dies fleeing, and the Doctor regrets using hypnosis on her.",
+   "character": "Seven of Nine (Jeri Ryan)",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "S04E17 Retrospect",
+     "gist": "Doctor hypnotises Seven; she recovers a false 'repressed memory'"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "the Doctor (EMH)",
+   "gain_motive": [
+    "recover a memory"
+   ],
+   "method": "therapeutic hypnosis (memory regression)",
+   "kids_status": "no",
+   "kids_note": "no children",
+   "kids_together": "no",
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy",
+   "evidence": "Wikipedia episode article",
+   "already_married": "no",
+   "format": "TV episode",
+   "categories": [
+    "medical",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Star Trek: Voyager (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/star-trek-voyager"
+    },
+    {
+     "label": "Wikipedia — Retrospect (episode plot)",
+     "url": "https://en.wikipedia.org/wiki/Retrospect_(Star_Trek:_Voyager)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:2": {
+     "fit": "core",
+     "already_married": "no",
+     "married": "no",
+     "pregnant_end": "no",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "no pregnancy",
+     "kids_status": "no",
+     "kids_together": "no",
+     "kids_note": "no children",
+     "episodes": [
+      {
+       "episode": "S04E17 Retrospect",
+       "gist": "Doctor hypnotises Seven; she recovers a false 'repressed memory'"
+      }
+     ],
+     "gain_motive": [
+      "recover a memory"
+     ],
+     "hypnotist": "the Doctor (EMH)",
+     "method": "therapeutic hypnosis (memory regression)",
+     "title": "Star Trek: Voyager — \"Retrospect\"",
+     "year": "1998",
+     "format": "TV episode",
+     "meta": "TV episode · USA · English · UPN · Season 4, Episode 17 · aired 25 Feb 1998",
+     "character": "Seven of Nine (Jeri Ryan)",
+     "summary": "After Seven of Nine strikes the arms dealer Kovin, the Doctor puts her under hypnosis. In the trance she 'recalls' Kovin forcibly removing Borg technology from her body. The memory turns out to be unreliable, Kovin dies fleeing, and the Doctor regrets using hypnosis on her.",
+     "mechanism": "hypnotic regression",
+     "categories": [
+      "medical",
+      "scifi"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch — Star Trek: Voyager (where to watch)",
+       "url": "https://www.justwatch.com/us/tv-show/star-trek-voyager"
+      },
+      {
+       "label": "Wikipedia — Retrospect (episode plot)",
+       "url": "https://en.wikipedia.org/wiki/Retrospect_(Star_Trek:_Voyager)"
+      }
+     ],
+     "evidence": "Wikipedia episode article",
+     "confidence_flag": "high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3986,
+   "title": "The Avengers — \"Return of the Cybernauts\"",
+   "subtitle": "",
+   "year": "1967",
+   "meta": "TV episode · UK · English · ABC (ITV) · Series 5 (colour Emma Peel season) · aired 27 Sep 1967",
+   "mechanism": "control device",
+   "confidence_flag": "medium: the two sources describe the device differently",
+   "summary": "Scientists are being kidnapped by Paul Beresford, who wants revenge for his brother's death in the first Cybernauts episode. He courts Emma Peel and gives her a gift (a wristwatch/bracelet) that is really a control device, so the Cybernauts can home in on her and she becomes his pawn against Steed.",
+   "character": "Mrs. Emma Peel (Diana Rigg)",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "Return of the Cybernauts (1967)",
+     "gist": "Beresford's gift is a control device placed on Emma Peel"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "hypnotist": "Paul Beresford (Peter Cushing)",
+   "gain_motive": [
+    "revenge"
+   ],
+   "method": "mind-control bracelet / watch",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "Wikipedia describes the watch as a homing device; TV Tropes describes it as a mind-control device",
+   "already_married": "not stated",
+   "format": "TV episode",
+   "categories": [
+    "tech",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — The Avengers (1961) (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/the-avengers"
+    },
+    {
+     "label": "Wikipedia — List of The Avengers episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_The_Avengers_(TV_series)_episodes"
+    },
+    {
+     "label": "TV Tropes — Hypno Trinket (mind-control bracelet)",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoTrinket"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:3": {
+     "fit": "loose",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [
+      {
+       "episode": "Return of the Cybernauts (1967)",
+       "gist": "Beresford's gift is a control device placed on Emma Peel"
+      }
+     ],
+     "gain_motive": [
+      "revenge"
+     ],
+     "hypnotist": "Paul Beresford (Peter Cushing)",
+     "method": "mind-control bracelet / watch",
+     "title": "The Avengers — \"Return of the Cybernauts\"",
+     "year": "1967",
+     "format": "TV episode",
+     "meta": "TV episode · UK · English · ABC (ITV) · Series 5 (colour Emma Peel season) · aired 27 Sep 1967",
+     "character": "Mrs. Emma Peel (Diana Rigg)",
+     "summary": "Scientists are being kidnapped by Paul Beresford, who wants revenge for his brother's death in the first Cybernauts episode. He courts Emma Peel and gives her a gift (a wristwatch/bracelet) that is really a control device, so the Cybernauts can home in on her and she becomes his pawn against Steed.",
+     "mechanism": "control device",
+     "categories": [
+      "tech",
+      "forced-obedience"
+     ],
+     "tags": [
+      "hypnosis-nov11",
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch — The Avengers (1961) (where to watch)",
+       "url": "https://www.justwatch.com/us/tv-show/the-avengers"
+      },
+      {
+       "label": "Wikipedia — List of The Avengers episodes (plot)",
+       "url": "https://en.wikipedia.org/wiki/List_of_The_Avengers_(TV_series)_episodes"
+      },
+      {
+       "label": "TV Tropes — Hypno Trinket (mind-control bracelet)",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoTrinket"
+      }
+     ],
+     "evidence": "Wikipedia describes the watch as a homing device; TV Tropes describes it as a mind-control device",
+     "confidence_flag": "medium: the two sources describe the device differently",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3987,
+   "title": "Doctor Who — \"The Armageddon Factor\"",
+   "subtitle": "",
+   "year": "1979",
+   "meta": "TV serial · UK · English · BBC One · Season 16, serial 6 (6 parts) · Jan–Feb 1979",
+   "mechanism": "control device",
+   "confidence_flag": "medium-high",
+   "summary": "Princess Astra, ruler of Atrios, is kidnapped by the Shadow, servant of the Black Guardian, because she is the sixth segment of the Key to Time. The Shadow fits his prisoners with control devices; when Astra rejoins the Doctor she seems to have escaped but has in fact been made the Shadow's pawn.",
+   "character": "Princess Astra of Atrios (Lalla Ward)",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "the Shadow (agent of the Black Guardian)",
+   "gain_motive": [
+    "power / the Key to Time"
+   ],
+   "method": "mind-control device",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "Wikipedia plot plus TV Tropes",
+   "already_married": "no",
+   "format": "TV serial",
+   "categories": [
+    "scifi",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Doctor Who (1963) (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/doctor-who-1963"
+    },
+    {
+     "label": "Wikipedia — The Armageddon Factor (plot)",
+     "url": "https://en.wikipedia.org/wiki/The_Armageddon_Factor"
+    },
+    {
+     "label": "TV Tropes — Hypno Trinket",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoTrinket"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:4": {
+     "fit": "core",
+     "already_married": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [],
+     "gain_motive": [
+      "power / the Key to Time"
+     ],
+     "hypnotist": "the Shadow (agent of the Black Guardian)",
+     "method": "mind-control device",
+     "title": "Doctor Who — \"The Armageddon Factor\"",
+     "year": "1979",
+     "format": "TV serial",
+     "meta": "TV serial · UK · English · BBC One · Season 16, serial 6 (6 parts) · Jan–Feb 1979",
+     "character": "Princess Astra of Atrios (Lalla Ward)",
+     "summary": "Princess Astra, ruler of Atrios, is kidnapped by the Shadow, servant of the Black Guardian, because she is the sixth segment of the Key to Time. The Shadow fits his prisoners with control devices; when Astra rejoins the Doctor she seems to have escaped but has in fact been made the Shadow's pawn.",
+     "mechanism": "control device",
+     "categories": [
+      "scifi",
+      "forced-obedience"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch — Doctor Who (1963) (where to watch)",
+       "url": "https://www.justwatch.com/us/tv-show/doctor-who-1963"
+      },
+      {
+       "label": "Wikipedia — The Armageddon Factor (plot)",
+       "url": "https://en.wikipedia.org/wiki/The_Armageddon_Factor"
+      },
+      {
+       "label": "TV Tropes — Hypno Trinket",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoTrinket"
+      }
+     ],
+     "evidence": "Wikipedia plot plus TV Tropes",
+     "confidence_flag": "medium-high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3988,
+   "title": "Blake's 7 — \"Animals\"",
+   "subtitle": "",
+   "year": "1981",
+   "meta": "TV episode · UK · English · BBC One · Series 4, Episode 5 · aired 26 Oct 1981",
+   "mechanism": "brainwashing",
+   "confidence_flag": "high",
+   "summary": "On Bucol II, Dayna seeks out the geneticist Justin to help make an antidote to the Federation's pacification drug. Servalan learns of Justin's secret project, captures Dayna and brainwashes her into helping capture her friend.",
+   "character": "Dayna Mellanby (Josette Simon)",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "S04E05 Animals",
+     "gist": "Servalan brainwashes Dayna to help capture Justin"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "Servalan",
+   "gain_motive": [
+    "capture an enemy"
+   ],
+   "method": "brainwashing",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "Wikipedia episode summary",
+   "already_married": "not stated",
+   "format": "TV episode",
+   "categories": [
+    "scifi",
+    "forced-obedience",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Blake's 7 (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/blakes-7"
+    },
+    {
+     "label": "Wikipedia — List of Blake's 7 episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Blake%27s_7_episodes"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:5": {
+     "fit": "core",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [
+      {
+       "episode": "S04E05 Animals",
+       "gist": "Servalan brainwashes Dayna to help capture Justin"
+      }
+     ],
+     "gain_motive": [
+      "capture an enemy"
+     ],
+     "hypnotist": "Servalan",
+     "method": "brainwashing",
+     "title": "Blake's 7 — \"Animals\"",
+     "year": "1981",
+     "format": "TV episode",
+     "meta": "TV episode · UK · English · BBC One · Series 4, Episode 5 · aired 26 Oct 1981",
+     "character": "Dayna Mellanby (Josette Simon)",
+     "summary": "On Bucol II, Dayna seeks out the geneticist Justin to help make an antidote to the Federation's pacification drug. Servalan learns of Justin's secret project, captures Dayna and brainwashes her into helping capture her friend.",
+     "mechanism": "brainwashing",
+     "categories": [
+      "scifi",
+      "forced-obedience",
+      "human"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch — Blake's 7 (where to watch)",
+       "url": "https://www.justwatch.com/us/tv-show/blakes-7"
+      },
+      {
+       "label": "Wikipedia — List of Blake's 7 episodes (plot)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Blake%27s_7_episodes"
+      }
+     ],
+     "evidence": "Wikipedia episode summary",
+     "confidence_flag": "high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3989,
+   "title": "New Tricks — \"Magic Majestic\"",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "TV episode · UK · English · BBC One · Series 5, Episode 6 · aired 11 Aug 2008",
+   "mechanism": "post-hypnotic suggestion",
+   "confidence_flag": "high",
+   "summary": "Brian believes Katie Briers, who killed her husband ten years earlier, was hypnotised into doing it by the stage magician Billy Carse. UCOS reopen the case and find that the hypnosis script used on her contained suggestive language Carse could not have written himself.",
+   "character": "Katie Briers",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "S05E06 Magic Majestic",
+     "gist": "cold case of a wife hypnotised into killing her husband"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "stage magician Billy Carse (script secretly altered by someone else)",
+   "gain_motive": [
+    "ruin the magician / murder"
+   ],
+   "method": "stage hypnosis with post-hypnotic suggestion",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "yes",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "Wikipedia episode summary",
+   "already_married": "yes",
+   "format": "TV episode",
+   "categories": [
+    "crime",
+    "wife-hypnotized",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — New Tricks (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/new-tricks"
+    },
+    {
+     "label": "Wikipedia — List of New Tricks episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_New_Tricks_episodes"
+    },
+    {
+     "label": "Radio Times — S5-E6 Magic Majestic",
+     "url": "http://www.radiotimes.com/tv-programme/e/c6q5/new-tricks--s5-e6-magic-majestic"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:6": {
+     "fit": "core",
+     "already_married": "yes",
+     "married": "yes",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [
+      {
+       "episode": "S05E06 Magic Majestic",
+       "gist": "cold case of a wife hypnotised into killing her husband"
+      }
+     ],
+     "gain_motive": [
+      "ruin the magician / murder"
+     ],
+     "hypnotist": "stage magician Billy Carse (script secretly altered by someone else)",
+     "method": "stage hypnosis with post-hypnotic suggestion",
+     "title": "New Tricks — \"Magic Majestic\"",
+     "year": "2008",
+     "format": "TV episode",
+     "meta": "TV episode · UK · English · BBC One · Series 5, Episode 6 · aired 11 Aug 2008",
+     "character": "Katie Briers",
+     "summary": "Brian believes Katie Briers, who killed her husband ten years earlier, was hypnotised into doing it by the stage magician Billy Carse. UCOS reopen the case and find that the hypnosis script used on her contained suggestive language Carse could not have written himself.",
+     "mechanism": "post-hypnotic suggestion",
+     "categories": [
+      "crime",
+      "wife-hypnotized",
+      "human"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch — New Tricks (where to watch)",
+       "url": "https://www.justwatch.com/us/tv-show/new-tricks"
+      },
+      {
+       "label": "Wikipedia — List of New Tricks episodes (plot)",
+       "url": "https://en.wikipedia.org/wiki/List_of_New_Tricks_episodes"
+      },
+      {
+       "label": "Radio Times — S5-E6 Magic Majestic",
+       "url": "http://www.radiotimes.com/tv-programme/e/c6q5/new-tricks--s5-e6-magic-majestic"
+      }
+     ],
+     "evidence": "Wikipedia episode summary",
+     "confidence_flag": "high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3990,
+   "title": "Temperatures Rising — \"Ellen's Flip Side\"",
+   "subtitle": "",
+   "year": "1972",
+   "meta": "TV episode · USA · English · ABC · Season 1, Episode 4 · aired 3 Oct 1972 · sitcom",
+   "mechanism": "hypnotic suggestion",
+   "confidence_flag": "high for the plot; no streaming source",
+   "summary": "To cure a patient of her fear of doctors, Dr. Noland poses as a hairdresser and hypnotises her into loving and trusting doctors. By accident he hypnotises the demure student nurse Ellen as well, turning her into the hospital vamp.",
+   "character": "a patient afraid of doctors (Alice Ghostley) and student nurse Ellen",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "S01E04 Ellen's Flip Side",
+     "gist": "patient hypnotised to trust doctors; nurse Ellen accidentally hypnotised into a vamp"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "Dr. Jerry Noland (James Whitmore Jr.)",
+   "gain_motive": [
+    "cure a phobia (accidental side effect)"
+   ],
+   "method": "hypnosis",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "Wikipedia episode summary; no streaming page found",
+   "already_married": "not stated",
+   "format": "TV episode",
+   "categories": [
+    "medical",
+    "index-62",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — List of Temperatures Rising episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Temperatures_Rising_episodes"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:7": {
+     "fit": "core",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [
+      {
+       "episode": "S01E04 Ellen's Flip Side",
+       "gist": "patient hypnotised to trust doctors; nurse Ellen accidentally hypnotised into a vamp"
+      }
+     ],
+     "gain_motive": [
+      "cure a phobia (accidental side effect)"
+     ],
+     "hypnotist": "Dr. Jerry Noland (James Whitmore Jr.)",
+     "method": "hypnosis",
+     "title": "Temperatures Rising — \"Ellen's Flip Side\"",
+     "year": "1972",
+     "format": "TV episode",
+     "meta": "TV episode · USA · English · ABC · Season 1, Episode 4 · aired 3 Oct 1972 · sitcom",
+     "character": "a patient afraid of doctors (Alice Ghostley) and student nurse Ellen",
+     "summary": "To cure a patient of her fear of doctors, Dr. Noland poses as a hairdresser and hypnotises her into loving and trusting doctors. By accident he hypnotises the demure student nurse Ellen as well, turning her into the hospital vamp.",
+     "mechanism": "hypnotic suggestion",
+     "categories": [
+      "medical",
+      "index-62",
+      "other-control"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — List of Temperatures Rising episodes (plot)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Temperatures_Rising_episodes"
+      }
+     ],
+     "evidence": "Wikipedia episode summary; no streaming page found",
+     "confidence_flag": "high for the plot; no streaming source",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3991,
+   "title": "Gimme a Break! — \"Knock Three Times\"",
+   "subtitle": "",
+   "year": "1984",
+   "meta": "TV episode · USA · English · NBC · Season 3 · aired 2 Feb 1984 · sitcom",
+   "mechanism": "post-hypnotic trigger",
+   "confidence_flag": "high",
+   "summary": "Nell is hypnotised to remember where she put Katie's graduation ring. The doctor forgets to remove the trance, so whenever she hears three knocks she tells the absolute truth, airing the girls' secrets. She ends up telling James she cannot marry him until the kids are grown.",
+   "character": "Nell Harper (Nell Carter)",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "Knock Three Times (2 Feb 1984)",
+     "gist": "post-hypnotic truth-telling trigger"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "a doctor (hypnotist)",
+   "gain_motive": [
+    "recover a memory"
+   ],
+   "method": "hypnosis with a lingering post-hypnotic trigger (three knocks)",
+   "kids_status": "no biological children; she is the live-in housekeeper and carer of the Kanisky girls",
+   "kids_note": "raising the Kanisky girls, not her own children",
+   "kids_together": "no",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "Wikipedia episode summary",
+   "already_married": "no",
+   "format": "TV episode",
+   "categories": [
+    "medical",
+    "index-62",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Gimme a Break! (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/gimme-a-break"
+    },
+    {
+     "label": "Wikipedia — List of Gimme a Break! episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Gimme_a_Break!_episodes"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:8": {
+     "fit": "core",
+     "already_married": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "no biological children; she is the live-in housekeeper and carer of the Kanisky girls",
+     "kids_together": "no",
+     "kids_note": "raising the Kanisky girls, not her own children",
+     "episodes": [
+      {
+       "episode": "Knock Three Times (2 Feb 1984)",
+       "gist": "post-hypnotic truth-telling trigger"
+      }
+     ],
+     "gain_motive": [
+      "recover a memory"
+     ],
+     "hypnotist": "a doctor (hypnotist)",
+     "method": "hypnosis with a lingering post-hypnotic trigger (three knocks)",
+     "title": "Gimme a Break! — \"Knock Three Times\"",
+     "year": "1984",
+     "format": "TV episode",
+     "meta": "TV episode · USA · English · NBC · Season 3 · aired 2 Feb 1984 · sitcom",
+     "character": "Nell Harper (Nell Carter)",
+     "summary": "Nell is hypnotised to remember where she put Katie's graduation ring. The doctor forgets to remove the trance, so whenever she hears three knocks she tells the absolute truth, airing the girls' secrets. She ends up telling James she cannot marry him until the kids are grown.",
+     "mechanism": "post-hypnotic trigger",
+     "categories": [
+      "medical",
+      "index-62",
+      "other-control"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch — Gimme a Break! (where to watch)",
+       "url": "https://www.justwatch.com/us/tv-show/gimme-a-break"
+      },
+      {
+       "label": "Wikipedia — List of Gimme a Break! episodes (plot)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Gimme_a_Break!_episodes"
+      }
+     ],
+     "evidence": "Wikipedia episode summary",
+     "confidence_flag": "high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3992,
+   "title": "Shameless — \"Loving Wife\"",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "TV episode · UK · English · Channel 4 · Series 6, Episode 4 · aired 17 Feb 2009",
+   "mechanism": "hypnosis session",
+   "confidence_flag": "low-medium",
+   "summary": "Feeling unwanted by Frank, Monica goes to a stage hypnotist performing at The Jockey, hoping to rekindle their love life. It has the opposite effect: she ends up seducing the hypnotist.",
+   "character": "Monica Gallagher (Annabelle Apsion)",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "S06E04 Loving Wife",
+     "gist": "Monica visits a stage hypnotist and ends up seducing him"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "hypnotist": "a stage hypnotist at The Jockey",
+   "gain_motive": [
+    "rekindle her marriage (backfires)"
+   ],
+   "method": "stage hypnosis",
+   "kids_status": "yes — she is the mother of the Gallagher children",
+   "kids_note": "mother of the Gallagher children",
+   "kids_together": "yes — she and Frank already have children together (from before)",
+   "married": "yes",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "Wikipedia summary does not say outright that the hypnosis took hold",
+   "already_married": "yes",
+   "format": "TV episode",
+   "categories": [
+    "wife-hypnotized",
+    "mother",
+    "cheat-control"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Shameless (UK) (where to watch)",
+     "url": "https://www.justwatch.com/uk/tv-series/shameless"
+    },
+    {
+     "label": "Wikipedia — List of Shameless (British TV series) episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Shameless_(British_TV_series)_episodes"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:9": {
+     "fit": "loose",
+     "already_married": "yes",
+     "married": "yes",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "yes — she is the mother of the Gallagher children",
+     "kids_together": "yes — she and Frank already have children together (from before)",
+     "kids_note": "mother of the Gallagher children",
+     "episodes": [
+      {
+       "episode": "S06E04 Loving Wife",
+       "gist": "Monica visits a stage hypnotist and ends up seducing him"
+      }
+     ],
+     "gain_motive": [
+      "rekindle her marriage (backfires)"
+     ],
+     "hypnotist": "a stage hypnotist at The Jockey",
+     "method": "stage hypnosis",
+     "title": "Shameless — \"Loving Wife\"",
+     "year": "2009",
+     "format": "TV episode",
+     "meta": "TV episode · UK · English · Channel 4 · Series 6, Episode 4 · aired 17 Feb 2009",
+     "character": "Monica Gallagher (Annabelle Apsion)",
+     "summary": "Feeling unwanted by Frank, Monica goes to a stage hypnotist performing at The Jockey, hoping to rekindle their love life. It has the opposite effect: she ends up seducing the hypnotist.",
+     "mechanism": "hypnosis session",
+     "categories": [
+      "wife-hypnotized",
+      "mother",
+      "cheat-control"
+     ],
+     "tags": [
+      "hypnosis-nov11",
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch — Shameless (UK) (where to watch)",
+       "url": "https://www.justwatch.com/uk/tv-series/shameless"
+      },
+      {
+       "label": "Wikipedia — List of Shameless (British TV series) episodes (plot)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Shameless_(British_TV_series)_episodes"
+      }
+     ],
+     "evidence": "Wikipedia summary does not say outright that the hypnosis took hold",
+     "confidence_flag": "low-medium",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3993,
+   "title": "Harley Quinn",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "Adult animated series · USA · English · DC Universe / HBO Max · Season 2 · TV-MA",
+   "mechanism": "hypnosis / mind-control helmet",
+   "confidence_flag": "high",
+   "summary": "In \"Bachelorette\" (S2E9), Harley learns that Eris has hypnotised Queen Hippolyta into selling Themyscira to LexCorp, and the girls free her. In \"Lovers' Quarrel\" (S2E12), Doctor Psycho uses a stolen mind-control helmet to enslave Poison Ivy, making her use her pheromones on the Justice League and fight Harley until Harley frees her.",
+   "character": "Queen Hippolyta (S2E9) and Poison Ivy (S2E12)",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "S02E09 Bachelorette (29 May 2020)",
+     "gist": "Eris hypnotises Queen Hippolyta to sell Themyscira"
+    },
+    {
+     "episode": "S02E12 Lovers' Quarrel (19 Jun 2020)",
+     "gist": "Doctor Psycho mind-controls Poison Ivy"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "Eris (Hippolyta); Doctor Psycho (Ivy)",
+   "gain_motive": [
+    "sell the island / power",
+    "revenge"
+   ],
+   "method": "hypnosis (Hippolyta); mind-control helmet (Ivy)",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "Wikipedia episode summaries",
+   "already_married": "no",
+   "format": "Adult animated series",
+   "categories": [
+    "royal-hypnosis",
+    "tech",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Harley Quinn (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/harley-quinn"
+    },
+    {
+     "label": "Wikipedia — List of Harley Quinn episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Harley_Quinn_episodes"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:10": {
+     "fit": "core",
+     "already_married": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [
+      {
+       "episode": "S02E09 Bachelorette (29 May 2020)",
+       "gist": "Eris hypnotises Queen Hippolyta to sell Themyscira"
+      },
+      {
+       "episode": "S02E12 Lovers' Quarrel (19 Jun 2020)",
+       "gist": "Doctor Psycho mind-controls Poison Ivy"
+      }
+     ],
+     "gain_motive": [
+      "sell the island / power",
+      "revenge"
+     ],
+     "hypnotist": "Eris (Hippolyta); Doctor Psycho (Ivy)",
+     "method": "hypnosis (Hippolyta); mind-control helmet (Ivy)",
+     "title": "Harley Quinn",
+     "year": "2020",
+     "format": "Adult animated series",
+     "meta": "Adult animated series · USA · English · DC Universe / HBO Max · Season 2 · TV-MA",
+     "character": "Queen Hippolyta (S2E9) and Poison Ivy (S2E12)",
+     "summary": "In \"Bachelorette\" (S2E9), Harley learns that Eris has hypnotised Queen Hippolyta into selling Themyscira to LexCorp, and the girls free her. In \"Lovers' Quarrel\" (S2E12), Doctor Psycho uses a stolen mind-control helmet to enslave Poison Ivy, making her use her pheromones on the Justice League and fight Harley until Harley frees her.",
+     "mechanism": "hypnosis / mind-control helmet",
+     "categories": [
+      "royal-hypnosis",
+      "tech",
+      "forced-obedience"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch — Harley Quinn (where to watch)",
+       "url": "https://www.justwatch.com/us/tv-show/harley-quinn"
+      },
+      {
+       "label": "Wikipedia — List of Harley Quinn episodes (plot)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Harley_Quinn_episodes"
+      }
+     ],
+     "evidence": "Wikipedia episode summaries",
+     "confidence_flag": "high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3994,
+   "title": "Dragon Ball GT — \"The Resurrection of Cell and Frieza\" / \"17 Times 2\"",
+   "subtitle": "",
+   "year": "1997",
+   "meta": "Anime TV series · Japan · Japanese · Fuji TV · Episodes 43–44 · aired 23 & 30 Apr 1997",
+   "mechanism": "hypnosis",
+   "confidence_flag": "high",
+   "summary": "The original Android 17 confronts his twin sister Android 18 and hypnotises her, telling her to join him. Her husband Krillin brings her back to her senses, and 17 kills him; 18 then attacks 17 to avenge Krillin but is defeated.",
+   "character": "Android 18",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "Ep 43 The Resurrection of Cell and Frieza",
+     "gist": "17 hypnotises 18"
+    },
+    {
+     "episode": "Ep 44 17 Times 2",
+     "gist": "Krillin breaks the trance and is killed"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "Android 17 (her twin brother)",
+   "gain_motive": [
+    "recruit her as an ally"
+   ],
+   "method": "hypnosis",
+   "kids_status": "yes — daughter Marron",
+   "kids_note": "daughter Marron with Krillin",
+   "kids_together": "yes — Marron, born before this arc",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in this arc",
+   "evidence": "Wikipedia episode list plus character article",
+   "already_married": "yes",
+   "format": "Anime TV episodes",
+   "categories": [
+    "scifi",
+    "wife-hypnotized",
+    "mother",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Crunchyroll — Dragon Ball GT",
+     "url": "https://www.crunchyroll.com/series/GY8VEQ95Y/dragon-ball-gt"
+    },
+    {
+     "label": "JustWatch — Dragon Ball GT (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/dragon-ball-gt"
+    },
+    {
+     "label": "Wikipedia — List of Dragon Ball GT episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_GT_episodes"
+    },
+    {
+     "label": "Wikipedia — Android 18 (spouse and daughter)",
+     "url": "https://en.wikipedia.org/wiki/Android_18"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:11": {
+     "fit": "core",
+     "already_married": "yes",
+     "married": "yes",
+     "pregnant_end": "no",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "no pregnancy in this arc",
+     "kids_status": "yes — daughter Marron",
+     "kids_together": "yes — Marron, born before this arc",
+     "kids_note": "daughter Marron with Krillin",
+     "episodes": [
+      {
+       "episode": "Ep 43 The Resurrection of Cell and Frieza",
+       "gist": "17 hypnotises 18"
+      },
+      {
+       "episode": "Ep 44 17 Times 2",
+       "gist": "Krillin breaks the trance and is killed"
+      }
+     ],
+     "gain_motive": [
+      "recruit her as an ally"
+     ],
+     "hypnotist": "Android 17 (her twin brother)",
+     "method": "hypnosis",
+     "title": "Dragon Ball GT — \"The Resurrection of Cell and Frieza\" / \"17 Times 2\"",
+     "year": "1997",
+     "format": "Anime TV episodes",
+     "meta": "Anime TV series · Japan · Japanese · Fuji TV · Episodes 43–44 · aired 23 & 30 Apr 1997",
+     "character": "Android 18",
+     "summary": "The original Android 17 confronts his twin sister Android 18 and hypnotises her, telling her to join him. Her husband Krillin brings her back to her senses, and 17 kills him; 18 then attacks 17 to avenge Krillin but is defeated.",
+     "mechanism": "hypnosis",
+     "categories": [
+      "scifi",
+      "wife-hypnotized",
+      "mother",
+      "forced-obedience"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "Crunchyroll — Dragon Ball GT",
+       "url": "https://www.crunchyroll.com/series/GY8VEQ95Y/dragon-ball-gt"
+      },
+      {
+       "label": "JustWatch — Dragon Ball GT (where to watch)",
+       "url": "https://www.justwatch.com/us/tv-show/dragon-ball-gt"
+      },
+      {
+       "label": "Wikipedia — List of Dragon Ball GT episodes (plot)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_GT_episodes"
+      },
+      {
+       "label": "Wikipedia — Android 18 (spouse and daughter)",
+       "url": "https://en.wikipedia.org/wiki/Android_18"
+      }
+     ],
+     "evidence": "Wikipedia episode list plus character article",
+     "confidence_flag": "high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3995,
+   "title": "Mass Effect",
+   "subtitle": "",
+   "year": "2007",
+   "meta": "Video game · Canada/USA · English · BioWare · Xbox 360 / PC / PS3 · also in Mass Effect Legendary Edition (2021)",
+   "mechanism": "indoctrination",
+   "confidence_flag": "high",
+   "summary": "Matriarch Benezia, a powerful asari, serves the rogue Spectre Saren. When Shepard defeats her on Noveria she reveals that she and Saren are being indoctrinated (mind-controlled) by Saren's flagship Sovereign.",
+   "character": "Matriarch Benezia",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "Sovereign (a Reaper) via Saren",
+   "gain_motive": [
+    "serve the Reapers"
+   ],
+   "method": "Reaper indoctrination",
+   "kids_status": "yes — her daughter Liara T'Soni",
+   "kids_note": "estranged daughter Liara",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "Wikipedia plot and character article",
+   "already_married": "not stated",
+   "format": "Video game",
+   "categories": [
+    "scifi",
+    "mother",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Steam — Mass Effect Legendary Edition",
+     "url": "https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/"
+    },
+    {
+     "label": "Wikipedia — Mass Effect (plot)",
+     "url": "https://en.wikipedia.org/wiki/Mass_Effect_(video_game)"
+    },
+    {
+     "label": "Wikipedia — Liara T'Soni (Benezia's daughter)",
+     "url": "https://en.wikipedia.org/wiki/Liara_T%27Soni"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:12": {
+     "fit": "core",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "yes — her daughter Liara T'Soni",
+     "kids_together": "not stated",
+     "kids_note": "estranged daughter Liara",
+     "episodes": [],
+     "gain_motive": [
+      "serve the Reapers"
+     ],
+     "hypnotist": "Sovereign (a Reaper) via Saren",
+     "method": "Reaper indoctrination",
+     "title": "Mass Effect",
+     "year": "2007",
+     "format": "Video game",
+     "meta": "Video game · Canada/USA · English · BioWare · Xbox 360 / PC / PS3 · also in Mass Effect Legendary Edition (2021)",
+     "character": "Matriarch Benezia",
+     "summary": "Matriarch Benezia, a powerful asari, serves the rogue Spectre Saren. When Shepard defeats her on Noveria she reveals that she and Saren are being indoctrinated (mind-controlled) by Saren's flagship Sovereign.",
+     "mechanism": "indoctrination",
+     "categories": [
+      "scifi",
+      "mother",
+      "forced-obedience"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "Steam — Mass Effect Legendary Edition",
+       "url": "https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/"
+      },
+      {
+       "label": "Wikipedia — Mass Effect (plot)",
+       "url": "https://en.wikipedia.org/wiki/Mass_Effect_(video_game)"
+      },
+      {
+       "label": "Wikipedia — Liara T'Soni (Benezia's daughter)",
+       "url": "https://en.wikipedia.org/wiki/Liara_T%27Soni"
+      }
+     ],
+     "evidence": "Wikipedia plot and character article",
+     "confidence_flag": "high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3996,
+   "title": "Mass Effect 2: Arrival",
+   "subtitle": "",
+   "year": "2011",
+   "meta": "Video game DLC · Canada/USA · English · BioWare · 2011 · included in Mass Effect Legendary Edition",
+   "mechanism": "indoctrination",
+   "confidence_flag": "medium-high",
+   "summary": "Shepard frees Dr. Amanda Kenson from batarian captivity, but she and her whole project staff have been indoctrinated by the Reaper artifact Object Rho. She turns on Shepard to stop the Reapers' arrival from being delayed and dies detonating the reactor.",
+   "character": "Dr. Amanda Kenson",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "the Reapers via Object Rho",
+   "gain_motive": [
+    "serve the Reapers"
+   ],
+   "method": "Reaper indoctrination",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "Fandom wiki character page plus TV Tropes",
+   "already_married": "not stated",
+   "format": "Video game (DLC)",
+   "categories": [
+    "scifi",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Steam — Mass Effect Legendary Edition",
+     "url": "https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/"
+    },
+    {
+     "label": "Mass Effect Wiki (Fandom) — Amanda Kenson",
+     "url": "https://masseffect.fandom.com/wiki/Amanda_Kenson"
+    },
+    {
+     "label": "TV Tropes — Hypnotize the Captive",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeThePrincess"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:13": {
+     "fit": "core",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [],
+     "gain_motive": [
+      "serve the Reapers"
+     ],
+     "hypnotist": "the Reapers via Object Rho",
+     "method": "Reaper indoctrination",
+     "title": "Mass Effect 2: Arrival",
+     "year": "2011",
+     "format": "Video game (DLC)",
+     "meta": "Video game DLC · Canada/USA · English · BioWare · 2011 · included in Mass Effect Legendary Edition",
+     "character": "Dr. Amanda Kenson",
+     "summary": "Shepard frees Dr. Amanda Kenson from batarian captivity, but she and her whole project staff have been indoctrinated by the Reaper artifact Object Rho. She turns on Shepard to stop the Reapers' arrival from being delayed and dies detonating the reactor.",
+     "mechanism": "indoctrination",
+     "categories": [
+      "scifi",
+      "forced-obedience"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "Steam — Mass Effect Legendary Edition",
+       "url": "https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/"
+      },
+      {
+       "label": "Mass Effect Wiki (Fandom) — Amanda Kenson",
+       "url": "https://masseffect.fandom.com/wiki/Amanda_Kenson"
+      },
+      {
+       "label": "TV Tropes — Hypnotize the Captive",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeThePrincess"
+      }
+     ],
+     "evidence": "Fandom wiki character page plus TV Tropes",
+     "confidence_flag": "medium-high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3997,
+   "title": "Gurren Lagann",
+   "subtitle": "",
+   "year": "2007",
+   "meta": "Anime TV series · Japan · Japanese · Gainax / TV Tokyo · 27 episodes · Apr–Sep 2007",
+   "mechanism": "personality override",
+   "confidence_flag": "high",
+   "summary": "After the time skip, Nia is engaged to Simon. She is revealed to have been created by the Anti-Spirals, who turn her into their cold 'Messenger Nia' and force her to fight Simon against her will until he rescues her. She marries Simon but then fades away, because her existence is tied to the Anti-Spirals.",
+   "character": "Nia Teppelin",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "the Anti-Spirals",
+   "gain_motive": [
+    "use her as their messenger"
+   ],
+   "method": "alien programming / override of her personality",
+   "kids_status": "no",
+   "kids_note": "no children",
+   "kids_together": "no — she fades away after marrying Simon",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy; she fades away after the wedding",
+   "evidence": "Wikipedia plot",
+   "already_married": "no — engaged to Simon during the control",
+   "format": "Anime TV series",
+   "categories": [
+    "scifi",
+    "forced-obedience",
+    "hypnotized-marriage"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Gurren Lagann (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/gurren-lagann"
+    },
+    {
+     "label": "Wikipedia — Gurren Lagann (plot)",
+     "url": "https://en.wikipedia.org/wiki/Gurren_Lagann"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:14": {
+     "fit": "core",
+     "already_married": "no — engaged to Simon during the control",
+     "married": "yes",
+     "pregnant_end": "no",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "no pregnancy; she fades away after the wedding",
+     "kids_status": "no",
+     "kids_together": "no — she fades away after marrying Simon",
+     "kids_note": "no children",
+     "episodes": [],
+     "gain_motive": [
+      "use her as their messenger"
+     ],
+     "hypnotist": "the Anti-Spirals",
+     "method": "alien programming / override of her personality",
+     "title": "Gurren Lagann",
+     "year": "2007",
+     "format": "Anime TV series",
+     "meta": "Anime TV series · Japan · Japanese · Gainax / TV Tokyo · 27 episodes · Apr–Sep 2007",
+     "character": "Nia Teppelin",
+     "summary": "After the time skip, Nia is engaged to Simon. She is revealed to have been created by the Anti-Spirals, who turn her into their cold 'Messenger Nia' and force her to fight Simon against her will until he rescues her. She marries Simon but then fades away, because her existence is tied to the Anti-Spirals.",
+     "mechanism": "personality override",
+     "categories": [
+      "scifi",
+      "forced-obedience",
+      "hypnotized-marriage"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch — Gurren Lagann (where to watch)",
+       "url": "https://www.justwatch.com/us/tv-show/gurren-lagann"
+      },
+      {
+       "label": "Wikipedia — Gurren Lagann (plot)",
+       "url": "https://en.wikipedia.org/wiki/Gurren_Lagann"
+      }
+     ],
+     "evidence": "Wikipedia plot",
+     "confidence_flag": "high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3998,
+   "title": "Double Dragon Neon",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "Video game · USA · English · WayForward / Majesco · PS3 / Xbox 360 (2012), PC (2014)",
+   "mechanism": "brainwashing",
+   "confidence_flag": "low-medium",
+   "summary": "Billy and Jimmy Lee fight to rescue Billy's girlfriend Marian from Skullmageddon. In the penultimate boss fight she has been brainwashed into 'Evil Marian' and fights alongside Skullmageddon.",
+   "character": "Marian Kelly",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "hypnotist": "Skullmageddon",
+   "gain_motive": [
+    "use her against the hero"
+   ],
+   "method": "brainwashing",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "the brainwashing is described only on TV Tropes; Wikipedia confirms the rescue plot",
+   "already_married": "no",
+   "format": "Video game",
+   "categories": [
+    "forced-obedience",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Double Dragon Neon",
+     "url": "https://en.wikipedia.org/wiki/Double_Dragon_Neon"
+    },
+    {
+     "label": "TV Tropes — Hypnotize the Captive (Evil Marian)",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeThePrincess"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:15": {
+     "fit": "loose",
+     "already_married": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [],
+     "gain_motive": [
+      "use her against the hero"
+     ],
+     "hypnotist": "Skullmageddon",
+     "method": "brainwashing",
+     "title": "Double Dragon Neon",
+     "year": "2012",
+     "format": "Video game",
+     "meta": "Video game · USA · English · WayForward / Majesco · PS3 / Xbox 360 (2012), PC (2014)",
+     "character": "Marian Kelly",
+     "summary": "Billy and Jimmy Lee fight to rescue Billy's girlfriend Marian from Skullmageddon. In the penultimate boss fight she has been brainwashed into 'Evil Marian' and fights alongside Skullmageddon.",
+     "mechanism": "brainwashing",
+     "categories": [
+      "forced-obedience",
+      "human"
+     ],
+     "tags": [
+      "hypnosis-nov11",
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — Double Dragon Neon",
+       "url": "https://en.wikipedia.org/wiki/Double_Dragon_Neon"
+      },
+      {
+       "label": "TV Tropes — Hypnotize the Captive (Evil Marian)",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeThePrincess"
+      }
+     ],
+     "evidence": "the brainwashing is described only on TV Tropes; Wikipedia confirms the rescue plot",
+     "confidence_flag": "low-medium",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3999,
+   "title": "The Abduction",
+   "subtitle": "",
+   "year": "1975",
+   "meta": "Film · USA · English · 1975 · directed by Joseph Zito · R-rated",
+   "mechanism": "coercive persuasion",
+   "confidence_flag": "medium",
+   "summary": "The daughter of a rich property developer is kidnapped by radicals and held for ransom. After being brutalised and brainwashed, she is converted to their cause (a story echoing the Patty Hearst case).",
+   "character": "the kidnapped daughter of a rich property developer",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "hypnosis-nov11",
+    "R-rated"
+   ],
+   "hypnotist": "a group of radical kidnappers",
+   "gain_motive": [
+    "ransom / political conversion"
+   ],
+   "method": "coercive brainwashing",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "Wikipedia premise citing Roger Ebert",
+   "already_married": "not stated",
+   "format": "Film",
+   "categories": [
+    "cult",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Abduction (1975 film)",
+     "url": "https://en.wikipedia.org/wiki/Abduction_(1975_film)"
+    },
+    {
+     "label": "RogerEbert.com — review",
+     "url": "http://www.rogerebert.com/reviews/the-abduction-1975"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:16": {
+     "fit": "core",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [],
+     "gain_motive": [
+      "ransom / political conversion"
+     ],
+     "hypnotist": "a group of radical kidnappers",
+     "method": "coercive brainwashing",
+     "title": "The Abduction",
+     "year": "1975",
+     "format": "Film",
+     "meta": "Film · USA · English · 1975 · directed by Joseph Zito · R-rated",
+     "character": "the kidnapped daughter of a rich property developer",
+     "summary": "The daughter of a rich property developer is kidnapped by radicals and held for ransom. After being brutalised and brainwashed, she is converted to their cause (a story echoing the Patty Hearst case).",
+     "mechanism": "coercive persuasion",
+     "categories": [
+      "cult",
+      "human"
+     ],
+     "tags": [
+      "hypnosis-nov11",
+      "R-rated"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — Abduction (1975 film)",
+       "url": "https://en.wikipedia.org/wiki/Abduction_(1975_film)"
+      },
+      {
+       "label": "RogerEbert.com — review",
+       "url": "http://www.rogerebert.com/reviews/the-abduction-1975"
+      }
+     ],
+     "evidence": "Wikipedia premise citing Roger Ebert",
+     "confidence_flag": "medium",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 4000,
+   "title": "Bagani",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "TV series · Philippines · Filipino · ABS-CBN · Mar–Aug 2018 · fantasy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "low-medium",
+   "summary": "Mahika was assigned to guard Malaya's crown. When Malaya retrieves her crown, she hypnotises Mahika (and Mahiko), who become her minions.",
+   "character": "Mahika (Francesca 'Chelsea' Bernasconi)",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "hypnotist": "Malaya",
+   "gain_motive": [
+    "build an army of minions"
+   ],
+   "method": "hypnosis (crown magic)",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "single line in the Wikipedia cast table; no episode given and no streaming page verified",
+   "already_married": "not stated",
+   "format": "TV series",
+   "categories": [
+    "fantasy",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Bagani (TV series) (cast notes)",
+     "url": "https://en.wikipedia.org/wiki/Bagani_(TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:17": {
+     "fit": "loose",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [],
+     "gain_motive": [
+      "build an army of minions"
+     ],
+     "hypnotist": "Malaya",
+     "method": "hypnosis (crown magic)",
+     "title": "Bagani",
+     "year": "2018",
+     "format": "TV series",
+     "meta": "TV series · Philippines · Filipino · ABS-CBN · Mar–Aug 2018 · fantasy",
+     "character": "Mahika (Francesca 'Chelsea' Bernasconi)",
+     "summary": "Mahika was assigned to guard Malaya's crown. When Malaya retrieves her crown, she hypnotises Mahika (and Mahiko), who become her minions.",
+     "mechanism": "hypnosis",
+     "categories": [
+      "fantasy",
+      "forced-obedience"
+     ],
+     "tags": [
+      "hypnosis-nov11",
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — Bagani (TV series) (cast notes)",
+       "url": "https://en.wikipedia.org/wiki/Bagani_(TV_series)"
+      }
+     ],
+     "evidence": "single line in the Wikipedia cast table; no episode given and no streaming page verified",
+     "confidence_flag": "low-medium",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 4001,
+   "title": "Alias Grace — Part 5",
+   "subtitle": "",
+   "year": "2017",
+   "meta": "TV miniseries · Canada · English · CBC / Netflix · Part 5 · aired 23 Oct 2017 · based on Margaret Atwood's novel",
+   "mechanism": "hypnotic trance",
+   "confidence_flag": "high",
+   "summary": "Jeremiah the peddler reappears posing as the 'neuro-hypnotist' Dr. DuPont. He suggests putting Grace into a trance to reach her memories of the Kinnear murders, and Grace agrees to be hypnotised despite Dr. Jordan's objections.",
+   "character": "Grace Marks (Sarah Gadon)",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "Part 5",
+     "gist": "Grace hypnotised by 'Dr. DuPont'"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "Jeremiah the peddler, as 'Dr. Jerome DuPont'",
+   "gain_motive": [
+    "uncover memories of the murders"
+   ],
+   "method": "neuro-hypnosis (trance)",
+   "kids_status": "no",
+   "kids_note": "none stated before the hypnosis",
+   "kids_together": "not stated",
+   "married": "not",
+   "pregnant_end": "no",
+   "pregnant_end_note": "a pregnancy at the end is not stated in the episode summaries",
+   "evidence": "Wikipedia episode summary",
+   "already_married": "no",
+   "format": "TV miniseries episode",
+   "categories": [
+    "medical",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "Netflix — Alias Grace",
+     "url": "https://www.netflix.com/title/80119411"
+    },
+    {
+     "label": "Wikipedia — Alias Grace (miniseries) (episode plot)",
+     "url": "https://en.wikipedia.org/wiki/Alias_Grace_(miniseries)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:18": {
+     "fit": "core",
+     "already_married": "no",
+     "married": "not",
+     "pregnant_end": "no",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "a pregnancy at the end is not stated in the episode summaries",
+     "kids_status": "no",
+     "kids_together": "not stated",
+     "kids_note": "none stated before the hypnosis",
+     "episodes": [
+      {
+       "episode": "Part 5",
+       "gist": "Grace hypnotised by 'Dr. DuPont'"
+      }
+     ],
+     "gain_motive": [
+      "uncover memories of the murders"
+     ],
+     "hypnotist": "Jeremiah the peddler, as 'Dr. Jerome DuPont'",
+     "method": "neuro-hypnosis (trance)",
+     "title": "Alias Grace — Part 5",
+     "year": "2017",
+     "format": "TV miniseries episode",
+     "meta": "TV miniseries · Canada · English · CBC / Netflix · Part 5 · aired 23 Oct 2017 · based on Margaret Atwood's novel",
+     "character": "Grace Marks (Sarah Gadon)",
+     "summary": "Jeremiah the peddler reappears posing as the 'neuro-hypnotist' Dr. DuPont. He suggests putting Grace into a trance to reach her memories of the Kinnear murders, and Grace agrees to be hypnotised despite Dr. Jordan's objections.",
+     "mechanism": "hypnotic trance",
+     "categories": [
+      "medical",
+      "crime"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "Netflix — Alias Grace",
+       "url": "https://www.netflix.com/title/80119411"
+      },
+      {
+       "label": "Wikipedia — Alias Grace (miniseries) (episode plot)",
+       "url": "https://en.wikipedia.org/wiki/Alias_Grace_(miniseries)"
+      }
+     ],
+     "evidence": "Wikipedia episode summary",
+     "confidence_flag": "high",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 4002,
+   "title": "Nashville — Season 6 (Darius cult arc)",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "TV series · USA · English · CMT · Season 6 · 2018",
+   "mechanism": "coercive persuasion",
+   "confidence_flag": "medium",
+   "summary": "Juliette falls under the influence of the self-help guru Darius and his cult. Darius surfaces buried childhood trauma, she pushes away her husband Avery, and she abandons her family to join the cult's outreach. She finally sees what the cult is and comes home, motivated by a new pregnancy.",
+   "character": "Juliette Barnes (Hayden Panettiere)",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "her new pregnancy is what brings her back from the cult",
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "hypnotist": "Darius, a self-help guru / cult leader",
+   "gain_motive": [
+    "cult recruitment / money"
+   ],
+   "method": "cult indoctrination / coercive brainwashing",
+   "kids_status": "yes — daughter Cadence (born 2015)",
+   "kids_note": "daughter Cadence; second child expected",
+   "kids_together": "yes — Cadence, plus a second Barkley child on the way",
+   "married": "yes",
+   "pregnant_end": "yes — pregnant with her second child (with husband Avery) at the end of the series",
+   "pregnant_end_note": "visibly pregnant in the finale; Avery comes back to be with her",
+   "evidence": "Wikipedia character article; the control is cult brainwashing rather than hypnosis",
+   "already_married": "yes",
+   "format": "TV series",
+   "categories": [
+    "cult",
+    "wife-hypnotized",
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Nashville (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/nashville"
+    },
+    {
+     "label": "Wikipedia — Juliette Barnes (season 6 storyline, children)",
+     "url": "https://en.wikipedia.org/wiki/Juliette_Barnes"
+    },
+    {
+     "label": "Wikipedia — List of Nashville cast members (Darius 'brainwashes her')",
+     "url": "https://en.wikipedia.org/wiki/List_of_Nashville_cast_members"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:19"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:19": {
+     "fit": "loose",
+     "already_married": "yes",
+     "married": "yes",
+     "pregnant_end": "yes — pregnant with her second child (with husband Avery) at the end of the series",
+     "pregnancy_note": "her new pregnancy is what brings her back from the cult",
+     "pregnant_end_note": "visibly pregnant in the finale; Avery comes back to be with her",
+     "kids_status": "yes — daughter Cadence (born 2015)",
+     "kids_together": "yes — Cadence, plus a second Barkley child on the way",
+     "kids_note": "daughter Cadence; second child expected",
+     "episodes": [],
+     "gain_motive": [
+      "cult recruitment / money"
+     ],
+     "hypnotist": "Darius, a self-help guru / cult leader",
+     "method": "cult indoctrination / coercive brainwashing",
+     "title": "Nashville — Season 6 (Darius cult arc)",
+     "year": "2018",
+     "format": "TV series",
+     "meta": "TV series · USA · English · CMT · Season 6 · 2018",
+     "character": "Juliette Barnes (Hayden Panettiere)",
+     "summary": "Juliette falls under the influence of the self-help guru Darius and his cult. Darius surfaces buried childhood trauma, she pushes away her husband Avery, and she abandons her family to join the cult's outreach. She finally sees what the cult is and comes home, motivated by a new pregnancy.",
+     "mechanism": "coercive persuasion",
+     "categories": [
+      "cult",
+      "wife-hypnotized",
+      "mother"
+     ],
+     "tags": [
+      "hypnosis-nov11",
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch — Nashville (where to watch)",
+       "url": "https://www.justwatch.com/us/tv-show/nashville"
+      },
+      {
+       "label": "Wikipedia — Juliette Barnes (season 6 storyline, children)",
+       "url": "https://en.wikipedia.org/wiki/Juliette_Barnes"
+      },
+      {
+       "label": "Wikipedia — List of Nashville cast members (Darius 'brainwashes her')",
+       "url": "https://en.wikipedia.org/wiki/List_of_Nashville_cast_members"
+      }
+     ],
+     "evidence": "Wikipedia character article; the control is cult brainwashing rather than hypnosis",
+     "confidence_flag": "medium",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 4003,
+   "title": "The Strange Story of Sylvia Gray",
+   "subtitle": "",
+   "year": "1914",
+   "meta": "Silent film · USA · English intertitles · 1914 · written and directed by Charles L. Gaskill · Helen Gardner",
+   "mechanism": "hypnosis",
+   "confidence_flag": "high for the plot",
+   "summary": "Twenty years after the opening events, Silvery is an artist's model in love with her employer Vanveldt. The hypnotist Dr. Frankenstein puts her under his spell, forcing her to leave Vanveldt for him, then hypnotises her to stab her father and steal $5,000. His jealous wife Vivette kills him, breaking the hold, and Silvery returns to Vanveldt and they become engaged.",
+   "character": "Silvery (Sylvia Gray's daughter, grown up)",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "hypnotist": "Dr. Frankenstein, a hypnotist",
+   "gain_motive": [
+    "money / possession of her",
+    "murder of her father"
+   ],
+   "method": "hypnosis",
+   "kids_status": "no",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy stated",
+   "evidence": "Wikipedia plot; no streaming copy found (the open 'Sylvia Gray' lead, now resolved)",
+   "already_married": "no",
+   "format": "Silent film",
+   "categories": [
+    "crime",
+    "human",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — The Strange Story of Sylvia Gray (plot)",
+     "url": "https://en.wikipedia.org/wiki/The_Strange_Story_of_Sylvia_Gray"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:20": {
+     "fit": "core",
+     "already_married": "no",
+     "married": "no",
+     "pregnant_end": "no",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "no pregnancy stated",
+     "kids_status": "no",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [],
+     "gain_motive": [
+      "money / possession of her",
+      "murder of her father"
+     ],
+     "hypnotist": "Dr. Frankenstein, a hypnotist",
+     "method": "hypnosis",
+     "title": "The Strange Story of Sylvia Gray",
+     "year": "1914",
+     "format": "Silent film",
+     "meta": "Silent film · USA · English intertitles · 1914 · written and directed by Charles L. Gaskill · Helen Gardner",
+     "character": "Silvery (Sylvia Gray's daughter, grown up)",
+     "summary": "Twenty years after the opening events, Silvery is an artist's model in love with her employer Vanveldt. The hypnotist Dr. Frankenstein puts her under his spell, forcing her to leave Vanveldt for him, then hypnotises her to stab her father and steal $5,000. His jealous wife Vivette kills him, breaking the hold, and Silvery returns to Vanveldt and they become engaged.",
+     "mechanism": "hypnosis",
+     "categories": [
+      "crime",
+      "human",
+      "forced-obedience"
+     ],
+     "tags": [
+      "hypnosis-nov11"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — The Strange Story of Sylvia Gray (plot)",
+       "url": "https://en.wikipedia.org/wiki/The_Strange_Story_of_Sylvia_Gray"
+      }
+     ],
+     "evidence": "Wikipedia plot; no streaming copy found (the open 'Sylvia Gray' lead, now resolved)",
+     "confidence_flag": "high for the plot",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 4004,
+   "title": "The Avengers #200 (Marvel comic)",
+   "subtitle": "",
+   "year": "1980",
+   "meta": "Comic book · USA · English · Marvel Comics · The Avengers vol. 1 #200 · Oct 1980",
+   "mechanism": "implied brainwashing",
+   "confidence_flag": "low-medium",
+   "summary": "Ms. Marvel is abducted by Marcus, son of Immortus, to an alternate dimension and made pregnant. She gives birth on Earth to a child who rapidly ages into another Marcus, and she leaves with him. Critics such as Carol A. Strickland have argued the story implies Marcus brainwashed her into loving him.",
+   "character": "Carol Danvers / Ms. Marvel",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "pregnancy by Marcus, accelerated",
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit",
+    "comic"
+   ],
+   "hypnotist": "Marcus (son of Immortus)",
+   "gain_motive": [
+    "fathering himself / escape from limbo"
+   ],
+   "method": "implied mind control (Immortus's machines)",
+   "kids_status": "no",
+   "kids_note": "no children before",
+   "kids_together": "the child is Marcus himself, who rapidly ages",
+   "married": "no",
+   "pregnant_end": "yes — by Marcus; she gives birth within the issue",
+   "pregnant_end_note": "she has given birth by the end; the child grows into Marcus",
+   "evidence": "Wikipedia; the mind control is implied and disputed rather than explicit",
+   "already_married": "no",
+   "format": "Comic book",
+   "categories": [
+    "pregnant-variants",
+    "index-37",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Carol Danvers (Avengers #200 storyline)",
+     "url": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:21": {
+     "fit": "loose",
+     "already_married": "no",
+     "married": "no",
+     "pregnant_end": "yes — by Marcus; she gives birth within the issue",
+     "pregnancy_note": "pregnancy by Marcus, accelerated",
+     "pregnant_end_note": "she has given birth by the end; the child grows into Marcus",
+     "kids_status": "no",
+     "kids_together": "the child is Marcus himself, who rapidly ages",
+     "kids_note": "no children before",
+     "episodes": [],
+     "gain_motive": [
+      "fathering himself / escape from limbo"
+     ],
+     "hypnotist": "Marcus (son of Immortus)",
+     "method": "implied mind control (Immortus's machines)",
+     "title": "The Avengers #200 (Marvel comic)",
+     "year": "1980",
+     "format": "Comic book",
+     "meta": "Comic book · USA · English · Marvel Comics · The Avengers vol. 1 #200 · Oct 1980",
+     "character": "Carol Danvers / Ms. Marvel",
+     "summary": "Ms. Marvel is abducted by Marcus, son of Immortus, to an alternate dimension and made pregnant. She gives birth on Earth to a child who rapidly ages into another Marcus, and she leaves with him. Critics such as Carol A. Strickland have argued the story implies Marcus brainwashed her into loving him.",
+     "mechanism": "implied brainwashing",
+     "categories": [
+      "pregnant-variants",
+      "index-37",
+      "scifi"
+     ],
+     "tags": [
+      "hypnosis-nov11",
+      "loose fit",
+      "comic"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — Carol Danvers (Avengers #200 storyline)",
+       "url": "https://en.wikipedia.org/wiki/Carol_Danvers"
+      }
+     ],
+     "evidence": "Wikipedia; the mind control is implied and disputed rather than explicit",
+     "confidence_flag": "low-medium",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 4005,
+   "title": "About Love (玫瑰丛生) — Episode 21",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "TV drama · China · Mandarin · 2026 · Episode 21 'Li Xiao Xi Undergoes Hypnosis' · aired 8 Mar 2026",
+   "mechanism": "hypnotic regression",
+   "confidence_flag": "medium: single source, therapeutic hypnosis",
+   "summary": "Li Xiao Xi agrees to hypnosis with Dr. Lin to explore the childhood memories behind her distrust of relationships. Under hypnosis she recalls her father holding another little girl. She later reveals she was testing Dr. Lin's character for someone else.",
+   "character": "Li Xiao Xi",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "Ep 21",
+     "gist": "hypnosis session with Dr. Lin"
+    }
+   ],
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "hypnotist": "Dr. Lin",
+   "gain_motive": [
+    "explore childhood memories"
+   ],
+   "method": "therapeutic hypnosis",
+   "kids_status": "not stated",
+   "kids_note": "not stated in the sources",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "evidence": "MyDramaList episode synopsis only",
+   "already_married": "not stated",
+   "format": "TV drama episode",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList — About Love Episode 21",
+     "url": "https://mydramalist.com/754333-chan-nv/episode/21"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-nov11"
+   ],
+   "source_records": [
+    "hypnosis-nov11:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-nov11:22": {
+     "fit": "loose",
+     "already_married": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "not stated in the sources",
+     "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "not stated in the sources",
+     "episodes": [
+      {
+       "episode": "Ep 21",
+       "gist": "hypnosis session with Dr. Lin"
+      }
+     ],
+     "gain_motive": [
+      "explore childhood memories"
+     ],
+     "hypnotist": "Dr. Lin",
+     "method": "therapeutic hypnosis",
+     "title": "About Love (玫瑰丛生) — Episode 21",
+     "year": "2026",
+     "format": "TV drama episode",
+     "meta": "TV drama · China · Mandarin · 2026 · Episode 21 'Li Xiao Xi Undergoes Hypnosis' · aired 8 Mar 2026",
+     "character": "Li Xiao Xi",
+     "summary": "Li Xiao Xi agrees to hypnosis with Dr. Lin to explore the childhood memories behind her distrust of relationships. Under hypnosis she recalls her father holding another little girl. She later reveals she was testing Dr. Lin's character for someone else.",
+     "mechanism": "hypnotic regression",
+     "categories": [
+      "medical"
+     ],
+     "tags": [
+      "hypnosis-nov11",
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList — About Love Episode 21",
+       "url": "https://mydramalist.com/754333-chan-nv/episode/21"
+      }
+     ],
+     "evidence": "MyDramaList episode synopsis only",
+     "confidence_flag": "medium: single source, therapeutic hypnosis",
+     "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 4006,
    "title": "Kyonyuu Onna Senshi: Dogeza Saimin (巨乳女戦士・土下座催眠)",
    "subtitle": "",
    "year": "2022",
@@ -587526,7 +590044,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3985,
+   "id": 4007,
    "title": "Tanetsuke Ojisan to Papakko JD Saimin Seikatsu The Animation (種付おじさんとパパっ子JD催眠生活)",
    "subtitle": "",
    "year": "2023",
@@ -587622,7 +590140,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3986,
+   "id": 4008,
    "title": "人妻催眠 濡れつぼみ / Hitozuma Saimin: Nure Tsubomi",
    "subtitle": "",
    "year": "2001",
@@ -587721,7 +590239,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3987,
+   "id": 4009,
    "title": "変態催眠 恥唇いじめ / Hentai Saimin: Haji Kuchibiru Ijime",
    "subtitle": "",
    "year": "2002",
@@ -587818,7 +590336,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3988,
+   "id": 4010,
    "title": "催眠エクスタシー 覗かれた性交癖 / Saimin Ecstasy: Nozokareta Seikōheki (re-release: SEX療法 暴かれた性態)",
    "subtitle": "",
    "year": "2007",
@@ -587912,7 +590430,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3989,
+   "id": 4011,
    "title": "好き好きエロモード 我慢しないで！",
    "subtitle": "",
    "year": "2019",
@@ -587992,7 +590510,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3990,
+   "id": 4012,
    "title": "SORA-634 じんかくそうさ洗脳催眠 赤ちゃんが欲しい人妻の切なる願いを妊活マイスターが弄び五段活用で孕ませ洗脳した編 (小野坂ゆいか)",
    "subtitle": "",
    "year": "2026",
@@ -588094,7 +590612,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3991,
+   "id": 4013,
    "title": "START-614 新婚で妊活している美人OLを洗脳して、自分の旦那と誤認させ中出しSEX (宮島めい)",
    "subtitle": "",
    "year": "2026",
@@ -588196,7 +590714,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3992,
+   "id": 4014,
    "title": "MEYD-528 催眠妊活NTR 追撃ピストンされイキまくる妻が自らも腰を振り他人子種をおねだり (東凛)",
    "subtitle": "",
    "year": "2019",
@@ -588289,7 +590807,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3993,
+   "id": 4015,
    "title": "SORA-583 じんかくそうさ洗脳催眠 人様に点数を付け優越感を保つ性格サイテー身体は極上の有閑マダムを洗脳し採点してやった編 (大槻ひびき)",
    "subtitle": "",
    "year": "2025",
@@ -588388,7 +590906,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3994,
+   "id": 4016,
    "title": "NTR-051 催眠術師に寝取られてしまったうちの妻 (川崎亜里沙)",
    "subtitle": "",
    "year": "2016",
@@ -588479,7 +590997,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3995,
+   "id": 4017,
    "title": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子)",
    "subtitle": "",
    "year": "2022",
@@ -588571,7 +591089,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3996,
+   "id": 4018,
    "title": "SORA-640 じんかくそうさ洗脳催眠 死ぬほど大嫌いな隣人へ出張エステティシャンで訪れることになり… 醜い絶倫おやじに洗脳でイカされた36歳主婦編 (本真ゆり)",
    "subtitle": "",
    "year": "2026",
@@ -588670,7 +591188,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3997,
+   "id": 4019,
    "title": "SORA-645 じんかくそうさ洗脳催眠 お金が大好きなウソつき不動産の人妻のま◯こETFにザーメン投資してやった話 (宮西ひかる)",
    "subtitle": "",
    "year": "2026",
@@ -588759,7 +591277,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3998,
+   "id": 4020,
    "title": "SORA-642 じんかくそうさ洗脳催眠 『私は無能でも使いこなす天才社長』 傲慢2代目女社長をパシリ社員が催眠アプリでニコニコ肉奴隷に出荷編 (黒川すみれ)",
    "subtitle": "",
    "year": "2026",
@@ -588850,7 +591368,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 3999,
+   "id": 4021,
    "title": "SORA-540 じんかくそうさ洗脳催眠 底辺中年配信おじさんが同じマンションの巨乳すぎる人妻に宣戦布告 夏の催眠まつり編 (美園和花)",
    "subtitle": "",
    "year": "2024",
@@ -588950,7 +591468,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4000,
+   "id": 4022,
    "title": "DSOD-135 クリシコNTR 暗示で開発された清楚妻の変態アクメ日課 (美園和花)",
    "subtitle": "",
    "year": "2026",
@@ -589040,7 +591558,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4001,
+   "id": 4023,
    "title": "SNOS-440 豊乳マダムな眠り姫 ～不眠治療中に受けた…えげつないワイセツ行為～ (奥田咲)",
    "subtitle": "",
    "year": "2026",
@@ -589141,7 +591659,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4002,
+   "id": 4024,
    "title": "AARM-359 サブスク超乳 美人保険外交員に覚えたての催眠術を試してみたらあっさり限界突破 (綾瀬こころ)",
    "subtitle": "",
    "year": "2026",
@@ -589223,7 +591741,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4003,
+   "id": 4025,
    "title": "CAWD-972 「記憶ないのにカラダが火照ってる」伊藤舞雪の潜在エロス大爆発 催眠覚醒エクスタシー",
    "subtitle": "",
    "year": "2026",
@@ -589305,7 +591823,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4004,
+   "id": 4026,
    "title": "IPX-778 洗脳 服従セラピーで肉体を完全征服された人気女子アナ 催眠療法 (桃乃木かな)",
    "subtitle": "",
    "year": "Unknown",
@@ -589389,7 +591907,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4005,
+   "id": 4027,
    "title": "XVSR-691 洗脳調教快楽に堕ちて 催眠整体師に催淫洗脳されて染められた私 (長瀬麻美)",
    "subtitle": "",
    "year": "Unknown",
@@ -589473,7 +591991,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4006,
+   "id": 4028,
    "title": "TOT-04 淋しき人妻 催眠治療へ。",
    "subtitle": "",
    "year": "2008",
@@ -589555,7 +592073,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4007,
+   "id": 4029,
    "title": "晚风吹心语 (Wan Feng Chui Xin Yu)",
    "subtitle": "",
    "year": "2025",
@@ -589642,7 +592160,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4008,
+   "id": 4030,
    "title": "透视小地主 (Tou Shi Xiao Di Zhu)",
    "subtitle": "",
    "year": "2025",
@@ -589738,7 +592256,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4009,
+   "id": 4031,
    "title": "Der Schrecken im Hause Ardon / Panic in the House of Ardon",
    "subtitle": "",
    "year": "1920",
@@ -589839,7 +592357,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4010,
+   "id": 4032,
    "title": "Home Delivery",
    "subtitle": "",
    "year": "2026",
@@ -589922,7 +592440,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4011,
+   "id": 4033,
    "title": "The Couple Next Door",
    "subtitle": "",
    "year": "2025",
@@ -589999,7 +592517,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4012,
+   "id": 4034,
    "title": "Gravida",
    "subtitle": "",
    "year": "2026",
@@ -590068,7 +592586,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4013,
+   "id": 4035,
    "title": "Sexploration – How Do I Really Want It?",
    "subtitle": "",
    "year": "2024",
@@ -590155,7 +592673,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4014,
+   "id": 4036,
    "title": "The Last of Us — Season 2 (E4 “Day One”)",
    "subtitle": "",
    "year": "2025",
@@ -590242,7 +592760,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4015,
+   "id": 4037,
    "title": "Birth of a New Realm",
    "subtitle": "",
    "year": "2026",
@@ -590319,7 +592837,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4016,
+   "id": 4038,
    "title": "ZeroZeroZero",
    "subtitle": "",
    "year": "2020",
@@ -590388,7 +592906,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4017,
+   "id": 4039,
    "title": "Oh, Baby!",
    "subtitle": "",
    "year": "2021",
@@ -590473,7 +592991,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4018,
+   "id": 4040,
    "title": "Cravings",
    "subtitle": "",
    "year": "2021",
@@ -590542,7 +593060,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4019,
+   "id": 4041,
    "title": "Il sistema Ribadier",
    "subtitle": "",
    "year": "1974",
@@ -590667,7 +593185,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 4020,
+   "id": 4042,
    "title": "Le Système Ribadier — Au théâtre chez soi",
    "subtitle": "",
    "year": "2020",
@@ -595540,67 +598058,19 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 4002,
+       "id": 4024,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4003,
+       "id": 4025,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4000,
+       "id": 4022,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4004,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 3984,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 3992,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 3994,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 4001,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 3999,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 3993,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 3990,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 3996,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 3998,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 3997,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 3991,
-       "from_source": "saimin-sweep-nov11"
-      },
-      {
-       "id": 3985,
+       "id": 4026,
        "from_source": "saimin-sweep-nov11"
       },
       {
@@ -595608,27 +598078,75 @@ window.CATALOG = {
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3995,
+       "id": 4014,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4005,
+       "id": 4016,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3986,
+       "id": 4023,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3988,
+       "id": 4021,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3987,
+       "id": 4015,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3989,
+       "id": 4012,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4018,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4020,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4019,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4013,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4007,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4028,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4017,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4027,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4008,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4010,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4009,
+       "from_source": "saimin-sweep-nov11"
+      },
+      {
+       "id": 4011,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -596216,7 +598734,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15",
     "weekly-oct19",
     "deep-oct24",
-    "vashikaran-nov11"
+    "vashikaran-nov11",
+    "hypnosis-nov11"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 8,
@@ -596228,7 +598747,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15": null,
     "weekly-oct19": null,
     "deep-oct24": null,
-    "vashikaran-nov11": null
+    "vashikaran-nov11": null,
+    "hypnosis-nov11": null
    },
    "groups": [
     {
@@ -596429,6 +598949,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "vashikaran-nov11"
+    },
+    {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3991,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3990,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
     }
    ]
   },
@@ -596490,7 +599025,8 @@ window.CATALOG = {
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
     "deep-refresh-nov04",
-    "vertical-hypnosis-nov6-r6"
+    "vertical-hypnosis-nov6-r6",
+    "hypnosis-nov11"
    ],
    "groups": [
     {
@@ -596934,6 +599470,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r6"
+    },
+    {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3999,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 4002,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -596957,7 +599508,8 @@ window.CATALOG = {
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
-    "vertical-hypnosis-nov6-r6": null
+    "vertical-hypnosis-nov6-r6": null,
+    "hypnosis-nov11": null
    }
   },
   {
@@ -598655,15 +601207,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 4001,
+       "id": 4023,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4005,
+       "id": 4027,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3986,
+       "id": 4008,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -598718,6 +601270,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r4",
     "hypnosis-repeat-pregnancy-nov7",
+    "hypnosis-nov11",
     "saimin-sweep-nov11"
    ],
    "groups": [
@@ -599382,23 +601935,38 @@ window.CATALOG = {
      "from_source": "hypnosis-repeat-pregnancy-nov7"
     },
     {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3986,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3993,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
+    },
+    {
      "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
      "notes": [],
      "items": [
       {
-       "id": 3993,
+       "id": 4015,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3996,
+       "id": 4018,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3998,
+       "id": 4020,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3991,
+       "id": 4013,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -599434,6 +602002,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r2": null,
     "vertical-hypnosis-nov6-r4": null,
     "hypnosis-repeat-pregnancy-nov7": null,
+    "hypnosis-nov11": null,
     "saimin-sweep-nov11": null
    }
   },
@@ -599479,6 +602048,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6",
     "weekly-nov09",
     "deep-refresh-nov11",
+    "hypnosis-nov11",
     "saimin-sweep-nov11"
    ],
    "groups": [
@@ -601974,11 +604544,22 @@ window.CATALOG = {
      "from_source": "weekly-nov09"
     },
     {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4000,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
+    },
+    {
      "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
      "notes": [],
      "items": [
       {
-       "id": 3984,
+       "id": 4006,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -602021,6 +604602,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6": null,
     "weekly-nov09": null,
     "deep-refresh-nov11": null,
+    "hypnosis-nov11": null,
     "saimin-sweep-nov11": null
    }
   },
@@ -605502,7 +608084,7 @@ window.CATALOG = {
        "from_source": "partner-hypnosis-nov11"
       },
       {
-       "id": 4019,
+       "id": 4041,
        "from_source": "partner-hypnosis-nov11"
       },
       {
@@ -605510,7 +608092,7 @@ window.CATALOG = {
        "from_source": "partner-hypnosis-nov11"
       },
       {
-       "id": 4020,
+       "id": 4042,
        "from_source": "partner-hypnosis-nov11"
       },
       {
@@ -605992,67 +608574,67 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 4002,
+       "id": 4024,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4003,
+       "id": 4025,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4000,
+       "id": 4022,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4004,
+       "id": 4026,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3992,
+       "id": 4014,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3994,
+       "id": 4016,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4001,
+       "id": 4023,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3999,
+       "id": 4021,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3993,
+       "id": 4015,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3990,
+       "id": 4012,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3996,
+       "id": 4018,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3998,
+       "id": 4020,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3997,
+       "id": 4019,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3991,
+       "id": 4013,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3995,
+       "id": 4017,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4005,
+       "id": 4027,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -606172,6 +608754,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r7",
     "weekly-nov09",
     "vashikaran-nov11",
+    "hypnosis-nov11",
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11"
    ],
@@ -611190,19 +613773,46 @@ window.CATALOG = {
      "from_source": "vashikaran-nov11"
     },
     {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3999,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3988,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3998,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3989,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 4003,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
+    },
+    {
      "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
      "notes": [],
      "items": [
       {
-       "id": 4009,
+       "id": 4031,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4007,
+       "id": 4029,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4008,
+       "id": 4030,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -611251,6 +613861,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r7": null,
     "weekly-nov09": null,
     "vashikaran-nov11": null,
+    "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null
    }
@@ -613100,7 +615711,7 @@ window.CATALOG = {
        "from_source": "partner-hypnosis-nov11"
       },
       {
-       "id": 4019,
+       "id": 4041,
        "from_source": "partner-hypnosis-nov11"
       },
       {
@@ -613108,7 +615719,7 @@ window.CATALOG = {
        "from_source": "partner-hypnosis-nov11"
       },
       {
-       "id": 4020,
+       "id": 4042,
        "from_source": "partner-hypnosis-nov11"
       },
       {
@@ -613244,7 +615855,8 @@ window.CATALOG = {
     "deep-refresh-oct18",
     "deep-oct24",
     "deep-refresh-oct30",
-    "vertical-hypnosis-nov6"
+    "vertical-hypnosis-nov6",
+    "hypnosis-nov11"
    ],
    "declared_count_by_source": {
     "hypnotized-marriage": null,
@@ -613254,7 +615866,8 @@ window.CATALOG = {
     "deep-refresh-oct18": null,
     "deep-oct24": null,
     "deep-refresh-oct30": null,
-    "vertical-hypnosis-nov6": null
+    "vertical-hypnosis-nov6": null,
+    "hypnosis-nov11": null
    },
    "groups": [
     {
@@ -613509,6 +616122,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-oct24"
+    },
+    {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3997,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
     }
    ]
   },
@@ -613540,6 +616164,7 @@ window.CATALOG = {
     "hypnosis-deep-oct25c",
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
+    "hypnosis-nov11",
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11"
    ],
@@ -614042,23 +616667,34 @@ window.CATALOG = {
      "from_source": "hypnosis-deep-oct25c"
     },
     {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3992,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
+    },
+    {
      "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
      "notes": [],
      "items": [
       {
-       "id": 4000,
+       "id": 4022,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3992,
+       "id": 4014,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3994,
+       "id": 4016,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3995,
+       "id": 4017,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -614069,11 +616705,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 4019,
+       "id": 4041,
        "from_source": "partner-hypnosis-nov11"
       },
       {
-       "id": 4020,
+       "id": 4042,
        "from_source": "partner-hypnosis-nov11"
       }
      ],
@@ -614096,6 +616732,7 @@ window.CATALOG = {
     "hypnosis-deep-oct25c": null,
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r2": null,
+    "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null
    }
@@ -614143,6 +616780,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r4",
     "vertical-hypnosis-nov6-r6",
     "weekly-nov09",
+    "hypnosis-nov11",
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11"
    ],
@@ -615280,11 +617918,30 @@ window.CATALOG = {
      "from_source": "weekly-nov09"
     },
     {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4001,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3989,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 4003,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
+    },
+    {
      "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
      "notes": [],
      "items": [
       {
-       "id": 4009,
+       "id": 4031,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -615322,6 +617979,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r4": null,
     "vertical-hypnosis-nov6-r6": null,
     "weekly-nov09": null,
+    "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null
    }
@@ -615343,7 +618001,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25",
     "hypnosis-deep-oct25c",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "hypnosis-nov11"
    ],
    "groups": [
     {
@@ -615700,6 +618359,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25c"
+    },
+    {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3993,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -615713,7 +618383,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25": null,
     "hypnosis-deep-oct25c": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "hypnosis-nov11": null
    }
   },
   {
@@ -615769,6 +618440,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r6",
     "vashikaran-nov11",
+    "hypnosis-nov11",
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11"
    ],
@@ -618266,11 +620938,22 @@ window.CATALOG = {
      "from_source": "vashikaran-nov11"
     },
     {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3984,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
+    },
+    {
      "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
      "notes": [],
      "items": [
       {
-       "id": 4007,
+       "id": 4029,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -618308,6 +620991,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r2": null,
     "vertical-hypnosis-nov6-r6": null,
     "vashikaran-nov11": null,
+    "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null
    }
@@ -618848,43 +621532,43 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 3984,
+       "id": 4006,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3992,
+       "id": 4014,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3994,
+       "id": 4016,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3999,
+       "id": 4021,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3990,
+       "id": 4012,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3996,
+       "id": 4018,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3991,
+       "id": 4013,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3985,
+       "id": 4007,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3986,
+       "id": 4008,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3987,
+       "id": 4009,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -620539,7 +623223,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 3986,
+       "id": 4008,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -620602,6 +623286,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r4",
     "vertical-hypnosis-nov6-r5",
     "vertical-hypnosis-nov6-r6",
+    "hypnosis-nov11",
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11"
    ],
@@ -622644,35 +625329,62 @@ window.CATALOG = {
      "from_source": "vertical-hypnosis-nov6-r6"
     },
     {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4005,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 4001,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3991,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3985,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3990,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
+    },
+    {
      "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
      "notes": [],
      "items": [
       {
-       "id": 4004,
+       "id": 4026,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4001,
+       "id": 4023,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4006,
+       "id": 4028,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4005,
+       "id": 4027,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3988,
+       "id": 4010,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3987,
+       "id": 4009,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3989,
+       "id": 4011,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -622728,6 +625440,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r4": null,
     "vertical-hypnosis-nov6-r5": null,
     "vertical-hypnosis-nov6-r6": null,
+    "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null
    }
@@ -622818,6 +625531,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6",
     "hypnosis-repeat-pregnancy-nov7",
     "pdf-hypnosis-sweeps-nov08",
+    "hypnosis-nov11",
     "partner-hypnosis-nov11"
    ],
    "groups": [
@@ -623903,6 +626617,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "pdf-hypnosis-sweeps-nov08"
+    },
+    {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3994,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3995,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 4002,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3992,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -623926,6 +626663,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6": null,
     "hypnosis-repeat-pregnancy-nov7": null,
     "pdf-hypnosis-sweeps-nov08": null,
+    "hypnosis-nov11": null,
     "partner-hypnosis-nov11": null
    }
   },
@@ -625771,6 +628509,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r7",
     "pdf-hypnosis-sweeps-nov08",
     "deep-refresh-nov11",
+    "hypnosis-nov11",
     "saimin-sweep-nov11"
    ],
    "groups": [
@@ -628965,15 +631704,30 @@ window.CATALOG = {
      "from_source": "pdf-hypnosis-sweeps-nov08"
     },
     {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3991,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3990,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
+    },
+    {
      "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
      "notes": [],
      "items": [
       {
-       "id": 4007,
+       "id": 4029,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4008,
+       "id": 4030,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -629013,6 +631767,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r7": null,
     "pdf-hypnosis-sweeps-nov08": null,
     "deep-refresh-nov11": null,
+    "hypnosis-nov11": null,
     "saimin-sweep-nov11": null
    }
   },
@@ -631011,6 +633766,7 @@ window.CATALOG = {
     "hypno-pregnant-yt-oct25",
     "deep-refresh-oct30",
     "pdf-hypnosis-sweeps-nov08",
+    "hypnosis-nov11",
     "saimin-sweep-nov11"
    ],
    "declared_count_by_source": {
@@ -631020,6 +633776,7 @@ window.CATALOG = {
     "hypno-pregnant-yt-oct25": null,
     "deep-refresh-oct30": null,
     "pdf-hypnosis-sweeps-nov08": null,
+    "hypnosis-nov11": null,
     "saimin-sweep-nov11": null
    },
    "groups": [
@@ -631102,23 +633859,34 @@ window.CATALOG = {
      "from_source": "pdf-hypnosis-sweeps-nov08"
     },
     {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4004,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
+    },
+    {
      "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
      "notes": [],
      "items": [
       {
-       "id": 3992,
+       "id": 4014,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3999,
+       "id": 4021,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3990,
+       "id": 4012,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3991,
+       "id": 4013,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -632532,39 +635300,39 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 4015,
+       "id": 4037,
        "from_source": "pregnant-intimacy-nov11"
       },
       {
-       "id": 4011,
+       "id": 4033,
        "from_source": "pregnant-intimacy-nov11"
       },
       {
-       "id": 4018,
+       "id": 4040,
        "from_source": "pregnant-intimacy-nov11"
       },
       {
-       "id": 4012,
+       "id": 4034,
        "from_source": "pregnant-intimacy-nov11"
       },
       {
-       "id": 4010,
+       "id": 4032,
        "from_source": "pregnant-intimacy-nov11"
       },
       {
-       "id": 4014,
+       "id": 4036,
        "from_source": "pregnant-intimacy-nov11"
       },
       {
-       "id": 4017,
+       "id": 4039,
        "from_source": "pregnant-intimacy-nov11"
       },
       {
-       "id": 4013,
+       "id": 4035,
        "from_source": "pregnant-intimacy-nov11"
       },
       {
-       "id": 4016,
+       "id": 4038,
        "from_source": "pregnant-intimacy-nov11"
       }
      ],
@@ -633001,11 +635769,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 4010,
+       "id": 4032,
        "from_source": "pregnant-intimacy-nov11"
       },
       {
-       "id": 4013,
+       "id": 4035,
        "from_source": "pregnant-intimacy-nov11"
       }
      ],
@@ -633149,7 +635917,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 4014,
+       "id": 4036,
        "from_source": "pregnant-intimacy-nov11"
       }
      ],
@@ -633991,12 +636759,14 @@ window.CATALOG = {
    "from_sources": [
     "ig6qlxqxoxvcxla",
     "recheck-oct14",
-    "pdf-hypnosis-sweeps-nov08"
+    "pdf-hypnosis-sweeps-nov08",
+    "hypnosis-nov11"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 15,
     "recheck-oct14": null,
-    "pdf-hypnosis-sweeps-nov08": null
+    "pdf-hypnosis-sweeps-nov08": null,
+    "hypnosis-nov11": null
    },
    "groups": [
     {
@@ -634180,6 +636950,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "pdf-hypnosis-sweeps-nov08"
+    },
+    {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4004,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3984,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
     }
    ]
   },
@@ -637366,7 +640151,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 3998,
+       "id": 4020,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -637503,11 +640288,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 3993,
+       "id": 4015,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3997,
+       "id": 4019,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -637718,7 +640503,8 @@ window.CATALOG = {
     "deep-refresh-oct30",
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6-r4",
-    "pdf-hypnosis-sweeps-nov08"
+    "pdf-hypnosis-sweeps-nov08",
+    "hypnosis-nov11"
    ],
    "groups": [
     {
@@ -642225,6 +645011,49 @@ window.CATALOG = {
       }
      ],
      "from_source": "pdf-hypnosis-sweeps-nov08"
+    },
+    {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4004,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3988,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3987,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3994,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3997,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3995,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3996,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3985,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3984,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
     }
    ],
    "declared_count_by_source": {
@@ -642247,7 +645076,8 @@ window.CATALOG = {
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
     "vertical-hypnosis-nov6-r4": null,
-    "pdf-hypnosis-sweeps-nov08": null
+    "pdf-hypnosis-sweeps-nov08": null,
+    "hypnosis-nov11": null
    }
   },
   {
@@ -649514,6 +652344,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6",
     "vertical-hypnosis-nov6-r7",
     "pdf-hypnosis-sweeps-nov08",
+    "hypnosis-nov11",
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11"
    ],
@@ -652278,39 +655109,94 @@ window.CATALOG = {
      "from_source": "pdf-hypnosis-sweeps-nov08"
     },
     {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3986,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 4000,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3988,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3987,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3998,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3994,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3997,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3993,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3995,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3996,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3984,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 4003,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
+    },
+    {
      "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
      "notes": [],
      "items": [
       {
-       "id": 4002,
+       "id": 4024,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4003,
+       "id": 4025,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4004,
+       "id": 4026,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3984,
+       "id": 4006,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3998,
+       "id": 4020,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3985,
+       "id": 4007,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3995,
+       "id": 4017,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3987,
+       "id": 4009,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -652351,6 +655237,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r6": null,
     "vertical-hypnosis-nov6-r7": null,
     "pdf-hypnosis-sweeps-nov08": null,
+    "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null
    }
@@ -652382,6 +655269,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r7",
     "vashikaran-nov11",
     "deep-refresh-nov11",
+    "hypnosis-nov11",
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11"
    ],
@@ -652407,6 +655295,7 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r7": null,
     "vashikaran-nov11": null,
     "deep-refresh-nov11": null,
+    "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null
    },
@@ -653121,63 +656010,86 @@ window.CATALOG = {
      "from_source": "vashikaran-nov11"
     },
     {
+     "title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3994,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 4002,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3989,
+       "from_source": "hypnosis-nov11"
+      },
+      {
+       "id": 3992,
+       "from_source": "hypnosis-nov11"
+      }
+     ],
+     "from_source": "hypnosis-nov11"
+    },
+    {
      "title": "Female characters under saimin / hypnosis — worldwide sweep (Nov 11)",
      "notes": [],
      "items": [
       {
-       "id": 4009,
+       "id": 4031,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4000,
+       "id": 4022,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3992,
+       "id": 4014,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3994,
+       "id": 4016,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4001,
+       "id": 4023,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3999,
+       "id": 4021,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3993,
+       "id": 4015,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3990,
+       "id": 4012,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3996,
+       "id": 4018,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3997,
+       "id": 4019,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3991,
+       "id": 4013,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 4006,
+       "id": 4028,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3995,
+       "id": 4017,
        "from_source": "saimin-sweep-nov11"
       },
       {
-       "id": 3986,
+       "id": 4008,
        "from_source": "saimin-sweep-nov11"
       }
      ],
@@ -653192,7 +656104,7 @@ window.CATALOG = {
        "from_source": "partner-hypnosis-nov11"
       },
       {
-       "id": 4019,
+       "id": 4041,
        "from_source": "partner-hypnosis-nov11"
       },
       {
@@ -653200,7 +656112,7 @@ window.CATALOG = {
        "from_source": "partner-hypnosis-nov11"
       },
       {
-       "id": 4020,
+       "id": 4042,
        "from_source": "partner-hypnosis-nov11"
       },
       {
@@ -653504,7 +656416,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 4001,
+       "id": 4023,
        "from_source": "saimin-sweep-nov11"
       }
      ],

@@ -218,6 +218,7 @@ SOURCES = [
     {"id": "vashikaran-nov11", "label": "Vashikaran deep search (11 Nov 2026)", "local": "sources/vashikaran-nov11.json", "required": True},
     {"id": "deep-refresh-nov11", "label": "Deep refresh across all criteria (11 Nov 2026)",
      "local": "sources/deep-refresh-nov11.json", "required": False},
+    {"id": "hypnosis-nov11", "label": "All-media female hypnosis deep search (11 Nov 2026)", "local": "sources/hypnosis-nov11.json", "required": True},
     {"id": "saimin-sweep-nov11", "label": "Saimin / hypnosis sweep (11 Nov 2026)", "local": "sources/saimin-sweep-nov11.json", "required": True},
     {"id": "pregnant-intimacy-nov11", "label": "Pregnant-character intimacy deep search (11 Nov 2026)", "local": "sources/pregnant-intimacy-nov11.json", "required": False},
     {"id": "partner-hypnosis-nov11", "label": "Hypnotized by her own partner / husband (11 Nov 2026)",

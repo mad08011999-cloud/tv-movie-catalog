@@ -1,0 +1,1090 @@
+{
+ "id": "hypnosis-nov11",
+ "label": "All-media female hypnosis deep search (11 Nov 2026)",
+ "group_title": "Female hypnosis / mind control — all-media deep search (11 Nov 2026)",
+ "description": "Worldwide all-media sweep (TV episode guides, soaps, anime, games, comics, silent film, C-drama) for adult female characters who are hypnotised, brainwashed or mind-controlled. Possession, curses and magic that isn't explicit mind control are excluded, as are minors and children's shows. Fields not given by the sources are 'not stated'.",
+ "category_labels": {},
+ "records": [
+  {
+   "fit": "core",
+   "already_married": "B'Elanna: yes (Tom Paris); Janeway: no",
+   "married": "yes",
+   "pregnant_end": "yes — B'Elanna is pregnant with Tom Paris's child throughout the episode",
+   "pregnancy_note": "B'Elanna's pregnancy with Tom Paris's child is established in 'Lineage' (aired 24 Jan 2001) and she is described as pregnant in 'Workforce'",
+   "pregnant_end_note": "B'Elanna is still pregnant at the end (by her husband Tom Paris); Janeway is not pregnant",
+   "kids_status": "no — none of the women had children before",
+   "kids_together": "B'Elanna and Tom: their daughter is born later in the series ('Endgame'); Janeway and Jaffen: no",
+   "kids_note": "B'Elanna was pregnant (first child); Janeway had no children",
+   "episodes": [
+    {
+     "episode": "S07E16 Workforce, Part I",
+     "gist": "crew brainwashed into jobs on the Quarra homeworld; Janeway meets Jaffen"
+    },
+    {
+     "episode": "S07E17 Workforce, Part II",
+     "gist": "rescue and restoration of memories"
+    }
+   ],
+   "gain_motive": [
+    "labour / forced work"
+   ],
+   "hypnotist": "the Quarren authorities",
+   "method": "memory-wipe brainwashing (technological)",
+   "title": "Star Trek: Voyager — \"Workforce\"",
+   "year": "2001",
+   "format": "TV episode",
+   "meta": "TV episode · USA · English · UPN · Season 7, Episodes 16–17 (two-parter) · aired 21 & 28 Feb 2001",
+   "character": "Captain Kathryn Janeway (Kate Mulgrew); also B'Elanna Torres (Roxann Dawson) and Seven of Nine",
+   "summary": "The Voyager crew is brainwashed into taking new jobs on an industrialised planet with a labour shortage. With her memory replaced, Janeway works at the power plant and falls for a local man, Jaffen. B'Elanna, who is pregnant, also works at the plant with her memory wiped and meets Tom Paris as a stranger. The Doctor, Chakotay, Kim and Neelix rescue the crew and restore their memories.",
+   "mechanism": "memory replacement / brainwashing to supply workers",
+   "categories": [
+    "scifi",
+    "forced-obedience",
+    "love",
+    "index-37"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Star Trek: Voyager (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/star-trek-voyager"
+    },
+    {
+     "label": "Wikipedia — Workforce (episode plot)",
+     "url": "https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)"
+    },
+    {
+     "label": "Wikipedia — Lineage (B'Elanna and Tom's pregnancy)",
+     "url": "https://en.wikipedia.org/wiki/Lineage_(Star_Trek:_Voyager)"
+    }
+   ],
+   "evidence": "Wikipedia episode article plus 'Lineage' article for the pregnancy",
+   "confidence_flag": "high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "no",
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "no pregnancy",
+   "kids_status": "no",
+   "kids_together": "no",
+   "kids_note": "no children",
+   "episodes": [
+    {
+     "episode": "S04E17 Retrospect",
+     "gist": "Doctor hypnotises Seven; she recovers a false 'repressed memory'"
+    }
+   ],
+   "gain_motive": [
+    "recover a memory"
+   ],
+   "hypnotist": "the Doctor (EMH)",
+   "method": "therapeutic hypnosis (memory regression)",
+   "title": "Star Trek: Voyager — \"Retrospect\"",
+   "year": "1998",
+   "format": "TV episode",
+   "meta": "TV episode · USA · English · UPN · Season 4, Episode 17 · aired 25 Feb 1998",
+   "character": "Seven of Nine (Jeri Ryan)",
+   "summary": "After Seven of Nine strikes the arms dealer Kovin, the Doctor puts her under hypnosis. In the trance she 'recalls' Kovin forcibly removing Borg technology from her body. The memory turns out to be unreliable, Kovin dies fleeing, and the Doctor regrets using hypnosis on her.",
+   "mechanism": "hypnotic regression",
+   "categories": [
+    "medical",
+    "scifi"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Star Trek: Voyager (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/star-trek-voyager"
+    },
+    {
+     "label": "Wikipedia — Retrospect (episode plot)",
+     "url": "https://en.wikipedia.org/wiki/Retrospect_(Star_Trek:_Voyager)"
+    }
+   ],
+   "evidence": "Wikipedia episode article",
+   "confidence_flag": "high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "loose",
+   "already_married": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "Return of the Cybernauts (1967)",
+     "gist": "Beresford's gift is a control device placed on Emma Peel"
+    }
+   ],
+   "gain_motive": [
+    "revenge"
+   ],
+   "hypnotist": "Paul Beresford (Peter Cushing)",
+   "method": "mind-control bracelet / watch",
+   "title": "The Avengers — \"Return of the Cybernauts\"",
+   "year": "1967",
+   "format": "TV episode",
+   "meta": "TV episode · UK · English · ABC (ITV) · Series 5 (colour Emma Peel season) · aired 27 Sep 1967",
+   "character": "Mrs. Emma Peel (Diana Rigg)",
+   "summary": "Scientists are being kidnapped by Paul Beresford, who wants revenge for his brother's death in the first Cybernauts episode. He courts Emma Peel and gives her a gift (a wristwatch/bracelet) that is really a control device, so the Cybernauts can home in on her and she becomes his pawn against Steed.",
+   "mechanism": "control device",
+   "categories": [
+    "tech",
+    "forced-obedience"
+   ],
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — The Avengers (1961) (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/the-avengers"
+    },
+    {
+     "label": "Wikipedia — List of The Avengers episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_The_Avengers_(TV_series)_episodes"
+    },
+    {
+     "label": "TV Tropes — Hypno Trinket (mind-control bracelet)",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoTrinket"
+    }
+   ],
+   "evidence": "Wikipedia describes the watch as a homing device; TV Tropes describes it as a mind-control device",
+   "confidence_flag": "medium: the two sources describe the device differently",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "no",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [],
+   "gain_motive": [
+    "power / the Key to Time"
+   ],
+   "hypnotist": "the Shadow (agent of the Black Guardian)",
+   "method": "mind-control device",
+   "title": "Doctor Who — \"The Armageddon Factor\"",
+   "year": "1979",
+   "format": "TV serial",
+   "meta": "TV serial · UK · English · BBC One · Season 16, serial 6 (6 parts) · Jan–Feb 1979",
+   "character": "Princess Astra of Atrios (Lalla Ward)",
+   "summary": "Princess Astra, ruler of Atrios, is kidnapped by the Shadow, servant of the Black Guardian, because she is the sixth segment of the Key to Time. The Shadow fits his prisoners with control devices; when Astra rejoins the Doctor she seems to have escaped but has in fact been made the Shadow's pawn.",
+   "mechanism": "control device",
+   "categories": [
+    "scifi",
+    "forced-obedience"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Doctor Who (1963) (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/doctor-who-1963"
+    },
+    {
+     "label": "Wikipedia — The Armageddon Factor (plot)",
+     "url": "https://en.wikipedia.org/wiki/The_Armageddon_Factor"
+    },
+    {
+     "label": "TV Tropes — Hypno Trinket",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoTrinket"
+    }
+   ],
+   "evidence": "Wikipedia plot plus TV Tropes",
+   "confidence_flag": "medium-high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "S04E05 Animals",
+     "gist": "Servalan brainwashes Dayna to help capture Justin"
+    }
+   ],
+   "gain_motive": [
+    "capture an enemy"
+   ],
+   "hypnotist": "Servalan",
+   "method": "brainwashing",
+   "title": "Blake's 7 — \"Animals\"",
+   "year": "1981",
+   "format": "TV episode",
+   "meta": "TV episode · UK · English · BBC One · Series 4, Episode 5 · aired 26 Oct 1981",
+   "character": "Dayna Mellanby (Josette Simon)",
+   "summary": "On Bucol II, Dayna seeks out the geneticist Justin to help make an antidote to the Federation's pacification drug. Servalan learns of Justin's secret project, captures Dayna and brainwashes her into helping capture her friend.",
+   "mechanism": "brainwashing",
+   "categories": [
+    "scifi",
+    "forced-obedience",
+    "human"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Blake's 7 (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/blakes-7"
+    },
+    {
+     "label": "Wikipedia — List of Blake's 7 episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Blake%27s_7_episodes"
+    }
+   ],
+   "evidence": "Wikipedia episode summary",
+   "confidence_flag": "high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "yes",
+   "married": "yes",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "S05E06 Magic Majestic",
+     "gist": "cold case of a wife hypnotised into killing her husband"
+    }
+   ],
+   "gain_motive": [
+    "ruin the magician / murder"
+   ],
+   "hypnotist": "stage magician Billy Carse (script secretly altered by someone else)",
+   "method": "stage hypnosis with post-hypnotic suggestion",
+   "title": "New Tricks — \"Magic Majestic\"",
+   "year": "2008",
+   "format": "TV episode",
+   "meta": "TV episode · UK · English · BBC One · Series 5, Episode 6 · aired 11 Aug 2008",
+   "character": "Katie Briers",
+   "summary": "Brian believes Katie Briers, who killed her husband ten years earlier, was hypnotised into doing it by the stage magician Billy Carse. UCOS reopen the case and find that the hypnosis script used on her contained suggestive language Carse could not have written himself.",
+   "mechanism": "post-hypnotic suggestion",
+   "categories": [
+    "crime",
+    "wife-hypnotized",
+    "human"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — New Tricks (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/new-tricks"
+    },
+    {
+     "label": "Wikipedia — List of New Tricks episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_New_Tricks_episodes"
+    },
+    {
+     "label": "Radio Times — S5-E6 Magic Majestic",
+     "url": "http://www.radiotimes.com/tv-programme/e/c6q5/new-tricks--s5-e6-magic-majestic"
+    }
+   ],
+   "evidence": "Wikipedia episode summary",
+   "confidence_flag": "high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "S01E04 Ellen's Flip Side",
+     "gist": "patient hypnotised to trust doctors; nurse Ellen accidentally hypnotised into a vamp"
+    }
+   ],
+   "gain_motive": [
+    "cure a phobia (accidental side effect)"
+   ],
+   "hypnotist": "Dr. Jerry Noland (James Whitmore Jr.)",
+   "method": "hypnosis",
+   "title": "Temperatures Rising — \"Ellen's Flip Side\"",
+   "year": "1972",
+   "format": "TV episode",
+   "meta": "TV episode · USA · English · ABC · Season 1, Episode 4 · aired 3 Oct 1972 · sitcom",
+   "character": "a patient afraid of doctors (Alice Ghostley) and student nurse Ellen",
+   "summary": "To cure a patient of her fear of doctors, Dr. Noland poses as a hairdresser and hypnotises her into loving and trusting doctors. By accident he hypnotises the demure student nurse Ellen as well, turning her into the hospital vamp.",
+   "mechanism": "hypnotic suggestion",
+   "categories": [
+    "medical",
+    "index-62",
+    "other-control"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — List of Temperatures Rising episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Temperatures_Rising_episodes"
+    }
+   ],
+   "evidence": "Wikipedia episode summary; no streaming page found",
+   "confidence_flag": "high for the plot; no streaming source",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "no",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "no biological children; she is the live-in housekeeper and carer of the Kanisky girls",
+   "kids_together": "no",
+   "kids_note": "raising the Kanisky girls, not her own children",
+   "episodes": [
+    {
+     "episode": "Knock Three Times (2 Feb 1984)",
+     "gist": "post-hypnotic truth-telling trigger"
+    }
+   ],
+   "gain_motive": [
+    "recover a memory"
+   ],
+   "hypnotist": "a doctor (hypnotist)",
+   "method": "hypnosis with a lingering post-hypnotic trigger (three knocks)",
+   "title": "Gimme a Break! — \"Knock Three Times\"",
+   "year": "1984",
+   "format": "TV episode",
+   "meta": "TV episode · USA · English · NBC · Season 3 · aired 2 Feb 1984 · sitcom",
+   "character": "Nell Harper (Nell Carter)",
+   "summary": "Nell is hypnotised to remember where she put Katie's graduation ring. The doctor forgets to remove the trance, so whenever she hears three knocks she tells the absolute truth, airing the girls' secrets. She ends up telling James she cannot marry him until the kids are grown.",
+   "mechanism": "post-hypnotic trigger",
+   "categories": [
+    "medical",
+    "index-62",
+    "other-control"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Gimme a Break! (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/gimme-a-break"
+    },
+    {
+     "label": "Wikipedia — List of Gimme a Break! episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Gimme_a_Break!_episodes"
+    }
+   ],
+   "evidence": "Wikipedia episode summary",
+   "confidence_flag": "high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "loose",
+   "already_married": "yes",
+   "married": "yes",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "yes — she is the mother of the Gallagher children",
+   "kids_together": "yes — she and Frank already have children together (from before)",
+   "kids_note": "mother of the Gallagher children",
+   "episodes": [
+    {
+     "episode": "S06E04 Loving Wife",
+     "gist": "Monica visits a stage hypnotist and ends up seducing him"
+    }
+   ],
+   "gain_motive": [
+    "rekindle her marriage (backfires)"
+   ],
+   "hypnotist": "a stage hypnotist at The Jockey",
+   "method": "stage hypnosis",
+   "title": "Shameless — \"Loving Wife\"",
+   "year": "2009",
+   "format": "TV episode",
+   "meta": "TV episode · UK · English · Channel 4 · Series 6, Episode 4 · aired 17 Feb 2009",
+   "character": "Monica Gallagher (Annabelle Apsion)",
+   "summary": "Feeling unwanted by Frank, Monica goes to a stage hypnotist performing at The Jockey, hoping to rekindle their love life. It has the opposite effect: she ends up seducing the hypnotist.",
+   "mechanism": "hypnosis session",
+   "categories": [
+    "wife-hypnotized",
+    "mother",
+    "cheat-control"
+   ],
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Shameless (UK) (where to watch)",
+     "url": "https://www.justwatch.com/uk/tv-series/shameless"
+    },
+    {
+     "label": "Wikipedia — List of Shameless (British TV series) episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Shameless_(British_TV_series)_episodes"
+    }
+   ],
+   "evidence": "Wikipedia summary does not say outright that the hypnosis took hold",
+   "confidence_flag": "low-medium",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "no",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "S02E09 Bachelorette (29 May 2020)",
+     "gist": "Eris hypnotises Queen Hippolyta to sell Themyscira"
+    },
+    {
+     "episode": "S02E12 Lovers' Quarrel (19 Jun 2020)",
+     "gist": "Doctor Psycho mind-controls Poison Ivy"
+    }
+   ],
+   "gain_motive": [
+    "sell the island / power",
+    "revenge"
+   ],
+   "hypnotist": "Eris (Hippolyta); Doctor Psycho (Ivy)",
+   "method": "hypnosis (Hippolyta); mind-control helmet (Ivy)",
+   "title": "Harley Quinn",
+   "year": "2020",
+   "format": "Adult animated series",
+   "meta": "Adult animated series · USA · English · DC Universe / HBO Max · Season 2 · TV-MA",
+   "character": "Queen Hippolyta (S2E9) and Poison Ivy (S2E12)",
+   "summary": "In \"Bachelorette\" (S2E9), Harley learns that Eris has hypnotised Queen Hippolyta into selling Themyscira to LexCorp, and the girls free her. In \"Lovers' Quarrel\" (S2E12), Doctor Psycho uses a stolen mind-control helmet to enslave Poison Ivy, making her use her pheromones on the Justice League and fight Harley until Harley frees her.",
+   "mechanism": "hypnosis / mind-control helmet",
+   "categories": [
+    "royal-hypnosis",
+    "tech",
+    "forced-obedience"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Harley Quinn (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/harley-quinn"
+    },
+    {
+     "label": "Wikipedia — List of Harley Quinn episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Harley_Quinn_episodes"
+    }
+   ],
+   "evidence": "Wikipedia episode summaries",
+   "confidence_flag": "high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "yes",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "no pregnancy in this arc",
+   "kids_status": "yes — daughter Marron",
+   "kids_together": "yes — Marron, born before this arc",
+   "kids_note": "daughter Marron with Krillin",
+   "episodes": [
+    {
+     "episode": "Ep 43 The Resurrection of Cell and Frieza",
+     "gist": "17 hypnotises 18"
+    },
+    {
+     "episode": "Ep 44 17 Times 2",
+     "gist": "Krillin breaks the trance and is killed"
+    }
+   ],
+   "gain_motive": [
+    "recruit her as an ally"
+   ],
+   "hypnotist": "Android 17 (her twin brother)",
+   "method": "hypnosis",
+   "title": "Dragon Ball GT — \"The Resurrection of Cell and Frieza\" / \"17 Times 2\"",
+   "year": "1997",
+   "format": "Anime TV episodes",
+   "meta": "Anime TV series · Japan · Japanese · Fuji TV · Episodes 43–44 · aired 23 & 30 Apr 1997",
+   "character": "Android 18",
+   "summary": "The original Android 17 confronts his twin sister Android 18 and hypnotises her, telling her to join him. Her husband Krillin brings her back to her senses, and 17 kills him; 18 then attacks 17 to avenge Krillin but is defeated.",
+   "mechanism": "hypnosis",
+   "categories": [
+    "scifi",
+    "wife-hypnotized",
+    "mother",
+    "forced-obedience"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "Crunchyroll — Dragon Ball GT",
+     "url": "https://www.crunchyroll.com/series/GY8VEQ95Y/dragon-ball-gt"
+    },
+    {
+     "label": "JustWatch — Dragon Ball GT (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/dragon-ball-gt"
+    },
+    {
+     "label": "Wikipedia — List of Dragon Ball GT episodes (plot)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_GT_episodes"
+    },
+    {
+     "label": "Wikipedia — Android 18 (spouse and daughter)",
+     "url": "https://en.wikipedia.org/wiki/Android_18"
+    }
+   ],
+   "evidence": "Wikipedia episode list plus character article",
+   "confidence_flag": "high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "yes — her daughter Liara T'Soni",
+   "kids_together": "not stated",
+   "kids_note": "estranged daughter Liara",
+   "episodes": [],
+   "gain_motive": [
+    "serve the Reapers"
+   ],
+   "hypnotist": "Sovereign (a Reaper) via Saren",
+   "method": "Reaper indoctrination",
+   "title": "Mass Effect",
+   "year": "2007",
+   "format": "Video game",
+   "meta": "Video game · Canada/USA · English · BioWare · Xbox 360 / PC / PS3 · also in Mass Effect Legendary Edition (2021)",
+   "character": "Matriarch Benezia",
+   "summary": "Matriarch Benezia, a powerful asari, serves the rogue Spectre Saren. When Shepard defeats her on Noveria she reveals that she and Saren are being indoctrinated (mind-controlled) by Saren's flagship Sovereign.",
+   "mechanism": "indoctrination",
+   "categories": [
+    "scifi",
+    "mother",
+    "forced-obedience"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "Steam — Mass Effect Legendary Edition",
+     "url": "https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/"
+    },
+    {
+     "label": "Wikipedia — Mass Effect (plot)",
+     "url": "https://en.wikipedia.org/wiki/Mass_Effect_(video_game)"
+    },
+    {
+     "label": "Wikipedia — Liara T'Soni (Benezia's daughter)",
+     "url": "https://en.wikipedia.org/wiki/Liara_T%27Soni"
+    }
+   ],
+   "evidence": "Wikipedia plot and character article",
+   "confidence_flag": "high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [],
+   "gain_motive": [
+    "serve the Reapers"
+   ],
+   "hypnotist": "the Reapers via Object Rho",
+   "method": "Reaper indoctrination",
+   "title": "Mass Effect 2: Arrival",
+   "year": "2011",
+   "format": "Video game (DLC)",
+   "meta": "Video game DLC · Canada/USA · English · BioWare · 2011 · included in Mass Effect Legendary Edition",
+   "character": "Dr. Amanda Kenson",
+   "summary": "Shepard frees Dr. Amanda Kenson from batarian captivity, but she and her whole project staff have been indoctrinated by the Reaper artifact Object Rho. She turns on Shepard to stop the Reapers' arrival from being delayed and dies detonating the reactor.",
+   "mechanism": "indoctrination",
+   "categories": [
+    "scifi",
+    "forced-obedience"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "Steam — Mass Effect Legendary Edition",
+     "url": "https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/"
+    },
+    {
+     "label": "Mass Effect Wiki (Fandom) — Amanda Kenson",
+     "url": "https://masseffect.fandom.com/wiki/Amanda_Kenson"
+    },
+    {
+     "label": "TV Tropes — Hypnotize the Captive",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeThePrincess"
+    }
+   ],
+   "evidence": "Fandom wiki character page plus TV Tropes",
+   "confidence_flag": "medium-high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "no — engaged to Simon during the control",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "no pregnancy; she fades away after the wedding",
+   "kids_status": "no",
+   "kids_together": "no — she fades away after marrying Simon",
+   "kids_note": "no children",
+   "episodes": [],
+   "gain_motive": [
+    "use her as their messenger"
+   ],
+   "hypnotist": "the Anti-Spirals",
+   "method": "alien programming / override of her personality",
+   "title": "Gurren Lagann",
+   "year": "2007",
+   "format": "Anime TV series",
+   "meta": "Anime TV series · Japan · Japanese · Gainax / TV Tokyo · 27 episodes · Apr–Sep 2007",
+   "character": "Nia Teppelin",
+   "summary": "After the time skip, Nia is engaged to Simon. She is revealed to have been created by the Anti-Spirals, who turn her into their cold 'Messenger Nia' and force her to fight Simon against her will until he rescues her. She marries Simon but then fades away, because her existence is tied to the Anti-Spirals.",
+   "mechanism": "personality override",
+   "categories": [
+    "scifi",
+    "forced-obedience",
+    "hypnotized-marriage"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Gurren Lagann (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/gurren-lagann"
+    },
+    {
+     "label": "Wikipedia — Gurren Lagann (plot)",
+     "url": "https://en.wikipedia.org/wiki/Gurren_Lagann"
+    }
+   ],
+   "evidence": "Wikipedia plot",
+   "confidence_flag": "high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "loose",
+   "already_married": "no",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [],
+   "gain_motive": [
+    "use her against the hero"
+   ],
+   "hypnotist": "Skullmageddon",
+   "method": "brainwashing",
+   "title": "Double Dragon Neon",
+   "year": "2012",
+   "format": "Video game",
+   "meta": "Video game · USA · English · WayForward / Majesco · PS3 / Xbox 360 (2012), PC (2014)",
+   "character": "Marian Kelly",
+   "summary": "Billy and Jimmy Lee fight to rescue Billy's girlfriend Marian from Skullmageddon. In the penultimate boss fight she has been brainwashed into 'Evil Marian' and fights alongside Skullmageddon.",
+   "mechanism": "brainwashing",
+   "categories": [
+    "forced-obedience",
+    "human"
+   ],
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Double Dragon Neon",
+     "url": "https://en.wikipedia.org/wiki/Double_Dragon_Neon"
+    },
+    {
+     "label": "TV Tropes — Hypnotize the Captive (Evil Marian)",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeThePrincess"
+    }
+   ],
+   "evidence": "the brainwashing is described only on TV Tropes; Wikipedia confirms the rescue plot",
+   "confidence_flag": "low-medium",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [],
+   "gain_motive": [
+    "ransom / political conversion"
+   ],
+   "hypnotist": "a group of radical kidnappers",
+   "method": "coercive brainwashing",
+   "title": "The Abduction",
+   "year": "1975",
+   "format": "Film",
+   "meta": "Film · USA · English · 1975 · directed by Joseph Zito · R-rated",
+   "character": "the kidnapped daughter of a rich property developer",
+   "summary": "The daughter of a rich property developer is kidnapped by radicals and held for ransom. After being brutalised and brainwashed, she is converted to their cause (a story echoing the Patty Hearst case).",
+   "mechanism": "coercive persuasion",
+   "categories": [
+    "cult",
+    "human"
+   ],
+   "tags": [
+    "hypnosis-nov11",
+    "R-rated"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Abduction (1975 film)",
+     "url": "https://en.wikipedia.org/wiki/Abduction_(1975_film)"
+    },
+    {
+     "label": "RogerEbert.com — review",
+     "url": "http://www.rogerebert.com/reviews/the-abduction-1975"
+    }
+   ],
+   "evidence": "Wikipedia premise citing Roger Ebert",
+   "confidence_flag": "medium",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "loose",
+   "already_married": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [],
+   "gain_motive": [
+    "build an army of minions"
+   ],
+   "hypnotist": "Malaya",
+   "method": "hypnosis (crown magic)",
+   "title": "Bagani",
+   "year": "2018",
+   "format": "TV series",
+   "meta": "TV series · Philippines · Filipino · ABS-CBN · Mar–Aug 2018 · fantasy",
+   "character": "Mahika (Francesca 'Chelsea' Bernasconi)",
+   "summary": "Mahika was assigned to guard Malaya's crown. When Malaya retrieves her crown, she hypnotises Mahika (and Mahiko), who become her minions.",
+   "mechanism": "hypnosis",
+   "categories": [
+    "fantasy",
+    "forced-obedience"
+   ],
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Bagani (TV series) (cast notes)",
+     "url": "https://en.wikipedia.org/wiki/Bagani_(TV_series)"
+    }
+   ],
+   "evidence": "single line in the Wikipedia cast table; no episode given and no streaming page verified",
+   "confidence_flag": "low-medium",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "no",
+   "married": "not",
+   "pregnant_end": "no",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "a pregnancy at the end is not stated in the episode summaries",
+   "kids_status": "no",
+   "kids_together": "not stated",
+   "kids_note": "none stated before the hypnosis",
+   "episodes": [
+    {
+     "episode": "Part 5",
+     "gist": "Grace hypnotised by 'Dr. DuPont'"
+    }
+   ],
+   "gain_motive": [
+    "uncover memories of the murders"
+   ],
+   "hypnotist": "Jeremiah the peddler, as 'Dr. Jerome DuPont'",
+   "method": "neuro-hypnosis (trance)",
+   "title": "Alias Grace — Part 5",
+   "year": "2017",
+   "format": "TV miniseries episode",
+   "meta": "TV miniseries · Canada · English · CBC / Netflix · Part 5 · aired 23 Oct 2017 · based on Margaret Atwood's novel",
+   "character": "Grace Marks (Sarah Gadon)",
+   "summary": "Jeremiah the peddler reappears posing as the 'neuro-hypnotist' Dr. DuPont. He suggests putting Grace into a trance to reach her memories of the Kinnear murders, and Grace agrees to be hypnotised despite Dr. Jordan's objections.",
+   "mechanism": "hypnotic trance",
+   "categories": [
+    "medical",
+    "crime"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "Netflix — Alias Grace",
+     "url": "https://www.netflix.com/title/80119411"
+    },
+    {
+     "label": "Wikipedia — Alias Grace (miniseries) (episode plot)",
+     "url": "https://en.wikipedia.org/wiki/Alias_Grace_(miniseries)"
+    }
+   ],
+   "evidence": "Wikipedia episode summary",
+   "confidence_flag": "high",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "loose",
+   "already_married": "yes",
+   "married": "yes",
+   "pregnant_end": "yes — pregnant with her second child (with husband Avery) at the end of the series",
+   "pregnancy_note": "her new pregnancy is what brings her back from the cult",
+   "pregnant_end_note": "visibly pregnant in the finale; Avery comes back to be with her",
+   "kids_status": "yes — daughter Cadence (born 2015)",
+   "kids_together": "yes — Cadence, plus a second Barkley child on the way",
+   "kids_note": "daughter Cadence; second child expected",
+   "episodes": [],
+   "gain_motive": [
+    "cult recruitment / money"
+   ],
+   "hypnotist": "Darius, a self-help guru / cult leader",
+   "method": "cult indoctrination / coercive brainwashing",
+   "title": "Nashville — Season 6 (Darius cult arc)",
+   "year": "2018",
+   "format": "TV series",
+   "meta": "TV series · USA · English · CMT · Season 6 · 2018",
+   "character": "Juliette Barnes (Hayden Panettiere)",
+   "summary": "Juliette falls under the influence of the self-help guru Darius and his cult. Darius surfaces buried childhood trauma, she pushes away her husband Avery, and she abandons her family to join the cult's outreach. She finally sees what the cult is and comes home, motivated by a new pregnancy.",
+   "mechanism": "coercive persuasion",
+   "categories": [
+    "cult",
+    "wife-hypnotized",
+    "mother"
+   ],
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "sources": [
+    {
+     "label": "JustWatch — Nashville (where to watch)",
+     "url": "https://www.justwatch.com/us/tv-show/nashville"
+    },
+    {
+     "label": "Wikipedia — Juliette Barnes (season 6 storyline, children)",
+     "url": "https://en.wikipedia.org/wiki/Juliette_Barnes"
+    },
+    {
+     "label": "Wikipedia — List of Nashville cast members (Darius 'brainwashes her')",
+     "url": "https://en.wikipedia.org/wiki/List_of_Nashville_cast_members"
+    }
+   ],
+   "evidence": "Wikipedia character article; the control is cult brainwashing rather than hypnosis",
+   "confidence_flag": "medium",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "core",
+   "already_married": "no",
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "no pregnancy stated",
+   "kids_status": "no",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [],
+   "gain_motive": [
+    "money / possession of her",
+    "murder of her father"
+   ],
+   "hypnotist": "Dr. Frankenstein, a hypnotist",
+   "method": "hypnosis",
+   "title": "The Strange Story of Sylvia Gray",
+   "year": "1914",
+   "format": "Silent film",
+   "meta": "Silent film · USA · English intertitles · 1914 · written and directed by Charles L. Gaskill · Helen Gardner",
+   "character": "Silvery (Sylvia Gray's daughter, grown up)",
+   "summary": "Twenty years after the opening events, Silvery is an artist's model in love with her employer Vanveldt. The hypnotist Dr. Frankenstein puts her under his spell, forcing her to leave Vanveldt for him, then hypnotises her to stab her father and steal $5,000. His jealous wife Vivette kills him, breaking the hold, and Silvery returns to Vanveldt and they become engaged.",
+   "mechanism": "hypnosis",
+   "categories": [
+    "crime",
+    "human",
+    "forced-obedience"
+   ],
+   "tags": [
+    "hypnosis-nov11"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — The Strange Story of Sylvia Gray (plot)",
+     "url": "https://en.wikipedia.org/wiki/The_Strange_Story_of_Sylvia_Gray"
+    }
+   ],
+   "evidence": "Wikipedia plot; no streaming copy found (the open 'Sylvia Gray' lead, now resolved)",
+   "confidence_flag": "high for the plot",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "loose",
+   "already_married": "no",
+   "married": "no",
+   "pregnant_end": "yes — by Marcus; she gives birth within the issue",
+   "pregnancy_note": "pregnancy by Marcus, accelerated",
+   "pregnant_end_note": "she has given birth by the end; the child grows into Marcus",
+   "kids_status": "no",
+   "kids_together": "the child is Marcus himself, who rapidly ages",
+   "kids_note": "no children before",
+   "episodes": [],
+   "gain_motive": [
+    "fathering himself / escape from limbo"
+   ],
+   "hypnotist": "Marcus (son of Immortus)",
+   "method": "implied mind control (Immortus's machines)",
+   "title": "The Avengers #200 (Marvel comic)",
+   "year": "1980",
+   "format": "Comic book",
+   "meta": "Comic book · USA · English · Marvel Comics · The Avengers vol. 1 #200 · Oct 1980",
+   "character": "Carol Danvers / Ms. Marvel",
+   "summary": "Ms. Marvel is abducted by Marcus, son of Immortus, to an alternate dimension and made pregnant. She gives birth on Earth to a child who rapidly ages into another Marcus, and she leaves with him. Critics such as Carol A. Strickland have argued the story implies Marcus brainwashed her into loving him.",
+   "mechanism": "implied brainwashing",
+   "categories": [
+    "pregnant-variants",
+    "index-37",
+    "scifi"
+   ],
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit",
+    "comic"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Carol Danvers (Avengers #200 storyline)",
+     "url": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    }
+   ],
+   "evidence": "Wikipedia; the mind control is implied and disputed rather than explicit",
+   "confidence_flag": "low-medium",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  },
+  {
+   "fit": "loose",
+   "already_married": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "not stated in the sources",
+   "pregnant_end_note": "the sources do not mention a pregnancy at the end",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "not stated in the sources",
+   "episodes": [
+    {
+     "episode": "Ep 21",
+     "gist": "hypnosis session with Dr. Lin"
+    }
+   ],
+   "gain_motive": [
+    "explore childhood memories"
+   ],
+   "hypnotist": "Dr. Lin",
+   "method": "therapeutic hypnosis",
+   "title": "About Love (玫瑰丛生) — Episode 21",
+   "year": "2026",
+   "format": "TV drama episode",
+   "meta": "TV drama · China · Mandarin · 2026 · Episode 21 'Li Xiao Xi Undergoes Hypnosis' · aired 8 Mar 2026",
+   "character": "Li Xiao Xi",
+   "summary": "Li Xiao Xi agrees to hypnosis with Dr. Lin to explore the childhood memories behind her distrust of relationships. Under hypnosis she recalls her father holding another little girl. She later reveals she was testing Dr. Lin's character for someone else.",
+   "mechanism": "hypnotic regression",
+   "categories": [
+    "medical"
+   ],
+   "tags": [
+    "hypnosis-nov11",
+    "loose fit"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList — About Love Episode 21",
+     "url": "https://mydramalist.com/754333-chan-nv/episode/21"
+    }
+   ],
+   "evidence": "MyDramaList episode synopsis only",
+   "confidence_flag": "medium: single source, therapeutic hypnosis",
+   "provenance": "Found in the all-media hypnosis deep search, 11 Nov 2026 PT"
+  }
+ ]
+}

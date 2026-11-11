@@ -53880,7 +53880,7 @@
    "title": "Cuidado con el Ángel",
    "year": "2008",
    "kept_id": 2334,
-   "retired_id": 4021
+   "retired_id": 4043
   }
  ],
  "merge_rules": [
@@ -54430,13 +54430,14 @@
   "weekly-nov09": 1,
   "vashikaran-nov11": 9,
   "deep-refresh-nov11": 7,
+  "hypnosis-nov11": 22,
   "saimin-sweep-nov11": 26,
   "pregnant-intimacy-nov11": 9,
   "partner-hypnosis-nov11": 18
  },
- "entry_count_after_dedupe": 3826,
+ "entry_count_after_dedupe": 3848,
  "within_source_groups": 6,
  "cross_source_groups": 2090,
  "index_only_records": 55,
- "local_only_records": 1554
+ "local_only_records": 1576
 }
