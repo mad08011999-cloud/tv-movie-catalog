@@ -4,6 +4,172 @@
  "group_title": "Deep gap-check (missed titles)",
  "description": "Multi-language sweep across every catalog topic, 11 Nov 2026. Focus on titles new since 4 Nov 2026, plus vertical dramas and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. This file was created at the start of the run so the weekly routine can see the refresh is in progress.",
  "category_labels": {},
- "records": [],
- "dropped": []
+ "records": [
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes (married adult woman)",
+   "title": "被催眠的她 (Lin Xiaowan / Jiang Lin)",
+   "year": "2026",
+   "format": "vertical short drama",
+   "meta": "China · Mandarin · 60 episodes · listings updated 31 Oct 2026 (distinct from the April 2026 Zhang Qing series of the same Chinese title)",
+   "character": "Lin Xiaowan (wife of Shen Yi)",
+   "summary": "After three years of marriage, Lin Xiaowan secretly visits hypnotist Jiang Lin to treat her husband's insomnia; after the first session her manner changes, she addresses her husband as \"master,\" cannot remember what she has done, and repeats secrets only Jiang Lin would know.",
+   "hypnotist": "Jiang Lin",
+   "method": "Hypnosis",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "黄豆短剧",
+     "url": "https://huangdoumj.com/series/details/6a53a7bb2cbdb80e01a102ca-bd.html"
+    },
+    {
+     "label": "玫瑰短剧",
+     "url": "https://mgdju.com/video/bei-cui-mian-de-ta.html"
+    }
+   ],
+   "evidence": "Platform synopses naming the same couple and hypnotist",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "yes",
+   "kids_together": "not stated",
+   "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes",
+   "title": "窃梦令：她自深海携光归",
+   "year": "2026",
+   "format": "vertical short drama",
+   "meta": "China · Mandarin · 汉鲸文化 · 60 episodes · first aired 9 Oct 2026",
+   "character": "Dai Jia (CEO of Jiajia Group, wife of Cheng Xianghu)",
+   "summary": "After her husband betrays her and tries to kill her, CEO Dai Jia is rescued by her former love, a hypnotist, who finds that the husband had used hypnosis to alter her memories of their earlier relationship; they work to restore her memory and expose the plot.",
+   "hypnotist": "Cheng Xianghu (husband); Wen Junxi (hypnotist who helps her)",
+   "method": "Hypnosis (memory alteration)",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "短剧百科",
+     "url": "https://duanjubaike.org/zh-Hans/drama/55231"
+    }
+   ],
+   "evidence": "Encyclopedia plot summary",
+   "confidence_flag": "Single source · flag",
+   "kids_note": "Synopsis says she later reclaims her child; the child's age is not stated."
+  },
+  {
+   "pregnant_end": "not stated",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes",
+   "title": "Jhaad Phoonk (झाड़-फूंक)",
+   "year": "2026",
+   "format": "film",
+   "meta": "India · Hindi · dir. Rajan Ramgopal Verma · released 30 Oct 2026; streaming on JioHotstar",
+   "character": "Aastha (pregnant; partner Rajveer)",
+   "summary": "After a car accident in the forests of Uttarakhand, pregnant Aastha is taken in by Mohan and Kamini Thakur. Press accounts say Mohan is skilled in ritual black magic, and Aastha comes to sense a plot around her and tries to protect her unborn child.",
+   "hypnotist": "Mohan Thakur and household",
+   "method": "Ritual black magic / tantra, as described in press",
+   "categories": [
+    "occult",
+    "tantrik",
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Times of India",
+     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/jhaad-phoonk/ottmoviereview/135340072.cms"
+    },
+    {
+     "label": "TV9 Telugu",
+     "url": "https://tv9telugu.com/entertainment/hinid-psychological-horror-thriller-movie-jhaad-phoonk-is-creating-sensation-on-jio-hotstar-ott-1949234.html"
+    }
+   ],
+   "evidence": "Two independent reviews describing the pregnant lead and ritual-black-magic household",
+   "confidence_flag": "Medium · 2 sources",
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Vampire Queen Rules All",
+   "reason": "Body possession: a vampire queen awakens in Elena's body; no separate mind-control plot verified."
+  },
+  {
+   "title": "Father's House (Faderhuset)",
+   "reason": "Documentary about cult pressure, humiliation and affection-cycling; no hypnosis, trance, drug, spell or device described. Age of an 'adopted' member in a ritual is unclear."
+  },
+  {
+   "title": "Aroma (Xue Ma, PÖFF 2026)",
+   "reason": "'Hypnotic cinematography' is metaphorical; a woman enters a comatose man's dream-world, not a control plot targeting her will."
+  },
+  {
+   "title": "Incuba Project",
+   "reason": "AFM announcement of a surrogacy horror not yet shot; no finished work to catalog."
+  },
+  {
+   "title": "The Leader",
+   "reason": "Already in the catalog from the 4 Nov refresh."
+  },
+  {
+   "title": "Beneath the Hypnosis",
+   "reason": "Already in the catalog (#2740)."
+  },
+  {
+   "title": "Rotation (El Gouna 2026)",
+   "reason": "Already in the catalog (#3930)."
+  },
+  {
+   "title": "Hypnotic / จิตสะกดแค้น",
+   "reason": "Already in the catalog (#658 / #3152)."
+  },
+  {
+   "title": "To Corrupt a Wife ~Through the Power of Hypnosis…~",
+   "reason": "Already in the catalog (#3810)."
+  },
+  {
+   "title": "Ochiru Yoru, Kowareru Hanayome ~Rinjin NTR Saimin~",
+   "reason": "Already in the catalog (#3809)."
+  },
+  {
+   "title": "The Remarried Empress",
+   "reason": "Children's/YA royal fantasy; also listed in dropped sources. Not a hypnosis-control title."
+  },
+  {
+   "title": "Sofia the First: Royal Magic",
+   "reason": "Children's series; not added."
+  },
+  {
+   "title": "Class In Hypnosis / Kelas Hipnosis",
+   "reason": "FLAGGED (minors): Korean short drama about a school student, Minah, who hypnotizes classmates; minors — not added."
+  },
+  {
+   "title": "Itsudemo Saimin (イツデモ催眠)",
+   "reason": "FLAGGED (minors): DLsite listing involves a wife and her daughter being hypnotized; minors — not added."
+  },
+  {
+   "title": "Hypnosis (Expanding Universe Games)",
+   "reason": "FLAGGED (minors): Visual novel includes the protagonist's best friend's little sister among the leads; minors risk — not added."
+  },
+  {
+   "title": "She Became a Maid and Healed the Billionaire's Troubled Son with Hypnosis",
+   "reason": "FLAGGED (minors): The patient is a 'troubled son' whose age is not verified as adult; not added."
+  },
+  {
+   "title": "MIAB-159",
+   "reason": "FLAGGED (minors): Adult-video listing describes hypnotizing a student; minors risk — not added."
+  }
+ ]
 }

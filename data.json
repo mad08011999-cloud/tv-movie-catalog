@@ -11809,10 +11809,79 @@
    "kind": "local",
    "share_url": "sources/deep-refresh-nov11.json",
    "description": "Multi-language sweep across every catalog topic, 11 Nov 2026. Focus on titles new since 4 Nov 2026, plus vertical dramas and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. This file was created at the start of the run so the weekly routine can see the refresh is in progress.",
-   "dropped": [],
+   "dropped": [
+    {
+     "title": "Vampire Queen Rules All",
+     "reason": "Body possession: a vampire queen awakens in Elena's body; no separate mind-control plot verified."
+    },
+    {
+     "title": "Father's House (Faderhuset)",
+     "reason": "Documentary about cult pressure, humiliation and affection-cycling; no hypnosis, trance, drug, spell or device described. Age of an 'adopted' member in a ritual is unclear."
+    },
+    {
+     "title": "Aroma (Xue Ma, PÖFF 2026)",
+     "reason": "'Hypnotic cinematography' is metaphorical; a woman enters a comatose man's dream-world, not a control plot targeting her will."
+    },
+    {
+     "title": "Incuba Project",
+     "reason": "AFM announcement of a surrogacy horror not yet shot; no finished work to catalog."
+    },
+    {
+     "title": "The Leader",
+     "reason": "Already in the catalog from the 4 Nov refresh."
+    },
+    {
+     "title": "Beneath the Hypnosis",
+     "reason": "Already in the catalog (#2740)."
+    },
+    {
+     "title": "Rotation (El Gouna 2026)",
+     "reason": "Already in the catalog (#3930)."
+    },
+    {
+     "title": "Hypnotic / จิตสะกดแค้น",
+     "reason": "Already in the catalog (#658 / #3152)."
+    },
+    {
+     "title": "To Corrupt a Wife ~Through the Power of Hypnosis…~",
+     "reason": "Already in the catalog (#3810)."
+    },
+    {
+     "title": "Ochiru Yoru, Kowareru Hanayome ~Rinjin NTR Saimin~",
+     "reason": "Already in the catalog (#3809)."
+    },
+    {
+     "title": "The Remarried Empress",
+     "reason": "Children's/YA royal fantasy; also listed in dropped sources. Not a hypnosis-control title."
+    },
+    {
+     "title": "Sofia the First: Royal Magic",
+     "reason": "Children's series; not added."
+    },
+    {
+     "title": "Class In Hypnosis / Kelas Hipnosis",
+     "reason": "FLAGGED (minors): Korean short drama about a school student, Minah, who hypnotizes classmates; minors — not added."
+    },
+    {
+     "title": "Itsudemo Saimin (イツデモ催眠)",
+     "reason": "FLAGGED (minors): DLsite listing involves a wife and her daughter being hypnotized; minors — not added."
+    },
+    {
+     "title": "Hypnosis (Expanding Universe Games)",
+     "reason": "FLAGGED (minors): Visual novel includes the protagonist's best friend's little sister among the leads; minors risk — not added."
+    },
+    {
+     "title": "She Became a Maid and Healed the Billionaire's Troubled Son with Hypnosis",
+     "reason": "FLAGGED (minors): The patient is a 'troubled son' whose age is not verified as adult; not added."
+    },
+    {
+     "title": "MIAB-159",
+     "reason": "FLAGGED (minors): Adult-video listing describes hypnotizing a student; minors risk — not added."
+    }
+   ],
    "check": {
-    "raw_count": 0,
-    "ok": false
+    "raw_count": 3,
+    "ok": true
    },
    "status": "local"
   }
@@ -11909,10 +11978,10 @@
   "vertical-pregnant-again-nov07": 10,
   "pdf-hypnosis-sweeps-nov08": 8,
   "weekly-nov09": 1,
-  "deep-refresh-nov11": 0
+  "deep-refresh-nov11": 3
  },
- "raw_total": 7527,
- "entry_count": 3774,
+ "raw_total": 7530,
+ "entry_count": 3776,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -11930,7 +11999,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 339
+   "entry_count": 341
   },
   {
    "key": "belly",
@@ -11966,7 +12035,7 @@
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 158
+   "entry_count": 159
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -12050,7 +12119,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 132
+   "entry_count": 133
   },
   {
    "key": "index-54",
@@ -12218,7 +12287,7 @@
    "key": "pregnant",
    "label": "pregnant",
    "legend_label": "pregnant",
-   "entry_count": 69
+   "entry_count": 70
   },
   {
    "key": "belly-kissed",
@@ -12410,7 +12479,7 @@
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 64
+   "entry_count": 65
   },
   {
    "key": "vampire",
@@ -12446,7 +12515,7 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 146
+   "entry_count": 147
   },
   {
    "key": "therapist-wife",
@@ -28428,6 +28497,8 @@
    "tags": [
     "loose fit"
    ],
+   "hypnotist": "Jiang Lin",
+   "method": "Hypnosis",
    "kids_status": "unknown",
    "kids_together": "no",
    "married": "yes",
@@ -28436,6 +28507,7 @@
    "evidence": "4 independent-ish sources (Hongguo, Duanjubaike, Sina recap, aggregator tags); official synopsis does not use the word hypnosis — hypnosis comes from the title, aggregator tags and viewer reviews",
    "source_conflict": "Some low-quality sites show a different synopsis for the same title (Lin Qian hypnotized by fiancé Gu Yan/friend Su Yao; hypnotist Gu Chen) — it does not match the Hongguo/Duanjubaike credits and is treated as unreliable. A Vietnamese listing says 2 episodes (vs 60), Russian listing says 60 × 3 min. Catalog card 56 has 'Date unverified'; now dated.",
    "fit_note": "Borderline: the title and tags name hypnosis, but no source says who hypnotizes her or describes any intimate scene.",
+   "adult": "yes (married adult woman)",
    "already_married": "yes",
    "already_married_note": "Yes — husband: her husband",
    "format": "vertical series",
@@ -28443,7 +28515,8 @@
     "wife",
     "remarried-wife-control",
     "partner-control",
-    "wife-hypnotized"
+    "wife-hypnotized",
+    "adult-hypnosis"
    ],
    "sources": [
     {
@@ -28497,6 +28570,14 @@
     {
      "label": "Vertlas: Hypnotized (被催眠的她)",
      "url": "https://vertlas.com/drama/hypnotized"
+    },
+    {
+     "label": "黄豆短剧",
+     "url": "https://huangdoumj.com/series/details/6a53a7bb2cbdb80e01a102ca-bd.html"
+    },
+    {
+     "label": "玫瑰短剧",
+     "url": "https://mgdju.com/video/bei-cui-mian-de-ta.html"
     }
    ],
    "youtube_ids": [
@@ -28513,7 +28594,8 @@
     "round3",
     "kr-cn-hypnosis",
     "wife-hypnosis-oct15",
-    "vertical-hypnosis-nov6"
+    "vertical-hypnosis-nov6",
+    "deep-refresh-nov11"
    ],
    "source_records": [
     "xla62ucxbx02u5:56",
@@ -28524,7 +28606,8 @@
     "round3:3",
     "kr-cn-hypnosis:7",
     "wife-hypnosis-oct15:7",
-    "vertical-hypnosis-nov6:12"
+    "vertical-hypnosis-nov6:12",
+    "deep-refresh-nov11:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -28859,6 +28942,47 @@
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "deep-refresh-nov11:1",
+     "source": "deep-refresh-nov11",
+     "label": "被催眠的她 (Lin Xiaowan / Jiang Lin) (2026)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "被催眠的她 (Lin Xiaowan / Jiang Lin)",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "China · Mandarin · 60 episodes · listings updated 31 Oct 2026 (distinct from the April 2026 Zhang Qing series of the same Chinese title)",
+     "summary": "After three years of marriage, Lin Xiaowan secretly visits hypnotist Jiang Lin to treat her husband's insomnia; after the first session her manner changes, she addresses her husband as \"master,\" cannot remember what she has done, and repeats secrets only Jiang Lin would know.",
+     "character": "Lin Xiaowan (wife of Shen Yi)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "Single source · flag",
+     "categories": [
+      "wife-hypnotized",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "黄豆短剧",
+       "url": "https://huangdoumj.com/series/details/6a53a7bb2cbdb80e01a102ca-bd.html"
+      },
+      {
+       "label": "玫瑰短剧",
+       "url": "https://mgdju.com/video/bei-cui-mian-de-ta.html"
+      }
+     ],
+     "hypnotist": "Jiang Lin",
+     "method": "Hypnosis",
+     "kids_status": "no",
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "evidence": "Platform synopses naming the same couple and hypnotist",
+     "adult": "yes (married adult woman)",
+     "distinct_story": true,
+     "matched_by": "alias"
     }
    ],
    "raw": {
@@ -29131,6 +29255,37 @@
       }
      ],
      "no_media": true
+    },
+    "deep-refresh-nov11:1": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes (married adult woman)",
+     "title": "被催眠的她 (Lin Xiaowan / Jiang Lin)",
+     "year": "2026",
+     "format": "vertical short drama",
+     "meta": "China · Mandarin · 60 episodes · listings updated 31 Oct 2026 (distinct from the April 2026 Zhang Qing series of the same Chinese title)",
+     "character": "Lin Xiaowan (wife of Shen Yi)",
+     "summary": "After three years of marriage, Lin Xiaowan secretly visits hypnotist Jiang Lin to treat her husband's insomnia; after the first session her manner changes, she addresses her husband as \"master,\" cannot remember what she has done, and repeats secrets only Jiang Lin would know.",
+     "hypnotist": "Jiang Lin",
+     "method": "Hypnosis",
+     "categories": [
+      "wife-hypnotized",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "黄豆短剧",
+       "url": "https://huangdoumj.com/series/details/6a53a7bb2cbdb80e01a102ca-bd.html"
+      },
+      {
+       "label": "玫瑰短剧",
+       "url": "https://mgdju.com/video/bei-cui-mian-de-ta.html"
+      }
+     ],
+     "evidence": "Platform synopses naming the same couple and hypnotist",
+     "confidence_flag": "Single source · flag"
     }
    }
   },
@@ -583894,6 +584049,171 @@
      "note": "Only Gyuzel (adult) is catalogued. Juda (a boy) and heroine Yuri (a middle schooler) are excluded as minors. Yuri is not controlled."
     }
    }
+  },
+  {
+   "id": 3969,
+   "title": "窃梦令：她自深海携光归",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "China · Mandarin · 汉鲸文化 · 60 episodes · first aired 9 Oct 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "After her husband betrays her and tries to kill her, CEO Dai Jia is rescued by her former love, a hypnotist, who finds that the husband had used hypnosis to alter her memories of their earlier relationship; they work to restore her memory and expose the plot.",
+   "character": "Dai Jia (CEO of Jiajia Group, wife of Cheng Xianghu)",
+   "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Cheng Xianghu (husband); Wen Junxi (hypnotist who helps her)",
+   "method": "Hypnosis (memory alteration)",
+   "kids_status": "yes",
+   "kids_note": "Synopsis says she later reclaims her child; the child's age is not stated.",
+   "kids_together": "not stated",
+   "pregnant_end": "no",
+   "evidence": "Encyclopedia plot summary",
+   "adult": "yes",
+   "format": "vertical short drama",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "短剧百科",
+     "url": "https://duanjubaike.org/zh-Hans/drama/55231"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov11"
+   ],
+   "source_records": [
+    "deep-refresh-nov11:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov11:2": {
+     "pregnant_end": "no",
+     "kids_status": "yes",
+     "kids_together": "not stated",
+     "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "窃梦令：她自深海携光归",
+     "year": "2026",
+     "format": "vertical short drama",
+     "meta": "China · Mandarin · 汉鲸文化 · 60 episodes · first aired 9 Oct 2026",
+     "character": "Dai Jia (CEO of Jiajia Group, wife of Cheng Xianghu)",
+     "summary": "After her husband betrays her and tries to kill her, CEO Dai Jia is rescued by her former love, a hypnotist, who finds that the husband had used hypnosis to alter her memories of their earlier relationship; they work to restore her memory and expose the plot.",
+     "hypnotist": "Cheng Xianghu (husband); Wen Junxi (hypnotist who helps her)",
+     "method": "Hypnosis (memory alteration)",
+     "categories": [
+      "wife-hypnotized",
+      "adult-hypnosis",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "短剧百科",
+       "url": "https://duanjubaike.org/zh-Hans/drama/55231"
+      }
+     ],
+     "evidence": "Encyclopedia plot summary",
+     "confidence_flag": "Single source · flag",
+     "kids_note": "Synopsis says she later reclaims her child; the child's age is not stated."
+    }
+   }
+  },
+  {
+   "id": 3970,
+   "title": "Jhaad Phoonk (झाड़-फूंक)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "India · Hindi · dir. Rajan Ramgopal Verma · released 30 Oct 2026; streaming on JioHotstar",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "After a car accident in the forests of Uttarakhand, pregnant Aastha is taken in by Mohan and Kamini Thakur. Press accounts say Mohan is skilled in ritual black magic, and Aastha comes to sense a plot around her and tries to protect her unborn child.",
+   "character": "Aastha (pregnant; partner Rajveer)",
+   "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Mohan Thakur and household",
+   "method": "Ritual black magic / tantra, as described in press",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "not stated",
+   "evidence": "Two independent reviews describing the pregnant lead and ritual-black-magic household",
+   "adult": "yes",
+   "format": "film",
+   "categories": [
+    "occult",
+    "tantrik",
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Times of India",
+     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/jhaad-phoonk/ottmoviereview/135340072.cms"
+    },
+    {
+     "label": "TV9 Telugu",
+     "url": "https://tv9telugu.com/entertainment/hinid-psychological-horror-thriller-movie-jhaad-phoonk-is-creating-sensation-on-jio-hotstar-ott-1949234.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov11"
+   ],
+   "source_records": [
+    "deep-refresh-nov11:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov11:3": {
+     "pregnant_end": "not stated",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 11 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Jhaad Phoonk (झाड़-फूंक)",
+     "year": "2026",
+     "format": "film",
+     "meta": "India · Hindi · dir. Rajan Ramgopal Verma · released 30 Oct 2026; streaming on JioHotstar",
+     "character": "Aastha (pregnant; partner Rajveer)",
+     "summary": "After a car accident in the forests of Uttarakhand, pregnant Aastha is taken in by Mohan and Kamini Thakur. Press accounts say Mohan is skilled in ritual black magic, and Aastha comes to sense a plot around her and tries to protect her unborn child.",
+     "hypnotist": "Mohan Thakur and household",
+     "method": "Ritual black magic / tantra, as described in press",
+     "categories": [
+      "occult",
+      "tantrik",
+      "pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Times of India",
+       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/jhaad-phoonk/ottmoviereview/135340072.cms"
+      },
+      {
+       "label": "TV9 Telugu",
+       "url": "https://tv9telugu.com/entertainment/hinid-psychological-horror-thriller-movie-jhaad-phoonk-is-creating-sensation-on-jio-hotstar-ott-1949234.html"
+      }
+     ],
+     "evidence": "Two independent reviews describing the pregnant lead and ritual-black-magic household",
+     "confidence_flag": "Medium · 2 sources",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -584411,7 +584731,8 @@
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r3",
     "vertical-hypnosis-nov6-r4",
-    "vertical-hypnosis-nov6-r7"
+    "vertical-hypnosis-nov6-r7",
+    "deep-refresh-nov11"
    ],
    "groups": [
     {
@@ -588497,6 +588818,14 @@
       {
        "id": 3834,
        "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3969,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
+       "id": 56,
+       "from_source": "deep-refresh-nov11"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -588665,7 +588994,8 @@
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r3": null,
     "vertical-hypnosis-nov6-r4": null,
-    "vertical-hypnosis-nov6-r7": null
+    "vertical-hypnosis-nov6-r7": null,
+    "deep-refresh-nov11": null
    }
   },
   {
@@ -589971,7 +590301,8 @@
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
     "deep-refresh-nov04",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "deep-refresh-nov11"
    ],
    "groups": [
     {
@@ -590894,6 +591225,10 @@
        "from_source": "deep-refresh-nov04"
       },
       {
+       "id": 3970,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
        "id": 3320,
        "from_source": "deep-refresh-oct18"
       },
@@ -591093,7 +591428,8 @@
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
-    "hypnosis-bestsimilar-nov5": null
+    "hypnosis-bestsimilar-nov5": null,
+    "deep-refresh-nov11": null
    }
   },
   {
@@ -604277,7 +604613,8 @@
     "vertical-hypnosis-nov6-r2",
     "vertical-hypnosis-nov6-r3",
     "vertical-hypnosis-nov6-r6",
-    "pdf-hypnosis-sweeps-nov08"
+    "pdf-hypnosis-sweeps-nov08",
+    "deep-refresh-nov11"
    ],
    "groups": [
     {
@@ -605641,6 +605978,10 @@
        "from_source": "deep-refresh-nov04"
       },
       {
+       "id": 3969,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
        "id": 3864,
        "from_source": "deep-refresh-nov04"
       }
@@ -605776,7 +606117,8 @@
     "vertical-hypnosis-nov6-r2": null,
     "vertical-hypnosis-nov6-r3": null,
     "vertical-hypnosis-nov6-r6": null,
-    "pdf-hypnosis-sweeps-nov08": null
+    "pdf-hypnosis-sweeps-nov08": null,
+    "deep-refresh-nov11": null
    }
   },
   {
@@ -623598,7 +623940,8 @@
     "pregnant-yt-oct15",
     "pregnancy-yt-oct15",
     "deep-refresh-nov04",
-    "vertical-pregnant-again-nov07"
+    "vertical-pregnant-again-nov07",
+    "deep-refresh-nov11"
    ],
    "declared_count_by_source": {
     "worldwide-hypnosis": null,
@@ -623608,7 +623951,8 @@
     "pregnant-yt-oct15": null,
     "pregnancy-yt-oct15": null,
     "deep-refresh-nov04": null,
-    "vertical-pregnant-again-nov07": null
+    "vertical-pregnant-again-nov07": null,
+    "deep-refresh-nov11": null
    },
    "groups": [
     {
@@ -623900,6 +624244,10 @@
       {
        "id": 3867,
        "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3970,
+       "from_source": "deep-refresh-nov11"
       },
       {
        "id": 3853,
@@ -637431,7 +637779,8 @@
     "hypnosis-yt-oct15",
     "youtube-india-oct15",
     "deep-refresh-oct18",
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "deep-refresh-nov11"
    ],
    "groups": [
     {
@@ -638043,6 +638392,10 @@
        "from_source": "deep-refresh-oct30"
       },
       {
+       "id": 3970,
+       "from_source": "deep-refresh-nov11"
+      },
+      {
        "id": 3278,
        "from_source": "deep-refresh-oct18"
       }
@@ -638065,7 +638418,8 @@
     "hypnosis-yt-oct15": null,
     "youtube-india-oct15": null,
     "deep-refresh-oct18": null,
-    "deep-refresh-oct30": null
+    "deep-refresh-oct30": null,
+    "deep-refresh-nov11": null
    }
   },
   {
@@ -644522,7 +644876,8 @@
     "vertical-hypnosis-nov6-r4",
     "vertical-hypnosis-nov6-r6",
     "hypnosis-repeat-pregnancy-nov7",
-    "vertical-hypnosis-nov6-r7"
+    "vertical-hypnosis-nov6-r7",
+    "deep-refresh-nov11"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -644543,7 +644898,8 @@
     "vertical-hypnosis-nov6-r4": null,
     "vertical-hypnosis-nov6-r6": null,
     "hypnosis-repeat-pregnancy-nov7": null,
-    "vertical-hypnosis-nov6-r7": null
+    "vertical-hypnosis-nov6-r7": null,
+    "deep-refresh-nov11": null
    },
    "groups": [
     {
@@ -645115,6 +645471,10 @@
       {
        "id": 3834,
        "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 3969,
+       "from_source": "deep-refresh-nov11"
       }
      ],
      "from_source": "deep-refresh-oct18"

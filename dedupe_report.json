@@ -1763,6 +1763,13 @@
      "subtitle": "",
      "year": "2026",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "deep-refresh-nov11:1",
+     "title": "被催眠的她 (Lin Xiaowan / Jiang Lin)",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "alias"
     }
    ]
   },
@@ -54212,11 +54219,11 @@
   "vertical-pregnant-again-nov07": 10,
   "pdf-hypnosis-sweeps-nov08": 8,
   "weekly-nov09": 1,
-  "deep-refresh-nov11": 0
+  "deep-refresh-nov11": 3
  },
- "entry_count_after_dedupe": 3774,
+ "entry_count_after_dedupe": 3776,
  "within_source_groups": 6,
  "cross_source_groups": 2083,
  "index_only_records": 55,
- "local_only_records": 1502
+ "local_only_records": 1504
 }
