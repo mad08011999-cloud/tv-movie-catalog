@@ -54,6 +54,18 @@
     "year": "1998"
    },
    "conflict_note": "Merged with the duplicate 1998 card (the muse.ai catalog's own copy of S1E15 “The Mesmerizer”); the episode is first aired 7 Jan 1998 and the series ran 1997–1999"
+  },
+  {
+   "keep": {
+    "title": "催眠で妻を寝取らせたかっただけなのに",
+    "year": "2026"
+   },
+   "absorb": {
+    "title": "催眠で妻を寝取らせたかっただけなのに (De Wo Rasetakattadakenanoni)",
+    "year": "2026"
+   },
+   "title": "催眠で妻を寝取らせたかっただけなのに (De Wo Rasetakattadakenanoni)",
+   "conflict_note": "Merged two deep-refresh-nov04 records of the same DLsite work (Rinjin X, 31 Oct 2026); both cited NTRDB. Catalog ID 3892 retired; ID 3834 kept."
   }
  ]
 }

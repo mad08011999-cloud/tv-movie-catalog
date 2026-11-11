@@ -52803,6 +52803,26 @@
    ]
   },
   {
+   "kept_id": 3834,
+   "kept": "催眠で妻を寝取らせたかっただけなのに (2026)",
+   "scope": "within-source",
+   "members": [
+    {
+     "rid": "deep-refresh-nov04:2",
+     "title": "催眠で妻を寝取らせたかっただけなのに",
+     "subtitle": "",
+     "year": "2026"
+    },
+    {
+     "rid": "deep-refresh-nov04:61",
+     "title": "催眠で妻を寝取らせたかっただけなのに (De Wo Rasetakattadakenanoni)",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "merge rule"
+    }
+   ]
+  },
+  {
    "kept_id": 3835,
    "kept": "My Patient Is a Mermaid (2026)",
    "scope": "cross-source",
@@ -53712,6 +53732,19 @@
    "status": "applied",
    "kept_id": 1113,
    "retired_id": 1114
+  },
+  {
+   "keep": {
+    "title": "催眠で妻を寝取らせたかっただけなのに",
+    "year": "2026"
+   },
+   "absorb": {
+    "title": "催眠で妻を寝取らせたかっただけなのに (De Wo Rasetakattadakenanoni)",
+    "year": "2026"
+   },
+   "status": "applied",
+   "kept_id": 3834,
+   "retired_id": 3892
   }
  ],
  "exclusions": [
@@ -54178,11 +54211,12 @@
   "vertical-hypnosis-nov6-r7": 4,
   "vertical-pregnant-again-nov07": 10,
   "pdf-hypnosis-sweeps-nov08": 8,
-  "weekly-nov09": 1
+  "weekly-nov09": 1,
+  "deep-refresh-nov11": 0
  },
- "entry_count_after_dedupe": 3775,
- "within_source_groups": 5,
+ "entry_count_after_dedupe": 3774,
+ "within_source_groups": 6,
  "cross_source_groups": 2083,
  "index_only_records": 55,
- "local_only_records": 1503
+ "local_only_records": 1502
 }

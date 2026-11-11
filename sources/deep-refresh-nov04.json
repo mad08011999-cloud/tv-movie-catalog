@@ -44,10 +44,10 @@
    "adult": "yes (18+; non-explicit note)",
    "title": "催眠で妻を寝取らせたかっただけなのに",
    "year": "2026",
-   "format": "illustrated work (DLsite)",
-   "meta": "Adult illustrated work · circle Rinjin X · 31 Oct 2026",
-   "summary": "A husband uses hypnosis on his adult wife in a scheme involving another man.",
-   "hypnotist": "Husband",
+   "format": "illustrated work (adult, DLsite)",
+   "meta": "Japan · Japanese · circle Rinjin X · released 31 Oct 2026",
+   "summary": "A husband arranges for his wife to be hypnotized and taken by another man, and the arrangement changes the husband as well.",
+   "hypnotist": "Another man, at the husband's request",
    "method": "Hypnosis",
    "categories": [
     "wife-hypnotized",
@@ -59,8 +59,9 @@
      "url": "https://ntrdb.com/works/de-wo-rasetakattadakenanoni"
     }
    ],
-   "evidence": "Database listing",
-   "confidence_flag": "Single source · flag"
+   "evidence": "Database entry synopsis",
+   "confidence_flag": "Single source · flag",
+   "character": "Unnamed wife"
   },
   {
    "pregnant_end": "no",
@@ -1891,7 +1892,9 @@
     }
    ],
    "evidence": "Database entry synopsis",
-   "confidence_flag": "Single source · flag"
+   "confidence_flag": "Single source · flag",
+   "duplicate_of": "催眠で妻を寝取らせたかっただけなのに",
+   "note": "Duplicate of the earlier record in this file (same DLsite work). Kept as the absorb target of a merge rule so catalog ID 3892 can be retired without shifting later IDs."
   }
  ],
  "dropped": [
