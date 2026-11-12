@@ -12426,10 +12426,50 @@
     {
      "title": "Sleeping Tycoon's Magic Bride Pregnant with Twins (DramaBox, 2026)",
      "reason": "FLAGGED (minors): DramaBox/Facebook copy describes the bride as a college student who becomes pregnant under a contract marriage with a comatose tycoon. Age not verified as adult; 'magic' in the title is not sourced as an actual enchantment. Held back."
+    },
+    {
+     "title": "Ivan (2026, Damien Fannon)",
+     "reason": "FLAGGED (minors): Reviews describe an AI device used to control both the adult ex-wife Kim and the couple's troubled teenage daughter Abigail. Held back."
+    },
+    {
+     "title": "OVA彼女催眠 #1 / #2 (Lune-soft, 28 Aug 2026)",
+     "reason": "Official product page is 18+ but lists the keywords 制服 and 女子校生 (schoolgirl). Held back."
+    },
+    {
+     "title": "催眠痴漢Episode1 〜ヤリマンイジメっ子を催眠アプリでハメ堕とす〜 (due 27 Nov 2026)",
+     "reason": "The target is described as a bully (イジメっ子); school/minor status is not verified as adult. Held back."
+    },
+    {
+     "title": "Perfect (2026, Millicent Hailes)",
+     "reason": "Already in the catalog (#578) with pregnant-sex, lesbian-couple-pregnancy, and pregnant-lesbian-intimate. No new category to add."
+    },
+    {
+     "title": "Open (2019, Sarah Nocquet)",
+     "reason": "Already in the catalog (#3961)."
+    },
+    {
+     "title": "MovieDreams (2026, Argentina)",
+     "reason": "Sci-fi thriller about an interactive-dream platform used for psychological warfare; the woman named in coverage is a colleague, not a wife or a clearly hypnotized adult woman. Not added."
+    },
+    {
+     "title": "Morpheus (2026, Frauke Lodders)",
+     "reason": "Surreal dance short about sleeplessness and a dream world; no hypnosis or other catalog mechanism was sourced. Not added."
+    },
+    {
+     "title": "다른 남자의 아이를 가졌다 (short drama)",
+     "reason": "Aggregator synopses describe a wife pressured into conceiving another man's child, but only unofficial listing sites were found and no official platform page was confirmed. Not added."
+    },
+    {
+     "title": "Pregnant (2026 short, Lada Imamovic)",
+     "reason": "Two-minute French micro-short about a nine-months-pregnant woman preparing for a date; the festival listing does not describe a sex or intimacy scene. Not added."
+    },
+    {
+     "title": "The Wife Who Moved In, and Your Lie (2026 VN)",
+     "reason": "Contract-marriage visual novel; sources describe romance, not hypnosis. Not added."
     }
    ],
    "check": {
-    "raw_count": 1,
+    "raw_count": 2,
     "ok": true
    },
    "status": "local"
@@ -12533,10 +12573,10 @@
   "saimin-sweep-nov11": 26,
   "pregnant-intimacy-nov11": 9,
   "partner-hypnosis-nov11": 18,
-  "deep-refresh-nov12": 1
+  "deep-refresh-nov12": 2
  },
- "raw_total": 7619,
- "entry_count": 3849,
+ "raw_total": 7620,
+ "entry_count": 3850,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -12590,7 +12630,7 @@
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 160
+   "entry_count": 161
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -12812,7 +12852,7 @@
    "key": "polygamy",
    "label": "polygamy",
    "legend_label": "polygamy",
-   "entry_count": 12
+   "entry_count": 13
   },
   {
    "key": "polygamy-hypnosis",
@@ -12998,7 +13038,7 @@
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 227
+   "entry_count": 228
   },
   {
    "key": "stepmom-control",
@@ -593506,6 +593546,88 @@
      ]
     }
    }
+  },
+  {
+   "id": 4045,
+   "title": "放送禁止 ぼくの3人の妻",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Film · Japan · Japanese · mockumentary / horror · also titled Banned from Broadcast: My Three Wives and 劇場版 放送禁止 ぼくの3人の妻 · directed and written by Toshikazu Nagae · theatrical release 13 Mar 2026 · 98 min · distributed by Shibuya Production · fourth theatrical entry in the Housou Kinshi fake-documentary series",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A television documentary that was pulled before broadcast follows a polygamous household. During a prayer ritual led by a spirit medium, the three wives enter a trance and each confesses to killing their husband. The suppressed footage is used to ask which of them is telling the truth.",
+   "character": "Nakase Yuko (company owner); Inui Marina (former model); Uchino Kaede (nurse) — the three wives of web designer Hagiwara Koji",
+   "provenance": "Deep refresh, 12 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "A spirit medium conducting a prayer ritual",
+   "method": "Norito / prayer trance",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Two Japanese industry listings describe the same plot: three adult wives in a polygamous household enter a medium's prayer trance and each claims to have killed their husband. Theatrical date is 13 Mar 2026.",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "polygamy",
+    "occult",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Eiga.com",
+     "url": "https://eiga.com/movie/105262/"
+    },
+    {
+     "label": "Cinema Today",
+     "url": "https://www.cinematoday.jp/movie/T0031807"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov12"
+   ],
+   "source_records": [
+    "deep-refresh-nov12:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov12:2": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 12 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "放送禁止 ぼくの3人の妻",
+     "year": "2026",
+     "format": "movie",
+     "meta": "Film · Japan · Japanese · mockumentary / horror · also titled Banned from Broadcast: My Three Wives and 劇場版 放送禁止 ぼくの3人の妻 · directed and written by Toshikazu Nagae · theatrical release 13 Mar 2026 · 98 min · distributed by Shibuya Production · fourth theatrical entry in the Housou Kinshi fake-documentary series",
+     "character": "Nakase Yuko (company owner); Inui Marina (former model); Uchino Kaede (nurse) — the three wives of web designer Hagiwara Koji",
+     "summary": "A television documentary that was pulled before broadcast follows a polygamous household. During a prayer ritual led by a spirit medium, the three wives enter a trance and each confesses to killing their husband. The suppressed footage is used to ask which of them is telling the truth.",
+     "hypnotist": "A spirit medium conducting a prayer ritual",
+     "method": "Norito / prayer trance",
+     "categories": [
+      "polygamy",
+      "occult",
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "Eiga.com",
+       "url": "https://eiga.com/movie/105262/"
+      },
+      {
+       "label": "Cinema Today",
+       "url": "https://www.cinematoday.jp/movie/T0031807"
+      }
+     ],
+     "evidence": "Two Japanese industry listings describe the same plot: three adult wives in a polygamous household enter a medium's prayer trance and each claims to have killed their husband. Theatrical date is 13 Mar 2026.",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
   }
  ],
  "sections": [
@@ -600714,6 +600836,10 @@
       {
        "id": 3860,
        "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 4045,
+       "from_source": "deep-refresh-nov12"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -632491,6 +632617,10 @@
       {
        "id": 3891,
        "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 4045,
+       "from_source": "deep-refresh-nov12"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -647229,6 +647359,10 @@
       {
        "id": 3344,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 4045,
+       "from_source": "deep-refresh-nov12"
       },
       {
        "id": 3871,
