@@ -107,6 +107,37 @@
    "evidence": "Two independent interviews/features (Park Record at Sundance; Voilah! after Clermont-Ferrand) describe Siti as a wife who does not want her pregnancy and a Pontianak who helps her. The articles do not spell out the final outcome.",
    "confidence_flag": "Medium · 2 sources",
    "pregnancy_note": "Partner in the household: her husband, who unlike Siti wants the child. The film is about bodily autonomy and a revised Pontianak myth, not a sex scene and not conception-only."
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 12 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes",
+   "title": "Forbidden Fruits",
+   "year": "2026",
+   "format": "movie",
+   "meta": "Film · United States · English · horror comedy · R-rated · 103 min · written by Meredith Alloway and Lily Houghton · directed by Meredith Alloway · theatrical release 27 Mar 2026 · starring Lili Reinhart, Lola Tung, Victoria Pedretti and Alexandra Shipp · world premiere at SXSW",
+   "character": "Apple (leader of the coven, played by Lili Reinhart); Cherry, Fig, and new hire Pumpkin (coworkers drawn into the group)",
+   "summary": "At a Dallas mall boutique called Free Eden, saleswoman Apple leads a secret witch coven with coworkers Cherry and Fig. New hire Pumpkin is brought into their tightly ruled sisterhood, comes to believe something supernatural is at work, and the group's curses and internal power struggle turn violent.",
+   "hypnotist": "Apple, as leader of the coven",
+   "method": "Witch-coven rules and curses",
+   "categories": [
+    "cult",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Official site",
+     "url": "https://www.forbiddenfruits.movie/synopsis/"
+    },
+    {
+     "label": "RogerEbert.com",
+     "url": "https://www.rogerebert.com/reviews/forbidden-fruits-movie-review-2026"
+    }
+   ],
+   "evidence": "The official synopsis and a full RogerEbert.com review both describe an adult workplace coven: Apple subjugates the others to the group's rules, they curse people who afflict them, and the conflict turns violent. The review is filed from the SXSW premiere; the theatrical date is 27 Mar 2026.",
+   "confidence_flag": "Medium · 2 sources"
   }
  ],
  "dropped": [
@@ -273,6 +304,42 @@
   {
    "title": "Hypno Stepmom (itch.io / Akori Studio)",
    "reason": "Unofficial game pages only; adult ages and an official 18+ listing were not confirmed. Held back."
+  },
+  {
+   "title": "Brides (2026, Chloe Okuno)",
+   "reason": "Gothic vampire film with Maika Monroe, still in post-production at the time of this search, with no released reviews confirming mesmerism of an adult wife. Not added until the film can be sourced as finished."
+  },
+  {
+   "title": "Palace of Gold (2026 documentary)",
+   "reason": "FLAGGED (minors): DOC NYC's world-premiere listing is about New Vrindaban, a Hare Krishna commune the filmmaker brothers were born into. The childhood experience in the cult is central. Held back."
+  },
+  {
+   "title": "#Cult (2026, Telugu, Vishwak Sen)",
+   "reason": "A slasher/survival-game thriller set at a sealed birthday party, not a religious or mind-control cult involving an adult woman. Not added."
+  },
+  {
+   "title": "A Useful Ghost / Pee Chai Dai Ka (2025)",
+   "reason": "The central woman, Nat, is already dead and inhabits a vacuum cleaner. This is a ghost-as-protagonist story, not spirit control of a living adult woman. Not added."
+  },
+  {
+   "title": "Cesarean Weekend (2026, Mohammad Shirvani)",
+   "reason": "Bita is revealed to be pregnant, but a detailed Berlinale review does not describe a sex or intimacy scene while she is pregnant. Not added."
+  },
+  {
+   "title": "Fear and Now (2025, Liat Ron)",
+   "reason": "Documentary about HypnoBirthing as a consensual childbirth-preparation method, not a narrative in which a pregnant woman is hypnotized as a plot device. Not added."
+  },
+  {
+   "title": "The Woman with Three Husbands (Lifetime, 2026)",
+   "reason": "Polyamorous-family crime thriller; official copy mentions an 'impressionable brother' whose age is not clearly established, and no hypnosis or occult mechanism is described. Not added."
+  },
+  {
+   "title": "The Remotes (2026, John Torres)",
+   "reason": "A detective investigates a sinister navigation app after his wife's death in a crash; the wife is already dead, and the app's control is over drivers in general. Not added."
+  },
+  {
+   "title": "After the Silence (2026)",
+   "reason": "Crime-conspiracy thriller with a widow in the cast; no hypnosis or other catalog mechanism was sourced. Not added."
   }
  ]
 }
