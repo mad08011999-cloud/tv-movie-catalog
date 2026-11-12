@@ -231,6 +231,8 @@ SOURCES = [
      "local": "sources/deep-refresh-nov12-cont.json", "required": False},
     {"id": "therapist-hypnosis-nov12", "label": "Hypnotized by her therapist (12 Nov 2026)",
      "local": "sources/therapist-hypnosis-nov12.json", "required": True},
+    {"id": "husband-hypnosis-nov12", "label": "Hypnotized by her own husband — all-media search (12 Nov 2026)",
+     "local": "sources/husband-hypnosis-nov12.json", "required": True},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

@@ -40927,6 +40927,13 @@
      "subtitle": "",
      "year": "2020",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "husband-hypnosis-nov12:13",
+     "title": "Relatos Macabrones",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -44670,6 +44677,13 @@
     },
     {
      "rid": "hypnosis-bestsimilar-nov5:138",
+     "title": "A Taste Of Blood",
+     "subtitle": "",
+     "year": "1967",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "husband-hypnosis-nov12:12",
      "title": "A Taste Of Blood",
      "subtitle": "",
      "year": "1967",
@@ -54967,11 +54981,12 @@
   "deep-refresh-nov12": 5,
   "hypno-sex-nov12": 11,
   "deep-refresh-nov12-cont": 1,
-  "therapist-hypnosis-nov12": 41
+  "therapist-hypnosis-nov12": 41,
+  "husband-hypnosis-nov12": 13
  },
- "entry_count_after_dedupe": 3860,
+ "entry_count_after_dedupe": 3871,
  "within_source_groups": 6,
  "cross_source_groups": 2106,
  "index_only_records": 55,
- "local_only_records": 1588
+ "local_only_records": 1599
 }
