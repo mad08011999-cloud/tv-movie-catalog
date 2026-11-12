@@ -138,6 +138,39 @@
    ],
    "evidence": "The official synopsis and a full RogerEbert.com review both describe an adult workplace coven: Apple subjugates the others to the group's rules, they curse people who afflict them, and the conflict turns violent. The review is filed from the SXSW premiere; the theatrical date is 27 Mar 2026.",
    "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "not stated",
+   "kids_status": "unborn",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 12 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes",
+   "title": "Gravidarum",
+   "year": "2026",
+   "format": "short",
+   "meta": "Short film · United States · English · horror · 10 min · written and directed by Angelita Mendoza · starring Eileen Alvarez as Ana, Garrett van der Leun as Jim, and Suzanne Marie Berman as the Spirit · West Coast premiere at Screamfest 8 Oct 2026 · also screened at the 2026 New York Latino Film Festival",
+   "character": "Ana (nine months pregnant, bedridden with severe illness, cared for by her husband Jim)",
+   "summary": "Ana is nine months pregnant, violently ill, and recovering with her husband in a country house that does not feel safe. As her sickness worsens she becomes certain that something in the house wants to hurt her and her unborn child.",
+   "hypnotist": "An unseen presence / a spirit in the house (credited as Spirit)",
+   "method": "A presence that watches from the rooms and is tied to Ana's worsening illness",
+   "categories": [
+    "pregnant",
+    "spirit",
+    "pregnancy-evil-child"
+   ],
+   "sources": [
+    {
+     "label": "Screamfest",
+     "url": "https://screamfestla.com/2026/film/gravidarum"
+    },
+    {
+     "label": "New York Latino Film Festival",
+     "url": "https://nylatinofilmfestival.com/2026/movies/gravidarum/"
+    }
+   ],
+   "evidence": "The official Screamfest listing gives the full plot, names Ana, Jim, and a credited Spirit, and states that something in the house wants to hurt Ana and her unborn child. The NY Latino Film Festival listing confirms a 10-minute 2026 short about a dangerous pregnancy connected to something sinister.",
+   "confidence_flag": "Medium · 2 sources",
+   "pregnancy_note": "Partner in the household: husband Jim. The festival copy describes a threat to Ana and the unborn child, not a sex scene."
   }
  ],
  "dropped": [
@@ -340,6 +373,26 @@
   {
    "title": "After the Silence (2026)",
    "reason": "Crime-conspiracy thriller with a widow in the cast; no hypnosis or other catalog mechanism was sourced. Not added."
+  },
+  {
+   "title": "Die My Love (2025, Lynne Ramsay)",
+   "reason": "A detailed RogerEbert.com review describes the couple's early sex scene as taking place pre-baby and 'presumably' conceiving the child. Wikipedia's 'pregnant girlfriend' wording is not enough to confirm a sex scene while the character is already pregnant, and the actress's own pregnancy during filming is not a substitute. Not added."
+  },
+  {
+   "title": "The Moonies: Married to the Cult (2026 documentary)",
+   "reason": "FLAGGED (minors): Coverage includes testimony from Sun Myung Moon's son about his own abuse. Held back."
+  },
+  {
+   "title": "The Raja Saab (2026)",
+   "reason": "Already in the catalog (#3278). Reviews describe self-hypnosis by the male lead, not hypnosis of an adult woman."
+  },
+  {
+   "title": "The Vampire Prince's Bride (2026)",
+   "reason": "Already in the catalog (#3289)."
+  },
+  {
+   "title": "Goody Goody / Birth Night (2026)",
+   "reason": "Already in the catalog as Goody Goody (#3273)."
   }
  ]
 }
