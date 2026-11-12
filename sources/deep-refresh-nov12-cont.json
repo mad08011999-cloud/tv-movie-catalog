@@ -1,0 +1,64 @@
+{
+ "id": "deep-refresh-nov12-cont",
+ "label": "Deep refresh across all criteria (12 Nov 2026), continuation",
+ "group_title": "Deep gap-check (missed titles), continuation",
+ "description": "Continuation of the 12 Nov 2026 multi-language sweep across every catalog topic. Appended after hypno-sex-nov12 so IDs 4049–4054 stay in place. Adults only; non-explicit notes; every entry sourced with a confidence label.",
+ "category_labels": {},
+ "records": [
+  {
+   "pregnant_end": "not stated",
+   "kids_status": "unborn",
+   "kids_together": "planned (the three adults agree to have a child together)",
+   "provenance": "Deep refresh, 12 Nov 2026 PT (adults only; non-explicit notes)",
+   "adult": "yes",
+   "title": "Between Two Lovers (このごにおよんで愛など)",
+   "year": "2026",
+   "format": "movie",
+   "meta": "Film · Japan / Taiwan · Japanese · drama · 128 min · written, directed and edited by Nanako Hirose · starring Masami Nagasawa as Uta Kojima, Tasuku Emoto as Morio Kojima, and Shizuka Ishibashi as Junna Kuramochi · produced and distributed by K2 Pictures · theatrical release 27 Nov 2026 · Japanese rating G",
+   "character": "Uta Kojima (married picture-book author, also in a relationship with her editor); Junna Kuramochi (Uta's editor and lover, who becomes pregnant); Morio Kojima (Uta's husband)",
+   "summary": "Picture-book author Uta has been married to Morio for three years and has also been seeing her editor, Junna, in secret. When both ask her to choose, she proposes that the three of them have a child and live together. As the household takes shape, their relationships change, and Junna becomes pregnant.",
+   "hypnotist": "None described",
+   "method": "None — a three-person household formed by agreement, not hypnosis or occult control",
+   "categories": [
+    "polygamy",
+    "pregnant",
+    "lesbian-couple-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Eiga.com",
+     "url": "https://eiga.com/movie/105938/"
+    },
+    {
+     "label": "Cinema Today",
+     "url": "https://www.cinematoday.jp/movie/T0032111"
+    },
+    {
+     "label": "K2 Pictures",
+     "url": "https://k2pic.com/en/article/4169"
+    }
+   ],
+   "evidence": "Eiga.com and Cinema Today both state that after Uta, Morio, and Junna begin living together, Junna's pregnancy is revealed. The official K2 Pictures English announcement confirms the title Between Two Lovers, the 27 Nov 2026 theatrical date, director Nanako Hirose, and the husband-and-lover triad.",
+   "confidence_flag": "High · 3+ sources",
+   "pregnancy_note": "Junna, Uta's editor and lover, becomes pregnant after the three adults start living together. Official synopses do not describe a sex scene during the pregnancy. Partners in the household: Uta and Morio."
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Replica Egg / レプリカエッグ〜妻が妊娠した、誰かの子を。〜 (2026)",
+   "reason": "FLAGGED (minors): Official POPCORN/FANY credits list Mion Iketani (born 9 Jul 2014, age 12) as Tokunaga Yuna. Held back."
+  },
+  {
+   "title": "My Wife Doesn't Move Anymore (2026 short)",
+   "reason": "FLAGGED (minors): Festival/listing copy describes an immobile wife and a caged daughter. Held back."
+  },
+  {
+   "title": "继母和继姐的特殊催眠 (2026)",
+   "reason": "FLAGGED (minors): Plot involves a stepmother and a stepsister under hypnosis; the stepsister's age is not verified as adult. Held back."
+  },
+  {
+   "title": "ヒプノファミリー ～催眠で壊れる母娘～",
+   "reason": "FLAGGED (minors): A daughter hypnotizes her mother; the daughter's age is not verified as adult. Held back."
+  }
+ ]
+}

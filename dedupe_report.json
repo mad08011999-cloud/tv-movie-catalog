@@ -54483,11 +54483,12 @@
   "pregnant-intimacy-nov11": 9,
   "partner-hypnosis-nov11": 18,
   "deep-refresh-nov12": 5,
-  "hypno-sex-nov12": 11
+  "hypno-sex-nov12": 11,
+  "deep-refresh-nov12-cont": 1
  },
- "entry_count_after_dedupe": 3859,
+ "entry_count_after_dedupe": 3860,
  "within_source_groups": 6,
  "cross_source_groups": 2091,
  "index_only_records": 55,
- "local_only_records": 1587
+ "local_only_records": 1588
 }
