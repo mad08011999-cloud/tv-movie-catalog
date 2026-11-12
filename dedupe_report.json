@@ -8001,6 +8001,13 @@
      "subtitle": "",
      "year": "2002–03",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-sex-nov12:7",
+     "title": "O Beijo do Vampiro",
+     "subtitle": "",
+     "year": "2002–03",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -25865,6 +25872,13 @@
      "subtitle": "",
      "year": "1972",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-sex-nov12:8",
+     "title": "The Curse of the Alpha Stone",
+     "subtitle": "",
+     "year": "1972",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -49065,6 +49079,13 @@
      "subtitle": "",
      "year": "1969",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-sex-nov12:11",
+     "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+     "subtitle": "",
+     "year": "1969",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -49385,6 +49406,13 @@
     },
     {
      "rid": "hypnosis-bestsimilar-nov5:11",
+     "title": "Insatiable Desires",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-sex-nov12:10",
      "title": "Insatiable Desires",
      "subtitle": "",
      "year": "2003",
@@ -53051,6 +53079,26 @@
      "matched_by": "match_title"
     }
    ]
+  },
+  {
+   "kept_id": 4017,
+   "kept": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子) (2022)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "saimin-sweep-nov11:12",
+     "title": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子)",
+     "subtitle": "",
+     "year": "2022"
+    },
+    {
+     "rid": "hypno-sex-nov12:9",
+     "title": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子)",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "match_title"
+    }
+   ]
   }
  ],
  "same_title_year_merges": [
@@ -54434,11 +54482,12 @@
   "saimin-sweep-nov11": 26,
   "pregnant-intimacy-nov11": 9,
   "partner-hypnosis-nov11": 18,
-  "deep-refresh-nov12": 5
+  "deep-refresh-nov12": 5,
+  "hypno-sex-nov12": 11
  },
- "entry_count_after_dedupe": 3853,
+ "entry_count_after_dedupe": 3859,
  "within_source_groups": 6,
- "cross_source_groups": 2090,
+ "cross_source_groups": 2091,
  "index_only_records": 55,
- "local_only_records": 1581
+ "local_only_records": 1587
 }

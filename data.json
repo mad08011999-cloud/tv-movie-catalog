@@ -12549,6 +12549,145 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypno-sex-nov12",
+   "label": "Hypnotized woman has sex — all-media search (12 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/hypno-sex-nov12.json",
+   "description": "Worldwide all-media search (12 Nov 2026 PT) for adult female characters who are hypnotized (hypnosis, mesmerism, hypnotic compulsion) and have sex as part of that plot. Possession, spells, drugs-only and body-swap stories are excluded, as are minors and school-set stories. Most matches were already in the catalog; this source adds the new verified titles and tags existing cards whose plot already documents sex under hypnosis. Notes are short and non-explicit.",
+   "dropped": [
+    {
+     "title": "Hungry Hypnotist",
+     "year": "1971",
+     "reason": "no sex under hypnosis: the hypnotized couple only recall or imagine sex (drug-assisted suggestion)"
+    },
+    {
+     "title": "Sida, la peste del siglo XX",
+     "year": "1986",
+     "reason": "unverified: unreleased Franco remake of Shining Sex; no plot source confirms the hypnosis"
+    },
+    {
+     "title": "Raped by an Angel 3: Sexual Fantasy of the Chief Executive",
+     "year": "1998",
+     "reason": "the hypnotized person is a man; already in the catalog"
+    },
+    {
+     "title": "The Peeper, the Model and the Hypnotist",
+     "year": "1972",
+     "reason": "unverified: the only synopsis has no hypnosis"
+    },
+    {
+     "title": "Hotel Erotica — 'Bewitched & Bewildered'",
+     "year": "2003",
+     "reason": "unverified: listings do not say who is hypnotized"
+    },
+    {
+     "title": "Co-Ed Confidential — 'The Power of Suggestion'",
+     "year": "2009",
+     "reason": "unverified: synopsis does not say a woman has sex while hypnotized"
+    },
+    {
+     "title": "Women: Stories of Passion — 'Mind's Eye'",
+     "year": "1997",
+     "reason": "no hypnosis in the episode synopsis"
+    },
+    {
+     "title": "La Colpa / Hypnosex",
+     "year": "2005",
+     "reason": "unverified: hypnosis plot only on piracy listings; database synopsis has none"
+    },
+    {
+     "title": "Dracula Sucks",
+     "year": "1978",
+     "reason": "unverified: Lucy is in a 'trance-like state'; no source calls it hypnosis"
+    },
+    {
+     "title": "Dracula Exotica",
+     "year": "1980",
+     "reason": "no hypnotized-woman sex plot"
+    },
+    {
+     "title": "Love at First Bite",
+     "year": "1979",
+     "reason": "Dracula does not hypnotize Cindy; the hypnosis scene involves a man"
+    },
+    {
+     "title": "Guess What Happened to Count Dracula?",
+     "year": "1970",
+     "reason": "hypnosis and biting only; no sex"
+    },
+    {
+     "title": "Cyber Sex Kittens",
+     "year": "1995",
+     "reason": "helmet mind control rather than hypnosis; plot from one fan page only"
+    },
+    {
+     "title": "Parapsycho – Spektrum der Angst",
+     "year": "1975",
+     "reason": "hypnosis segment has no sex (the painter is impotent)"
+    },
+    {
+     "title": "Virgin Dreams",
+     "year": "1996",
+     "reason": "excluded: classmates/children of former classmates, possible minors"
+    },
+    {
+     "title": "Bad",
+     "year": "1990",
+     "reason": "excluded: hypnotized character plays an entering college freshman; single newsgroup source"
+    },
+    {
+     "title": "Freud (Netflix)",
+     "year": "2020",
+     "reason": "Fleur's sex with Freud is not under Sophia's hypnosis; mixed possession plot"
+    },
+    {
+     "title": "Trance",
+     "year": "2013",
+     "reason": "the hypnotized character is a man; the woman is the hypnotist"
+    },
+    {
+     "title": "Nosferatu",
+     "year": "2024",
+     "reason": "Orlok's control of Ellen reads as psychic link/possession rather than hypnosis"
+    },
+    {
+     "title": "Hemlock Grove — Letha",
+     "year": "2013",
+     "reason": "excluded: the character is a high-school student"
+    },
+    {
+     "title": "Shameless — 'Loving Wife'",
+     "year": "2009",
+     "reason": "not enriched: sources do not confirm Monica is hypnotized when she sleeps with the hypnotist"
+    },
+    {
+     "title": "H — 'Une histoire de garderie'",
+     "year": "1998",
+     "reason": "not enriched: Aymé's hypnosis hits an elderly patient by mistake; no sex"
+    },
+    {
+     "title": "Hypnosis (Cineprime)",
+     "year": "2023",
+     "reason": "no hypnosis in the available storyline"
+    },
+    {
+     "title": "Nurse Diary: Beast Afternoon",
+     "year": "1982",
+     "reason": "already in the catalog; sources do not confirm sex under hypnosis, so not enriched"
+    },
+    {
+     "title": "Japanese AV hypnosis titles (FANZA / IAFD lists)",
+     "year": "",
+     "reason": "not bulk-added: thousands of near-identical releases; only plot-verified features were added"
+    }
+   ],
+   "check": {
+    "raw_count": 11,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -12649,10 +12788,11 @@
   "saimin-sweep-nov11": 26,
   "pregnant-intimacy-nov11": 9,
   "partner-hypnosis-nov11": 18,
-  "deep-refresh-nov12": 5
+  "deep-refresh-nov12": 5,
+  "hypno-sex-nov12": 11
  },
- "raw_total": 7623,
- "entry_count": 3853,
+ "raw_total": 7634,
+ "entry_count": 3859,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -12670,7 +12810,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 367
+   "entry_count": 372
   },
   {
    "key": "belly",
@@ -12760,7 +12900,7 @@
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 383
+   "entry_count": 384
   },
   {
    "key": "index-56",
@@ -12772,7 +12912,7 @@
    "key": "hardcore-adult",
    "label": "Hardcore / adult",
    "legend_label": "Hardcore / adult",
-   "entry_count": 24
+   "entry_count": 26
   },
   {
    "key": "index-58",
@@ -12814,13 +12954,13 @@
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
-   "entry_count": 40
+   "entry_count": 41
   },
   {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 199
+   "entry_count": 200
   },
   {
    "key": "royal-hypnosis",
@@ -12838,7 +12978,7 @@
    "key": "hypno-intimacy",
    "label": "Hypnotized woman intimate with the hypnotist or the man he directs",
    "legend_label": "Hypnotized into intimacy",
-   "entry_count": 65
+   "entry_count": 76
   },
   {
    "key": "indian-female-hypnosis",
@@ -13108,7 +13248,7 @@
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 418
+   "entry_count": 419
   },
   {
    "key": "family",
@@ -13162,7 +13302,7 @@
    "key": "vampire",
    "label": "Vampire mesmerism",
    "legend_label": "Vampire mesmerism",
-   "entry_count": 275
+   "entry_count": 276
   },
   {
    "key": "villain",
@@ -13192,7 +13332,7 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 174
+   "entry_count": 175
   },
   {
    "key": "therapist-wife",
@@ -76171,8 +76311,10 @@
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "hypno-sex-nov12"
    ],
+   "fit_note": "Hypnotized woman has sex: vampire Victor hypnotizes Ciça and sleeps with her (ch. 41, repeated in later chapters)",
    "format": "tv",
    "categories": [
     "vampire",
@@ -76183,7 +76325,8 @@
     "human",
     "polygamy-hypnosis",
     "mother",
-    "other-control"
+    "other-control",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -76208,14 +76351,16 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "hypno-sex-nov12"
    ],
    "source_records": [
     "xla62ucxbx02u5:269",
     "ig6qlxqxoxvcxla:329",
     "ig6qlxqxoxvcxla:579",
     "worldwide-hypnosis:670",
-    "hypnosis-imdb-list-full-oct25:446"
+    "hypnosis-imdb-list-full-oct25:446",
+    "hypno-sex-nov12:7"
    ],
    "index_only": false,
    "local_only": false,
@@ -76376,6 +76521,38 @@
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-sex-nov12:7",
+     "source": "hypno-sex-nov12",
+     "label": "O Beijo do Vampiro (2002–03)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "O Beijo do Vampiro",
+     "subtitle": "",
+     "year": "2002–03",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy"
+     ],
+     "sources": [
+      {
+       "label": "amonovelas.com.br — chapter summaries",
+       "url": "https://amonovelas.com.br/novelas/o-beijo-do-vampiro-resumo-dos-capitulos-121-a-132-da-novela-da-globo/"
+      }
+     ],
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "fit_note": "Hypnotized woman has sex: vampire Victor hypnotizes Ciça and sleeps with her (ch. 41, repeated in later chapters)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -76531,6 +76708,28 @@
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypno-sex-nov12:7": {
+     "title": "O Beijo do Vampiro",
+     "year": "2002–03",
+     "match_title": "O Beijo do Vampiro",
+     "match_year": "2002–03",
+     "format": "tv",
+     "categories": [
+      "hypno-intimacy"
+     ],
+     "group": "Already in the catalog — sex under hypnosis now tagged (12 Nov 2026)",
+     "sources": [
+      {
+       "label": "amonovelas.com.br — chapter summaries",
+       "url": "https://amonovelas.com.br/novelas/o-beijo-do-vampiro-resumo-dos-capitulos-121-a-132-da-novela-da-globo/"
+      }
+     ],
+     "fit_note": "Hypnotized woman has sex: vampire Victor hypnotizes Ciça and sleeps with her (ch. 41, repeated in later chapters)",
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT — category tag only; existing card fields unchanged"
     }
    }
   },
@@ -221356,7 +221555,8 @@
    "note": "Borderline: Hypnosis is one of several mechanisms. Outcome facts: pregnancy outcome: unknown; married: no; kids status: unknown.",
    "pregnancy_outcome": "unknown",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "hypno-sex-nov12"
    ],
    "kids_status": "unknown",
    "kids_together": "no",
@@ -221369,7 +221569,8 @@
    "categories": [
     "adult-hypnosis",
     "tech",
-    "scifi"
+    "scifi",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -221388,11 +221589,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "hypno-sex-nov12"
    ],
    "source_records": [
     "xla62ucxbx02u5:1090",
-    "hypnosis-assault:33"
+    "hypnosis-assault:33",
+    "hypno-sex-nov12:8"
    ],
    "index_only": false,
    "local_only": false,
@@ -221483,6 +221686,33 @@
      "fit_note": "Borderline: Hypnosis is one of several mechanisms.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-sex-nov12:8",
+     "source": "hypno-sex-nov12",
+     "label": "The Curse of the Alpha Stone (1972)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Curse of the Alpha Stone",
+     "subtitle": "",
+     "year": "1972",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy"
+     ],
+     "sources": [],
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "fit_note": "Hypnotized woman has sex: a professor uses hypnotism (with potions and the stone's smoke) to get women to have sex with him",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -221559,6 +221789,21 @@
       "loose fit"
      ],
      "catalog_ids": []
+    },
+    "hypno-sex-nov12:8": {
+     "title": "The Curse of the Alpha Stone",
+     "year": "1972",
+     "match_title": "The Curse of the Alpha Stone",
+     "match_year": "1972",
+     "categories": [
+      "hypno-intimacy"
+     ],
+     "group": "Already in the catalog — sex under hypnosis now tagged (12 Nov 2026)",
+     "fit_note": "Hypnotized woman has sex: a professor uses hypnotism (with potions and the stone's smoke) to get women to have sex with him",
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT — category tag only; existing card fields unchanged"
     }
    }
   },
@@ -446602,7 +446847,8 @@
    "pregnancy_note": "not applicable (male victim)",
    "tags": [
     "loose fit",
-    "bestsimilar-hypnosis-6496"
+    "bestsimilar-hypnosis-6496",
+    "hypno-sex-nov12"
    ],
    "kids_status": "unknown",
    "kids_together": "no",
@@ -446614,7 +446860,8 @@
    "format": "movie",
    "categories": [
     "adult-hypnosis",
-    "human"
+    "human",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -446636,16 +446883,22 @@
     {
      "label": "BestSimilar tag: hypnosis",
      "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Cosmic Pancakes! — review of the Something Weird double feature",
+     "url": "https://www.cosmic-pancakes.com/blog/weird-wanda"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "hypnosis-assault-loose",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "hypno-sex-nov12"
    ],
    "source_records": [
     "hypnosis-assault-loose:13",
-    "hypnosis-bestsimilar-nov5:165"
+    "hypnosis-bestsimilar-nov5:165",
+    "hypno-sex-nov12:11"
    ],
    "index_only": false,
    "local_only": true,
@@ -446731,6 +446984,38 @@
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-sex-nov12:11",
+     "source": "hypno-sex-nov12",
+     "label": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist (1969)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+     "subtitle": "",
+     "year": "1969",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy"
+     ],
+     "sources": [
+      {
+       "label": "Cosmic Pancakes! — review of the Something Weird double feature",
+       "url": "https://www.cosmic-pancakes.com/blog/weird-wanda"
+      }
+     ],
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "fit_note": "Hypnotized woman has sex: Wanda hypnotizes one of her women into a nymphomaniac, who then has sex with the captive Sylvester",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -446798,6 +447083,27 @@
       "bestsimilar-hypnosis-6496"
      ],
      "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
+    },
+    "hypno-sex-nov12:11": {
+     "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+     "year": "1969",
+     "match_title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+     "match_year": "1969",
+     "categories": [
+      "hypno-intimacy"
+     ],
+     "group": "Already in the catalog — sex under hypnosis now tagged (12 Nov 2026)",
+     "sources": [
+      {
+       "label": "Cosmic Pancakes! — review of the Something Weird double feature",
+       "url": "https://www.cosmic-pancakes.com/blog/weird-wanda"
+      }
+     ],
+     "fit_note": "Hypnotized woman has sex: Wanda hypnotizes one of her women into a nymphomaniac, who then has sex with the captive Sylvester",
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT — category tag only; existing card fields unchanged"
     }
    }
   },
@@ -462253,16 +462559,19 @@
    "pregnancy_outcome": "not stated",
    "pregnancy_note": "Synopsis does not mention pregnancy.",
    "tags": [
-    "bestsimilar-hypnosis-6496"
+    "bestsimilar-hypnosis-6496",
+    "hypno-sex-nov12"
    ],
    "kids_status": "not stated",
    "kids_note": "Synopsis does not mention children.",
    "kids_together": "not stated",
    "pregnant_end": "not stated",
+   "fit_note": "Hypnotized woman has sex: patient Tania acts out her fantasies in Dr. Clemmons's hypnotherapy sessions, which turn sexual",
    "adult": "yes",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -462285,11 +462594,13 @@
    "youtube_ids": [],
    "from_sources": [
     "hypno-sweep-oct9",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "hypno-sex-nov12"
    ],
    "source_records": [
     "hypno-sweep-oct9:6",
-    "hypnosis-bestsimilar-nov5:11"
+    "hypnosis-bestsimilar-nov5:11",
+    "hypno-sex-nov12:10"
    ],
    "index_only": false,
    "local_only": true,
@@ -462365,6 +462676,38 @@
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-sex-nov12:10",
+     "source": "hypno-sex-nov12",
+     "label": "Insatiable Desires (2003)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Insatiable Desires",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy"
+     ],
+     "sources": [
+      {
+       "label": "Letterboxd — synopsis",
+       "url": "https://letterboxd.com/film/insatiable-desires/"
+      }
+     ],
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "fit_note": "Hypnotized woman has sex: patient Tania acts out her fantasies in Dr. Clemmons's hypnotherapy sessions, which turn sexual",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -462423,6 +462766,27 @@
       "bestsimilar-hypnosis-6496"
      ],
      "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
+    },
+    "hypno-sex-nov12:10": {
+     "title": "Insatiable Desires",
+     "year": "2003",
+     "match_title": "Insatiable Desires",
+     "match_year": "2003",
+     "categories": [
+      "hypno-intimacy"
+     ],
+     "group": "Already in the catalog — sex under hypnosis now tagged (12 Nov 2026)",
+     "sources": [
+      {
+       "label": "Letterboxd — synopsis",
+       "url": "https://letterboxd.com/film/insatiable-desires/"
+      }
+     ],
+     "fit_note": "Hypnotized woman has sex: patient Tania acts out her fantasies in Dr. Clemmons's hypnotherapy sessions, which turn sexual",
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT — category tag only; existing card fields unchanged"
     }
    }
   },
@@ -591247,13 +591611,14 @@
    "confidence_flag": "",
    "summary": "A man uses hypnosis to turn his irritating next-door wife into a sex slave, who becomes aroused by a stranger in front of her husband.",
    "character": "Neighbour's wife (Oda Mako)",
-   "provenance": "",
+   "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT — category tag only; existing card fields unchanged",
    "note": "",
    "pregnancy_outcome": "Unknown",
    "pregnancy_note": "Kids together: Unknown. ",
    "tags": [
     "JAV",
-    "saimin"
+    "saimin",
+    "hypno-sex-nov12"
    ],
    "kids_status": "Has kids from before: Unknown",
    "kids_together": "Unknown",
@@ -591266,7 +591631,8 @@
     "cheat-control",
     "forced-obedience",
     "adult-hypnosis",
-    "hardcore-adult"
+    "hardcore-adult",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -591280,16 +591646,91 @@
    ],
    "youtube_ids": [],
    "from_sources": [
-    "saimin-sweep-nov11"
+    "saimin-sweep-nov11",
+    "hypno-sex-nov12"
    ],
    "source_records": [
-    "saimin-sweep-nov11:12"
+    "saimin-sweep-nov11:12",
+    "hypno-sex-nov12:9"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "saimin-sweep-nov11:12",
+    "source": "saimin-sweep-nov11",
+    "label": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子) (2022)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子)",
+    "subtitle": "",
+    "year": "2022",
+    "meta": "JAV (18+) · Japan · Japanese · VENUS",
+    "summary": "A man uses hypnosis to turn his irritating next-door wife into a sex slave, who becomes aroused by a stranger in front of her husband.",
+    "character": "Neighbour's wife (Oda Mako)",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "wife-hypnotized",
+     "cheat-control",
+     "forced-obedience",
+     "adult-hypnosis",
+     "hardcore-adult"
+    ],
+    "sources": [
+     {
+      "label": "TMDB",
+      "url": "https://www.themoviedb.org/movie/1006080-ntr"
+     },
+     {
+      "label": "JAV productfeed",
+      "url": "https://jav.productfeed.org/content/548613/VAGU-246"
+     }
+    ],
+    "pregnancy_outcome": "Unknown",
+    "pregnancy_note": "Kids together: Unknown. ",
+    "tags": [
+     "JAV",
+     "saimin"
+    ],
+    "kids_status": "Has kids from before: Unknown",
+    "kids_together": "Unknown",
+    "pregnant_end": "Unknown",
+    "evidence": "Two listings; plot from title only.",
+    "fit_note": "Series title also released with other actresses (e.g. 君島みお, 三浦恵理子); this card is the 織田真子 entry.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypno-sex-nov12:9",
+     "source": "hypno-sex-nov12",
+     "label": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子) (2022)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子)",
+     "subtitle": "",
+     "year": "2022",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy"
+     ],
+     "sources": [],
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "fit_note": "Hypnotized married woman has sex under hypnosis (adult video)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "saimin-sweep-nov11:12": {
      "title": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子)",
@@ -591326,6 +591767,21 @@
       }
      ],
      "evidence": "Two listings; plot from title only."
+    },
+    "hypno-sex-nov12:9": {
+     "title": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子)",
+     "year": "2022",
+     "match_title": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子)",
+     "match_year": "2022",
+     "categories": [
+      "hypno-intimacy"
+     ],
+     "group": "Already in the catalog — sex under hypnosis now tagged (12 Nov 2026)",
+     "fit_note": "Hypnotized married woman has sex under hypnosis (adult video)",
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT — category tag only; existing card fields unchanged"
     }
    }
   },
@@ -593956,6 +594412,533 @@
      "pregnancy_note": "Partner in the household: husband Jim. The festival copy describes a threat to Ana and the unborn child, not a sex scene."
     }
    }
+  },
+  {
+   "id": 4049,
+   "title": "Shining Sex",
+   "subtitle": "",
+   "year": "1976",
+   "meta": "Feature film · France · French / English · Eurocine · dir. Jess Franco (as Dan L. Simon) · shot 1975, first known release Rome, 12 Jul 1976 · softcore and hardcore versions",
+   "mechanism": "Hypnosis plus an alien substance; telepathic commands",
+   "confidence_flag": "High · producer synopsis + two reviews",
+   "summary": "Nightclub dancer Cynthia goes home with a strange couple who, during sex, rub a mysterious substance on her and hypnotize her, leaving her obedient to their will. Alpha then sends her to seduce people who have found out about the aliens; each man or woman she sleeps with dies afterwards, and the substance finally kills Cynthia too.",
+   "character": "Cynthia (Lina Romay)",
+   "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)",
+   "note": "",
+   "tags": [
+    "hypno-sex-nov12"
+   ],
+   "hypnotist": "Alpha, a being from another dimension, and her partner Andros",
+   "evidence": "3 independent sources (Eurocine synopsis says she is hypnotized; EOFFTV and Monell describe the control and the deadly sex)",
+   "fit_note": "Hypnotized woman has sex: hypnotized during sex with the couple, then sent to sleep with their targets",
+   "rating": "Adult (released in softcore and hardcore versions)",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Eurocine (producer) — synopsis",
+     "url": "http://eurocine.net/movies/shining-sex/"
+    },
+    {
+     "label": "EOFFTV — Encyclopedia of Fantastic Film and Television",
+     "url": "https://eofftv.com/shining-sex-1975/"
+    },
+    {
+     "label": "Robert Monell — Jess Franco Online Video Guide",
+     "url": "https://robertmonell.blogspot.com/2009/11/jess-franco-online-video-guide-shining.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sex-nov12"
+   ],
+   "source_records": [
+    "hypno-sex-nov12:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sex-nov12:1": {
+     "title": "Shining Sex",
+     "year": "1976",
+     "format": "movie",
+     "meta": "Feature film · France · French / English · Eurocine · dir. Jess Franco (as Dan L. Simon) · shot 1975, first known release Rome, 12 Jul 1976 · softcore and hardcore versions",
+     "mechanism": "Hypnosis plus an alien substance; telepathic commands",
+     "character": "Cynthia (Lina Romay)",
+     "hypnotist": "Alpha, a being from another dimension, and her partner Andros",
+     "summary": "Nightclub dancer Cynthia goes home with a strange couple who, during sex, rub a mysterious substance on her and hypnotize her, leaving her obedient to their will. Alpha then sends her to seduce people who have found out about the aliens; each man or woman she sleeps with dies afterwards, and the substance finally kills Cynthia too.",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "scifi"
+     ],
+     "sources": [
+      {
+       "label": "Eurocine (producer) — synopsis",
+       "url": "http://eurocine.net/movies/shining-sex/"
+      },
+      {
+       "label": "EOFFTV — Encyclopedia of Fantastic Film and Television",
+       "url": "https://eofftv.com/shining-sex-1975/"
+      },
+      {
+       "label": "Robert Monell — Jess Franco Online Video Guide",
+       "url": "https://robertmonell.blogspot.com/2009/11/jess-franco-online-video-guide-shining.html"
+      }
+     ],
+     "evidence": "3 independent sources (Eurocine synopsis says she is hypnotized; EOFFTV and Monell describe the control and the deadly sex)",
+     "confidence_flag": "High · producer synopsis + two reviews",
+     "fit_note": "Hypnotized woman has sex: hypnotized during sex with the couple, then sent to sleep with their targets",
+     "adult": "yes",
+     "rating": "Adult (released in softcore and hardcore versions)",
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)"
+    }
+   }
+  },
+  {
+   "id": 4050,
+   "title": "Come Under My Spell",
+   "subtitle": "",
+   "year": "1979",
+   "meta": "Adult feature · USA · English · dir. Carlos Tobalina (as Troy Benny) · Vinegar Syndrome 'Peekarama' DVD (2015)",
+   "mechanism": "Hypnosis learned from a book ('Sex Through Hypnotism')",
+   "confidence_flag": "High · two reviews describe sex under hypnosis",
+   "summary": "Shy exchange student Fernando gets a book called Sex Through Hypnotism from his roommate and uses it on women: he hypnotizes his neighbour and then a pizza delivery woman, who have sex with him while under his spell. The comedy ends with a plan to hypnotize a whole wedding party.",
+   "character": "Fernando's neighbour, a pizza delivery woman (Connie Peterson) and other women",
+   "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)",
+   "note": "Not the 2001 Arrow release of the same title, in which the performers were hypnotized by a real stage hypnotist.",
+   "tags": [
+    "hypno-sex-nov12"
+   ],
+   "hypnotist": "Fernando (Fernando Fortes), a foreign exchange student",
+   "evidence": "2 independent reviews",
+   "fit_note": "Hypnotized woman has sex with the hypnotist",
+   "rating": "Adult (hardcore)",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Rock! Shock! Pop! — Peekarama review",
+     "url": "https://www.rockshockpop.com/articles/movies-aa/379104-peekarama-come-under-my-spell-lady-dynamite"
+    },
+    {
+     "label": "B&S About Movies review",
+     "url": "https://bandsaboutmovies.com/2024/09/14/the-sizzlin-something-weird-summer-challenge-2024-come-under-my-spell-1979/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sex-nov12"
+   ],
+   "source_records": [
+    "hypno-sex-nov12:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sex-nov12:2": {
+     "title": "Come Under My Spell",
+     "year": "1979",
+     "format": "movie",
+     "meta": "Adult feature · USA · English · dir. Carlos Tobalina (as Troy Benny) · Vinegar Syndrome 'Peekarama' DVD (2015)",
+     "mechanism": "Hypnosis learned from a book ('Sex Through Hypnotism')",
+     "character": "Fernando's neighbour, a pizza delivery woman (Connie Peterson) and other women",
+     "hypnotist": "Fernando (Fernando Fortes), a foreign exchange student",
+     "summary": "Shy exchange student Fernando gets a book called Sex Through Hypnotism from his roommate and uses it on women: he hypnotizes his neighbour and then a pizza delivery woman, who have sex with him while under his spell. The comedy ends with a plan to hypnotize a whole wedding party.",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "hardcore-adult"
+     ],
+     "sources": [
+      {
+       "label": "Rock! Shock! Pop! — Peekarama review",
+       "url": "https://www.rockshockpop.com/articles/movies-aa/379104-peekarama-come-under-my-spell-lady-dynamite"
+      },
+      {
+       "label": "B&S About Movies review",
+       "url": "https://bandsaboutmovies.com/2024/09/14/the-sizzlin-something-weird-summer-challenge-2024-come-under-my-spell-1979/"
+      }
+     ],
+     "evidence": "2 independent reviews",
+     "confidence_flag": "High · two reviews describe sex under hypnosis",
+     "fit_note": "Hypnotized woman has sex with the hypnotist",
+     "adult": "yes",
+     "rating": "Adult (hardcore)",
+     "note": "Not the 2001 Arrow release of the same title, in which the performers were hypnotized by a real stage hypnotist.",
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)"
+    }
+   }
+  },
+  {
+   "id": 4051,
+   "title": "Hypno Sex",
+   "subtitle": "a.k.a. Neighborhood Doctor / Your Neighborhood Doctor",
+   "year": "1972",
+   "meta": "Adult feature · USA · English · Something Weird Video 'Dragon Art Theatre' vol. 139",
+   "mechanism": "Watch-and-chain hypnosis",
+   "confidence_flag": "Medium · plot from one detailed review, title confirmed by two databases",
+   "summary": "Betty goes to the wrong house looking for her doctor; Hugh pretends to be a colleague, hypnotizes her with his watch and chain, and has sex with her. He has used the same trick on a string of women, and a private detective hired by Betty's husband records the visits.",
+   "character": "Betty (Nancy Martin), a married woman",
+   "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)",
+   "note": "Different film from the 1996 adult video 'Hypno Sex' already in the catalog.",
+   "tags": [
+    "hypno-sex-nov12"
+   ],
+   "hypnotist": "Hugh (Keith Erickson), posing as a doctor",
+   "married": "yes",
+   "married_note": "Betty's husband hires a private detective to watch her",
+   "evidence": "IMDb title + detailed IMDb review; IAFD listing confirms title/year/aka",
+   "fit_note": "Hypnotized married woman has sex with the fake doctor who hypnotized her",
+   "rating": "Adult (hardcore)",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "hardcore-adult",
+    "wife-hypnotized",
+    "cheat-control"
+   ],
+   "sources": [
+    {
+     "label": "IMDb — Hypno Sex (1972)",
+     "url": "https://www.imdb.com/title/tt0276208/"
+    },
+    {
+     "label": "IMDb user review (plot detail)",
+     "url": "https://www.imdb.com/title/tt0276208/reviews/"
+    },
+    {
+     "label": "IAFD listing",
+     "url": "https://www.iafd.com/title.rme/id=6ffb89ad-3e10-4fba-af8d-b35008e44037"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sex-nov12"
+   ],
+   "source_records": [
+    "hypno-sex-nov12:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sex-nov12:3": {
+     "title": "Hypno Sex",
+     "subtitle": "a.k.a. Neighborhood Doctor / Your Neighborhood Doctor",
+     "year": "1972",
+     "format": "movie",
+     "meta": "Adult feature · USA · English · Something Weird Video 'Dragon Art Theatre' vol. 139",
+     "mechanism": "Watch-and-chain hypnosis",
+     "character": "Betty (Nancy Martin), a married woman",
+     "hypnotist": "Hugh (Keith Erickson), posing as a doctor",
+     "summary": "Betty goes to the wrong house looking for her doctor; Hugh pretends to be a colleague, hypnotizes her with his watch and chain, and has sex with her. He has used the same trick on a string of women, and a private detective hired by Betty's husband records the visits.",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "hardcore-adult",
+      "wife-hypnotized",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "IMDb — Hypno Sex (1972)",
+       "url": "https://www.imdb.com/title/tt0276208/"
+      },
+      {
+       "label": "IMDb user review (plot detail)",
+       "url": "https://www.imdb.com/title/tt0276208/reviews/"
+      },
+      {
+       "label": "IAFD listing",
+       "url": "https://www.iafd.com/title.rme/id=6ffb89ad-3e10-4fba-af8d-b35008e44037"
+      }
+     ],
+     "married": "yes",
+     "married_note": "Betty's husband hires a private detective to watch her",
+     "evidence": "IMDb title + detailed IMDb review; IAFD listing confirms title/year/aka",
+     "confidence_flag": "Medium · plot from one detailed review, title confirmed by two databases",
+     "fit_note": "Hypnotized married woman has sex with the fake doctor who hypnotized her",
+     "adult": "yes",
+     "rating": "Adult (hardcore)",
+     "note": "Different film from the 1996 adult video 'Hypno Sex' already in the catalog.",
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)"
+    }
+   }
+  },
+  {
+   "id": 4052,
+   "title": "Hallucination Sex",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "Erotic film · South Korea · Korean · dir. Lee Ga-on · 79 min · released 3 Apr 2020",
+   "mechanism": "Hypnosis by a psychiatrist",
+   "confidence_flag": "Medium · single synopsis; the sexual relationship is stated by the setup and the erotic-film listing, not described in detail",
+   "summary": "Psychiatrist Joo-hyun brings home a hypnotized woman, Jung-hee, as a 'gift' for her idle husband Kyung-soo and tells him to enjoy her; every night she hypnotizes them both. Jung-hee, who was brought there against her will and cannot remember what happens, begs Kyung-soo to help her escape.",
+   "character": "Jung-hee",
+   "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)",
+   "note": "",
+   "tags": [
+    "hypno-sex-nov12"
+   ],
+   "hypnotist": "Joo-hyun, a psychiatrist (the husband's wife)",
+   "evidence": "HanCinema synopsis (adult-restricted listing)",
+   "fit_note": "Hypnotized woman given to the hypnotist's husband for sex",
+   "rating": "Korean adult (restricted) erotic film",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "HanCinema — synopsis",
+     "url": "https://www.hancinema.net/korean_movie_Hallucination_Sex.php"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sex-nov12"
+   ],
+   "source_records": [
+    "hypno-sex-nov12:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sex-nov12:4": {
+     "title": "Hallucination Sex",
+     "year": "2020",
+     "format": "movie",
+     "meta": "Erotic film · South Korea · Korean · dir. Lee Ga-on · 79 min · released 3 Apr 2020",
+     "mechanism": "Hypnosis by a psychiatrist",
+     "character": "Jung-hee",
+     "hypnotist": "Joo-hyun, a psychiatrist (the husband's wife)",
+     "summary": "Psychiatrist Joo-hyun brings home a hypnotized woman, Jung-hee, as a 'gift' for her idle husband Kyung-soo and tells him to enjoy her; every night she hypnotizes them both. Jung-hee, who was brought there against her will and cannot remember what happens, begs Kyung-soo to help her escape.",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "HanCinema — synopsis",
+       "url": "https://www.hancinema.net/korean_movie_Hallucination_Sex.php"
+      }
+     ],
+     "evidence": "HanCinema synopsis (adult-restricted listing)",
+     "confidence_flag": "Medium · single synopsis; the sexual relationship is stated by the setup and the erotic-film listing, not described in detail",
+     "fit_note": "Hypnotized woman given to the hypnotist's husband for sex",
+     "adult": "yes",
+     "rating": "Korean adult (restricted) erotic film",
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)"
+    }
+   }
+  },
+  {
+   "id": 4053,
+   "title": "The Vampire Diaries — Andie Star arc",
+   "subtitle": "",
+   "year": "2011",
+   "meta": "TV series arc · USA · English · The CW · Season 2 (from ep. 13, Feb 2011) to Season 3 premiere 'The Birthday' (Sep 2011)",
+   "mechanism": "Vampire compulsion (hypnotic mind control)",
+   "confidence_flag": "Medium · vampire compulsion counted as hypnotic mind control",
+   "summary": "After Rose's death, Damon starts seeing news reporter Andie Star and keeps her under repeated compulsion as his girlfriend, using her for sex and for feeding. Stefan later compels her to jump from a stage and she dies.",
+   "character": "Andie Star (Dawn Olivieri), a local TV news reporter",
+   "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)",
+   "note": "",
+   "tags": [
+    "hypno-sex-nov12",
+    "vampire compulsion"
+   ],
+   "hypnotist": "Damon Salvatore (Ian Somerhalder)",
+   "evidence": "Fan wiki character page + EW interview",
+   "fit_note": "Hypnotized (compelled) adult woman in a sexual relationship with the vampire who controls her",
+   "adult": "yes",
+   "format": "tv",
+   "categories": [
+    "hypno-intimacy",
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "The Vampire Diaries Wiki — Andie Star",
+     "url": "https://vampirediaries.fandom.com/wiki/Andie_Star"
+    },
+    {
+     "label": "Entertainment Weekly — Dawn Olivieri on playing Damon's love interest",
+     "url": "https://ew.com/article/2011/02/17/vampire-diaries-dawn-olivieri-don-cheadle/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sex-nov12"
+   ],
+   "source_records": [
+    "hypno-sex-nov12:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sex-nov12:5": {
+     "title": "The Vampire Diaries — Andie Star arc",
+     "year": "2011",
+     "format": "tv",
+     "meta": "TV series arc · USA · English · The CW · Season 2 (from ep. 13, Feb 2011) to Season 3 premiere 'The Birthday' (Sep 2011)",
+     "mechanism": "Vampire compulsion (hypnotic mind control)",
+     "character": "Andie Star (Dawn Olivieri), a local TV news reporter",
+     "hypnotist": "Damon Salvatore (Ian Somerhalder)",
+     "summary": "After Rose's death, Damon starts seeing news reporter Andie Star and keeps her under repeated compulsion as his girlfriend, using her for sex and for feeding. Stefan later compels her to jump from a stage and she dies.",
+     "categories": [
+      "hypno-intimacy",
+      "vampire"
+     ],
+     "sources": [
+      {
+       "label": "The Vampire Diaries Wiki — Andie Star",
+       "url": "https://vampirediaries.fandom.com/wiki/Andie_Star"
+      },
+      {
+       "label": "Entertainment Weekly — Dawn Olivieri on playing Damon's love interest",
+       "url": "https://ew.com/article/2011/02/17/vampire-diaries-dawn-olivieri-don-cheadle/"
+      }
+     ],
+     "evidence": "Fan wiki character page + EW interview",
+     "confidence_flag": "Medium · vampire compulsion counted as hypnotic mind control",
+     "fit_note": "Hypnotized (compelled) adult woman in a sexual relationship with the vampire who controls her",
+     "adult": "yes",
+     "tags": [
+      "hypno-sex-nov12",
+      "vampire compulsion"
+     ],
+     "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)"
+    }
+   }
+  },
+  {
+   "id": 4054,
+   "title": "Les Cauchemars naissent la nuit / Nightmares Come at Night",
+   "subtitle": "",
+   "year": "1970",
+   "meta": "Feature film · Belgium / Liechtenstein · French · dir. Jess Franco · erotic thriller (classified 1971/1972 in Quebec)",
+   "mechanism": "Hypnosis (with a doctor's help)",
+   "confidence_flag": "Medium · hypnosis drives the crimes; the sexual relationship is with her controller",
+   "summary": "Stripper Anna moves in with Cynthia, who becomes her lover and, with a doctor's help, uses hypnosis to make her commit murders that remove witnesses to a jewel theft. Anna loses her grip on reality and kills herself. The two women's love scenes are part of the film.",
+   "character": "Anna (Diana Lorys), a stripper",
+   "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)",
+   "note": "",
+   "tags": [
+    "hypno-sex-nov12"
+   ],
+   "hypnotist": "Cynthia, her lover, helped by a doctor (Paul Muller)",
+   "evidence": "Official classification synopsis (hypnosis, murders) + review (lesbian love scene, Cynthia's hypnotic control)",
+   "fit_note": "Hypnotized woman in a sexual relationship with the woman who hypnotizes her",
+   "rating": "Erotic (Quebec 16+ Érotisme)",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "Quebec film classification register — synopsis",
+     "url": "https://repertoire.cinema.mcc.gouv.qc.ca/film/les-cauchemars-naissent-la-nuit-6661/"
+    },
+    {
+     "label": "HorrorNews.net review",
+     "url": "https://horrornews.net/36389/film-review-nightmares-come-at-night-1970/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sex-nov12"
+   ],
+   "source_records": [
+    "hypno-sex-nov12:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sex-nov12:6": {
+     "title": "Les Cauchemars naissent la nuit / Nightmares Come at Night",
+     "year": "1970",
+     "format": "movie",
+     "meta": "Feature film · Belgium / Liechtenstein · French · dir. Jess Franco · erotic thriller (classified 1971/1972 in Quebec)",
+     "mechanism": "Hypnosis (with a doctor's help)",
+     "character": "Anna (Diana Lorys), a stripper",
+     "hypnotist": "Cynthia, her lover, helped by a doctor (Paul Muller)",
+     "summary": "Stripper Anna moves in with Cynthia, who becomes her lover and, with a doctor's help, uses hypnosis to make her commit murders that remove witnesses to a jewel theft. Anna loses her grip on reality and kills herself. The two women's love scenes are part of the film.",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Quebec film classification register — synopsis",
+       "url": "https://repertoire.cinema.mcc.gouv.qc.ca/film/les-cauchemars-naissent-la-nuit-6661/"
+      },
+      {
+       "label": "HorrorNews.net review",
+       "url": "https://horrornews.net/36389/film-review-nightmares-come-at-night-1970/"
+      }
+     ],
+     "evidence": "Official classification synopsis (hypnosis, murders) + review (lesbian love scene, Cynthia's hypnotic control)",
+     "confidence_flag": "Medium · hypnosis drives the crimes; the sexual relationship is with her controller",
+     "fit_note": "Hypnotized woman in a sexual relationship with the woman who hypnotizes her",
+     "adult": "yes",
+     "rating": "Erotic (Quebec 16+ Érotisme)",
+     "tags": [
+      "hypno-sex-nov12"
+     ],
+     "provenance": "All-media 'hypnotized woman has sex' search, 12 Nov 2026 PT (adults only; hypnosis, not possession)"
+    }
+   }
   }
  ],
  "sections": [
@@ -594476,7 +595459,8 @@
     "vertical-hypnosis-nov6-r7",
     "deep-refresh-nov11",
     "saimin-sweep-nov11",
-    "partner-hypnosis-nov11"
+    "partner-hypnosis-nov11",
+    "hypno-sex-nov12"
    ],
    "groups": [
     {
@@ -598815,6 +599799,33 @@
       }
      ],
      "from_source": "saimin-sweep-nov11"
+    },
+    {
+     "title": "Hypnotized woman has sex — all-media search (12 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4050,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 4052,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 4051,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 4054,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 4049,
+       "from_source": "hypno-sex-nov12"
+      }
+     ],
+     "from_source": "hypno-sex-nov12"
     }
    ],
    "declared_count_by_source": {
@@ -598852,7 +599863,8 @@
     "vertical-hypnosis-nov6-r7": null,
     "deep-refresh-nov11": null,
     "saimin-sweep-nov11": null,
-    "partner-hypnosis-nov11": null
+    "partner-hypnosis-nov11": null,
+    "hypno-sex-nov12": null
    }
   },
   {
@@ -609212,12 +610224,14 @@
    "from_sources": [
     "adult-fanmade-oct15",
     "pregnant-scenes-oct25",
-    "saimin-sweep-nov11"
+    "saimin-sweep-nov11",
+    "hypno-sex-nov12"
    ],
    "declared_count_by_source": {
     "adult-fanmade-oct15": null,
     "pregnant-scenes-oct25": null,
-    "saimin-sweep-nov11": null
+    "saimin-sweep-nov11": null,
+    "hypno-sex-nov12": null
    },
    "groups": [
     {
@@ -609329,6 +610343,21 @@
       }
      ],
      "from_source": "saimin-sweep-nov11"
+    },
+    {
+     "title": "Hypnotized woman has sex — all-media search (12 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4050,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 4051,
+       "from_source": "hypno-sex-nov12"
+      }
+     ],
+     "from_source": "hypno-sex-nov12"
     }
    ]
   },
@@ -616856,7 +617885,8 @@
     "vertical-hypnosis-nov6-r2",
     "hypnosis-nov11",
     "saimin-sweep-nov11",
-    "partner-hypnosis-nov11"
+    "partner-hypnosis-nov11",
+    "hypno-sex-nov12"
    ],
    "groups": [
     {
@@ -617404,6 +618434,17 @@
       }
      ],
      "from_source": "partner-hypnosis-nov11"
+    },
+    {
+     "title": "Hypnotized woman has sex — all-media search (12 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4051,
+       "from_source": "hypno-sex-nov12"
+      }
+     ],
+     "from_source": "hypno-sex-nov12"
     }
    ],
    "declared_count_by_source": {
@@ -617424,7 +618465,8 @@
     "vertical-hypnosis-nov6-r2": null,
     "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
-    "partner-hypnosis-nov11": null
+    "partner-hypnosis-nov11": null,
+    "hypno-sex-nov12": null
    }
   },
   {
@@ -617472,7 +618514,8 @@
     "weekly-nov09",
     "hypnosis-nov11",
     "saimin-sweep-nov11",
-    "partner-hypnosis-nov11"
+    "partner-hypnosis-nov11",
+    "hypno-sex-nov12"
    ],
    "groups": [
     {
@@ -618636,6 +619679,17 @@
       }
      ],
      "from_source": "saimin-sweep-nov11"
+    },
+    {
+     "title": "Hypnotized woman has sex — all-media search (12 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4054,
+       "from_source": "hypno-sex-nov12"
+      }
+     ],
+     "from_source": "hypno-sex-nov12"
     }
    ],
    "declared_count_by_source": {
@@ -618671,7 +619725,8 @@
     "weekly-nov09": null,
     "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
-    "partner-hypnosis-nov11": null
+    "partner-hypnosis-nov11": null,
+    "hypno-sex-nov12": null
    }
   },
   {
@@ -621703,7 +622758,8 @@
     "deep-oct24",
     "vertical-hypnosis-nov6-r7",
     "saimin-sweep-nov11",
-    "partner-hypnosis-nov11"
+    "partner-hypnosis-nov11",
+    "hypno-sex-nov12"
    ],
    "groups": [
     {
@@ -622274,6 +623330,64 @@
       }
      ],
      "from_source": "partner-hypnosis-nov11"
+    },
+    {
+     "title": "Hypnotized woman has sex — all-media search (12 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4050,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 4052,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 4051,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 4054,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 4049,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 4053,
+       "from_source": "hypno-sex-nov12"
+      }
+     ],
+     "from_source": "hypno-sex-nov12"
+    },
+    {
+     "title": "Already in the catalog — sex under hypnosis now tagged (12 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1079,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 2721,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 268,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 4017,
+       "from_source": "hypno-sex-nov12"
+      },
+      {
+       "id": 2478,
+       "from_source": "hypno-sex-nov12"
+      }
+     ],
+     "from_source": "hypno-sex-nov12"
     }
    ],
    "declared_count_by_source": {
@@ -622287,7 +623401,8 @@
     "deep-oct24": null,
     "vertical-hypnosis-nov6-r7": null,
     "saimin-sweep-nov11": null,
-    "partner-hypnosis-nov11": null
+    "partner-hypnosis-nov11": null,
+    "hypno-sex-nov12": null
    }
   },
   {
@@ -641243,7 +642358,8 @@
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6-r4",
     "pdf-hypnosis-sweeps-nov08",
-    "hypnosis-nov11"
+    "hypnosis-nov11",
+    "hypno-sex-nov12"
    ],
    "groups": [
     {
@@ -645793,6 +646909,17 @@
       }
      ],
      "from_source": "hypnosis-nov11"
+    },
+    {
+     "title": "Hypnotized woman has sex — all-media search (12 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4049,
+       "from_source": "hypno-sex-nov12"
+      }
+     ],
+     "from_source": "hypno-sex-nov12"
     }
    ],
    "declared_count_by_source": {
@@ -645816,7 +646943,8 @@
     "deep-refresh-nov04": null,
     "vertical-hypnosis-nov6-r4": null,
     "pdf-hypnosis-sweeps-nov08": null,
-    "hypnosis-nov11": null
+    "hypnosis-nov11": null,
+    "hypno-sex-nov12": null
    }
   },
   {
@@ -649490,7 +650618,8 @@
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-oct30",
     "deep-refresh-nov04",
-    "vertical-hypnosis-nov6-r4"
+    "vertical-hypnosis-nov6-r4",
+    "hypno-sex-nov12"
    ],
    "groups": [
     {
@@ -652580,6 +653709,17 @@
       }
      ],
      "from_source": "vertical-hypnosis-nov6-r4"
+    },
+    {
+     "title": "Hypnotized woman has sex — all-media search (12 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4053,
+       "from_source": "hypno-sex-nov12"
+      }
+     ],
+     "from_source": "hypno-sex-nov12"
     }
    ],
    "declared_count_by_source": {
@@ -652597,7 +653737,8 @@
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
-    "vertical-hypnosis-nov6-r4": null
+    "vertical-hypnosis-nov6-r4": null,
+    "hypno-sex-nov12": null
    }
   },
   {
@@ -653103,7 +654244,8 @@
     "pdf-hypnosis-sweeps-nov08",
     "hypnosis-nov11",
     "saimin-sweep-nov11",
-    "partner-hypnosis-nov11"
+    "partner-hypnosis-nov11",
+    "hypno-sex-nov12"
    ],
    "groups": [
     {
@@ -655958,6 +657100,17 @@
       }
      ],
      "from_source": "saimin-sweep-nov11"
+    },
+    {
+     "title": "Hypnotized woman has sex — all-media search (12 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4052,
+       "from_source": "hypno-sex-nov12"
+      }
+     ],
+     "from_source": "hypno-sex-nov12"
     }
    ],
    "declared_count_by_source": {
@@ -655996,7 +657149,8 @@
     "pdf-hypnosis-sweeps-nov08": null,
     "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
-    "partner-hypnosis-nov11": null
+    "partner-hypnosis-nov11": null,
+    "hypno-sex-nov12": null
    }
   },
   {
@@ -656028,7 +657182,8 @@
     "deep-refresh-nov11",
     "hypnosis-nov11",
     "saimin-sweep-nov11",
-    "partner-hypnosis-nov11"
+    "partner-hypnosis-nov11",
+    "hypno-sex-nov12"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -656054,7 +657209,8 @@
     "deep-refresh-nov11": null,
     "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
-    "partner-hypnosis-nov11": null
+    "partner-hypnosis-nov11": null,
+    "hypno-sex-nov12": null
    },
    "groups": [
     {
@@ -656878,6 +658034,17 @@
       }
      ],
      "from_source": "partner-hypnosis-nov11"
+    },
+    {
+     "title": "Hypnotized woman has sex — all-media search (12 Nov 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4051,
+       "from_source": "hypno-sex-nov12"
+      }
+     ],
+     "from_source": "hypno-sex-nov12"
     }
    ]
   },
