@@ -1,0 +1,1161 @@
+{
+  "id": "therapist-hypnosis-nov12",
+  "label": "Hypnotized by her therapist — 12 Nov 2026",
+  "group_title": "Female character hypnotized by her therapist",
+  "description": "Works in which an adult female character is hypnotized by a therapist, psychiatrist, psychologist, counselor, hypnotherapist, or a doctor treating her with clinical hypnosis. Not possession. Partner-only hypnotists belong to the prior pass; a husband who sends her to a therapist who hypnotizes her (Haunting Fear and similar) is this theme and is enriched, not duplicated. Therapist-who-is-also-partner cases note both roles and stay in existing categories. Adults only; verified sources; no new category (medical / therapist-wife / doctor-gain / partner-commissioned).",
+  "category_labels": {},
+  "records": [
+    {
+      "title": "Haunting Fear",
+      "year": "1990",
+      "match_title": "Haunting Fear",
+      "match_year": "1990",
+      "format": "film",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "partner-commissioned",
+        "wife-hypnotized"
+      ],
+      "fit_note": "Husband Terry Monroe sends wealthy wife Victoria to hypnotherapist Dr. Julia Harcourt, who puts her under hypnosis. This is the partner-commissioned / therapist-as-hypnotist pattern (not the husband hypnotizing her himself). Hypnotist field was already corrected in the 11 Nov partner-hypnosis pass.",
+      "evidence": "Doomed Moviethon, Morbidly Beautiful, and B&S About Movies reviews: Dr. Julia Harcourt is the hypnotist; the husband commissions the sessions.",
+      "sources": [
+        {
+          "label": "Doomed Moviethon review",
+          "url": "https://www.doomedmoviethon.com/?review=haunting-fear"
+        },
+        {
+          "label": "Morbidly Beautiful review",
+          "url": "https://morbidlybeautiful.com/daily-dig-haunting-fear-1990/"
+        },
+        {
+          "label": "B&S About Movies review",
+          "url": "https://bandsaboutmovies.com/2022/05/27/haunting-fear-1990/"
+        }
+      ]
+    },
+    {
+      "title": "Ana Antar",
+      "year": "1966",
+      "match_title": "Ana Antar",
+      "match_year": "1966",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "doctor-gain",
+        "crime"
+      ],
+      "hypnotist": "her therapist, Dr. Sabri (Shafiq Hashim)",
+      "character": "Halo (Randa), a nightclub singer",
+      "mechanism": "Clinical-style hypnosis by her therapist, used to program her to steal",
+      "summary": "Lebanese-Egyptian comedy-musical. Insurance investigator Hosni and private investigator Antar trace a string of jewel robberies to nightclub singer Halo, who is being hypnotized by her therapist Dr. Sabri into robbing the homes of wealthy patrons and bringing him the jewels. He repeatedly puts her into a deep trance, programs her to steal, and orders her to bed.",
+      "already_married": "unknown",
+      "pregnant_end": "no",
+      "pregnancy_outcome": "not pregnant",
+      "pregnancy_note": "No pregnancy for Halo in the Mental Block plot or scene notes.",
+      "kids_status": "unknown",
+      "kids_note": "No children of Halo’s are mentioned in the cited plot.",
+      "kids_together": "unknown",
+      "kids_together_note": "No partner or child of Halo’s is identified in the cited plot.",
+      "fit_note": "Adult female patient hypnotized by her own therapist, who uses the trances to make her steal jewelry for him.",
+      "evidence": "Mental Block wiki plot and scene list: Dr. Sabri hypnotizes Halo, programs her to steal, and quizzes her under trance.",
+      "sources": [
+        {
+          "label": "Mental Block wiki",
+          "url": "https://mentalblock.miraheze.org/wiki/Ana_Antar"
+        }
+      ],
+      "override_fields": [
+        "summary"
+      ]
+    },
+    {
+      "title": "El señor de la Querencia",
+      "year": "2024",
+      "match_title": "El señor de la Querencia",
+      "match_year": "2024",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "psychiatrist / doctor Juan Cristóbal León, who uses a pendulum in episode 32",
+      "character": "Lucrecia, an adult woman (a young woman returned from France)",
+      "already_married": "unknown",
+      "pregnant_end": "unknown",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "Episode 32: Dr. Juan Cristóbal pendulum-hypnotizes Lucrecia into a deep trance to uncover childhood trauma about her parents. Therapeutic induction by a psychiatrist; not possession. The 2008 original card is not assumed to contain the same scene and is not tagged here.",
+      "evidence": "Mega recap of episode 32: pendulum induction, deep trance, recovered trauma.",
+      "sources": [
+        {
+          "label": "Mega recap",
+          "url": "https://www.mega.cl/teleseries/el-senor-de-la-querencia/mejores-momentos/178223-hipnosis-reflota-fuerte-rabia-lucrecia-mercedes.html"
+        }
+      ]
+    },
+    {
+      "title": "The Hypnotized / Faceless Beauty",
+      "year": "2004",
+      "match_title": "The Hypnotized / Faceless Beauty",
+      "match_year": "2004",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "therapist-wife",
+        "doctor-gain"
+      ],
+      "hypnotist": "psychiatrist Suk-kwon",
+      "fit_note": "After Jin-su is forcibly committed by her husband, therapist Suk-kwon treats her with deep hypnosis and later crosses therapeutic boundaries.",
+      "evidence": "IMDb / KOFIC / Letterboxd: psychiatrist treats committed wife with deep hypnosis.",
+      "sources": [
+        {
+          "label": "IMDb",
+          "url": "https://www.imdb.com/title/tt0419730"
+        }
+      ]
+    },
+    {
+      "title": "Body of Influence",
+      "year": "1993",
+      "match_title": "Body of Influence",
+      "match_year": "1993",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "adult-hypnosis"
+      ],
+      "hypnotist": "psychiatrist Dr. Jonathan Brooks",
+      "character": "patient Laura (Shannon Whirry), who has an alter 'Lana'",
+      "already_married": "unknown",
+      "pregnant_end": "no",
+      "kids_status": "unknown",
+      "kids_together": "no",
+      "fit_note": "Psychiatrist hypnotizes his shy adult female patient; the hypnosis-driven sessions are central.",
+      "evidence": "Wikipedia and IMDb plot: Dr. Jonathan Brooks hypnotizes patient Laura.",
+      "sources": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Body_of_Influence"
+        },
+        {
+          "label": "IMDb plot",
+          "url": "https://www.imdb.com/title/tt0106454/plotsummary/"
+        }
+      ]
+    },
+    {
+      "title": "Hypnotic",
+      "year": "2021",
+      "match_title": "Hypnotic",
+      "match_year": "2021",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "therapist-wife",
+        "doctor-gain"
+      ],
+      "hypnotist": "psychotherapist Dr. Collin Meade",
+      "character": "married patient Gina Kelman (and other patients; protagonist Jenn is also treated)",
+      "fit_note": "Psychotherapist implants post-hypnotic triggers in patients, including married patient Gina Kelman.",
+      "evidence": "Wikipedia / Den of Geek / Screen Rant: Dr. Collin Meade uses hypnotherapy on female patients.",
+      "sources": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
+        }
+      ]
+    },
+    {
+      "title": "The Three Faces of Eve",
+      "year": "1957",
+      "match_title": "The Three Faces of Eve",
+      "match_year": "1957",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "therapist-wife"
+      ],
+      "hypnotist": "psychiatrist Dr. Curtis Luther",
+      "character": "Eve White, a wife and mother",
+      "fit_note": "Clinical hypnosis of an adult married woman by her psychiatrist; alternate personalities emerge in session.",
+      "evidence": "Wikipedia plot: Dr. Curtis Luther uses clinical hypnosis with Eve White.",
+      "sources": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Three_Faces_of_Eve"
+        }
+      ]
+    },
+    {
+      "title": "Smoke and Mirrors / Scot-Free",
+      "year": "1995",
+      "match_title": "Smoke and Mirrors / Scot-Free",
+      "match_year": "1995",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "doctor-gain"
+      ],
+      "hypnotist": "hypnotherapist Dr. Beck",
+      "character": "anxious patient Margaret, who has an alternate personality 'Ginger'",
+      "already_married": "unknown",
+      "pregnant_end": "unknown",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "A hypnotherapist hypnotizes his adult female patient to quit smoking, then exploits the trance and her alter.",
+      "evidence": "Existing catalog synopsis: Dr. Beck hypnotizes patient Margaret.",
+      "sources": [
+        {
+          "label": "makeflix.com",
+          "url": "https://makeflix.com/products/smoke-and-mirrors-30th-anniversary-edition"
+        }
+      ]
+    },
+    {
+      "title": "On A Clear Day You Can See Forever",
+      "year": "1970",
+      "match_title": "On A Clear Day You Can See Forever",
+      "match_year": "1970",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "psychotherapist Dr. Marc Chabot (Yves Montand) — film role; the source musical’s psychiatrist is Dr. Mark Bruckner",
+      "character": "Daisy Gamble (Barbra Streisand)",
+      "already_married": "no",
+      "already_married_note": "Daisy is an unmarried adult woman who visits the psychiatrist to quit smoking.",
+      "pregnant_end": "no",
+      "pregnancy_outcome": "not pregnant",
+      "pregnancy_note": "No pregnancy for Daisy in the cited film plot.",
+      "kids_status": "no",
+      "kids_note": "No children of Daisy’s are mentioned in the cited plot.",
+      "kids_together": "no",
+      "kids_together_note": "Daisy and the psychiatrist become romantically involved; no child of the couple is mentioned.",
+      "fit_note": "Adult woman hypnotized by her psychotherapist during smoking-cessation treatment; under hypnosis she relives a past life. Distinct from the 1965 source musical, which is added on the Reads page in this pass.",
+      "evidence": "Wikipedia film plot + Mental Block: the psychotherapist hypnotizes Daisy.",
+      "sources": [
+        {
+          "label": "Wikipedia (film)",
+          "url": "https://en.wikipedia.org/wiki/On_a_Clear_Day_You_Can_See_Forever_(film)"
+        },
+        {
+          "label": "Mental Block wiki",
+          "url": "https://mentalblock.miraheze.org/wiki/On_A_Clear_Day_You_Can_See_Forever"
+        }
+      ]
+    },
+    {
+      "title": "The Great Hypnotist (催眠大师)",
+      "year": "2014",
+      "match_title": "The Great Hypnotist (催眠大师)",
+      "match_year": "2014",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "hypnotherapist Xu Ruining",
+      "character": "troubled patient Ren Xiaoyan (Karen Mok)",
+      "fit_note": "Hypnotherapist uses hypnotherapy on an adult female patient; the sessions become a battle of hypnotic manipulation. The Japanese release title 眠れぬ夜のカルテ (2014) is this same film, not a separate work.",
+      "evidence": "Existing catalog synopsis + Chinese/Japanese release listings identifying 眠れぬ夜のカルテ as this film.",
+      "sources": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Great_Hypnotist"
+        }
+      ]
+    },
+    {
+      "title": "Marionette (꼭두각시)",
+      "year": "2013",
+      "match_title": "Marionette (꼭두각시)",
+      "match_year": "2013",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "psychiatrist Ji-hoon",
+      "character": "female client Hyeon-jin",
+      "fit_note": "Psychiatrist uses hypnotism on an adult female client to probe her past.",
+      "evidence": "Existing catalog synopsis: psychiatrist Ji-hoon hypnotizes client Hyeon-jin."
+    },
+    {
+      "title": "Carefree",
+      "year": "1938",
+      "match_title": "Carefree",
+      "match_year": "1938",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "love"
+      ],
+      "hypnotist": "psychiatrist Tony Flagg, initially treating his friend's fiancée; she later marries him",
+      "character": "Amanda, fiancée of Stephen at the time of the hypnosis",
+      "already_married": "no",
+      "already_married_note": "Amanda is engaged to Stephen, not married, when psychiatrist Tony Flagg hypnotizes her; she marries Tony at the end.",
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "kids_together_note": "The film ends with Amanda marrying Tony; no child of the couple is mentioned.",
+      "fit_note": "Amanda is hypnotized by a psychiatrist in a treatment framing (to make her love her fiancé). The hypnotist later becomes her husband — both roles noted; placed in existing medical / love categories, not treated as a partner-only case.",
+      "evidence": "Wikipedia and Mental Block: psychiatrist Tony Flagg hypnotizes Amanda.",
+      "sources": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Carefree_(film)"
+        },
+        {
+          "label": "Mental Block wiki",
+          "url": "https://mentalblock.miraheze.org/wiki/Carefree"
+        }
+      ]
+    },
+    {
+      "title": "Nesf azraa",
+      "year": "1961",
+      "match_title": "Nesf azraa",
+      "match_year": "1961",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "doctor-gain"
+      ],
+      "hypnotist": "psychiatrist Anwar (Mohsen Sarhan)",
+      "character": "his patient Zeinab (Zubida Tharwat), who hides the therapy from her fiancé Galal",
+      "already_married": "no",
+      "already_married_note": "Zeinab has a fiancé, Galal, and hides her therapy from him.",
+      "pregnant_end": "unknown",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "A psychiatrist hypnotizes his adult female patient (and other women he loves).",
+      "evidence": "Mental Block wiki: psychiatrist Anwar hypnotizes patient Zeinab.",
+      "sources": [
+        {
+          "label": "Mental Block wiki",
+          "url": "https://mentalblock.miraheze.org/wiki/Nesf_azraa"
+        }
+      ]
+    },
+    {
+      "title": "Ulladakkam",
+      "year": "1991",
+      "match_title": "Ulladakkam",
+      "match_year": "1991",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "india-control"
+      ],
+      "hypnotist": "psychiatrist Sunny (Mohanlal)",
+      "character": "traumatized patient Reshma (Amala)",
+      "already_married": "unknown",
+      "pregnant_end": "unknown",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "Psychiatrist hypnotizes an adult female patient to recover memories; she then becomes fixated on him (transference).",
+      "evidence": "Wikipedia plot: psychiatrist Sunny hypnotizes patient Reshma.",
+      "sources": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ulladakkam"
+        }
+      ]
+    },
+    {
+      "title": "Sila Nerangalil",
+      "year": "2008",
+      "match_title": "Sila Nerangalil",
+      "match_year": "2008",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "india-control"
+      ],
+      "hypnotist": "psychiatrist Krishnan",
+      "character": "Anjali (Navya Nair)",
+      "fit_note": "Psychiatrist’s hypnotherapy of an adult female patient; the twist is that the hypnotist himself is the original killer.",
+      "evidence": "Wikipedia and contemporary review: psychiatrist Krishnan’s hypnotherapy of Anjali.",
+      "sources": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sila_Nerangalil"
+        }
+      ]
+    },
+    {
+      "title": "Phir Wahi Raat",
+      "year": "1980",
+      "match_title": "Phir Wahi Raat",
+      "match_year": "1980",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "psychiatrist Dr. Vijay",
+      "character": "Asha",
+      "fit_note": "Psychiatrist hypnotizes an adult female patient to ease her terror; the haunting itself is a scheme by her cousin.",
+      "evidence": "PlotExplained: Dr. Vijay hypnotises Asha.",
+      "sources": [
+        {
+          "label": "PlotExplained: Phir Wahi Raat (1980)",
+          "url": "https://www.plotexplained.com/movie/phir-wahiraat-1980"
+        }
+      ]
+    },
+    {
+      "title": "Sıfır Dediğimde / On the Count of Zero",
+      "year": "2007",
+      "match_title": "Sıfır Dediğimde / On the Count of Zero",
+      "match_year": "2007",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "adult-hypnosis"
+      ],
+      "hypnotist": "psychiatrist Dr. Melih",
+      "character": "Aslı, a final-year art student",
+      "already_married": "no",
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "fit_note": "A psychiatrist hypnotizes an adult female patient to recover a memory.",
+      "evidence": "IMDb / Beyazperde / Sinemalar listings: Dr. Melih hypnotizes Aslı.",
+      "sources": [
+        {
+          "label": "IMDb",
+          "url": "https://www.imdb.com/title/tt0940765/"
+        }
+      ]
+    },
+    {
+      "title": "Hyde, Jekyll, Me (하이드 지킬, 나)",
+      "year": "2015",
+      "match_title": "Hyde, Jekyll, Me (하이드 지킬, 나)",
+      "match_year": "2015",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "psychiatrist / hypnotherapist Yoon Tae-joo (Sung Joon)",
+      "character": "circus worker Ha-na, an adult woman who attends about twelve sessions",
+      "fit_note": "An adult woman is hypnotized across multiple clinical sessions by a hypnotherapist who is secretly using the treatment for revenge.",
+      "evidence": "Dramabeans and other episode recaps: Yoon Tae-joo hypnotises Ha-na in session.",
+      "sources": [
+        {
+          "label": "Wikipedia: Hyde Jekyll, Me",
+          "url": "https://en.wikipedia.org/wiki/Hyde,_Jekyll,_Me"
+        }
+      ]
+    },
+    {
+      "title": "Anchor (앵커)",
+      "year": "2022",
+      "match_title": "Anchor (앵커)",
+      "match_year": "2022",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "psychiatrist Choi In-ho (Shin Ha-kyun)",
+      "character": "news anchor Se-ra",
+      "already_married": "unknown",
+      "pregnant_end": "no",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "A psychiatrist increasingly influences an adult female news anchor through hypnosis.",
+      "evidence": "MyDramaList / Wikipedia: psychiatrist Choi In-ho uses hypnosis on Se-ra.",
+      "sources": [
+        {
+          "label": "Wikipedia: Anchor (2022 film)",
+          "url": "https://en.wikipedia.org/wiki/Anchor_(2022_film)"
+        }
+      ]
+    },
+    {
+      "title": "A Place Beyond Shame",
+      "year": "1980",
+      "match_title": "A Place Beyond Shame",
+      "match_year": "1980",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "hardcore-adult",
+        "hypno-intimacy"
+      ],
+      "hypnotist": "her psychiatrist Michael (Paul Thomas)",
+      "character": "Seka’s character, an adult woman who has lost her sex drive",
+      "already_married": "unknown",
+      "pregnant_end": "no",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "A psychiatrist hypnotizes his adult female patient so she can reconnect with her sexuality; under hypnosis she relives sexual fantasies. Already behind the hardcore toggle.",
+      "evidence": "Letterboxd reviews and catalog synopses describe the hypnosis framing by psychiatrist Michael.",
+      "sources": [
+        {
+          "label": "TMDB",
+          "url": "https://www.themoviedb.org/movie/460261-a-place-beyond-shame"
+        }
+      ]
+    },
+    {
+      "title": "嘘！天黑别闭眼 (Darkness: Eyes Wide Open)",
+      "year": "2025",
+      "match_title": "嘘！天黑别闭眼 (Darkness: Eyes Wide Open)",
+      "match_year": "2025",
+      "format": "vertical series",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "doctor-gain"
+      ],
+      "hypnotist": "psychiatrist Leng Fan Zhou 冷凡舟",
+      "character": "heiress Xu Miao Yun",
+      "fit_note": "Under cover of treating her, the psychiatrist uses hypnosis and brainwashing on an adult female patient to seize a family treasure.",
+      "evidence": "MyDramaList and ContentChina synopses: psychiatrist Leng uses hypnosis on Xu Miao Yun.",
+      "sources": [
+        {
+          "label": "MyDramaList",
+          "url": "https://mydramalist.com/799094-darkness-eyes-wide-open"
+        }
+      ]
+    },
+    {
+      "title": "我的多重人格在自相残杀",
+      "year": "2025",
+      "match_title": "我的多重人格在自相残杀",
+      "match_year": "2025",
+      "format": "vertical series",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "adult-hypnosis"
+      ],
+      "hypnotist": "psychologist Gu Chenzhou",
+      "character": "his patient Su Wan",
+      "already_married": "unknown",
+      "pregnant_end": "no",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "A psychologist hypnotizes his adult female patient to control her. (The later twist that he himself has multiple personalities does not change the therapist-patient induction.)",
+      "evidence": "Short-drama encyclopedia and Bilibili listings: psychologist Gu Chenzhou hypnotizes patient Su Wan.",
+      "sources": [
+        {
+          "label": "短剧百科 我的多重人格",
+          "url": "https://www.duanjubaike.net/duanju/info-7524889508542696473.html"
+        }
+      ]
+    },
+    {
+      "title": "重度催眠 (Deep Hypnosis)",
+      "year": "2026",
+      "match_title": "重度催眠 (Deep Hypnosis)",
+      "match_year": "2026",
+      "format": "film",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "psychiatrist Dong Bingchun (Tse Kwan-ho)",
+      "character": "an adult woman treated to recover buried trauma memories",
+      "already_married": "unknown",
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "fit_note": "A psychiatrist uses hypnotherapy on an adult woman to recover trauma memories.",
+      "evidence": "Beijing Youth Daily / Maoyan coverage of the film’s hypnotherapy plot.",
+      "sources": [
+        {
+          "label": "163.com / Beijing Youth Daily",
+          "url": "https://www.163.com/dy/article/KJCQ9UG80514R9KQ.html"
+        }
+      ]
+    },
+    {
+      "title": "Hitozuma Saimin Counseling",
+      "year": "2018",
+      "match_title": "Hitozuma Saimin Counseling",
+      "match_year": "2018",
+      "format": "visual novel",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "doctor-gain",
+        "adult-hypnosis"
+      ],
+      "hypnotist": "counselor Narita",
+      "character": "married adult female clients who come to him for counseling",
+      "already_married": "yes",
+      "already_married_note": "The clients are married women who come for counseling.",
+      "pregnant_end": "no",
+      "kids_status": "unknown",
+      "kids_together": "no",
+      "fit_note": "A counselor hypnotizes married adult female clients in a counseling setting.",
+      "evidence": "VNDB: counselor Narita hypnotizes married female clients.",
+      "sources": [
+        {
+          "label": "VNDB",
+          "url": "https://vndb.org/v22293"
+        }
+      ]
+    },
+    {
+      "title": "催眠曲",
+      "year": "2025",
+      "match_title": "催眠曲",
+      "match_year": "2025",
+      "format": "vertical series",
+      "tags": [
+        "hypnotized by therapist",
+        "loose fit"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "adult-hypnosis"
+      ],
+      "hypnotist": "hypnotist Lin Mo, who treats amnesic patient Su Wan",
+      "character": "amnesic patient Su Wan",
+      "already_married": "unknown",
+      "pregnant_end": "no",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "Loose fit: one listing frames Lin Mo as treating amnesic Su Wan with hypnosis to unlock memories, then developing feelings for her. Sources are short-drama listings rather than a full verified plot.",
+      "evidence": "夸克短剧 / 马扑短剧 listings describe Lin Mo treating Su Wan.",
+      "sources": [
+        {
+          "label": "夸克短剧 催眠曲 (12集全)",
+          "url": "https://qkduanju.com/post/26371.html"
+        }
+      ]
+    },
+    {
+      "title": "Lizzie",
+      "year": "1957",
+      "match_title": "Lizzie",
+      "match_year": "1957",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "her psychiatrist, Dr. Neal Wright",
+      "character": "Elizabeth ('Lizzie'), an adult woman with multiple personalities",
+      "already_married": "unknown",
+      "pregnant_end": "no",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "An adult woman with multiple personalities is put under hypnosis by her psychiatrist.",
+      "evidence": "Wikipedia plot: Elizabeth is hypnotized by her psychiatrist.",
+      "sources": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lizzie_(1957_film)"
+        }
+      ]
+    },
+    {
+      "title": "One Life to Live",
+      "year": "1990s",
+      "match_title": "One Life to Live",
+      "match_year": "1990s",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "mother"
+      ],
+      "hypnotist": "psychiatrist Elliot Durbin, acting on mobster Carlo Hesser’s orders",
+      "character": "Viki Lord, a wife and mother",
+      "already_married": "yes",
+      "pregnant_end": "no",
+      "pregnancy_outcome": "not pregnant",
+      "pregnancy_note": "Not pregnant before, during or after the trance in the cited plot sources.",
+      "kids_status": "yes",
+      "kids_note": "Several children; the hypnotic command is aimed at her adult son Kevin Buchanan.",
+      "kids_together": "unknown",
+      "fit_note": "Viki’s own psychiatrist is blackmailed into hypnotizing her. Therapeutic relationship; the motive is criminal, but the hypnotist is her psychiatrist.",
+      "evidence": "Existing catalog synopsis with psychiatrist Elliot Durbin."
+    },
+    {
+      "title": "Dallas",
+      "year": "1980",
+      "match_title": "Dallas",
+      "match_year": "1980",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "therapist-wife",
+        "wife-hypnotized"
+      ],
+      "hypnotist": "her psychiatrist, Dr. Simon Ellby",
+      "character": "Sue Ellen Ewing, wife of J.R. Ewing and mother of John Ross Ewing III",
+      "fit_note": "S4E4: Sue Ellen’s psychiatrist puts her under hypnosis to recover the night of the shooting. Clinical hypnosis of a married adult woman by her therapist.",
+      "evidence": "Episode recap already on the card: Dr. Simon Ellby hypnotizes Sue Ellen."
+    },
+    {
+      "title": "Columbo",
+      "year": "1975",
+      "match_title": "Columbo",
+      "match_year": "1975",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "therapist-wife",
+        "doctor-gain"
+      ],
+      "hypnotist": "psychiatrist Dr. Mark Collier, who is also having an affair with his patient",
+      "character": "Nadia Donner, a rich housewife and patient",
+      "fit_note": "A psychiatrist drugs and hypnotizes his adult female patient (also his affair partner) so a trigger phrase makes her leap from her balcony. Therapist role is primary; the affair is noted as a second role.",
+      "evidence": "Existing catalog synopsis of 'A Deadly State of Mind'."
+    },
+    {
+      "title": "Diagnosis: Murder",
+      "year": "1997",
+      "match_title": "Diagnosis: Murder",
+      "match_year": "1997",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "doctor-gain",
+        "adult-hypnosis"
+      ],
+      "hypnotist": "psychiatrist Dr. Gavin Reed",
+      "character": "female patients including Barbara Bennings",
+      "already_married": "no",
+      "already_married_note": "The hypnotist is married to Claire, whom he kills; the hypnotized patients are not described as his wife.",
+      "pregnant_end": "no",
+      "kids_status": "unknown",
+      "kids_together": "no",
+      "fit_note": "A psychiatrist hypnotizes adult female patients, including to frame patient Barbara Bennings.",
+      "evidence": "Existing catalog synopsis of 'Delusions of Murder'."
+    },
+    {
+      "title": "Workin' Moms — \"Consent\"",
+      "year": "2018",
+      "match_title": "Workin' Moms — \"Consent\"",
+      "match_year": "2018",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "therapist-wife",
+        "partner-control",
+        "wife-hypnotized"
+      ],
+      "hypnotist": "her ex-husband Brad, who is also a hypnotherapist (both roles)",
+      "fit_note": "Anne agrees to a hypnotherapy session with her ex-husband, who is a hypnotherapist and tries to plant sexual suggestions. He is both her former partner and the treating hypnotherapist; already tagged in the partner-hypnosis pass. Placed in existing therapist-wife / medical categories.",
+      "evidence": "Existing catalog synopsis of the 'Consent' episode."
+    },
+    {
+      "title": "Floricienta",
+      "year": "2004–05",
+      "match_title": "Floricienta",
+      "match_year": "2004–05",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "adult-hypnosis"
+      ],
+      "hypnotist": "a therapist who accidentally hypnotizes Flor Valente",
+      "character": "Flor Valente, an adult woman",
+      "already_married": "unknown",
+      "pregnant_end": "unknown",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "A therapist hypnotizes Flor (accidentally); rivals later exploit the trigger words. The initial hypnotist is in a therapeutic role.",
+      "evidence": "Existing catalog synopsis of the multi-episode control arc."
+    },
+    {
+      "title": "El extraño retorno de Diana Salazar",
+      "year": "2024",
+      "match_title": "El extraño retorno de Diana Salazar",
+      "match_year": "2024",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "adult-hypnosis"
+      ],
+      "hypnotist": "psychologist Joaquín, using pendulum induction",
+      "character": "Diana Salazar (Angelique Boyer)",
+      "already_married": "unknown",
+      "pregnant_end": "unknown",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "Diana undergoes voluntary hypnosis/regression sessions with psychologist Joaquín to recover past-life memories. Therapeutic relationship; not possession.",
+      "evidence": "Existing catalog synopsis: pendulum induction, hypnotic sleep, trance recall."
+    },
+    {
+      "title": "Demain nous appartient",
+      "year": "2019",
+      "match_title": "Demain nous appartient",
+      "match_year": "2019",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "adult-hypnosis"
+      ],
+      "hypnotist": "a psychologist who hypnotizes Victoire",
+      "character": "Victoire",
+      "already_married": "unknown",
+      "pregnant_end": "unknown",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "A psychologist hypnotizes Victoire, who recalls a nightmare during the soap’s mystery arc.",
+      "evidence": "Existing catalog synopsis of the hypnosis scene."
+    },
+    {
+      "title": "Imago",
+      "year": "1970",
+      "match_title": "Imago",
+      "match_year": "1970",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist",
+        "loose fit"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "psychiatrist Dr. Keith, who prescribes hypnosis and group encounter sessions",
+      "character": "Carole, an engaged adult woman",
+      "already_married": "no",
+      "already_married_note": "She is engaged to Bruce, not married, when she goes to Dr. Keith.",
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "fit_note": "Loose fit: the psychiatrist prescribes hypnosis for an adult female patient; the available synopses emphasize encounter sessions and nightmares more than a filmed induction.",
+      "evidence": "AFI / TV Guide / Temple of Schlock: Dr. Keith prescribes hypnosis.",
+      "sources": [
+        {
+          "label": "AFI Catalog",
+          "url": "https://catalog.afi.com/Film/55060-TO-BE-FREE"
+        }
+      ]
+    },
+    {
+      "title": "August Bride (8월의 신부)",
+      "year": "1996",
+      "match_title": "August Bride (8월의 신부)",
+      "match_year": "1996",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "psychiatrist Dr. Moon (Jung Dong-hwan)",
+      "character": "photographer Ga-young, an adult woman with amnesia",
+      "already_married": "no",
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "fit_note": "Ga-young starts hypnotherapy with psychiatrist Dr. Moon to recover her memory; the hypnosis also brings back past-life memories.",
+      "evidence": "Existing catalog synopsis: hypnotherapy with Dr. Moon."
+    },
+    {
+      "title": "Tee Ratra",
+      "year": "2010",
+      "match_title": "Tee Ratra",
+      "match_year": "2010",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "therapist-wife",
+        "partner-commissioned",
+        "wife-hypnotized"
+      ],
+      "hypnotist": "the husband’s psychiatrist friend, hired to use hypnosis on the wife",
+      "fit_note": "A suspicious husband hires his psychiatrist friend, who uses hypnosis on the wife until she reveals a secret. Partner-commissioned therapist hypnosis (same pattern as Haunting Fear).",
+      "evidence": "Existing catalog synopsis: hired psychiatrist friend uses hypnosis on the wife."
+    },
+    {
+      "title": "Extreme Lust! Doing a Married Wife",
+      "year": "2009",
+      "match_title": "Extreme Lust! Doing a Married Wife",
+      "match_year": "2009",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "therapist-wife",
+        "partner-commissioned",
+        "wife-hypnotized"
+      ],
+      "hypnotist": "a clinician at the psychiatric clinic her husband takes her to",
+      "character": "married Akiko Nozawa",
+      "fit_note": "Husband takes his wife to a psychiatric clinic where hypnotherapy is used. Partner-commissioned / therapist-as-hypnotist pattern. Already in therapist-wife.",
+      "evidence": "Existing catalog synopsis: taken by her husband to a psychiatric clinic for hypnotherapy."
+    },
+    {
+      "title": "SNOS-440 豊乳マダムな眠り姫 ～不眠治療中に受けた…えげつないワイセツ行為～ (奥田咲)",
+      "year": "2026",
+      "match_title": "SNOS-440 豊乳マダムな眠り姫 ～不眠治療中に受けた…えげつないワイセツ行為～ (奥田咲)",
+      "match_year": "2026",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "therapist-wife",
+        "partner-commissioned",
+        "doctor-gain",
+        "wife-hypnotized",
+        "hardcore-adult"
+      ],
+      "hypnotist": "psychiatrist Oshima, to whom her husband sends her for insomnia treatment",
+      "character": "devoted wife Saki (Saki Okuda)",
+      "already_married": "yes",
+      "pregnant_end": "no",
+      "kids_status": "unknown",
+      "kids_together": "no",
+      "fit_note": "Husband sends his wife to a psychiatrist for insomnia; the psychiatrist puts her under hypnotherapy and assaults her in the clinic. Same partner-commissioned pattern as Haunting Fear. Already behind the hardcore toggle.",
+      "evidence": "Existing catalog synopsis: psychiatrist Oshima, husband-referred insomnia treatment, hypnotherapy."
+    },
+    {
+      "title": "Whirlpool",
+      "year": "1949",
+      "match_title": "Whirlpool",
+      "match_year": "1949",
+      "format": "movie",
+      "tags": [
+        "hypnotized by therapist",
+        "loose fit"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical",
+        "therapist-wife",
+        "wife-hypnotized"
+      ],
+      "hypnotist": "society hypnotist David Korvo, who treats Ann Sutton for kleptomania (not a licensed psychiatrist; her husband is the psychoanalyst)",
+      "character": "Ann Sutton, wife of psychoanalyst William Sutton",
+      "fit_note": "Loose fit: Korvo is a society hypnotist, not a licensed psychiatrist or clinical therapist, but he treats Ann for kleptomania in a therapeutic framing and places her under deep hypnotic control. Already in the therapist-wife category.",
+      "evidence": "Existing catalog synopsis: Korvo treats Ann for kleptomania and controls her hypnotically."
+    },
+    {
+      "title": "City of Fantasy",
+      "year": "None",
+      "match_title": "City of Fantasy",
+      "match_year": "None",
+      "format": "tv",
+      "tags": [
+        "hypnotized by therapist"
+      ],
+      "provenance": "Therapist-hypnosis pass, 12 Nov 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+      "categories": [
+        "medical"
+      ],
+      "hypnotist": "a psychiatrist / hypnotist she seeks out to treat relationship trauma",
+      "character": "Young Zilou, an adult woman",
+      "already_married": "unknown",
+      "pregnant_end": "no",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "fit_note": "Zilou seeks out a hypnotist/psychiatrist to overcome the trauma of her last relationship; during hypnosis she confuses the psychiatrist with her ex-boyfriend.",
+      "evidence": "Mental Block wiki: she is mesmerized / commanded to enter her memories during treatment.",
+      "sources": [
+        {
+          "label": "Mental Block wiki",
+          "url": "https://mentalblock.miraheze.org/wiki/City_of_Fantasy"
+        }
+      ]
+    }
+  ],
+  "dropped": [
+    {
+      "title": "The Snake Pit",
+      "year": "1948",
+      "reason": "Not added. Wikipedia and primary plot sources describe electro-shock and narcosynthesis, not an explicit hypnotic induction. Secondary paraphrases of narcosynthesis as 'drug-induced hypnosis' are not enough under the rule that pure drug control is excluded unless hypnosis is explicit. Semi-autobiographical (Mary Jane Ward); no real-people Reads entry either."
+    },
+    {
+      "title": "Audrey Rose",
+      "year": "1977",
+      "reason": "Excluded under the adults-only rule: psychiatrist Dr. Steven Lipscomb hypnotizes Ivy, a child, who dies in the trance."
+    },
+    {
+      "title": "催眠对决",
+      "year": "2024",
+      "reason": "Wrong direction: female client Anya and a villa group use suggestion to trap male therapist Ye Yuandong; he is the one manipulated. No verified source that he hypnotizes a female patient as the theme requires."
+    },
+    {
+      "title": "催眠局中局",
+      "year": "2026",
+      "reason": "Already in the catalog (#2742). Reverse direction: female psychiatrist Lin Ling is reverse-hypnotized by male patient Wen Qin. Not enriched as this theme."
+    },
+    {
+      "title": "眠れぬ夜のカルテ",
+      "year": "2014",
+      "reason": "Japanese theatrical title of The Great Hypnotist (催眠大师, 2014), already catalogued as #653. Not added as a separate card; the existing card is enriched instead."
+    },
+    {
+      "title": "Get Out",
+      "year": "2017",
+      "reason": "The hypnotized patient (Chris) is male. Wrong direction."
+    },
+    {
+      "title": "Spellbound",
+      "year": "1945",
+      "reason": "The patient is male; the psychiatrist is female. Wrong direction."
+    },
+    {
+      "title": "The Jacket",
+      "year": "2005",
+      "reason": "The patient is male. Wrong direction."
+    },
+    {
+      "title": "Saimin / Hypnosis / The Hypnotist",
+      "year": "1999",
+      "reason": "Already in the catalog (#672). The dominant hypnotist in cited plot sources is stage/TV hypnotist Jissoji, not a therapist in a treating relationship with Yuka (psychiatrist Toshiya Saga investigates and tries to help, but the card is not tagged as this theme without a clear clinical induction). The 2000 TBS sequel (#673 / #3329) is also already in."
+    },
+    {
+      "title": "Dead Again",
+      "year": "1991",
+      "reason": "Already in the catalog. Franklyn Madson’s past-life hypnosis of Grace is not a clinical therapist–patient relationship (he is an antique dealer who also does regression). Not tagged as this theme."
+    },
+    {
+      "title": "Alias Grace — Part 5",
+      "year": "2017",
+      "reason": "Already in the catalog. Jeremiah the peddler only poses as neuro-hypnotist Dr. Jerome DuPont; he is not her therapist. Not tagged as this theme."
+    },
+    {
+      "title": "The 2008 El Señor de La Querencia",
+      "year": "2008",
+      "reason": "The 2024 remake card already documents the episode-32 psychiatrist pendulum-hypnosis of Lucrecia. The 2008 card’s cited summary does not establish the same scene, so it is not tagged."
+    }
+  ]
+}

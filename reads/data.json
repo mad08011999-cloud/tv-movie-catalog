@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11",
+ "generated": "2026-11-12",
  "categories": [
   {
    "key": "wife-hypnotized",
@@ -19,7 +19,7 @@
   {
    "key": "human",
    "label": "Human-villain control",
-   "entry_count": 73
+   "entry_count": 74
   },
   {
    "key": "scifi",
@@ -39,7 +39,7 @@
   {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
-   "entry_count": 15
+   "entry_count": 16
   },
   {
    "key": "hardcore-adult",
@@ -78,7 +78,8 @@
   "Independent comic (commission)": 1,
   "Independent illustrated story": 2,
   "Independent web comic / pin-up": 1,
-  "Play": 1
+  "Play": 1,
+  "Musical": 1
  },
  "entries": [
   {
@@ -5535,6 +5536,39 @@
    "note": "Source play for several already-catalogued screen versions (Paris 1900: Feydeau, 1964; Au théâtre ce soir, 1975; and the 1974 RAI and 2020 France 5 productions added in the Nov 11 partner-hypnosis pass). Adult farce about a husband hypnotizing his wife so he can have affairs.",
    "adult_basis": "adult married woman / remarried widow; no minors in the cited plot",
    "id": 167
+  },
+  {
+   "title": "On a Clear Day You Can See Forever",
+   "original_title": "On a Clear Day You Can See Forever",
+   "creator": "Alan Jay Lerner (book and lyrics) and Burton Lane (music)",
+   "year": 1965,
+   "format": "Musical",
+   "language": "English",
+   "publisher": "first performed at the Mark Hellinger Theatre, New York, 17 October 1965",
+   "gist": "Daisy Gamble, an eccentric New Yorker with extrasensory gifts, seeks psychiatrist Dr. Mark Bruckner’s help to quit smoking. Under hypnosis she recalls a past life as Melinda Wells, an 18th-century Englishwoman. Mark becomes convinced Daisy is Melinda’s reincarnation and falls in love with her past self. When Daisy learns he prefers Melinda, she leaves; a premonition that proves her powers brings her back to him.",
+   "where": "The hypnotherapy sessions in Dr. Bruckner’s office, and the past-life sequences they unlock",
+   "wife": "no (Daisy is an unmarried adult woman when she comes to Bruckner to quit smoking)",
+   "pregnant_end": "no (not mentioned in the cited plot sources)",
+   "kids_together": "no (none mentioned; the musical ends with Daisy returning to Mark)",
+   "kids_before": "no (no children of Daisy’s are mentioned in the cited plot sources)",
+   "categories": [
+    "other-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (en) — On a Clear Day You Can See Forever (musical)",
+     "url": "https://en.wikipedia.org/wiki/On_a_Clear_Day_You_Can_See_Forever"
+    },
+    {
+     "label": "Masterworks Broadway — Original Broadway Cast 1965",
+     "url": "https://masterworksbroadway.com/music/on-a-clear-day-you-can-see-forever-original-broadway-cast-1965/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Source musical for the 1970 film already in the screen catalog (On A Clear Day You Can See Forever, #1622), which is enriched with a 'hypnotized by therapist' tag in the 12 Nov 2026 therapist-hypnosis pass. Adult woman hypnotized by her psychiatrist during smoking-cessation treatment. Not possession.",
+   "adult_basis": "adult unmarried woman; no minors in the cited plot",
+   "id": 168
   }
  ],
  "dropped": [

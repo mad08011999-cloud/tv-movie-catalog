@@ -570,6 +570,13 @@
      "subtitle": "",
      "year": "2004",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:4",
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -1636,6 +1643,13 @@
     },
     {
      "rid": "wife-hypnosis-oct15:6",
+     "title": "Tee Ratra",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:37",
      "title": "Tee Ratra",
      "subtitle": "",
      "year": "2010",
@@ -4181,6 +4195,13 @@
     },
     {
      "rid": "hypnosis-bestsimilar-nov5:12",
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:6",
      "title": "Hypnotic",
      "subtitle": "",
      "year": "2021",
@@ -6863,6 +6884,13 @@
      "subtitle": "",
      "year": "1949",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:40",
+     "title": "Whirlpool",
+     "subtitle": "",
+     "year": "1949",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -7238,6 +7266,13 @@
     },
     {
      "rid": "mother-kids-hypnosis:32",
+     "title": "One Life to Live",
+     "subtitle": "",
+     "year": "1990s",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:27",
      "title": "One Life to Live",
      "subtitle": "",
      "year": "1990s",
@@ -12471,6 +12506,13 @@
      "subtitle": "",
      "year": "1957",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:7",
+     "title": "The Three Faces of Eve",
+     "subtitle": "",
+     "year": "1957",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16330,6 +16372,33 @@
      "subtitle": "",
      "year": "1993",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:5",
+     "title": "Body of Influence",
+     "subtitle": "",
+     "year": "1993",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 651,
+   "kept": "Smoke and Mirrors / Scot-Free (1995)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:656",
+     "title": "Smoke and Mirrors / Scot-Free",
+     "subtitle": "",
+     "year": "1995"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:8",
+     "title": "Smoke and Mirrors / Scot-Free",
+     "subtitle": "",
+     "year": "1995",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16405,6 +16474,13 @@
      "subtitle": "",
      "year": "2014",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:10",
+     "title": "The Great Hypnotist (催眠大师)",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16428,6 +16504,13 @@
     },
     {
      "rid": "kr-cn-hypnosis:9",
+     "title": "Marionette (꼭두각시)",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:11",
      "title": "Marionette (꼭두각시)",
      "subtitle": "",
      "year": "2013",
@@ -17115,6 +17198,13 @@
      "subtitle": "",
      "year": "2004–05",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:32",
+     "title": "Floricienta",
+     "subtitle": "",
+     "year": "2004–05",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17178,6 +17268,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:458",
+     "title": "El extraño retorno de Diana Salazar",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:33",
      "title": "El extraño retorno de Diana Salazar",
      "subtitle": "",
      "year": "2024",
@@ -17689,6 +17786,26 @@
      "title": "Neighbours",
      "subtitle": "",
      "year": "2003",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 733,
+   "kept": "Demain nous appartient (2019)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:738",
+     "title": "Demain nous appartient",
+     "subtitle": "Episode 522 · 5 Aug 2019",
+     "year": "2019"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:34",
+     "title": "Demain nous appartient",
+     "subtitle": "",
+     "year": "2019",
      "matched_by": "match_title"
     }
    ]
@@ -21932,6 +22049,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:2",
+     "title": "Ana Antar",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -24616,6 +24740,13 @@
      "subtitle": "",
      "year": "1938",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:12",
+     "title": "Carefree",
+     "subtitle": "",
+     "year": "1938",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -25186,6 +25317,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:41",
+     "title": "City of Fantasy",
+     "subtitle": "",
+     "year": "None",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -25378,6 +25516,13 @@
     },
     {
      "rid": "widow-divorcee-oct14b:1",
+     "title": "Columbo",
+     "subtitle": "",
+     "year": "1975",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:29",
      "title": "Columbo",
      "subtitle": "",
      "year": "1975",
@@ -27187,6 +27332,13 @@
      "subtitle": "S04E19 · “Delusions of Murder”",
      "year": "1997",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:30",
+     "title": "Diagnosis: Murder",
+     "subtitle": "",
+     "year": "1997",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -28679,6 +28831,13 @@
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:3",
+     "title": "El señor de la Querencia",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -35341,6 +35500,13 @@
      "subtitle": "",
      "year": "1957",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:26",
+     "title": "Lizzie",
+     "subtitle": "",
+     "year": "1957",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -37881,6 +38047,13 @@
      "subtitle": "",
      "year": "1961",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:13",
+     "title": "Nesf azraa",
+     "subtitle": "",
+     "year": "1961",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -38814,6 +38987,13 @@
      "subtitle": "",
      "year": "1970",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:9",
+     "title": "On A Clear Day You Can See Forever",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -42461,6 +42641,13 @@
      "subtitle": "",
      "year": "2008",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:15",
+     "title": "Sila Nerangalil",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -45381,6 +45568,13 @@
      "subtitle": "",
      "year": "1991",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:14",
+     "title": "Ulladakkam",
+     "subtitle": "",
+     "year": "1991",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -49043,6 +49237,26 @@
    ]
   },
   {
+   "kept_id": 2468,
+   "kept": "Imago (1970)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "older-man-hypnosis:36",
+     "title": "Imago",
+     "subtitle": "To Be Free",
+     "year": "1970"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:35",
+     "title": "Imago",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2477,
    "kept": "Le Déclic / The Click (1985)",
    "scope": "cross-source",
@@ -49604,6 +49818,26 @@
    ]
   },
   {
+   "kept_id": 2741,
+   "kept": "催眠曲 (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "round3:9",
+     "title": "催眠曲",
+     "subtitle": "Lullaby / Hypnotic Song",
+     "year": "2025"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:25",
+     "title": "催眠曲",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2742,
    "kept": "催眠局中局 (2026)",
    "scope": "cross-source",
@@ -49619,6 +49853,26 @@
      "title": "催眠局中局",
      "subtitle": "",
      "year": "2026",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2745,
+   "kept": "我的多重人格在自相残杀 (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "round3:13",
+     "title": "我的多重人格在自相残杀",
+     "subtitle": "My Multiple Personalities Are Killing Each Other / 我的多重人格 / 'สะกดจิตสะกดใจ' (Bilibili TV Thai)",
+     "year": "2025"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:22",
+     "title": "我的多重人格在自相残杀",
+     "subtitle": "",
+     "year": "2025",
      "matched_by": "match_title"
     }
    ]
@@ -51606,6 +51860,26 @@
    ]
   },
   {
+   "kept_id": 3055,
+   "kept": "Phir Wahi Raat (1980)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "streaming-oct15:50",
+     "title": "Phir Wahi Raat",
+     "subtitle": "",
+     "year": "1980"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:16",
+     "title": "Phir Wahi Raat",
+     "subtitle": "",
+     "year": "1980",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 3073,
    "kept": "Tarkan: Altın Madalyon (1972)",
    "scope": "cross-source",
@@ -51753,6 +52027,46 @@
    ]
   },
   {
+   "kept_id": 3081,
+   "kept": "Sıfır Dediğimde / On the Count of Zero (2007)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypno-turkey-oct15:1",
+     "title": "Sıfır Dediğimde / On the Count of Zero",
+     "subtitle": "",
+     "year": "2007"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:17",
+     "title": "Sıfır Dediğimde / On the Count of Zero",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3087,
+   "kept": "Hyde, Jekyll, Me (하이드 지킬, 나) (2015)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "kr-cn-hypnosis:3",
+     "title": "Hyde, Jekyll, Me (하이드 지킬, 나)",
+     "subtitle": "",
+     "year": "2015"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:18",
+     "title": "Hyde, Jekyll, Me (하이드 지킬, 나)",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 3088,
    "kept": "Anchor (앵커) (2022)",
    "scope": "cross-source",
@@ -51765,6 +52079,13 @@
     },
     {
      "rid": "hypnosis-bestsimilar-nov5:73",
+     "title": "Anchor (앵커)",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:19",
      "title": "Anchor (앵커)",
      "subtitle": "",
      "year": "2022",
@@ -51809,6 +52130,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:31",
+     "title": "Workin' Moms — \"Consent\"",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -51828,6 +52156,53 @@
      "title": "Extreme Lust! Doing a Married Wife",
      "subtitle": "",
      "year": "2009",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:38",
+     "title": "Extreme Lust! Doing a Married Wife",
+     "subtitle": "",
+     "year": "2009",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3096,
+   "kept": "August Bride (8월의 신부) (1996)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "kr-cn-hypnosis-r2:2",
+     "title": "August Bride (8월의 신부)",
+     "subtitle": "",
+     "year": "1996"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:36",
+     "title": "August Bride (8월의 신부)",
+     "subtitle": "",
+     "year": "1996",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3100,
+   "kept": "Dallas (1980)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "female-wife-scenes-oct15:1",
+     "title": "Dallas",
+     "subtitle": "S4E4 \"Who Done It?\" (aired 21 Nov 1980)",
+     "year": "1980"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:28",
+     "title": "Dallas",
+     "subtitle": "",
+     "year": "1980",
      "matched_by": "match_title"
     }
    ]
@@ -51853,6 +52228,26 @@
    ]
   },
   {
+   "kept_id": 3114,
+   "kept": "A Place Beyond Shame (1980)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "adult-fanmade-oct15:1",
+     "title": "A Place Beyond Shame",
+     "subtitle": "",
+     "year": "1980"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:20",
+     "title": "A Place Beyond Shame",
+     "subtitle": "",
+     "year": "1980",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 3116,
    "kept": "Minder (1984)",
    "scope": "cross-source",
@@ -51868,6 +52263,26 @@
      "title": "Minder",
      "subtitle": "",
      "year": "1984",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3119,
+   "kept": "嘘！天黑别闭眼 (Darkness: Eyes Wide Open) (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "deep-gap-oct15:5",
+     "title": "嘘！天黑别闭眼 (Darkness: Eyes Wide Open)",
+     "subtitle": "",
+     "year": "2025"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:21",
+     "title": "嘘！天黑别闭眼 (Darkness: Eyes Wide Open)",
+     "subtitle": "",
+     "year": "2025",
      "matched_by": "match_title"
     }
    ]
@@ -52914,6 +53329,26 @@
    ]
   },
   {
+   "kept_id": 3762,
+   "kept": "Hitozuma Saimin Counseling (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "deep-refresh-oct30:1",
+     "title": "Hitozuma Saimin Counseling",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:24",
+     "title": "Hitozuma Saimin Counseling",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 3763,
    "kept": "Haunting Fear (1990)",
    "scope": "cross-source",
@@ -52933,6 +53368,13 @@
     },
     {
      "rid": "partner-hypnosis-nov11:18",
+     "title": "Haunting Fear",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:1",
      "title": "Haunting Fear",
      "subtitle": "",
      "year": "1990",
@@ -53041,6 +53483,26 @@
    ]
   },
   {
+   "kept_id": 3838,
+   "kept": "重度催眠 (Deep Hypnosis) (2026)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "deep-refresh-nov04:6",
+     "title": "重度催眠 (Deep Hypnosis)",
+     "subtitle": "",
+     "year": "2026"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:23",
+     "title": "重度催眠 (Deep Hypnosis)",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 3922,
    "kept": "追凶之瞒天过海 (2026)",
    "scope": "cross-source",
@@ -53096,6 +53558,26 @@
      "title": "VAGU-246 催眠人妻洗脳NTR中出し ムカつく隣り妻を催眠術で性奴隷にした俺 夫の前で見知らぬ他人の男根に欲情した私 (織田真子)",
      "subtitle": "",
      "year": "2022",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 4023,
+   "kept": "SNOS-440 豊乳マダムな眠り姫 ～不眠治療中に受けた…えげつないワイセツ行為～ (奥田咲) (2026)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "saimin-sweep-nov11:18",
+     "title": "SNOS-440 豊乳マダムな眠り姫 ～不眠治療中に受けた…えげつないワイセツ行為～ (奥田咲)",
+     "subtitle": "",
+     "year": "2026"
+    },
+    {
+     "rid": "therapist-hypnosis-nov12:39",
+     "title": "SNOS-440 豊乳マダムな眠り姫 ～不眠治療中に受けた…えげつないワイセツ行為～ (奥田咲)",
+     "subtitle": "",
+     "year": "2026",
      "matched_by": "match_title"
     }
    ]
@@ -54484,11 +54966,12 @@
   "partner-hypnosis-nov11": 18,
   "deep-refresh-nov12": 5,
   "hypno-sex-nov12": 11,
-  "deep-refresh-nov12-cont": 1
+  "deep-refresh-nov12-cont": 1,
+  "therapist-hypnosis-nov12": 41
  },
  "entry_count_after_dedupe": 3860,
  "within_source_groups": 6,
- "cross_source_groups": 2091,
+ "cross_source_groups": 2106,
  "index_only_records": 55,
  "local_only_records": 1588
 }
