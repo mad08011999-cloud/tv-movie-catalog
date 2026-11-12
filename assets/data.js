@@ -12322,10 +12322,115 @@ window.CATALOG = {
    "kind": "local",
    "share_url": "sources/deep-refresh-nov12.json",
    "description": "Multi-language sweep across every catalog topic, 12 Nov 2026. Focus on titles new since the 11 Nov 2026 deep refresh and the later 11 Nov pregnant-intimacy pass, plus vertical dramas and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. This file was created at the start of the run so the weekly routine can see the refresh is in progress.",
-   "dropped": [],
+   "dropped": [
+    {
+     "title": "Eternally Yours (CBS, 2026)",
+     "reason": "FLAGGED (minors): A Variety review of the series states that vampire husband Jesse repeatedly wipes his human wife Phyllis's memory, but also that the couple has two teenage half-vampire sons. Held back."
+    },
+    {
+     "title": "Nounou au manoir, hypnose interdite (2026)",
+     "reason": "FLAGGED (minors): Synopses describe a hypnotherapist nanny treating a manor household that includes a rebellious adolescent. Held back."
+    },
+    {
+     "title": "攻略诡异：我有一个女鬼催眠APP (2026)",
+     "reason": "FLAGGED (minors): Encyclopedia plot is a hypnosis-app game about romancing female ghosts; comments also mention a 'paper-doll little sister' target. Held back."
+    },
+    {
+     "title": "庄园保姆，成了全家白月光！ / 潜入宗家的催眠师 (2026)",
+     "reason": "A 21-year-old hypnotist treats a clan, but the household includes a son driven to self-harm by his mother and a credited child role (小宗栀). Ages are not verified as adult. Held back."
+    },
+    {
+     "title": "催眠神瞳 / 巨乳母亲被儿子催眠",
+     "reason": "FLAGGED (minors): Listings describe a mother hypnotized by her son; the son's age is not verified as adult. Held back."
+    },
+    {
+     "title": "Saimin Seishidou / 催眠性指導",
+     "reason": "School/student setting; held back (minors)."
+    },
+    {
+     "title": "Gyaru Ane Z (2026)",
+     "reason": "University-student protagonist hypnotizes his sisters; their ages are not clearly established as adult in the sources checked. Held back."
+    },
+    {
+     "title": "Kiss the Vampire or Die (DramaBox, 2026)",
+     "reason": "Set inside a 'Vampire Academy' survival game; school/academy setting is a minors risk, and no mesmerism of an already-established adult woman was sourced. Held back."
+    },
+    {
+     "title": "Bearcave / Arkoudotrypa (2025)",
+     "reason": "Queer Greek feature in which Anneta is pregnant; reviews describe unspoken love and erotic tension but do not describe a sex or intimacy scene while she is pregnant. One festival review also calls the leads 'young girls.' Not added."
+    },
+    {
+     "title": "Drunken Woman (2026)",
+     "reason": "Pregnant Li Qing is isolated and subjected to a fabricated reality; sources describe psychological manipulation, not hypnosis, occult, spirit, or another catalog mechanism. Not added."
+    },
+    {
+     "title": "The Liberation (2026, Carrie Coon / Lily James)",
+     "reason": "Already in the catalog (#3832) and listed in exclusions. Left alone."
+    },
+    {
+     "title": "Nightborn / Yön lapsi (2026)",
+     "reason": "Already in the catalog (#3300)."
+    },
+    {
+     "title": "A Private Life / Vie privée (2025)",
+     "reason": "Already in the catalog (#3276 / #3420)."
+    },
+    {
+     "title": "Past Life (2026, Simeon Halligan)",
+     "reason": "The hypnotized patient is the husband, Jason, not a female character. Not added."
+    },
+    {
+     "title": "The Devil Only Wants Her (DramaBox, 2026)",
+     "reason": "Mafia contract-marriage romance; the 'devil' in the title is not a demon deal or mind-control plot. Not added."
+    },
+    {
+     "title": "I Let My Husband's Pregnant Mistress Take What's Mine (2026)",
+     "reason": "Contract-marriage revenge short; the mistress is pregnant, but sources do not describe hypnosis, intimacy while already pregnant, or a catalog control mechanism. Not added."
+    },
+    {
+     "title": "亡夫别缠我，活夫也疯了！ (2026)",
+     "reason": "Ghost-husband entanglement; the heroine is sent back to university, and the plot is closer to pure ghost attachment than sourced spirit-control of an adult woman. Not added."
+    },
+    {
+     "title": "Notice (WAVES OTT, 6 Nov 2026)",
+     "reason": "Family/shop drama with no hypnosis, occult, or other catalog mechanism described. Not added."
+    },
+    {
+     "title": "She Became a Maid and Healed the Billionaire's Troubled Son with Hypnosis",
+     "reason": "Already held back on 11 Nov: the son's age is not verified as adult."
+    },
+    {
+     "title": "Surrogate for a Ruthless Billionaire",
+     "reason": "Already dropped in the 11 Nov refresh: contract surrogacy romance with no hypnosis or mind-control mechanism described."
+    },
+    {
+     "title": "The Enchantress Bride",
+     "reason": "Already dropped in the 11 Nov refresh."
+    },
+    {
+     "title": "Father's House (2026 documentary)",
+     "reason": "Already in a dropped list; cult documentary, not added again."
+    },
+    {
+     "title": "The Leader (2026)",
+     "reason": "Already in the catalog (#3884)."
+    },
+    {
+     "title": "Karma (2026)",
+     "reason": "Left alone at #3868, awaiting the user's decision."
+    },
+    {
+     "title": "Time's Up, I'm Afraid (2026)",
+     "reason": "Left alone at #3880; a 'Son' in the cast has an unverified age, awaiting the user's decision."
+    },
+    {
+     "title": "Sleeping Tycoon's Magic Bride Pregnant with Twins (DramaBox, 2026)",
+     "reason": "FLAGGED (minors): DramaBox/Facebook copy describes the bride as a college student who becomes pregnant under a contract marriage with a comatose tycoon. Age not verified as adult; 'magic' in the title is not sourced as an actual enchantment. Held back."
+    }
+   ],
    "check": {
-    "raw_count": 0,
-    "ok": false
+    "raw_count": 1,
+    "ok": true
    },
    "status": "local"
   }
@@ -12428,10 +12533,10 @@ window.CATALOG = {
   "saimin-sweep-nov11": 26,
   "pregnant-intimacy-nov11": 9,
   "partner-hypnosis-nov11": 18,
-  "deep-refresh-nov12": 0
+  "deep-refresh-nov12": 1
  },
- "raw_total": 7618,
- "entry_count": 3848,
+ "raw_total": 7619,
+ "entry_count": 3849,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -12485,7 +12590,7 @@ window.CATALOG = {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 159
+   "entry_count": 160
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -12509,7 +12614,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 317
+   "entry_count": 318
   },
   {
    "key": "child-controller",
@@ -12707,7 +12812,7 @@ window.CATALOG = {
    "key": "polygamy",
    "label": "polygamy",
    "legend_label": "polygamy",
-   "entry_count": 11
+   "entry_count": 12
   },
   {
    "key": "polygamy-hypnosis",
@@ -12737,7 +12842,7 @@ window.CATALOG = {
    "key": "pregnant",
    "label": "pregnant",
    "legend_label": "pregnant",
-   "entry_count": 70
+   "entry_count": 71
   },
   {
    "key": "belly-kissed",
@@ -12893,7 +12998,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 226
+   "entry_count": 227
   },
   {
    "key": "stepmom-control",
@@ -593306,6 +593411,101 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 4044,
+   "title": "Dewi Siluman Ular",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Film · Indonesia · Indonesian · horror · directed by Azhar Kinoi Lubis · produced by Starvision / Chand Parwez Servia · written by Upi and Ayu Anggraini Putri · theatrical release 12 Nov 2026 · starring Derby Romero, Anya Geraldine, Aulia Sarah and Aghniny Haque · adapted from the podcast 'Nikah Sama Jin'",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Bakery owner Dedi is being chased by debt collectors while his wife Rahma needs a caesarean. Desperate to save her and their unborn child, he makes a pesugihan pact and marries Dewi, a snake-spirit jinn. The choice brings terror on the household, which also includes a third wife, Lela.",
+   "character": "Rahma (Dedi's first wife, about to undergo a caesarean); Dewi (a jinn in the form of a snake spirit, whom Dedi marries)",
+   "provenance": "Deep refresh, 12 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "The pact is made by the husband, not a woman bargaining for a pregnancy; Rahma is already pregnant. Partner in the household: Dedi. Dewi is presented as a jinn/spirit wife.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Dewi (snake-spirit jinn), bound by a pesugihan marriage pact",
+   "method": "Pesugihan ritual / marriage to a jinn",
+   "kids_status": "unborn (Rahma is about to give birth)",
+   "kids_together": "no",
+   "pregnant_end": "not stated",
+   "evidence": "Two independent Indonesian press synopses: Dedi marries the snake-spirit Dewi to fund his pregnant wife Rahma's caesarean; a third wife, Lela, is also named. Theatrical date is 12 Nov 2026.",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "occult",
+    "spirit",
+    "fantasy",
+    "pregnant",
+    "polygamy"
+   ],
+   "sources": [
+    {
+     "label": "Dafunda",
+     "url": "https://dafunda.com/movie/film-dewi-siluman-ular-sinopsis/"
+    },
+    {
+     "label": "Indonews",
+     "url": "https://indonews.id/artikel/355986/Film-Dewi-Siluman-Ular-Sajikan-Horor-Kisah-Nyata-Bertekad-Nafkahi-Keluarga-Berujung-Petaka/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov12"
+   ],
+   "source_records": [
+    "deep-refresh-nov12:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov12:1": {
+     "pregnant_end": "not stated",
+     "kids_status": "unborn (Rahma is about to give birth)",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 12 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Dewi Siluman Ular",
+     "year": "2026",
+     "format": "movie",
+     "meta": "Film · Indonesia · Indonesian · horror · directed by Azhar Kinoi Lubis · produced by Starvision / Chand Parwez Servia · written by Upi and Ayu Anggraini Putri · theatrical release 12 Nov 2026 · starring Derby Romero, Anya Geraldine, Aulia Sarah and Aghniny Haque · adapted from the podcast 'Nikah Sama Jin'",
+     "character": "Rahma (Dedi's first wife, about to undergo a caesarean); Dewi (a jinn in the form of a snake spirit, whom Dedi marries)",
+     "summary": "Bakery owner Dedi is being chased by debt collectors while his wife Rahma needs a caesarean. Desperate to save her and their unborn child, he makes a pesugihan pact and marries Dewi, a snake-spirit jinn. The choice brings terror on the household, which also includes a third wife, Lela.",
+     "hypnotist": "Dewi (snake-spirit jinn), bound by a pesugihan marriage pact",
+     "method": "Pesugihan ritual / marriage to a jinn",
+     "categories": [
+      "occult",
+      "spirit",
+      "fantasy",
+      "pregnant",
+      "polygamy"
+     ],
+     "sources": [
+      {
+       "label": "Dafunda",
+       "url": "https://dafunda.com/movie/film-dewi-siluman-ular-sinopsis/"
+      },
+      {
+       "label": "Indonews",
+       "url": "https://indonews.id/artikel/355986/Film-Dewi-Siluman-Ular-Sajikan-Horor-Kisah-Nyata-Bertekad-Nafkahi-Keluarga-Berujung-Petaka/"
+      }
+     ],
+     "evidence": "Two independent Indonesian press synopses: Dedi marries the snake-spirit Dewi to fund his pregnant wife Rahma's caesarean; a third wife, Lela, is also named. Theatrical date is 12 Nov 2026.",
+     "confidence_flag": "Medium · 2 sources",
+     "pregnancy_note": "The pact is made by the husband, not a woman bargaining for a pregnancy; Rahma is already pregnant. Partner in the household: Dedi. Dewi is presented as a jinn/spirit wife.",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -599556,7 +599756,8 @@ window.CATALOG = {
     "deep-refresh-oct30",
     "deep-refresh-nov04",
     "hypnosis-bestsimilar-nov5",
-    "deep-refresh-nov11"
+    "deep-refresh-nov11",
+    "deep-refresh-nov12"
    ],
    "groups": [
     {
@@ -600447,6 +600648,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 4044,
+       "from_source": "deep-refresh-nov12"
+      },
+      {
        "id": 3765,
        "from_source": "deep-refresh-oct30"
       },
@@ -600683,7 +600888,8 @@ window.CATALOG = {
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
     "hypnosis-bestsimilar-nov5": null,
-    "deep-refresh-nov11": null
+    "deep-refresh-nov11": null,
+    "deep-refresh-nov12": null
    }
   },
   {
@@ -602063,7 +602269,8 @@ window.CATALOG = {
     "weekly-nov09",
     "deep-refresh-nov11",
     "hypnosis-nov11",
-    "saimin-sweep-nov11"
+    "saimin-sweep-nov11",
+    "deep-refresh-nov12"
    ],
    "groups": [
     {
@@ -604352,6 +604559,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 4044,
+       "from_source": "deep-refresh-nov12"
+      },
+      {
        "id": 3825,
        "from_source": "deep-refresh-oct30"
       },
@@ -604617,7 +604828,8 @@ window.CATALOG = {
     "weekly-nov09": null,
     "deep-refresh-nov11": null,
     "hypnosis-nov11": null,
-    "saimin-sweep-nov11": null
+    "saimin-sweep-nov11": null,
+    "deep-refresh-nov12": null
    }
   },
   {
@@ -632218,12 +632430,14 @@ window.CATALOG = {
    "from_sources": [
     "deep-refresh-oct18",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "deep-refresh-nov12"
    ],
    "declared_count_by_source": {
     "deep-refresh-oct18": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "deep-refresh-nov12": null
    },
    "groups": [
     {
@@ -632237,6 +632451,10 @@ window.CATALOG = {
       {
        "id": 3855,
        "from_source": "deep-refresh-nov04"
+      },
+      {
+       "id": 4044,
+       "from_source": "deep-refresh-nov12"
       },
       {
        "id": 3851,
@@ -634031,7 +634249,8 @@ window.CATALOG = {
     "pregnancy-yt-oct15",
     "deep-refresh-nov04",
     "vertical-pregnant-again-nov07",
-    "deep-refresh-nov11"
+    "deep-refresh-nov11",
+    "deep-refresh-nov12"
    ],
    "declared_count_by_source": {
     "worldwide-hypnosis": null,
@@ -634042,7 +634261,8 @@ window.CATALOG = {
     "pregnancy-yt-oct15": null,
     "deep-refresh-nov04": null,
     "vertical-pregnant-again-nov07": null,
-    "deep-refresh-nov11": null
+    "deep-refresh-nov11": null,
+    "deep-refresh-nov12": null
    },
    "groups": [
     {
@@ -634331,6 +634551,10 @@ window.CATALOG = {
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 4044,
+       "from_source": "deep-refresh-nov12"
+      },
       {
        "id": 3867,
        "from_source": "deep-refresh-nov04"
@@ -645601,7 +645825,8 @@ window.CATALOG = {
     "deep-refresh-oct18",
     "hypnosis-imdb-list-full-oct25",
     "deep-refresh-nov04",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "deep-refresh-nov12"
    ],
    "groups": [
     {
@@ -646930,6 +647155,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 4044,
+       "from_source": "deep-refresh-nov12"
+      },
+      {
        "id": 3870,
        "from_source": "deep-refresh-nov04"
       },
@@ -647113,7 +647342,8 @@ window.CATALOG = {
     "deep-refresh-oct18": null,
     "hypnosis-imdb-list-full-oct25": null,
     "deep-refresh-nov04": null,
-    "hypnosis-bestsimilar-nov5": null
+    "hypnosis-bestsimilar-nov5": null,
+    "deep-refresh-nov12": null
    }
   },
   {
