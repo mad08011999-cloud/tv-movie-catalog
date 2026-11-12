@@ -12466,10 +12466,30 @@
     {
      "title": "The Wife Who Moved In, and Your Lie (2026 VN)",
      "reason": "Contract-marriage visual novel; sources describe romance, not hypnosis. Not added."
+    },
+    {
+     "title": "Pendulum (Mark Heyman / Black Bear)",
+     "reason": "Already in the catalog (#3833, dated 2027 there) with cult and wife categories. No new category to add."
+    },
+    {
+     "title": "My XXL Wife Is a Mafia Boss (2026)",
+     "reason": "Already in the catalog (#3845). The plot is a deceased crime boss possessing a wife's body (pure possession). Left as catalogued."
+    },
+    {
+     "title": "Snow Daze: The Music of Winter",
+     "reason": "Even if a 2026 reissue exists, the long-running game includes a younger sister whose age is not clearly adult. Held back."
+    },
+    {
+     "title": "Oops, My Wife Is a Spirit / Romance Escape: Courting the Demon Widow",
+     "reason": "Aggregator listings only; no official plot confirming a catalog mechanism rather than a ghost-marriage or pure possession story was found. Not added."
+    },
+    {
+     "title": "Hypno Stepmom (itch.io / Akori Studio)",
+     "reason": "Unofficial game pages only; adult ages and an official 18+ listing were not confirmed. Held back."
     }
    ],
    "check": {
-    "raw_count": 2,
+    "raw_count": 3,
     "ok": true
    },
    "status": "local"
@@ -12573,10 +12593,10 @@
   "saimin-sweep-nov11": 26,
   "pregnant-intimacy-nov11": 9,
   "partner-hypnosis-nov11": 18,
-  "deep-refresh-nov12": 2
+  "deep-refresh-nov12": 3
  },
- "raw_total": 7620,
- "entry_count": 3850,
+ "raw_total": 7621,
+ "entry_count": 3851,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -12882,7 +12902,7 @@
    "key": "pregnant",
    "label": "pregnant",
    "legend_label": "pregnant",
-   "entry_count": 71
+   "entry_count": 72
   },
   {
    "key": "belly-kissed",
@@ -13038,7 +13058,7 @@
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 228
+   "entry_count": 229
   },
   {
    "key": "stepmom-control",
@@ -593628,6 +593648,88 @@
      "confidence_flag": "Medium · 2 sources"
     }
    }
+  },
+  {
+   "id": 4046,
+   "title": "Fruit (Buah)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Short film · Singapore · Malay · 15 min · directed by Jen Nee Lim · starring Tysha Khan as Siti and Wan Ahmad as her husband · 2026 Sundance Film Festival (Short Film Program 2) · later awarded at Clermont-Ferrand",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Set in a time when abortion is illegal, Siti does not want to continue her pregnancy. After ordinary attempts to end it fail, she encounters a Pontianak — a Southeast Asian childbirth spirit usually said to prey on men and pregnant women — reimagined here as a liberator who helps her escape an unwanted pregnancy.",
+   "character": "Siti (a married woman who has just discovered she is pregnant and does not want the child)",
+   "provenance": "Deep refresh, 12 Nov 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "Partner in the household: her husband, who unlike Siti wants the child. The film is about bodily autonomy and a revised Pontianak myth, not a sex scene and not conception-only.",
+   "hypnotist": "A Pontianak, recast as a helper rather than a predator",
+   "method": "Encounter with a childbirth spirit from Malay folklore",
+   "kids_status": "unborn (unwanted pregnancy)",
+   "kids_together": "no",
+   "pregnant_end": "not stated",
+   "evidence": "Two independent interviews/features (Park Record at Sundance; Voilah! after Clermont-Ferrand) describe Siti as a wife who does not want her pregnancy and a Pontianak who helps her. The articles do not spell out the final outcome.",
+   "adult": "yes",
+   "format": "short",
+   "categories": [
+    "spirit",
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Park Record",
+     "url": "https://www.parkrecord.com/2026/01/27/sundance-short-film-fruit-buah-is-a-drama-with-a-supernatural-twist/"
+    },
+    {
+     "label": "Voilah!",
+     "url": "https://www.voilah.sg/buah-rewriting-myth-reclaiming-choice/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov12"
+   ],
+   "source_records": [
+    "deep-refresh-nov12:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov12:3": {
+     "pregnant_end": "not stated",
+     "kids_status": "unborn (unwanted pregnancy)",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 12 Nov 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Fruit (Buah)",
+     "year": "2026",
+     "format": "short",
+     "meta": "Short film · Singapore · Malay · 15 min · directed by Jen Nee Lim · starring Tysha Khan as Siti and Wan Ahmad as her husband · 2026 Sundance Film Festival (Short Film Program 2) · later awarded at Clermont-Ferrand",
+     "character": "Siti (a married woman who has just discovered she is pregnant and does not want the child)",
+     "summary": "Set in a time when abortion is illegal, Siti does not want to continue her pregnancy. After ordinary attempts to end it fail, she encounters a Pontianak — a Southeast Asian childbirth spirit usually said to prey on men and pregnant women — reimagined here as a liberator who helps her escape an unwanted pregnancy.",
+     "hypnotist": "A Pontianak, recast as a helper rather than a predator",
+     "method": "Encounter with a childbirth spirit from Malay folklore",
+     "categories": [
+      "spirit",
+      "pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Park Record",
+       "url": "https://www.parkrecord.com/2026/01/27/sundance-short-film-fruit-buah-is-a-drama-with-a-supernatural-twist/"
+      },
+      {
+       "label": "Voilah!",
+       "url": "https://www.voilah.sg/buah-rewriting-myth-reclaiming-choice/"
+      }
+     ],
+     "evidence": "Two independent interviews/features (Park Record at Sundance; Voilah! after Clermont-Ferrand) describe Siti as a wife who does not want her pregnancy and a Pontianak who helps her. The articles do not spell out the final outcome.",
+     "confidence_flag": "Medium · 2 sources",
+     "pregnancy_note": "Partner in the household: her husband, who unlike Siti wants the child. The film is about bodily autonomy and a revised Pontianak myth, not a sex scene and not conception-only."
+    }
+   }
   }
  ],
  "sections": [
@@ -634690,6 +634792,10 @@
        "from_source": "deep-refresh-nov04"
       },
       {
+       "id": 4046,
+       "from_source": "deep-refresh-nov12"
+      },
+      {
        "id": 3979,
        "from_source": "deep-refresh-nov11"
       },
@@ -647286,6 +647392,10 @@
       },
       {
        "id": 4044,
+       "from_source": "deep-refresh-nov12"
+      },
+      {
+       "id": 4046,
        "from_source": "deep-refresh-nov12"
       },
       {
