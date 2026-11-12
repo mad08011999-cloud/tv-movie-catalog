@@ -223,6 +223,8 @@ SOURCES = [
     {"id": "pregnant-intimacy-nov11", "label": "Pregnant-character intimacy deep search (11 Nov 2026)", "local": "sources/pregnant-intimacy-nov11.json", "required": False},
     {"id": "partner-hypnosis-nov11", "label": "Hypnotized by her own partner / husband (11 Nov 2026)",
      "local": "sources/partner-hypnosis-nov11.json", "required": True},
+    {"id": "deep-refresh-nov12", "label": "Deep refresh across all criteria (12 Nov 2026)",
+     "local": "sources/deep-refresh-nov12.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

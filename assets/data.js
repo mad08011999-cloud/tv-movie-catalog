@@ -12315,6 +12315,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "deep-refresh-nov12",
+   "label": "Deep refresh across all criteria (12 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/deep-refresh-nov12.json",
+   "description": "Multi-language sweep across every catalog topic, 12 Nov 2026. Focus on titles new since the 11 Nov 2026 deep refresh and the later 11 Nov pregnant-intimacy pass, plus vertical dramas and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. This file was created at the start of the run so the weekly routine can see the refresh is in progress.",
+   "dropped": [],
+   "check": {
+    "raw_count": 0,
+    "ok": false
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -12414,7 +12427,8 @@ window.CATALOG = {
   "hypnosis-nov11": 22,
   "saimin-sweep-nov11": 26,
   "pregnant-intimacy-nov11": 9,
-  "partner-hypnosis-nov11": 18
+  "partner-hypnosis-nov11": 18,
+  "deep-refresh-nov12": 0
  },
  "raw_total": 7618,
  "entry_count": 3848,
