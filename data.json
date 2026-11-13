@@ -12959,10 +12959,14 @@
     {
      "title": "HYPNOSE (Interactive Studio AI short, 2026)",
      "reason": "Official AI-generated short (interactive-studio.fr). The studio page is a production showcase of Victorian circus/illusionist imagery; it does not source a plot in which an identifiable adult woman is hypnotized or mind-controlled. Not added. Circus-performer ages are also unstated."
+    },
+    {
+     "title": "魔法使いの夜 / Witch on the Holy Night (2026 ufotable film)",
+     "reason": "Official ANN/theatrical listings describe a high-school student drawn into witchcraft. Held for minors. Not added."
     }
    ],
    "check": {
-    "raw_count": 1,
+    "raw_count": 2,
     "ok": true
    },
    "status": "local"
@@ -13071,9 +13075,9 @@
   "deep-refresh-nov12-cont": 1,
   "therapist-hypnosis-nov12": 41,
   "husband-hypnosis-nov12": 13,
-  "deep-refresh-nov13": 1
+  "deep-refresh-nov13": 2
  },
- "raw_total": 7690,
+ "raw_total": 7691,
  "entry_count": 3872,
  "categories": [
   {
@@ -13380,13 +13384,13 @@
    "key": "pregnancy-evil-child",
    "label": "pregnancy-evil-child",
    "legend_label": "pregnancy-evil-child",
-   "entry_count": 1
+   "entry_count": 2
   },
   {
    "key": "pregnant",
    "label": "pregnant",
    "legend_label": "pregnant",
-   "entry_count": 74
+   "entry_count": 75
   },
   {
    "key": "belly-kissed",
@@ -576266,35 +576270,138 @@
    "tags": [
     "loose fit"
    ],
+   "hypnotist": "None described — the threat is a parasitic alien pregnancy, not hypnosis",
    "method": "Alien pregnancy (sci-fi comedy-horror)",
    "kids_status": "no",
    "kids_together": "no",
    "pregnant_end": "no",
    "evidence": "Encyclopedia entry citing Sundance, Mashable and RogerEbert.com",
    "adult": "no",
+   "source_conflict": "Already has children: deep-refresh-nov13 says “unborn (accelerated alien / parasitic pregnancy)”; deep-refresh-oct30 says “no”",
    "format": "film",
    "categories": [
     "pregnancy-evil",
-    "scifi"
+    "scifi",
+    "pregnant",
+    "pregnancy-evil-child"
    ],
    "sources": [
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Mum,_I'm_Alien_Pregnant"
+    },
+    {
+     "label": "XYZ Films",
+     "url": "https://www.xyzfilms.com/mum-im-alien-pregnant"
+    },
+    {
+     "label": "New Zealand International Film Festival",
+     "url": "https://www.nziff.co.nz/2026/film/mum-im-alien-pregnant/"
+    },
+    {
+     "label": "Event Cinemas New Zealand",
+     "url": "https://www.eventcinemas.co.nz/movie/mum-im-alien-pregnant"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "deep-refresh-nov13"
    ],
    "source_records": [
-    "deep-refresh-oct30:62"
+    "deep-refresh-oct30:62",
+    "deep-refresh-nov13:2"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "deep-refresh-oct30:62",
+    "source": "deep-refresh-oct30",
+    "label": "Mum, I'm Alien Pregnant (2026)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Mum, I'm Alien Pregnant",
+    "subtitle": "",
+    "year": "2026",
+    "meta": "New Zealand · Dir. THUNDERLIPS · Hannah Lynch · Sundance 2026",
+    "summary": "A woman accidentally becomes pregnant with an alien and has to survive it while dealing with skeptical doctors and her family.",
+    "character": "Mary",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "Single source · flag",
+    "categories": [
+     "pregnancy-evil",
+     "scifi"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mum,_I'm_Alien_Pregnant"
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "method": "Alien pregnancy (sci-fi comedy-horror)",
+    "kids_status": "no",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "Encyclopedia entry citing Sundance, Mashable and RogerEbert.com",
+    "adult": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "deep-refresh-nov13:2",
+     "source": "deep-refresh-nov13",
+     "label": "Mum, I'm Alien Pregnant (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mum, I'm Alien Pregnant",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "Film · New Zealand · English · comedy-horror · 95 min · directed by THUNDERLIPS (Māhutonga) · starring Hannah Lynch, Yvette Parsons and Arlo Green · produced with XYZ Films · premiered in Sundance's Midnight section · New Zealand rating R16",
+     "summary": "A messy millennial underachiever accidentally becomes pregnant with an accelerated extraterrestrial, parasitic pregnancy. She has to deal with sceptical doctors, the baby's father, and her oversharing mother in order to survive and reclaim her life.",
+     "character": "A millennial underachiever living with her mother (Hannah Lynch) who becomes accidentally alien-pregnant; her mother; the baby's father (described as a 'useless baby-daddy')",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · 3+ sources",
+     "categories": [
+      "scifi",
+      "pregnant",
+      "pregnancy-evil-child"
+     ],
+     "sources": [
+      {
+       "label": "XYZ Films",
+       "url": "https://www.xyzfilms.com/mum-im-alien-pregnant"
+      },
+      {
+       "label": "New Zealand International Film Festival",
+       "url": "https://www.nziff.co.nz/2026/film/mum-im-alien-pregnant/"
+      },
+      {
+       "label": "Event Cinemas New Zealand",
+       "url": "https://www.eventcinemas.co.nz/movie/mum-im-alien-pregnant"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "hypnotist": "None described — the threat is a parasitic alien pregnancy, not hypnosis",
+     "method": "Alien / parasitic pregnancy (body horror)",
+     "kids_status": "unborn (accelerated alien / parasitic pregnancy)",
+     "kids_together": "no",
+     "pregnant_end": "not stated",
+     "evidence": "The official XYZ Films page states that a messy millennial underachiever accidentally gets alien-pregnant and must survive sceptical doctors, a useless baby-daddy, and her oversharing mum. NZIFF confirms the 95-minute running time, the New Zealand R16 rating, the Sundance Midnight premiere, and describes the story as exploring the pitfalls of hosting a parasitic life form. Event Cinemas New Zealand also lists the title and R16 rating.",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "deep-refresh-oct30:62": {
      "pregnant_end": "no",
@@ -576325,6 +576432,46 @@
      "tags": [
       "loose fit"
      ]
+    },
+    "deep-refresh-nov13:2": {
+     "pregnant_end": "not stated",
+     "kids_status": "unborn (accelerated alien / parasitic pregnancy)",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 13 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "yes",
+     "title": "Mum, I'm Alien Pregnant",
+     "year": "2026",
+     "format": "movie",
+     "meta": "Film · New Zealand · English · comedy-horror · 95 min · directed by THUNDERLIPS (Māhutonga) · starring Hannah Lynch, Yvette Parsons and Arlo Green · produced with XYZ Films · premiered in Sundance's Midnight section · New Zealand rating R16",
+     "character": "A millennial underachiever living with her mother (Hannah Lynch) who becomes accidentally alien-pregnant; her mother; the baby's father (described as a 'useless baby-daddy')",
+     "summary": "A messy millennial underachiever accidentally becomes pregnant with an accelerated extraterrestrial, parasitic pregnancy. She has to deal with sceptical doctors, the baby's father, and her oversharing mother in order to survive and reclaim her life.",
+     "hypnotist": "None described — the threat is a parasitic alien pregnancy, not hypnosis",
+     "method": "Alien / parasitic pregnancy (body horror)",
+     "categories": [
+      "scifi",
+      "pregnant",
+      "pregnancy-evil-child"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "XYZ Films",
+       "url": "https://www.xyzfilms.com/mum-im-alien-pregnant"
+      },
+      {
+       "label": "New Zealand International Film Festival",
+       "url": "https://www.nziff.co.nz/2026/film/mum-im-alien-pregnant/"
+      },
+      {
+       "label": "Event Cinemas New Zealand",
+       "url": "https://www.eventcinemas.co.nz/movie/mum-im-alien-pregnant"
+      }
+     ],
+     "evidence": "The official XYZ Films page states that a messy millennial underachiever accidentally gets alien-pregnant and must survive sceptical doctors, a useless baby-daddy, and her oversharing mum. NZIFF confirms the 95-minute running time, the New Zealand R16 rating, the Sundance Midnight premiere, and describes the story as exploring the pitfalls of hosting a parasitic life form. Event Cinemas New Zealand also lists the title and R16 rating.",
+     "confidence_flag": "High · 3+ sources"
     }
    }
   },
@@ -641710,10 +641857,12 @@
    "description": "",
    "notes": [],
    "from_sources": [
-    "deep-refresh-nov12"
+    "deep-refresh-nov12",
+    "deep-refresh-nov13"
    ],
    "declared_count_by_source": {
-    "deep-refresh-nov12": null
+    "deep-refresh-nov12": null,
+    "deep-refresh-nov13": null
    },
    "groups": [
     {
@@ -641726,6 +641875,17 @@
       }
      ],
      "from_source": "deep-refresh-nov12"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 13 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3820,
+       "from_source": "deep-refresh-nov13"
+      }
+     ],
+     "from_source": "deep-refresh-nov13"
     }
    ]
   },
@@ -641745,7 +641905,8 @@
     "vertical-pregnant-again-nov07",
     "deep-refresh-nov11",
     "deep-refresh-nov12",
-    "deep-refresh-nov12-cont"
+    "deep-refresh-nov12-cont",
+    "deep-refresh-nov13"
    ],
    "declared_count_by_source": {
     "worldwide-hypnosis": null,
@@ -641758,7 +641919,8 @@
     "vertical-pregnant-again-nov07": null,
     "deep-refresh-nov11": null,
     "deep-refresh-nov12": null,
-    "deep-refresh-nov12-cont": null
+    "deep-refresh-nov12-cont": null,
+    "deep-refresh-nov13": null
    },
    "groups": [
     {
@@ -642115,6 +642277,17 @@
       }
      ],
      "from_source": "deep-refresh-nov12-cont"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 13 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 3820,
+       "from_source": "deep-refresh-nov13"
+      }
+     ],
+     "from_source": "deep-refresh-nov13"
     }
    ]
   },
@@ -648272,7 +648445,8 @@
     "pdf-hypnosis-sweeps-nov08",
     "hypnosis-nov11",
     "hypno-sex-nov12",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "deep-refresh-nov13"
    ],
    "groups": [
     {
@@ -652869,7 +653043,8 @@
     "pdf-hypnosis-sweeps-nov08": null,
     "hypnosis-nov11": null,
     "hypno-sex-nov12": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "deep-refresh-nov13": null
    }
   },
   {

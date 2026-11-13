@@ -39,6 +39,46 @@
    ],
    "evidence": "The official site identifies Mifuyu as a widow of two years and states that a ring advertised as easing communication with youkai instead makes her pursue Satoru; the director's official comment notes a separate 18+ streaming edition. Suiseisha's Value-Press release and Oricon's 2026 autumn-anime listing confirm the TV broadcast.",
    "confidence_flag": "High · 3+ sources"
+  },
+  {
+   "pregnant_end": "not stated",
+   "kids_status": "unborn (accelerated alien / parasitic pregnancy)",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 13 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "yes",
+   "title": "Mum, I'm Alien Pregnant",
+   "year": "2026",
+   "format": "movie",
+   "meta": "Film · New Zealand · English · comedy-horror · 95 min · directed by THUNDERLIPS (Māhutonga) · starring Hannah Lynch, Yvette Parsons and Arlo Green · produced with XYZ Films · premiered in Sundance's Midnight section · New Zealand rating R16",
+   "character": "A millennial underachiever living with her mother (Hannah Lynch) who becomes accidentally alien-pregnant; her mother; the baby's father (described as a 'useless baby-daddy')",
+   "summary": "A messy millennial underachiever accidentally becomes pregnant with an accelerated extraterrestrial, parasitic pregnancy. She has to deal with sceptical doctors, the baby's father, and her oversharing mother in order to survive and reclaim her life.",
+   "hypnotist": "None described — the threat is a parasitic alien pregnancy, not hypnosis",
+   "method": "Alien / parasitic pregnancy (body horror)",
+   "categories": [
+    "scifi",
+    "pregnant",
+    "pregnancy-evil-child"
+   ],
+   "fit": "loose",
+   "tags": [
+    "loose fit"
+   ],
+   "sources": [
+    {
+     "label": "XYZ Films",
+     "url": "https://www.xyzfilms.com/mum-im-alien-pregnant"
+    },
+    {
+     "label": "New Zealand International Film Festival",
+     "url": "https://www.nziff.co.nz/2026/film/mum-im-alien-pregnant/"
+    },
+    {
+     "label": "Event Cinemas New Zealand",
+     "url": "https://www.eventcinemas.co.nz/movie/mum-im-alien-pregnant"
+    }
+   ],
+   "evidence": "The official XYZ Films page states that a messy millennial underachiever accidentally gets alien-pregnant and must survive sceptical doctors, a useless baby-daddy, and her oversharing mum. NZIFF confirms the 95-minute running time, the New Zealand R16 rating, the Sundance Midnight premiere, and describes the story as exploring the pitfalls of hosting a parasitic life form. Event Cinemas New Zealand also lists the title and R16 rating.",
+   "confidence_flag": "High · 3+ sources"
   }
  ],
  "dropped": [
@@ -77,6 +117,10 @@
   {
    "title": "HYPNOSE (Interactive Studio AI short, 2026)",
    "reason": "Official AI-generated short (interactive-studio.fr). The studio page is a production showcase of Victorian circus/illusionist imagery; it does not source a plot in which an identifiable adult woman is hypnotized or mind-controlled. Not added. Circus-performer ages are also unstated."
+  },
+  {
+   "title": "魔法使いの夜 / Witch on the Holy Night (2026 ufotable film)",
+   "reason": "Official ANN/theatrical listings describe a high-school student drawn into witchcraft. Held for minors. Not added."
   }
  ]
 }
