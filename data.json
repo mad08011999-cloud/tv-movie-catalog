@@ -12966,7 +12966,7 @@
     }
    ],
    "check": {
-    "raw_count": 2,
+    "raw_count": 3,
     "ok": true
    },
    "status": "local"
@@ -13075,10 +13075,10 @@
   "deep-refresh-nov12-cont": 1,
   "therapist-hypnosis-nov12": 41,
   "husband-hypnosis-nov12": 13,
-  "deep-refresh-nov13": 2
+  "deep-refresh-nov13": 3
  },
- "raw_total": 7691,
- "entry_count": 3872,
+ "raw_total": 7692,
+ "entry_count": 3873,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13096,7 +13096,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 373
+   "entry_count": 374
   },
   {
    "key": "belly",
@@ -13618,7 +13618,7 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 188
+   "entry_count": 189
   },
   {
    "key": "therapist-wife",
@@ -600553,6 +600553,100 @@
      "confidence_flag": "High · 3+ sources"
     }
    }
+  },
+  {
+   "id": 4068,
+   "title": "隣の奥さんハ、もう催眠済ミ",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Digital manga · Japan · Japanese · adult comic · by 愛罠 · Realize / COMIC C-Trap · first volume published 19 Aug 2026 · official store listing states that the work uses generative AI",
+   "mechanism": "",
+   "confidence_flag": "High · 3+ sources",
+   "summary": "University student Kamiya lives next to Saori, a kind, well-regarded married woman. He has already planted a hypnotic suggestion that intimacy with the neighbor is ordinary. Everyday remarks act as a trigger, and her behaviour changes at night; afterwards she returns to her usual self without remembering.",
+   "character": "藤宮沙織 (Fujimiya Saori, a married woman living next door to university student Kamiya)",
+   "provenance": "Deep refresh, 13 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "tags": [
+    "AI-generated"
+   ],
+   "hypnotist": "Kamiya (her university-student neighbor)",
+   "method": "Hypnotic suggestion with a verbal trigger",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "The official Cmoa listing states that the work uses generative AI, identifies Saori as a married woman, and describes a hypnotic suggestion planted by her neighbor Kamiya that changes her behaviour at night, after which she does not remember. Sony Reader Store and BookLive list the same official Realize / COMIC C-Trap digital release.",
+   "adult": "yes",
+   "format": "digital manga",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Comic Sequencer (Cmoa)",
+     "url": "https://www.cmoa.jp/title/371329/"
+    },
+    {
+     "label": "Sony Reader Store",
+     "url": "https://ec.ebookstore.sony.jp/ec/title/02388117/"
+    },
+    {
+     "label": "BookLive",
+     "url": "https://booklive.jp/product/index/title_id/2388117/vol_no/001"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov13"
+   ],
+   "source_records": [
+    "deep-refresh-nov13:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov13:3": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 13 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "yes",
+     "title": "隣の奥さんハ、もう催眠済ミ",
+     "year": "2026",
+     "format": "digital manga",
+     "meta": "Digital manga · Japan · Japanese · adult comic · by 愛罠 · Realize / COMIC C-Trap · first volume published 19 Aug 2026 · official store listing states that the work uses generative AI",
+     "character": "藤宮沙織 (Fujimiya Saori, a married woman living next door to university student Kamiya)",
+     "summary": "University student Kamiya lives next to Saori, a kind, well-regarded married woman. He has already planted a hypnotic suggestion that intimacy with the neighbor is ordinary. Everyday remarks act as a trigger, and her behaviour changes at night; afterwards she returns to her usual self without remembering.",
+     "hypnotist": "Kamiya (her university-student neighbor)",
+     "method": "Hypnotic suggestion with a verbal trigger",
+     "categories": [
+      "wife-hypnotized",
+      "adult-hypnosis"
+     ],
+     "tags": [
+      "AI-generated"
+     ],
+     "sources": [
+      {
+       "label": "Comic Sequencer (Cmoa)",
+       "url": "https://www.cmoa.jp/title/371329/"
+      },
+      {
+       "label": "Sony Reader Store",
+       "url": "https://ec.ebookstore.sony.jp/ec/title/02388117/"
+      },
+      {
+       "label": "BookLive",
+       "url": "https://booklive.jp/product/index/title_id/2388117/vol_no/001"
+      }
+     ],
+     "evidence": "The official Cmoa listing states that the work uses generative AI, identifies Saori as a married woman, and describes a hypnotic suggestion planted by her neighbor Kamiya that changes her behaviour at night, after which she does not remember. Sony Reader Store and BookLive list the same official Realize / COMIC C-Trap digital release.",
+     "confidence_flag": "High · 3+ sources"
+    }
+   }
   }
  ],
  "sections": [
@@ -601076,7 +601170,8 @@
     "partner-hypnosis-nov11",
     "hypno-sex-nov12",
     "therapist-hypnosis-nov12",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "deep-refresh-nov13"
    ],
    "groups": [
     {
@@ -605453,6 +605548,17 @@
       }
      ],
      "from_source": "husband-hypnosis-nov12"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 13 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4068,
+       "from_source": "deep-refresh-nov13"
+      }
+     ],
+     "from_source": "deep-refresh-nov13"
     }
    ],
    "declared_count_by_source": {
@@ -605493,7 +605599,8 @@
     "partner-hypnosis-nov11": null,
     "hypno-sex-nov12": null,
     "therapist-hypnosis-nov12": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "deep-refresh-nov13": null
    }
   },
   {
@@ -663315,7 +663422,8 @@
     "partner-hypnosis-nov11",
     "hypno-sex-nov12",
     "therapist-hypnosis-nov12",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "deep-refresh-nov13"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -663344,7 +663452,8 @@
     "partner-hypnosis-nov11": null,
     "hypno-sex-nov12": null,
     "therapist-hypnosis-nov12": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "deep-refresh-nov13": null
    },
    "groups": [
     {
@@ -664238,6 +664347,17 @@
       }
      ],
      "from_source": "husband-hypnosis-nov12"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 13 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4068,
+       "from_source": "deep-refresh-nov13"
+      }
+     ],
+     "from_source": "deep-refresh-nov13"
     }
    ]
   },

@@ -55003,11 +55003,11 @@
   "deep-refresh-nov12-cont": 1,
   "therapist-hypnosis-nov12": 41,
   "husband-hypnosis-nov12": 13,
-  "deep-refresh-nov13": 2
+  "deep-refresh-nov13": 3
  },
- "entry_count_after_dedupe": 3872,
+ "entry_count_after_dedupe": 3873,
  "within_source_groups": 6,
  "cross_source_groups": 2107,
  "index_only_records": 55,
- "local_only_records": 1600
+ "local_only_records": 1601
 }

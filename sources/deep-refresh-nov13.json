@@ -79,6 +79,44 @@
    ],
    "evidence": "The official XYZ Films page states that a messy millennial underachiever accidentally gets alien-pregnant and must survive sceptical doctors, a useless baby-daddy, and her oversharing mum. NZIFF confirms the 95-minute running time, the New Zealand R16 rating, the Sundance Midnight premiere, and describes the story as exploring the pitfalls of hosting a parasitic life form. Event Cinemas New Zealand also lists the title and R16 rating.",
    "confidence_flag": "High · 3+ sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 13 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "yes",
+   "title": "隣の奥さんハ、もう催眠済ミ",
+   "year": "2026",
+   "format": "digital manga",
+   "meta": "Digital manga · Japan · Japanese · adult comic · by 愛罠 · Realize / COMIC C-Trap · first volume published 19 Aug 2026 · official store listing states that the work uses generative AI",
+   "character": "藤宮沙織 (Fujimiya Saori, a married woman living next door to university student Kamiya)",
+   "summary": "University student Kamiya lives next to Saori, a kind, well-regarded married woman. He has already planted a hypnotic suggestion that intimacy with the neighbor is ordinary. Everyday remarks act as a trigger, and her behaviour changes at night; afterwards she returns to her usual self without remembering.",
+   "hypnotist": "Kamiya (her university-student neighbor)",
+   "method": "Hypnotic suggestion with a verbal trigger",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis"
+   ],
+   "tags": [
+    "AI-generated"
+   ],
+   "sources": [
+    {
+     "label": "Comic Sequencer (Cmoa)",
+     "url": "https://www.cmoa.jp/title/371329/"
+    },
+    {
+     "label": "Sony Reader Store",
+     "url": "https://ec.ebookstore.sony.jp/ec/title/02388117/"
+    },
+    {
+     "label": "BookLive",
+     "url": "https://booklive.jp/product/index/title_id/2388117/vol_no/001"
+    }
+   ],
+   "evidence": "The official Cmoa listing states that the work uses generative AI, identifies Saori as a married woman, and describes a hypnotic suggestion planted by her neighbor Kamiya that changes her behaviour at night, after which she does not remember. Sony Reader Store and BookLive list the same official Realize / COMIC C-Trap digital release.",
+   "confidence_flag": "High · 3+ sources"
   }
  ],
  "dropped": [
