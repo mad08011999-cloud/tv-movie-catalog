@@ -12963,6 +12963,34 @@ window.CATALOG = {
     {
      "title": "魔法使いの夜 / Witch on the Holy Night (2026 ufotable film)",
      "reason": "Official ANN/theatrical listings describe a high-school student drawn into witchcraft. Held for minors. Not added."
+    },
+    {
+     "title": "WOMEN25",
+     "reason": "Official AI-generated anime (women25.com). Investigator Lisa is described in Japanese materials as a young/rookie investigator (若い捜査官 / 新人捜査官); adulthood is unstated. The official plot is societal surveillance in an AI-dominated city rather than a sourced character-hypnosis or mind-control story about an identifiable adult woman. Held for unclear adulthood; not added."
+    },
+    {
+     "title": "Rest With Me",
+     "reason": "Identifiable AI-generated short associated with AI Film Flix (~1 min), in which a woman is connected to a dreaming-machine. Official materials do not establish the character's adulthood. Held; not added."
+    },
+    {
+     "title": "Don't Touch Mia",
+     "reason": "Identifiable AI-generated short on metamovies.ai; official copy refers to engineering powers 'to control her.' The adulthood of Mia is not clearly established from available official materials. Held; not added."
+    },
+    {
+     "title": "Hypnotized to Talk Like a Little Girl!",
+     "reason": "Identifiable 2026 AI-generated hypnosis video (Peakd / Ecency, 7 Nov 2026). The work is framed as making a hypnotized woman speak like a little girl. Held for age-play / unverified adulthood; not added."
+    },
+    {
+     "title": "OVA巨乳プリンセス催眠 1＆2パック",
+     "reason": "Official Lune Soft / Lune Pictures pack announced for 25 Dec 2026 (lune-soft.jp). The title centers on a 'princess' hypnosis plot; character adulthood was not independently verified in official materials reviewed this run. Held; not added."
+    },
+    {
+     "title": "Emprise funeste",
+     "reason": "Official 2026 French feature by Andy Anison (Culture et Cinéma screening note, 27 Nov 2026 Versailles). Two sisters who are victims of coercive control (emprise) are accused of murder and plead self-defense. The director's note refers to working with young people ('avec les jeunes'), and the sisters' ages are unstated. Held for unclear adulthood; not added."
+    },
+    {
+     "title": "Upiro / Upiro: Vampire's Curse",
+     "reason": "Official 2026 Spanish-Belgian historical vampire film by Óscar Martín (Sitges Film Festival; also Molins / Imagine festival listings). Official Sitges copy calls Ana 'the young novice'; Molins describes 'a young woman' sent to a convent and 'several novices' with a blood disease. Adulthood of the novice is not clearly established. Held; not added."
     }
    ],
    "check": {
