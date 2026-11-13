@@ -12923,10 +12923,39 @@ window.CATALOG = {
    "kind": "local",
    "share_url": "sources/deep-refresh-nov13.json",
    "description": "Multi-language sweep across every catalog topic, 13 Nov 2026, plus a dedicated search for AI-generated films, shorts, vertical/micro dramas, YouTube/TikTok/Bilibili/Douyin series, AI anime, and AI comics/webtoons. Focus on titles new since the 12 Nov 2026 deep refresh, plus vertical dramas and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. AI-generated works are marked in format/meta and tagged AI-generated. This file was created at the start of the run so the weekly routine can see the refresh is in progress.",
-   "dropped": [],
+   "dropped": [
+    {
+     "title": "ひがんやへようこそ (Welcome to Higan Inn)",
+     "reason": "Official PixAI AI-generated short anime (PR Times). The official synopsis describes the protagonist Mio as a girl (少女). Held for minors; adulthood not established."
+    },
+    {
+     "title": "Devotion: The Gloriavale Story / Devotion: Obedience or Betrayal",
+     "reason": "2026 Paramount+/Three official cult documentary. Gloriavale is documented for child abuse and underage marriage. Held for minors."
+    },
+    {
+     "title": "A Woman Asleep / UYUYAN KADIN",
+     "reason": "Official AI-generated feature (FilmFest Cottbus, Screen Daily, Festival Scope). Plot concerns 'young women' metaphorically 'hypnotized' by smartphones; character adulthood is not clearly established, and the mechanism is metaphorical rather than catalog hypnosis. Held."
+    },
+    {
+     "title": "Double Sin",
+     "reason": "AI-generated short associated with the Higgsfield Global Film Festival 2026. Official first-party plot and the adulthood of twin sisters Ada and Cass were not confirmed. Held."
+    },
+    {
+     "title": "She Was Controlled… Until This Happened",
+     "reason": "Identifiable 2026 AI-generated short (Ad Astra Production / AI Film Flix). Adulthood of the android/synthetic woman is not clearly established from available official materials. Held."
+    },
+    {
+     "title": "掌握催眠之力后的乱伦生活",
+     "reason": "AI-generated incest hypnosis title; character ages unverified. Held for minors / unverified adulthood."
+    },
+    {
+     "title": "乱伦从催眠开始",
+     "reason": "AI-generated incest hypnosis title; character ages unverified. Held for minors / unverified adulthood."
+    }
+   ],
    "check": {
-    "raw_count": 0,
-    "ok": false
+    "raw_count": 1,
+    "ok": true
    },
    "status": "local"
   }
@@ -13034,10 +13063,10 @@ window.CATALOG = {
   "deep-refresh-nov12-cont": 1,
   "therapist-hypnosis-nov12": 41,
   "husband-hypnosis-nov12": 13,
-  "deep-refresh-nov13": 0
+  "deep-refresh-nov13": 1
  },
- "raw_total": 7689,
- "entry_count": 3871,
+ "raw_total": 7690,
+ "entry_count": 3872,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13115,7 +13144,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 318
+   "entry_count": 319
   },
   {
    "key": "child-controller",
@@ -13565,7 +13594,7 @@ window.CATALOG = {
    "key": "widow-divorcee",
    "label": "Widowed / divorced woman hypnotised or mind-controlled",
    "legend_label": "Widowed / divorced woman hypnotised or mind-controlled",
-   "entry_count": 10
+   "entry_count": 11
   },
   {
    "key": "exwife-control",
@@ -600281,6 +600310,94 @@ window.CATALOG = {
      "already_married": "yes"
     }
    }
+  },
+  {
+   "id": 4067,
+   "title": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "TV anime · Japan · Japanese · late-night broadcast; a separate 18+ streaming edition was also released · original story by ぷぅ崎ぷぅ奈 · directed by 古賀一臣 · animation by studio HōKIBOSHI / 彗星社",
+   "mechanism": "",
+   "confidence_flag": "High · 3+ sources",
+   "summary": "In a present-day world where humans and youkai live side by side, apartment manager Satoru angers Mifuyu, the widowed snow woman he is attracted to. Hoping to make peace, he uses a mysterious ring said to make communication with youkai easier; instead Mifuyu becomes extremely forward with him, and the ring repeatedly draws the two of them together.",
+   "character": "雪乃深冬 (Yukino Mifuyu, a yuki-onna widow who lost her husband two years earlier and lives alone); 高橋さとる (Takahashi Satoru, human owner-manager of a youkai apartment building)",
+   "provenance": "Deep refresh, 13 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "hypnotist": "A cursed ring used by Satoru; the effect on Mifuyu is unintended",
+   "method": "Cursed ring / fantasy enchantment",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "The official site identifies Mifuyu as a widow of two years and states that a ring advertised as easing communication with youkai instead makes her pursue Satoru; the director's official comment notes a separate 18+ streaming edition. Suiseisha's Value-Press release and Oricon's 2026 autumn-anime listing confirm the TV broadcast.",
+   "adult": "yes",
+   "format": "TV anime",
+   "categories": [
+    "fantasy",
+    "widow-divorcee"
+   ],
+   "sources": [
+    {
+     "label": "Official site",
+     "url": "https://anime-yukionna.af-original.com/"
+    },
+    {
+     "label": "Suiseisha / Value-Press",
+     "url": "https://www.value-press.com/pressrelease/381616"
+    },
+    {
+     "label": "Oricon",
+     "url": "https://www.oricon.co.jp/anime/1220/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov13"
+   ],
+   "source_records": [
+    "deep-refresh-nov13:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov13:1": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 13 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "yes",
+     "title": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
+     "year": "2026",
+     "format": "TV anime",
+     "meta": "TV anime · Japan · Japanese · late-night broadcast; a separate 18+ streaming edition was also released · original story by ぷぅ崎ぷぅ奈 · directed by 古賀一臣 · animation by studio HōKIBOSHI / 彗星社",
+     "character": "雪乃深冬 (Yukino Mifuyu, a yuki-onna widow who lost her husband two years earlier and lives alone); 高橋さとる (Takahashi Satoru, human owner-manager of a youkai apartment building)",
+     "summary": "In a present-day world where humans and youkai live side by side, apartment manager Satoru angers Mifuyu, the widowed snow woman he is attracted to. Hoping to make peace, he uses a mysterious ring said to make communication with youkai easier; instead Mifuyu becomes extremely forward with him, and the ring repeatedly draws the two of them together.",
+     "hypnotist": "A cursed ring used by Satoru; the effect on Mifuyu is unintended",
+     "method": "Cursed ring / fantasy enchantment",
+     "categories": [
+      "fantasy",
+      "widow-divorcee"
+     ],
+     "sources": [
+      {
+       "label": "Official site",
+       "url": "https://anime-yukionna.af-original.com/"
+      },
+      {
+       "label": "Suiseisha / Value-Press",
+       "url": "https://www.value-press.com/pressrelease/381616"
+      },
+      {
+       "label": "Oricon",
+       "url": "https://www.oricon.co.jp/anime/1220/"
+      }
+     ],
+     "evidence": "The official site identifies Mifuyu as a widow of two years and states that a ring advertised as easing communication with youkai instead makes her pursue Satoru; the director's official comment notes a separate 18+ streaming edition. Suiseisha's Value-Press release and Oricon's 2026 autumn-anime listing confirm the TV broadcast.",
+     "confidence_flag": "High · 3+ sources"
+    }
+   }
   }
  ],
  "sections": [
@@ -609145,7 +609262,8 @@ window.CATALOG = {
     "deep-refresh-nov11",
     "hypnosis-nov11",
     "saimin-sweep-nov11",
-    "deep-refresh-nov12"
+    "deep-refresh-nov12",
+    "deep-refresh-nov13"
    ],
    "groups": [
     {
@@ -611664,6 +611782,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "saimin-sweep-nov11"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 13 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4067,
+       "from_source": "deep-refresh-nov13"
+      }
+     ],
+     "from_source": "deep-refresh-nov13"
     }
    ],
    "declared_count_by_source": {
@@ -611704,7 +611833,8 @@ window.CATALOG = {
     "deep-refresh-nov11": null,
     "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
-    "deep-refresh-nov12": null
+    "deep-refresh-nov12": null,
+    "deep-refresh-nov13": null
    }
   },
   {
@@ -659902,7 +660032,8 @@ window.CATALOG = {
     "hypnotized-female-oct15",
     "female-wife-scenes-oct15",
     "deep-refresh-oct30",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "deep-refresh-nov13"
    ],
    "declared_count_by_source": {
     "widow-divorcee-oct14": null,
@@ -659910,7 +660041,8 @@ window.CATALOG = {
     "hypnotized-female-oct15": null,
     "female-wife-scenes-oct15": null,
     "deep-refresh-oct30": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "deep-refresh-nov13": null
    },
    "groups": [
     {
@@ -659980,6 +660112,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-oct30"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 13 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4067,
+       "from_source": "deep-refresh-nov13"
+      }
+     ],
+     "from_source": "deep-refresh-nov13"
     }
    ]
   },

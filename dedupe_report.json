@@ -54983,11 +54983,11 @@
   "deep-refresh-nov12-cont": 1,
   "therapist-hypnosis-nov12": 41,
   "husband-hypnosis-nov12": 13,
-  "deep-refresh-nov13": 0
+  "deep-refresh-nov13": 1
  },
- "entry_count_after_dedupe": 3871,
+ "entry_count_after_dedupe": 3872,
  "within_source_groups": 6,
  "cross_source_groups": 2106,
  "index_only_records": 55,
- "local_only_records": 1599
+ "local_only_records": 1600
 }
