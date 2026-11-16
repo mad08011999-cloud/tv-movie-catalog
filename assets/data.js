@@ -12998,6 +12998,76 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "weekly-nov16",
+   "label": "Weekly sweep (16 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/weekly-nov16.json",
+   "description": "Weekly routine sweep, 16 Nov 2026 PT. Adult women hypnotised, under vashikaran or mind-controlled in titles newly aired or newly listed between about 9 and 16 Nov 2026. Adults only; notes are non-explicit. Each record cites the channel or platform with a direct link.",
+   "dropped": [
+    {
+     "title": "His Hypnosis Never Worked! (ShortTV, listed 15 Nov 2026)",
+     "reason": "The synopsis says the hypnosis never works and Ellie stays fully aware, so no woman is actually under control"
+    },
+    {
+     "title": "Student of the Year: After Dark (JioHotstar, 13 Nov 2026)",
+     "reason": "Contestants (including Aditi and Tara) are hypnotised in the finale, but they are students at St. Teresa Heritage School; adulthood is not established, so treated as minors"
+    },
+    {
+     "title": "Seducing the Supernatural: I Have a Ghost Girl Hypnosis App / 心霊デスゲーム～チート催眠で悪霊を花嫁に～ (vertical short, 8–15 Nov 2026)",
+     "reason": "The 'charmed' women are ghosts, and the synopsis says Ethan wins them over with crude humour; no hypnosis of a living adult woman is described"
+    },
+    {
+     "title": "Mr.都市伝説 関暁夫の裏都市伝説 — 催眠術～人を支配する禁断の力～ (Tatedora, 13 Nov 2026)",
+     "reason": "Non-fiction talk/variety; the hosts (Seki Akio and Sumipon) are the ones hypnotised in the studio"
+    },
+    {
+     "title": "ドスケベ催眠術師の子 ch.16 (Shogakukan web manga, 11 Nov 2026)",
+     "reason": "Manga chapter, not a screen title; school-age cast"
+    },
+    {
+     "title": "Shani — 'Devlok In Flames! Rahu Hypnotizes The Gods' (Colors TV, 10 Nov 2026)",
+     "reason": "Rahu hypnotises the gods; no female victim named in the source"
+    },
+    {
+     "title": "DM ka vashikaran ep 1–3 (X/Jagat334433 web series, 13–15 Nov 2026)",
+     "reason": "Title and hashtags only; no source says a woman is put under vashikaran"
+    },
+    {
+     "title": "Padmavyuham — 'భార్యను వశీకరణ చేసి ఓయో Room కు' (SumanTV Emotional, 15 Nov 2026)",
+     "reason": "Non-fiction talk/debate show, not a scripted title"
+    },
+    {
+     "title": "Seduce to Revenge: Entering the Palace as the King's Vessel (DramaBox, Hindi title 'प्रतिशोध के लिए वशीकरण', 13 Nov 2026)",
+     "reason": "'Vashikaran' here means seduction; the synopsis has no mind control"
+    },
+    {
+     "title": "Hypnotic Finale ('Poolside Peril', 'Hypno Heels 7', 'The Sharing Circle') and memoman29 ('The False Bride'), 9–15 Nov 2026",
+     "reason": "Fan-made/roleplay channels already excluded at channel level (adult-fanmade-oct15, youtube-sweep-oct15)"
+    },
+    {
+     "title": "The Memories I Erased (GoodShort, 12 Nov 2026)",
+     "reason": "Fake amnesia plot; no hypnosis or mind control"
+    },
+    {
+     "title": "Lullabies for the Broken Family / Parçalanmış Aileye Ninniler (2 Nov 2026)",
+     "reason": "The woman is the hypnotherapist, not the hypnotised; outside the window"
+    },
+    {
+     "title": "Annapoorna E1206 'Vashikara hypnotises Akshaya' (Zee Kannada)",
+     "reason": "Old episode (series now past ep 1315), not new this week; already noted as unverified in indian-langs-oct14"
+    },
+    {
+     "title": "Beneath the Hypnosis, My Childhood Friend Hypnotized Me To Love Another, They Chipped Me to Obey, Kanojo Saimin OVA",
+     "reason": "Already in the catalog"
+    }
+   ],
+   "check": {
+    "raw_count": 1,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -13103,10 +13173,11 @@ window.CATALOG = {
   "deep-refresh-nov12-cont": 1,
   "therapist-hypnosis-nov12": 41,
   "husband-hypnosis-nov12": 13,
-  "deep-refresh-nov13": 3
+  "deep-refresh-nov13": 3,
+  "weekly-nov16": 1
  },
- "raw_total": 7692,
- "entry_count": 3873,
+ "raw_total": 7693,
+ "entry_count": 3874,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13184,7 +13255,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 319
+   "entry_count": 320
   },
   {
    "key": "child-controller",
@@ -13286,7 +13357,7 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 240
+   "entry_count": 241
   },
   {
    "key": "hypno-intimacy",
@@ -600675,6 +600746,147 @@ window.CATALOG = {
      "confidence_flag": "High · 3+ sources"
     }
    }
+  },
+  {
+   "id": 4069,
+   "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! (どうも、好きな人に惚れ薬を依頼された魔女です。) — Episode 6 \"The Witch and the Promised Love Potion\" (Rose)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "TV anime · Japan · Japanese · Diomedéa / Horemajo Production Committee · ep 6 aired 9 Nov 2026 JST (AT-X; MBS 10 Nov) · streaming on Crunchyroll, TVer, d Anime Store, U-NEXT",
+   "mechanism": "Love potion (self-administered on request)",
+   "confidence_flag": "Medium · official synopsis + review",
+   "summary": "Rose, a witch, has been secretly in love with the knight Harij for four years. He asks her to brew a love potion, which she assumes is for another woman. In episode 6 the potion is finished, and Harij asks her to prove it works with a sample. She reluctantly drinks it, and the potion's strong effect leaves her struggling with the love welling up inside her. Per the review, it amplifies her existing feelings and leads to a near-kiss before it wears off. Harij then learns the potion was never meant for him.",
+   "character": "Rose, the 'Witch of the Lake' (a young witch who lives alone and earns her living making potions)",
+   "provenance": "Weekly sweep, 16 Nov 2026 PT (adults only; non-explicit notes; no videos watched)",
+   "note": "Loose fit: a self-administered love potion (magical compulsion of feeling), similar to the existing 'I Married a Witch' entry. The 19 Oct sweep dropped this show because no control of a woman was confirmed. Episode 6 now confirms it. No age is given for Rose; sources call her a 'young witch' who has lived alone and supported herself making potions since her grandmother died.",
+   "pregnancy_note": "Not stated in sources (series still airing).",
+   "episodes": [
+    {
+     "episode": "6",
+     "gist": "Rose drinks a sample of the finished love potion and struggles with the overwhelming love it stirs; the effect wears off"
+    }
+   ],
+   "tags": [
+    "anime",
+    "loose fit",
+    "weekly-nov16"
+   ],
+   "hypnotist": "Self-administered (Rose drinks her own love potion at Harij's request)",
+   "gain_motive": [
+    "demonstration / proof of the potion"
+   ],
+   "method": "Love potion (magic brew)",
+   "kids_status": "not stated",
+   "kids_note": "Sources mention no children for Rose. The series is still airing, and sources do not say whether she and Harij end up together or have children.",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "The official episode 6 synopsis says Rose drinks the sample and suffers from the potion's powerful effect, with love welling up inside her; the ANN review confirms the effect amplifies her feelings and then wears off",
+   "adult": "no",
+   "already_married": "no",
+   "format": "anime",
+   "categories": [
+    "fantasy",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "Crunchyroll — Season 1 Episode 6 'The Witch and the Promised Love Potion'",
+     "url": "https://www.crunchyroll.com/watch/GE00378319JAJP/episode-6-the-witch-and-the-promised-love-potion"
+    },
+    {
+     "label": "TVer — 第6話「魔女と約束の惚れ薬」 (MBS broadcast)",
+     "url": "https://tver.jp/episodes/epv2p8z6jt"
+    },
+    {
+     "label": "Official anime site — episode 6 story",
+     "url": "https://horemajo-anime.com/story/06.html"
+    },
+    {
+     "label": "Anime News Network — episode 6 review",
+     "url": "https://www.animenewsnetwork.com/review/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion/episode-6/.243655"
+    },
+    {
+     "label": "WEB The Television — episode 6 synopsis (aired 9 Nov 2026)",
+     "url": "https://thetv.jp/news/detail/1455075/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "weekly-nov16"
+   ],
+   "source_records": [
+    "weekly-nov16:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "weekly-nov16:1": {
+     "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! (どうも、好きな人に惚れ薬を依頼された魔女です。) — Episode 6 \"The Witch and the Promised Love Potion\" (Rose)",
+     "year": "2026",
+     "format": "anime",
+     "meta": "TV anime · Japan · Japanese · Diomedéa / Horemajo Production Committee · ep 6 aired 9 Nov 2026 JST (AT-X; MBS 10 Nov) · streaming on Crunchyroll, TVer, d Anime Store, U-NEXT",
+     "character": "Rose, the 'Witch of the Lake' (a young witch who lives alone and earns her living making potions)",
+     "summary": "Rose, a witch, has been secretly in love with the knight Harij for four years. He asks her to brew a love potion, which she assumes is for another woman. In episode 6 the potion is finished, and Harij asks her to prove it works with a sample. She reluctantly drinks it, and the potion's strong effect leaves her struggling with the love welling up inside her. Per the review, it amplifies her existing feelings and leads to a near-kiss before it wears off. Harij then learns the potion was never meant for him.",
+     "hypnotist": "Self-administered (Rose drinks her own love potion at Harij's request)",
+     "method": "Love potion (magic brew)",
+     "mechanism": "Love potion (self-administered on request)",
+     "gain_motive": [
+      "demonstration / proof of the potion"
+     ],
+     "categories": [
+      "fantasy",
+      "love"
+     ],
+     "fit": "loose",
+     "tags": [
+      "anime",
+      "loose fit",
+      "weekly-nov16"
+     ],
+     "episodes": [
+      {
+       "episode": "6",
+       "gist": "Rose drinks a sample of the finished love potion and struggles with the overwhelming love it stirs; the effect wears off"
+      }
+     ],
+     "already_married": "no",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "Not stated in sources (series still airing).",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "Sources mention no children for Rose. The series is still airing, and sources do not say whether she and Harij end up together or have children.",
+     "sources": [
+      {
+       "label": "Crunchyroll — Season 1 Episode 6 'The Witch and the Promised Love Potion'",
+       "url": "https://www.crunchyroll.com/watch/GE00378319JAJP/episode-6-the-witch-and-the-promised-love-potion"
+      },
+      {
+       "label": "TVer — 第6話「魔女と約束の惚れ薬」 (MBS broadcast)",
+       "url": "https://tver.jp/episodes/epv2p8z6jt"
+      },
+      {
+       "label": "Official anime site — episode 6 story",
+       "url": "https://horemajo-anime.com/story/06.html"
+      },
+      {
+       "label": "Anime News Network — episode 6 review",
+       "url": "https://www.animenewsnetwork.com/review/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion/episode-6/.243655"
+      },
+      {
+       "label": "WEB The Television — episode 6 synopsis (aired 9 Nov 2026)",
+       "url": "https://thetv.jp/news/detail/1455075/"
+      }
+     ],
+     "evidence": "The official episode 6 synopsis says Rose drinks the sample and suffers from the potion's powerful effect, with love welling up inside her; the ANN review confirms the effect amplifies her feelings and then wears off",
+     "confidence_flag": "Medium · official synopsis + review",
+     "provenance": "Weekly sweep, 16 Nov 2026 PT (adults only; non-explicit notes; no videos watched)",
+     "adult": "no",
+     "note": "Loose fit: a self-administered love potion (magical compulsion of feeling), similar to the existing 'I Married a Witch' entry. The 19 Oct sweep dropped this show because no control of a woman was confirmed. Episode 6 now confirms it. No age is given for Rose; sources call her a 'young witch' who has lived alone and supported herself making potions since her grandmother died."
+    }
+   }
   }
  ],
  "sections": [
@@ -609553,7 +609765,8 @@ window.CATALOG = {
     "hypnosis-nov11",
     "saimin-sweep-nov11",
     "deep-refresh-nov12",
-    "deep-refresh-nov13"
+    "deep-refresh-nov13",
+    "weekly-nov16"
    ],
    "groups": [
     {
@@ -612083,6 +612296,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov13"
+    },
+    {
+     "title": "Weekly sweep — 16 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4069,
+       "from_source": "weekly-nov16"
+      }
+     ],
+     "from_source": "weekly-nov16"
     }
    ],
    "declared_count_by_source": {
@@ -612124,7 +612348,8 @@ window.CATALOG = {
     "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
     "deep-refresh-nov12": null,
-    "deep-refresh-nov13": null
+    "deep-refresh-nov13": null,
+    "weekly-nov16": null
    }
   },
   {
@@ -626208,7 +626433,8 @@ window.CATALOG = {
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11",
     "therapist-hypnosis-nov12",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "weekly-nov16"
    ],
    "groups": [
     {
@@ -628735,6 +628961,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "husband-hypnosis-nov12"
+    },
+    {
+     "title": "Weekly sweep — 16 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4069,
+       "from_source": "weekly-nov16"
+      }
+     ],
+     "from_source": "weekly-nov16"
     }
    ],
    "declared_count_by_source": {
@@ -628772,7 +629009,8 @@ window.CATALOG = {
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null,
     "therapist-hypnosis-nov12": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "weekly-nov16": null
    }
   },
   {
