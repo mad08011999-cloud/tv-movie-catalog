@@ -13068,6 +13068,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "deep-refresh-nov16",
+   "label": "Deep refresh across all criteria (16 Nov 2026), including AI-generated works",
+   "kind": "local",
+   "share_url": "sources/deep-refresh-nov16.json",
+   "description": "Multi-language sweep across every catalog topic, 16 Nov 2026, plus a dedicated search for AI-generated films, shorts, vertical/micro dramas, YouTube/TikTok/Bilibili/Douyin series, AI anime, and AI comics/webtoons. Focus on titles new since the 13 Nov 2026 deep refresh, plus vertical dramas and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. AI-generated works are marked in format/meta and tagged AI-generated. This file was created at the start of the run and appended at the true end of SOURCES so existing IDs do not shift.",
+   "dropped": [],
+   "check": {
+    "raw_count": 0,
+    "ok": false
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -13174,7 +13187,8 @@ window.CATALOG = {
   "therapist-hypnosis-nov12": 41,
   "husband-hypnosis-nov12": 13,
   "deep-refresh-nov13": 3,
-  "weekly-nov16": 1
+  "weekly-nov16": 1,
+  "deep-refresh-nov16": 0
  },
  "raw_total": 7693,
  "entry_count": 3874,

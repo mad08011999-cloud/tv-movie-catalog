@@ -236,6 +236,8 @@ SOURCES = [
     {"id": "deep-refresh-nov13", "label": "Deep refresh across all criteria (13 Nov 2026), including AI-generated works",
      "local": "sources/deep-refresh-nov13.json", "required": False},
     {"id": "weekly-nov16", "label": "Weekly sweep (16 Nov 2026)", "local": "sources/weekly-nov16.json", "required": True},
+    {"id": "deep-refresh-nov16", "label": "Deep refresh across all criteria (16 Nov 2026), including AI-generated works",
+     "local": "sources/deep-refresh-nov16.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
