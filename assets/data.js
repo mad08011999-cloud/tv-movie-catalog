@@ -13102,7 +13102,7 @@ window.CATALOG = {
     }
    ],
    "check": {
-    "raw_count": 1,
+    "raw_count": 2,
     "ok": true
    },
    "status": "local"
@@ -13213,10 +13213,10 @@ window.CATALOG = {
   "husband-hypnosis-nov12": 13,
   "deep-refresh-nov13": 3,
   "weekly-nov16": 1,
-  "deep-refresh-nov16": 1
+  "deep-refresh-nov16": 2
  },
- "raw_total": 7694,
- "entry_count": 3875,
+ "raw_total": 7695,
+ "entry_count": 3876,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13234,7 +13234,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 375
+   "entry_count": 376
   },
   {
    "key": "belly",
@@ -13288,7 +13288,7 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 129
+   "entry_count": 130
   },
   {
    "key": "fantasy",
@@ -600998,6 +600998,92 @@ window.CATALOG = {
      "confidence_flag": "Single source · flag"
     }
    }
+  },
+  {
+   "id": 4071,
+   "title": "スマホ催眠アプリで、社内のカーストが逆転した件。",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Digital manga · Japan · Japanese · full-color · pinebook · Fortune Hill Publishing / Fortune Comic · official store listings state the work uses generative-AI images and that all characters are adults · Hiyori is 23 · first episode listed from July 2025",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Timid office worker Ishikawa finds a hypnosis app and uses it on his junior colleague Tachibana Hiyori, 23, who had treated him with contempt. After he types a simple request, she smiles and complies; official copy says he then tests the app further as she becomes obedient only to him.",
+   "character": "橘ひより (Tachibana Hiyori, 23, a new office employee)",
+   "provenance": "Deep refresh, 16 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "tags": [
+    "AI-generated"
+   ],
+   "hypnotist": "Ishikawa (her senior coworker)",
+   "method": "Hypnosis smartphone app",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Official MechaComic and BOOK☆WALKER listings both state that the work uses generative-AI images and that all characters are adults. They identify Hiyori as a 23-year-old new employee and describe Ishikawa using a hypnosis app so that she follows his typed commands.",
+   "adult": "yes",
+   "format": "digital manga",
+   "categories": [
+    "adult-hypnosis",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "MechaComic",
+     "url": "https://mechacomic.jp/books/260526"
+    },
+    {
+     "label": "BOOK☆WALKER",
+     "url": "https://bookwalker.jp/series/538450/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov16"
+   ],
+   "source_records": [
+    "deep-refresh-nov16:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov16:2": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 16 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "yes",
+     "title": "スマホ催眠アプリで、社内のカーストが逆転した件。",
+     "year": "2025",
+     "format": "digital manga",
+     "meta": "Digital manga · Japan · Japanese · full-color · pinebook · Fortune Hill Publishing / Fortune Comic · official store listings state the work uses generative-AI images and that all characters are adults · Hiyori is 23 · first episode listed from July 2025",
+     "character": "橘ひより (Tachibana Hiyori, 23, a new office employee)",
+     "summary": "Timid office worker Ishikawa finds a hypnosis app and uses it on his junior colleague Tachibana Hiyori, 23, who had treated him with contempt. After he types a simple request, she smiles and complies; official copy says he then tests the app further as she becomes obedient only to him.",
+     "hypnotist": "Ishikawa (her senior coworker)",
+     "method": "Hypnosis smartphone app",
+     "categories": [
+      "adult-hypnosis",
+      "tech"
+     ],
+     "tags": [
+      "AI-generated"
+     ],
+     "sources": [
+      {
+       "label": "MechaComic",
+       "url": "https://mechacomic.jp/books/260526"
+      },
+      {
+       "label": "BOOK☆WALKER",
+       "url": "https://bookwalker.jp/series/538450/"
+      }
+     ],
+     "evidence": "Official MechaComic and BOOK☆WALKER listings both state that the work uses generative-AI images and that all characters are adults. They identify Hiyori as a 23-year-old new employee and describe Ishikawa using a hypnosis app so that she follows his typed commands.",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
   }
  ],
  "sections": [
@@ -605917,6 +606003,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 4071,
+       "from_source": "deep-refresh-nov16"
+      },
+      {
        "id": 4070,
        "from_source": "deep-refresh-nov16"
       }
@@ -609109,7 +609199,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r4",
     "hypnosis-repeat-pregnancy-nov7",
     "hypnosis-nov11",
-    "saimin-sweep-nov11"
+    "saimin-sweep-nov11",
+    "deep-refresh-nov16"
    ],
    "groups": [
     {
@@ -609809,6 +609900,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "saimin-sweep-nov11"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 16 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4071,
+       "from_source": "deep-refresh-nov16"
+      }
+     ],
+     "from_source": "deep-refresh-nov16"
     }
    ],
    "declared_count_by_source": {
@@ -609841,7 +609943,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r4": null,
     "hypnosis-repeat-pregnancy-nov7": null,
     "hypnosis-nov11": null,
-    "saimin-sweep-nov11": null
+    "saimin-sweep-nov11": null,
+    "deep-refresh-nov16": null
    }
   },
   {

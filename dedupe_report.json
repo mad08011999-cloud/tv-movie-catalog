@@ -55005,11 +55005,11 @@
   "husband-hypnosis-nov12": 13,
   "deep-refresh-nov13": 3,
   "weekly-nov16": 1,
-  "deep-refresh-nov16": 1
+  "deep-refresh-nov16": 2
  },
- "entry_count_after_dedupe": 3875,
+ "entry_count_after_dedupe": 3876,
  "within_source_groups": 6,
  "cross_source_groups": 2107,
  "index_only_records": 55,
- "local_only_records": 1603
+ "local_only_records": 1604
 }
