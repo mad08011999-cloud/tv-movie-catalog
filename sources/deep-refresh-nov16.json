@@ -1,96 +1,104 @@
 {
- "id": "deep-refresh-nov16",
- "label": "Deep refresh across all criteria (16 Nov 2026), including AI-generated works",
- "group_title": "Deep gap-check (missed titles), 16 Nov 2026",
- "description": "Multi-language sweep across every catalog topic, 16 Nov 2026, plus a dedicated search for AI-generated films, shorts, vertical/micro dramas, YouTube/TikTok/Bilibili/Douyin series, AI anime, and AI comics/webtoons. Focus on titles new since the 13 Nov 2026 deep refresh, plus vertical dramas and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. AI-generated works are marked in format/meta and tagged AI-generated. This file was created at the start of the run and appended at the true end of SOURCES so existing IDs do not shift.",
- "category_labels": {},
- "records": [
-  {
-   "pregnant_end": "no",
-   "kids_status": "no",
-   "kids_together": "no",
-   "provenance": "Deep refresh, 16 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
-   "adult": "yes",
-   "title": "妻の幸せの為にやれること",
-   "year": "2026",
-   "format": "game (adult, DLsite)",
-   "meta": "Doujin simulation · Japan · Japanese · circle たもぐ屋 · DLsite RJ01770289 · released 15 Nov 2026 · R18 · short (about 5–10 minutes)",
-   "character": "あやめ (Ayame, a wife)",
-   "summary": "After a noise complaint about their neighbor, a married couple is hypnotized without realizing it. Official DLsite copy says wife Ayame and her husband gradually change without knowing why, and the neighbor distorts the couple's relationship.",
-   "hypnotist": "Their neighbor",
-   "method": "Hypnosis",
-   "categories": [
-    "wife-hypnotized",
-    "adult-hypnosis"
-   ],
-   "sources": [
+  "id": "deep-refresh-nov16",
+  "label": "Deep refresh across all criteria (16 Nov 2026), including AI-generated works",
+  "group_title": "Deep gap-check (missed titles), 16 Nov 2026",
+  "description": "Multi-language sweep across every catalog topic, 16 Nov 2026, plus a dedicated search for AI-generated films, shorts, vertical/micro dramas, YouTube/TikTok/Bilibili/Douyin series, AI anime, and AI comics/webtoons. Focus on titles new since the 13 Nov 2026 deep refresh, plus vertical dramas and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. AI-generated works are marked in format/meta and tagged AI-generated. This file was created at the start of the run and appended at the true end of SOURCES so existing IDs do not shift.",
+  "category_labels": {},
+  "records": [
     {
-     "label": "DLsite",
-     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01770289.html"
-    }
-   ],
-   "evidence": "Official DLsite listing (R18, genre 人妻) dated 15 Nov 2026: a noise complaint leads to the couple being hypnotized; wife Ayame and her husband change without realizing it, and the neighbor distorts their relationship.",
-   "confidence_flag": "Single source · flag"
-  },
-  {
-   "pregnant_end": "no",
-   "kids_status": "no",
-   "kids_together": "no",
-   "provenance": "Deep refresh, 16 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
-   "adult": "yes",
-   "title": "スマホ催眠アプリで、社内のカーストが逆転した件。",
-   "year": "2025",
-   "format": "digital manga",
-   "meta": "Digital manga · Japan · Japanese · full-color · pinebook · Fortune Hill Publishing / Fortune Comic · official store listings state the work uses generative-AI images and that all characters are adults · Hiyori is 23 · first episode listed from July 2025",
-   "character": "橘ひより (Tachibana Hiyori, 23, a new office employee)",
-   "summary": "Timid office worker Ishikawa finds a hypnosis app and uses it on his junior colleague Tachibana Hiyori, 23, who had treated him with contempt. After he types a simple request, she smiles and complies; official copy says he then tests the app further as she becomes obedient only to him.",
-   "hypnotist": "Ishikawa (her senior coworker)",
-   "method": "Hypnosis smartphone app",
-   "categories": [
-    "adult-hypnosis",
-    "tech"
-   ],
-   "tags": [
-    "AI-generated"
-   ],
-   "sources": [
-    {
-     "label": "MechaComic",
-     "url": "https://mechacomic.jp/books/260526"
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh, 16 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+      "adult": "yes",
+      "title": "妻の幸せの為にやれること",
+      "year": "2026",
+      "format": "game (adult, DLsite)",
+      "meta": "Doujin simulation · Japan · Japanese · circle たもぐ屋 · DLsite RJ01770289 · released 15 Nov 2026 · R18 · short (about 5–10 minutes)",
+      "character": "あやめ (Ayame, a wife)",
+      "summary": "After a noise complaint about their neighbor, a married couple is hypnotized without realizing it. Official DLsite copy says wife Ayame and her husband gradually change without knowing why, and the neighbor distorts the couple's relationship.",
+      "hypnotist": "Their neighbor",
+      "method": "Hypnosis",
+      "categories": [
+        "wife-hypnotized",
+        "adult-hypnosis"
+      ],
+      "sources": [
+        {
+          "label": "DLsite",
+          "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01770289.html"
+        }
+      ],
+      "evidence": "Official DLsite listing (R18, genre 人妻) dated 15 Nov 2026: a noise complaint leads to the couple being hypnotized; wife Ayame and her husband change without realizing it, and the neighbor distorts their relationship.",
+      "confidence_flag": "Single source · flag"
     },
     {
-     "label": "BOOK☆WALKER",
-     "url": "https://bookwalker.jp/series/538450/"
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh, 16 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+      "adult": "yes",
+      "title": "スマホ催眠アプリで、社内のカーストが逆転した件。",
+      "year": "2025",
+      "format": "digital manga",
+      "meta": "Digital manga · Japan · Japanese · full-color · pinebook · Fortune Hill Publishing / Fortune Comic · official store listings state the work uses generative-AI images and that all characters are adults · Hiyori is 23 · first episode listed from July 2025",
+      "character": "橘ひより (Tachibana Hiyori, 23, a new office employee)",
+      "summary": "Timid office worker Ishikawa finds a hypnosis app and uses it on his junior colleague Tachibana Hiyori, 23, who had treated him with contempt. After he types a simple request, she smiles and complies; official copy says he then tests the app further as she becomes obedient only to him.",
+      "hypnotist": "Ishikawa (her senior coworker)",
+      "method": "Hypnosis smartphone app",
+      "categories": [
+        "adult-hypnosis",
+        "tech"
+      ],
+      "tags": [
+        "AI-generated"
+      ],
+      "sources": [
+        {
+          "label": "MechaComic",
+          "url": "https://mechacomic.jp/books/260526"
+        },
+        {
+          "label": "BOOK☆WALKER",
+          "url": "https://bookwalker.jp/series/538450/"
+        }
+      ],
+      "evidence": "Official MechaComic and BOOK☆WALKER listings both state that the work uses generative-AI images and that all characters are adults. They identify Hiyori as a 23-year-old new employee and describe Ishikawa using a hypnosis app so that she follows his typed commands.",
+      "confidence_flag": "Medium · 2 sources"
     }
-   ],
-   "evidence": "Official MechaComic and BOOK☆WALKER listings both state that the work uses generative-AI images and that all characters are adults. They identify Hiyori as a 23-year-old new employee and describe Ishikawa using a hypnosis app so that she follows his typed commands.",
-   "confidence_flag": "Medium · 2 sources"
-  }
- ],
- "dropped": [
-  {
-   "title": "Scivias",
-   "reason": "Official Rocking Horse Star Entertainment production page for this 2026 feature describes an African American teenager haunted by a medieval nun, and a mysteriously pregnant girl in her group home thought to be linked to an Antichrist child. Held for minors; not added."
-  },
-  {
-   "title": "THE UNCLAIMED MATE: A WEREWOLF ACADEMY ROMANCE",
-   "reason": "Identifiable AI-generated series listed on glu.tv as added 16 Nov 2026 (HER LOVE STORIES: WLW). The title places the story at a 'werewolf academy,' so character adulthood is not established. Held; not added."
-  },
-  {
-   "title": "Adventures of Tiny Princess",
-   "reason": "Identifiable AI-generated work listed on glu.tv as added 14 Nov 2026. The title indicates a child/princess protagonist. Held for minors; not added."
-  },
-  {
-   "title": "Lifetime Membership (AI Transformation Studio)",
-   "reason": "Patreon members-only 2026 AI Transformation Studio film described as involving hypnotic conditioning. No stable public official page was found that establishes a sourced plot about an identifiable adult woman under hypnosis. The studio also focuses on MTF/TG transformation, so the hypnotized character's identity was not verified. Held; not added."
-  },
-  {
-   "title": "Corpus Delicti / The Disappearance of Maddie Sutton",
-   "reason": "AI-generated official trailer listed on glu.tv as added 16 Nov 2026 (Shark Biscuit). The missing character is named Maddie; adulthood is not established from the listing. Held; not added."
-  },
-  {
-   "title": "性格キツめ人妻教師(29)、催○コンタクトに堕ちる。―渡辺家編―",
-   "reason": "Official DLsite listing (RJ01744051, circle 黒谷田, R18 manga, 13 Nov 2026). The official genres include ショタおね. The official synopsis says a student, Kota, uses 'hypnosis contacts' on his homeroom teacher and then on a classmate's mother, Watanabe Nagisa, and her sister, Kotone. Held for minors; not added."
-  }
- ]
+  ],
+  "dropped": [
+    {
+      "title": "Scivias",
+      "reason": "Official Rocking Horse Star Entertainment production page for this 2026 feature describes an African American teenager haunted by a medieval nun, and a mysteriously pregnant girl in her group home thought to be linked to an Antichrist child. Held for minors; not added."
+    },
+    {
+      "title": "THE UNCLAIMED MATE: A WEREWOLF ACADEMY ROMANCE",
+      "reason": "Identifiable AI-generated series listed on glu.tv as added 16 Nov 2026 (HER LOVE STORIES: WLW). The title places the story at a 'werewolf academy,' so character adulthood is not established. Held; not added."
+    },
+    {
+      "title": "Adventures of Tiny Princess",
+      "reason": "Identifiable AI-generated work listed on glu.tv as added 14 Nov 2026. The title indicates a child/princess protagonist. Held for minors; not added."
+    },
+    {
+      "title": "Lifetime Membership (AI Transformation Studio)",
+      "reason": "Patreon members-only 2026 AI Transformation Studio film described as involving hypnotic conditioning. No stable public official page was found that establishes a sourced plot about an identifiable adult woman under hypnosis. The studio also focuses on MTF/TG transformation, so the hypnotized character's identity was not verified. Held; not added."
+    },
+    {
+      "title": "Corpus Delicti / The Disappearance of Maddie Sutton",
+      "reason": "AI-generated official trailer listed on glu.tv as added 16 Nov 2026 (Shark Biscuit). The missing character is named Maddie; adulthood is not established from the listing. Held; not added."
+    },
+    {
+      "title": "性格キツめ人妻教師(29)、催○コンタクトに堕ちる。―渡辺家編―",
+      "reason": "Official DLsite listing (RJ01744051, circle 黒谷田, R18 manga, 13 Nov 2026). The official genres include ショタおね. The official synopsis says a student, Kota, uses 'hypnosis contacts' on his homeroom teacher and then on a classmate's mother, Watanabe Nagisa, and her sister, Kotone. Held for minors; not added."
+    },
+    {
+      "title": "OVA色情教団１＆２パック",
+      "reason": "Official Lune Soft product page for this 18-restricted OVA pack, scheduled for 27 November 2026, lists both 人妻 and 女子校生 among the official keywords. Held for minors; not added."
+    },
+    {
+      "title": "ヒプノワーカー～催◯アプリでやりたい放題～",
+      "reason": "Official DLsite listing RJ01738056 (circle へこバース, R18, released 15 November 2026) exists, but the full official plot and character-age copy were geo-blocked from this region. Third-party write-ups describe a hypnosis-app simulation used on women or girls around town, so adulthood of the targets is unverified. Held pending official adulthood confirmation; not added."
+    }
+  ]
 }

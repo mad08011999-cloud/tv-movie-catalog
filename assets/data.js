@@ -13099,6 +13099,14 @@ window.CATALOG = {
     {
      "title": "性格キツめ人妻教師(29)、催○コンタクトに堕ちる。―渡辺家編―",
      "reason": "Official DLsite listing (RJ01744051, circle 黒谷田, R18 manga, 13 Nov 2026). The official genres include ショタおね. The official synopsis says a student, Kota, uses 'hypnosis contacts' on his homeroom teacher and then on a classmate's mother, Watanabe Nagisa, and her sister, Kotone. Held for minors; not added."
+    },
+    {
+     "title": "OVA色情教団１＆２パック",
+     "reason": "Official Lune Soft product page for this 18-restricted OVA pack, scheduled for 27 November 2026, lists both 人妻 and 女子校生 among the official keywords. Held for minors; not added."
+    },
+    {
+     "title": "ヒプノワーカー～催◯アプリでやりたい放題～",
+     "reason": "Official DLsite listing RJ01738056 (circle へこバース, R18, released 15 November 2026) exists, but the full official plot and character-age copy were geo-blocked from this region. Third-party write-ups describe a hypnosis-app simulation used on women or girls around town, so adulthood of the targets is unverified. Held pending official adulthood confirmation; not added."
     }
    ],
    "check": {
