@@ -13075,10 +13075,31 @@ window.CATALOG = {
    "kind": "local",
    "share_url": "sources/deep-refresh-nov16.json",
    "description": "Multi-language sweep across every catalog topic, 16 Nov 2026, plus a dedicated search for AI-generated films, shorts, vertical/micro dramas, YouTube/TikTok/Bilibili/Douyin series, AI anime, and AI comics/webtoons. Focus on titles new since the 13 Nov 2026 deep refresh, plus vertical dramas and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. AI-generated works are marked in format/meta and tagged AI-generated. This file was created at the start of the run and appended at the true end of SOURCES so existing IDs do not shift.",
-   "dropped": [],
+   "dropped": [
+    {
+     "title": "Scivias",
+     "reason": "Official Rocking Horse Star Entertainment production page for this 2026 feature describes an African American teenager haunted by a medieval nun, and a mysteriously pregnant girl in her group home thought to be linked to an Antichrist child. Held for minors; not added."
+    },
+    {
+     "title": "THE UNCLAIMED MATE: A WEREWOLF ACADEMY ROMANCE",
+     "reason": "Identifiable AI-generated series listed on glu.tv as added 16 Nov 2026 (HER LOVE STORIES: WLW). The title places the story at a 'werewolf academy,' so character adulthood is not established. Held; not added."
+    },
+    {
+     "title": "Adventures of Tiny Princess",
+     "reason": "Identifiable AI-generated work listed on glu.tv as added 14 Nov 2026. The title indicates a child/princess protagonist. Held for minors; not added."
+    },
+    {
+     "title": "Lifetime Membership (AI Transformation Studio)",
+     "reason": "Patreon members-only 2026 AI Transformation Studio film described as involving hypnotic conditioning. No stable public official page was found that establishes a sourced plot about an identifiable adult woman under hypnosis. The studio also focuses on MTF/TG transformation, so the hypnotized character's identity was not verified. Held; not added."
+    },
+    {
+     "title": "Corpus Delicti / The Disappearance of Maddie Sutton",
+     "reason": "AI-generated official trailer listed on glu.tv as added 16 Nov 2026 (Shark Biscuit). The missing character is named Maddie; adulthood is not established from the listing. Held; not added."
+    }
+   ],
    "check": {
-    "raw_count": 0,
-    "ok": false
+    "raw_count": 1,
+    "ok": true
    },
    "status": "local"
   }
@@ -13188,10 +13209,10 @@ window.CATALOG = {
   "husband-hypnosis-nov12": 13,
   "deep-refresh-nov13": 3,
   "weekly-nov16": 1,
-  "deep-refresh-nov16": 0
+  "deep-refresh-nov16": 1
  },
- "raw_total": 7693,
- "entry_count": 3874,
+ "raw_total": 7694,
+ "entry_count": 3875,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13209,7 +13230,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 374
+   "entry_count": 375
   },
   {
    "key": "belly",
@@ -13731,7 +13752,7 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 189
+   "entry_count": 190
   },
   {
    "key": "therapist-wife",
@@ -600901,6 +600922,78 @@ window.CATALOG = {
      "note": "Loose fit: a self-administered love potion (magical compulsion of feeling), similar to the existing 'I Married a Witch' entry. The 19 Oct sweep dropped this show because no control of a woman was confirmed. Episode 6 now confirms it. No age is given for Rose; sources call her a 'young witch' who has lived alone and supported herself making potions since her grandmother died."
     }
    }
+  },
+  {
+   "id": 4070,
+   "title": "妻の幸せの為にやれること",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Doujin simulation · Japan · Japanese · circle たもぐ屋 · DLsite RJ01770289 · released 15 Nov 2026 · R18 · short (about 5–10 minutes)",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "After a noise complaint about their neighbor, a married couple is hypnotized without realizing it. Official DLsite copy says wife Ayame and her husband gradually change without knowing why, and the neighbor distorts the couple's relationship.",
+   "character": "あやめ (Ayame, a wife)",
+   "provenance": "Deep refresh, 16 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "hypnotist": "Their neighbor",
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Official DLsite listing (R18, genre 人妻) dated 15 Nov 2026: a noise complaint leads to the couple being hypnotized; wife Ayame and her husband change without realizing it, and the neighbor distorts their relationship.",
+   "adult": "yes",
+   "format": "game (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01770289.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov16"
+   ],
+   "source_records": [
+    "deep-refresh-nov16:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov16:1": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 16 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "yes",
+     "title": "妻の幸せの為にやれること",
+     "year": "2026",
+     "format": "game (adult, DLsite)",
+     "meta": "Doujin simulation · Japan · Japanese · circle たもぐ屋 · DLsite RJ01770289 · released 15 Nov 2026 · R18 · short (about 5–10 minutes)",
+     "character": "あやめ (Ayame, a wife)",
+     "summary": "After a noise complaint about their neighbor, a married couple is hypnotized without realizing it. Official DLsite copy says wife Ayame and her husband gradually change without knowing why, and the neighbor distorts the couple's relationship.",
+     "hypnotist": "Their neighbor",
+     "method": "Hypnosis",
+     "categories": [
+      "wife-hypnotized",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01770289.html"
+      }
+     ],
+     "evidence": "Official DLsite listing (R18, genre 人妻) dated 15 Nov 2026: a noise complaint leads to the couple being hypnotized; wife Ayame and her husband change without realizing it, and the neighbor distorts their relationship.",
+     "confidence_flag": "Single source · flag"
+    }
+   }
   }
  ],
  "sections": [
@@ -601425,7 +601518,8 @@ window.CATALOG = {
     "hypno-sex-nov12",
     "therapist-hypnosis-nov12",
     "husband-hypnosis-nov12",
-    "deep-refresh-nov13"
+    "deep-refresh-nov13",
+    "deep-refresh-nov16"
    ],
    "groups": [
     {
@@ -605813,6 +605907,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov13"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 16 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4070,
+       "from_source": "deep-refresh-nov16"
+      }
+     ],
+     "from_source": "deep-refresh-nov16"
     }
    ],
    "declared_count_by_source": {
@@ -605854,7 +605959,8 @@ window.CATALOG = {
     "hypno-sex-nov12": null,
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
-    "deep-refresh-nov13": null
+    "deep-refresh-nov13": null,
+    "deep-refresh-nov16": null
    }
   },
   {
@@ -663703,7 +663809,8 @@ window.CATALOG = {
     "hypno-sex-nov12",
     "therapist-hypnosis-nov12",
     "husband-hypnosis-nov12",
-    "deep-refresh-nov13"
+    "deep-refresh-nov13",
+    "deep-refresh-nov16"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -663733,7 +663840,8 @@ window.CATALOG = {
     "hypno-sex-nov12": null,
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
-    "deep-refresh-nov13": null
+    "deep-refresh-nov13": null,
+    "deep-refresh-nov16": null
    },
    "groups": [
     {
@@ -664638,6 +664746,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov13"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 16 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4070,
+       "from_source": "deep-refresh-nov16"
+      }
+     ],
+     "from_source": "deep-refresh-nov16"
     }
    ]
   },
