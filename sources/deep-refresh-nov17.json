@@ -153,6 +153,34 @@
    ],
    "evidence": "Official KILL/SAVE and Radragon Film pages describe a programmer who uses a neural interface to try to rescue his girlfriend from a virtual prison. ComingSoon reports a digital release on 17 Nov 2026 and identifies the film as sci-fi action directed by Den Kryuchkov. Official pages do not state the characters’ ages; there are no minor indicators.",
    "confidence_flag": "High · 3+ sources"
+  },
+  {
+   "pregnant_end": "yes",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "no",
+   "title": "わたしの宝物",
+   "year": "2024",
+   "format": "tv",
+   "meta": "Fuji TV Thursday Theatre drama · English title My Precious · premiered 17 Oct 2024 · starring Wakana Matsumoto in the lead, with Kei Tanaka and Tatsuya Fukazawa",
+   "character": "Kanzaki Miwa / 神崎美羽 (Wakana Matsumoto); her husband Hiroki / 神崎広樹; Ryo Fuyutsuki / 冬月涼",
+   "summary": "Official Fuji Television copy follows wife Miwa, who conceives a child fathered by another man and raises the baby as her husband Hiroki’s child, then struggles with the consequences of that secret for both men and for her daughter Shiori.",
+   "categories": [
+    "another-man"
+   ],
+   "sources": [
+    {
+     "label": "Fuji Television (English)",
+     "url": "https://www.fujitv.com/drama/takaramono/"
+    },
+    {
+     "label": "Fuji Television official introduction",
+     "url": "https://www.fujitv.co.jp/takaramono/introduction/index.html"
+    }
+   ],
+   "evidence": "The official English Fuji TV page states the series explores a woman who gives birth to a child fathered by another man but raises it as her husband’s, and episode 2 copy says DNA testing shows the child is not husband Hiroki’s but Ryo Fuyutsuki’s. The official Japanese introduction describes the same 托卵 premise as an adults’ romance drama and names lead Wakana Matsumoto. Premiere date 17 Oct 2024 is on both official pages.",
+   "confidence_flag": "Medium · 2 sources"
   }
  ],
  "dropped": [
@@ -179,6 +207,14 @@
   {
    "title": "被王鹏催眠的教师美母",
    "reason": "AI adult short drama listed on aggregator 51PAPAYA (claimed 17 Nov 2026). No official studio, festival, or major-platform page found; teacher-mother adulthood not independently verified. Held."
+  },
+  {
+   "title": "My Girlfriend's Child / あの子の子ども (2024)",
+   "reason": "Official/press coverage describes high-schoolers Sachi and Takara dealing with an unexpected pregnancy; characters are minors."
+  },
+  {
+   "title": "Look Into My Eyes (Blumhouse documentary)",
+   "reason": "Blumhouse/official coverage concerns a principal who hypnotized students; minor targets; not added."
   }
  ]
 }

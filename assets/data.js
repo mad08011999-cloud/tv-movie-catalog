@@ -13145,10 +13145,18 @@ window.CATALOG = {
     {
      "title": "被王鹏催眠的教师美母",
      "reason": "AI adult short drama listed on aggregator 51PAPAYA (claimed 17 Nov 2026). No official studio, festival, or major-platform page found; teacher-mother adulthood not independently verified. Held."
+    },
+    {
+     "title": "My Girlfriend's Child / あの子の子ども (2024)",
+     "reason": "Official/press coverage describes high-schoolers Sachi and Takara dealing with an unexpected pregnancy; characters are minors."
+    },
+    {
+     "title": "Look Into My Eyes (Blumhouse documentary)",
+     "reason": "Blumhouse/official coverage concerns a principal who hypnotized students; minor targets; not added."
     }
    ],
    "check": {
-    "raw_count": 5,
+    "raw_count": 6,
     "ok": true
    },
    "status": "local"
@@ -13260,10 +13268,10 @@ window.CATALOG = {
   "deep-refresh-nov13": 3,
   "weekly-nov16": 1,
   "deep-refresh-nov16": 2,
-  "deep-refresh-nov17": 5
+  "deep-refresh-nov17": 6
  },
- "raw_total": 7700,
- "entry_count": 3881,
+ "raw_total": 7701,
+ "entry_count": 3882,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13827,7 +13835,7 @@ window.CATALOG = {
    "key": "another-man",
    "label": "Wife with children pregnant by another man",
    "legend_label": "Wife with children pregnant by another man",
-   "entry_count": 46
+   "entry_count": 47
   },
   {
    "key": "devil-deal-pregnancy",
@@ -601531,6 +601539,80 @@ window.CATALOG = {
      "confidence_flag": "High · 3+ sources"
     }
    }
+  },
+  {
+   "id": 4077,
+   "title": "わたしの宝物",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Fuji TV Thursday Theatre drama · English title My Precious · premiered 17 Oct 2024 · starring Wakana Matsumoto in the lead, with Kei Tanaka and Tatsuya Fukazawa",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Official Fuji Television copy follows wife Miwa, who conceives a child fathered by another man and raises the baby as her husband Hiroki’s child, then struggles with the consequences of that secret for both men and for her daughter Shiori.",
+   "character": "Kanzaki Miwa / 神崎美羽 (Wakana Matsumoto); her husband Hiroki / 神崎広樹; Ryo Fuyutsuki / 冬月涼",
+   "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "pregnant_end": "yes",
+   "evidence": "The official English Fuji TV page states the series explores a woman who gives birth to a child fathered by another man but raises it as her husband’s, and episode 2 copy says DNA testing shows the child is not husband Hiroki’s but Ryo Fuyutsuki’s. The official Japanese introduction describes the same 托卵 premise as an adults’ romance drama and names lead Wakana Matsumoto. Premiere date 17 Oct 2024 is on both official pages.",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "another-man"
+   ],
+   "sources": [
+    {
+     "label": "Fuji Television (English)",
+     "url": "https://www.fujitv.com/drama/takaramono/"
+    },
+    {
+     "label": "Fuji Television official introduction",
+     "url": "https://www.fujitv.co.jp/takaramono/introduction/index.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov17"
+   ],
+   "source_records": [
+    "deep-refresh-nov17:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov17:6": {
+     "pregnant_end": "yes",
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "no",
+     "title": "わたしの宝物",
+     "year": "2024",
+     "format": "tv",
+     "meta": "Fuji TV Thursday Theatre drama · English title My Precious · premiered 17 Oct 2024 · starring Wakana Matsumoto in the lead, with Kei Tanaka and Tatsuya Fukazawa",
+     "character": "Kanzaki Miwa / 神崎美羽 (Wakana Matsumoto); her husband Hiroki / 神崎広樹; Ryo Fuyutsuki / 冬月涼",
+     "summary": "Official Fuji Television copy follows wife Miwa, who conceives a child fathered by another man and raises the baby as her husband Hiroki’s child, then struggles with the consequences of that secret for both men and for her daughter Shiori.",
+     "categories": [
+      "another-man"
+     ],
+     "sources": [
+      {
+       "label": "Fuji Television (English)",
+       "url": "https://www.fujitv.com/drama/takaramono/"
+      },
+      {
+       "label": "Fuji Television official introduction",
+       "url": "https://www.fujitv.co.jp/takaramono/introduction/index.html"
+      }
+     ],
+     "evidence": "The official English Fuji TV page states the series explores a woman who gives birth to a child fathered by another man but raises it as her husband’s, and episode 2 copy says DNA testing shows the child is not husband Hiroki’s but Ryo Fuyutsuki’s. The official Japanese introduction describes the same 托卵 premise as an adults’ romance drama and names lead Wakana Matsumoto. Premiere date 17 Oct 2024 is on both official pages.",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
   }
  ],
  "sections": [
@@ -666185,7 +666267,8 @@ window.CATALOG = {
     "wife-hypnosis-oct15",
     "deep-gap-oct15",
     "deep-refresh-oct18",
-    "deep-refresh-nov04"
+    "deep-refresh-nov04",
+    "deep-refresh-nov17"
    ],
    "groups": [
     {
@@ -666732,6 +666815,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-gap-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 17 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4077,
+       "from_source": "deep-refresh-nov17"
+      }
+     ],
+     "from_source": "deep-refresh-nov17"
     }
    ],
    "declared_count_by_source": {
@@ -666742,7 +666836,8 @@ window.CATALOG = {
     "wife-hypnosis-oct15": null,
     "deep-gap-oct15": null,
     "deep-refresh-oct18": null,
-    "deep-refresh-nov04": null
+    "deep-refresh-nov04": null,
+    "deep-refresh-nov17": null
    }
   },
   {
