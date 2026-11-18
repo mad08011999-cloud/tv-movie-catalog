@@ -13137,10 +13137,18 @@ window.CATALOG = {
     {
      "title": "Illya and Chloe Hypnotized and Impregnated [AI Generated]",
      "reason": "AI-generated work using Fate/stay night characters Illya and Chloe, who are minors. Held; do not add."
+    },
+    {
+     "title": "Teen Tigada",
+     "reason": "Zee5 Hindi romance listed for 20 Nov 2026 about a young couple discovering they are expecting. Title and “teen/young couple” framing leave adulthood unverified. Held."
+    },
+    {
+     "title": "被王鹏催眠的教师美母",
+     "reason": "AI adult short drama listed on aggregator 51PAPAYA (claimed 17 Nov 2026). No official studio, festival, or major-platform page found; teacher-mother adulthood not independently verified. Held."
     }
    ],
    "check": {
-    "raw_count": 2,
+    "raw_count": 5,
     "ok": true
    },
    "status": "local"
@@ -13252,10 +13260,10 @@ window.CATALOG = {
   "deep-refresh-nov13": 3,
   "weekly-nov16": 1,
   "deep-refresh-nov16": 2,
-  "deep-refresh-nov17": 2
+  "deep-refresh-nov17": 5
  },
- "raw_total": 7697,
- "entry_count": 3878,
+ "raw_total": 7700,
+ "entry_count": 3881,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13303,7 +13311,7 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 64
+   "entry_count": 65
   },
   {
    "key": "occult",
@@ -13714,6 +13722,12 @@ window.CATALOG = {
    "entry_count": 420
   },
   {
+   "key": "scifi-tech",
+   "label": "scifi-tech",
+   "legend_label": "scifi-tech",
+   "entry_count": 1
+  },
+  {
    "key": "family",
    "label": "Single mom remarries and gets pregnant with new partner",
    "legend_label": "Single mom remarries and gets pregnant with new partner",
@@ -13748,6 +13762,12 @@ window.CATALOG = {
    "label": "Surrogacy / IVF / fertility drama",
    "legend_label": "Surrogacy / IVF / fertility drama",
    "entry_count": 22
+  },
+  {
+   "key": "surrogacy-ivf-adopt",
+   "label": "surrogacy-ivf-adopt",
+   "legend_label": "surrogacy-ivf-adopt",
+   "entry_count": 1
   },
   {
    "key": "index-55",
@@ -601275,6 +601295,242 @@ window.CATALOG = {
      "confidence_flag": "Single source · flag"
     }
    }
+  },
+  {
+   "id": 4074,
+   "title": "9-Month Contract",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Feature documentary · Georgia / Bulgaria / Germany · Georgian · 79–80 min · directed by Ketevan Vashagashvili · original title ცხრათვიანი კონტრაქტი · world premiere at CPH:DOX 2025; US premiere at DOC NYC 2026",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Official festival copy follows Zhana, a single mother working as a supermarket cashier, who becomes a surrogate for foreign couples to try to give her teenage daughter Elene a more secure life. Repeated pregnancies strain her health, and she tries to hide her changing body from Elene until her daughter begins to understand what is happening.",
+   "character": "Zhana (a single mother in Tbilisi); her teenage daughter Elene appears as family, not as a sexualized character",
+   "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "pregnant_end": "yes",
+   "evidence": "Official CPH:DOX and DOC NYC pages identify Zhana as an adult single mother in Tbilisi who is paid to carry pregnancies for foreign childless couples so she can support her teenage daughter Elene, and describe the film as a documentary portrait of that surrogacy work and their relationship.",
+   "adult": "yes",
+   "format": "documentary",
+   "categories": [
+    "surrogacy-ivf-adopt"
+   ],
+   "sources": [
+    {
+     "label": "CPH:DOX",
+     "url": "https://cphdox.dk/film/9-month-contract/"
+    },
+    {
+     "label": "DOC NYC",
+     "url": "https://www.docnyc.net/film/9-month-contract/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov17"
+   ],
+   "source_records": [
+    "deep-refresh-nov17:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov17:3": {
+     "pregnant_end": "yes",
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "yes",
+     "title": "9-Month Contract",
+     "year": "2025",
+     "format": "documentary",
+     "meta": "Feature documentary · Georgia / Bulgaria / Germany · Georgian · 79–80 min · directed by Ketevan Vashagashvili · original title ცხრათვიანი კონტრაქტი · world premiere at CPH:DOX 2025; US premiere at DOC NYC 2026",
+     "character": "Zhana (a single mother in Tbilisi); her teenage daughter Elene appears as family, not as a sexualized character",
+     "summary": "Official festival copy follows Zhana, a single mother working as a supermarket cashier, who becomes a surrogate for foreign couples to try to give her teenage daughter Elene a more secure life. Repeated pregnancies strain her health, and she tries to hide her changing body from Elene until her daughter begins to understand what is happening.",
+     "categories": [
+      "surrogacy-ivf-adopt"
+     ],
+     "sources": [
+      {
+       "label": "CPH:DOX",
+       "url": "https://cphdox.dk/film/9-month-contract/"
+      },
+      {
+       "label": "DOC NYC",
+       "url": "https://www.docnyc.net/film/9-month-contract/"
+      }
+     ],
+     "evidence": "Official CPH:DOX and DOC NYC pages identify Zhana as an adult single mother in Tbilisi who is paid to carry pregnancies for foreign childless couples so she can support her teenage daughter Elene, and describe the film as a documentary portrait of that surrogacy work and their relationship.",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 4075,
+   "title": "Kashpirovskiy. Under The Spell",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Feature documentary · Poland / Czech Republic · 87 min · directed by Łukasz Konopa · original title Kaszpirowski · Czech premiere at Ji.hlava 2026",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A documentary portrait of Anatoly Kashpirovsky, a hypnotist and TV healer who became a mass-audience figure at the end of the Soviet era. Official festival copy describes televised healing séances that reached hundreds of millions, including operations on women without anaesthetic, and follows his later attempt at an internet-era comeback.",
+   "character": "Soviet and post-Soviet television audiences; official festival copy also notes televised procedures on women without anaesthetic",
+   "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "hypnotist": "Anatoly Kashpirovsky",
+   "method": "Televised mass hypnosis and healing séances",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Official Ji.hlava 2026 program page and a Variety report both describe Kashpirovsky as a mass-hypnosis / television-healer figure whose séances reached a Soviet audience of hundreds of millions, including televised procedures on women without anaesthetic.",
+   "adult": "yes",
+   "format": "documentary",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Ji.hlava International Documentary Film Festival",
+     "url": "https://vp.eventival.com/jidff/2026/film/1308315"
+    },
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/film/global/soviet-tv-audiences-mass-hypnosis-anatoly-kashpirovskiy-1236936646/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov17"
+   ],
+   "source_records": [
+    "deep-refresh-nov17:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov17:4": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "yes",
+     "title": "Kashpirovskiy. Under The Spell",
+     "year": "2026",
+     "format": "documentary",
+     "meta": "Feature documentary · Poland / Czech Republic · 87 min · directed by Łukasz Konopa · original title Kaszpirowski · Czech premiere at Ji.hlava 2026",
+     "character": "Soviet and post-Soviet television audiences; official festival copy also notes televised procedures on women without anaesthetic",
+     "summary": "A documentary portrait of Anatoly Kashpirovsky, a hypnotist and TV healer who became a mass-audience figure at the end of the Soviet era. Official festival copy describes televised healing séances that reached hundreds of millions, including operations on women without anaesthetic, and follows his later attempt at an internet-era comeback.",
+     "hypnotist": "Anatoly Kashpirovsky",
+     "method": "Televised mass hypnosis and healing séances",
+     "categories": [
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Ji.hlava International Documentary Film Festival",
+       "url": "https://vp.eventival.com/jidff/2026/film/1308315"
+      },
+      {
+       "label": "Variety",
+       "url": "https://variety.com/2026/film/global/soviet-tv-audiences-mass-hypnosis-anatoly-kashpirovskiy-1236936646/"
+      }
+     ],
+     "evidence": "Official Ji.hlava 2026 program page and a Variety report both describe Kashpirovsky as a mass-hypnosis / television-healer figure whose séances reached a Soviet audience of hundreds of millions, including televised procedures on women without anaesthetic.",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 4076,
+   "title": "KILL/SAVE",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Sci-fi action feature · 93 min · directed by Den Kryuchkov · produced by Olga Loyanich / Radragon Film · official pages say it is available on Apple TV, Prime Video and other digital storefronts; ComingSoon reports a digital release date of 17 Nov 2026",
+   "mechanism": "",
+   "confidence_flag": "High · 3+ sources",
+   "summary": "Official site copy follows a lonely programmer who uses a neural interface to try to rescue his girlfriend from a virtual prison in a locked-down megacity, then confronts questions of free will when the simulation becomes indistinguishable from reality.",
+   "character": "The programmer’s girlfriend (name not stated on the official site)",
+   "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "method": "NeuroMesh neural nanobot interface that links the brain directly to a virtual environment",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Official KILL/SAVE and Radragon Film pages describe a programmer who uses a neural interface to try to rescue his girlfriend from a virtual prison. ComingSoon reports a digital release on 17 Nov 2026 and identifies the film as sci-fi action directed by Den Kryuchkov. Official pages do not state the characters’ ages; there are no minor indicators.",
+   "adult": "yes",
+   "format": "film",
+   "categories": [
+    "scifi-tech"
+   ],
+   "sources": [
+    {
+     "label": "Official site",
+     "url": "https://www.killsave.com/"
+    },
+    {
+     "label": "Radragon Film",
+     "url": "https://www.radragonfilm.com/killsave"
+    },
+    {
+     "label": "ComingSoon",
+     "url": "https://www.comingsoon.net/movies/trailers/2213259-martial-arts-sci-fir-movie-ready-player-one-cyberpunk-exclusive"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov17"
+   ],
+   "source_records": [
+    "deep-refresh-nov17:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov17:5": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "yes",
+     "title": "KILL/SAVE",
+     "year": "2026",
+     "format": "film",
+     "meta": "Sci-fi action feature · 93 min · directed by Den Kryuchkov · produced by Olga Loyanich / Radragon Film · official pages say it is available on Apple TV, Prime Video and other digital storefronts; ComingSoon reports a digital release date of 17 Nov 2026",
+     "character": "The programmer’s girlfriend (name not stated on the official site)",
+     "summary": "Official site copy follows a lonely programmer who uses a neural interface to try to rescue his girlfriend from a virtual prison in a locked-down megacity, then confronts questions of free will when the simulation becomes indistinguishable from reality.",
+     "method": "NeuroMesh neural nanobot interface that links the brain directly to a virtual environment",
+     "categories": [
+      "scifi-tech"
+     ],
+     "sources": [
+      {
+       "label": "Official site",
+       "url": "https://www.killsave.com/"
+      },
+      {
+       "label": "Radragon Film",
+       "url": "https://www.radragonfilm.com/killsave"
+      },
+      {
+       "label": "ComingSoon",
+       "url": "https://www.comingsoon.net/movies/trailers/2213259-martial-arts-sci-fir-movie-ready-player-one-cyberpunk-exclusive"
+      }
+     ],
+     "evidence": "Official KILL/SAVE and Radragon Film pages describe a programmer who uses a neural interface to try to rescue his girlfriend from a virtual prison. ComingSoon reports a digital release on 17 Nov 2026 and identifies the film as sci-fi action directed by Den Kryuchkov. Official pages do not state the characters’ ages; there are no minor indicators.",
+     "confidence_flag": "High · 3+ sources"
+    }
+   }
   }
  ],
  "sections": [
@@ -607101,7 +607357,8 @@ window.CATALOG = {
     "deep-refresh-nov04",
     "vertical-hypnosis-nov6-r6",
     "hypnosis-nov11",
-    "deep-refresh-nov12"
+    "deep-refresh-nov12",
+    "deep-refresh-nov17"
    ],
    "groups": [
     {
@@ -607564,6 +607821,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-nov11"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 17 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4075,
+       "from_source": "deep-refresh-nov17"
+      }
+     ],
+     "from_source": "deep-refresh-nov17"
     }
    ],
    "declared_count_by_source": {
@@ -607589,7 +607857,8 @@ window.CATALOG = {
     "deep-refresh-nov04": null,
     "vertical-hypnosis-nov6-r6": null,
     "hypnosis-nov11": null,
-    "deep-refresh-nov12": null
+    "deep-refresh-nov12": null,
+    "deep-refresh-nov17": null
    }
   },
   {
@@ -653856,6 +654125,31 @@ window.CATALOG = {
    }
   },
   {
+   "title": "scifi-tech",
+   "category": "scifi-tech",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "deep-refresh-nov17"
+   ],
+   "declared_count_by_source": {
+    "deep-refresh-nov17": null
+   },
+   "groups": [
+    {
+     "title": "Deep gap-check (missed titles), 17 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4076,
+       "from_source": "deep-refresh-nov17"
+      }
+     ],
+     "from_source": "deep-refresh-nov17"
+    }
+   ]
+  },
+  {
    "title": "Single mom remarries and gets pregnant with new partner",
    "category": "family",
    "description": "Exact matches are grouped by country or region, followed by near and partial matches. The Hallmark sweep adds Love’s Enduring Promise as a core remarriage-to-new-child fit and Love Comes Softly as a labeled pregnancy-before-remarriage borderline.",
@@ -656747,6 +657041,31 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-oct18"
+    }
+   ]
+  },
+  {
+   "title": "surrogacy-ivf-adopt",
+   "category": "surrogacy-ivf-adopt",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "deep-refresh-nov17"
+   ],
+   "declared_count_by_source": {
+    "deep-refresh-nov17": null
+   },
+   "groups": [
+    {
+     "title": "Deep gap-check (missed titles), 17 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4074,
+       "from_source": "deep-refresh-nov17"
+      }
+     ],
+     "from_source": "deep-refresh-nov17"
     }
    ]
   },

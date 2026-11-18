@@ -62,6 +62,97 @@
    ],
    "evidence": "Official Apatite product page for APT-214 (adult ADV, 2022) uses the title 催眠マッサージ種付けおじさん～何も知らずに孕まされる清楚人妻～ and lists the work as a fully voiced heroine ADV; the page does not add a longer prose synopsis.",
    "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "yes",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "yes",
+   "title": "9-Month Contract",
+   "year": "2025",
+   "format": "documentary",
+   "meta": "Feature documentary · Georgia / Bulgaria / Germany · Georgian · 79–80 min · directed by Ketevan Vashagashvili · original title ცხრათვიანი კონტრაქტი · world premiere at CPH:DOX 2025; US premiere at DOC NYC 2026",
+   "character": "Zhana (a single mother in Tbilisi); her teenage daughter Elene appears as family, not as a sexualized character",
+   "summary": "Official festival copy follows Zhana, a single mother working as a supermarket cashier, who becomes a surrogate for foreign couples to try to give her teenage daughter Elene a more secure life. Repeated pregnancies strain her health, and she tries to hide her changing body from Elene until her daughter begins to understand what is happening.",
+   "categories": [
+    "surrogacy-ivf-adopt"
+   ],
+   "sources": [
+    {
+     "label": "CPH:DOX",
+     "url": "https://cphdox.dk/film/9-month-contract/"
+    },
+    {
+     "label": "DOC NYC",
+     "url": "https://www.docnyc.net/film/9-month-contract/"
+    }
+   ],
+   "evidence": "Official CPH:DOX and DOC NYC pages identify Zhana as an adult single mother in Tbilisi who is paid to carry pregnancies for foreign childless couples so she can support her teenage daughter Elene, and describe the film as a documentary portrait of that surrogacy work and their relationship.",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "yes",
+   "title": "Kashpirovskiy. Under The Spell",
+   "year": "2026",
+   "format": "documentary",
+   "meta": "Feature documentary · Poland / Czech Republic · 87 min · directed by Łukasz Konopa · original title Kaszpirowski · Czech premiere at Ji.hlava 2026",
+   "character": "Soviet and post-Soviet television audiences; official festival copy also notes televised procedures on women without anaesthetic",
+   "summary": "A documentary portrait of Anatoly Kashpirovsky, a hypnotist and TV healer who became a mass-audience figure at the end of the Soviet era. Official festival copy describes televised healing séances that reached hundreds of millions, including operations on women without anaesthetic, and follows his later attempt at an internet-era comeback.",
+   "hypnotist": "Anatoly Kashpirovsky",
+   "method": "Televised mass hypnosis and healing séances",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Ji.hlava International Documentary Film Festival",
+     "url": "https://vp.eventival.com/jidff/2026/film/1308315"
+    },
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/film/global/soviet-tv-audiences-mass-hypnosis-anatoly-kashpirovskiy-1236936646/"
+    }
+   ],
+   "evidence": "Official Ji.hlava 2026 program page and a Variety report both describe Kashpirovsky as a mass-hypnosis / television-healer figure whose séances reached a Soviet audience of hundreds of millions, including televised procedures on women without anaesthetic.",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "yes",
+   "title": "KILL/SAVE",
+   "year": "2026",
+   "format": "film",
+   "meta": "Sci-fi action feature · 93 min · directed by Den Kryuchkov · produced by Olga Loyanich / Radragon Film · official pages say it is available on Apple TV, Prime Video and other digital storefronts; ComingSoon reports a digital release date of 17 Nov 2026",
+   "character": "The programmer’s girlfriend (name not stated on the official site)",
+   "summary": "Official site copy follows a lonely programmer who uses a neural interface to try to rescue his girlfriend from a virtual prison in a locked-down megacity, then confronts questions of free will when the simulation becomes indistinguishable from reality.",
+   "method": "NeuroMesh neural nanobot interface that links the brain directly to a virtual environment",
+   "categories": [
+    "scifi-tech"
+   ],
+   "sources": [
+    {
+     "label": "Official site",
+     "url": "https://www.killsave.com/"
+    },
+    {
+     "label": "Radragon Film",
+     "url": "https://www.radragonfilm.com/killsave"
+    },
+    {
+     "label": "ComingSoon",
+     "url": "https://www.comingsoon.net/movies/trailers/2213259-martial-arts-sci-fir-movie-ready-player-one-cyberpunk-exclusive"
+    }
+   ],
+   "evidence": "Official KILL/SAVE and Radragon Film pages describe a programmer who uses a neural interface to try to rescue his girlfriend from a virtual prison. ComingSoon reports a digital release on 17 Nov 2026 and identifies the film as sci-fi action directed by Den Kryuchkov. Official pages do not state the characters’ ages; there are no minor indicators.",
+   "confidence_flag": "High · 3+ sources"
   }
  ],
  "dropped": [
@@ -80,6 +171,14 @@
   {
    "title": "Illya and Chloe Hypnotized and Impregnated [AI Generated]",
    "reason": "AI-generated work using Fate/stay night characters Illya and Chloe, who are minors. Held; do not add."
+  },
+  {
+   "title": "Teen Tigada",
+   "reason": "Zee5 Hindi romance listed for 20 Nov 2026 about a young couple discovering they are expecting. Title and “teen/young couple” framing leave adulthood unverified. Held."
+  },
+  {
+   "title": "被王鹏催眠的教师美母",
+   "reason": "AI adult short drama listed on aggregator 51PAPAYA (claimed 17 Nov 2026). No official studio, festival, or major-platform page found; teacher-mother adulthood not independently verified. Held."
   }
  ]
 }
