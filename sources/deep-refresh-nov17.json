@@ -4,6 +4,82 @@
  "group_title": "Deep gap-check (missed titles), 17 Nov 2026",
  "description": "Multi-language sweep across every catalog topic, 17 Nov 2026, plus a dedicated search for AI-generated films, shorts, vertical/micro dramas, YouTube/TikTok/Bilibili/Douyin series, AI anime, and AI comics/webtoons. Focus on titles new since the 16 Nov 2026 deep refresh, plus deeper and older titles not yet found, vertical dramas, and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. AI-generated works are marked in format/meta and tagged AI-generated. This file was created at the start of the run and appended at the true end of SOURCES so existing IDs do not shift.",
  "category_labels": {},
- "records": [],
- "dropped": []
+ "records": [
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "yes",
+   "title": "巨乳人妻寝取られ催眠 ～シェアハウスで管理人と妻が…… ～",
+   "year": "2020",
+   "format": "game (adult, PC)",
+   "meta": "ADV · Japan · Japanese · Studio 偽恋 (Giren) / Lune Soft · released 28 Feb 2020 · 18+ age-gated official product page · keywords include 人妻 and 催眠",
+   "character": "高垣 織奈 (Takagaki Orina, a newlywed housewife); also 四分儀 紗璃 (Shikakui Sari, another married resident)",
+   "summary": "Newlyweds Keiichi and Orina move into a share house rumored to help couples conceive, living alongside another married couple and the young owner, who researches hypnosis. Official copy indicates the wives’ behavior toward the owner is altered so that, from the husband’s point of view, nothing seems out of the ordinary.",
+   "hypnotist": "冴渡 夭 (Saewatari Yo, the share-house owner)",
+   "method": "Hypnosis (the owner’s research hobby)",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Lune Soft",
+     "url": "https://www.lune-soft.jp/game/19432"
+    },
+    {
+     "label": "Lune Soft news",
+     "url": "https://www.lune-soft.jp/news/19444"
+    }
+   ],
+   "evidence": "Official Lune Soft product page (18+ age gate; keywords 人妻, 催眠; 28 Feb 2020) and the 15 Nov 2019 announcement name newlywed wife Orina and fellow resident wife Sari, and describe the owner as a hypnosis researcher whose influence is presented as ordinary to the husband.",
+   "confidence_flag": "Medium · 2 sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 17 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "yes",
+   "title": "催眠マッサージ種付けおじさん～何も知らずに孕まされる清楚人妻～",
+   "year": "2022",
+   "format": "game (adult, PC)",
+   "meta": "ADV · Japan · Japanese · Apatite · product APT-214 · download edition 5 Aug 2022, package edition 26 Aug 2022 · heroine fully voiced",
+   "character": "A wholesome married woman (name not stated on the official product page)",
+   "summary": "The official Apatite listing’s title describes a wholesome married woman who is hypnotized during a massage and becomes pregnant without realizing it.",
+   "hypnotist": "The massage practitioner named in the official title as 種付けおじさん",
+   "method": "Hypnosis during a massage",
+   "categories": [
+    "wife-hypnotized",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Apatite",
+     "url": "https://www.appetite-game.com/apt_214.html"
+    }
+   ],
+   "evidence": "Official Apatite product page for APT-214 (adult ADV, 2022) uses the title 催眠マッサージ種付けおじさん～何も知らずに孕まされる清楚人妻～ and lists the work as a fully voiced heroine ADV; the page does not add a longer prose synopsis.",
+   "confidence_flag": "Single source · flag"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "催眠痴漢Episode1 〜ヤリマンイジメっ子を催眠アプリでハメ堕とす〜",
+   "reason": "Official Getchu/VNDB 27 Nov 2026 hypnosis-app ADV; the target is described as an イジメっ子 (bully) in a school-coded setting. Held because adulthood is unclear and the work is likely to involve minors."
+  },
+  {
+   "title": "人妻催眠計画 ～催眠誤認で家庭円マン！～",
+   "reason": "Official VNDB/Getchu 18+ 2017 ADV about a father and son using hypnosis on a beautiful mother and daughter. VNDB tags include Student Heroine. Held because the daughter’s adulthood is unclear."
+  },
+  {
+   "title": "催眠母",
+   "reason": "Official 筆柿そふと 2014 ADV. A school nurse prompts the protagonist, who lives alone after his father’s death and is described as longing for a mother, to use hypnosis to obtain one. Held because the protagonist appears student-linked and adulthood is unverified."
+  },
+  {
+   "title": "Illya and Chloe Hypnotized and Impregnated [AI Generated]",
+   "reason": "AI-generated work using Fate/stay night characters Illya and Chloe, who are minors. Held; do not add."
+  }
+ ]
 }
