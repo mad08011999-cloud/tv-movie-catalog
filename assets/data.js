@@ -13476,6 +13476,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "deep-refresh-nov19-b",
+   "label": "Deep refresh (19 Nov 2026), part B: hypnotized and pregnant (again), adult store listings",
+   "kind": "local",
+   "share_url": "sources/deep-refresh-nov19-b.json",
+   "description": "Second track of the 19 Nov 2026 deep refresh, focused on the core question: an adult woman is hypnotized and becomes pregnant (again), whether the couple ends up with the child(ren), and whether she already had children. Swept web search in English, Japanese, Chinese, Korean, Thai, Indonesian, Turkish, Spanish and Hindi; vertical/short-drama aggregators (ReelShort, DramaBox, ShortMax, GoodShort, NetShort, DramaSpot, MicroDramaList, DramaDb); TikTok/Instagram/YouTube/Bilibili via web search; X public search; AI-generated works; and official DLsite store listings and DLsite's public product API (genre filters 催眠 + 妊娠/孕ませ + 人妻/母親/出産). Mainstream screen leads found this run were already in the catalog, so the new records are adult (18+) doujin manga, CG works, games and audio dramas. Adults only; anything with minors, school-age targets, child narrators or children present during sexual content is held in dropped. Non-explicit notes; plots come only from the official listing text; uncertain outcomes are marked unknown/not stated. Kept separate from sources/deep-refresh-nov19.json because a parallel run was writing that file; appended at the true end of SOURCES so existing IDs do not shift.",
+   "dropped": [],
+   "check": {
+    "raw_count": 0,
+    "ok": false
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -13587,7 +13600,8 @@ window.CATALOG = {
   "deep-refresh-nov17": 6,
   "deep-refresh-nov19": 3,
   "partner-hypnosis-nov19": 1,
-  "partner-hypnosis-nov19b": 3
+  "partner-hypnosis-nov19b": 3,
+  "deep-refresh-nov19-b": 0
  },
  "raw_total": 7708,
  "entry_count": 3889,

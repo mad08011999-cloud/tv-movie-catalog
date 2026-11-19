@@ -246,6 +246,8 @@ SOURCES = [
      "local": "sources/partner-hypnosis-nov19.json", "required": True},
     {"id": "partner-hypnosis-nov19b", "label": "Hypnotized by her own partner — worldwide sweep, part B (19 Nov 2026)",
      "local": "sources/partner-hypnosis-nov19b.json", "required": False},
+    {"id": "deep-refresh-nov19-b", "label": "Deep refresh (19 Nov 2026), part B: hypnotized and pregnant (again), adult store listings",
+     "local": "sources/deep-refresh-nov19-b.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
