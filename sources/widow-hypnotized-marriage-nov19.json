@@ -1,0 +1,120 @@
+{
+ "id": "widow-hypnotized-marriage-nov19",
+ "label": "Widow hypnotized into marriage — worldwide sweep (19 Nov 2026)",
+ "group_title": "Widow hypnotized into marriage (19 Nov 2026)",
+ "description": "Worldwide sweep for fiction where a widow is hypnotized (by the man who wants to marry her, or by someone acting for him) into marrying. Each record notes whether she already had children (kids_status / kids_note) and whether the new couple has children (kids_together, pregnancy_outcome / pregnancy_note). Searched the web in English, Japanese, Chinese, Korean, Thai, Indonesian, Filipino, Hindi, Spanish/Portuguese, French/Italian and Russian; TMDB hypnosis × widow keyword intersections; TV Tropes Brainwashed Bride; short-drama aggregators; DLsite's official genre filter (未亡人 × 催眠/洗脳/常識改変) and product API; TikTok/Instagram/YouTube and AI-generated works via web search. Leads already in data.json were skipped without re-checking, at the owner's request. Adults only; anything with minors or unclear adulthood is held in dropped. No new category: records use the existing hypnotized-to-marry, hypnotized-marriage and widow-divorcee categories. Appended at the end of SOURCES so existing IDs don't shift.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "親戚のおばさんが嫁を探せとうるさいので俺の嫁にした",
+   "year": "2020",
+   "format": "digital manga (adult doujin, DLsite / FANZA)",
+   "standalone": true,
+   "meta": "Manga · Japan · Japanese · circle 箱舟 (Hakobune) · DLsite RJ281617 / FANZA d_174625 · released 19 Mar 2020 · 25 pages · R18 · genres 熟女, 未亡人, 催眠 (トランス/暗示), 寝取り",
+   "character": "The protagonist's widowed relative (親戚のおばさん), a mature woman",
+   "summary": "Official copy: in a remote countryside village with no young women, the man's widowed older relative keeps nagging him to find a bride, so he makes her his bride instead (\"嫁探しは身近な熟女!\"). The official genres list 未亡人 (widow) and 催眠 (hypnosis); other store listings tag it トランス/暗示 (trance/suggestion), i.e. she is hypnotized into becoming his wife.",
+   "hypnotist": "The man who wants to marry her (her younger relative)",
+   "method": "Hypnosis / trance suggestion (per official genre tags)",
+   "gain_motive": "A wife (no young women in the village)",
+   "married": "yes",
+   "married_note": "Title: 俺の嫁にした (\"I made her my bride/wife\").",
+   "kids_status": "unknown",
+   "kids_note": "Prior children from her late husband: not stated in the official listing.",
+   "kids_together": "unknown",
+   "kids_together_note": "Children with the new husband: not stated.",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "No pregnancy is mentioned in the official listing (no 妊娠/孕ませ genre).",
+   "categories": [
+    "hypnotized-to-marry",
+    "hypnotized-marriage",
+    "widow-divorcee",
+    "adult-hypnosis",
+    "hypno-intimacy"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page, RJ281617)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ281617.html"
+    },
+    {
+     "label": "DLsite product API (official listing data: genres 未亡人, 催眠)",
+     "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ281617"
+    },
+    {
+     "label": "Open is… listing (tags 未亡人, トランス/暗示)",
+     "url": "https://openis.xvps.jp/erodojin/titles/18721"
+    },
+    {
+     "label": "Doujin price page (FANZA d_174625 / DLsite)",
+     "url": "https://doujin-kakaku.com/work/d_174625/"
+    }
+   ],
+   "evidence": "DLsite product data for RJ281617 (title, 19 Mar 2020 release, genres 未亡人 + 催眠, intro text); Open is… lists the same work with トランス/暗示 and 未亡人 tags; doujin-kakaku confirms the FANZA listing d_174625.",
+   "fit_note": "Widow + hypnosis + marriage all come from the official title and genre tags; the listing text is short, so how the hypnosis leads to the marriage is not described in detail. Both characters are adults (熟女; a man looking for a bride).",
+   "confidence_flag": "medium · official listing (title + genres) plus one secondary listing",
+   "adult": "yes",
+   "tags": [
+    "widow-hypnotized-marriage-nov19",
+    "adult doujin",
+    "saimin",
+    "widow"
+   ],
+   "provenance": "Widow hypnotized into marriage sweep, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "彼女に新しいパパができた 前編 / 後編(上) / 後編(下) (530, DLsite RJ01291881 / RJ01377153 / RJ01464590, 2024–2025)",
+   "reason": "Plot fits exactly (a hypnotist marries the widowed mother as her new husband, and she has his child), but the listing centres on her high-school (JK) daughter as a sexual target. Minors. Do not add."
+  },
+  {
+   "title": "未亡人 淫靡な情欲 (なんでもいいサークル, DLsite RJ180105, 2016)",
+   "reason": "Widow + hypnosis/brainwashing branching sim, but the official listing doesn't mention marriage. Held."
+  },
+  {
+   "title": "Existence Rewrite III: The Faithful Widow Recast as a Passionate Companion (精神凌辱, RJ01686416, 2026) / 存在書換シリーズ:貞淑な未亡人から男漁りの牝犬へ (RJ419803, 2022)",
+   "reason": "Widow mind-rewritten, but no marriage in the listing. RJ419803's controller is a 男子学生 (student), so adulthood is unclear. Held."
+  },
+  {
+   "title": "魂の収穫者:未亡人の有効活用法 (精神凌辱, RJ01010692, 2022)",
+   "reason": "Widow brainwashed by a demon (soul contract); no marriage. Held."
+  },
+  {
+   "title": "義理の母を魔術催眠で性欲処理係に/未亡人女王と臣下の僕 (マン汁チーズ, RJ01048163, 2023)",
+   "reason": "Widowed queen stepmother hypnotized by her stepson; no marriage stated and the son's age isn't given. Held."
+  },
+  {
+   "title": "催眠カノジョ 彼女の母 高梨桜佳 (一葉モカ_ショコラテ, RJ397565, 2022)",
+   "reason": "The girlfriend's widowed mother is hypnotized; no marriage, and the series girlfriend's adulthood is unclear. Held."
+  },
+  {
+   "title": "おばさんの初めての心のトリック (DanGames, RJ01282196, 2024)",
+   "reason": "Mind-control book used on an aunt (tagged widow in search snippets); no marriage, and the protagonist's age isn't stated. Held."
+  },
+  {
+   "title": "The Widow After Hypnosis Was Lifted (催眠解除后的未亡人, SFACG web novel by Suboa, 2025)",
+   "reason": "Order reversed: Lina is hypnotized into a ten-year marriage (two children) and only becomes a widow after her husband dies. Also a genderbend/BL-tagged reading work. Near miss (https://daosearch.io/sfacg/book/734184/the-widow-after-hypnosis-was-lifted)."
+  },
+  {
+   "title": "寡妇的催眠生活 (QQ阅读 short story, 北漂小狼, 2023)",
+   "reason": "A 38-year-old widow is hypnotized by a doctor on behalf of her married boss to become his obedient receptionist/mistress. No marriage. Near miss (https://book.qq.com/book-detail/47070491)."
+  },
+  {
+   "title": "The Magnetist's Heirloom (D.L. Fitzger, 2026 novel)",
+   "reason": "A Victorian widow is mesmerized by the magnetist Voss into an obedient alter ego; the blurb doesn't mention marriage. Held (https://www.romance.io/books/6aba40ca83ffb8bcaa54e727/)."
+  },
+  {
+   "title": "Bound by Duty (ReelShort, 2025)",
+   "reason": "A widow is forced into marriage with a mafia boss, but there's no hypnosis. Not a fit."
+  },
+  {
+   "title": "Swati Mutyam (1985, Telugu)",
+   "reason": "Widow remarriage story with no hypnosis. Not a fit."
+  },
+  {
+   "title": "TikTok / Instagram / YouTube AI-drama search",
+   "reason": "site:tiktok.com, site:instagram.com and YouTube AI-drama searches found no verifiable work with a widow hypnotized into marriage (only forced-marriage AI dramas without hypnosis and husband-hypnotizes-wife reels already covered). Nothing added."
+  }
+ ]
+}
