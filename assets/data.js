@@ -13676,6 +13676,56 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "deep-refresh-nov19-pregnant-partner",
+   "label": "Pregnant woman controlled by her partner (19 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/deep-refresh-nov19-pregnant-partner.json",
+   "description": "Worldwide sweep, 19 Nov 2026, for titles in which a pregnant adult woman is hypnotized, entranced or mind-controlled by her partner (husband, boyfriend, fiancé, lover, the baby's father or an ex), or in which the partner engages a hypnotist for her. Searched the web, X, TikTok and Instagram (social posts used only as leads). Existing titles gain only missing categories and fields under the usual merge rules. Adults only; non-explicit notes; stories centered on a hypnotized woman being used for sex are not added. This file is appended at the true end of SOURCES so existing IDs do not shift.",
+   "dropped": [
+    {
+     "title": "Ultrasound (2021)",
+     "reason": "Already in the catalog (partner-pregnant-hire). Not changed: its backstory has the hypnotist targeting the woman when she was 17."
+    },
+    {
+     "title": "催眠眼镜 / Hypnosis Glasses (AI short drama)",
+     "reason": "Already recorded. Its pregnancy listing is a hypnosis-for-sex premise. Not added."
+    },
+    {
+     "title": "START-614 (2026 JAV)",
+     "reason": "Already in the catalog. A hypnosis-for-sex premise, so no partner or pregnancy fields were added."
+    },
+    {
+     "title": "Past Life (2026)",
+     "reason": "The pregnant wife Claira is not hypnotized; her husband Jason is. Not a fit."
+    },
+    {
+     "title": "Married to Officer, Pregnant Specialist Becomes the Winner! (web novel)",
+     "reason": "Dr. Henry hypnotizes the mother-in-law A Wan into forgetting her husband and child. She is not pregnant, and it's a web novel with no screen adaptation found. Not added."
+    },
+    {
+     "title": "Tied to My Dangerous Mafia Husband (iDrama)",
+     "reason": "The pregnancy follows amnesia, not hypnosis by her partner, and the romance is between foster siblings. Not added."
+    },
+    {
+     "title": "Convicted by Hypnotism (1912)",
+     "reason": "EOFFTV: a woman kills her father under her husband's hypnotic influence, but no pregnancy is stated. Left for a general sweep; not added here."
+    },
+    {
+     "title": "Controlling My Husband (2024)",
+     "reason": "Already recorded (hypnotized-marriage). The pregnant wife is the one who enlists a witch against her husband, not the one controlled. Not a fit."
+    },
+    {
+     "title": "X / TikTok / Instagram leads",
+     "reason": "Searches turned up hypnosis-for-sex AI clips (excluded) and figurative uses; no new partner-hypnotizes-pregnant-wife title was confirmed by a non-social source."
+    }
+   ],
+   "check": {
+    "raw_count": 4,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -13789,10 +13839,11 @@ window.CATALOG = {
   "partner-hypnosis-nov19": 1,
   "partner-hypnosis-nov19b": 3,
   "deep-refresh-nov19-b": 36,
-  "partner-hypnosis-nov19c": 2
+  "partner-hypnosis-nov19c": 2,
+  "deep-refresh-nov19-pregnant-partner": 4
  },
- "raw_total": 7746,
- "entry_count": 3926,
+ "raw_total": 7750,
+ "entry_count": 3927,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13864,7 +13915,7 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 133
+   "entry_count": 134
   },
   {
    "key": "fantasy",
@@ -13882,13 +13933,13 @@ window.CATALOG = {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 94
+   "entry_count": 97
   },
   {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 221
+   "entry_count": 222
   },
   {
    "key": "hypnotized-to-marry",
@@ -13930,7 +13981,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 164
+   "entry_count": 166
   },
   {
    "key": "index-54",
@@ -13960,7 +14011,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 207
+   "entry_count": 208
   },
   {
    "key": "royal-hypnosis",
@@ -13984,7 +14035,7 @@ window.CATALOG = {
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 45
+   "entry_count": 46
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -14044,13 +14095,13 @@ window.CATALOG = {
    "key": "partner-pregnant-hire",
    "label": "Partner engages a hypnotist for his pregnant wife/girlfriend",
    "legend_label": "Partner engages a hypnotist for his pregnant wife/girlfriend",
-   "entry_count": 1
+   "entry_count": 2
   },
   {
    "key": "partner-commissioned",
    "label": "Partner hires a third party to control wife / girlfriend",
    "legend_label": "Partner hires a third-party controller",
-   "entry_count": 17
+   "entry_count": 18
   },
   {
    "key": "index-48",
@@ -14086,7 +14137,7 @@ window.CATALOG = {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
    "legend_label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 51
+   "entry_count": 52
   },
   {
    "key": "pregnancy-adjacent",
@@ -14170,13 +14221,13 @@ window.CATALOG = {
    "key": "index-37",
    "label": "Pregnant woman hypnotized / mind-controlled",
    "legend_label": "Pregnant woman hypnotized / mind-controlled",
-   "entry_count": 20
+   "entry_count": 21
   },
   {
    "key": "pregnant-strict",
    "label": "Pregnant woman hypnotized while pregnant — strict core",
    "legend_label": "Pregnant woman hypnotized while pregnant — strict core",
-   "entry_count": 20
+   "entry_count": 21
   },
   {
    "key": "pregnancy-evil",
@@ -14344,7 +14395,7 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 234
+   "entry_count": 236
   },
   {
    "key": "therapist-wife",
@@ -47708,15 +47759,18 @@ window.CATALOG = {
    "tags": [
     "loose fit"
    ],
-   "kids_status": "unknown",
-   "kids_together": "unknown",
-   "kids_together_note": "no human perpetrator; the father is an alien entity",
+   "hypnotist": "Bob, a hypnotist brought in by her husband David",
+   "kids_status": "no",
+   "kids_note": "No earlier children; Wikipedia notes only earlier pregnancy troubles that put her health at risk.",
+   "kids_together": "no",
+   "kids_together_note": "She gives birth to the alien child (David had a vasectomy) and is taken away by the spacecraft; the couple have no child together.",
    "married": "yes",
    "married_note": "married to David",
    "pregnant_end": "yes",
    "pregnant_end_note": "gives birth to the alien child before she is taken away",
    "evidence": "2+ independent sources (Wikipedia, Moria)",
    "fit_note": "Loose fit: hypnosis is investigative; the impregnation is by an alien beam, with no sexual assault by a man.",
+   "adult": "yes",
    "already_married": "yes",
    "already_married_note": "Yes — husband: David Collins (wife Ann)",
    "format": "tv",
@@ -47726,7 +47780,9 @@ window.CATALOG = {
     "index-37",
     "pregnant",
     "scifi",
-    "wife-hypnotized"
+    "wife-hypnotized",
+    "partner-pregnant-hire",
+    "partner-commissioned"
    ],
    "sources": [
     {
@@ -47747,14 +47803,16 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "hypnosis-assault-loose",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "source_records": [
     "xla62ucxbx02u5:140",
     "ig6qlxqxoxvcxla:838",
     "ig6qlxqxoxvcxla:859",
     "hypnosis-assault-loose:22",
-    "wife-hypnosis-oct15:98"
+    "wife-hypnosis-oct15:98",
+    "deep-refresh-nov19-pregnant-partner:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -47920,6 +47978,42 @@ window.CATALOG = {
      "already_married_note": "Yes — husband: David Collins (wife Ann)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "deep-refresh-nov19-pregnant-partner:2",
+     "source": "deep-refresh-nov19-pregnant-partner",
+     "label": "The Stranger Within (1974)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Stranger Within",
+     "subtitle": "",
+     "year": "1974",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "partner-pregnant-hire",
+      "partner-commissioned"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Stranger_Within_(1974_film)"
+      }
+     ],
+     "hypnotist": "Bob, a hypnotist brought in by her husband David",
+     "kids_status": "no",
+     "kids_note": "No earlier children; Wikipedia notes only earlier pregnancy troubles that put her health at risk.",
+     "kids_together": "no",
+     "kids_together_note": "She gives birth to the alien child (David had a vasectomy) and is taken away by the spacecraft; the couple have no child together.",
+     "evidence": "Wikipedia: 'David wants Bob, a hypnotist, to see if he can obtain any information about why Ann is acting so strangely'; Ann is pregnant despite David's vasectomy.",
+     "adult": "yes",
+     "distinct_story": false,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -48047,6 +48141,32 @@ window.CATALOG = {
      ],
      "already_married": "yes",
      "already_married_note": "Yes — husband: David Collins (wife Ann)"
+    },
+    "deep-refresh-nov19-pregnant-partner:2": {
+     "title": "The Stranger Within",
+     "year": "1974",
+     "adult": "yes",
+     "provenance": "Deep refresh, 19 Nov 2026 PT — pregnant woman controlled by her partner (adults only; non-explicit notes)",
+     "categories": [
+      "partner-pregnant-hire",
+      "partner-commissioned"
+     ],
+     "hypnotist": "Bob, a hypnotist brought in by her husband David",
+     "override_fields": [
+      "kids_together",
+      "kids_status"
+     ],
+     "kids_together": "no",
+     "kids_together_note": "She gives birth to the alien child (David had a vasectomy) and is taken away by the spacecraft; the couple have no child together.",
+     "kids_status": "no",
+     "kids_note": "No earlier children; Wikipedia notes only earlier pregnancy troubles that put her health at risk.",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Stranger_Within_(1974_film)"
+      }
+     ],
+     "evidence": "Wikipedia: 'David wants Bob, a hypnotist, to see if he can obtain any information about why Ann is acting so strangely'; Ann is pregnant despite David's vasectomy."
     }
    }
   },
@@ -50688,13 +50808,28 @@ window.CATALOG = {
    "character": "",
    "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card",
    "note": "",
+   "pregnancy_outcome": "loses the pregnancy and dies",
+   "pregnancy_note": "Craig flatlines her to remove the alien fetus and cannot revive her; he is arrested for her murder.",
    "tags": [
     "bestsimilar-hypnosis-6496"
    ],
+   "hypnotist": "Dr. Craig Burton (her husband), with UFOlogist Dr. Bert Clavell",
+   "method": "Sodium pentothal injection used to hypnotize her into recalling the abduction",
+   "kids_status": "no",
+   "kids_note": "No earlier children are mentioned.",
+   "kids_together": "no",
+   "kids_together_note": "No child; the pregnancy came from alien insemination and ends with her death.",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia: 'Craig injects her with sodium pentathol to help hypnotize her to recall her abduction'; he later performs surgery to remove the fetus, she cannot be revived, and Craig is arrested for her murder.",
+   "adult": "yes",
    "format": "movie",
    "categories": [
     "pregnancy-evil",
-    "pregnant-child"
+    "pregnant-child",
+    "partner-control",
+    "wife-hypnotized",
+    "index-37",
+    "pregnant-strict"
    ],
    "sources": [
     {
@@ -50722,13 +50857,15 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "source_records": [
     "xla62ucxbx02u5:149",
     "ig6qlxqxoxvcxla:841",
     "ig6qlxqxoxvcxla:897",
-    "hypnosis-bestsimilar-nov5:141"
+    "hypnosis-bestsimilar-nov5:141",
+    "deep-refresh-nov19-pregnant-partner:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -50850,6 +50987,48 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "deep-refresh-nov19-pregnant-partner:3",
+     "source": "deep-refresh-nov19-pregnant-partner",
+     "label": "Progeny (1998)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Progeny",
+     "subtitle": "",
+     "year": "1998",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "partner-control",
+      "wife-hypnotized",
+      "index-37",
+      "pregnant-strict"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Progeny_(film)"
+      }
+     ],
+     "pregnancy_outcome": "loses the pregnancy and dies",
+     "pregnancy_note": "Craig flatlines her to remove the alien fetus and cannot revive her; he is arrested for her murder.",
+     "hypnotist": "Dr. Craig Burton (her husband), with UFOlogist Dr. Bert Clavell",
+     "method": "Sodium pentothal injection used to hypnotize her into recalling the abduction",
+     "kids_status": "no",
+     "kids_note": "No earlier children are mentioned.",
+     "kids_together": "no",
+     "kids_together_note": "No child; the pregnancy came from alien insemination and ends with her death.",
+     "pregnant_end": "no",
+     "evidence": "Wikipedia: 'Craig injects her with sodium pentathol to help hypnotize her to recall her abduction'; he later performs surgery to remove the fetus, she cannot be revived, and Craig is arrested for her murder.",
+     "adult": "yes",
+     "distinct_story": false,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -50917,6 +51096,34 @@ window.CATALOG = {
       "bestsimilar-hypnosis-6496"
      ],
      "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
+    },
+    "deep-refresh-nov19-pregnant-partner:3": {
+     "title": "Progeny",
+     "year": "1998",
+     "adult": "yes",
+     "provenance": "Deep refresh, 19 Nov 2026 PT — pregnant woman controlled by her partner (adults only; non-explicit notes)",
+     "categories": [
+      "partner-control",
+      "wife-hypnotized",
+      "index-37",
+      "pregnant-strict"
+     ],
+     "hypnotist": "Dr. Craig Burton (her husband), with UFOlogist Dr. Bert Clavell",
+     "method": "Sodium pentothal injection used to hypnotize her into recalling the abduction",
+     "pregnancy_outcome": "loses the pregnancy and dies",
+     "pregnancy_note": "Craig flatlines her to remove the alien fetus and cannot revive her; he is arrested for her murder.",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_together_note": "No child; the pregnancy came from alien insemination and ends with her death.",
+     "kids_status": "no",
+     "kids_note": "No earlier children are mentioned.",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Progeny_(film)"
+      }
+     ],
+     "evidence": "Wikipedia: 'Craig injects her with sodium pentathol to help hypnotize her to recall her abduction'; he later performs surgery to remove the fetus, she cannot be revived, and Craig is arrested for her murder."
     }
    }
   },
@@ -56810,11 +57017,26 @@ window.CATALOG = {
    "confidence_flag": "Medium confidence · no supernatural force",
    "summary": "Pregnant Lucy is covertly monitored, medicated, medically manipulated, gaslit and controlled by Dr. Hindle and her husband Adrian. The control is human, not supernatural.",
    "character": "",
-   "provenance": "",
+   "provenance": "Deep refresh, 19 Nov 2026 PT — pregnant woman controlled by her partner (adults only; non-explicit notes)",
    "note": "",
+   "pregnancy_outcome": "gives birth to twin boys",
+   "pregnancy_note": "The female fetus was removed in a 'reduction'. Lucy delivers twin boys, and Hindle reveals they are biologically his, not Adrian's.",
+   "hypnotist": "Her husband Adrian, with fertility doctor Dr. John Hindle",
+   "method": "Medication, surveillance and gaslighting (no hypnosis)",
+   "kids_status": "no",
+   "kids_note": "The couple had been trying to conceive for two years; no earlier children.",
+   "kids_together": "no",
+   "kids_together_note": "Twins born, but biologically Hindle's, not her husband's.",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia plot: Lucy is monitored and medicated, and Adrian is complicit with Hindle; she gives birth to the male twins; Hindle reveals the twins are biologically his.",
+   "fit_note": "Loose fit: the control is medical and psychological, not hypnosis.",
+   "adult": "yes",
    "format": "movie",
    "categories": [
-    "pregnancy-evil"
+    "pregnancy-evil",
+    "partner-control",
+    "wife",
+    "tech"
    ],
    "sources": [
     {
@@ -56829,11 +57051,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "source_records": [
     "xla62ucxbx02u5:172",
-    "ig6qlxqxoxvcxla:923"
+    "ig6qlxqxoxvcxla:923",
+    "deep-refresh-nov19-pregnant-partner:4"
    ],
    "index_only": false,
    "local_only": false,
@@ -56893,6 +57117,48 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "False Positive (2021)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "deep-refresh-nov19-pregnant-partner:4",
+     "source": "deep-refresh-nov19-pregnant-partner",
+     "label": "False Positive (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "False Positive",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "partner-control",
+      "wife",
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/False_Positive_(film)"
+      }
+     ],
+     "pregnancy_outcome": "gives birth to twin boys",
+     "pregnancy_note": "The female fetus was removed in a 'reduction'. Lucy delivers twin boys, and Hindle reveals they are biologically his, not Adrian's.",
+     "hypnotist": "Her husband Adrian, with fertility doctor Dr. John Hindle",
+     "method": "Medication, surveillance and gaslighting (no hypnosis)",
+     "kids_status": "no",
+     "kids_note": "The couple had been trying to conceive for two years; no earlier children.",
+     "kids_together": "no",
+     "kids_together_note": "Twins born, but biologically Hindle's, not her husband's.",
+     "pregnant_end": "no",
+     "evidence": "Wikipedia plot: Lucy is monitored and medicated, and Adrian is complicit with Hindle; she gives birth to the male twins; Hindle reveals the twins are biologically his.",
+     "fit_note": "Loose fit: the control is medical and psychological, not hypnosis.",
+     "adult": "yes",
+     "distinct_story": false,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -56925,6 +57191,34 @@ window.CATALOG = {
      "group": "Medium-confidence close variants",
      "confidence": "Medium / close",
      "note": ""
+    },
+    "deep-refresh-nov19-pregnant-partner:4": {
+     "title": "False Positive",
+     "year": "2021",
+     "adult": "yes",
+     "provenance": "Deep refresh, 19 Nov 2026 PT — pregnant woman controlled by her partner (adults only; non-explicit notes)",
+     "categories": [
+      "partner-control",
+      "wife",
+      "tech"
+     ],
+     "hypnotist": "Her husband Adrian, with fertility doctor Dr. John Hindle",
+     "method": "Medication, surveillance and gaslighting (no hypnosis)",
+     "pregnancy_outcome": "gives birth to twin boys",
+     "pregnancy_note": "The female fetus was removed in a 'reduction'. Lucy delivers twin boys, and Hindle reveals they are biologically his, not Adrian's.",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_together_note": "Twins born, but biologically Hindle's, not her husband's.",
+     "kids_status": "no",
+     "kids_note": "The couple had been trying to conceive for two years; no earlier children.",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/False_Positive_(film)"
+      }
+     ],
+     "evidence": "Wikipedia plot: Lucy is monitored and medicated, and Adrian is complicit with Hindle; she gives birth to the male twins; Hindle reveals the twins are biologically his.",
+     "fit_note": "Loose fit: the control is medical and psychological, not hypnosis."
     }
    }
   },
@@ -606513,6 +606807,106 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 4122,
+   "title": "Virrudh",
+   "subtitle": "",
+   "year": "2007–2008",
+   "meta": "Hindi soap opera · India · Sony TV · 26 Mar 2007 – 17 Jan 2008 · Ugraya Entertainment / Applause Entertainment · starring Smriti Irani · also spelled Viruddh",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources (plot detail from a fan recap)",
+   "summary": "Shreya marries Siddharth against her sister Vasudha's wishes, not knowing that he is already married to Naina (Natasha). Siddharth hypnotizes Shreya and makes her shoot her father, Dhirendra, who dies. Later, while pregnant, Shreya learns the truth about Siddharth and vows revenge. A recording of her confession, made by another hypnotist, is later used for blackmail.",
+   "character": "Shreya (Dhirendra Raisinghania's daughter, married to Siddharth)",
+   "provenance": "Deep refresh, 19 Nov 2026 PT — pregnant woman controlled by her partner (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_outcome": "pregnant (outcome not stated)",
+   "pregnancy_note": "Pregnant during the revenge arc, presumably by her husband Siddharth; the source doesn't state the father or the outcome.",
+   "hypnotist": "Siddharth (her husband)",
+   "method": "Hypnosis (made to shoot her father)",
+   "kids_status": "no",
+   "kids_note": "No children before this marriage are mentioned.",
+   "kids_together": "unknown",
+   "kids_together_note": "The source doesn't say whether the child is born.",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "The source describes Shreya as pregnant after the hypnosis storyline, when she learns the truth. The birth outcome isn't stated.",
+   "evidence": "India Forums recap: 'Shreya is hypnotised by her hubby Siddharth and he makes her shoot her Dad'; later 'Shreya is pregnant, comes to know the truth behind Siddharth and vows to get revenge.' Wikipedia confirms the series, its channel and its run.",
+   "adult": "yes",
+   "format": "tv",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized",
+    "crime",
+    "india-control",
+    "indian-female-hypnosis",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "India Forums (episode recap)",
+     "url": "https://www.indiaforums.com/forum/viruddh-har-rishta-ek-kurukshetra/814210/help"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Virrudh"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-pregnant-partner"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-pregnant-partner:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-pregnant-partner:1": {
+     "title": "Virrudh",
+     "year": "2007–2008",
+     "format": "tv",
+     "adult": "yes",
+     "provenance": "Deep refresh, 19 Nov 2026 PT — pregnant woman controlled by her partner (adults only; non-explicit notes)",
+     "meta": "Hindi soap opera · India · Sony TV · 26 Mar 2007 – 17 Jan 2008 · Ugraya Entertainment / Applause Entertainment · starring Smriti Irani · also spelled Viruddh",
+     "character": "Shreya (Dhirendra Raisinghania's daughter, married to Siddharth)",
+     "summary": "Shreya marries Siddharth against her sister Vasudha's wishes, not knowing that he is already married to Naina (Natasha). Siddharth hypnotizes Shreya and makes her shoot her father, Dhirendra, who dies. Later, while pregnant, Shreya learns the truth about Siddharth and vows revenge. A recording of her confession, made by another hypnotist, is later used for blackmail.",
+     "hypnotist": "Siddharth (her husband)",
+     "method": "Hypnosis (made to shoot her father)",
+     "categories": [
+      "wife",
+      "partner-control",
+      "wife-hypnotized",
+      "crime",
+      "india-control",
+      "indian-female-hypnosis",
+      "pregnant-variants"
+     ],
+     "pregnant_end": "yes",
+     "pregnant_end_note": "The source describes Shreya as pregnant after the hypnosis storyline, when she learns the truth. The birth outcome isn't stated.",
+     "pregnancy_outcome": "pregnant (outcome not stated)",
+     "pregnancy_note": "Pregnant during the revenge arc, presumably by her husband Siddharth; the source doesn't state the father or the outcome.",
+     "kids_together": "unknown",
+     "kids_together_note": "The source doesn't say whether the child is born.",
+     "kids_status": "no",
+     "kids_note": "No children before this marriage are mentioned.",
+     "sources": [
+      {
+       "label": "India Forums (episode recap)",
+       "url": "https://www.indiaforums.com/forum/viruddh-har-rishta-ek-kurukshetra/814210/help"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Virrudh"
+      }
+     ],
+     "evidence": "India Forums recap: 'Shreya is hypnotised by her hubby Siddharth and he makes her shoot her Dad'; later 'Shreya is pregnant, comes to know the truth behind Siddharth and vows to get revenge.' Wikipedia confirms the series, its channel and its run.",
+     "confidence_flag": "Medium · 2 sources (plot detail from a fan recap)"
+    }
+   }
   }
  ],
  "sections": [
@@ -614861,7 +615255,8 @@ window.CATALOG = {
     "saimin-sweep-nov11",
     "deep-refresh-nov16",
     "deep-refresh-nov19",
-    "partner-hypnosis-nov19c"
+    "partner-hypnosis-nov19c",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "groups": [
     {
@@ -615598,6 +615993,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "partner-hypnosis-nov19c"
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 171,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
    ],
    "declared_count_by_source": {
@@ -615633,7 +616039,8 @@ window.CATALOG = {
     "saimin-sweep-nov11": null,
     "deep-refresh-nov16": null,
     "deep-refresh-nov19": null,
-    "partner-hypnosis-nov19c": null
+    "partner-hypnosis-nov19c": null,
+    "deep-refresh-nov19-pregnant-partner": null
    }
   },
   {
@@ -619318,7 +619725,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r3",
     "vashikaran-nov11",
     "partner-hypnosis-nov11",
-    "therapist-hypnosis-nov12"
+    "therapist-hypnosis-nov12",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 57,
@@ -619350,7 +619758,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r3": null,
     "vashikaran-nov11": null,
     "partner-hypnosis-nov11": null,
-    "therapist-hypnosis-nov12": null
+    "therapist-hypnosis-nov12": null,
+    "deep-refresh-nov19-pregnant-partner": null
    },
    "groups": [
     {
@@ -620798,6 +621207,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "vashikaran-nov11"
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4122,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
    ]
   },
@@ -620842,7 +621262,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19",
     "partner-hypnosis-nov19b",
     "deep-refresh-nov19-b",
-    "partner-hypnosis-nov19c"
+    "partner-hypnosis-nov19c",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "groups": [
     {
@@ -621898,6 +622319,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "partner-hypnosis-nov19b"
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 171,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      },
+      {
+       "id": 148,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      },
+      {
+       "id": 4122,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
    ],
    "declared_count_by_source": {
@@ -621924,7 +622364,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19": null,
     "partner-hypnosis-nov19b": null,
     "deep-refresh-nov19-b": null,
-    "partner-hypnosis-nov19c": null
+    "partner-hypnosis-nov19c": null,
+    "deep-refresh-nov19-pregnant-partner": null
    }
   },
   {
@@ -627707,7 +628148,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6",
     "vertical-hypnosis-nov6-r2",
     "partner-hypnosis-nov11",
-    "therapist-hypnosis-nov12"
+    "therapist-hypnosis-nov12",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "groups": [
     {
@@ -627992,6 +628434,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "therapist-hypnosis-nov12"
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 139,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
    ],
    "declared_count_by_source": {
@@ -628002,7 +628455,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6": null,
     "vertical-hypnosis-nov6-r2": null,
     "partner-hypnosis-nov11": null,
-    "therapist-hypnosis-nov12": null
+    "therapist-hypnosis-nov12": null,
+    "deep-refresh-nov19-pregnant-partner": null
    }
   },
   {
@@ -628046,7 +628500,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19",
     "partner-hypnosis-nov19b",
     "deep-refresh-nov19-b",
-    "partner-hypnosis-nov19c"
+    "partner-hypnosis-nov19c",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "groups": [
     {
@@ -629673,6 +630128,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "partner-hypnosis-nov19b"
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 171,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      },
+      {
+       "id": 4122,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
    ],
    "declared_count_by_source": {
@@ -629710,7 +630180,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19": null,
     "partner-hypnosis-nov19b": null,
     "deep-refresh-nov19-b": null,
-    "partner-hypnosis-nov19c": null
+    "partner-hypnosis-nov19c": null,
+    "deep-refresh-nov19-pregnant-partner": null
    }
   },
   {
@@ -630791,7 +631262,8 @@ window.CATALOG = {
     "hypno-sex-nov12",
     "therapist-hypnosis-nov12",
     "husband-hypnosis-nov12",
-    "deep-refresh-nov19"
+    "deep-refresh-nov19",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "groups": [
     {
@@ -632015,6 +632487,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov19"
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4122,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
    ],
    "declared_count_by_source": {
@@ -632054,7 +632537,8 @@ window.CATALOG = {
     "hypno-sex-nov12": null,
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
-    "deep-refresh-nov19": null
+    "deep-refresh-nov19": null,
+    "deep-refresh-nov19-pregnant-partner": null
    }
   },
   {
@@ -635931,14 +636415,16 @@ window.CATALOG = {
     "official-yt-oct15",
     "streaming-oct15",
     "hypnosis-yt-oct15",
-    "hypno-india-oct24"
+    "hypno-india-oct24",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "declared_count_by_source": {
     "indian-langs-oct14": null,
     "official-yt-oct15": null,
     "streaming-oct15": null,
     "hypnosis-yt-oct15": null,
-    "hypno-india-oct24": null
+    "hypno-india-oct24": null,
+    "deep-refresh-nov19-pregnant-partner": null
    },
    "groups": [
     {
@@ -636079,6 +636565,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypno-india-oct24"
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4122,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
    ]
   },
@@ -646410,7 +646907,8 @@ window.CATALOG = {
     }
    ],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "groups": [
     {
@@ -646447,8 +646945,22 @@ window.CATALOG = {
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 139,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
-   ]
+   ],
+   "declared_count_by_source": {
+    "deep-refresh-nov19-pregnant-partner": null
+   }
   },
   {
    "title": "Partner taken to a hypnotist — switched target or both",
@@ -648294,7 +648806,8 @@ window.CATALOG = {
     "deep-refresh-oct30",
     "pdf-hypnosis-sweeps-nov08",
     "hypnosis-nov11",
-    "saimin-sweep-nov11"
+    "saimin-sweep-nov11",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "declared_count_by_source": {
     "round3": null,
@@ -648304,7 +648817,8 @@ window.CATALOG = {
     "deep-refresh-oct30": null,
     "pdf-hypnosis-sweeps-nov08": null,
     "hypnosis-nov11": null,
-    "saimin-sweep-nov11": null
+    "saimin-sweep-nov11": null,
+    "deep-refresh-nov19-pregnant-partner": null
    },
    "groups": [
     {
@@ -648418,6 +648932,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "saimin-sweep-nov11"
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4122,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
    ]
   },
@@ -651366,14 +651891,16 @@ window.CATALOG = {
     "recheck-oct14",
     "pdf-hypnosis-sweeps-nov08",
     "hypnosis-nov11",
-    "deep-refresh-nov19-b"
+    "deep-refresh-nov19-b",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 15,
     "recheck-oct14": null,
     "pdf-hypnosis-sweeps-nov08": null,
     "hypnosis-nov11": null,
-    "deep-refresh-nov19-b": null
+    "deep-refresh-nov19-b": null,
+    "deep-refresh-nov19-pregnant-partner": null
    },
    "groups": [
     {
@@ -651583,6 +652110,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov19-b"
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 148,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
    ]
   },
@@ -652296,7 +652834,8 @@ window.CATALOG = {
     "recheck-oct14",
     "hypno-pregnant-yt-oct25",
     "vertical-hypnosis-nov6",
-    "deep-refresh-nov19-b"
+    "deep-refresh-nov19-b",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "groups": [
     {
@@ -652698,6 +653237,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov19-b"
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 148,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
    ],
    "declared_count_by_source": {
@@ -652705,7 +653255,8 @@ window.CATALOG = {
     "recheck-oct14": null,
     "hypno-pregnant-yt-oct25": null,
     "vertical-hypnosis-nov6": null,
-    "deep-refresh-nov19-b": null
+    "deep-refresh-nov19-b": null,
+    "deep-refresh-nov19-pregnant-partner": null
    }
   },
   {
@@ -670140,7 +670691,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19",
     "partner-hypnosis-nov19b",
     "deep-refresh-nov19-b",
-    "partner-hypnosis-nov19c"
+    "partner-hypnosis-nov19c",
+    "deep-refresh-nov19-pregnant-partner"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -670177,7 +670729,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19": null,
     "partner-hypnosis-nov19b": null,
     "deep-refresh-nov19-b": null,
-    "partner-hypnosis-nov19c": null
+    "partner-hypnosis-nov19c": null,
+    "deep-refresh-nov19-pregnant-partner": null
    },
    "groups": [
     {
@@ -671290,6 +671843,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "partner-hypnosis-nov19b"
+    },
+    {
+     "title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 148,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      },
+      {
+       "id": 4122,
+       "from_source": "deep-refresh-nov19-pregnant-partner"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-pregnant-partner"
     }
    ]
   },

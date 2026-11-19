@@ -1,0 +1,170 @@
+{
+ "id": "deep-refresh-nov19-pregnant-partner",
+ "label": "Pregnant woman controlled by her partner (19 Nov 2026)",
+ "group_title": "Pregnant woman hypnotized / controlled by her partner, 19 Nov 2026",
+ "description": "Worldwide sweep, 19 Nov 2026, for titles in which a pregnant adult woman is hypnotized, entranced or mind-controlled by her partner (husband, boyfriend, fiancé, lover, the baby's father or an ex), or in which the partner engages a hypnotist for her. Searched the web, X, TikTok and Instagram (social posts used only as leads). Existing titles gain only missing categories and fields under the usual merge rules. Adults only; non-explicit notes; stories centered on a hypnotized woman being used for sex are not added. This file is appended at the true end of SOURCES so existing IDs do not shift.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "Virrudh",
+   "year": "2007–2008",
+   "format": "tv",
+   "adult": "yes",
+   "provenance": "Deep refresh, 19 Nov 2026 PT — pregnant woman controlled by her partner (adults only; non-explicit notes)",
+   "meta": "Hindi soap opera · India · Sony TV · 26 Mar 2007 – 17 Jan 2008 · Ugraya Entertainment / Applause Entertainment · starring Smriti Irani · also spelled Viruddh",
+   "character": "Shreya (Dhirendra Raisinghania's daughter, married to Siddharth)",
+   "summary": "Shreya marries Siddharth against her sister Vasudha's wishes, not knowing that he is already married to Naina (Natasha). Siddharth hypnotizes Shreya and makes her shoot her father, Dhirendra, who dies. Later, while pregnant, Shreya learns the truth about Siddharth and vows revenge. A recording of her confession, made by another hypnotist, is later used for blackmail.",
+   "hypnotist": "Siddharth (her husband)",
+   "method": "Hypnosis (made to shoot her father)",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized",
+    "crime",
+    "india-control",
+    "indian-female-hypnosis",
+    "pregnant-variants"
+   ],
+   "pregnant_end": "yes",
+   "pregnant_end_note": "The source describes Shreya as pregnant after the hypnosis storyline, when she learns the truth. The birth outcome isn't stated.",
+   "pregnancy_outcome": "pregnant (outcome not stated)",
+   "pregnancy_note": "Pregnant during the revenge arc, presumably by her husband Siddharth; the source doesn't state the father or the outcome.",
+   "kids_together": "unknown",
+   "kids_together_note": "The source doesn't say whether the child is born.",
+   "kids_status": "no",
+   "kids_note": "No children before this marriage are mentioned.",
+   "sources": [
+    {
+     "label": "India Forums (episode recap)",
+     "url": "https://www.indiaforums.com/forum/viruddh-har-rishta-ek-kurukshetra/814210/help"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Virrudh"
+    }
+   ],
+   "evidence": "India Forums recap: 'Shreya is hypnotised by her hubby Siddharth and he makes her shoot her Dad'; later 'Shreya is pregnant, comes to know the truth behind Siddharth and vows to get revenge.' Wikipedia confirms the series, its channel and its run.",
+   "confidence_flag": "Medium · 2 sources (plot detail from a fan recap)"
+  },
+  {
+   "title": "The Stranger Within",
+   "year": "1974",
+   "adult": "yes",
+   "provenance": "Deep refresh, 19 Nov 2026 PT — pregnant woman controlled by her partner (adults only; non-explicit notes)",
+   "categories": [
+    "partner-pregnant-hire",
+    "partner-commissioned"
+   ],
+   "hypnotist": "Bob, a hypnotist brought in by her husband David",
+   "override_fields": [
+    "kids_together",
+    "kids_status"
+   ],
+   "kids_together": "no",
+   "kids_together_note": "She gives birth to the alien child (David had a vasectomy) and is taken away by the spacecraft; the couple have no child together.",
+   "kids_status": "no",
+   "kids_note": "No earlier children; Wikipedia notes only earlier pregnancy troubles that put her health at risk.",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Stranger_Within_(1974_film)"
+    }
+   ],
+   "evidence": "Wikipedia: 'David wants Bob, a hypnotist, to see if he can obtain any information about why Ann is acting so strangely'; Ann is pregnant despite David's vasectomy."
+  },
+  {
+   "title": "Progeny",
+   "year": "1998",
+   "adult": "yes",
+   "provenance": "Deep refresh, 19 Nov 2026 PT — pregnant woman controlled by her partner (adults only; non-explicit notes)",
+   "categories": [
+    "partner-control",
+    "wife-hypnotized",
+    "index-37",
+    "pregnant-strict"
+   ],
+   "hypnotist": "Dr. Craig Burton (her husband), with UFOlogist Dr. Bert Clavell",
+   "method": "Sodium pentothal injection used to hypnotize her into recalling the abduction",
+   "pregnancy_outcome": "loses the pregnancy and dies",
+   "pregnancy_note": "Craig flatlines her to remove the alien fetus and cannot revive her; he is arrested for her murder.",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_together_note": "No child; the pregnancy came from alien insemination and ends with her death.",
+   "kids_status": "no",
+   "kids_note": "No earlier children are mentioned.",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Progeny_(film)"
+    }
+   ],
+   "evidence": "Wikipedia: 'Craig injects her with sodium pentathol to help hypnotize her to recall her abduction'; he later performs surgery to remove the fetus, she cannot be revived, and Craig is arrested for her murder."
+  },
+  {
+   "title": "False Positive",
+   "year": "2021",
+   "adult": "yes",
+   "provenance": "Deep refresh, 19 Nov 2026 PT — pregnant woman controlled by her partner (adults only; non-explicit notes)",
+   "categories": [
+    "partner-control",
+    "wife",
+    "tech"
+   ],
+   "hypnotist": "Her husband Adrian, with fertility doctor Dr. John Hindle",
+   "method": "Medication, surveillance and gaslighting (no hypnosis)",
+   "pregnancy_outcome": "gives birth to twin boys",
+   "pregnancy_note": "The female fetus was removed in a 'reduction'. Lucy delivers twin boys, and Hindle reveals they are biologically his, not Adrian's.",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_together_note": "Twins born, but biologically Hindle's, not her husband's.",
+   "kids_status": "no",
+   "kids_note": "The couple had been trying to conceive for two years; no earlier children.",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/False_Positive_(film)"
+    }
+   ],
+   "evidence": "Wikipedia plot: Lucy is monitored and medicated, and Adrian is complicit with Hindle; she gives birth to the male twins; Hindle reveals the twins are biologically his.",
+   "fit_note": "Loose fit: the control is medical and psychological, not hypnosis."
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Ultrasound (2021)",
+   "reason": "Already in the catalog (partner-pregnant-hire). Not changed: its backstory has the hypnotist targeting the woman when she was 17."
+  },
+  {
+   "title": "催眠眼镜 / Hypnosis Glasses (AI short drama)",
+   "reason": "Already recorded. Its pregnancy listing is a hypnosis-for-sex premise. Not added."
+  },
+  {
+   "title": "START-614 (2026 JAV)",
+   "reason": "Already in the catalog. A hypnosis-for-sex premise, so no partner or pregnancy fields were added."
+  },
+  {
+   "title": "Past Life (2026)",
+   "reason": "The pregnant wife Claira is not hypnotized; her husband Jason is. Not a fit."
+  },
+  {
+   "title": "Married to Officer, Pregnant Specialist Becomes the Winner! (web novel)",
+   "reason": "Dr. Henry hypnotizes the mother-in-law A Wan into forgetting her husband and child. She is not pregnant, and it's a web novel with no screen adaptation found. Not added."
+  },
+  {
+   "title": "Tied to My Dangerous Mafia Husband (iDrama)",
+   "reason": "The pregnancy follows amnesia, not hypnosis by her partner, and the romance is between foster siblings. Not added."
+  },
+  {
+   "title": "Convicted by Hypnotism (1912)",
+   "reason": "EOFFTV: a woman kills her father under her husband's hypnotic influence, but no pregnancy is stated. Left for a general sweep; not added here."
+  },
+  {
+   "title": "Controlling My Husband (2024)",
+   "reason": "Already recorded (hypnotized-marriage). The pregnant wife is the one who enlists a witch against her husband, not the one controlled. Not a fit."
+  },
+  {
+   "title": "X / TikTok / Instagram leads",
+   "reason": "Searches turned up hypnosis-for-sex AI clips (excluded) and figurative uses; no new partner-hypnotizes-pregnant-wife title was confirmed by a non-social source."
+  }
+ ]
+}
