@@ -55010,11 +55010,11 @@
   "deep-refresh-nov19": 3,
   "partner-hypnosis-nov19": 1,
   "partner-hypnosis-nov19b": 3,
-  "deep-refresh-nov19-b": 4
+  "deep-refresh-nov19-b": 10
  },
- "entry_count_after_dedupe": 3893,
+ "entry_count_after_dedupe": 3899,
  "within_source_groups": 6,
  "cross_source_groups": 2107,
  "index_only_records": 55,
- "local_only_records": 1621
+ "local_only_records": 1627
 }

@@ -13485,7 +13485,7 @@ window.CATALOG = {
    "description": "Second track of the 19 Nov 2026 deep refresh, focused on the core question: an adult woman is hypnotized and becomes pregnant (again), whether the couple ends up with the child(ren), and whether she already had children. Swept web search in English, Japanese, Chinese, Korean, Thai, Indonesian, Turkish, Spanish and Hindi; vertical/short-drama aggregators (ReelShort, DramaBox, ShortMax, GoodShort, NetShort, DramaSpot, MicroDramaList, DramaDb); TikTok/Instagram/YouTube/Bilibili via web search; X public search; AI-generated works; and official DLsite store listings and DLsite's public product API (genre filters 催眠 + 妊娠/孕ませ + 人妻/母親/出産). Mainstream screen leads found this run were already in the catalog, so the new records are adult (18+) doujin manga, CG works, games and audio dramas. Adults only; anything with minors, school-age targets, child narrators or children present during sexual content is held in dropped. Non-explicit notes; plots come only from the official listing text; uncertain outcomes are marked unknown/not stated. Kept separate from sources/deep-refresh-nov19.json because a parallel run was writing that file; appended at the true end of SOURCES so existing IDs do not shift.",
    "dropped": [],
    "check": {
-    "raw_count": 4,
+    "raw_count": 10,
     "ok": true
    },
    "status": "local"
@@ -13601,10 +13601,10 @@ window.CATALOG = {
   "deep-refresh-nov19": 3,
   "partner-hypnosis-nov19": 1,
   "partner-hypnosis-nov19b": 3,
-  "deep-refresh-nov19-b": 4
+  "deep-refresh-nov19-b": 10
  },
- "raw_total": 7712,
- "entry_count": 3893,
+ "raw_total": 7718,
+ "entry_count": 3899,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13622,7 +13622,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 382
+   "entry_count": 388
   },
   {
    "key": "belly",
@@ -13670,7 +13670,7 @@ window.CATALOG = {
    "key": "doctor-gain",
    "label": "Doctor hypnotizes female characters for personal gain",
    "legend_label": "Doctor controls female character for personal gain",
-   "entry_count": 53
+   "entry_count": 56
   },
   {
    "key": "tech",
@@ -13766,7 +13766,7 @@ window.CATALOG = {
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
-   "entry_count": 42
+   "entry_count": 43
   },
   {
    "key": "crime",
@@ -13790,7 +13790,7 @@ window.CATALOG = {
    "key": "hypno-intimacy",
    "label": "Hypnotized woman intimate with the hypnotist or the man he directs",
    "legend_label": "Hypnotized into intimacy",
-   "entry_count": 81
+   "entry_count": 87
   },
   {
    "key": "indian-female-hypnosis",
@@ -14102,7 +14102,7 @@ window.CATALOG = {
    "key": "index-59",
    "label": "Surrogacy / IVF / fertility drama",
    "legend_label": "Surrogacy / IVF / fertility drama",
-   "entry_count": 22
+   "entry_count": 25
   },
   {
    "key": "surrogacy-ivf-adopt",
@@ -14156,13 +14156,13 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 201
+   "entry_count": 207
   },
   {
    "key": "therapist-wife",
    "label": "Wife hypnotized / controlled by a therapist",
    "legend_label": "Wife hypnotized / controlled by a therapist",
-   "entry_count": 25
+   "entry_count": 26
   },
   {
    "key": "another-man",
@@ -603125,6 +603125,570 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 4089,
+   "title": "【催○不妊治療】100%妊娠デキる産婦人科",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Manga · Japan · Japanese · circle 音鳥心愛 · DLsite RJ01538249 · released 30 Dec 2025 · R18 · genres 人妻, 寝取られ, 寝取り, 催眠, 妊娠/孕ませ, ぼて腹/妊婦",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: a quack obstetrician whose clinic claims a 100% fertility-treatment success rate uses an aroma to hypnotize patients and makes married women pregnant himself while their husbands sit in. The heroine loves her husband and visits only because they have been unable to conceive.",
+   "character": "A married woman (unnamed heroine) who married her childhood sweetheart after university and working life",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Becomes pregnant by the doctor (premise plus the ぼて腹/妊婦 genre); birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "The clinic's obstetrician",
+   "method": "Hypnotic aroma / incense during 'treatment'",
+   "kids_status": "no",
+   "kids_note": "No: the couple have been unable to have children.",
+   "kids_together": "no",
+   "kids_together_note": "No child with her husband; the pregnancy is the doctor's.",
+   "pregnant_end": "yes",
+   "evidence": "Official DLsite page RJ01538249 (opened 19 Nov 2026) describes the doctor, the hypnotic aroma and the childless heroine, with genres 妊娠/孕ませ and ぼて腹/妊婦.",
+   "adult": "yes",
+   "format": "digital manga (adult, DLsite)",
+   "categories": [
+    "doctor-gain",
+    "index-59",
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01538249.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:5": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "【催○不妊治療】100%妊娠デキる産婦人科",
+     "year": "2025",
+     "format": "digital manga (adult, DLsite)",
+     "meta": "Manga · Japan · Japanese · circle 音鳥心愛 · DLsite RJ01538249 · released 30 Dec 2025 · R18 · genres 人妻, 寝取られ, 寝取り, 催眠, 妊娠/孕ませ, ぼて腹/妊婦",
+     "character": "A married woman (unnamed heroine) who married her childhood sweetheart after university and working life",
+     "summary": "Official copy: a quack obstetrician whose clinic claims a 100% fertility-treatment success rate uses an aroma to hypnotize patients and makes married women pregnant himself while their husbands sit in. The heroine loves her husband and visits only because they have been unable to conceive.",
+     "hypnotist": "The clinic's obstetrician",
+     "method": "Hypnotic aroma / incense during 'treatment'",
+     "kids_note": "No: the couple have been unable to have children.",
+     "kids_together_note": "No child with her husband; the pregnancy is the doctor's.",
+     "pregnancy_outcome": "Becomes pregnant by the doctor (premise plus the ぼて腹/妊婦 genre); birth not stated.",
+     "categories": [
+      "doctor-gain",
+      "index-59",
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01538249.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ01538249 (opened 19 Nov 2026) describes the doctor, the hypnotic aroma and the childless heroine, with genres 妊娠/孕ませ and ぼて腹/妊婦.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4090,
+   "title": "不妊に悩む美人若妻、催○種付け孕ませ治療",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "CG collection · Japan · Japanese · circle 音鳥心愛 · DLsite RJ01354600 · released 9 Mar 2025 · R18 · 84 pages · genres 人妻, 催眠, 妊娠/孕ませ, ぼて腹/妊婦",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: Hitomi, happily married but unable to conceive, goes to a private maternity clinic known for fertility treatment. The doctor hypnotizes her and makes her pregnant himself rather than through her husband.",
+   "character": "仁美 (Hitomi), a young married patient",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnant by the doctor (per the listing and the ぼて腹/妊婦 genre); birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "The doctor who runs the private clinic",
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_note": "No: she and her husband have not been able to have children.",
+   "kids_together": "no",
+   "kids_together_note": "No child with her husband; the pregnancy is the doctor's.",
+   "pregnant_end": "yes",
+   "evidence": "Official DLsite page RJ01354600 (opened 19 Nov 2026) gives the synopsis and genres.",
+   "adult": "yes",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "doctor-gain",
+    "index-59",
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01354600.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:6": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "不妊に悩む美人若妻、催○種付け孕ませ治療",
+     "year": "2025",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "CG collection · Japan · Japanese · circle 音鳥心愛 · DLsite RJ01354600 · released 9 Mar 2025 · R18 · 84 pages · genres 人妻, 催眠, 妊娠/孕ませ, ぼて腹/妊婦",
+     "character": "仁美 (Hitomi), a young married patient",
+     "summary": "Official copy: Hitomi, happily married but unable to conceive, goes to a private maternity clinic known for fertility treatment. The doctor hypnotizes her and makes her pregnant himself rather than through her husband.",
+     "hypnotist": "The doctor who runs the private clinic",
+     "method": "Hypnosis",
+     "kids_note": "No: she and her husband have not been able to have children.",
+     "kids_together_note": "No child with her husband; the pregnancy is the doctor's.",
+     "pregnancy_outcome": "Pregnant by the doctor (per the listing and the ぼて腹/妊婦 genre); birth not stated.",
+     "categories": [
+      "doctor-gain",
+      "index-59",
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01354600.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ01354600 (opened 19 Nov 2026) gives the synopsis and genres.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4091,
+   "title": "妊活人妻悪徳催○療法でご懐妊",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "Manga · Japan · Japanese · circle 佐倉シイナ · DLsite RJ387125 · released 25 Apr 2022 · R18 · 28 pages · genres 寝取られ, 催眠, 妊娠/孕ませ",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: after ten childless years of marriage, Kotone reluctantly turns to hypnotherapy when tests find no cause. The hypnotherapist is a fraud who exploits women while they are under hypnosis. Her strong wish for a baby deepens the trance.",
+   "character": "松田ことね (Matsuda Kotone, 33), married ten years",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Conceives (title ご懐妊; the listing notes conception and pregnancy are shown); birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "A fraudulent hypnotherapist",
+   "method": "Hypnotherapy sessions",
+   "kids_status": "no",
+   "kids_note": "No: ten years married with no children.",
+   "kids_together": "no",
+   "kids_together_note": "No child with her husband; the title says she conceives through the hypnotherapist.",
+   "pregnant_end": "yes",
+   "evidence": "Official DLsite page RJ387125 (opened 19 Nov 2026): Kotone (33), ten years married, uses hypnotherapy for infertility; the listing notes 着床 and 妊婦 scenes.",
+   "adult": "yes",
+   "format": "digital manga (adult, DLsite)",
+   "categories": [
+    "therapist-wife",
+    "doctor-gain",
+    "index-59",
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ387125.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:7": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "妊活人妻悪徳催○療法でご懐妊",
+     "year": "2022",
+     "format": "digital manga (adult, DLsite)",
+     "meta": "Manga · Japan · Japanese · circle 佐倉シイナ · DLsite RJ387125 · released 25 Apr 2022 · R18 · 28 pages · genres 寝取られ, 催眠, 妊娠/孕ませ",
+     "character": "松田ことね (Matsuda Kotone, 33), married ten years",
+     "summary": "Official copy: after ten childless years of marriage, Kotone reluctantly turns to hypnotherapy when tests find no cause. The hypnotherapist is a fraud who exploits women while they are under hypnosis. Her strong wish for a baby deepens the trance.",
+     "hypnotist": "A fraudulent hypnotherapist",
+     "method": "Hypnotherapy sessions",
+     "kids_note": "No: ten years married with no children.",
+     "kids_together_note": "No child with her husband; the title says she conceives through the hypnotherapist.",
+     "pregnancy_outcome": "Conceives (title ご懐妊; the listing notes conception and pregnancy are shown); birth not stated.",
+     "categories": [
+      "therapist-wife",
+      "doctor-gain",
+      "index-59",
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ387125.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ387125 (opened 19 Nov 2026): Kotone (33), ten years married, uses hypnotherapy for infertility; the listing notes 着床 and 妊婦 scenes.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4092,
+   "title": "催○ 子作り代行サービス",
+   "subtitle": "催○ 子作り代行サービス2 (2025)",
+   "year": "2024",
+   "meta": "Manga (2 parts) · Japan · Japanese · サークルENZIN · DLsite RJ01282016 (16 Nov 2024) and RJ01367129 (25 May 2025) · R18 · animated-GIF and PDF editions · part 2 listing says some backgrounds are AI-generated and all characters are hand-drawn",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Official copy: a newlywed couple who want a child have both been hypnotized into hiring a 'proxy conception service', and the protagonist stands in for the husband. In part 2, the first heroine, Waka, now visibly pregnant, helps him with a new client couple who have just married.",
+   "character": "わか (Waka), a newlywed wife in part 1; a second newlywed couple in part 2",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Part 2 shows the part-1 heroine Waka pregnant; birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin",
+    "AI-assisted backgrounds (part 2)"
+   ],
+   "hypnotist": "The 'service' worker (the reader-protagonist)",
+   "method": "Hypnosis of both husband and wife",
+   "kids_status": "no",
+   "kids_note": "No: both couples are newlyweds who want their first child.",
+   "kids_together": "no",
+   "kids_together_note": "The couple wants a child, but per the premise the pregnancy is the proxy's. Whether they raise the child is not stated.",
+   "pregnant_end": "yes",
+   "evidence": "Official DLsite pages RJ01282016 and RJ01367129 (opened 19 Nov 2026). Part 2 states the previous heroine greets the reader visibly pregnant, and that some backgrounds are AI-generated while characters are hand-drawn (not an AI-generated work).",
+   "adult": "yes",
+   "format": "digital manga (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite — part 1 (official)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01282016.html"
+    },
+    {
+     "label": "DLsite — part 2 (official)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01367129.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:8": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "催○ 子作り代行サービス",
+     "subtitle": "催○ 子作り代行サービス2 (2025)",
+     "year": "2024",
+     "format": "digital manga (adult, DLsite)",
+     "meta": "Manga (2 parts) · Japan · Japanese · サークルENZIN · DLsite RJ01282016 (16 Nov 2024) and RJ01367129 (25 May 2025) · R18 · animated-GIF and PDF editions · part 2 listing says some backgrounds are AI-generated and all characters are hand-drawn",
+     "character": "わか (Waka), a newlywed wife in part 1; a second newlywed couple in part 2",
+     "summary": "Official copy: a newlywed couple who want a child have both been hypnotized into hiring a 'proxy conception service', and the protagonist stands in for the husband. In part 2, the first heroine, Waka, now visibly pregnant, helps him with a new client couple who have just married.",
+     "hypnotist": "The 'service' worker (the reader-protagonist)",
+     "method": "Hypnosis of both husband and wife",
+     "kids_note": "No: both couples are newlyweds who want their first child.",
+     "kids_together_note": "The couple wants a child, but per the premise the pregnancy is the proxy's. Whether they raise the child is not stated.",
+     "pregnancy_outcome": "Part 2 shows the part-1 heroine Waka pregnant; birth not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "tags": [
+      "adult doujin",
+      "saimin",
+      "AI-assisted backgrounds (part 2)"
+     ],
+     "sources": [
+      {
+       "label": "DLsite — part 1 (official)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01282016.html"
+      },
+      {
+       "label": "DLsite — part 2 (official)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01367129.html"
+      }
+     ],
+     "evidence": "Official DLsite pages RJ01282016 and RJ01367129 (opened 19 Nov 2026). Part 2 states the previous heroine greets the reader visibly pregnant, and that some backgrounds are AI-generated while characters are hand-drawn (not an AI-generated work).",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 4093,
+   "title": "催●マッサージおじさん ～清楚人妻に種付け施術～",
+   "subtitle": "人妻孕ませマッサージ店 ～催淫メス堕ち托卵の特別コースはいかがですか?～ (2024)",
+   "year": "2022",
+   "meta": "CG collection · Japan · Japanese · circle どろっぷす! (RJ434291, 18 Nov 2022); same story and heroine re-released by ばたぁさんど as RJ01243871 (16 Aug 2024) · R18 · genres 人妻, 催眠, 妊娠/孕ませ",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Official copy: Shino married for love, but she has had no children, her husband is busy and distant, and her mother-in-law nags her about it. A married friend in the same situation recommends a massage that 'refreshes body and mind' and says she conceived after it. The masseur hypnotizes Shino.",
+   "character": "紫乃 (Shino), a married woman",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnant by the masseur (titles 種付け / 孕ませ, ボテ腹 listed in the 2024 contents); birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "The massage practitioner",
+   "method": "Hypnosis / aphrodisiac suggestion during massage",
+   "kids_status": "no",
+   "kids_note": "No: the couple have not been able to have children.",
+   "kids_together": "no",
+   "kids_together_note": "No: the 2024 title describes 托卵, a pregnancy by the masseur passed off in the marriage.",
+   "pregnant_end": "yes",
+   "evidence": "Official DLsite pages RJ434291 and RJ01243871 (opened 19 Nov 2026) share the same synopsis (Shino, childless, mother-in-law pressure, a friend's recommendation); the 2024 page lists 孕ませ and ボテ腹.",
+   "adult": "yes",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite — 2022 edition (official)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ434291.html"
+    },
+    {
+     "label": "DLsite — 2024 edition (official)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01243871.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:9": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "催●マッサージおじさん ～清楚人妻に種付け施術～",
+     "subtitle": "人妻孕ませマッサージ店 ～催淫メス堕ち托卵の特別コースはいかがですか?～ (2024)",
+     "year": "2022",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "CG collection · Japan · Japanese · circle どろっぷす! (RJ434291, 18 Nov 2022); same story and heroine re-released by ばたぁさんど as RJ01243871 (16 Aug 2024) · R18 · genres 人妻, 催眠, 妊娠/孕ませ",
+     "character": "紫乃 (Shino), a married woman",
+     "summary": "Official copy: Shino married for love, but she has had no children, her husband is busy and distant, and her mother-in-law nags her about it. A married friend in the same situation recommends a massage that 'refreshes body and mind' and says she conceived after it. The masseur hypnotizes Shino.",
+     "hypnotist": "The massage practitioner",
+     "method": "Hypnosis / aphrodisiac suggestion during massage",
+     "kids_note": "No: the couple have not been able to have children.",
+     "kids_together_note": "No: the 2024 title describes 托卵, a pregnancy by the masseur passed off in the marriage.",
+     "pregnancy_outcome": "Pregnant by the masseur (titles 種付け / 孕ませ, ボテ腹 listed in the 2024 contents); birth not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite — 2022 edition (official)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ434291.html"
+      },
+      {
+       "label": "DLsite — 2024 edition (official)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01243871.html"
+      }
+     ],
+     "evidence": "Official DLsite pages RJ434291 and RJ01243871 (opened 19 Nov 2026) share the same synopsis (Shino, childless, mother-in-law pressure, a friend's recommendation); the 2024 page lists 孕ませ and ボテ腹.",
+     "confidence_flag": "Medium · 2 sources",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4094,
+   "title": "【NTR】中出し大好きキモおじ占い師に洗脳されて寝取られ孕まされた俺の美人妻",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Voice drama / ASMR · Japan · Japanese · circle 寝取られクラブ · DLsite RJ01449469 · released 18 Aug 2025 · R18 · genres 人妻, 寝取られ, 催眠, 妊娠/孕ませ",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: Ichika loves fortune-telling and visits a women-only fortune teller rumored online to be accurate, to ask about the couple's failure to conceive. He is actually a 46-year-old man with a psychic brainwashing power.",
+   "character": "伊知華 (Ichika, 27, office worker), the listener's wife",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Impregnated by the fortune teller (per title); birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "亀甲羅 万吉 (Kamegoura Mankichi, 46), a fake fortune teller",
+   "method": "Psychic brainwashing / hypnosis",
+   "kids_status": "no",
+   "kids_note": "No: the couple have not been able to have children.",
+   "kids_together": "no",
+   "kids_together_note": "No child with her husband; the title says she is impregnated by the fortune teller.",
+   "pregnant_end": "yes",
+   "evidence": "Official DLsite page RJ01449469 (opened 19 Nov 2026) lists the heroine Ichika (27) and the fortune teller (46) and the premise.",
+   "adult": "yes",
+   "format": "audio drama (adult, DLsite)",
+   "categories": [
+    "cheat-control",
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01449469.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:10": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "【NTR】中出し大好きキモおじ占い師に洗脳されて寝取られ孕まされた俺の美人妻",
+     "year": "2025",
+     "format": "audio drama (adult, DLsite)",
+     "meta": "Voice drama / ASMR · Japan · Japanese · circle 寝取られクラブ · DLsite RJ01449469 · released 18 Aug 2025 · R18 · genres 人妻, 寝取られ, 催眠, 妊娠/孕ませ",
+     "character": "伊知華 (Ichika, 27, office worker), the listener's wife",
+     "summary": "Official copy: Ichika loves fortune-telling and visits a women-only fortune teller rumored online to be accurate, to ask about the couple's failure to conceive. He is actually a 46-year-old man with a psychic brainwashing power.",
+     "hypnotist": "亀甲羅 万吉 (Kamegoura Mankichi, 46), a fake fortune teller",
+     "method": "Psychic brainwashing / hypnosis",
+     "kids_note": "No: the couple have not been able to have children.",
+     "kids_together_note": "No child with her husband; the title says she is impregnated by the fortune teller.",
+     "pregnancy_outcome": "Impregnated by the fortune teller (per title); birth not stated.",
+     "categories": [
+      "cheat-control",
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01449469.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ01449469 (opened 19 Nov 2026) lists the heroine Ichika (27) and the fortune teller (46) and the premise.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -608076,6 +608640,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 4094,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4088,
        "from_source": "deep-refresh-nov19-b"
       },
@@ -608088,7 +608656,27 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4090,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4092,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4089,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4093,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4085,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4091,
        "from_source": "deep-refresh-nov19-b"
       }
      ],
@@ -610718,7 +611306,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r7",
     "saimin-sweep-nov11",
     "therapist-hypnosis-nov12",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "deep-refresh-nov19-b"
    ],
    "groups": [
     {
@@ -611255,6 +611844,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "husband-hypnosis-nov12"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4090,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4089,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4091,
+       "from_source": "deep-refresh-nov19-b"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-b"
     }
    ],
    "declared_count_by_source": {
@@ -611269,7 +611877,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r7": null,
     "saimin-sweep-nov11": null,
     "therapist-hypnosis-nov12": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "deep-refresh-nov19-b": null
    }
   },
   {
@@ -626527,7 +627136,8 @@ window.CATALOG = {
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11",
     "hypno-sex-nov12",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "deep-refresh-nov19-b"
    ],
    "groups": [
     {
@@ -627097,6 +627707,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "husband-hypnosis-nov12"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4094,
+       "from_source": "deep-refresh-nov19-b"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-b"
     }
    ],
    "declared_count_by_source": {
@@ -627119,7 +627740,8 @@ window.CATALOG = {
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null,
     "hypno-sex-nov12": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "deep-refresh-nov19-b": null
    }
   },
   {
@@ -632144,6 +632766,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 4094,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4088,
        "from_source": "deep-refresh-nov19-b"
       },
@@ -632156,7 +632782,27 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4090,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4092,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4089,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4093,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4085,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4091,
        "from_source": "deep-refresh-nov19-b"
       }
      ],
@@ -658785,14 +659431,16 @@ window.CATALOG = {
     "pregnant-yt-oct15",
     "pregnancy-yt-oct15",
     "deep-refresh-oct18",
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "deep-refresh-nov19-b"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 4,
     "pregnant-yt-oct15": null,
     "pregnancy-yt-oct15": null,
     "deep-refresh-oct18": null,
-    "deep-refresh-oct30": null
+    "deep-refresh-oct30": null,
+    "deep-refresh-nov19-b": null
    },
    "groups": [
     {
@@ -658903,6 +659551,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-oct18"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4090,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4089,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4091,
+       "from_source": "deep-refresh-nov19-b"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-b"
     }
    ]
   },
@@ -667301,6 +667968,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 4094,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4079,
        "from_source": "deep-refresh-nov19"
       },
@@ -667317,7 +667988,27 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4090,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4092,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4089,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4093,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4085,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4091,
        "from_source": "deep-refresh-nov19-b"
       }
      ],
@@ -667371,7 +668062,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r7",
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11",
-    "therapist-hypnosis-nov12"
+    "therapist-hypnosis-nov12",
+    "deep-refresh-nov19-b"
    ],
    "groups": [
     {
@@ -667653,6 +668345,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "therapist-hypnosis-nov12"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4091,
+       "from_source": "deep-refresh-nov19-b"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-b"
     }
    ],
    "declared_count_by_source": {
@@ -667670,7 +668373,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r7": null,
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null,
-    "therapist-hypnosis-nov12": null
+    "therapist-hypnosis-nov12": null,
+    "deep-refresh-nov19-b": null
    }
   },
   {
