@@ -256,6 +256,7 @@ SOURCES = [
      "local": "sources/widow-hypnotized-marriage-nov19.json", "required": False},
     {"id": "deep-refresh-nov19-c", "label": "Deep refresh (19 Nov 2026), part C: pregnant woman hypnotized by her own partner, Asia",
      "local": "sources/deep-refresh-nov19-c.json", "required": False},
+    {"id": "belly-kiss-nov19", "label": "Pregnant belly kissed by partner or kids — worldwide sweep (19 Nov 2026)", "local": "sources/belly-kiss-nov19.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

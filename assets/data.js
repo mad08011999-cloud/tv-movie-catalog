@@ -13938,6 +13938,110 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "belly-kiss-nov19",
+   "label": "Pregnant belly kissed by partner or kids — worldwide sweep (19 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/belly-kiss-nov19.json",
+   "description": "Worldwide all-media pass (19 Nov 2026 PT) for adult pregnant women whose belly is kissed by their partner or their children: films, TV, soaps and telenovelas, vertical short dramas, TikTok/Instagram and adult titles. Each card says who kisses the belly, whether the couple has kids together and whether she already had kids, all from the cited sources, or 'unknown'. Partner belly kisses go in the new 'partner-belly-kiss' category, since the existing 'belly-kissed' category is for kids only. Child belly kisses use the existing wholesome 'belly-kissed' category and never an adult one. Titles already in the catalog only gain the category and links.",
+   "dropped": [
+    {
+     "title": "The Office — “Koi Pond” (S6E7)",
+     "year": "2009",
+     "reason": "Andy kisses Pam's pregnant belly as a gag while pretending to be the father on a sales call. Dropped: he isn't her partner and it isn't her child (Jim is the father)."
+    },
+    {
+     "title": "Friends — “The One With Ross's Wedding, Part 1” (S4E23)",
+     "year": "1998",
+     "reason": "Rachel kisses surrogate Phoebe's pregnant stomach before leaving for London. Dropped: she's a friend, not a partner or child."
+    },
+    {
+     "title": "Shameless (US) — Debbie Gallagher's pregnancy",
+     "year": "2016",
+     "reason": "A man on a date kisses pregnant Debbie's baby bump. Held: Debbie is a teenager in this storyline, and he isn't her partner."
+    },
+    {
+     "title": "Gilmore Girls — “Those Lazy-Hazy-Crazy Days” (S3E1)",
+     "year": "2002",
+     "reason": "Luke kisses Lorelai's belly to say goodbye to 'the twins'. Dropped: it's only Lorelai's dream and she isn't pregnant."
+    },
+    {
+     "title": "How I Met Your Mother — “False Positive” (S6E12)",
+     "year": "2011",
+     "reason": "Lily asks Marshall to put a baby in her belly, but the test was a false positive. Dropped: no pregnancy."
+    },
+    {
+     "title": "What to Expect When You're Expecting",
+     "year": "2012",
+     "reason": "Kids-In-Mind notes that a man kisses a woman's clothed pregnant belly, but doesn't say which of the five couples. Not tagged because I couldn't identify the couple; the film is already in the catalog."
+    },
+    {
+     "title": "Geração Brasil (Globo)",
+     "year": "2014",
+     "reason": "In the last scene, guru Brian kneels and kisses pregnant Verônica's belly to bless the baby. Dropped: on screen he isn't her partner (her husband is Jonas); the actors are a real-life couple."
+    },
+    {
+     "title": "Páginas da Vida (Globo)",
+     "year": "2006",
+     "reason": "Alex kneels and kisses his daughter Nanda's belly when he learns she's having twins. Dropped: he's her father, not a partner or child."
+    },
+    {
+     "title": "My Bestie Watches as My Prince Spoils Me (NetShort, ep. 48)",
+     "year": "",
+     "reason": "Pregnant Lisa waits for a husband who doesn't come home. Held: the page only predicts that 'he'll kiss her belly', and the review's character names don't match the synopsis."
+    },
+    {
+     "title": "Once Upon a Time in Mexico",
+     "year": "2003",
+     "reason": "A man kisses down a woman's chest and caresses her pregnant belly. Dropped: no belly kiss."
+    },
+    {
+     "title": "Modern Family — “Bringing Up Baby” (S4E1)",
+     "year": "2012",
+     "reason": "Manny says he misses 'the kisses on my tummy' from his own babyhood. Dropped: no pregnant-belly kiss."
+    },
+    {
+     "title": "Sugar & Spice",
+     "year": "2001",
+     "reason": "A pregnant high-school student; the scene I found shows her belly touched, not kissed. Dropped: no belly kiss, and she may be a minor."
+    },
+    {
+     "title": "Lonely Road (Machine Gun Kelly & Jelly Roll music video)",
+     "year": "2024",
+     "reason": "Shows a pregnant woman's belly kissed. Dropped: a music video, not a film or series."
+    },
+    {
+     "title": "Another Earth",
+     "year": "2011",
+     "reason": "A man puts his hand on a woman's pregnant stomach and they kiss (Kids-In-Mind). Dropped: no belly kiss."
+    },
+    {
+     "title": "Away We Go",
+     "year": "2009",
+     "reason": "Burt rubs pregnant Verona's bare stomach in bed (Kids-In-Mind). Dropped: no belly kiss found."
+    },
+    {
+     "title": "Las Bandidas (forum thread)",
+     "year": "",
+     "reason": "A fan's wish for a belly-kiss scene. Dropped: not an actual scene."
+    },
+    {
+     "title": "Real-life celebrity belly-kiss photos and clips",
+     "year": "",
+     "reason": "Dropped: real people, not fiction."
+    },
+    {
+     "title": "Lost “The Whole Truth”; The Walking Dead; Desperate Housewives; Sen Çal Kapımı; The Handmaid's Tale; Jane the Virgin; The Young Victoria",
+     "year": "",
+     "reason": "Search summaries claimed belly-kiss scenes, but no page I could open confirmed one (IMDb parents guides are unreachable). Not added."
+    }
+   ],
+   "check": {
+    "raw_count": 28,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -14054,10 +14158,11 @@ window.CATALOG = {
   "partner-hypnosis-nov19c": 2,
   "deep-refresh-nov19-pregnant-partner": 4,
   "widow-hypnotized-marriage-nov19": 1,
-  "deep-refresh-nov19-c": 1
+  "deep-refresh-nov19-c": 1,
+  "belly-kiss-nov19": 28
  },
- "raw_total": 7752,
- "entry_count": 3929,
+ "raw_total": 7780,
+ "entry_count": 3955,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -14378,6 +14483,12 @@ window.CATALOG = {
    "entry_count": 8
   },
   {
+   "key": "partner-belly-kiss",
+   "label": "Pregnant belly kissed by her partner",
+   "legend_label": "Pregnant belly kissed by her partner",
+   "entry_count": 28
+  },
+  {
    "key": "pregnant-sex",
    "label": "Pregnant characters having sex",
    "legend_label": "Pregnant characters having sex",
@@ -14393,7 +14504,7 @@ window.CATALOG = {
    "key": "pregnant-intimate",
    "label": "Pregnant intimate scenes",
    "legend_label": "Pregnant intimate scenes",
-   "entry_count": 30
+   "entry_count": 31
   },
   {
    "key": "pregnant-lesbian-intimate",
@@ -120160,11 +120271,19 @@ window.CATALOG = {
    "confidence_flag": "HIGH",
    "summary": "Pregnant Phoebe Halliwell’s unborn demonic baby—the Source’s heir—progressively takes control of her body from within the womb and endangers her sisters.",
    "character": "",
-   "provenance": "",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
    "note": "",
+   "pregnancy_outcome": "Pregnancy lost (the unborn heir is taken/destroyed later in season 4)",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "no",
+   "kids_together_note": "The unborn son (the Source's heir) does not survive; the Charmed Wiki lists him as her unborn son (deceased).",
+   "pregnant_end": "yes",
+   "evidence": "Script stage direction; the episode notes confirm Phoebe tells her sisters she's pregnant.",
    "format": "tv",
    "categories": [
-    "pregnant-child"
+    "pregnant-child",
+    "partner-belly-kiss"
    ],
    "sources": [
     {
@@ -120178,16 +120297,30 @@ window.CATALOG = {
     {
      "label": "Charmed Wiki script",
      "url": "https://charmed.fandom.com/wiki/Womb_Raider/Script"
+    },
+    {
+     "label": "Charmed Wiki — episode script",
+     "url": "https://charmed.fandom.com/wiki/We%27re_Off_to_See_the_Wizard/Script"
+    },
+    {
+     "label": "Charmed Wiki — episode page",
+     "url": "https://charmed.fandom.com/wiki/We%27re_Off_to_See_the_Wizard"
+    },
+    {
+     "label": "Charmed Wiki — Phoebe Halliwell",
+     "url": "https://charmed.fandom.com/wiki/Phoebe_Halliwell"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "belly-kiss-nov19"
    ],
    "source_records": [
     "xla62ucxbx02u5:551",
-    "ig6qlxqxoxvcxla:848"
+    "ig6qlxqxoxvcxla:848",
+    "belly-kiss-nov19:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -120253,6 +120386,50 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Charmed “Womb Raider” (2002)",
      "matched_by": "alias"
+    },
+    {
+     "rid": "belly-kiss-nov19:5",
+     "source": "belly-kiss-nov19",
+     "label": "Charmed — “We're Off to See the Wizard” (2002)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Charmed — “We're Off to See the Wizard”",
+     "subtitle": "",
+     "year": "2002",
+     "meta": "US · English · The WB series, S4E19",
+     "summary": "Phoebe, newly pregnant and turning evil alongside Cole, finds him tying balloons to their bed; he hands her flowers and kisses her and her stomach.",
+     "character": "Phoebe Halliwell (Alyssa Milano); husband Cole Turner (Julian McMahon)",
+     "note": "Belly kiss: by her husband (Cole). Supernatural storyline: the baby is the Source's heir.",
+     "mechanism": "",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "sources": [
+      {
+       "label": "Charmed Wiki — episode script",
+       "url": "https://charmed.fandom.com/wiki/We%27re_Off_to_See_the_Wizard/Script"
+      },
+      {
+       "label": "Charmed Wiki — episode page",
+       "url": "https://charmed.fandom.com/wiki/We%27re_Off_to_See_the_Wizard"
+      },
+      {
+       "label": "Charmed Wiki — Phoebe Halliwell",
+       "url": "https://charmed.fandom.com/wiki/Phoebe_Halliwell"
+      }
+     ],
+     "pregnancy_outcome": "Pregnancy lost (the unborn heir is taken/destroyed later in season 4)",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "kids_together": "no",
+     "kids_together_note": "The unborn son (the Source's heir) does not survive; the Charmed Wiki lists him as her unborn son (deceased).",
+     "pregnant_end": "yes",
+     "evidence": "Script stage direction; the episode notes confirm Phoebe tells her sisters she's pregnant.",
+     "distinct_story": true,
+     "matched_by": "alias"
     }
    ],
    "raw": {
@@ -120290,6 +120467,41 @@ window.CATALOG = {
      "group": "Agentic unborn / fetal / alien controllers",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "belly-kiss-nov19:5": {
+     "title": "Charmed — “We're Off to See the Wizard”",
+     "year": "2002",
+     "format": "tv",
+     "meta": "US · English · The WB series, S4E19",
+     "character": "Phoebe Halliwell (Alyssa Milano); husband Cole Turner (Julian McMahon)",
+     "summary": "Phoebe, newly pregnant and turning evil alongside Cole, finds him tying balloons to their bed; he hands her flowers and kisses her and her stomach.",
+     "note": "Belly kiss: by her husband (Cole). Supernatural storyline: the baby is the Source's heir.",
+     "kids_together": "no",
+     "kids_together_note": "The unborn son (the Source's heir) does not survive; the Charmed Wiki lists him as her unborn son (deceased).",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Pregnancy lost (the unborn heir is taken/destroyed later in season 4)",
+     "sources": [
+      {
+       "label": "Charmed Wiki — episode script",
+       "url": "https://charmed.fandom.com/wiki/We%27re_Off_to_See_the_Wizard/Script"
+      },
+      {
+       "label": "Charmed Wiki — episode page",
+       "url": "https://charmed.fandom.com/wiki/We%27re_Off_to_See_the_Wizard"
+      },
+      {
+       "label": "Charmed Wiki — Phoebe Halliwell",
+       "url": "https://charmed.fandom.com/wiki/Phoebe_Halliwell"
+      }
+     ],
+     "evidence": "Script stage direction; the episode notes confirm Phoebe tells her sisters she's pregnant.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
     }
    }
   },
@@ -521764,6 +521976,8 @@ window.CATALOG = {
    ],
    "kids_status": "no",
    "kids_note": "none",
+   "kids_together": "yes",
+   "kids_together_note": "Daughter Renesmee is born.",
    "pregnant_end": "yes",
    "pregnant_end_note": "daughter Renesmee born",
    "evidence": "single source",
@@ -521771,26 +521985,112 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "pregnant",
-    "index-60"
+    "index-60",
+    "partner-belly-kiss"
    ],
    "sources": [
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_1"
+    },
+    {
+     "label": "Forever Dreaming transcript (“Edward kisses her stomach”)",
+     "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=9148"
+    },
+    {
+     "label": "Kids-In-Mind parents' guide",
+     "url": "https://kids-in-mind.com/t/twilightsagabreakingdawnpart1.htm"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "pregnancy-yt-oct15"
+    "pregnancy-yt-oct15",
+    "belly-kiss-nov19"
    ],
    "source_records": [
-    "pregnancy-yt-oct15:50"
+    "pregnancy-yt-oct15:50",
+    "belly-kiss-nov19:3"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "pregnancy-yt-oct15:50",
+    "source": "pregnancy-yt-oct15",
+    "label": "The Twilight Saga: Breaking Dawn – Part 1 (2011)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Twilight Saga: Breaking Dawn – Part 1",
+    "subtitle": "",
+    "year": "2011",
+    "meta": "United States · English · film",
+    "summary": "After her honeymoon Bella is pregnant with a fast-growing half-vampire child that endangers her life.",
+    "character": "Bella Swan",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "medium · plot summary",
+    "categories": [
+     "pregnant",
+     "index-60"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_1"
+     }
+    ],
+    "pregnancy_note": "daughter Renesmee born",
+    "tags": [
+     "pregnancy-yt-oct15"
+    ],
+    "kids_status": "no",
+    "kids_note": "none",
+    "pregnant_end": "yes",
+    "pregnant_end_note": "daughter Renesmee born",
+    "evidence": "single source",
+    "rating": "PG-13",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "belly-kiss-nov19:3",
+     "source": "belly-kiss-nov19",
+     "label": "The Twilight Saga: Breaking Dawn – Part 1 (2011)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Twilight Saga: Breaking Dawn – Part 1",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "",
+     "summary": "Edward listens to the unborn baby's thoughts, tells Bella the baby loves her, and kisses her pregnant stomach as she cries with happiness.",
+     "character": "",
+     "note": "Belly kiss: by her husband (Edward).",
+     "mechanism": "",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "sources": [
+      {
+       "label": "Forever Dreaming transcript (“Edward kisses her stomach”)",
+       "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=9148"
+      },
+      {
+       "label": "Kids-In-Mind parents' guide",
+       "url": "https://kids-in-mind.com/t/twilightsagabreakingdawnpart1.htm"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "kids_together": "yes",
+     "kids_together_note": "Daughter Renesmee is born.",
+     "evidence": "Transcript stage direction plus Kids-In-Mind's sex/nudity notes.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "pregnancy-yt-oct15:50": {
      "title": "The Twilight Saga: Breaking Dawn – Part 1",
@@ -521821,6 +522121,33 @@ window.CATALOG = {
       "pregnancy-yt-oct15"
      ],
      "rating": "PG-13"
+    },
+    "belly-kiss-nov19:3": {
+     "title": "The Twilight Saga: Breaking Dawn – Part 1",
+     "year": "2011",
+     "format": "movie",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "summary": "Edward listens to the unborn baby's thoughts, tells Bella the baby loves her, and kisses her pregnant stomach as she cries with happiness.",
+     "note": "Belly kiss: by her husband (Edward).",
+     "kids_together": "yes",
+     "kids_together_note": "Daughter Renesmee is born.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "sources": [
+      {
+       "label": "Forever Dreaming transcript (“Edward kisses her stomach”)",
+       "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=9148"
+      },
+      {
+       "label": "Kids-In-Mind parents' guide",
+       "url": "https://kids-in-mind.com/t/twilightsagabreakingdawnpart1.htm"
+      }
+     ],
+     "evidence": "Transcript stage direction plus Kids-In-Mind's sex/nudity notes.",
+     "confidence_flag": "high",
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
     }
    }
   },
@@ -607380,6 +607707,2010 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 4125,
+   "title": "WandaVision — “Now in Color”",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "US · English · Disney+ miniseries, S1E3 (Marvel Studios)",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "In the 1970s-sitcom episode, a rapidly pregnant Wanda feels the baby kick; Vision touches her belly, then kisses it and says he can't wait to meet “little Billy”. Wanda gives birth to twins at the end of the episode.",
+   "character": "Wanda Maximoff (Elizabeth Olsen); partner Vision (Paul Bettany)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her partner (Vision).",
+   "pregnancy_outcome": "Gives birth to twins Billy and Tommy",
+   "kids_status": "no",
+   "kids_note": "No children before this pregnancy.",
+   "kids_together": "yes",
+   "kids_together_note": "Twin sons Billy and Tommy are born in this episode.",
+   "pregnant_end": "yes",
+   "evidence": "MovieWeb recap describes the belly kiss; Wikipedia confirms the twins' birth.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "MovieWeb recap (“He kisses her belly”)",
+     "url": "https://movieweb.com/wandavision-season-1-episode-3-recap/"
+    },
+    {
+     "label": "Wikipedia — Now in Color",
+     "url": "https://en.wikipedia.org/wiki/Now_in_Color"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:1": {
+     "title": "WandaVision — “Now in Color”",
+     "year": "2021",
+     "format": "tv",
+     "meta": "US · English · Disney+ miniseries, S1E3 (Marvel Studios)",
+     "character": "Wanda Maximoff (Elizabeth Olsen); partner Vision (Paul Bettany)",
+     "summary": "In the 1970s-sitcom episode, a rapidly pregnant Wanda feels the baby kick; Vision touches her belly, then kisses it and says he can't wait to meet “little Billy”. Wanda gives birth to twins at the end of the episode.",
+     "note": "Belly kiss: by her partner (Vision).",
+     "kids_together": "yes",
+     "kids_together_note": "Twin sons Billy and Tommy are born in this episode.",
+     "kids_status": "no",
+     "kids_note": "No children before this pregnancy.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Gives birth to twins Billy and Tommy",
+     "sources": [
+      {
+       "label": "MovieWeb recap (“He kisses her belly”)",
+       "url": "https://movieweb.com/wandavision-season-1-episode-3-recap/"
+      },
+      {
+       "label": "Wikipedia — Now in Color",
+       "url": "https://en.wikipedia.org/wiki/Now_in_Color"
+      }
+     ],
+     "evidence": "MovieWeb recap describes the belly kiss; Wikipedia confirms the twins' birth.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4126,
+   "title": "True Blood — “In the Beginning”",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "US · English · HBO series, S5E7",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "Arlene rewatches her wedding video at Merlotte's and sees Terry kissing her pregnant belly from when they married; she weeps, fearing they'll never get back to that point.",
+   "character": "Arlene Fowler Bellefleur (Carrie Preston); husband Terry Bellefleur (Todd Lowe)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her partner (Terry), shown in the wedding video.",
+   "pregnancy_outcome": "Son Mikey born (season 4)",
+   "kids_status": "yes",
+   "kids_note": "Daughter Lisa and son Coby Fowler from before her marriage to Terry.",
+   "kids_together": "yes",
+   "kids_together_note": "Son Mikey, raised by Arlene and Terry as their son (the True Blood Wiki lists Mikey Bellefleur as her son).",
+   "pregnant_end": "yes",
+   "evidence": "Episode synopsis on the True Blood Wiki; family list from the character page.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "True Blood Wiki — In the Beginning",
+     "url": "https://trueblood.fandom.com/wiki/In_the_Beginning"
+    },
+    {
+     "label": "True Blood Wiki — Arlene Fowler",
+     "url": "https://trueblood.fandom.com/wiki/Arlene_Fowler"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:2": {
+     "title": "True Blood — “In the Beginning”",
+     "year": "2012",
+     "format": "tv",
+     "meta": "US · English · HBO series, S5E7",
+     "character": "Arlene Fowler Bellefleur (Carrie Preston); husband Terry Bellefleur (Todd Lowe)",
+     "summary": "Arlene rewatches her wedding video at Merlotte's and sees Terry kissing her pregnant belly from when they married; she weeps, fearing they'll never get back to that point.",
+     "note": "Belly kiss: by her partner (Terry), shown in the wedding video.",
+     "kids_together": "yes",
+     "kids_together_note": "Son Mikey, raised by Arlene and Terry as their son (the True Blood Wiki lists Mikey Bellefleur as her son).",
+     "kids_status": "yes",
+     "kids_note": "Daughter Lisa and son Coby Fowler from before her marriage to Terry.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Son Mikey born (season 4)",
+     "sources": [
+      {
+       "label": "True Blood Wiki — In the Beginning",
+       "url": "https://trueblood.fandom.com/wiki/In_the_Beginning"
+      },
+      {
+       "label": "True Blood Wiki — Arlene Fowler",
+       "url": "https://trueblood.fandom.com/wiki/Arlene_Fowler"
+      }
+     ],
+     "evidence": "Episode synopsis on the True Blood Wiki; family list from the character page.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4127,
+   "title": "Charmed — “Sand Francisco Dreamin'”",
+   "subtitle": "",
+   "year": "2003",
+   "meta": "US · English · The WB series, S5E14",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "On the couch at the manor, Leo leans in to kiss pregnant Piper but instead kisses her stomach and says “Good night, little one” before going to bed.",
+   "character": "Piper Halliwell (Holly Marie Combs); husband Leo Wyatt (Brian Krause)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (Leo).",
+   "pregnancy_outcome": "Son Wyatt born",
+   "kids_status": "no",
+   "kids_note": "No children before this pregnancy.",
+   "kids_together": "yes",
+   "kids_together_note": "Sons Wyatt (born later in season 5) and Chris, and daughter Melinda.",
+   "pregnant_end": "yes",
+   "evidence": "Script stage direction; children from the character page.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Charmed Wiki — episode script",
+     "url": "https://charmed.fandom.com/wiki/Sand_Francisco_Dreamin%27/Script"
+    },
+    {
+     "label": "Charmed Wiki — Piper Halliwell",
+     "url": "https://charmed.fandom.com/wiki/Piper_Halliwell"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:4": {
+     "title": "Charmed — “Sand Francisco Dreamin'”",
+     "year": "2003",
+     "format": "tv",
+     "meta": "US · English · The WB series, S5E14",
+     "character": "Piper Halliwell (Holly Marie Combs); husband Leo Wyatt (Brian Krause)",
+     "summary": "On the couch at the manor, Leo leans in to kiss pregnant Piper but instead kisses her stomach and says “Good night, little one” before going to bed.",
+     "note": "Belly kiss: by her husband (Leo).",
+     "kids_together": "yes",
+     "kids_together_note": "Sons Wyatt (born later in season 5) and Chris, and daughter Melinda.",
+     "kids_status": "no",
+     "kids_note": "No children before this pregnancy.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Son Wyatt born",
+     "sources": [
+      {
+       "label": "Charmed Wiki — episode script",
+       "url": "https://charmed.fandom.com/wiki/Sand_Francisco_Dreamin%27/Script"
+      },
+      {
+       "label": "Charmed Wiki — Piper Halliwell",
+       "url": "https://charmed.fandom.com/wiki/Piper_Halliwell"
+      }
+     ],
+     "evidence": "Script stage direction; children from the character page.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4128,
+   "title": "One Tree Hill — “Things a Mama Don't Know”",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "US · English · The CW series, S6E13",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "Lucas comes home and kisses Peyton; when she says she and the baby are good, he kisses her stomach (“Yes, we are”) and she tells the bump that daddy's home.",
+   "character": "Peyton Sawyer (Hilarie Burton); fiancé Lucas Scott (Chad Michael Murray)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her partner (Lucas).",
+   "pregnancy_outcome": "Daughter Sawyer born",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "yes",
+   "kids_together_note": "Daughter Sawyer Brooke Scott is born in the season 6 finale.",
+   "pregnant_end": "yes",
+   "evidence": "Episode summary and quote stage direction agree.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "One Tree Hill Wiki — episode page",
+     "url": "https://onetreehill.fandom.com/wiki/Things_a_Mama_Don%27t_Know"
+    },
+    {
+     "label": "TV Quotes (stage direction)",
+     "url": "https://www.tv-quotes.com/shows/one-tree-hill/episode_27849.html"
+    },
+    {
+     "label": "One Tree Hill Wiki — Sawyer Scott",
+     "url": "https://onetreehill.fandom.com/wiki/Sawyer_Scott"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:6": {
+     "title": "One Tree Hill — “Things a Mama Don't Know”",
+     "year": "2009",
+     "format": "tv",
+     "meta": "US · English · The CW series, S6E13",
+     "character": "Peyton Sawyer (Hilarie Burton); fiancé Lucas Scott (Chad Michael Murray)",
+     "summary": "Lucas comes home and kisses Peyton; when she says she and the baby are good, he kisses her stomach (“Yes, we are”) and she tells the bump that daddy's home.",
+     "note": "Belly kiss: by her partner (Lucas).",
+     "kids_together": "yes",
+     "kids_together_note": "Daughter Sawyer Brooke Scott is born in the season 6 finale.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Daughter Sawyer born",
+     "sources": [
+      {
+       "label": "One Tree Hill Wiki — episode page",
+       "url": "https://onetreehill.fandom.com/wiki/Things_a_Mama_Don%27t_Know"
+      },
+      {
+       "label": "TV Quotes (stage direction)",
+       "url": "https://www.tv-quotes.com/shows/one-tree-hill/episode_27849.html"
+      },
+      {
+       "label": "One Tree Hill Wiki — Sawyer Scott",
+       "url": "https://onetreehill.fandom.com/wiki/Sawyer_Scott"
+      }
+     ],
+     "evidence": "Episode summary and quote stage direction agree.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4129,
+   "title": "Bones — “The Daredevil in the Mold”",
+   "subtitle": "",
+   "year": "2011",
+   "meta": "US · English · Fox series, S6E13",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "In the lab, an excited Hodgins kisses pregnant Angela's cheek and then her belly, and the two daydream about what their child might become.",
+   "character": "Angela Montenegro (Michaela Conlin); husband Jack Hodgins (T.J. Thyne)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (Hodgins).",
+   "pregnancy_outcome": "Son Michael Vincent born",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "yes",
+   "kids_together_note": "Son Michael Vincent is born at the end of season 6; the Bones Wiki notes a later sibling on the way.",
+   "pregnant_end": "yes",
+   "evidence": "Wikiquote stage direction; child's page on the Bones Wiki.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "TV Quotes / Wikiquote (“[kisses her belly]”)",
+     "url": "https://www.tv-quotes.com/shows/bones/episode_6698.html"
+    },
+    {
+     "label": "Bones Wiki — Michael Vincent Hodgins",
+     "url": "https://bones.fandom.com/wiki/Michael_Vincent_Hodgins"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:7": {
+     "title": "Bones — “The Daredevil in the Mold”",
+     "year": "2011",
+     "format": "tv",
+     "meta": "US · English · Fox series, S6E13",
+     "character": "Angela Montenegro (Michaela Conlin); husband Jack Hodgins (T.J. Thyne)",
+     "summary": "In the lab, an excited Hodgins kisses pregnant Angela's cheek and then her belly, and the two daydream about what their child might become.",
+     "note": "Belly kiss: by her husband (Hodgins).",
+     "kids_together": "yes",
+     "kids_together_note": "Son Michael Vincent is born at the end of season 6; the Bones Wiki notes a later sibling on the way.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Son Michael Vincent born",
+     "sources": [
+      {
+       "label": "TV Quotes / Wikiquote (“[kisses her belly]”)",
+       "url": "https://www.tv-quotes.com/shows/bones/episode_6698.html"
+      },
+      {
+       "label": "Bones Wiki — Michael Vincent Hodgins",
+       "url": "https://bones.fandom.com/wiki/Michael_Vincent_Hodgins"
+      }
+     ],
+     "evidence": "Wikiquote stage direction; child's page on the Bones Wiki.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4130,
+   "title": "Bridgerton — “Tick Tock”",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "US · English · Netflix series, S3E5",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "Back from their honeymoon and expecting, Kate and Anthony cuddle in bed; there are quiet moments of Anthony kissing her belly as they talk about their happiness.",
+   "character": "Kate Sharma Bridgerton (Simone Ashley); husband Anthony Bridgerton (Jonathan Bailey)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (Anthony).",
+   "pregnancy_outcome": "Expecting; birth not shown on screen",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "yes",
+   "kids_together_note": "Kate is expecting their first child; the baby isn't shown on screen (per Lady Geeks Media).",
+   "pregnant_end": "yes",
+   "evidence": "Single scene breakdown naming the episode and the belly kisses.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Lady Geeks Media scene breakdown (S3E5)",
+     "url": "https://ladygeeksmedia.com/2025/01/14/scene-breakdown-kate-and-anthony-cuddling-in-bridgerton-season-3/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:8": {
+     "title": "Bridgerton — “Tick Tock”",
+     "year": "2024",
+     "format": "tv",
+     "meta": "US · English · Netflix series, S3E5",
+     "character": "Kate Sharma Bridgerton (Simone Ashley); husband Anthony Bridgerton (Jonathan Bailey)",
+     "summary": "Back from their honeymoon and expecting, Kate and Anthony cuddle in bed; there are quiet moments of Anthony kissing her belly as they talk about their happiness.",
+     "note": "Belly kiss: by her husband (Anthony).",
+     "kids_together": "yes",
+     "kids_together_note": "Kate is expecting their first child; the baby isn't shown on screen (per Lady Geeks Media).",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Expecting; birth not shown on screen",
+     "sources": [
+      {
+       "label": "Lady Geeks Media scene breakdown (S3E5)",
+       "url": "https://ladygeeksmedia.com/2025/01/14/scene-breakdown-kate-and-anthony-cuddling-in-bridgerton-season-3/"
+      }
+     ],
+     "evidence": "Single scene breakdown naming the episode and the belly kisses.",
+     "confidence_flag": "medium",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4131,
+   "title": "After Everything",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "US · English · romantic drama film (After series, part 5)",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "In the closing scene, years later, Hardin comes home to their New York townhouse, picks up their daughter Emery, kisses Tessa and then kisses her pregnant bump (in unused footage he greets it as “Auden”).",
+   "character": "Tessa Young (Josephine Langford); partner Hardin Scott (Hero Fiennes Tiffin)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her partner (Hardin).",
+   "pregnancy_outcome": "Pregnant with their second child at the end",
+   "kids_status": "no",
+   "kids_note": "Emery is the couple's own daughter; no children from a previous relationship.",
+   "kids_together": "yes",
+   "kids_together_note": "Daughter Emery (about 5), with a second child on the way.",
+   "pregnant_end": "yes",
+   "evidence": "Two After Wiki pages describe the end scene.",
+   "format": "movie",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "After Wiki — After Everything",
+     "url": "https://after.fandom.com/wiki/After_Everything"
+    },
+    {
+     "label": "After Wiki — Emery Scott",
+     "url": "https://after.fandom.com/wiki/Emery_Scott"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:9": {
+     "title": "After Everything",
+     "year": "2023",
+     "format": "movie",
+     "meta": "US · English · romantic drama film (After series, part 5)",
+     "character": "Tessa Young (Josephine Langford); partner Hardin Scott (Hero Fiennes Tiffin)",
+     "summary": "In the closing scene, years later, Hardin comes home to their New York townhouse, picks up their daughter Emery, kisses Tessa and then kisses her pregnant bump (in unused footage he greets it as “Auden”).",
+     "note": "Belly kiss: by her partner (Hardin).",
+     "kids_together": "yes",
+     "kids_together_note": "Daughter Emery (about 5), with a second child on the way.",
+     "kids_status": "no",
+     "kids_note": "Emery is the couple's own daughter; no children from a previous relationship.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Pregnant with their second child at the end",
+     "sources": [
+      {
+       "label": "After Wiki — After Everything",
+       "url": "https://after.fandom.com/wiki/After_Everything"
+      },
+      {
+       "label": "After Wiki — Emery Scott",
+       "url": "https://after.fandom.com/wiki/Emery_Scott"
+      }
+     ],
+     "evidence": "Two After Wiki pages describe the end scene.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4132,
+   "title": "Nip/Tuck — “Cindy Plumb”",
+   "subtitle": "",
+   "year": "2006",
+   "meta": "US · English · FX adult drama, S4E1 (TV-MA)",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "Things are better between Sean and Julia: he tenderly kisses her pregnant belly, but they still can't find a comfortable way to make love while she is pregnant, which shows a growing discomfort between them.",
+   "character": "Julia McNamara (Joely Richardson); Sean McNamara (Dylan Walsh)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her partner (Sean). Adult series; non-explicit note.",
+   "pregnancy_outcome": "Son Conor born",
+   "kids_status": "yes",
+   "kids_note": "Already the mother of Matt and Annie (the Nip/Tuck Wiki lists Matt, Annie and Conor as her children).",
+   "kids_together": "yes",
+   "kids_together_note": "Son Conor is born in season 4; Annie is also Sean and Julia's daughter.",
+   "pregnant_end": "yes",
+   "evidence": "Review describes the belly kiss; family from the Nip/Tuck Wiki.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss",
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Matt's TV Reviews — S4E1",
+     "url": "https://mattstv.blogspot.com/2006/09/niptuck-season-4-episode-1-cindy-plumb.html"
+    },
+    {
+     "label": "Nip/Tuck Wiki — Julia McNamara",
+     "url": "https://niptuck.fandom.com/wiki/Julia_McNamara"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:10": {
+     "title": "Nip/Tuck — “Cindy Plumb”",
+     "year": "2006",
+     "format": "tv",
+     "categories": [
+      "partner-belly-kiss",
+      "pregnant-intimate"
+     ],
+     "meta": "US · English · FX adult drama, S4E1 (TV-MA)",
+     "character": "Julia McNamara (Joely Richardson); Sean McNamara (Dylan Walsh)",
+     "summary": "Things are better between Sean and Julia: he tenderly kisses her pregnant belly, but they still can't find a comfortable way to make love while she is pregnant, which shows a growing discomfort between them.",
+     "note": "Belly kiss: by her partner (Sean). Adult series; non-explicit note.",
+     "kids_together": "yes",
+     "kids_together_note": "Son Conor is born in season 4; Annie is also Sean and Julia's daughter.",
+     "kids_status": "yes",
+     "kids_note": "Already the mother of Matt and Annie (the Nip/Tuck Wiki lists Matt, Annie and Conor as her children).",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Son Conor born",
+     "sources": [
+      {
+       "label": "Matt's TV Reviews — S4E1",
+       "url": "https://mattstv.blogspot.com/2006/09/niptuck-season-4-episode-1-cindy-plumb.html"
+      },
+      {
+       "label": "Nip/Tuck Wiki — Julia McNamara",
+       "url": "https://niptuck.fandom.com/wiki/Julia_McNamara"
+      }
+     ],
+     "evidence": "Review describes the belly kiss; family from the Nip/Tuck Wiki.",
+     "confidence_flag": "medium",
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4133,
+   "title": "Private Practice — “Good Grief”",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "US · English · ABC series, S6E3",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "Charlotte, pregnant with triplets, lets Cooper talk to her belly once a day if he doesn't get weird and rub or kiss it; he greets his babies, tells them they'll always be loved, and kisses the belly anyway.",
+   "character": "Charlotte King (KaDee Strickland); husband Cooper Freedman (Paul Adelstein)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (Cooper).",
+   "pregnancy_outcome": "Triplet girls born",
+   "kids_status": "no",
+   "kids_note": "No children of her own before; Cooper's son Mason is her stepson.",
+   "kids_together": "yes",
+   "kids_together_note": "Triplet daughters Georgia, Caroline and Rachel King-Freedman.",
+   "pregnant_end": "yes",
+   "evidence": "Episode synopsis; family from the character page.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Grey's Anatomy Universe Wiki — Good Grief",
+     "url": "https://greysanatomy.fandom.com/wiki/Good_Grief"
+    },
+    {
+     "label": "Private Practice Wiki — Charlotte King",
+     "url": "https://privatepractice.fandom.com/wiki/Charlotte_King"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:11": {
+     "title": "Private Practice — “Good Grief”",
+     "year": "2012",
+     "format": "tv",
+     "meta": "US · English · ABC series, S6E3",
+     "character": "Charlotte King (KaDee Strickland); husband Cooper Freedman (Paul Adelstein)",
+     "summary": "Charlotte, pregnant with triplets, lets Cooper talk to her belly once a day if he doesn't get weird and rub or kiss it; he greets his babies, tells them they'll always be loved, and kisses the belly anyway.",
+     "note": "Belly kiss: by her husband (Cooper).",
+     "kids_together": "yes",
+     "kids_together_note": "Triplet daughters Georgia, Caroline and Rachel King-Freedman.",
+     "kids_status": "no",
+     "kids_note": "No children of her own before; Cooper's son Mason is her stepson.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Triplet girls born",
+     "sources": [
+      {
+       "label": "Grey's Anatomy Universe Wiki — Good Grief",
+       "url": "https://greysanatomy.fandom.com/wiki/Good_Grief"
+      },
+      {
+       "label": "Private Practice Wiki — Charlotte King",
+       "url": "https://privatepractice.fandom.com/wiki/Charlotte_King"
+      }
+     ],
+     "evidence": "Episode synopsis; family from the character page.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4134,
+   "title": "Scrubs (season 9) — J.D. and Elliot",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "US · English · ABC series, season 9 (“Med School”)",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "In season 9, J.D. and Elliot are married and expecting; in an awkward morning ritual in front of Elliot's class, J.D. kisses her stomach once for every month she has been pregnant.",
+   "character": "Elliot Reid (Sarah Chalke); husband J.D. (Zach Braff)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (J.D.).",
+   "pregnancy_outcome": "Expecting; birth not shown",
+   "kids_status": "no",
+   "kids_note": "No children before; J.D.'s son Sam (with Kim) is her stepson.",
+   "kids_together": "yes",
+   "kids_together_note": "They're expecting their first child together (the season ends before the birth).",
+   "pregnant_end": "yes",
+   "evidence": "Single source (Wikipedia character article).",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — J.D. (Scrubs)",
+     "url": "https://en.wikipedia.org/wiki/J.D._(Scrubs)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:12": {
+     "title": "Scrubs (season 9) — J.D. and Elliot",
+     "year": "2009",
+     "format": "tv",
+     "meta": "US · English · ABC series, season 9 (“Med School”)",
+     "character": "Elliot Reid (Sarah Chalke); husband J.D. (Zach Braff)",
+     "summary": "In season 9, J.D. and Elliot are married and expecting; in an awkward morning ritual in front of Elliot's class, J.D. kisses her stomach once for every month she has been pregnant.",
+     "note": "Belly kiss: by her husband (J.D.).",
+     "kids_together": "yes",
+     "kids_together_note": "They're expecting their first child together (the season ends before the birth).",
+     "kids_status": "no",
+     "kids_note": "No children before; J.D.'s son Sam (with Kim) is her stepson.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Expecting; birth not shown",
+     "sources": [
+      {
+       "label": "Wikipedia — J.D. (Scrubs)",
+       "url": "https://en.wikipedia.org/wiki/J.D._(Scrubs)"
+      }
+     ],
+     "evidence": "Single source (Wikipedia character article).",
+     "confidence_flag": "medium",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4135,
+   "title": "Meet (Zee TV) — episode of 31 May 2022",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "India · Hindi · Zee TV daily soap (2021–2023)",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "After learning Meet is pregnant, an overjoyed Meet Ahlawat plans a date for her, kisses her belly, tells her she looks prettiest with long hair, and puts a kala teeka on her face to ward off the evil eye.",
+   "character": "Meet Hooda Ahlawat (Ashi Singh); husband Meet Ahlawat (Shagun Pandey)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (Meet Ahlawat).",
+   "pregnancy_outcome": "unknown",
+   "kids_status": "no",
+   "kids_note": "No children before (per the written update).",
+   "kids_together": "unknown",
+   "kids_together_note": "The outcome of this pregnancy is not in the cited source.",
+   "pregnant_end": "yes",
+   "evidence": "Written episode update.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "TellyExpress written update",
+     "url": "https://www.tellyexpress.com/meet-31st-may-2022-written-update/"
+    },
+    {
+     "label": "JustShowBiz written update",
+     "url": "https://www.justshowbiz.net/meet-31st-may-2022-written-update-babita-asks-meet-to-be-responsible/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:13": {
+     "title": "Meet (Zee TV) — episode of 31 May 2022",
+     "year": "2022",
+     "format": "tv",
+     "meta": "India · Hindi · Zee TV daily soap (2021–2023)",
+     "character": "Meet Hooda Ahlawat (Ashi Singh); husband Meet Ahlawat (Shagun Pandey)",
+     "summary": "After learning Meet is pregnant, an overjoyed Meet Ahlawat plans a date for her, kisses her belly, tells her she looks prettiest with long hair, and puts a kala teeka on her face to ward off the evil eye.",
+     "note": "Belly kiss: by her husband (Meet Ahlawat).",
+     "kids_together": "unknown",
+     "kids_together_note": "The outcome of this pregnancy is not in the cited source.",
+     "kids_status": "no",
+     "kids_note": "No children before (per the written update).",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "unknown",
+     "sources": [
+      {
+       "label": "TellyExpress written update",
+       "url": "https://www.tellyexpress.com/meet-31st-may-2022-written-update/"
+      },
+      {
+       "label": "JustShowBiz written update",
+       "url": "https://www.justshowbiz.net/meet-31st-may-2022-written-update-babita-asks-meet-to-be-responsible/"
+      }
+     ],
+     "evidence": "Written episode update.",
+     "confidence_flag": "medium",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4136,
+   "title": "Battle: Los Angeles",
+   "subtitle": "",
+   "year": "2011",
+   "meta": "US · English · sci-fi war film (PG-13)",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "Before reporting for duty, Lt. Martinez says goodbye to his very pregnant wife, then runs back and kneels to kiss her stomach. He is killed in the battle before the baby is born.",
+   "character": "Kathy/Anna Martinez (pregnant wife); 2nd Lt. William Martinez (Ramon Rodriguez)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (Lt. Martinez). The script calls the wife Anna; the film wiki calls her Katherine (Kathy).",
+   "pregnancy_outcome": "Expecting at the end; birth not shown",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "unknown",
+   "kids_together_note": "Expecting; the birth is not shown and Martinez dies in the battle.",
+   "pregnant_end": "yes",
+   "evidence": "Parents' guide, screenplay and wiki agree.",
+   "format": "movie",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Kids-In-Mind (“A husband kisses his wife's pregnant belly”)",
+     "url": "https://kids-in-mind.com/b/battlelosangeles.htm"
+    },
+    {
+     "label": "IMSDb screenplay",
+     "url": "https://imsdb.com/scripts/Battle-Los-Angeles.html"
+    },
+    {
+     "label": "Battle: LA Wiki — William Martinez",
+     "url": "https://battleofla.fandom.com/wiki/William_Martinez"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:14": {
+     "title": "Battle: Los Angeles",
+     "year": "2011",
+     "format": "movie",
+     "meta": "US · English · sci-fi war film (PG-13)",
+     "character": "Kathy/Anna Martinez (pregnant wife); 2nd Lt. William Martinez (Ramon Rodriguez)",
+     "summary": "Before reporting for duty, Lt. Martinez says goodbye to his very pregnant wife, then runs back and kneels to kiss her stomach. He is killed in the battle before the baby is born.",
+     "note": "Belly kiss: by her husband (Lt. Martinez). The script calls the wife Anna; the film wiki calls her Katherine (Kathy).",
+     "kids_together": "unknown",
+     "kids_together_note": "Expecting; the birth is not shown and Martinez dies in the battle.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Expecting at the end; birth not shown",
+     "sources": [
+      {
+       "label": "Kids-In-Mind (“A husband kisses his wife's pregnant belly”)",
+       "url": "https://kids-in-mind.com/b/battlelosangeles.htm"
+      },
+      {
+       "label": "IMSDb screenplay",
+       "url": "https://imsdb.com/scripts/Battle-Los-Angeles.html"
+      },
+      {
+       "label": "Battle: LA Wiki — William Martinez",
+       "url": "https://battleofla.fandom.com/wiki/William_Martinez"
+      }
+     ],
+     "evidence": "Parents' guide, screenplay and wiki agree.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4137,
+   "title": "The Last Witch Hunter",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "US · English · fantasy action film (PG-13)",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "In a flashback, Kaulder kneels and kisses his wife's very pregnant belly through her dress; later he holds their baby. His wife and daughter die in the plague the Witch Queen unleashes.",
+   "character": "Helena (Lotte Verbeek), wife of Kaulder (Vin Diesel), in medieval flashbacks",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (Kaulder).",
+   "pregnancy_outcome": "Gives birth to a daughter, who later dies",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "yes",
+   "kids_together_note": "A baby daughter is born; she and Helena later die of the plague.",
+   "pregnant_end": "yes",
+   "evidence": "Parents' guide describes the kiss and the baby; the plague deaths are the film's backstory.",
+   "format": "movie",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Kids-In-Mind parents' guide",
+     "url": "https://kids-in-mind.com/l/lastwitchhunter.htm"
+    },
+    {
+     "label": "Wikipedia (cast: Helena, Kaulder's wife)",
+     "url": "https://en.wikipedia.org/wiki/The_Last_Witch_Hunter"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:15": {
+     "title": "The Last Witch Hunter",
+     "year": "2015",
+     "format": "movie",
+     "meta": "US · English · fantasy action film (PG-13)",
+     "character": "Helena (Lotte Verbeek), wife of Kaulder (Vin Diesel), in medieval flashbacks",
+     "summary": "In a flashback, Kaulder kneels and kisses his wife's very pregnant belly through her dress; later he holds their baby. His wife and daughter die in the plague the Witch Queen unleashes.",
+     "note": "Belly kiss: by her husband (Kaulder).",
+     "kids_together": "yes",
+     "kids_together_note": "A baby daughter is born; she and Helena later die of the plague.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Gives birth to a daughter, who later dies",
+     "sources": [
+      {
+       "label": "Kids-In-Mind parents' guide",
+       "url": "https://kids-in-mind.com/l/lastwitchhunter.htm"
+      },
+      {
+       "label": "Wikipedia (cast: Helena, Kaulder's wife)",
+       "url": "https://en.wikipedia.org/wiki/The_Last_Witch_Hunter"
+      }
+     ],
+     "evidence": "Parents' guide describes the kiss and the baby; the plague deaths are the film's backstory.",
+     "confidence_flag": "medium",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4138,
+   "title": "I Can Only Imagine 2",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "US · English · faith-based drama (PG; MercyMe story)",
+   "mechanism": "",
+   "confidence_flag": "low",
+   "summary": "Kids-In-Mind notes a woman taking a pregnancy test and a husband kissing his wife's pregnant abdomen. In Wikipedia's plot, Tim Timmons reveals he has cancer and that his wife is pregnant, and worries whether he'll live to see his child.",
+   "character": "A pregnant wife and her husband; per Wikipedia's plot, the pregnant wife is Hilary, wife of singer Tim Timmons (Milo Ventimiglia)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband. Which couple is inferred from the plot, since Kids-In-Mind doesn't name them.",
+   "pregnancy_outcome": "unknown",
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "kids_together_note": "Expecting; the outcome isn't in the cited sources.",
+   "pregnant_end": "yes",
+   "evidence": "Parents' guide plus Wikipedia plot; the couple's identity is inferred.",
+   "format": "movie",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Kids-In-Mind parents' guide",
+     "url": "https://kids-in-mind.com/i/i-can-only-imagine-2-parents-guide-movie-review-rating.htm"
+    },
+    {
+     "label": "Wikipedia — I Can Only Imagine 2",
+     "url": "https://en.wikipedia.org/wiki/I_Can_Only_Imagine_2"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:16": {
+     "title": "I Can Only Imagine 2",
+     "year": "2026",
+     "format": "movie",
+     "meta": "US · English · faith-based drama (PG; MercyMe story)",
+     "character": "A pregnant wife and her husband; per Wikipedia's plot, the pregnant wife is Hilary, wife of singer Tim Timmons (Milo Ventimiglia)",
+     "summary": "Kids-In-Mind notes a woman taking a pregnancy test and a husband kissing his wife's pregnant abdomen. In Wikipedia's plot, Tim Timmons reveals he has cancer and that his wife is pregnant, and worries whether he'll live to see his child.",
+     "note": "Belly kiss: by her husband. Which couple is inferred from the plot, since Kids-In-Mind doesn't name them.",
+     "kids_together": "unknown",
+     "kids_together_note": "Expecting; the outcome isn't in the cited sources.",
+     "kids_status": "unknown",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "unknown",
+     "sources": [
+      {
+       "label": "Kids-In-Mind parents' guide",
+       "url": "https://kids-in-mind.com/i/i-can-only-imagine-2-parents-guide-movie-review-rating.htm"
+      },
+      {
+       "label": "Wikipedia — I Can Only Imagine 2",
+       "url": "https://en.wikipedia.org/wiki/I_Can_Only_Imagine_2"
+      }
+     ],
+     "evidence": "Parents' guide plus Wikipedia plot; the couple's identity is inferred.",
+     "confidence_flag": "low",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4139,
+   "title": "Barbershop",
+   "subtitle": "",
+   "year": "2002",
+   "meta": "US · English · comedy film (PG-13)",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "Kids-In-Mind notes a man kissing a woman's pregnant abdomen. In the film, Calvin's wife Jennifer is expecting while he decides whether to sell the shop; by the end she has given birth to a baby boy.",
+   "character": "Jennifer Palmer (Jazsmin Lewis), pregnant wife of barbershop owner Calvin Palmer (Ice Cube)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (Calvin).",
+   "pregnancy_outcome": "Baby boy born",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "yes",
+   "kids_together_note": "Jennifer gives birth to a baby boy by the end of the film.",
+   "pregnant_end": "yes",
+   "evidence": "Parents' guide notes the kiss; Wikipedia gives the couple and the birth.",
+   "format": "movie",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Kids-In-Mind parents' guide",
+     "url": "https://kids-in-mind.com/b/barbershop.htm"
+    },
+    {
+     "label": "Wikipedia — Barbershop (2002)",
+     "url": "https://en.wikipedia.org/wiki/Barbershop_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:17": {
+     "title": "Barbershop",
+     "year": "2002",
+     "format": "movie",
+     "meta": "US · English · comedy film (PG-13)",
+     "character": "Jennifer Palmer (Jazsmin Lewis), pregnant wife of barbershop owner Calvin Palmer (Ice Cube)",
+     "summary": "Kids-In-Mind notes a man kissing a woman's pregnant abdomen. In the film, Calvin's wife Jennifer is expecting while he decides whether to sell the shop; by the end she has given birth to a baby boy.",
+     "note": "Belly kiss: by her husband (Calvin).",
+     "kids_together": "yes",
+     "kids_together_note": "Jennifer gives birth to a baby boy by the end of the film.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Baby boy born",
+     "sources": [
+      {
+       "label": "Kids-In-Mind parents' guide",
+       "url": "https://kids-in-mind.com/b/barbershop.htm"
+      },
+      {
+       "label": "Wikipedia — Barbershop (2002)",
+       "url": "https://en.wikipedia.org/wiki/Barbershop_(film)"
+      }
+     ],
+     "evidence": "Parents' guide notes the kiss; Wikipedia gives the couple and the birth.",
+     "confidence_flag": "medium",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4140,
+   "title": "Chocolate com Pimenta",
+   "subtitle": "",
+   "year": "2003",
+   "meta": "Brazil · Portuguese · TV Globo telenovela (2003–04), final chapters",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "Near the end, after they marry, Ana Francisca tells Danilo “I'm expecting a child, we're going to have another baby”, and he joyfully kisses her belly. She later gives birth to a girl.",
+   "character": "Ana Francisca (Mariana Ximenes); husband Danilo (Murilo Benício)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (Danilo).",
+   "pregnancy_outcome": "Daughter born",
+   "kids_status": "no",
+   "kids_note": "Tonico is also Danilo's son; no children from another relationship.",
+   "kids_together": "yes",
+   "kids_together_note": "Son Tonico (born earlier in the story) and a daughter, Carmen, born at the end.",
+   "pregnant_end": "yes",
+   "evidence": "Two Brazilian recap sites.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Resumo das Novelas (Danilo beija a barriga)",
+     "url": "https://resumodasnovelas.ig.com.br/saiba-qual-a-reacao-de-danilo-ao-descobrir-que-ana-francisca-esta-esperando-um-filho-seu-na-reta-final/"
+    },
+    {
+     "label": "TV Foco",
+     "url": "https://tvfoco.uai.com.br/chocolate-com-pimenta-ana-descobre-gravidez-danilo/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:18": {
+     "title": "Chocolate com Pimenta",
+     "year": "2003",
+     "format": "tv",
+     "meta": "Brazil · Portuguese · TV Globo telenovela (2003–04), final chapters",
+     "character": "Ana Francisca (Mariana Ximenes); husband Danilo (Murilo Benício)",
+     "summary": "Near the end, after they marry, Ana Francisca tells Danilo “I'm expecting a child, we're going to have another baby”, and he joyfully kisses her belly. She later gives birth to a girl.",
+     "note": "Belly kiss: by her husband (Danilo).",
+     "kids_together": "yes",
+     "kids_together_note": "Son Tonico (born earlier in the story) and a daughter, Carmen, born at the end.",
+     "kids_status": "no",
+     "kids_note": "Tonico is also Danilo's son; no children from another relationship.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Daughter born",
+     "sources": [
+      {
+       "label": "Resumo das Novelas (Danilo beija a barriga)",
+       "url": "https://resumodasnovelas.ig.com.br/saiba-qual-a-reacao-de-danilo-ao-descobrir-que-ana-francisca-esta-esperando-um-filho-seu-na-reta-final/"
+      },
+      {
+       "label": "TV Foco",
+       "url": "https://tvfoco.uai.com.br/chocolate-com-pimenta-ana-descobre-gravidez-danilo/"
+      }
+     ],
+     "evidence": "Two Brazilian recap sites.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4141,
+   "title": "Orgulho e Paixão",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Brazil · Portuguese · TV Globo telenovela",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "Ema tells Ernesto she is pregnant (“there's a child of our love here!”); overjoyed, he kisses his wife's belly, lifts her into his arms and spins her around.",
+   "character": "Ema; her husband Ernesto",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (Ernesto).",
+   "pregnancy_outcome": "Expecting",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "yes",
+   "kids_together_note": "Expecting their first child; the birth isn't in the cited sources.",
+   "pregnant_end": "yes",
+   "evidence": "Official Globo preview with stills, plus a recap site.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Gshow (Globo) preview",
+     "url": "https://gshow.globo.com/novelas/orgulho-e-paixao/vem-por-ai/noticia/elisabeta-e-ema-ficam-gravidas-ao-mesmo-tempo.ghtml"
+    },
+    {
+     "label": "TV Foco",
+     "url": "https://tvfoco.uai.com.br/orgulho-e-paixao-elisabeta-e-ema-descobrem-gravidez-ao-mesmo-tempo/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:19"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:19": {
+     "title": "Orgulho e Paixão",
+     "year": "2018",
+     "format": "tv",
+     "meta": "Brazil · Portuguese · TV Globo telenovela",
+     "character": "Ema; her husband Ernesto",
+     "summary": "Ema tells Ernesto she is pregnant (“there's a child of our love here!”); overjoyed, he kisses his wife's belly, lifts her into his arms and spins her around.",
+     "note": "Belly kiss: by her husband (Ernesto).",
+     "kids_together": "yes",
+     "kids_together_note": "Expecting their first child; the birth isn't in the cited sources.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Expecting",
+     "sources": [
+      {
+       "label": "Gshow (Globo) preview",
+       "url": "https://gshow.globo.com/novelas/orgulho-e-paixao/vem-por-ai/noticia/elisabeta-e-ema-ficam-gravidas-ao-mesmo-tempo.ghtml"
+      },
+      {
+       "label": "TV Foco",
+       "url": "https://tvfoco.uai.com.br/orgulho-e-paixao-elisabeta-e-ema-descobrem-gravidez-ao-mesmo-tempo/"
+      }
+     ],
+     "evidence": "Official Globo preview with stills, plus a recap site.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4142,
+   "title": "A Regra do Jogo",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "Brazil · Portuguese · TV Globo telenovela (2015–16), final chapters",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "After César tries to kill himself, Domingas tells him she is pregnant and never stopped loving him; moved, he kneels, kisses her belly and says he loves her too.",
+   "character": "Domingas (Maeve Jinkings); César",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her partner (César).",
+   "pregnancy_outcome": "Expecting",
+   "kids_status": "unknown",
+   "kids_together": "yes",
+   "kids_together_note": "Expecting; the birth isn't in the cited source.",
+   "pregnant_end": "yes",
+   "evidence": "Single recap source.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Extra (Globo) recap",
+     "url": "https://extra.globo.com/tv-e-lazer/telinha/a-regra-do-jogo-cesar-tenta-se-matar-domingas-salva-amado-18775713.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:20": {
+     "title": "A Regra do Jogo",
+     "year": "2016",
+     "format": "tv",
+     "meta": "Brazil · Portuguese · TV Globo telenovela (2015–16), final chapters",
+     "character": "Domingas (Maeve Jinkings); César",
+     "summary": "After César tries to kill himself, Domingas tells him she is pregnant and never stopped loving him; moved, he kneels, kisses her belly and says he loves her too.",
+     "note": "Belly kiss: by her partner (César).",
+     "kids_together": "yes",
+     "kids_together_note": "Expecting; the birth isn't in the cited source.",
+     "kids_status": "unknown",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Expecting",
+     "sources": [
+      {
+       "label": "Extra (Globo) recap",
+       "url": "https://extra.globo.com/tv-e-lazer/telinha/a-regra-do-jogo-cesar-tenta-se-matar-domingas-salva-amado-18775713.html"
+      }
+     ],
+     "evidence": "Single recap source.",
+     "confidence_flag": "medium",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4143,
+   "title": "Passione — Mauro and Diana",
+   "subtitle": "",
+   "year": "2010",
+   "meta": "Brazil · Portuguese · TV Globo telenovela (2010–11), chapter of 16 Dec 2010",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "Mauro and Diana choose the name Vitória for their unborn daughter; he kisses Diana's belly and celebrates the coming baby.",
+   "character": "Diana (Carolina Dieckmann); partner Mauro (Rodrigo Lombardi)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her partner (Mauro).",
+   "pregnancy_outcome": "Expecting a daughter",
+   "kids_status": "unknown",
+   "kids_together": "yes",
+   "kids_together_note": "Expecting a daughter, Vitória.",
+   "pregnant_end": "yes",
+   "evidence": "Official Globo preview.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Gshow (Globo) preview",
+     "url": "https://gshow.globo.com/novelas/passione/Vem-por-ai/noticia/2010/12/mauro-e-diana-decidem-que-filha-vai-se-chamar-vitoria.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:21": {
+     "title": "Passione — Mauro and Diana",
+     "year": "2010",
+     "format": "tv",
+     "meta": "Brazil · Portuguese · TV Globo telenovela (2010–11), chapter of 16 Dec 2010",
+     "character": "Diana (Carolina Dieckmann); partner Mauro (Rodrigo Lombardi)",
+     "summary": "Mauro and Diana choose the name Vitória for their unborn daughter; he kisses Diana's belly and celebrates the coming baby.",
+     "note": "Belly kiss: by her partner (Mauro).",
+     "kids_together": "yes",
+     "kids_together_note": "Expecting a daughter, Vitória.",
+     "kids_status": "unknown",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Expecting a daughter",
+     "sources": [
+      {
+       "label": "Gshow (Globo) preview",
+       "url": "https://gshow.globo.com/novelas/passione/Vem-por-ai/noticia/2010/12/mauro-e-diana-decidem-que-filha-vai-se-chamar-vitoria.html"
+      }
+     ],
+     "evidence": "Official Globo preview.",
+     "confidence_flag": "medium",
+     "standalone": true,
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4144,
+   "title": "Triunfo del amor",
+   "subtitle": "",
+   "year": "2011",
+   "meta": "Mexico · Spanish · Televisa telenovela (2010–11), chapter 88",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "María begs Max to let her go and start over; Max hugs her, asks to touch her belly, kneels and kisses her stomach, just as his wife Jimena bursts in.",
+   "character": "María Desamparada (Maite Perroni); Maximiliano “Max” Sandoval (William Levy)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her partner (Max).",
+   "pregnancy_outcome": "Son born",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "yes",
+   "kids_together_note": "Max is at María's side when their son is born; the baby is later kidnapped and recovered, and they end up together.",
+   "pregnant_end": "yes",
+   "evidence": "Chapter recap for the kiss; Brazilian broadcast recap for the birth.",
+   "format": "tv",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Caray, Caray! recap of chapter 88",
+     "url": "http://caraycaray.blogspot.com/2011/04/tda-4811-jimena-goes-slip-slidin-away.html"
+    },
+    {
+     "label": "Observatório da TV (birth)",
+     "url": "https://observatoriodatv.com.br/novelas/capitulos/nasce-filho-de-max-e-maria-desamparada"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:22": {
+     "title": "Triunfo del amor",
+     "year": "2011",
+     "format": "tv",
+     "meta": "Mexico · Spanish · Televisa telenovela (2010–11), chapter 88",
+     "character": "María Desamparada (Maite Perroni); Maximiliano “Max” Sandoval (William Levy)",
+     "summary": "María begs Max to let her go and start over; Max hugs her, asks to touch her belly, kneels and kisses her stomach, just as his wife Jimena bursts in.",
+     "note": "Belly kiss: by her partner (Max).",
+     "kids_together": "yes",
+     "kids_together_note": "Max is at María's side when their son is born; the baby is later kidnapped and recovered, and they end up together.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Son born",
+     "sources": [
+      {
+       "label": "Caray, Caray! recap of chapter 88",
+       "url": "http://caraycaray.blogspot.com/2011/04/tda-4811-jimena-goes-slip-slidin-away.html"
+      },
+      {
+       "label": "Observatório da TV (birth)",
+       "url": "https://observatoriodatv.com.br/novelas/capitulos/nasce-filho-de-max-e-maria-desamparada"
+      }
+     ],
+     "evidence": "Chapter recap for the kiss; Brazilian broadcast recap for the birth.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4145,
+   "title": "Othello Syndrome",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Vertical short drama · English · NetShort, 35 episodes; episode 17",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "Kenton, obsessed with Elowen, isolates and abuses her after they marry and tightens control when she gets pregnant. In episode 17 he carries her to bed and kisses her belly while telling the baby not to make mommy suffer, a scene the page reads as menacing rather than sweet.",
+   "character": "Elowen, a ballerina; husband Kenton, a businessman",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (controlling and abusive). Non-graphic note.",
+   "pregnancy_outcome": "Miscarriage",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "no",
+   "kids_together_note": "Per the official synopsis, a violent confrontation causes a miscarriage.",
+   "pregnant_end": "yes",
+   "evidence": "Official NetShort synopsis plus the episode-page review.",
+   "format": "vertical series",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "NetShort episode 17 page",
+     "url": "https://netshort.com/episode/othello-syndrome-2089900322106167297-ep-17"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:23"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:23": {
+     "title": "Othello Syndrome",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Vertical short drama · English · NetShort, 35 episodes; episode 17",
+     "character": "Elowen, a ballerina; husband Kenton, a businessman",
+     "summary": "Kenton, obsessed with Elowen, isolates and abuses her after they marry and tightens control when she gets pregnant. In episode 17 he carries her to bed and kisses her belly while telling the baby not to make mommy suffer, a scene the page reads as menacing rather than sweet.",
+     "note": "Belly kiss: by her husband (controlling and abusive). Non-graphic note.",
+     "kids_together": "no",
+     "kids_together_note": "Per the official synopsis, a violent confrontation causes a miscarriage.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Miscarriage",
+     "sources": [
+      {
+       "label": "NetShort episode 17 page",
+       "url": "https://netshort.com/episode/othello-syndrome-2089900322106167297-ep-17"
+      }
+     ],
+     "evidence": "Official NetShort synopsis plus the episode-page review.",
+     "confidence_flag": "medium",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4146,
+   "title": "Fallen Saintess: Heir to the Dragon King",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Vertical short drama · English · NetShort, 40 episodes; episode 11 (fantasy)",
+   "mechanism": "",
+   "confidence_flag": "low",
+   "summary": "Bella is unexpectedly carrying Arthur's twin heirs and is tormented by her sister and mother until Arthur shields her and makes her his Empress. The episode 11 page describes tender moments such as when he kisses her belly.",
+   "character": "Bella, a rabbit-eared maiden; Arthur, the Golden Dragon Emperor",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her partner (Arthur). Fantasy characters; the only scene evidence is the platform's episode-page review.",
+   "pregnancy_outcome": "Twins born",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "yes",
+   "kids_together_note": "Per the synopsis, she gives birth to pureblood golden dragonlings (twins).",
+   "pregnant_end": "yes",
+   "evidence": "Official synopsis plus the episode-page review.",
+   "format": "vertical series",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "NetShort episode 11 page",
+     "url": "https://netshort.com/episode/fallen-saintess-heir-to-the-dragon-king-2092156564393680897-ep-11"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:24"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:24": {
+     "title": "Fallen Saintess: Heir to the Dragon King",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Vertical short drama · English · NetShort, 40 episodes; episode 11 (fantasy)",
+     "character": "Bella, a rabbit-eared maiden; Arthur, the Golden Dragon Emperor",
+     "summary": "Bella is unexpectedly carrying Arthur's twin heirs and is tormented by her sister and mother until Arthur shields her and makes her his Empress. The episode 11 page describes tender moments such as when he kisses her belly.",
+     "note": "Belly kiss: by her partner (Arthur). Fantasy characters; the only scene evidence is the platform's episode-page review.",
+     "kids_together": "yes",
+     "kids_together_note": "Per the synopsis, she gives birth to pureblood golden dragonlings (twins).",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Twins born",
+     "sources": [
+      {
+       "label": "NetShort episode 11 page",
+       "url": "https://netshort.com/episode/fallen-saintess-heir-to-the-dragon-king-2092156564393680897-ep-11"
+      }
+     ],
+     "evidence": "Official synopsis plus the episode-page review.",
+     "confidence_flag": "low",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4147,
+   "title": "The Bait Bride",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Vertical short drama · English · NetShort, 67 episodes; episode 51",
+   "mechanism": "",
+   "confidence_flag": "low",
+   "summary": "After being used as bait and nearly sold off, Lydia swaps marriages and finds love with blind Lucien. In episode 51, where her pregnancy drives the story, Lucien kisses her belly as a show of commitment.",
+   "character": "Lydia; husband Lucien (blind heir)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (Lucien). The only scene evidence is the platform's episode-page review.",
+   "pregnancy_outcome": "unknown",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "unknown",
+   "kids_together_note": "Outcome not in the cited source.",
+   "pregnant_end": "yes",
+   "evidence": "Official synopsis plus the episode-page review.",
+   "format": "vertical series",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "NetShort episode 51 page",
+     "url": "https://netshort.com/episode/the-bait-bride-2056284079580905473-ep-51"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:25"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:25": {
+     "title": "The Bait Bride",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Vertical short drama · English · NetShort, 67 episodes; episode 51",
+     "character": "Lydia; husband Lucien (blind heir)",
+     "summary": "After being used as bait and nearly sold off, Lydia swaps marriages and finds love with blind Lucien. In episode 51, where her pregnancy drives the story, Lucien kisses her belly as a show of commitment.",
+     "note": "Belly kiss: by her husband (Lucien). The only scene evidence is the platform's episode-page review.",
+     "kids_together": "unknown",
+     "kids_together_note": "Outcome not in the cited source.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "unknown",
+     "sources": [
+      {
+       "label": "NetShort episode 51 page",
+       "url": "https://netshort.com/episode/the-bait-bride-2056284079580905473-ep-51"
+      }
+     ],
+     "evidence": "Official synopsis plus the episode-page review.",
+     "confidence_flag": "low",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4148,
+   "title": "Escaping to the Prince's Arms (Huí a los brazos del príncipe)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Vertical short drama · English (Spanish dub listed) · NetShort, 50 episodes; finale (episode 50) · fantasy",
+   "mechanism": "",
+   "confidence_flag": "low",
+   "summary": "Alice escapes a cruel arranged marriage by fake-marrying a poor scribe who turns out to be Crown Prince John; he protects her from her abusive family and crowns her Queen. In the finale the Queen's feared curse turns out to be a pregnancy, and the King kisses her belly in the garden.",
+   "character": "Alice; husband John, the Crown Prince (later King) and God of Thunder",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (the King). The only scene evidence is the platform's episode-page reviews (English and Spanish).",
+   "pregnancy_outcome": "Expecting at the end",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "yes",
+   "kids_together_note": "Expecting (pregnancy revealed in the finale).",
+   "pregnant_end": "yes",
+   "evidence": "Official synopsis plus the episode-page reviews.",
+   "format": "vertical series",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "NetShort episode 50 page",
+     "url": "https://netshort.com/episode/escaping-to-the-princes-arms-2083009600851099649-ep-50"
+    },
+    {
+     "label": "NetShort (Spanish) episode 50 page",
+     "url": "https://netshort.com/es/episode/hu%C3%AD-a-los-brazos-del-pr%C3%ADncipe-2083009600901431298-ep-50"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:26": {
+     "title": "Escaping to the Prince's Arms (Huí a los brazos del príncipe)",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Vertical short drama · English (Spanish dub listed) · NetShort, 50 episodes; finale (episode 50) · fantasy",
+     "character": "Alice; husband John, the Crown Prince (later King) and God of Thunder",
+     "summary": "Alice escapes a cruel arranged marriage by fake-marrying a poor scribe who turns out to be Crown Prince John; he protects her from her abusive family and crowns her Queen. In the finale the Queen's feared curse turns out to be a pregnancy, and the King kisses her belly in the garden.",
+     "note": "Belly kiss: by her husband (the King). The only scene evidence is the platform's episode-page reviews (English and Spanish).",
+     "kids_together": "yes",
+     "kids_together_note": "Expecting (pregnancy revealed in the finale).",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Expecting at the end",
+     "sources": [
+      {
+       "label": "NetShort episode 50 page",
+       "url": "https://netshort.com/episode/escaping-to-the-princes-arms-2083009600851099649-ep-50"
+      },
+      {
+       "label": "NetShort (Spanish) episode 50 page",
+       "url": "https://netshort.com/es/episode/hu%C3%AD-a-los-brazos-del-pr%C3%ADncipe-2083009600901431298-ep-50"
+      }
+     ],
+     "evidence": "Official synopsis plus the episode-page reviews.",
+     "confidence_flag": "low",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4149,
+   "title": "냉혹한 표범왕의 토끼 신부",
+   "subtitle": "literally “The Cold Leopard King's Rabbit Bride”",
+   "year": "2026",
+   "meta": "Vertical short drama · Korean-language NetShort listing, 51 episodes; episode 18 · fantasy",
+   "mechanism": "",
+   "confidence_flag": "low",
+   "summary": "Tricked into a night with the cold black-leopard prince and then a contract marriage, Emily is abandoned; four months later she returns to the royal capital transformed by her father's magic necklace and pregnant with quintuplets. The episode 18 page describes the Leopard King kissing the pregnant princess's belly, showing his softer side.",
+   "character": "Emily, a grey rabbit; the black-leopard prince (Leopard King)",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her husband (the Leopard King). The only scene evidence is the platform's episode-page review.",
+   "pregnancy_outcome": "Expecting quintuplets",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "yes",
+   "kids_together_note": "Pregnant with his quintuplets; the birth isn't in the cited source.",
+   "pregnant_end": "yes",
+   "evidence": "Official synopsis plus the episode-page review.",
+   "format": "vertical series",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "NetShort (Korean) episode 18 page",
+     "url": "https://netshort.com/ko/episode/%EB%83%89%ED%98%B9%ED%95%9C-%ED%91%9C%EB%B2%94%EC%99%95%EC%9D%98-%ED%86%A0%EB%81%BC-%EC%8B%A0%EB%B6%80-2082404055466729474-ep-18"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:27"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:27": {
+     "title": "냉혹한 표범왕의 토끼 신부",
+     "subtitle": "literally “The Cold Leopard King's Rabbit Bride”",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Vertical short drama · Korean-language NetShort listing, 51 episodes; episode 18 · fantasy",
+     "character": "Emily, a grey rabbit; the black-leopard prince (Leopard King)",
+     "summary": "Tricked into a night with the cold black-leopard prince and then a contract marriage, Emily is abandoned; four months later she returns to the royal capital transformed by her father's magic necklace and pregnant with quintuplets. The episode 18 page describes the Leopard King kissing the pregnant princess's belly, showing his softer side.",
+     "note": "Belly kiss: by her husband (the Leopard King). The only scene evidence is the platform's episode-page review.",
+     "kids_together": "yes",
+     "kids_together_note": "Pregnant with his quintuplets; the birth isn't in the cited source.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Expecting quintuplets",
+     "sources": [
+      {
+       "label": "NetShort (Korean) episode 18 page",
+       "url": "https://netshort.com/ko/episode/%EB%83%89%ED%98%B9%ED%95%9C-%ED%91%9C%EB%B2%94%EC%99%95%EC%9D%98-%ED%86%A0%EB%81%BC-%EC%8B%A0%EB%B6%80-2082404055466729474-ep-18"
+      }
+     ],
+     "evidence": "Official synopsis plus the episode-page review.",
+     "confidence_flag": "low",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
+  },
+  {
+   "id": 4150,
+   "title": "Creed II",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Movie · USA · English · sports drama (PG-13)",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "While Adonis Creed trains for a rematch with the son of the man who killed his father, his fiancée Bianca becomes pregnant. Kids-In-Mind's review describes a man kissing a woman's clothed pregnant belly four times after the couple's pregnancy test and sonogram.",
+   "character": "Bianca Taylor; fiancé (later husband) Adonis Creed",
+   "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)",
+   "note": "Belly kiss: by her partner Adonis (Kids-In-Mind's account of the pregnant fiancée storyline). Their daughter Amara is born during the film.",
+   "pregnancy_outcome": "Daughter Amara born",
+   "kids_status": "no",
+   "kids_note": "No children before.",
+   "kids_together": "yes",
+   "kids_together_note": "Daughter Amara.",
+   "pregnant_end": "no",
+   "evidence": "Kids-In-Mind sex/nudity section.",
+   "format": "movie",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "sources": [
+    {
+     "label": "Kids-In-Mind review",
+     "url": "https://kids-in-mind.com/c/creed-ii-parents-guide-movie-review-rating.htm"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Creed_II"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "source_records": [
+    "belly-kiss-nov19:28"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kiss-nov19:28": {
+     "title": "Creed II",
+     "year": "2018",
+     "format": "movie",
+     "meta": "Movie · USA · English · sports drama (PG-13)",
+     "character": "Bianca Taylor; fiancé (later husband) Adonis Creed",
+     "summary": "While Adonis Creed trains for a rematch with the son of the man who killed his father, his fiancée Bianca becomes pregnant. Kids-In-Mind's review describes a man kissing a woman's clothed pregnant belly four times after the couple's pregnancy test and sonogram.",
+     "note": "Belly kiss: by her partner Adonis (Kids-In-Mind's account of the pregnant fiancée storyline). Their daughter Amara is born during the film.",
+     "kids_together": "yes",
+     "kids_together_note": "Daughter Amara.",
+     "kids_status": "no",
+     "kids_note": "No children before.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Daughter Amara born",
+     "sources": [
+      {
+       "label": "Kids-In-Mind review",
+       "url": "https://kids-in-mind.com/c/creed-ii-parents-guide-movie-review-rating.htm"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Creed_II"
+      }
+     ],
+     "evidence": "Kids-In-Mind sex/nudity section.",
+     "confidence_flag": "medium",
+     "categories": [
+      "partner-belly-kiss"
+     ],
+     "provenance": "Belly-kiss sweep, 19 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; Search 3)"
+    }
+   }
   }
  ],
  "sections": [
@@ -650216,6 +652547,139 @@ window.CATALOG = {
    }
   },
   {
+   "title": "Pregnant belly kissed by her partner",
+   "category": "partner-belly-kiss",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "belly-kiss-nov19"
+   ],
+   "declared_count_by_source": {
+    "belly-kiss-nov19": null
+   },
+   "groups": [
+    {
+     "title": "Pregnant belly kissed by her partner or her kids",
+     "notes": [],
+     "items": [
+      {
+       "id": 4131,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4147,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4139,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4136,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4129,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4130,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 546,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4127,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4140,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4150,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4148,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4146,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4138,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4137,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4135,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4132,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4128,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4141,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4145,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4143,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4133,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4142,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4134,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4144,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4126,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 3229,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4125,
+       "from_source": "belly-kiss-nov19"
+      },
+      {
+       "id": 4149,
+       "from_source": "belly-kiss-nov19"
+      }
+     ],
+     "from_source": "belly-kiss-nov19"
+    }
+   ]
+  },
+  {
    "title": "Pregnant characters having sex",
    "category": "pregnant-sex",
    "description": "Twenty-two films, television episodes, a short and an adult-animation OVA with an on-screen or clearly established sexual encounter during pregnancy. The five-title pleasure-scene expansion is separated into marital comedy, erotic drama, arthouse marital intimacy, R-rated comedy and affair / new-partner buckets; evidence strength and every timing caveat remain visible.",
@@ -651182,7 +653646,8 @@ window.CATALOG = {
     "pregnant-scenes-oct25",
     "pregnant-intimate-imdb-oct25",
     "deep-refresh-oct30",
-    "pregnant-intimacy-nov11"
+    "pregnant-intimacy-nov11",
+    "belly-kiss-nov19"
    ],
    "groups": [
     {
@@ -651476,6 +653941,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-intimacy-nov11"
+    },
+    {
+     "title": "Pregnant belly kissed by her partner or her kids",
+     "notes": [],
+     "items": [
+      {
+       "id": 4132,
+       "from_source": "belly-kiss-nov19"
+      }
+     ],
+     "from_source": "belly-kiss-nov19"
     }
    ],
    "declared_count_by_source": {
@@ -651486,7 +653962,8 @@ window.CATALOG = {
     "pregnant-scenes-oct25": null,
     "pregnant-intimate-imdb-oct25": null,
     "deep-refresh-oct30": null,
-    "pregnant-intimacy-nov11": null
+    "pregnant-intimacy-nov11": null,
+    "belly-kiss-nov19": null
    }
   },
   {
@@ -652802,6 +655279,20 @@ window.CATALOG = {
         "Pregnant woman hypnotized / mind-controlled by a child (fetus, dead-child ghost, or alien child)",
         "Unborn-demon bodily control",
         "HIGH"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Charmed_season_4"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0539484"
+        },
+        {
+         "label": "Charmed Wiki script",
+         "url": "https://charmed.fandom.com/wiki/Womb_Raider/Script"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
