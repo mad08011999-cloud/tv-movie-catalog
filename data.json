@@ -13485,7 +13485,7 @@
    "description": "Second track of the 19 Nov 2026 deep refresh, focused on the core question: an adult woman is hypnotized and becomes pregnant (again), whether the couple ends up with the child(ren), and whether she already had children. Swept web search in English, Japanese, Chinese, Korean, Thai, Indonesian, Turkish, Spanish and Hindi; vertical/short-drama aggregators (ReelShort, DramaBox, ShortMax, GoodShort, NetShort, DramaSpot, MicroDramaList, DramaDb); TikTok/Instagram/YouTube/Bilibili via web search; X public search; AI-generated works; and official DLsite store listings and DLsite's public product API (genre filters 催眠 + 妊娠/孕ませ + 人妻/母親/出産). Mainstream screen leads found this run were already in the catalog, so the new records are adult (18+) doujin manga, CG works, games and audio dramas. Adults only; anything with minors, school-age targets, child narrators or children present during sexual content is held in dropped. Non-explicit notes; plots come only from the official listing text; uncertain outcomes are marked unknown/not stated. Kept separate from sources/deep-refresh-nov19.json because a parallel run was writing that file; appended at the true end of SOURCES so existing IDs do not shift.",
    "dropped": [],
    "check": {
-    "raw_count": 10,
+    "raw_count": 27,
     "ok": true
    },
    "status": "local"
@@ -13601,10 +13601,10 @@
   "deep-refresh-nov19": 3,
   "partner-hypnosis-nov19": 1,
   "partner-hypnosis-nov19b": 3,
-  "deep-refresh-nov19-b": 10
+  "deep-refresh-nov19-b": 27
  },
- "raw_total": 7718,
- "entry_count": 3899,
+ "raw_total": 7735,
+ "entry_count": 3916,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13622,7 +13622,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 388
+   "entry_count": 405
   },
   {
    "key": "belly",
@@ -13790,7 +13790,7 @@
    "key": "hypno-intimacy",
    "label": "Hypnotized woman intimate with the hypnotist or the man he directs",
    "legend_label": "Hypnotized into intimacy",
-   "entry_count": 87
+   "entry_count": 104
   },
   {
    "key": "indian-female-hypnosis",
@@ -13982,13 +13982,13 @@
    "key": "index-37",
    "label": "Pregnant woman hypnotized / mind-controlled",
    "legend_label": "Pregnant woman hypnotized / mind-controlled",
-   "entry_count": 19
+   "entry_count": 20
   },
   {
    "key": "pregnant-strict",
    "label": "Pregnant woman hypnotized while pregnant — strict core",
    "legend_label": "Pregnant woman hypnotized while pregnant — strict core",
-   "entry_count": 19
+   "entry_count": 20
   },
   {
    "key": "pregnancy-evil",
@@ -14036,7 +14036,7 @@
    "key": "index-50",
    "label": "Rich woman hypnotized — sex / erotic exploitation",
    "legend_label": "Rich woman hypnotized — sex / erotic exploitation",
-   "entry_count": 15
+   "entry_count": 18
   },
   {
    "key": "index-53",
@@ -14156,7 +14156,7 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 207
+   "entry_count": 224
   },
   {
    "key": "therapist-wife",
@@ -603689,6 +603689,1574 @@
      ]
     }
    }
+  },
+  {
+   "id": 4095,
+   "title": "催○術で新婚人妻マナカさんとエッチしよう",
+   "subtitle": "",
+   "year": "2017",
+   "meta": "CG collection · Japan · Japanese · circle デルタブレード (すみやお) · DLsite RJ205445 · released 10 Aug 2017; pregnancy part added 29 Aug 2018 · R18 · optional voice-comic add-on",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: the narrator hypnotizes his newlywed neighbor Manaka into believing he is her husband, whom she adores; he resents that she and her real husband are trying for a baby. A 2018 update adds a section with Manaka pregnant.",
+   "character": "マナカ (Manaka), a newlywed neighbor in the same apartment building",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnant (pregnancy section added 29 Aug 2018); birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "The neighbor narrator",
+   "method": "Hypnosis making her take him for her husband",
+   "kids_status": "not stated",
+   "kids_note": "Not stated; newlywed.",
+   "kids_together": "no",
+   "kids_together_note": "Described as 托卵 (a child fathered by the neighbor and passed off as the husband's); no child with her husband is described.",
+   "pregnant_end": "yes",
+   "evidence": "Official DLsite page RJ205445 (opened 19 Nov 2026), including the 2018-08-29 note adding a pregnancy section.",
+   "adult": "yes",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ205445.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:11": {
+     "pregnant_end": "yes",
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "催○術で新婚人妻マナカさんとエッチしよう",
+     "year": "2017",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "CG collection · Japan · Japanese · circle デルタブレード (すみやお) · DLsite RJ205445 · released 10 Aug 2017; pregnancy part added 29 Aug 2018 · R18 · optional voice-comic add-on",
+     "character": "マナカ (Manaka), a newlywed neighbor in the same apartment building",
+     "summary": "Official copy: the narrator hypnotizes his newlywed neighbor Manaka into believing he is her husband, whom she adores; he resents that she and her real husband are trying for a baby. A 2018 update adds a section with Manaka pregnant.",
+     "hypnotist": "The neighbor narrator",
+     "method": "Hypnosis making her take him for her husband",
+     "kids_note": "Not stated; newlywed.",
+     "kids_together_note": "Described as 托卵 (a child fathered by the neighbor and passed off as the husband's); no child with her husband is described.",
+     "pregnancy_outcome": "Pregnant (pregnancy section added 29 Aug 2018); birth not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ205445.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ205445 (opened 19 Nov 2026), including the 2018-08-29 note adding a pregnancy section.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4096,
+   "title": "隣の新婚ホヤホヤの若妻を催○で夫と思わせ種付けする話",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "CG collection · Japan · Japanese · circle にぼ煮干 · DLsite RJ01166459 · released 27 Apr 2024 · R18",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: the narrator uses a secret hypnosis item to make his newlywed neighbor Mia believe he is her husband. She hopes to get pregnant and later tells him first about a positive pregnancy test.",
+   "character": "涼森みあ (Suzumori Mia), a newlywed neighbor",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Positive pregnancy test, with pregnancy scenes; birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "The neighbor narrator",
+   "method": "Hypnosis item making her take him for her husband",
+   "kids_status": "not stated",
+   "kids_note": "Not stated; newlywed hoping to conceive.",
+   "kids_together": "no",
+   "kids_together_note": "No: the pregnancy is the neighbor's.",
+   "pregnant_end": "yes",
+   "evidence": "Official DLsite page RJ01166459 (opened 19 Nov 2026) mentions the hypnosis item, the positive pregnancy test and pregnancy scenes.",
+   "adult": "yes",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01166459.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:12": {
+     "pregnant_end": "yes",
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "隣の新婚ホヤホヤの若妻を催○で夫と思わせ種付けする話",
+     "year": "2024",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "CG collection · Japan · Japanese · circle にぼ煮干 · DLsite RJ01166459 · released 27 Apr 2024 · R18",
+     "character": "涼森みあ (Suzumori Mia), a newlywed neighbor",
+     "summary": "Official copy: the narrator uses a secret hypnosis item to make his newlywed neighbor Mia believe he is her husband. She hopes to get pregnant and later tells him first about a positive pregnancy test.",
+     "hypnotist": "The neighbor narrator",
+     "method": "Hypnosis item making her take him for her husband",
+     "kids_note": "Not stated; newlywed hoping to conceive.",
+     "kids_together_note": "No: the pregnancy is the neighbor's.",
+     "pregnancy_outcome": "Positive pregnancy test, with pregnancy scenes; birth not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01166459.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ01166459 (opened 19 Nov 2026) mentions the hypnosis item, the positive pregnancy test and pregnancy scenes.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4097,
+   "title": "隣の爆乳若妻サイミン寝取りー子なし夫婦に種付け托卵する俺ー",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Manga · Japan · Japanese · circle あかめ・てい · DLsite RJ01183894 · released 17 Apr 2024 · R18 · genres 人妻, 催眠, 洗脳, 妊娠/孕ませ",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: a man who has learned hypnosis tries it on the young wife who just moved in next door. She is highly suggestible, and he gets her pregnant in place of her husband; the subtitle frames it as 托卵 on a childless couple.",
+   "character": "A young wife who recently moved in next door (unnamed in the listing)",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnancy by the neighbor (per subtitle and genre); birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "The neighbor",
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_note": "No: the subtitle calls them a childless couple (子なし夫婦).",
+   "kids_together": "no",
+   "kids_together_note": "No: the child is the neighbor's, passed off in the marriage (托卵).",
+   "pregnant_end": "yes",
+   "evidence": "DLsite product data for RJ01183894 (title, 17 Apr 2024, genres, intro). Product page is region-restricted from this network.",
+   "adult": "yes",
+   "format": "digital manga (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01183894.html"
+    },
+    {
+     "label": "DLsite product API (official listing data)",
+     "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01183894"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:13": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "隣の爆乳若妻サイミン寝取りー子なし夫婦に種付け托卵する俺ー",
+     "year": "2024",
+     "format": "digital manga (adult, DLsite)",
+     "meta": "Manga · Japan · Japanese · circle あかめ・てい · DLsite RJ01183894 · released 17 Apr 2024 · R18 · genres 人妻, 催眠, 洗脳, 妊娠/孕ませ",
+     "character": "A young wife who recently moved in next door (unnamed in the listing)",
+     "summary": "Official copy: a man who has learned hypnosis tries it on the young wife who just moved in next door. She is highly suggestible, and he gets her pregnant in place of her husband; the subtitle frames it as 托卵 on a childless couple.",
+     "hypnotist": "The neighbor",
+     "method": "Hypnosis",
+     "kids_note": "No: the subtitle calls them a childless couple (子なし夫婦).",
+     "kids_together_note": "No: the child is the neighbor's, passed off in the marriage (托卵).",
+     "pregnancy_outcome": "Pregnancy by the neighbor (per subtitle and genre); birth not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01183894.html"
+      },
+      {
+       "label": "DLsite product API (official listing data)",
+       "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01183894"
+      }
+     ],
+     "evidence": "DLsite product data for RJ01183894 (title, 17 Apr 2024, genres, intro). Product page is region-restricted from this network.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4098,
+   "title": "【催○】となりに引っ越してきた清楚な新妻に、托卵志願させるまで",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Voice drama / ASMR · Japan · Japanese · circle Sweet Bully · DLsite RJ01164869 · released 15 Mar 2024 · R18",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: the listener shows his new neighbor Sayaka a hypnosis app on his phone, so she takes him for her husband, and he conditions her until she asks to carry his child in her marriage (托卵).",
+   "character": "佐伯紗耶香 (Saeki Sayaka), a newlywed neighbor",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "She asks to conceive his child (托卵志願); actual pregnancy and birth are not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "The listener (neighbor)",
+   "method": "Hypnosis app",
+   "kids_status": "not stated",
+   "kids_note": "Not stated; newlywed.",
+   "kids_together": "no",
+   "kids_together_note": "No child with her husband is described.",
+   "pregnant_end": "unknown",
+   "evidence": "Official DLsite page RJ01164869 (opened 19 Nov 2026).",
+   "adult": "yes",
+   "format": "audio drama (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01164869.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:14": {
+     "pregnant_end": "unknown",
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "【催○】となりに引っ越してきた清楚な新妻に、托卵志願させるまで",
+     "year": "2024",
+     "format": "audio drama (adult, DLsite)",
+     "meta": "Voice drama / ASMR · Japan · Japanese · circle Sweet Bully · DLsite RJ01164869 · released 15 Mar 2024 · R18",
+     "character": "佐伯紗耶香 (Saeki Sayaka), a newlywed neighbor",
+     "summary": "Official copy: the listener shows his new neighbor Sayaka a hypnosis app on his phone, so she takes him for her husband, and he conditions her until she asks to carry his child in her marriage (托卵).",
+     "hypnotist": "The listener (neighbor)",
+     "method": "Hypnosis app",
+     "kids_note": "Not stated; newlywed.",
+     "kids_together_note": "No child with her husband is described.",
+     "pregnancy_outcome": "She asks to conceive his child (托卵志願); actual pregnancy and birth are not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01164869.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ01164869 (opened 19 Nov 2026).",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4099,
+   "title": "兄の結婚式を催○ジャック～兄嫁が妊娠したのは俺の子でした～",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Manga · Japan · Japanese · circle あかめ・てい · DLsite RJ01199067 · released 20 May 2024 · R18 · genres 人妻, 寝取り, 催眠, 妊娠/孕ませ, ぼて腹/妊婦",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: an unattractive but well-liked man gets a brainwashing app and takes over his brother's wedding; the subtitle says the bride's pregnancy is his child, not his brother's.",
+   "character": "The narrator's brother's bride (unnamed in the listing)",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Bride pregnant by her husband's brother; birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "The groom's brother",
+   "method": "Brainwashing / hypnosis app",
+   "kids_status": "not stated",
+   "kids_note": "Not stated; newly married.",
+   "kids_together": "no",
+   "kids_together_note": "No: the bride's child is the brother-in-law's (per subtitle).",
+   "pregnant_end": "yes",
+   "evidence": "DLsite product data for RJ01199067 (title, genres incl. ぼて腹/妊婦, intro). Product page is region-restricted from this network.",
+   "adult": "yes",
+   "format": "digital manga (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01199067.html"
+    },
+    {
+     "label": "DLsite product API (official listing data)",
+     "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01199067"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:15": {
+     "pregnant_end": "yes",
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "兄の結婚式を催○ジャック～兄嫁が妊娠したのは俺の子でした～",
+     "year": "2024",
+     "format": "digital manga (adult, DLsite)",
+     "meta": "Manga · Japan · Japanese · circle あかめ・てい · DLsite RJ01199067 · released 20 May 2024 · R18 · genres 人妻, 寝取り, 催眠, 妊娠/孕ませ, ぼて腹/妊婦",
+     "character": "The narrator's brother's bride (unnamed in the listing)",
+     "summary": "Official copy: an unattractive but well-liked man gets a brainwashing app and takes over his brother's wedding; the subtitle says the bride's pregnancy is his child, not his brother's.",
+     "hypnotist": "The groom's brother",
+     "method": "Brainwashing / hypnosis app",
+     "kids_note": "Not stated; newly married.",
+     "kids_together_note": "No: the bride's child is the brother-in-law's (per subtitle).",
+     "pregnancy_outcome": "Bride pregnant by her husband's brother; birth not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01199067.html"
+      },
+      {
+       "label": "DLsite product API (official listing data)",
+       "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01199067"
+      }
+     ],
+     "evidence": "DLsite product data for RJ01199067 (title, genres incl. ぼて腹/妊婦, intro). Product page is region-restricted from this network.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4100,
+   "title": "出張中に息子の嫁を催○アプリでワシの女にしちゃった件",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "CG collection · Japan · Japanese · circle 褌 · DLsite RJ414858 · released 29 Aug 2022 · R18 · genres 人妻, 同居, 寝取られ, 催眠, 妊娠/孕ませ",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: while her husband is away on a business trip, Mai is left alone with her father-in-law, who brings out a strange app and makes her look at it.",
+   "character": "麻衣 (Mai), a daughter-in-law living with her father-in-law",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnancy is tagged (妊娠/孕ませ genre); outcome not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "Her father-in-law",
+   "method": "Hypnosis app",
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "pregnant_end": "unknown",
+   "evidence": "Official DLsite page RJ414858 (opened 19 Nov 2026).",
+   "adult": "yes",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ414858.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:16": {
+     "pregnant_end": "unknown",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "出張中に息子の嫁を催○アプリでワシの女にしちゃった件",
+     "year": "2022",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "CG collection · Japan · Japanese · circle 褌 · DLsite RJ414858 · released 29 Aug 2022 · R18 · genres 人妻, 同居, 寝取られ, 催眠, 妊娠/孕ませ",
+     "character": "麻衣 (Mai), a daughter-in-law living with her father-in-law",
+     "summary": "Official copy: while her husband is away on a business trip, Mai is left alone with her father-in-law, who brings out a strange app and makes her look at it.",
+     "hypnotist": "Her father-in-law",
+     "method": "Hypnosis app",
+     "kids_note": "Not stated.",
+     "kids_together_note": "Not stated.",
+     "pregnancy_outcome": "Pregnancy is tagged (妊娠/孕ませ genre); outcome not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ414858.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ414858 (opened 19 Nov 2026).",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4101,
+   "title": "区長に催○かけられて妊娠しちゃいました",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "Manga · Japan · Japanese · circle 七つの鍵穴 · DLsite RJ296088 · released 6 Sep 2020 (digital edition of an April 2019 doujinshi) · R18 · 22 pages",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: the meddling head of the local residents' association talks the young couple into trying hypnosis 'for fun'. Both fall under it, as he intended; he has hypnotized people in the area many times. The title says the wife becomes pregnant.",
+   "character": "A young wife who has just moved into a house with her husband",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnant by the association head (per title); birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "The neighborhood association head (区長)",
+   "method": "Hypnosis of both husband and wife",
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "no",
+   "kids_together_note": "No child with her husband is described; the pregnancy is the association head's.",
+   "pregnant_end": "yes",
+   "evidence": "Official DLsite page RJ296088 (opened 19 Nov 2026); notes it digitizes an April 2019 doujinshi.",
+   "adult": "yes",
+   "format": "digital manga (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ296088.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:17": {
+     "pregnant_end": "yes",
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "区長に催○かけられて妊娠しちゃいました",
+     "year": "2020",
+     "format": "digital manga (adult, DLsite)",
+     "meta": "Manga · Japan · Japanese · circle 七つの鍵穴 · DLsite RJ296088 · released 6 Sep 2020 (digital edition of an April 2019 doujinshi) · R18 · 22 pages",
+     "character": "A young wife who has just moved into a house with her husband",
+     "summary": "Official copy: the meddling head of the local residents' association talks the young couple into trying hypnosis 'for fun'. Both fall under it, as he intended; he has hypnotized people in the area many times. The title says the wife becomes pregnant.",
+     "hypnotist": "The neighborhood association head (区長)",
+     "method": "Hypnosis of both husband and wife",
+     "kids_note": "Not stated.",
+     "kids_together_note": "No child with her husband is described; the pregnancy is the association head's.",
+     "pregnancy_outcome": "Pregnant by the association head (per title); birth not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ296088.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ296088 (opened 19 Nov 2026); notes it digitizes an April 2019 doujinshi.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4102,
+   "title": "孕ませレンタルワイフ種付け催○",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "Full-colour digital comic · Japan · Japanese · circle きゃっと★たわぁー · DLsite RJ01080884 · released 4 Aug 2023 · R18 · 24 pages",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: Tanabe, sent to a country town by a 'wife rental association', is asked by an old woman to make her son's wife pregnant. When Ayako refuses, the old woman uses a special hypnosis on her. When the husband walks in on them, it turns out he has been hypnotized too.",
+   "character": "彩子 (Ayako), a married daughter-in-law in a country town",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Made pregnant (per the listing); birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "Her mother-in-law (the hypnosis) acting for Tanabe",
+   "method": "A special hypnotic technique; the husband is also hypnotized",
+   "kids_status": "not stated",
+   "kids_note": "Not stated; the mother-in-law wants a grandchild.",
+   "kids_together": "no",
+   "kids_together_note": "No child with her husband is described; the intended pregnancy is Tanabe's.",
+   "pregnant_end": "yes",
+   "evidence": "Official DLsite page RJ01080884 (opened 19 Nov 2026).",
+   "adult": "yes",
+   "format": "digital manga (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01080884.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:18": {
+     "pregnant_end": "yes",
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "孕ませレンタルワイフ種付け催○",
+     "year": "2023",
+     "format": "digital manga (adult, DLsite)",
+     "meta": "Full-colour digital comic · Japan · Japanese · circle きゃっと★たわぁー · DLsite RJ01080884 · released 4 Aug 2023 · R18 · 24 pages",
+     "character": "彩子 (Ayako), a married daughter-in-law in a country town",
+     "summary": "Official copy: Tanabe, sent to a country town by a 'wife rental association', is asked by an old woman to make her son's wife pregnant. When Ayako refuses, the old woman uses a special hypnosis on her. When the husband walks in on them, it turns out he has been hypnotized too.",
+     "hypnotist": "Her mother-in-law (the hypnosis) acting for Tanabe",
+     "method": "A special hypnotic technique; the husband is also hypnotized",
+     "kids_note": "Not stated; the mother-in-law wants a grandchild.",
+     "kids_together_note": "No child with her husband is described; the intended pregnancy is Tanabe's.",
+     "pregnancy_outcome": "Made pregnant (per the listing); birth not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01080884.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ01080884 (opened 19 Nov 2026).",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4103,
+   "title": "催●支配！妊娠した隣の人妻が再び支配されるまでの話",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "CG collection · Japan · Japanese · circle おはぎ (催●支配！ series) · DLsite RJ01708551 · released 2 Sep 2026 · R18 · genres 人妻, 催眠, 洗脳, 妊娠/孕ませ, ぼて腹/妊婦",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: while her husband is away on business, the hypnosis app is switched on again, this time on Mizuki, who is now pregnant.",
+   "character": "美月 (Mizuki), a pregnant married neighbor",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Already pregnant when hypnotized again; birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "The neighbor with the hypnosis app",
+   "method": "Hypnosis app",
+   "kids_status": "not stated",
+   "kids_note": "Not stated; she is pregnant at the start.",
+   "kids_together": "no",
+   "kids_together_note": "Not stated whose the pregnancy is; no child with her husband is described.",
+   "pregnant_end": "yes",
+   "evidence": "DLsite product data for RJ01708551 (title, 2 Sep 2026, genres incl. ぼて腹/妊婦, intro naming the pregnant Mizuki). Product page is region-restricted from this network.",
+   "fit_note": "Strict core: a pregnant adult woman hypnotized while pregnant.",
+   "adult": "yes",
+   "pregnancy_again": "ongoing",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "pregnant-strict",
+    "index-37",
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01708551.html"
+    },
+    {
+     "label": "DLsite product API (official listing data)",
+     "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01708551"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:19"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:19": {
+     "pregnant_end": "yes",
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "催●支配！妊娠した隣の人妻が再び支配されるまでの話",
+     "year": "2026",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "CG collection · Japan · Japanese · circle おはぎ (催●支配！ series) · DLsite RJ01708551 · released 2 Sep 2026 · R18 · genres 人妻, 催眠, 洗脳, 妊娠/孕ませ, ぼて腹/妊婦",
+     "character": "美月 (Mizuki), a pregnant married neighbor",
+     "summary": "Official copy: while her husband is away on business, the hypnosis app is switched on again, this time on Mizuki, who is now pregnant.",
+     "hypnotist": "The neighbor with the hypnosis app",
+     "method": "Hypnosis app",
+     "kids_note": "Not stated; she is pregnant at the start.",
+     "kids_together_note": "Not stated whose the pregnancy is; no child with her husband is described.",
+     "pregnancy_outcome": "Already pregnant when hypnotized again; birth not stated.",
+     "pregnancy_again": "ongoing",
+     "categories": [
+      "pregnant-strict",
+      "index-37",
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01708551.html"
+      },
+      {
+       "label": "DLsite product API (official listing data)",
+       "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01708551"
+      }
+     ],
+     "evidence": "DLsite product data for RJ01708551 (title, 2 Sep 2026, genres incl. ぼて腹/妊婦, intro naming the pregnant Mizuki). Product page is region-restricted from this network.",
+     "fit_note": "Strict core: a pregnant adult woman hypnotized while pregnant.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4104,
+   "title": "催●支配！引っ越してきた隣の人妻がラブドールにされた話",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "CG collection · Japan · Japanese · circle おはぎ (催●支配！ series) · DLsite RJ01541590 · released 10 Jan 2026 · R18 · genres 人妻, 催眠, 洗脳, 妊娠/孕ませ",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: a lonely 60-year-old man gets a hypnosis app, and the daily life of the kind married woman who moved in next door is quietly rewritten.",
+   "character": "A kind married woman who moved in next door (unnamed in the listing)",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnancy is tagged (妊娠/孕ませ genre); outcome not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "A 60-year-old neighbor",
+   "method": "Hypnosis app",
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "pregnant_end": "unknown",
+   "evidence": "DLsite product data for RJ01541590. Product page is region-restricted from this network.",
+   "adult": "yes",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01541590.html"
+    },
+    {
+     "label": "DLsite product API (official listing data)",
+     "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01541590"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:20": {
+     "pregnant_end": "unknown",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "催●支配！引っ越してきた隣の人妻がラブドールにされた話",
+     "year": "2026",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "CG collection · Japan · Japanese · circle おはぎ (催●支配！ series) · DLsite RJ01541590 · released 10 Jan 2026 · R18 · genres 人妻, 催眠, 洗脳, 妊娠/孕ませ",
+     "character": "A kind married woman who moved in next door (unnamed in the listing)",
+     "summary": "Official copy: a lonely 60-year-old man gets a hypnosis app, and the daily life of the kind married woman who moved in next door is quietly rewritten.",
+     "hypnotist": "A 60-year-old neighbor",
+     "method": "Hypnosis app",
+     "kids_note": "Not stated.",
+     "kids_together_note": "Not stated.",
+     "pregnancy_outcome": "Pregnancy is tagged (妊娠/孕ませ genre); outcome not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01541590.html"
+      },
+      {
+       "label": "DLsite product API (official listing data)",
+       "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01541590"
+      }
+     ],
+     "evidence": "DLsite product data for RJ01541590. Product page is region-restricted from this network.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4105,
+   "title": "催●支配！巨乳保育士と上流階級の人妻を孕ませるまでの話",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "CG collection · Japan · Japanese · circle おはぎ (催●支配！ series) · DLsite RJ01532496 · released 24 Dec 2025 · R18 · genres 人妻, 催眠, 洗脳, 妊娠/孕ませ",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: an ignored 52-year-old man finds a mysterious app and uses it to control a married teacher, a new nursery worker and an upper-class married woman. The title says he gets them pregnant.",
+   "character": "A married teacher, a new nursery-school worker, and an upper-class married woman (all adults; unnamed in the listing)",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnancy by the app user (per title); birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "A 52-year-old man",
+   "method": "Hypnosis app",
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "pregnant_end": "yes",
+   "evidence": "DLsite product data for RJ01532496. Product page is region-restricted from this network. All named targets are adult workers or wives; no children appear in the listing.",
+   "adult": "yes",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "index-50",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01532496.html"
+    },
+    {
+     "label": "DLsite product API (official listing data)",
+     "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01532496"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:21": {
+     "pregnant_end": "yes",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "催●支配！巨乳保育士と上流階級の人妻を孕ませるまでの話",
+     "year": "2025",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "CG collection · Japan · Japanese · circle おはぎ (催●支配！ series) · DLsite RJ01532496 · released 24 Dec 2025 · R18 · genres 人妻, 催眠, 洗脳, 妊娠/孕ませ",
+     "character": "A married teacher, a new nursery-school worker, and an upper-class married woman (all adults; unnamed in the listing)",
+     "summary": "Official copy: an ignored 52-year-old man finds a mysterious app and uses it to control a married teacher, a new nursery worker and an upper-class married woman. The title says he gets them pregnant.",
+     "hypnotist": "A 52-year-old man",
+     "method": "Hypnosis app",
+     "kids_note": "Not stated.",
+     "kids_together_note": "Not stated.",
+     "pregnancy_outcome": "Pregnancy by the app user (per title); birth not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "index-50",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01532496.html"
+      },
+      {
+       "label": "DLsite product API (official listing data)",
+       "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01532496"
+      }
+     ],
+     "evidence": "DLsite product data for RJ01532496. Product page is region-restricted from this network. All named targets are adult workers or wives; no children appear in the listing.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4106,
+   "title": "タワマンの勝ち組妻たちを催●アプリで書き換えて、全員オレの女にした話",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "CG collection · Japan · Japanese · circle ないしょ便 · DLsite RJ01753682 · released 31 Oct 2026 · R18 · genres 人妻, 常識改変, 寝取り",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: a cleaner behind on his rent gets a real hypnosis app and rewrites the common sense of three married women in a luxury tower who looked down on him, right next to their husbands.",
+   "character": "Three wealthy married women in a high-rise tower apartment",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Not stated (no pregnancy tag).",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "A tower-apartment cleaner",
+   "method": "Hypnosis app (common-sense rewriting)",
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "pregnant_end": "unknown",
+   "evidence": "DLsite product data for RJ01753682. Product page is region-restricted from this network.",
+   "fit_note": "Hypnotized-wife fit only; no pregnancy in the listing.",
+   "adult": "yes",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "index-50",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01753682.html"
+    },
+    {
+     "label": "DLsite product API (official listing data)",
+     "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01753682"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:22": {
+     "pregnant_end": "unknown",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "タワマンの勝ち組妻たちを催●アプリで書き換えて、全員オレの女にした話",
+     "year": "2026",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "CG collection · Japan · Japanese · circle ないしょ便 · DLsite RJ01753682 · released 31 Oct 2026 · R18 · genres 人妻, 常識改変, 寝取り",
+     "character": "Three wealthy married women in a high-rise tower apartment",
+     "summary": "Official copy: a cleaner behind on his rent gets a real hypnosis app and rewrites the common sense of three married women in a luxury tower who looked down on him, right next to their husbands.",
+     "hypnotist": "A tower-apartment cleaner",
+     "method": "Hypnosis app (common-sense rewriting)",
+     "kids_note": "Not stated.",
+     "kids_together_note": "Not stated.",
+     "pregnancy_outcome": "Not stated (no pregnancy tag).",
+     "categories": [
+      "wife-hypnotized",
+      "index-50",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01753682.html"
+      },
+      {
+       "label": "DLsite product API (official listing data)",
+       "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01753682"
+      }
+     ],
+     "evidence": "DLsite product data for RJ01753682. Product page is region-restricted from this network.",
+     "fit_note": "Hypnotized-wife fit only; no pregnancy in the listing.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4107,
+   "title": "【常識改変特化】学生時代に俺をいじめてたアイツがタワマン生活してたから、アイツの妻に俺の子を孕みたくなるよう書き換えて人生奪い取った話【寝取り無責任孕ませ】",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Voice drama / ASMR · Japan · Japanese · circle 人生劇場 · DLsite RJ01596453 · released 3 Apr 2026 · R18 · genres 人妻, 常識改変, 寝取り, 催眠, 妊娠/孕ませ",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: posing as her husband's acquaintance, the narrator visits Reina and uses a 'rewriting spray' so that what he says becomes absolute common sense to her, for example that bearing children is a woman's duty. He conditions her to want his child, while 'the husband raises, you make'.",
+   "character": "玲奈 (Reina), the wife of the narrator's former school bully, living in a luxury tower",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Conditioned to want to conceive his child; the listing does not confirm a pregnancy or birth.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "The narrator (her husband's former school victim, now an adult)",
+   "method": "Common-sense-rewriting spray (tagged 催眠)",
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "yes",
+   "kids_together_note": "Per the listing's framing, the husband is to raise the child the narrator fathers.",
+   "pregnant_end": "unknown",
+   "evidence": "Official DLsite page RJ01596453 (opened 19 Nov 2026). The 'school days' are the men's past; all present-day characters are adults.",
+   "adult": "yes",
+   "format": "audio drama (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "index-50",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01596453.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:23"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:23": {
+     "pregnant_end": "unknown",
+     "kids_status": "not stated",
+     "kids_together": "yes",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "【常識改変特化】学生時代に俺をいじめてたアイツがタワマン生活してたから、アイツの妻に俺の子を孕みたくなるよう書き換えて人生奪い取った話【寝取り無責任孕ませ】",
+     "year": "2026",
+     "format": "audio drama (adult, DLsite)",
+     "meta": "Voice drama / ASMR · Japan · Japanese · circle 人生劇場 · DLsite RJ01596453 · released 3 Apr 2026 · R18 · genres 人妻, 常識改変, 寝取り, 催眠, 妊娠/孕ませ",
+     "character": "玲奈 (Reina), the wife of the narrator's former school bully, living in a luxury tower",
+     "summary": "Official copy: posing as her husband's acquaintance, the narrator visits Reina and uses a 'rewriting spray' so that what he says becomes absolute common sense to her, for example that bearing children is a woman's duty. He conditions her to want his child, while 'the husband raises, you make'.",
+     "hypnotist": "The narrator (her husband's former school victim, now an adult)",
+     "method": "Common-sense-rewriting spray (tagged 催眠)",
+     "kids_note": "Not stated.",
+     "kids_together_note": "Per the listing's framing, the husband is to raise the child the narrator fathers.",
+     "pregnancy_outcome": "Conditioned to want to conceive his child; the listing does not confirm a pregnancy or birth.",
+     "categories": [
+      "wife-hypnotized",
+      "index-50",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01596453.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ01596453 (opened 19 Nov 2026). The 'school days' are the men's past; all present-day characters are adults.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4108,
+   "title": "夏の海で堕ちゆく人妻 ―白石結菜28歳、催○に溺れる休日―",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "CG collection · Japan · Japanese · circle 堕ちゆく人妻倶楽部 · DLsite RJ01467749 · released 14 Sep 2025 · R18 · genres 人妻, 水着, 催眠, 妊娠/孕ませ",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: while her husband is away on business, Yuna goes to the beach with a friend, and a mysterious man with a hypnosis device puts her under. Weeks later she is in tears holding a pregnancy test.",
+   "character": "白石結菜 (Shiraishi Yuna, 28), a full-time housewife in her third year of marriage",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnant (pregnancy test weeks later); father implied to be the hypnotist; birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "A stranger with a hypnosis device",
+   "method": "Hypnosis device",
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "pregnant_end": "yes",
+   "evidence": "DLsite product data for RJ01467749 (intro names Yuna, 28, and the pregnancy test). Product page is region-restricted from this network. Other volumes of the 夏の海で堕ちゆく人妻 series were not checked for hypnosis.",
+   "adult": "yes",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01467749.html"
+    },
+    {
+     "label": "DLsite product API (official listing data)",
+     "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01467749"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:24"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:24": {
+     "pregnant_end": "yes",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "夏の海で堕ちゆく人妻 ―白石結菜28歳、催○に溺れる休日―",
+     "year": "2025",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "CG collection · Japan · Japanese · circle 堕ちゆく人妻倶楽部 · DLsite RJ01467749 · released 14 Sep 2025 · R18 · genres 人妻, 水着, 催眠, 妊娠/孕ませ",
+     "character": "白石結菜 (Shiraishi Yuna, 28), a full-time housewife in her third year of marriage",
+     "summary": "Official copy: while her husband is away on business, Yuna goes to the beach with a friend, and a mysterious man with a hypnosis device puts her under. Weeks later she is in tears holding a pregnancy test.",
+     "hypnotist": "A stranger with a hypnosis device",
+     "method": "Hypnosis device",
+     "kids_note": "Not stated.",
+     "kids_together_note": "Not stated.",
+     "pregnancy_outcome": "Pregnant (pregnancy test weeks later); father implied to be the hypnotist; birth not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01467749.html"
+      },
+      {
+       "label": "DLsite product API (official listing data)",
+       "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01467749"
+      }
+     ],
+     "evidence": "DLsite product data for RJ01467749 (intro names Yuna, 28, and the pregnancy test). Product page is region-restricted from this network. Other volumes of the 夏の海で堕ちゆく人妻 series were not checked for hypnosis.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4109,
+   "title": "突然ですがオレ好みのエロい人妻が歩いていたので催○かけてみた。",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "CG collection · Japan · Japanese · circle みけるぎい · DLsite RJ01386460 · released 2 May 2025 (first posted on the creator's support site, Apr 2024) · R18",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: a man hypnotizes a married woman he sees on the street, makes her take him home, takes over the couple's house, and the listing's story outline ends with '→ pregnancy'.",
+   "character": "A married woman passing by (unnamed in the listing)",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnant (final step of the outline); birth not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "A stranger",
+   "method": "Hypnosis",
+   "kids_status": "not stated",
+   "kids_note": "Not stated (the listing mentions a nursing scene but no child).",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "pregnant_end": "yes",
+   "evidence": "Official DLsite page RJ01386460 (opened 19 Nov 2026).",
+   "adult": "yes",
+   "format": "illustrated work (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01386460.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:25"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:25": {
+     "pregnant_end": "yes",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "突然ですがオレ好みのエロい人妻が歩いていたので催○かけてみた。",
+     "year": "2025",
+     "format": "illustrated work (adult, DLsite)",
+     "meta": "CG collection · Japan · Japanese · circle みけるぎい · DLsite RJ01386460 · released 2 May 2025 (first posted on the creator's support site, Apr 2024) · R18",
+     "character": "A married woman passing by (unnamed in the listing)",
+     "summary": "Official copy: a man hypnotizes a married woman he sees on the street, makes her take him home, takes over the couple's house, and the listing's story outline ends with '→ pregnancy'.",
+     "hypnotist": "A stranger",
+     "method": "Hypnosis",
+     "kids_note": "Not stated (the listing mentions a nursing scene but no child).",
+     "kids_together_note": "Not stated.",
+     "pregnancy_outcome": "Pregnant (final step of the outline); birth not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01386460.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ01386460 (opened 19 Nov 2026).",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4110,
+   "title": "近所の人妻を催○寝取り",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Manga · Japan · Japanese · circle システム同人 · DLsite RJ01359459 · released 20 Mar 2025 · R18 · 48 pages · genres 人妻, 寝取られ, 催眠, 妊娠/孕ませ",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy (one line): a story about hypnotizing a married neighbor and taking her from her husband.",
+   "character": "A married neighbor (unnamed)",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnancy is tagged (妊娠/孕ませ genre); outcome not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "A neighbor",
+   "method": "Hypnosis",
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "pregnant_end": "unknown",
+   "evidence": "Official DLsite page RJ01359459 (opened 19 Nov 2026); the synopsis is a single line.",
+   "adult": "yes",
+   "format": "digital manga (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01359459.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:26": {
+     "pregnant_end": "unknown",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "近所の人妻を催○寝取り",
+     "year": "2025",
+     "format": "digital manga (adult, DLsite)",
+     "meta": "Manga · Japan · Japanese · circle システム同人 · DLsite RJ01359459 · released 20 Mar 2025 · R18 · 48 pages · genres 人妻, 寝取られ, 催眠, 妊娠/孕ませ",
+     "character": "A married neighbor (unnamed)",
+     "summary": "Official copy (one line): a story about hypnotizing a married neighbor and taking her from her husband.",
+     "hypnotist": "A neighbor",
+     "method": "Hypnosis",
+     "kids_note": "Not stated.",
+     "kids_together_note": "Not stated.",
+     "pregnancy_outcome": "Pregnancy is tagged (妊娠/孕ませ genre); outcome not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01359459.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ01359459 (opened 19 Nov 2026); the synopsis is a single line.",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4111,
+   "title": "堅物な人妻に催○かけてエロ漫画風孕まセックス",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Manga · Japan · Japanese · circle しゅんか企画 · DLsite RJ01443716 · released 7 Aug 2025 · R18 · 52 pages · DLsite Play browser edition · genres 人妻, 寝取られ, 催眠, 妊娠/孕ませ",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official copy: Rie is always scolding Mataoka, an unemployed neighbor, about garbage rules. A 'hypnosis ring' turns up among his adult-goods deliveries, and he uses it on her. The search words include pregnancy and 托卵.",
+   "character": "満島りえ (Mitsushima Rie), a strict married neighbor in the same apartment building",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "note": "",
+   "pregnancy_outcome": "Pregnancy and 托卵 appear in the listing's keywords; outcome not stated.",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ],
+   "hypnotist": "股岡 (Mataoka), a neighbor",
+   "method": "Hypnosis ring",
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "pregnant_end": "unknown",
+   "evidence": "Official DLsite page RJ01443716 (opened 19 Nov 2026).",
+   "adult": "yes",
+   "format": "digital manga (adult, DLsite)",
+   "categories": [
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01443716.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-b"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-b:27"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-b:27": {
+     "pregnant_end": "unknown",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+     "adult": "yes",
+     "title": "堅物な人妻に催○かけてエロ漫画風孕まセックス",
+     "year": "2025",
+     "format": "digital manga (adult, DLsite)",
+     "meta": "Manga · Japan · Japanese · circle しゅんか企画 · DLsite RJ01443716 · released 7 Aug 2025 · R18 · 52 pages · DLsite Play browser edition · genres 人妻, 寝取られ, 催眠, 妊娠/孕ませ",
+     "character": "満島りえ (Mitsushima Rie), a strict married neighbor in the same apartment building",
+     "summary": "Official copy: Rie is always scolding Mataoka, an unemployed neighbor, about garbage rules. A 'hypnosis ring' turns up among his adult-goods deliveries, and he uses it on her. The search words include pregnancy and 托卵.",
+     "hypnotist": "股岡 (Mataoka), a neighbor",
+     "method": "Hypnosis ring",
+     "kids_note": "Not stated.",
+     "kids_together_note": "Not stated.",
+     "pregnancy_outcome": "Pregnancy and 托卵 appear in the listing's keywords; outcome not stated.",
+     "categories": [
+      "wife-hypnotized",
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official product page)",
+       "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01443716.html"
+      }
+     ],
+     "evidence": "Official DLsite page RJ01443716 (opened 19 Nov 2026).",
+     "confidence_flag": "Single source · flag",
+     "tags": [
+      "adult doujin",
+      "saimin"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -608648,6 +610216,10 @@
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4106,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4086,
        "from_source": "deep-refresh-nov19-b"
       },
@@ -608664,7 +610236,15 @@
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4098,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4089,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4095,
        "from_source": "deep-refresh-nov19-b"
       },
       {
@@ -608672,11 +610252,67 @@
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4103,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4105,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4104,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4085,
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4099,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4100,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4101,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4111,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4108,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4091,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4102,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4107,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4109,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4110,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4096,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4097,
        "from_source": "deep-refresh-nov19-b"
       }
      ],
@@ -632774,6 +634410,10 @@
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4106,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4086,
        "from_source": "deep-refresh-nov19-b"
       },
@@ -632790,7 +634430,15 @@
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4098,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4089,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4095,
        "from_source": "deep-refresh-nov19-b"
       },
       {
@@ -632798,11 +634446,67 @@
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4103,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4105,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4104,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4085,
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4099,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4100,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4101,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4111,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4108,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4091,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4102,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4107,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4109,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4110,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4096,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4097,
        "from_source": "deep-refresh-nov19-b"
       }
      ],
@@ -648271,13 +649975,15 @@
     "ig6qlxqxoxvcxla",
     "recheck-oct14",
     "pdf-hypnosis-sweeps-nov08",
-    "hypnosis-nov11"
+    "hypnosis-nov11",
+    "deep-refresh-nov19-b"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 15,
     "recheck-oct14": null,
     "pdf-hypnosis-sweeps-nov08": null,
-    "hypnosis-nov11": null
+    "hypnosis-nov11": null,
+    "deep-refresh-nov19-b": null
    },
    "groups": [
     {
@@ -648476,6 +650182,17 @@
       }
      ],
      "from_source": "hypnosis-nov11"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4103,
+       "from_source": "deep-refresh-nov19-b"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-b"
     }
    ]
   },
@@ -649188,7 +650905,8 @@
     "round3",
     "recheck-oct14",
     "hypno-pregnant-yt-oct25",
-    "vertical-hypnosis-nov6"
+    "vertical-hypnosis-nov6",
+    "deep-refresh-nov19-b"
    ],
    "groups": [
     {
@@ -649579,13 +651297,25 @@
       }
      ],
      "from_source": "vertical-hypnosis-nov6"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4103,
+       "from_source": "deep-refresh-nov19-b"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-b"
     }
    ],
    "declared_count_by_source": {
     "round3": null,
     "recheck-oct14": null,
     "hypno-pregnant-yt-oct25": null,
-    "vertical-hypnosis-nov6": null
+    "vertical-hypnosis-nov6": null,
+    "deep-refresh-nov19-b": null
    }
   },
   {
@@ -651694,7 +653424,8 @@
     "older-man-hypnosis",
     "hypnosis-assault",
     "hypnosis-assault-loose",
-    "saimin-sweep-nov11"
+    "saimin-sweep-nov11",
+    "deep-refresh-nov19-b"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 2,
@@ -651702,7 +653433,8 @@
     "older-man-hypnosis": null,
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
-    "saimin-sweep-nov11": null
+    "saimin-sweep-nov11": null,
+    "deep-refresh-nov19-b": null
    },
    "groups": [
     {
@@ -651821,6 +653553,25 @@
       }
      ],
      "from_source": "saimin-sweep-nov11"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4106,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4105,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4107,
+       "from_source": "deep-refresh-nov19-b"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-b"
     }
    ]
   },
@@ -667980,6 +669731,10 @@
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4106,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4086,
        "from_source": "deep-refresh-nov19-b"
       },
@@ -667996,7 +669751,15 @@
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4098,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4089,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4095,
        "from_source": "deep-refresh-nov19-b"
       },
       {
@@ -668004,11 +669767,67 @@
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4103,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4105,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4104,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4085,
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4099,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4100,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4101,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4111,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4108,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
        "id": 4091,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4102,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4107,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4109,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4110,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4096,
+       "from_source": "deep-refresh-nov19-b"
+      },
+      {
+       "id": 4097,
        "from_source": "deep-refresh-nov19-b"
       }
      ],
