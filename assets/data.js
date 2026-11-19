@@ -13391,6 +13391,91 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "partner-hypnosis-nov19b",
+   "label": "Hypnotized by her own partner — worldwide sweep, part B (19 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/partner-hypnosis-nov19b.json",
+   "description": "Worldwide all-media pass (19 Nov 2026 PT) for adult women hypnotized by their husband, fiancé or boyfriend, covering films, TV, soaps, short dramas, AI series, TikTok/Instagram and adult titles. The catalog is close to saturated: almost every candidate was already listed. Only titles not already present (by title, year and alternate titles) are added here. Family outcomes come from the cited sources, or are marked unknown or not stated.",
+   "dropped": [
+    {
+     "title": "婚潮无眠觉醒：反向拿捏大哥 (132-ep short drama)",
+     "year": "2026",
+     "reason": "The heroine only pretends to be hypnotized; no real hypnosis (same rule as His Hypnosis Never Worked)."
+    },
+    {
+     "title": "男朋友催眠让我忘记他三个月 / My Boyfriend Hypnotized Me into Forgetting Him for Three Months (Fanqie novel, 赵小贱)",
+     "year": "2025",
+     "reason": "Held. Reading work; the official Fanqie page shows no synopsis, so the plot comes only from the title and unofficial aggregators (https://daosearch.io/fanqie/book/7529329962885579288/my-boyfriend-hypnotized-me-into-forgetting-him-for-three)."
+    },
+    {
+     "title": "未婚夫催眠我后，我转身嫁给他小叔 (web novel)",
+     "reason": "Held. Reading work, sourced only from unofficial novel aggregators."
+    },
+    {
+     "title": "孤月催眠 (web novel)",
+     "reason": "Held. Reading work, sourced only from unofficial novel aggregators."
+    },
+    {
+     "title": "我听见未婚夫在催眠白月光 (web novel)",
+     "reason": "Held. Reading work, sourced only from unofficial aggregators; it is unclear whether the narrator or another woman is hypnotized."
+    },
+    {
+     "title": "After He Erased My Memory, I Came Back for Revenge (web novel)",
+     "reason": "Held. The fiancé hires a hypnotist, but the plot comes only from an unofficial novel site."
+    },
+    {
+     "title": "He Taught Her to Forget Him (web novel)",
+     "reason": "Held. Reading work with weak sourcing."
+    },
+    {
+     "title": "'He hypnotized me to make me forget him…' (YouTube narrated story, Mark tells a story)",
+     "reason": "Held. Narrated story with no verifiable original work or production."
+    },
+    {
+     "title": "'How I hypnotized my gf to giving me a kiss every morning' (Instagram reel, @relatablecattie)",
+     "reason": "Held. Cat-character meme skit; animal characters (same rule as Felix the Hypnotist)."
+    },
+    {
+     "title": "'Hypnotize❌ Shaadi✅' (Instagram couple-comedy reel)",
+     "reason": "Held. Only the caption is visible; the plot cannot be verified."
+    },
+    {
+     "title": "L'imperatore di Capri",
+     "year": "1949",
+     "reason": "The hypnosis-by-partner claim could not be verified (it.wiki and TMDB synopses don't mention it)."
+    },
+    {
+     "title": "Doctor Who — 'The Sound of Drums' (Lucy Saxon)",
+     "year": "2007",
+     "reason": "The episode does not establish that Lucy is hypnotized by the Master."
+    },
+    {
+     "title": "The Originals (Klaus / Camille compulsion)",
+     "year": "2013",
+     "reason": "The compulsion happens before they are a couple; loose vampire fit, not added."
+    },
+    {
+     "title": "Thunderbolt: Magun",
+     "year": "2001",
+     "reason": "The husband uses a magic charm, not hypnosis."
+    },
+    {
+     "title": "Ådalen 31",
+     "year": "1969",
+     "reason": "Possible minors; already held elsewhere in the catalog."
+    },
+    {
+     "title": "'The Memory He Stole' (YouTube, Ms. Neko-chan)",
+     "reason": "No description to verify the plot."
+    }
+   ],
+   "check": {
+    "raw_count": 3,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -13501,10 +13586,11 @@ window.CATALOG = {
   "deep-refresh-nov16": 2,
   "deep-refresh-nov17": 6,
   "deep-refresh-nov19": 3,
-  "partner-hypnosis-nov19": 1
+  "partner-hypnosis-nov19": 1,
+  "partner-hypnosis-nov19b": 3
  },
- "raw_total": 7705,
- "entry_count": 3886,
+ "raw_total": 7708,
+ "entry_count": 3889,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13594,7 +13680,7 @@ window.CATALOG = {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 91
+   "entry_count": 92
   },
   {
    "key": "india-control",
@@ -13606,7 +13692,7 @@ window.CATALOG = {
    "key": "hypnotized-to-marry",
    "label": "Female hypnotized into marriage",
    "legend_label": "Female hypnotized into marriage",
-   "entry_count": 32
+   "entry_count": 33
   },
   {
    "key": "forced-obedience",
@@ -13642,7 +13728,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 159
+   "entry_count": 162
   },
   {
    "key": "index-54",
@@ -13660,7 +13746,7 @@ window.CATALOG = {
    "key": "hypnotized-marriage",
    "label": "Hypnotised / spell-bound into marriage (or married while under control)",
    "legend_label": "Hypnotised / spell-bound into marriage (or married while under control)",
-   "entry_count": 52
+   "entry_count": 53
   },
   {
    "key": "cheat-control",
@@ -13714,19 +13800,19 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 293
+   "entry_count": 294
   },
   {
    "key": "mom-partner-control",
    "label": "Mother controlled by current husband / boyfriend",
    "legend_label": "Mother controlled by current husband / boyfriend",
-   "entry_count": 1
+   "entry_count": 2
   },
   {
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 121
+   "entry_count": 122
   },
   {
    "key": "mom-pregnancy",
@@ -14056,7 +14142,7 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 194
+   "entry_count": 197
   },
   {
    "key": "therapist-wife",
@@ -602242,6 +602328,375 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 4082,
+   "title": "The Taste of Tea (茶の味 / Cha no Aji)",
+   "subtitle": "",
+   "year": "2004",
+   "meta": "Feature film · Japan · Japanese · dir. Katsuhito Ishii · comedy-drama · Cannes 2004 selection",
+   "mechanism": "husband practising hypnotherapy on family members (comic, benign)",
+   "confidence_flag": "medium",
+   "summary": "Gentle family comedy about the Haruno family in rural Tochigi. Father Nobuo is a hypnotherapist who sometimes practises hypnosis on his own family; in one scene the adults, including his wife Yoshiko, are hypnotized while the children watch TV. Benign, comedic use of hypnosis, not coercive.",
+   "character": "Yoshiko Haruno (Satomi Tezuka), wife of hypnotherapist Nobuo Haruno (Tomokazu Miura)",
+   "provenance": "Partner-hypnosis pass, 19 Nov 2026 PT (adult women hypnotized by their own husband/partner; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "No pregnancy in the film.",
+   "tags": [
+    "partner-hypnosis-nov19b",
+    "hypnotized by partner/husband",
+    "comedy",
+    "Japan"
+   ],
+   "hypnotist": "her husband, Nobuo (hypnotherapist)",
+   "method": "hypnosis",
+   "kids_status": "no",
+   "kids_note": "No children from a previous relationship; Hajime and Sachiko are the couple's own children.",
+   "kids_together": "yes",
+   "kids_together_note": "The couple already have two children together, teenage son Hajime and eight-year-old daughter Sachiko. No new child during the film.",
+   "married": "yes",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia gives the family and Nobuo's hypnotherapist job; Midnight Eye and Japan on Film reviews describe him hypnotizing his own family, including the adults.",
+   "fit_note": "Loose fit: the husband hypnotizes his wife, but in a benign, comedic way, not to control her.",
+   "adult": true,
+   "already_married": "yes",
+   "already_married_note": "Nobuo and Yoshiko are the married parents of the Haruno household.",
+   "format": "film",
+   "categories": [
+    "wife",
+    "wife-hypnotized",
+    "mother",
+    "mom-partner-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — The Taste of Tea",
+     "url": "https://en.wikipedia.org/wiki/The_Taste_of_Tea"
+    },
+    {
+     "label": "IMDb — Cha no aji (2004)",
+     "url": "https://www.imdb.com/title/tt0413893/"
+    },
+    {
+     "label": "Midnight Eye review ('a hypnosis therapist who occasionally practices on his own family')",
+     "url": "https://www.midnighteye.com/reviews/the-taste-of-tea/"
+    },
+    {
+     "label": "Japan on Film review ('the adults are hypnotized while the kids watch TV')",
+     "url": "https://japanonfilm.wordpress.com/2024/05/25/taste-of-tea-cha-no-aji-2002/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "partner-hypnosis-nov19b"
+   ],
+   "source_records": [
+    "partner-hypnosis-nov19b:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "partner-hypnosis-nov19b:1": {
+     "title": "The Taste of Tea (茶の味 / Cha no Aji)",
+     "year": "2004",
+     "format": "film",
+     "standalone": true,
+     "meta": "Feature film · Japan · Japanese · dir. Katsuhito Ishii · comedy-drama · Cannes 2004 selection",
+     "character": "Yoshiko Haruno (Satomi Tezuka), wife of hypnotherapist Nobuo Haruno (Tomokazu Miura)",
+     "summary": "Gentle family comedy about the Haruno family in rural Tochigi. Father Nobuo is a hypnotherapist who sometimes practises hypnosis on his own family; in one scene the adults, including his wife Yoshiko, are hypnotized while the children watch TV. Benign, comedic use of hypnosis, not coercive.",
+     "hypnotist": "her husband, Nobuo (hypnotherapist)",
+     "method": "hypnosis",
+     "mechanism": "husband practising hypnotherapy on family members (comic, benign)",
+     "categories": [
+      "wife",
+      "wife-hypnotized",
+      "mother",
+      "mom-partner-control"
+     ],
+     "fit": "loose",
+     "tags": [
+      "partner-hypnosis-nov19b",
+      "hypnotized by partner/husband",
+      "comedy",
+      "Japan"
+     ],
+     "married": "yes",
+     "already_married": "yes",
+     "already_married_note": "Nobuo and Yoshiko are the married parents of the Haruno household.",
+     "pregnant_end": "no",
+     "pregnancy_note": "No pregnancy in the film.",
+     "kids_together": "yes",
+     "kids_together_note": "The couple already have two children together, teenage son Hajime and eight-year-old daughter Sachiko. No new child during the film.",
+     "kids_status": "no",
+     "kids_note": "No children from a previous relationship; Hajime and Sachiko are the couple's own children.",
+     "sources": [
+      {
+       "label": "Wikipedia — The Taste of Tea",
+       "url": "https://en.wikipedia.org/wiki/The_Taste_of_Tea"
+      },
+      {
+       "label": "IMDb — Cha no aji (2004)",
+       "url": "https://www.imdb.com/title/tt0413893/"
+      },
+      {
+       "label": "Midnight Eye review ('a hypnosis therapist who occasionally practices on his own family')",
+       "url": "https://www.midnighteye.com/reviews/the-taste-of-tea/"
+      },
+      {
+       "label": "Japan on Film review ('the adults are hypnotized while the kids watch TV')",
+       "url": "https://japanonfilm.wordpress.com/2024/05/25/taste-of-tea-cha-no-aji-2002/"
+      }
+     ],
+     "evidence": "Wikipedia gives the family and Nobuo's hypnotherapist job; Midnight Eye and Japan on Film reviews describe him hypnotizing his own family, including the adults.",
+     "fit_note": "Loose fit: the husband hypnotizes his wife, but in a benign, comedic way, not to control her.",
+     "confidence_flag": "medium",
+     "adult": true,
+     "provenance": "Partner-hypnosis pass, 19 Nov 2026 PT (adult women hypnotized by their own husband/partner; non-explicit notes)"
+    }
+   }
+  },
+  {
+   "id": 4083,
+   "title": "The Untameable",
+   "subtitle": "",
+   "year": "1923",
+   "meta": "Silent feature film · USA · English intertitles · Universal · dir. Herbert Blaché · based on Gelett Burgess's novel The White Cat (1907)",
+   "mechanism": "doctor hypnotizes a wealthy woman into marrying him for her money",
+   "confidence_flag": "high",
+   "summary": "Engineer Chester Arnold notices that his fiancée Joy keeps switching into a cold, vampish personality called 'Edna'. He finds out that her physician, Dr. Copin, has been hypnotizing her to get her money, and that while under his influence she has been led into marrying him. Chester confronts Copin, and the doctor is fatally wounded when the maid releases Joy's hounds. Free of his influence, Joy goes back to her old self and to Chester.",
+   "character": "Joy Fielding / 'Edna' (Gladys Walton)",
+   "provenance": "Partner-hypnosis pass, 19 Nov 2026 PT (adult women hypnotized by their own husband/partner; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "No pregnancy in the copyright-record synopsis.",
+   "tags": [
+    "partner-hypnosis-nov19b",
+    "hypnotized by partner/husband",
+    "silent film",
+    "USA"
+   ],
+   "hypnotist": "her physician Dr. Copin, who becomes her husband through hypnosis",
+   "method": "hypnosis",
+   "kids_status": "no",
+   "kids_note": "No earlier children mentioned.",
+   "kids_together": "no",
+   "kids_together_note": "No children with Copin (he dies) or with Chester in the synopsis.",
+   "married": "yes (to the hypnotist, while under his control)",
+   "pregnant_end": "no",
+   "evidence": "The Wikipedia plot, taken from the film's copyright record, states that Joy is hypnotized by Dr. Copin and induced to marry him.",
+   "adult": true,
+   "already_married": "no",
+   "already_married_note": "She is engaged to Chester; the marriage to Copin happens while she is hypnotized.",
+   "format": "film",
+   "categories": [
+    "hypnotized-to-marry",
+    "hypnotized-marriage",
+    "partner-control",
+    "wife",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — The Untameable (plot from copyright record; AFI Catalog cited)",
+     "url": "https://en.wikipedia.org/wiki/The_Untameable"
+    },
+    {
+     "label": "IMDb — The Untameable (1923)",
+     "url": "https://www.imdb.com/title/tt0014570/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "partner-hypnosis-nov19b"
+   ],
+   "source_records": [
+    "partner-hypnosis-nov19b:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "partner-hypnosis-nov19b:2": {
+     "title": "The Untameable",
+     "year": "1923",
+     "format": "film",
+     "standalone": true,
+     "meta": "Silent feature film · USA · English intertitles · Universal · dir. Herbert Blaché · based on Gelett Burgess's novel The White Cat (1907)",
+     "character": "Joy Fielding / 'Edna' (Gladys Walton)",
+     "summary": "Engineer Chester Arnold notices that his fiancée Joy keeps switching into a cold, vampish personality called 'Edna'. He finds out that her physician, Dr. Copin, has been hypnotizing her to get her money, and that while under his influence she has been led into marrying him. Chester confronts Copin, and the doctor is fatally wounded when the maid releases Joy's hounds. Free of his influence, Joy goes back to her old self and to Chester.",
+     "hypnotist": "her physician Dr. Copin, who becomes her husband through hypnosis",
+     "method": "hypnosis",
+     "mechanism": "doctor hypnotizes a wealthy woman into marrying him for her money",
+     "categories": [
+      "hypnotized-to-marry",
+      "hypnotized-marriage",
+      "partner-control",
+      "wife",
+      "wife-hypnotized"
+     ],
+     "fit": "core",
+     "tags": [
+      "partner-hypnosis-nov19b",
+      "hypnotized by partner/husband",
+      "silent film",
+      "USA"
+     ],
+     "married": "yes (to the hypnotist, while under his control)",
+     "already_married": "no",
+     "already_married_note": "She is engaged to Chester; the marriage to Copin happens while she is hypnotized.",
+     "pregnant_end": "no",
+     "pregnancy_note": "No pregnancy in the copyright-record synopsis.",
+     "kids_together": "no",
+     "kids_together_note": "No children with Copin (he dies) or with Chester in the synopsis.",
+     "kids_status": "no",
+     "kids_note": "No earlier children mentioned.",
+     "sources": [
+      {
+       "label": "Wikipedia — The Untameable (plot from copyright record; AFI Catalog cited)",
+       "url": "https://en.wikipedia.org/wiki/The_Untameable"
+      },
+      {
+       "label": "IMDb — The Untameable (1923)",
+       "url": "https://www.imdb.com/title/tt0014570/"
+      }
+     ],
+     "evidence": "The Wikipedia plot, taken from the film's copyright record, states that Joy is hypnotized by Dr. Copin and induced to marry him.",
+     "confidence_flag": "high",
+     "adult": true,
+     "provenance": "Partner-hypnosis pass, 19 Nov 2026 PT (adult women hypnotized by their own husband/partner; non-explicit notes)"
+    }
+   }
+  },
+  {
+   "id": 4084,
+   "title": "Sea Change (Karen White novel)",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "Novel (reading work) · USA · English · NAL Accent / Berkley (Penguin) · Southern gothic romance · ISBN 978-0451236760",
+   "mechanism": "husband's hypnotic regression (past-life memories)",
+   "confidence_flag": "medium",
+   "summary": "After a whirlwind courtship, Ava marries child psychologist Matthew Frazier and moves to his family home on St. Simons Island, Georgia. At Matthew's urging, she lets him hypnotize her to answer troubling questions about her past. Under hypnosis she recalls memories linking her to figures from the island's 18th-century history.",
+   "character": "Ava Whalen, 35-year-old midwife, newly married to child psychologist Matthew Frazier",
+   "provenance": "Partner-hypnosis pass, 19 Nov 2026 PT (adult women hypnotized by their own husband/partner; non-explicit notes)",
+   "note": "",
+   "pregnancy_note": "Not stated in the cited reviews.",
+   "tags": [
+    "partner-hypnosis-nov19b",
+    "hypnotized by partner/husband",
+    "novel",
+    "reading work",
+    "USA"
+   ],
+   "hypnotist": "her husband, Matthew Frazier",
+   "method": "hypnosis",
+   "kids_status": "none mentioned",
+   "kids_note": "No earlier children are mentioned for Ava; the lost child in the reviews belongs to the historical character, not Ava.",
+   "kids_together": "unknown",
+   "kids_together_note": "The cited reviews and publisher text do not say.",
+   "married": "yes",
+   "pregnant_end": "unknown",
+   "evidence": "The Romance Dish review: 'at Matthew's urging, she allows him to hypnotize her'. Kirkus confirms the marriage to Matthew Frazier.",
+   "fit_note": "Reading work, not screen media. The hypnosis is consensual and regressive, not controlling.",
+   "adult": true,
+   "already_married": "yes",
+   "format": "novel",
+   "categories": [
+    "wife",
+    "wife-hypnotized",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Penguin Random House — Sea Change by Karen White",
+     "url": "https://www.penguinrandomhouse.com/books/310655/sea-change-by-karen-white/"
+    },
+    {
+     "label": "Karen White (author site) — Sea Change",
+     "url": "https://www.karen-white.com/standalones/sea-change/"
+    },
+    {
+     "label": "The Romance Dish review ('she allows him to hypnotize her')",
+     "url": "https://www.theromancedish.com/2012/06/guest-review-sea-change.html"
+    },
+    {
+     "label": "Kirkus Reviews — Sea Change",
+     "url": "https://www.kirkusreviews.com/book-reviews/karen-white/sea-change-white/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "partner-hypnosis-nov19b"
+   ],
+   "source_records": [
+    "partner-hypnosis-nov19b:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "partner-hypnosis-nov19b:3": {
+     "title": "Sea Change (Karen White novel)",
+     "year": "2012",
+     "format": "novel",
+     "standalone": true,
+     "meta": "Novel (reading work) · USA · English · NAL Accent / Berkley (Penguin) · Southern gothic romance · ISBN 978-0451236760",
+     "character": "Ava Whalen, 35-year-old midwife, newly married to child psychologist Matthew Frazier",
+     "summary": "After a whirlwind courtship, Ava marries child psychologist Matthew Frazier and moves to his family home on St. Simons Island, Georgia. At Matthew's urging, she lets him hypnotize her to answer troubling questions about her past. Under hypnosis she recalls memories linking her to figures from the island's 18th-century history.",
+     "hypnotist": "her husband, Matthew Frazier",
+     "method": "hypnosis",
+     "mechanism": "husband's hypnotic regression (past-life memories)",
+     "categories": [
+      "wife",
+      "wife-hypnotized",
+      "medical"
+     ],
+     "fit": "loose",
+     "tags": [
+      "partner-hypnosis-nov19b",
+      "hypnotized by partner/husband",
+      "novel",
+      "reading work",
+      "USA"
+     ],
+     "married": "yes",
+     "already_married": "yes",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the cited reviews.",
+     "kids_together": "unknown",
+     "kids_together_note": "The cited reviews and publisher text do not say.",
+     "kids_status": "none mentioned",
+     "kids_note": "No earlier children are mentioned for Ava; the lost child in the reviews belongs to the historical character, not Ava.",
+     "sources": [
+      {
+       "label": "Penguin Random House — Sea Change by Karen White",
+       "url": "https://www.penguinrandomhouse.com/books/310655/sea-change-by-karen-white/"
+      },
+      {
+       "label": "Karen White (author site) — Sea Change",
+       "url": "https://www.karen-white.com/standalones/sea-change/"
+      },
+      {
+       "label": "The Romance Dish review ('she allows him to hypnotize her')",
+       "url": "https://www.theromancedish.com/2012/06/guest-review-sea-change.html"
+      },
+      {
+       "label": "Kirkus Reviews — Sea Change",
+       "url": "https://www.kirkusreviews.com/book-reviews/karen-white/sea-change-white/"
+      }
+     ],
+     "evidence": "The Romance Dish review: 'at Matthew's urging, she allows him to hypnotize her'. Kirkus confirms the marriage to Matthew Frazier.",
+     "fit_note": "Reading work, not screen media. The hypnosis is consensual and regressive, not controlling.",
+     "confidence_flag": "medium",
+     "adult": true,
+     "provenance": "Partner-hypnosis pass, 19 Nov 2026 PT (adult women hypnotized by their own husband/partner; non-explicit notes)"
+    }
+   }
   }
  ],
  "sections": [
@@ -616355,7 +616810,8 @@ window.CATALOG = {
     "therapist-hypnosis-nov12",
     "husband-hypnosis-nov12",
     "deep-refresh-nov19",
-    "partner-hypnosis-nov19"
+    "partner-hypnosis-nov19",
+    "partner-hypnosis-nov19b"
    ],
    "groups": [
     {
@@ -617392,6 +617848,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov19"
+    },
+    {
+     "title": "Female character hypnotized by her own partner",
+     "notes": [],
+     "items": [
+      {
+       "id": 4083,
+       "from_source": "partner-hypnosis-nov19b"
+      }
+     ],
+     "from_source": "partner-hypnosis-nov19b"
     }
    ],
    "declared_count_by_source": {
@@ -617415,7 +617882,8 @@ window.CATALOG = {
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
     "deep-refresh-nov19": null,
-    "partner-hypnosis-nov19": null
+    "partner-hypnosis-nov19": null,
+    "partner-hypnosis-nov19b": null
    }
   },
   {
@@ -617434,7 +617902,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25",
     "hypnosis-deep-oct25b",
     "hypnosis-deep-oct25c",
-    "partner-hypnosis-nov11"
+    "partner-hypnosis-nov11",
+    "partner-hypnosis-nov19b"
    ],
    "groups": [
     {
@@ -617767,13 +618236,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25c"
+    },
+    {
+     "title": "Female character hypnotized by her own partner",
+     "notes": [],
+     "items": [
+      {
+       "id": 4083,
+       "from_source": "partner-hypnosis-nov19b"
+      }
+     ],
+     "from_source": "partner-hypnosis-nov19b"
     }
    ],
    "declared_count_by_source": {
     "hypnosis-deep-oct25": null,
     "hypnosis-deep-oct25b": null,
     "hypnosis-deep-oct25c": null,
-    "partner-hypnosis-nov11": null
+    "partner-hypnosis-nov11": null,
+    "partner-hypnosis-nov19b": null
    }
   },
   {
@@ -623521,7 +624002,8 @@ window.CATALOG = {
     "partner-hypnosis-nov11",
     "husband-hypnosis-nov12",
     "deep-refresh-nov19",
-    "partner-hypnosis-nov19"
+    "partner-hypnosis-nov19",
+    "partner-hypnosis-nov19b"
    ],
    "groups": [
     {
@@ -625120,6 +625602,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov19"
+    },
+    {
+     "title": "Female character hypnotized by her own partner",
+     "notes": [],
+     "items": [
+      {
+       "id": 4084,
+       "from_source": "partner-hypnosis-nov19b"
+      },
+      {
+       "id": 4082,
+       "from_source": "partner-hypnosis-nov19b"
+      },
+      {
+       "id": 4083,
+       "from_source": "partner-hypnosis-nov19b"
+      }
+     ],
+     "from_source": "partner-hypnosis-nov19b"
     }
    ],
    "declared_count_by_source": {
@@ -625154,7 +625655,8 @@ window.CATALOG = {
     "partner-hypnosis-nov11": null,
     "husband-hypnosis-nov12": null,
     "deep-refresh-nov19": null,
-    "partner-hypnosis-nov19": null
+    "partner-hypnosis-nov19": null,
+    "partner-hypnosis-nov19b": null
    }
   },
   {
@@ -625247,7 +625749,8 @@ window.CATALOG = {
     "deep-oct24",
     "deep-refresh-oct30",
     "vertical-hypnosis-nov6",
-    "hypnosis-nov11"
+    "hypnosis-nov11",
+    "partner-hypnosis-nov19b"
    ],
    "declared_count_by_source": {
     "hypnotized-marriage": null,
@@ -625258,7 +625761,8 @@ window.CATALOG = {
     "deep-oct24": null,
     "deep-refresh-oct30": null,
     "vertical-hypnosis-nov6": null,
-    "hypnosis-nov11": null
+    "hypnosis-nov11": null,
+    "partner-hypnosis-nov19b": null
    },
    "groups": [
     {
@@ -625524,6 +626028,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-nov11"
+    },
+    {
+     "title": "Female character hypnotized by her own partner",
+     "notes": [],
+     "items": [
+      {
+       "id": 4083,
+       "from_source": "partner-hypnosis-nov19b"
+      }
+     ],
+     "from_source": "partner-hypnosis-nov19b"
     }
    ]
   },
@@ -632891,7 +633406,8 @@ window.CATALOG = {
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11",
     "therapist-hypnosis-nov12",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "partner-hypnosis-nov19b"
    ],
    "groups": [
     {
@@ -635079,6 +635595,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "husband-hypnosis-nov12"
+    },
+    {
+     "title": "Female character hypnotized by her own partner",
+     "notes": [],
+     "items": [
+      {
+       "id": 4084,
+       "from_source": "partner-hypnosis-nov19b"
+      }
+     ],
+     "from_source": "partner-hypnosis-nov19b"
     }
    ],
    "declared_count_by_source": {
@@ -635134,7 +635661,8 @@ window.CATALOG = {
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null,
     "therapist-hypnosis-nov12": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "partner-hypnosis-nov19b": null
    }
   },
   {
@@ -635165,7 +635693,8 @@ window.CATALOG = {
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "partner-hypnosis-nov19b"
    ],
    "groups": [
     {
@@ -635190,10 +635719,22 @@ window.CATALOG = {
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Female character hypnotized by her own partner",
+     "notes": [],
+     "items": [
+      {
+       "id": 4082,
+       "from_source": "partner-hypnosis-nov19b"
+      }
+     ],
+     "from_source": "partner-hypnosis-nov19b"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 1
+    "ig6qlxqxoxvcxla": 1,
+    "partner-hypnosis-nov19b": null
    }
   },
   {
@@ -635225,7 +635766,8 @@ window.CATALOG = {
     "pdf-hypnosis-sweeps-nov08",
     "hypnosis-nov11",
     "partner-hypnosis-nov11",
-    "therapist-hypnosis-nov12"
+    "therapist-hypnosis-nov12",
+    "partner-hypnosis-nov19b"
    ],
    "groups": [
     {
@@ -636333,6 +636875,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-nov11"
+    },
+    {
+     "title": "Female character hypnotized by her own partner",
+     "notes": [],
+     "items": [
+      {
+       "id": 4082,
+       "from_source": "partner-hypnosis-nov19b"
+      }
+     ],
+     "from_source": "partner-hypnosis-nov19b"
     }
    ],
    "declared_count_by_source": {
@@ -636358,7 +636911,8 @@ window.CATALOG = {
     "pdf-hypnosis-sweeps-nov08": null,
     "hypnosis-nov11": null,
     "partner-hypnosis-nov11": null,
-    "therapist-hypnosis-nov12": null
+    "therapist-hypnosis-nov12": null,
+    "partner-hypnosis-nov19b": null
    }
   },
   {
@@ -665265,7 +665819,8 @@ window.CATALOG = {
     "deep-refresh-nov16",
     "deep-refresh-nov17",
     "deep-refresh-nov19",
-    "partner-hypnosis-nov19"
+    "partner-hypnosis-nov19",
+    "partner-hypnosis-nov19b"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -665299,7 +665854,8 @@ window.CATALOG = {
     "deep-refresh-nov16": null,
     "deep-refresh-nov17": null,
     "deep-refresh-nov19": null,
-    "partner-hypnosis-nov19": null
+    "partner-hypnosis-nov19": null,
+    "partner-hypnosis-nov19b": null
    },
    "groups": [
     {
@@ -666245,6 +666801,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov19"
+    },
+    {
+     "title": "Female character hypnotized by her own partner",
+     "notes": [],
+     "items": [
+      {
+       "id": 4084,
+       "from_source": "partner-hypnosis-nov19b"
+      },
+      {
+       "id": 4082,
+       "from_source": "partner-hypnosis-nov19b"
+      },
+      {
+       "id": 4083,
+       "from_source": "partner-hypnosis-nov19b"
+      }
+     ],
+     "from_source": "partner-hypnosis-nov19b"
     }
    ]
   },
