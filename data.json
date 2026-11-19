@@ -13242,6 +13242,155 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "partner-hypnosis-nov19",
+   "label": "Hypnotized by her own partner / husband — 19 Nov 2026 follow-up",
+   "kind": "local",
+   "share_url": "sources/partner-hypnosis-nov19.json",
+   "description": "Worldwide follow-up pass (19 Nov 2026 PT) for screen, short-form and AI-attributed works in which an adult female character is hypnotized by her own husband, boyfriend, fiancé, lover or ex (not a stranger, hired therapist, neighbor, or occult possessor). Possession, figurative 'hypnotized by his personality', drug/chip control without explicit hypnosis, and minors are excluded. New titles are added as standalone records under existing categories only (wife, partner-control, wife-hypnotized, and other existing keys when they fit). Family outcomes come from the cited plot sources; 'unknown' / 'not stated' where the sources are silent. TikTok and Instagram were searched via public web results only.",
+   "dropped": [
+    {
+     "title": "Hypnotized (Nigeria, dir. Uche Alexmoore)",
+     "year": "2024",
+     "reason": "A Nollywood drama released 4 March 2024 exists (NollyMeter: John Ekanem, Chelsea Eze). The official listing only describes a psychological love-affair story and does not confirm that a husband hypnotizes his wife. An aggregator plot that claimed he is a hypnotist could not be corroborated. Not added."
+    },
+    {
+     "title": "[Doblado] Bajo la Hipnosis (ShortMax vertical)",
+     "year": null,
+     "reason": "A previous catalog pass already noted that Ana is married and hypnotized by her husband León, so it was rejected for the widow/divorcee list. Public listings treat it as a Spanish-dubbed ShortMax short drama; the original-language title was not independently verified, and it may be a dub of a Chinese series already in the catalog. Not added as a separate production."
+    },
+    {
+     "title": "I Love Lucy — \"The Kleptomaniac\"",
+     "year": "1952",
+     "reason": "Ricky secretly calls a doctor to hypnotize Lucy. Partner-commissioned hypnosis, not the husband as hypnotist. Outside this pass's partner-as-hypnotist rule."
+    },
+    {
+     "title": "Bhabi Ji Ghar Par Hai — \"Vibhuti Hypnotises Angoori\"",
+     "year": "2016",
+     "reason": "Already correctly held in a prior pass: Vibhuti is the neighbour, not Angoori's husband. Anita is Vibhuti's wife. Series already in the catalog."
+    },
+    {
+     "title": "The Hypnotist / Scotland Yard Dragnet",
+     "year": "1957",
+     "reason": "A psychiatrist tries to hypnotize a male patient (the fiancée's partner) into murdering the doctor's own wife. The wife is not the hypnotic subject, and the hypnotist is not her partner."
+    },
+    {
+     "title": "The Witching Hour",
+     "year": "1934",
+     "reason": "A gambler inadvertently hypnotizes a young man who then commits a murder. Not a female character hypnotized by her partner."
+    },
+    {
+     "title": "The Misadventures of Merlin Jones",
+     "year": "1964",
+     "reason": "Merlin's hypnosis experiments target a chimp and a judge. His girlfriend Jennifer helps him; she is not the person he hypnotizes for control."
+    },
+    {
+     "title": "Stark Raving Mad — \"The Hypnotist\"",
+     "year": "1999",
+     "reason": "Ian hypnotizes Maddie as a joke about lobster, then others. They are not an established married or dating couple in the cited listings. Series card already in the catalog for a different reason."
+    },
+    {
+     "title": "Martin — \"The Tooth Will Set You Free\"",
+     "year": "1996",
+     "reason": "Pam is hypnotized by her dentist, not by a husband or boyfriend."
+    },
+    {
+     "title": "American Dad! — \"White Rice\"",
+     "year": "2010",
+     "reason": "A counselor, Sal, hypnotizes Francine. Her husband Stan takes her to the session but is not the hypnotist. Related series cards already in the catalog."
+    },
+    {
+     "title": "The Flintstones — \"The Hypnotist\"",
+     "year": "1961",
+     "reason": "Fred tries to demonstrate hypnosis to Wilma but hypnotizes Barney instead. Failed / wrong-target attempt. A series-level Flintstones card is already in the catalog."
+    },
+    {
+     "title": "The Brittas Empire — \"Mr Brittas Changes Trains\"",
+     "year": null,
+     "reason": "Gordon tries to hypnotize his wife and fails; he is hypnotized instead. Already treated as a catalog duplicate in an earlier pass."
+    },
+    {
+     "title": "Listen to Your Husband / 听老公的话 / 枕边催眠师",
+     "year": "2025",
+     "reason": "Already in the catalog (and previously recorded as a duplicate / alternate-title hold)."
+    },
+    {
+     "title": "Under His Hypnosis (Li Zhuoyang and Lan Lan)",
+     "year": null,
+     "reason": "Public posts appear to discuss a Chinese short drama already represented in the catalog (including 被催眠的她). Could not verify a distinct production with its own title, year and plot sources."
+    },
+    {
+     "title": "Naagin 3 — Shaan / Shahnawaz hypnotizes fiancée Vishakha",
+     "year": "2018",
+     "reason": "Already in the catalog (series card and a related episode card)."
+    },
+    {
+     "title": "Two Evil Eyes — \"The Facts in the Case of Mr. Valdemar\"",
+     "year": "1990",
+     "reason": "The dying husband is the person hypnotized (by the wife's lover). Wrong direction."
+    },
+    {
+     "title": "The Illusionist",
+     "year": "2006",
+     "reason": "Already in the catalog. Eisenheim and Sophie are former childhood sweethearts and later accomplices in a staged illusion; cited plot sources do not establish that he hypnotizes her as his partner for control."
+    },
+    {
+     "title": "The Hypnotist's Love Story",
+     "year": "2019",
+     "reason": "ABC ordered a pilot (Heather Graham) but rejected it; no series or film was released."
+    },
+    {
+     "title": "Murder in Mind",
+     "year": "1997",
+     "reason": "A woman accused of killing her husband undergoes hypnosis with a doctor to recover memories. The hypnotist is a clinician, not her partner. Already in the catalog."
+    },
+    {
+     "title": "The Keeper",
+     "year": "1976",
+     "reason": "Christopher Lee uses experimental hypnosis in an asylum. Not a partner-hypnosis story."
+    },
+    {
+     "title": "Kazhugu / Parvaiyin Marupakkam",
+     "year": "1981 / 1982",
+     "reason": "Already in the catalog. In these Tamil films the hypnotist is a villain, not the woman's husband or boyfriend."
+    },
+    {
+     "title": "Hypnotized by Beautiful Women",
+     "year": "2019",
+     "reason": "Nollywood title in which women hypnotize men. Wrong direction."
+    },
+    {
+     "title": "Reborn I Am the Hypnotist (51PAPAYA AI adult short drama)",
+     "year": "2026",
+     "reason": "An AI-attributed adult short is listed, but the public listing does not supply a plot that confirms a female character hypnotized by her partner. Not added."
+    },
+    {
+     "title": "Wife and Her Husband (generative-AI short, Daiz Keikaku / Seedance)",
+     "year": "2026",
+     "reason": "A 2026 AI-production note exists, but the available write-up does not confirm a hypnosis-by-partner plot. Not added."
+    },
+    {
+     "title": "Toxic Marriage Drama: A Tale of Mind Control and Revenge (TikTok recap posts)",
+     "year": null,
+     "reason": "Public TikTok/Instagram results are recap or discover-page clips. The official series title could not be identified independently, and the story may be a clip of a Chinese short drama already in the catalog. Unattributed recap clips were held in earlier passes for the same reason."
+    },
+    {
+     "title": "Hot Under the Collar / Allein unter Nonnen",
+     "year": "1992",
+     "reason": "Already in the catalog (a man uses hypnosis around his girlfriend Monica)."
+    },
+    {
+     "title": "Debbie Shokoya interview (friends accused her husband of hypnotizing her)",
+     "year": "2025",
+     "reason": "Real-life interview, not a fictional film, series or serial."
+    }
+   ],
+   "check": {
+    "raw_count": 1,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -13351,10 +13500,11 @@
   "weekly-nov16": 1,
   "deep-refresh-nov16": 2,
   "deep-refresh-nov17": 6,
-  "deep-refresh-nov19": 3
+  "deep-refresh-nov19": 3,
+  "partner-hypnosis-nov19": 1
  },
- "raw_total": 7704,
- "entry_count": 3885,
+ "raw_total": 7705,
+ "entry_count": 3886,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13444,7 +13594,7 @@
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 90
+   "entry_count": 91
   },
   {
    "key": "india-control",
@@ -13492,7 +13642,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 158
+   "entry_count": 159
   },
   {
    "key": "index-54",
@@ -13906,7 +14056,7 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 193
+   "entry_count": 194
   },
   {
    "key": "therapist-wife",
@@ -601960,6 +602110,138 @@
      "confidence_flag": "Single source · flag"
     }
    }
+  },
+  {
+   "id": 4081,
+   "title": "Cheers — \"Veggie-Boyd\"",
+   "subtitle": "",
+   "year": "1990",
+   "meta": "US television sitcom episode · NBC, 22 Nov 1990 · English · Cheers season 9, episode 10 · dir. James Burrows · written by Dan Staley and Rob Long",
+   "mechanism": "Literal hypnosis: Frasier had previously hypnotized Lilith as a prank and planted trigger words that still work in the episode",
+   "confidence_flag": "verified",
+   "summary": "In this NBC Cheers episode, psychiatrist Frasier Crane hypnotizes bartender Woody Boyd so Woody will like a health drink he is advertising. When Lilith mocks the use of hypnosis, Frasier reveals that he recently hypnotized his wife as a party prank. Spoken cues still put her into brief, comic trances on screen (she removes her shoes at 'brie cheese,' begins to unbutton her blouse at 'tambourine,' and sings 'Tomorrow' at 'tractor'). The couple are already married and already have a son; the cited sources do not mention a pregnancy in this episode.",
+   "character": "Dr. Lilith Sternin-Crane (Bebe Neuwirth), psychiatrist, wife of Dr. Frasier Crane",
+   "provenance": "Partner-hypnosis follow-up pass, 19 Nov 2026 PT (adult women only; existing Cheers series card about Carla's pregnancies is a different storyline and is not overwritten)",
+   "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy for Lilith is mentioned in the cited episode sources. Their son Frederick was already born in 1989, in the earlier episode 'The Stork Brings a Crane'.",
+   "tags": [
+    "hypnotized by partner/husband"
+   ],
+   "hypnotist": "her husband, Dr. Frasier Crane",
+   "kids_status": "no",
+   "kids_note": "Wikipedia lists only one child for Lilith: Frederick Crane, her son with Frasier. No children from before that marriage are mentioned.",
+   "kids_together": "yes",
+   "kids_together_note": "Yes — they have a son, Frederick, born 1989, the year before this episode. After they later divorce, Lilith continues to raise him in Boston and they remain his parents.",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia season-9 episode listing (title, air date, writers, director) + Forever Dreaming episode transcript (Frasier says he hypnotized Lilith; the trigger words are spoken and she responds) + TV Tropes recap and IMDb character quotes confirming the same cues.",
+   "fit_note": "Adult married woman hypnotized by her own husband; the on-screen trance cues in this episode are a comic prank he had already planted.",
+   "already_married": "yes",
+   "already_married_note": "Yes — Lilith and Frasier married in 1988 (established in Cheers, 'Our Hourly Bread') and are still married in this 22 Nov 1990 episode; they later divorce in 1993",
+   "format": "tv",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Cheers season 9 (episode table: Veggie-Boyd, 22 Nov 1990)",
+     "url": "https://en.wikipedia.org/wiki/Cheers_season_9"
+    },
+    {
+     "label": "Forever Dreaming — Cheers 09x10 Veggie-Boyd transcript",
+     "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=56769"
+    },
+    {
+     "label": "TV Tropes — Cheers S9E10 Veggie-Boyd recap",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Recap/CheersS9E10VeggieBoyd"
+    },
+    {
+     "label": "IMDb — Cheers: Veggie-Boyd (tt0539922)",
+     "url": "https://www.imdb.com/title/tt0539922/"
+    },
+    {
+     "label": "Wikipedia — Frasier Crane (marriage dates; son Frederick, b. 1989)",
+     "url": "https://en.wikipedia.org/wiki/Frasier_Crane"
+    },
+    {
+     "label": "Wikipedia — Lilith Sternin (only child listed is Frederick, with Frasier)",
+     "url": "https://en.wikipedia.org/wiki/Lilith_Sternin"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "partner-hypnosis-nov19"
+   ],
+   "source_records": [
+    "partner-hypnosis-nov19:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "partner-hypnosis-nov19:1": {
+     "title": "Cheers — \"Veggie-Boyd\"",
+     "year": "1990",
+     "format": "tv",
+     "standalone": true,
+     "meta": "US television sitcom episode · NBC, 22 Nov 1990 · English · Cheers season 9, episode 10 · dir. James Burrows · written by Dan Staley and Rob Long",
+     "categories": [
+      "wife",
+      "partner-control",
+      "wife-hypnotized"
+     ],
+     "tags": [
+      "hypnotized by partner/husband"
+     ],
+     "character": "Dr. Lilith Sternin-Crane (Bebe Neuwirth), psychiatrist, wife of Dr. Frasier Crane",
+     "hypnotist": "her husband, Dr. Frasier Crane",
+     "mechanism": "Literal hypnosis: Frasier had previously hypnotized Lilith as a prank and planted trigger words that still work in the episode",
+     "summary": "In this NBC Cheers episode, psychiatrist Frasier Crane hypnotizes bartender Woody Boyd so Woody will like a health drink he is advertising. When Lilith mocks the use of hypnosis, Frasier reveals that he recently hypnotized his wife as a party prank. Spoken cues still put her into brief, comic trances on screen (she removes her shoes at 'brie cheese,' begins to unbutton her blouse at 'tambourine,' and sings 'Tomorrow' at 'tractor'). The couple are already married and already have a son; the cited sources do not mention a pregnancy in this episode.",
+     "already_married": "yes",
+     "already_married_note": "Yes — Lilith and Frasier married in 1988 (established in Cheers, 'Our Hourly Bread') and are still married in this 22 Nov 1990 episode; they later divorce in 1993",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for Lilith is mentioned in the cited episode sources. Their son Frederick was already born in 1989, in the earlier episode 'The Stork Brings a Crane'.",
+     "kids_status": "no",
+     "kids_note": "Wikipedia lists only one child for Lilith: Frederick Crane, her son with Frasier. No children from before that marriage are mentioned.",
+     "kids_together": "yes",
+     "kids_together_note": "Yes — they have a son, Frederick, born 1989, the year before this episode. After they later divorce, Lilith continues to raise him in Boston and they remain his parents.",
+     "fit_note": "Adult married woman hypnotized by her own husband; the on-screen trance cues in this episode are a comic prank he had already planted.",
+     "evidence": "Wikipedia season-9 episode listing (title, air date, writers, director) + Forever Dreaming episode transcript (Frasier says he hypnotized Lilith; the trigger words are spoken and she responds) + TV Tropes recap and IMDb character quotes confirming the same cues.",
+     "confidence_flag": "verified",
+     "provenance": "Partner-hypnosis follow-up pass, 19 Nov 2026 PT (adult women only; existing Cheers series card about Carla's pregnancies is a different storyline and is not overwritten)",
+     "sources": [
+      {
+       "label": "Wikipedia — Cheers season 9 (episode table: Veggie-Boyd, 22 Nov 1990)",
+       "url": "https://en.wikipedia.org/wiki/Cheers_season_9"
+      },
+      {
+       "label": "Forever Dreaming — Cheers 09x10 Veggie-Boyd transcript",
+       "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=56769"
+      },
+      {
+       "label": "TV Tropes — Cheers S9E10 Veggie-Boyd recap",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Recap/CheersS9E10VeggieBoyd"
+      },
+      {
+       "label": "IMDb — Cheers: Veggie-Boyd (tt0539922)",
+       "url": "https://www.imdb.com/title/tt0539922/"
+      },
+      {
+       "label": "Wikipedia — Frasier Crane (marriage dates; son Frederick, b. 1989)",
+       "url": "https://en.wikipedia.org/wiki/Frasier_Crane"
+      },
+      {
+       "label": "Wikipedia — Lilith Sternin (only child listed is Frederick, with Frasier)",
+       "url": "https://en.wikipedia.org/wiki/Lilith_Sternin"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -616072,7 +616354,8 @@
     "partner-hypnosis-nov11",
     "therapist-hypnosis-nov12",
     "husband-hypnosis-nov12",
-    "deep-refresh-nov19"
+    "deep-refresh-nov19",
+    "partner-hypnosis-nov19"
    ],
    "groups": [
     {
@@ -616994,6 +617277,10 @@
        "from_source": "partner-hypnosis-nov11"
       },
       {
+       "id": 4081,
+       "from_source": "partner-hypnosis-nov19"
+      },
+      {
        "id": 2334,
        "from_source": "partner-hypnosis-nov11"
       },
@@ -617127,7 +617414,8 @@
     "partner-hypnosis-nov11": null,
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
-    "deep-refresh-nov19": null
+    "deep-refresh-nov19": null,
+    "partner-hypnosis-nov19": null
    }
   },
   {
@@ -623232,7 +623520,8 @@
     "deep-refresh-nov11",
     "partner-hypnosis-nov11",
     "husband-hypnosis-nov12",
-    "deep-refresh-nov19"
+    "deep-refresh-nov19",
+    "partner-hypnosis-nov19"
    ],
    "groups": [
     {
@@ -624728,6 +625017,10 @@
        "from_source": "partner-hypnosis-nov11"
       },
       {
+       "id": 4081,
+       "from_source": "partner-hypnosis-nov19"
+      },
+      {
        "id": 2334,
        "from_source": "partner-hypnosis-nov11"
       },
@@ -624860,7 +625153,8 @@
     "deep-refresh-nov11": null,
     "partner-hypnosis-nov11": null,
     "husband-hypnosis-nov12": null,
-    "deep-refresh-nov19": null
+    "deep-refresh-nov19": null,
+    "partner-hypnosis-nov19": null
    }
   },
   {
@@ -664970,7 +665264,8 @@
     "deep-refresh-nov13",
     "deep-refresh-nov16",
     "deep-refresh-nov17",
-    "deep-refresh-nov19"
+    "deep-refresh-nov19",
+    "partner-hypnosis-nov19"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -665003,7 +665298,8 @@
     "deep-refresh-nov13": null,
     "deep-refresh-nov16": null,
     "deep-refresh-nov17": null,
-    "deep-refresh-nov19": null
+    "deep-refresh-nov19": null,
+    "partner-hypnosis-nov19": null
    },
    "groups": [
     {
@@ -665805,6 +666101,10 @@
      "title": "Female character hypnotized by her own partner or husband",
      "notes": [],
      "items": [
+      {
+       "id": 4081,
+       "from_source": "partner-hypnosis-nov19"
+      },
       {
        "id": 3763,
        "from_source": "partner-hypnosis-nov11"
