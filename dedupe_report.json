@@ -55007,11 +55007,11 @@
   "weekly-nov16": 1,
   "deep-refresh-nov16": 2,
   "deep-refresh-nov17": 6,
-  "deep-refresh-nov19": 0
+  "deep-refresh-nov19": 3
  },
- "entry_count_after_dedupe": 3882,
+ "entry_count_after_dedupe": 3885,
  "within_source_groups": 6,
  "cross_source_groups": 2107,
  "index_only_records": 55,
- "local_only_records": 1610
+ "local_only_records": 1613
 }

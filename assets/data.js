@@ -13167,10 +13167,67 @@ window.CATALOG = {
    "kind": "local",
    "share_url": "sources/deep-refresh-nov19.json",
    "description": "Multi-language sweep across every catalog topic, 19 Nov 2026, plus a dedicated search for AI-generated films, shorts, vertical/micro dramas, YouTube/TikTok/Bilibili/Douyin series, AI anime, and AI comics/webtoons. Focus on titles new since the 17 Nov 2026 deep refresh, plus deeper and older titles not yet found, vertical dramas, TikTok/Instagram series, and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. AI-generated works are marked in format/meta and tagged AI-generated. This file was created at the start of the run and appended at the true end of SOURCES so existing IDs do not shift.",
-   "dropped": [],
+   "dropped": [
+    {
+     "title": "Your Majesty (皇恩浩蕩, 2016 Taiwanese idol drama)",
+     "reason": "Mental Block wiki: Gu Yourong hypnotizes her university roommate Zhao Xiao and others. A university setting with no stated ages, so the targets' adulthood is not verified. Held; not added."
+    },
+    {
+     "title": "Kilometro 31-2 (2016)",
+     "reason": "Mental Block wiki: the hypnotized character Emma is described as a teenager. Held for minors; not added."
+    },
+    {
+     "title": "Hell Bank Presents: Running Ghost (冥通銀行特約: 翻生爭霸戰)",
+     "reason": "Mental Block wiki: a demon hypnotizes 'the girl' into a suicide attempt. Age not stated. Held for unclear adulthood; not added."
+    },
+    {
+     "title": "Santo en la venganza de las mujeres vampiro (1970)",
+     "reason": "Mental Block wiki: the countess hypnotizes 'the girl'. Age not stated. Held for unclear adulthood; not added."
+    },
+    {
+     "title": "Coqueta y Audaz",
+     "reason": "Mental Block stub: Nomolos hypnotizes Coqueta. No age, year or second source. Held for unverified adulthood; not added."
+    },
+    {
+     "title": "Naked Soldier (2012)",
+     "reason": "The female assassins are trained and conditioned from childhood, so the control storyline involves minors. Held; not added."
+    },
+    {
+     "title": "The Last Thirty Days of Being No One (VibeShort, listed 15 Nov 2026)",
+     "reason": "MicroDramaList: her parents hire a hypnotist, but the hypnosis does not actually take (she only pretends it worked). Her age is not stated. Held for unverified adulthood and no real hypnosis; not added."
+    },
+    {
+     "title": "Hypnotizing My Heir (zeta AI chat plot, Jun 2026)",
+     "reason": "AI chatbot scenario about a teenage daughter. Held for minors; not added."
+    },
+    {
+     "title": "RLMP-031 (JAV, 9 Nov 2026)",
+     "reason": "Adult video listing with a hypnosis-for-sex premise. Its genre tags include 'Schoolgirl'. Held for possible minors; not added."
+    },
+    {
+     "title": "Reborn I Am the Hypnotist (51PAPAYA AI adult short drama, 23 Oct 2026)",
+     "reason": "AI adult short drama with a hypnosis-for-sex premise and no sourced, non-explicit plot about an adult woman. Not added."
+    },
+    {
+     "title": "Mafia Cage: Love Burns and I Reborn (2026)",
+     "reason": "Already recorded (deep-refresh-nov11). The man is the one hypnotized; the heroine is not. Not added."
+    },
+    {
+     "title": "Hastam Bir Deniz Kızı (FreeReels)",
+     "reason": "Turkish-language release of My Patient Is a Mermaid (2026), which is already in the catalog. Duplicate; not added."
+    },
+    {
+     "title": "The Corpse Vanishes (1942)",
+     "reason": "The brides are put into a death-like suspended animation by an orchid's scent, not hypnotized or mind-controlled. Not a fit; not added."
+    },
+    {
+     "title": "WandaVision (2021)",
+     "reason": "Considered, but no source was opened this run that names an adult woman hypnotized in the plot. Left for a later pass; not added."
+    }
+   ],
    "check": {
-    "raw_count": 0,
-    "ok": false
+    "raw_count": 3,
+    "ok": true
    },
    "status": "local"
   }
@@ -13282,10 +13339,10 @@ window.CATALOG = {
   "weekly-nov16": 1,
   "deep-refresh-nov16": 2,
   "deep-refresh-nov17": 6,
-  "deep-refresh-nov19": 0
+  "deep-refresh-nov19": 3
  },
- "raw_total": 7701,
- "entry_count": 3882,
+ "raw_total": 7704,
+ "entry_count": 3885,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13339,7 +13396,7 @@ window.CATALOG = {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 162
+   "entry_count": 163
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -13357,7 +13414,7 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 130
+   "entry_count": 132
   },
   {
    "key": "fantasy",
@@ -13375,7 +13432,7 @@ window.CATALOG = {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 89
+   "entry_count": 90
   },
   {
    "key": "india-control",
@@ -13393,7 +13450,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 386
+   "entry_count": 387
   },
   {
    "key": "index-56",
@@ -13423,7 +13480,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 157
+   "entry_count": 158
   },
   {
    "key": "index-54",
@@ -13453,7 +13510,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 206
+   "entry_count": 207
   },
   {
    "key": "royal-hypnosis",
@@ -13525,7 +13582,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 478
+   "entry_count": 479
   },
   {
    "key": "parents-sleeping",
@@ -13837,7 +13894,7 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 192
+   "entry_count": 193
   },
   {
    "key": "therapist-wife",
@@ -601627,6 +601684,270 @@ window.CATALOG = {
      "confidence_flag": "Medium · 2 sources"
     }
    }
+  },
+  {
+   "id": 4078,
+   "title": "The Mummy's Ghost",
+   "subtitle": "",
+   "year": "1944",
+   "meta": "Horror feature · USA · English · Universal Pictures · directed by Reginald LeBorg · Lon Chaney Jr., John Carradine, Ramsay Ames · third sequel to The Mummy's Hand (1940)",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "In Mapleton, Massachusetts, Amina feels a clouded state of mind whenever Egypt is mentioned. When the high priest Yousef Bey brews tana leaves to summon the mummy Kharis, Amina follows Kharis in a trance-like state, and later wanders hypnotically into the yard where Kharis recognizes her as the reincarnation of Princess Ananka and carries her off. Yousef Bey plans to keep her alive with the tana leaves, which sets Kharis against him; Bey is killed, and Kharis carries the rapidly aging Amina into a swamp, where both sink.",
+   "character": "Amina Mansori (a young woman of Egyptian descent, girlfriend of Tom Hervey; living with her guardian Mrs. Blake)",
+   "provenance": "Deep refresh, 19 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "hypnotist": "Kharis the mummy, summoned by Yousef Bey, High Priest of Arkam",
+   "method": "Supernatural trance linked to her reincarnated soul (tana-leaf ritual)",
+   "kids_status": "no",
+   "kids_note": "No children before; she is unmarried and planning to elope with Tom.",
+   "kids_together": "no",
+   "kids_together_note": "No children (not a couple; she dies at the end).",
+   "pregnant_end": "no",
+   "pregnant_end_note": "No pregnancy; she ages and dies in the swamp at the end.",
+   "evidence": "Wikipedia plot summary: Amina 'follows Kharis in a trance-like state' and later 'hypnotically wanders into the yard'; she sinks into the swamp with Kharis, rapidly aging. AFI Catalog lists the 1944 Universal release.",
+   "adult": "yes",
+   "format": "film",
+   "categories": [
+    "occult",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Mummy%27s_Ghost"
+    },
+    {
+     "label": "AFI Catalog",
+     "url": "https://catalog.afi.com/Film/24085-THE-MUMMYSGHOST"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19"
+   ],
+   "source_records": [
+    "deep-refresh-nov19:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19:1": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 19 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "yes",
+     "title": "The Mummy's Ghost",
+     "year": "1944",
+     "format": "film",
+     "meta": "Horror feature · USA · English · Universal Pictures · directed by Reginald LeBorg · Lon Chaney Jr., John Carradine, Ramsay Ames · third sequel to The Mummy's Hand (1940)",
+     "character": "Amina Mansori (a young woman of Egyptian descent, girlfriend of Tom Hervey; living with her guardian Mrs. Blake)",
+     "summary": "In Mapleton, Massachusetts, Amina feels a clouded state of mind whenever Egypt is mentioned. When the high priest Yousef Bey brews tana leaves to summon the mummy Kharis, Amina follows Kharis in a trance-like state, and later wanders hypnotically into the yard where Kharis recognizes her as the reincarnation of Princess Ananka and carries her off. Yousef Bey plans to keep her alive with the tana leaves, which sets Kharis against him; Bey is killed, and Kharis carries the rapidly aging Amina into a swamp, where both sink.",
+     "hypnotist": "Kharis the mummy, summoned by Yousef Bey, High Priest of Arkam",
+     "method": "Supernatural trance linked to her reincarnated soul (tana-leaf ritual)",
+     "categories": [
+      "occult",
+      "other-control"
+     ],
+     "kids_note": "No children before; she is unmarried and planning to elope with Tom.",
+     "pregnant_end_note": "No pregnancy; she ages and dies in the swamp at the end.",
+     "kids_together_note": "No children (not a couple; she dies at the end).",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Mummy%27s_Ghost"
+      },
+      {
+       "label": "AFI Catalog",
+       "url": "https://catalog.afi.com/Film/24085-THE-MUMMYSGHOST"
+      }
+     ],
+     "evidence": "Wikipedia plot summary: Amina 'follows Kharis in a trance-like state' and later 'hypnotically wanders into the yard'; she sinks into the swamp with Kharis, rapidly aging. AFI Catalog lists the 1944 Universal release.",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 4079,
+   "title": "Revenge of the Zombies",
+   "subtitle": "",
+   "year": "1943",
+   "meta": "Horror feature · USA · English · Monogram Pictures · directed by Steve Sekely · John Carradine, Gale Storm, Veda Ann Borg (Lila) · aka The Corpse Vanished",
+   "mechanism": "",
+   "confidence_flag": "High · 3+ sources",
+   "summary": "In the Louisiana bayou, mad scientist Dr. Max von Altermann murders his wife Lila and revives her as one of the zombies he is creating for a Nazi agent. He keeps her under his control, but Lila begins to show free will, slips away, and finally leads his zombies against him, forcing him into a pool of sinking mud and taking herself with him.",
+   "character": "Lila von Altermann (the scientist's wife, sister of Scott Warrington)",
+   "provenance": "Deep refresh, 19 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "hypnotist": "Dr. Max Heinrich von Altermann (her husband)",
+   "method": "Revived as a zombie by her husband's experiments and kept under his command",
+   "kids_status": "no",
+   "kids_note": "No children are mentioned for Lila.",
+   "kids_together": "no",
+   "kids_together_note": "No children with her husband.",
+   "pregnant_end": "no",
+   "pregnant_end_note": "No pregnancy; she dies with her husband at the end.",
+   "evidence": "Wikipedia plot: Max 'murdered Lila before reviving her' as a zombie; he is alarmed that Lila 'appears to possess free will'; she leads the zombies and forces him into sinking mud, taking herself as well. AFI Catalog lists the 1943 Monogram release, and the film is on Internet Archive.",
+   "adult": "yes",
+   "format": "film",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Revenge_of_the_Zombies"
+    },
+    {
+     "label": "AFI Catalog",
+     "url": "https://catalog.afi.com/Catalog/moviedetails/634"
+    },
+    {
+     "label": "Internet Archive (public-domain film)",
+     "url": "https://archive.org/details/RevengeOfTheZombies"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19"
+   ],
+   "source_records": [
+    "deep-refresh-nov19:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19:2": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 19 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "yes",
+     "title": "Revenge of the Zombies",
+     "year": "1943",
+     "format": "film",
+     "meta": "Horror feature · USA · English · Monogram Pictures · directed by Steve Sekely · John Carradine, Gale Storm, Veda Ann Borg (Lila) · aka The Corpse Vanished",
+     "character": "Lila von Altermann (the scientist's wife, sister of Scott Warrington)",
+     "summary": "In the Louisiana bayou, mad scientist Dr. Max von Altermann murders his wife Lila and revives her as one of the zombies he is creating for a Nazi agent. He keeps her under his control, but Lila begins to show free will, slips away, and finally leads his zombies against him, forcing him into a pool of sinking mud and taking herself with him.",
+     "hypnotist": "Dr. Max Heinrich von Altermann (her husband)",
+     "method": "Revived as a zombie by her husband's experiments and kept under his command",
+     "categories": [
+      "wife",
+      "partner-control",
+      "wife-hypnotized",
+      "tech"
+     ],
+     "kids_note": "No children are mentioned for Lila.",
+     "pregnant_end_note": "No pregnancy; she dies with her husband at the end.",
+     "kids_together_note": "No children with her husband.",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Revenge_of_the_Zombies"
+      },
+      {
+       "label": "AFI Catalog",
+       "url": "https://catalog.afi.com/Catalog/moviedetails/634"
+      },
+      {
+       "label": "Internet Archive (public-domain film)",
+       "url": "https://archive.org/details/RevengeOfTheZombies"
+      }
+     ],
+     "evidence": "Wikipedia plot: Max 'murdered Lila before reviving her' as a zombie; he is alarmed that Lila 'appears to possess free will'; she leads the zombies and forces him into sinking mud, taking herself as well. AFI Catalog lists the 1943 Monogram release, and the film is on Internet Archive.",
+     "confidence_flag": "High · 3+ sources"
+    }
+   }
+  },
+  {
+   "id": 4080,
+   "title": "Executive Assistant: Iris",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "Comic book series · USA · English · Aspen MLT · created by David Wohl and Eduardo Francisco · part of the Executive Assistant shared universe (expanded 2011)",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Elite bodyguard-assassins called Executive Assistants are turned against the people they serve. Duncan activates a mind-control chip he implanted in Acteia and orders her to kill; Iris and Rose fight while brainwashed; a brainwashed Violet tries to kill her employer under Villone's control; and in 'The Hit List,' Iris realizes she too is under Villone's mind control.",
+   "character": "Executive Assistants Acteia, Iris, Rose and Violet (adult bodyguard-assassins)",
+   "provenance": "Deep refresh, 19 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "hypnotist": "Duncan and Villone",
+   "method": "Implanted mind-control chip and brainwashing",
+   "kids_status": "unknown",
+   "kids_note": "Not stated in the source.",
+   "kids_together": "no",
+   "kids_together_note": "No couple storyline with the controller.",
+   "pregnant_end": "no",
+   "pregnant_end_note": "No pregnancy storyline in the source.",
+   "evidence": "Mental Block wiki page summarizes the Aspen MLT series: Acteia controlled by Duncan's implanted chip and ordered to kill; brainwashed Iris and Rose; Violet and Iris under Villone's mind control. The assistants are adult professional bodyguards.",
+   "adult": "yes",
+   "format": "comic",
+   "categories": [
+    "tech",
+    "crime",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Executive_Assistant"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19"
+   ],
+   "source_records": [
+    "deep-refresh-nov19:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19:3": {
+     "pregnant_end": "no",
+     "kids_status": "unknown",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 19 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "yes",
+     "title": "Executive Assistant: Iris",
+     "year": "2009",
+     "format": "comic",
+     "meta": "Comic book series · USA · English · Aspen MLT · created by David Wohl and Eduardo Francisco · part of the Executive Assistant shared universe (expanded 2011)",
+     "character": "Executive Assistants Acteia, Iris, Rose and Violet (adult bodyguard-assassins)",
+     "summary": "Elite bodyguard-assassins called Executive Assistants are turned against the people they serve. Duncan activates a mind-control chip he implanted in Acteia and orders her to kill; Iris and Rose fight while brainwashed; a brainwashed Violet tries to kill her employer under Villone's control; and in 'The Hit List,' Iris realizes she too is under Villone's mind control.",
+     "hypnotist": "Duncan and Villone",
+     "method": "Implanted mind-control chip and brainwashing",
+     "categories": [
+      "tech",
+      "crime",
+      "forced-obedience"
+     ],
+     "kids_note": "Not stated in the source.",
+     "pregnant_end_note": "No pregnancy storyline in the source.",
+     "kids_together_note": "No couple storyline with the controller.",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Executive_Assistant"
+      }
+     ],
+     "evidence": "Mental Block wiki page summarizes the Aspen MLT series: Acteia controlled by Duncan's implanted chip and ordered to kill; brainwashed Iris and Rose; Violet and Iris under Villone's mind control. The assistants are adult professional bodyguards.",
+     "confidence_flag": "Single source · flag"
+    }
+   }
   }
  ],
  "sections": [
@@ -607988,7 +608309,8 @@ window.CATALOG = {
     "deep-refresh-nov04",
     "hypnosis-bestsimilar-nov5",
     "deep-refresh-nov11",
-    "deep-refresh-nov12"
+    "deep-refresh-nov12",
+    "deep-refresh-nov19"
    ],
    "groups": [
     {
@@ -609101,6 +609423,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-bestsimilar-nov5"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4078,
+       "from_source": "deep-refresh-nov19"
+      }
+     ],
+     "from_source": "deep-refresh-nov19"
     }
    ],
    "declared_count_by_source": {
@@ -609128,7 +609461,8 @@ window.CATALOG = {
     "deep-refresh-nov04": null,
     "hypnosis-bestsimilar-nov5": null,
     "deep-refresh-nov11": null,
-    "deep-refresh-nov12": null
+    "deep-refresh-nov12": null,
+    "deep-refresh-nov19": null
    }
   },
   {
@@ -609773,7 +610107,8 @@ window.CATALOG = {
     "hypnosis-repeat-pregnancy-nov7",
     "hypnosis-nov11",
     "saimin-sweep-nov11",
-    "deep-refresh-nov16"
+    "deep-refresh-nov16",
+    "deep-refresh-nov19"
    ],
    "groups": [
     {
@@ -610484,6 +610819,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov16"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4080,
+       "from_source": "deep-refresh-nov19"
+      },
+      {
+       "id": 4079,
+       "from_source": "deep-refresh-nov19"
+      }
+     ],
+     "from_source": "deep-refresh-nov19"
     }
    ],
    "declared_count_by_source": {
@@ -610517,7 +610867,8 @@ window.CATALOG = {
     "hypnosis-repeat-pregnancy-nov7": null,
     "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
-    "deep-refresh-nov16": null
+    "deep-refresh-nov16": null,
+    "deep-refresh-nov19": null
    }
   },
   {
@@ -615708,7 +616059,8 @@ window.CATALOG = {
     "pdf-hypnosis-sweeps-nov08",
     "partner-hypnosis-nov11",
     "therapist-hypnosis-nov12",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "deep-refresh-nov19"
    ],
    "groups": [
     {
@@ -616730,6 +617082,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "husband-hypnosis-nov12"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4079,
+       "from_source": "deep-refresh-nov19"
+      }
+     ],
+     "from_source": "deep-refresh-nov19"
     }
    ],
    "declared_count_by_source": {
@@ -616751,7 +617114,8 @@ window.CATALOG = {
     "pdf-hypnosis-sweeps-nov08": null,
     "partner-hypnosis-nov11": null,
     "therapist-hypnosis-nov12": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "deep-refresh-nov19": null
    }
   },
   {
@@ -622855,7 +623219,8 @@ window.CATALOG = {
     "pdf-hypnosis-sweeps-nov08",
     "deep-refresh-nov11",
     "partner-hypnosis-nov11",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "deep-refresh-nov19"
    ],
    "groups": [
     {
@@ -624439,6 +624804,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "husband-hypnosis-nov12"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4079,
+       "from_source": "deep-refresh-nov19"
+      }
+     ],
+     "from_source": "deep-refresh-nov19"
     }
    ],
    "declared_count_by_source": {
@@ -624471,7 +624847,8 @@ window.CATALOG = {
     "pdf-hypnosis-sweeps-nov08": null,
     "deep-refresh-nov11": null,
     "partner-hypnosis-nov11": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "deep-refresh-nov19": null
    }
   },
   {
@@ -625519,7 +625896,8 @@ window.CATALOG = {
     "partner-hypnosis-nov11",
     "hypno-sex-nov12",
     "therapist-hypnosis-nov12",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "deep-refresh-nov19"
    ],
    "groups": [
     {
@@ -626732,6 +627110,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "husband-hypnosis-nov12"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4080,
+       "from_source": "deep-refresh-nov19"
+      }
+     ],
+     "from_source": "deep-refresh-nov19"
     }
    ],
    "declared_count_by_source": {
@@ -626770,7 +627159,8 @@ window.CATALOG = {
     "partner-hypnosis-nov11": null,
     "hypno-sex-nov12": null,
     "therapist-hypnosis-nov12": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "deep-refresh-nov19": null
    }
   },
   {
@@ -637508,7 +637898,8 @@ window.CATALOG = {
     "pdf-hypnosis-sweeps-nov08",
     "deep-refresh-nov11",
     "hypnosis-nov11",
-    "saimin-sweep-nov11"
+    "saimin-sweep-nov11",
+    "deep-refresh-nov19"
    ],
    "groups": [
     {
@@ -640730,6 +641121,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "saimin-sweep-nov11"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4078,
+       "from_source": "deep-refresh-nov19"
+      }
+     ],
+     "from_source": "deep-refresh-nov19"
     }
    ],
    "declared_count_by_source": {
@@ -640766,7 +641168,8 @@ window.CATALOG = {
     "pdf-hypnosis-sweeps-nov08": null,
     "deep-refresh-nov11": null,
     "hypnosis-nov11": null,
-    "saimin-sweep-nov11": null
+    "saimin-sweep-nov11": null,
+    "deep-refresh-nov19": null
    }
   },
   {
@@ -661582,7 +661985,8 @@ window.CATALOG = {
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11",
     "hypno-sex-nov12",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "deep-refresh-nov19"
    ],
    "groups": [
     {
@@ -664463,6 +664867,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "husband-hypnosis-nov12"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4080,
+       "from_source": "deep-refresh-nov19"
+      }
+     ],
+     "from_source": "deep-refresh-nov19"
     }
    ],
    "declared_count_by_source": {
@@ -664503,7 +664918,8 @@ window.CATALOG = {
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null,
     "hypno-sex-nov12": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "deep-refresh-nov19": null
    }
   },
   {
@@ -664541,7 +664957,8 @@ window.CATALOG = {
     "husband-hypnosis-nov12",
     "deep-refresh-nov13",
     "deep-refresh-nov16",
-    "deep-refresh-nov17"
+    "deep-refresh-nov17",
+    "deep-refresh-nov19"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -664573,7 +664990,8 @@ window.CATALOG = {
     "husband-hypnosis-nov12": null,
     "deep-refresh-nov13": null,
     "deep-refresh-nov16": null,
-    "deep-refresh-nov17": null
+    "deep-refresh-nov17": null,
+    "deep-refresh-nov19": null
    },
    "groups": [
     {
@@ -665504,6 +665922,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov17"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4079,
+       "from_source": "deep-refresh-nov19"
+      }
+     ],
+     "from_source": "deep-refresh-nov19"
     }
    ]
   },
