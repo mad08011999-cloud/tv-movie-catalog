@@ -4,6 +4,178 @@
  "group_title": "Deep gap-check (missed titles), 19 Nov 2026",
  "description": "Second track of the 19 Nov 2026 deep refresh, focused on the core question: an adult woman is hypnotized and becomes pregnant (again), whether the couple ends up with the child(ren), and whether she already had children. Swept web search in English, Japanese, Chinese, Korean, Thai, Indonesian, Turkish, Spanish and Hindi; vertical/short-drama aggregators (ReelShort, DramaBox, ShortMax, GoodShort, NetShort, DramaSpot, MicroDramaList, DramaDb); TikTok/Instagram/YouTube/Bilibili via web search; X public search; AI-generated works; and official DLsite store listings and DLsite's public product API (genre filters 催眠 + 妊娠/孕ませ + 人妻/母親/出産). Mainstream screen leads found this run were already in the catalog, so the new records are adult (18+) doujin manga, CG works, games and audio dramas. Adults only; anything with minors, school-age targets, child narrators or children present during sexual content is held in dropped. Non-explicit notes; plots come only from the official listing text; uncertain outcomes are marked unknown/not stated. Kept separate from sources/deep-refresh-nov19.json because a parallel run was writing that file; appended at the true end of SOURCES so existing IDs do not shift.",
  "category_labels": {},
- "records": [],
+ "records": [
+  {
+   "pregnant_end": "unknown",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "adult": "yes",
+   "title": "催眠妊活ランドへようこそ ☆ ―知らない内に我が家が妊活オヤジたちの托卵テーマパークになっていた件―",
+   "year": "2022",
+   "format": "illustrated work (adult, DLsite)",
+   "meta": "CG collection · Japan · Japanese · circle ミルフ牧場 · DLsite RJ419925 · released 23 Nov 2022 · R18 · genres 母親, 人妻, 寝取られ, 妊娠/孕ませ",
+   "character": "みゆき (Miyuki), a married mother; husband としお (Toshio); their only daughter りさ (Risa) is listed as family only",
+   "summary": "Official copy: the Tanaka home has secretly been turned into a hypnosis 'fertility theme park'. Wife Miyuki is hypnotized into hosting paying male visitors who want to father children, while the family, who remember nothing of the hypnosis, carry on their normal life unaware.",
+   "hypnotist": "The operators of the 'park' (a neighbor listed as staff) acting for paying visitors",
+   "method": "Hypnosis / brainwashing with amnesia for the hypnotized periods",
+   "kids_note": "Yes: Miyuki and Toshio already have one daughter, Risa. The listing names Risa only as family; she is not described as hypnotized or as a target.",
+   "kids_together_note": "Their existing daughter is the couple's. Any new child would be a visitor's, raised in the husband's home without his knowledge (托卵, per the title).",
+   "pregnancy_outcome": "Conception is the premise (title and 妊娠/孕ませ genre); the listing text does not state a birth.",
+   "pregnancy_again": "unknown",
+   "existing_kids": "1",
+   "categories": [
+    "mom-pregnancy",
+    "another-man",
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ419925.html"
+    },
+    {
+     "label": "DLsite通信 (DLsite news)",
+     "url": "https://dlsitenews.com/doujin/saiminninkatsurandoheyoukosohosishiranainainiwagaya"
+    }
+   ],
+   "evidence": "Official DLsite page RJ419925 (opened 19 Nov 2026) and DLsite's own news page give the synopsis, the character list (Toshio, Miyuki, only daughter Risa) and genres 母親/人妻/妊娠/孕ませ.",
+   "fit_note": "Adult wife-and-mother target; pregnancy is the premise but a birth is not stated.",
+   "confidence_flag": "Medium · 2 sources",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ]
+  },
+  {
+   "pregnant_end": "yes",
+   "kids_status": "yes",
+   "kids_together": "unknown",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "adult": "yes",
+   "title": "ベビーカー産後処女ママ催●NTR キモ弱者男性専用肉便器化大成功！二人目托卵で離婚確定！?全部ノットリ上書きしちゃいましたSP",
+   "year": "2026",
+   "format": "digital manga (adult, DLsite)",
+   "meta": "Manga · Japan · Japanese · ZOCKZOCK出版 · DLsite RJ01566483 · released 5 Apr 2026 · R18 · genres 人妻, 常識改変, 寝取られ",
+   "character": "A new mother pushing a baby stroller (name not given in the listing)",
+   "summary": "Official copy: a man uses a hypnosis light to brainwash a young mother he sees pushing her baby's stroller, and she conceives a second child by him that is passed off in her marriage (二人目托卵); the title adds that divorce looks certain.",
+   "hypnotist": "An unnamed man",
+   "method": "Hypnosis light (催●ライト) / brainwashing",
+   "kids_note": "Yes: she has recently given birth (the stroller baby).",
+   "kids_together_note": "The existing baby is from her marriage; the second child is fathered by the hypnotist. The title says divorce looks certain (with a question mark), so whether the couple keeps the children together is unknown.",
+   "pregnancy_outcome": "Pregnant with a second child by the hypnotist (二人目托卵); birth not stated.",
+   "pregnancy_again": "ongoing",
+   "existing_kids": "1",
+   "categories": [
+    "mom-pregnancy",
+    "another-man",
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01566483.html"
+    },
+    {
+     "label": "DLsite product API (official listing data)",
+     "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01566483"
+    }
+   ],
+   "evidence": "DLsite product data for RJ01566483 (title, 5 Apr 2026 release, genres, intro text). The product page redirects from this network (likely region-restricted), so the text was read from DLsite's own product API.",
+   "fit_note": "Adult mother; no child is described as present during sexual content.",
+   "confidence_flag": "Single source · flag",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ]
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "adult": "yes",
+   "title": "ヨガ教室の人妻ボインストラクターを催〇寝取り-気づかぬうちに托卵されてました-",
+   "year": "2024",
+   "format": "illustrated work (adult, DLsite)",
+   "meta": "CG collection · Japan · Japanese · circle あかめ・てい · DLsite RJ01287101 · released 10 Nov 2024 · R18 · genres 人妻, 寝取り, 催眠, 妊娠/孕ませ",
+   "character": "A married yoga instructor (name not given in the listing)",
+   "summary": "Official copy: a man joins a neighborhood yoga class to get close to its married instructor, uses hypnosis on her, and makes her pregnant with a second child that she gives birth to and raises with her husband, who does not know (托卵).",
+   "hypnotist": "A class member who uses hypnosis (術)",
+   "method": "Hypnosis",
+   "kids_note": "Yes: the listing calls the new baby her second child (二人目), so she already has one.",
+   "kids_together_note": "Yes, in the sense that the couple raises both children: the listing says the second child is fathered by the hypnotist but raised by her and her husband, who does not know. Who fathered the first child is not stated.",
+   "pregnancy_outcome": "Gives birth to a second child, fathered by the hypnotist.",
+   "pregnancy_again": "birth",
+   "existing_kids": "1",
+   "pregnant_end_note": "Birth stated; she is no longer pregnant at the end.",
+   "categories": [
+    "mom-pregnancy",
+    "another-man",
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01287101.html"
+    },
+    {
+     "label": "DLsite product API (official listing data)",
+     "url": "https://www.dlsite.com/maniax/api/=/product.json?workno=RJ01287101"
+    }
+   ],
+   "evidence": "DLsite product data for RJ01287101: intro says he makes her pregnant through 托卵 in front of her husband, has her bear a second child, and has them raise it. Product page is region-restricted from this network; text from DLsite's product API.",
+   "confidence_flag": "Single source · flag",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ]
+  },
+  {
+   "pregnant_end": "unknown",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "provenance": "Deep refresh part B, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)",
+   "adult": "yes",
+   "title": "「こんなん浮気になるわけないし」※ヤンママ天海姫子は催○中!",
+   "year": "2024",
+   "format": "digital manga (adult, DLsite)",
+   "meta": "Manga · Japan · Japanese · circle ホテル試金石 · DLsite RJ01138258 · released 5 Jan 2024 · R18 · genres 女性視点, 人妻, ママ, 催眠, 洗脳, 妊娠/孕ませ",
+   "character": "天海姫子 (Amami Himeko), a former-delinquent housewife and mother",
+   "summary": "Official copy: Himeko lives in a small apartment with her often-absent truck-driver husband and their daughter. Tired out, she tries a free session at a newly opened chiropractic clinic, and its shabby owner hypnotizes her. Told from her point of view.",
+   "hypnotist": "The owner of a new chiropractic clinic (整体士)",
+   "method": "Hypnosis during treatment",
+   "kids_note": "Yes: one daughter, described as being at a 'difficult age'. She is not described as a target.",
+   "kids_together_note": "Their daughter is the couple's. No new child with her husband is described.",
+   "pregnancy_outcome": "Pregnancy is tagged (妊娠/孕ませ genre); the listing text does not say whether she becomes pregnant or gives birth.",
+   "pregnancy_again": "unknown",
+   "existing_kids": "1",
+   "categories": [
+    "mom-pregnancy",
+    "wife-hypnotized",
+    "hypno-intimacy",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official product page)",
+     "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01138258.html"
+    }
+   ],
+   "evidence": "Official DLsite page RJ01138258 (opened 19 Nov 2026): a family of three, her husband away for work, a daughter at a difficult age, and a chiropractor who hypnotizes her; genres include ママ and 妊娠/孕ませ.",
+   "fit_note": "Pregnancy comes from the genre tag only.",
+   "confidence_flag": "Single source · flag",
+   "tags": [
+    "adult doujin",
+    "saimin"
+   ]
+  }
+ ],
  "dropped": []
 }
