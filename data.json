@@ -13792,6 +13792,19 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "deep-refresh-nov19-c",
+   "label": "Deep refresh (19 Nov 2026), part C: pregnant woman hypnotized by her own partner, Asia",
+   "kind": "local",
+   "share_url": "sources/deep-refresh-nov19-c.json",
+   "description": "Asian-language pass (19 Nov 2026 PT) for a PREGNANT adult woman hypnotized by her OWN partner (husband, boyfriend, fiancé or live-in partner), in any Asian country or language, across film, TV, serials, soaps, vertical/short dramas, AI-generated series and adult (18+) works. Swept web search in Chinese, Japanese, Korean, Hindi/Hinglish, Telugu/Tamil, Thai, Indonesian, Vietnamese, Filipino, Turkish and Urdu/Pakistani drama terms; short-drama aggregators and Reddit r/CShortDramas; Bilibili, YouTube, TikTok and Instagram via web search; X public search (0 relevant posts); MyDramaList/AsianWiki/KMDb/HKCinema/Douban-type listings; and DLsite official listings plus DLsite's public product API (genre filters 催眠 + ぼて腹/妊婦, 催眠 + 人妻, 催眠 + 妊娠/孕ませ, 催眠 + 寝取らせ, 催眠 + ラブラブ/恋人同士; about 3,200 listings screened). FANZA could not be searched (login wall). The catalog was already close to saturated for this exact plot: every screen lead found was already listed (e.g. 谁也别想动我腹中的孩子, Listen to Your Husband / 听老公的话, Ninnu Kori, The Memory Reset with The Love Erased) or did not meet the brief. Adults only; non-explicit notes; plots only from official listing text; unknowns are marked unknown/not stated. Appended at the true end of SOURCES.",
+   "dropped": [],
+   "check": {
+    "raw_count": 0,
+    "ok": false
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -13907,7 +13920,8 @@
   "deep-refresh-nov19-b": 36,
   "partner-hypnosis-nov19c": 2,
   "deep-refresh-nov19-pregnant-partner": 4,
-  "widow-hypnotized-marriage-nov19": 1
+  "widow-hypnotized-marriage-nov19": 1,
+  "deep-refresh-nov19-c": 0
  },
  "raw_total": 7751,
  "entry_count": 3928,
