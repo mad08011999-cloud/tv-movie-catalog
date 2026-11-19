@@ -13799,10 +13799,75 @@ window.CATALOG = {
    "kind": "local",
    "share_url": "sources/deep-refresh-nov19-c.json",
    "description": "Asian-language pass (19 Nov 2026 PT) for a PREGNANT adult woman hypnotized by her OWN partner (husband, boyfriend, fiancé or live-in partner), in any Asian country or language, across film, TV, serials, soaps, vertical/short dramas, AI-generated series and adult (18+) works. Swept web search in Chinese, Japanese, Korean, Hindi/Hinglish, Telugu/Tamil, Thai, Indonesian, Vietnamese, Filipino, Turkish and Urdu/Pakistani drama terms; short-drama aggregators and Reddit r/CShortDramas; Bilibili, YouTube, TikTok and Instagram via web search; X public search (0 relevant posts); MyDramaList/AsianWiki/KMDb/HKCinema/Douban-type listings; and DLsite official listings plus DLsite's public product API (genre filters 催眠 + ぼて腹/妊婦, 催眠 + 人妻, 催眠 + 妊娠/孕ませ, 催眠 + 寝取らせ, 催眠 + ラブラブ/恋人同士; about 3,200 listings screened). FANZA could not be searched (login wall). The catalog was already close to saturated for this exact plot: every screen lead found was already listed (e.g. 谁也别想动我腹中的孩子, Listen to Your Husband / 听老公的话, Ninnu Kori, The Memory Reset with The Love Erased) or did not meet the brief. Adults only; non-explicit notes; plots only from official listing text; unknowns are marked unknown/not stated. Appended at the true end of SOURCES.",
-   "dropped": [],
+   "dropped": [
+    {
+     "title": "单纯孕妻被催眠后的淫乱生活 (Chinese erotic web novel, 榴莲黄)",
+     "reason": "A written web novel (not a screen work), found only on unofficial reading sites. The husband takes his pregnant wife to a hypnosis clinic, so it's a 'partner hires the hypnotist' variant. No official listing could be verified. Held."
+    },
+    {
+     "title": "恢复记忆后，我不再爱了 (Chinese web novel; Bilibili upload BV1WBrjBdEx1)",
+     "reason": "Same story as the catalog's existing entry The Memory Reset with The Love Erased (#4061). The Chinese source is a web novel, and the Bilibili upload could not be opened to confirm it is a separate drama. Held as a duplicate."
+    },
+    {
+     "title": "诱她入梦 (2024 Chinese drama listing, dir. 叶海斌)",
+     "reason": "A husband hypnotizes his wife to take her family fortune, but the synopsis has no pregnancy. Held as outside this pregnant-only brief."
+    },
+    {
+     "title": "引她入梦 (short drama; 黎漾 / 江衍)",
+     "reason": "The man who enters her dreams is her step-brother through a gu/dream spell, not her partner. Pregnancy is only suggested by an episode page that could not be opened. Held."
+    },
+    {
+     "title": "私の妻が催○導入剤で変わり果てるまで (DLsite RJ226852, 2018)",
+     "reason": "A husband uses a hypnosis-inducing drug on his wife, but the listing has no pregnancy. Held as outside this pregnant-only brief."
+    },
+    {
+     "title": "【NTR】催○で妻を寝取らせたかっただけなのに (DLsite RJ01732812, 2026)",
+     "reason": "A husband uses hypnosis to share his wife, but pregnancy is not in the API text and the product page could not be read. Held."
+    },
+    {
+     "title": "支配する言葉3 人妻寝取らせ編 前編／後編 (DLsite RJ01146205 / RJ01242095)",
+     "reason": "The controller hypnotizes the husband, not the wife; the wife's later pregnancy is not by partner hypnosis. Held."
+    },
+    {
+     "title": "寝取られ妊娠｜性接待に妻を使っていたら赤ちゃん作られた! (DLsite RJ304721, 2020)",
+     "reason": "A husband offers his wife to a client; the listing only tags トランス/暗示 and never says who hypnotizes her. Held."
+    },
+    {
+     "title": "天才エージェント美少女・錦〇千束ちゃんと…催眠から始まる恋 (DLsite RJ01362659, 2025)",
+     "reason": "A parody of a character who is 17 in the source anime; adulthood unclear. Held."
+    },
+    {
+     "title": "Ninnu Kori — 29 Oct 2025 episode (Telugu, Star Maa)",
+     "reason": "Already in the catalog (#2303). The hypnosis is arranged by her brother-in-law Virat through a psychiatrist, not by her husband. Not re-added."
+    },
+    {
+     "title": "AI短剧《催眠眼镜》 / Hypnosis Glasses",
+     "reason": "Already held in earlier passes; only forum or pirate reposts and no verifiable official listing. The hypnotist is not her partner."
+    },
+    {
+     "title": "裂けた眠り (TBS 1968 serial / 1982 ザ・サスペンス remake)",
+     "reason": "The hypnotist is a stranger who preys on a married woman, not her partner, and no pregnancy is listed. Outside this brief (possible lead for a general pass)."
+    },
+    {
+     "title": "Catch-22 (2007 Korean short film, dir. 최수헌)",
+     "reason": "The KMDb synopsis has a doctor executing a couple (a pregnant wife and her rapist husband); hypnosis by her partner is not stated. Held."
+    },
+    {
+     "title": "催眠人妻「精子が入ってくるわ！絶対妊娠しちゃう！」 (hentai clip title)",
+     "reason": "Only seen on an unofficial embed site; the work's real title and who hypnotizes her could not be verified. Held."
+    },
+    {
+     "title": "สะกดจิต สะกิดชู้ (Thai NTR web novel, HatHU)",
+     "reason": "A written web novel with no pregnancy in the blurb. Held."
+    },
+    {
+     "title": "男主未婚妻被催眠控制 (Bilibili clip BV1jH4y177me, 2024)",
+     "reason": "A clip with no description; source drama, hypnotist and pregnancy all unknown. Held."
+    }
+   ],
    "check": {
-    "raw_count": 0,
-    "ok": false
+    "raw_count": 1,
+    "ok": true
    },
    "status": "local"
   }
@@ -13921,10 +13986,10 @@ window.CATALOG = {
   "partner-hypnosis-nov19c": 2,
   "deep-refresh-nov19-pregnant-partner": 4,
   "widow-hypnotized-marriage-nov19": 1,
-  "deep-refresh-nov19-c": 0
+  "deep-refresh-nov19-c": 1
  },
- "raw_total": 7751,
- "entry_count": 3928,
+ "raw_total": 7752,
+ "entry_count": 3929,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -13942,7 +14007,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 416
+   "entry_count": 417
   },
   {
    "key": "belly",
@@ -14002,7 +14067,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 321
+   "entry_count": 322
   },
   {
    "key": "child-controller",
@@ -14014,7 +14079,7 @@ window.CATALOG = {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 97
+   "entry_count": 98
   },
   {
    "key": "india-control",
@@ -14062,7 +14127,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 166
+   "entry_count": 167
   },
   {
    "key": "index-54",
@@ -14110,7 +14175,7 @@ window.CATALOG = {
    "key": "hypno-intimacy",
    "label": "Hypnotized woman intimate with the hypnotist or the man he directs",
    "legend_label": "Hypnotized into intimacy",
-   "entry_count": 112
+   "entry_count": 113
   },
   {
    "key": "indian-female-hypnosis",
@@ -14218,7 +14283,7 @@ window.CATALOG = {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
    "legend_label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 52
+   "entry_count": 53
   },
   {
    "key": "pregnancy-adjacent",
@@ -607119,6 +607184,134 @@ window.CATALOG = {
      "provenance": "Widow hypnotized into marriage sweep, 19 Nov 2026 PT (adults only; non-explicit notes; official store listing text only)"
     }
    }
+  },
+  {
+   "id": 4124,
+   "title": "シュタイン教授の催○調教研究室 (Professor Stein's Hypnosis Training Lab)",
+   "subtitle": "",
+   "year": "2023–2024",
+   "meta": "Adult manga serial · Japan · Japanese · by 瀬名鈴子 (Sena Suzuko) · ぶんか社 / マガジンサイベリア · 5 chapters, about Oct 2023 – 20 Feb 2024 · R18 · DLsite BJ01211781 (ch. 2), BJ01236589 (ch. 3), BJ01262242 (ch. 4), BJ01289051 (final) · final chapter also collected in the pregnancy-theme anthology 淫らな妊婦 (ぶんか社, 20 Feb 2024)",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources (official store listings)",
+   "summary": "Official listing copy: in a world where humans live alongside other races and are seen as less capable, Professor Stein researches ways to raise humans' standing; he was born with the ability to control other people's minds. When the national army asks whether his power could be used for training, his female assistant volunteers, and he uses the power on her (chapters 2–4: he draws out her hidden desires and 'trains' her, and she grows more sensual). In the final chapter, having fled a civil war, Stein changes his name and lives with the assistant as a married couple; she becomes pregnant and then loses her memory.",
+   "character": "Professor Stein's unnamed female assistant (an adult research assistant), who later lives with him as his wife",
+   "provenance": "Deep refresh part C, 19 Nov 2026 PT (Asia; pregnant woman hypnotized by her own partner; adults only; non-explicit; official listing text only)",
+   "note": "",
+   "pregnancy_outcome": "She is pregnant in the final chapter while living with Stein as his wife; the listing does not name the father or state a birth.",
+   "tags": [
+    "adult manga",
+    "saimin",
+    "partner hypnotist",
+    "pregnant"
+   ],
+   "hypnotist": "Professor Stein, her employer who later becomes her partner (they live as husband and wife)",
+   "method": "Innate mind-control power (listed as 催眠 / トランス/暗示)",
+   "kids_status": "no — no earlier children mentioned",
+   "kids_note": "No children are mentioned before the pregnancy.",
+   "kids_together": "unknown",
+   "kids_together_note": "The listing ends on her memory loss while pregnant; whether the couple stay together and raise the child is not stated.",
+   "pregnant_end": "yes — pregnant in the final chapter (birth not stated)",
+   "evidence": "Official DLsite pages and DLsite product API text for chapters 2–4 and the final chapter (opened 19 Nov 2026), plus the Reader Store anthology listing.",
+   "fit_note": "Partner fit: she is hypnotized / mind-controlled by the man she then lives with as his wife, and she is pregnant in the final chapter. The listings do not say whether he uses his power on her while she is pregnant or whether it causes her memory loss.",
+   "adult": "yes",
+   "existing_kids": "0 (none mentioned)",
+   "pregnancy_again": "no — first pregnancy as far as the listings say",
+   "format": "manga serial (adult, digital single chapters)",
+   "categories": [
+    "wife",
+    "partner-control",
+    "pregnant-variants",
+    "adult-hypnosis",
+    "hypno-intimacy",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "DLsite (official) — final chapter BJ01289051",
+     "url": "https://www.dlsite.com/books/work/=/product_id/BJ01289051.html"
+    },
+    {
+     "label": "DLsite (official) — chapter 2 BJ01211781",
+     "url": "https://www.dlsite.com/books/work/=/product_id/BJ01211781.html"
+    },
+    {
+     "label": "DLsite (official) — chapter 4 BJ01262242",
+     "url": "https://www.dlsite.com/books/work/=/product_id/BJ01262242.html"
+    },
+    {
+     "label": "Reader Store (Sony) — anthology 淫らな妊婦 (credits 瀬名鈴子, ぶんか社, 20 Feb 2024)",
+     "url": "https://ec.ebookstore.sony.jp/ec/title/01508408/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov19-c"
+   ],
+   "source_records": [
+    "deep-refresh-nov19-c:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov19-c:1": {
+     "title": "シュタイン教授の催○調教研究室 (Professor Stein's Hypnosis Training Lab)",
+     "year": "2023–2024",
+     "format": "manga serial (adult, digital single chapters)",
+     "meta": "Adult manga serial · Japan · Japanese · by 瀬名鈴子 (Sena Suzuko) · ぶんか社 / マガジンサイベリア · 5 chapters, about Oct 2023 – 20 Feb 2024 · R18 · DLsite BJ01211781 (ch. 2), BJ01236589 (ch. 3), BJ01262242 (ch. 4), BJ01289051 (final) · final chapter also collected in the pregnancy-theme anthology 淫らな妊婦 (ぶんか社, 20 Feb 2024)",
+     "character": "Professor Stein's unnamed female assistant (an adult research assistant), who later lives with him as his wife",
+     "summary": "Official listing copy: in a world where humans live alongside other races and are seen as less capable, Professor Stein researches ways to raise humans' standing; he was born with the ability to control other people's minds. When the national army asks whether his power could be used for training, his female assistant volunteers, and he uses the power on her (chapters 2–4: he draws out her hidden desires and 'trains' her, and she grows more sensual). In the final chapter, having fled a civil war, Stein changes his name and lives with the assistant as a married couple; she becomes pregnant and then loses her memory.",
+     "hypnotist": "Professor Stein, her employer who later becomes her partner (they live as husband and wife)",
+     "method": "Innate mind-control power (listed as 催眠 / トランス/暗示)",
+     "pregnant_end": "yes — pregnant in the final chapter (birth not stated)",
+     "pregnancy_outcome": "She is pregnant in the final chapter while living with Stein as his wife; the listing does not name the father or state a birth.",
+     "pregnancy_again": "no — first pregnancy as far as the listings say",
+     "kids_status": "no — no earlier children mentioned",
+     "kids_note": "No children are mentioned before the pregnancy.",
+     "kids_together": "unknown",
+     "kids_together_note": "The listing ends on her memory loss while pregnant; whether the couple stay together and raise the child is not stated.",
+     "existing_kids": "0 (none mentioned)",
+     "fit_note": "Partner fit: she is hypnotized / mind-controlled by the man she then lives with as his wife, and she is pregnant in the final chapter. The listings do not say whether he uses his power on her while she is pregnant or whether it causes her memory loss.",
+     "adult": "yes",
+     "categories": [
+      "wife",
+      "partner-control",
+      "pregnant-variants",
+      "adult-hypnosis",
+      "hypno-intimacy",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "DLsite (official) — final chapter BJ01289051",
+       "url": "https://www.dlsite.com/books/work/=/product_id/BJ01289051.html"
+      },
+      {
+       "label": "DLsite (official) — chapter 2 BJ01211781",
+       "url": "https://www.dlsite.com/books/work/=/product_id/BJ01211781.html"
+      },
+      {
+       "label": "DLsite (official) — chapter 4 BJ01262242",
+       "url": "https://www.dlsite.com/books/work/=/product_id/BJ01262242.html"
+      },
+      {
+       "label": "Reader Store (Sony) — anthology 淫らな妊婦 (credits 瀬名鈴子, ぶんか社, 20 Feb 2024)",
+       "url": "https://ec.ebookstore.sony.jp/ec/title/01508408/"
+      }
+     ],
+     "evidence": "Official DLsite pages and DLsite product API text for chapters 2–4 and the final chapter (opened 19 Nov 2026), plus the Reader Store anthology listing.",
+     "confidence_flag": "Medium · 2 sources (official store listings)",
+     "provenance": "Deep refresh part C, 19 Nov 2026 PT (Asia; pregnant woman hypnotized by her own partner; adults only; non-explicit; official listing text only)",
+     "tags": [
+      "adult manga",
+      "saimin",
+      "partner hypnotist",
+      "pregnant"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -607648,7 +607841,8 @@ window.CATALOG = {
     "deep-refresh-nov17",
     "deep-refresh-nov19-b",
     "partner-hypnosis-nov19c",
-    "widow-hypnotized-marriage-nov19"
+    "widow-hypnotized-marriage-nov19",
+    "deep-refresh-nov19-c"
    ],
    "groups": [
     {
@@ -612080,6 +612274,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4124,
+       "from_source": "deep-refresh-nov19-c"
+      },
+      {
        "id": 4106,
        "from_source": "deep-refresh-nov19-b"
       },
@@ -612285,7 +612483,8 @@ window.CATALOG = {
     "deep-refresh-nov17": null,
     "deep-refresh-nov19-b": null,
     "partner-hypnosis-nov19c": null,
-    "widow-hypnotized-marriage-nov19": null
+    "widow-hypnotized-marriage-nov19": null,
+    "deep-refresh-nov19-c": null
    }
   },
   {
@@ -616315,7 +616514,8 @@ window.CATALOG = {
     "deep-refresh-nov12",
     "deep-refresh-nov13",
     "weekly-nov16",
-    "deep-refresh-nov19-b"
+    "deep-refresh-nov19-b",
+    "deep-refresh-nov19-c"
    ],
    "groups": [
     {
@@ -618862,6 +619062,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 4124,
+       "from_source": "deep-refresh-nov19-c"
+      },
+      {
        "id": 4120,
        "from_source": "deep-refresh-nov19-b"
       }
@@ -618910,7 +619114,8 @@ window.CATALOG = {
     "deep-refresh-nov12": null,
     "deep-refresh-nov13": null,
     "weekly-nov16": null,
-    "deep-refresh-nov19-b": null
+    "deep-refresh-nov19-b": null,
+    "deep-refresh-nov19-c": null
    }
   },
   {
@@ -621488,7 +621693,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19b",
     "deep-refresh-nov19-b",
     "partner-hypnosis-nov19c",
-    "deep-refresh-nov19-pregnant-partner"
+    "deep-refresh-nov19-pregnant-partner",
+    "deep-refresh-nov19-c"
    ],
    "groups": [
     {
@@ -622528,6 +622734,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov19"
       },
       {
+       "id": 4124,
+       "from_source": "deep-refresh-nov19-c"
+      },
+      {
        "id": 4118,
        "from_source": "deep-refresh-nov19-b"
       }
@@ -622590,7 +622800,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19b": null,
     "deep-refresh-nov19-b": null,
     "partner-hypnosis-nov19c": null,
-    "deep-refresh-nov19-pregnant-partner": null
+    "deep-refresh-nov19-pregnant-partner": null,
+    "deep-refresh-nov19-c": null
    }
   },
   {
@@ -628739,7 +628950,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19b",
     "deep-refresh-nov19-b",
     "partner-hypnosis-nov19c",
-    "deep-refresh-nov19-pregnant-partner"
+    "deep-refresh-nov19-pregnant-partner",
+    "deep-refresh-nov19-c"
    ],
    "groups": [
     {
@@ -630342,6 +630554,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov19"
       },
       {
+       "id": 4124,
+       "from_source": "deep-refresh-nov19-c"
+      },
+      {
        "id": 4118,
        "from_source": "deep-refresh-nov19-b"
       }
@@ -630419,7 +630635,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19b": null,
     "deep-refresh-nov19-b": null,
     "partner-hypnosis-nov19c": null,
-    "deep-refresh-nov19-pregnant-partner": null
+    "deep-refresh-nov19-pregnant-partner": null,
+    "deep-refresh-nov19-c": null
    }
   },
   {
@@ -635854,7 +636071,8 @@ window.CATALOG = {
     "therapist-hypnosis-nov12",
     "husband-hypnosis-nov12",
     "deep-refresh-nov19-b",
-    "widow-hypnotized-marriage-nov19"
+    "widow-hypnotized-marriage-nov19",
+    "deep-refresh-nov19-c"
    ],
    "groups": [
     {
@@ -636508,6 +636726,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-nov19-b"
       },
       {
+       "id": 4124,
+       "from_source": "deep-refresh-nov19-c"
+      },
+      {
        "id": 4106,
        "from_source": "deep-refresh-nov19-b"
       },
@@ -636666,7 +636888,8 @@ window.CATALOG = {
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
     "deep-refresh-nov19-b": null,
-    "widow-hypnotized-marriage-nov19": null
+    "widow-hypnotized-marriage-nov19": null,
+    "deep-refresh-nov19-c": null
    }
   },
   {
@@ -649071,7 +649294,8 @@ window.CATALOG = {
     "pdf-hypnosis-sweeps-nov08",
     "hypnosis-nov11",
     "saimin-sweep-nov11",
-    "deep-refresh-nov19-pregnant-partner"
+    "deep-refresh-nov19-pregnant-partner",
+    "deep-refresh-nov19-c"
    ],
    "declared_count_by_source": {
     "round3": null,
@@ -649082,7 +649306,8 @@ window.CATALOG = {
     "pdf-hypnosis-sweeps-nov08": null,
     "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
-    "deep-refresh-nov19-pregnant-partner": null
+    "deep-refresh-nov19-pregnant-partner": null,
+    "deep-refresh-nov19-c": null
    },
    "groups": [
     {
@@ -649207,6 +649432,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov19-pregnant-partner"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 19 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4124,
+       "from_source": "deep-refresh-nov19-c"
+      }
+     ],
+     "from_source": "deep-refresh-nov19-c"
     }
    ]
   },
