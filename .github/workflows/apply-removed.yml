@@ -1,0 +1,74 @@
+name: Apply webpage removals
+
+on:
+  push:
+    paths:
+      - "sources/removed.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apply-removed
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    # A commit from this workflow only touches generated data files, so the
+    # path filter above will not re-trigger it.
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 20
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Filter generated catalogs against sources/removed.json
+        env:
+          PREV: ${{ github.event.before }}
+        run: |
+          set -e
+          PREV_ARG=()
+          if [ -n "$PREV" ] && [ "$PREV" != "0000000000000000000000000000000000000000" ]; then
+            PREV_ARG=(--previous "$PREV")
+          elif git rev-parse --verify HEAD^ >/dev/null 2>&1; then
+            PREV_ARG=(--previous "HEAD^")
+          fi
+          python scripts/apply_removed.py "${PREV_ARG[@]}"
+          echo "PREV_REF=${PREV_ARG[1]-}" >> "$GITHUB_ENV"
+
+      - name: Commit and push if generated files changed
+        run: |
+          set -e
+          git add data.json assets/data.js reads/data.json reads/catalog.js adult/data.json adult/catalog.js
+          if git diff --cached --quiet; then
+            echo "No generated-file changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Apply webpage removals from sources/removed.json"
+          i=0
+          until git push; do
+            i=$((i+1))
+            if [ "$i" -gt 5 ]; then
+              echo "Push failed after 5 retries."
+              exit 1
+            fi
+            echo "Push rejected; rebase and re-apply ($i)"
+            git pull --rebase origin main
+            if [ -n "${PREV_REF:-}" ]; then
+              python scripts/apply_removed.py --previous "$PREV_REF"
+            else
+              python scripts/apply_removed.py
+            fi
+            git add data.json assets/data.js reads/data.json reads/catalog.js adult/data.json adult/catalog.js
+            if ! git diff --cached --quiet; then
+              git commit -m "Apply webpage removals from sources/removed.json"
+            fi
+          done

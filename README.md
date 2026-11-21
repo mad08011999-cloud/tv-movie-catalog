@@ -119,3 +119,30 @@ The GitHub Actions workflow `.github/workflows/sync.yml` runs it daily at 09:17 
 - **Partner / husband hypnosis deep follow-up, part C (19 Nov 2026 PT)** — [curated source](sources/partner-hypnosis-nov19c.json): 1 new standalone card, สะกดจิต สะกิดชู้ (Hypnosis, Tempting an Affair) (2020–2022, Thai adult web novel on Tunwalai), placed in existing `wife`, `partner-control`, `wife-hypnotized`, `tech`, `adult-hypnosis` and `cheat-control` categories. A husband uses a hypnosis-titled mind-control device on his wife; official listing names no children and no pregnancy (kids-together unknown; kids-from-before unknown). Also enriches the existing April 2026 card 被催眠的她 (no new card, no ID shift): official Baidu Baike and a 12 Apr 2026 recap now confirm the husband used drugs and hypnosis, and that a miscarriage is part of the backstory (no living child of the couple; no prior children mentioned). No new category. Rechecked morning-pass holds and other unverified or wrong-direction leads remain in the file's `dropped`.
 
 - **Widow hypnotized into marriage (19 Nov 2026 PT)** — [curated source](sources/widow-hypnotized-marriage-nov19.json): 1 new card, 親戚のおばさんが嫁を探せとうるさいので俺の嫁にした (2020, 箱舟, DLsite RJ281617 / FANZA d_174625). A widowed older relative is hypnotized (official genres 未亡人 + 催眠) and made the man's bride. Prior children, children together and pregnancy are not stated (unknown). It goes in the existing `hypnotized-to-marry`, `hypnotized-marriage`, `widow-divorcee`, `adult-hypnosis` and `hypno-intimacy` categories; no new category. The worldwide sweep covered films, TV, soaps, short dramas, adult store listings (DLsite 未亡人 × 催眠/洗脳/常識改変 genre filter), AI works and TikTok/Instagram via web search. Leads already in the catalog were skipped. Leads with minors, unclear adulthood, no marriage or no hypnosis are listed in the file's `dropped`. A second pass on 19 Nov 2026 PT searched in native-script keywords across Indian languages, Chinese, Korean, Japanese, Thai, Vietnamese, Indonesian/Malay, Filipino, Turkish, Arabic, Russian, Spanish and Portuguese, plus AI and short-video works. It found no further verifiable widow + hypnosis + marriage titles; its near-misses are added to `dropped`.
+
+## Removing an entry from the published page
+
+The live site has an **Edit mode** that can hide a card and save the removal to the repository, so the next catalog build will not bring it back.
+
+**1. Create a fine-grained GitHub token**
+
+1. Open [https://github.com/settings/personal-access-tokens/new](https://github.com/settings/personal-access-tokens/new).
+2. Give it a name (for example, “tv-movie-catalog edit”), and set an expiry you are comfortable with.
+3. Under **Repository access**, choose **Only select repositories** and pick `mad08011999-cloud/tv-movie-catalog` only.
+4. Under **Permissions**, set **Contents** to **Read and write**. (Optionally set **Actions** to **Read** — it is not required; saving a removal already triggers the filter workflow.)
+5. Generate the token and copy it. GitHub will only show it once.
+
+Do not commit the token, put it in a URL, or paste it into an issue or chat. If it leaks, revoke it in the same settings page and make a new one.
+
+**2. Turn on edit mode on the site**
+
+1. Open the [live catalog](https://mad08011999-cloud.github.io/tv-movie-catalog/) (or the [Reads](https://mad08011999-cloud.github.io/tv-movie-catalog/reads/) or [Adult](https://mad08011999-cloud.github.io/tv-movie-catalog/adult/) page).
+2. In the footer, click **Edit mode**. Paste the token, then **Save token and turn on edit mode**. The token is stored only in this browser (`localStorage`); other visitors never see it or the Remove buttons.
+3. Each card now has a small trash button. Click it, confirm the title in the dialog, and the card disappears immediately.
+4. The page writes the removal to `sources/removed.json` in the repository. A GitHub Action then filters `data.json` (and the Reads / Adult generated files) and GitHub Pages rebuilds. The live site usually reflects the change in **about 1–2 minutes**. Toasts on the page report saving, success, or an error (for example an expired token).
+
+**3. Undo a removal**
+
+In edit mode, open **Removed (N)** in the footer, then **Undo** next to the title. That takes the entry out of `sources/removed.json`. The Action (or the next catalog sync) puts the card back, usually within 1–2 minutes. You can also delete the token from this browser with **GitHub token → Clear token from this browser**, which turns edit mode off.
+
+Removals are recorded by card id plus title and year, so a later research pass that rebuilds the catalog cannot resurrect the same work under a new id. This list is separate from the curated `sources/exclusions.json` cleanup.

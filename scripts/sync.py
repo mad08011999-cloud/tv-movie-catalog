@@ -32,6 +32,8 @@ Pipeline
      pregnancy / kids / marriage values that no record resolves are listed on the card's source-conflict line.
      Curated removals live in sources/exclusions.json (see apply_exclusions()): the card is dropped on every run
      (also when a source scraped from muse.ai lists it again) and its ID is retired.
+     Webpage removals live in sources/removed.json (see apply_removed.py): cards the owner removed from the
+     published site are filtered out of the generated data after the merge, so later research passes cannot bring them back.
   4. Sections, categories and notes are merged; files are written.
 
 Unchanged source content produces byte-identical output (no git diff).
@@ -1567,6 +1569,15 @@ def main():
 
     data, report, css = build(parsed)
     apply_watch_links(data, out)
+    try:
+        from apply_removed import apply_to_data, load_removed
+    except ImportError:
+        sys.path.insert(0, HERE)
+        from apply_removed import apply_to_data, load_removed
+    data, rm_stats = apply_to_data(data, load_removed(out), "main")
+    if rm_stats["dropped"] or rm_stats["restored"]:
+        log(f"webpage removals: dropped {len(rm_stats['dropped'])}, restored {len(rm_stats['restored'])}; "
+            f"{data['entry_count']} entries remain")
     log(f"raw_counts={data['raw_counts']} after_dedupe={data['entry_count']} "
         f"merged_groups={len(report['merged_groups'])} (within={report['within_source_groups']}, "
         f"cross={report['cross_source_groups']}) index_only={report['index_only_records']} "

@@ -1,0 +1,4 @@
+{
+  "description": "Owner-removed entries from the published webpage. Applied by scripts/apply_removed.py on every catalog build (and by the apply-removed GitHub Action after this file changes) so later research passes and other bots cannot resurrect them. Stable key: catalog (main, reads, or adult) plus card id, together with title and year. Each item may include a 'record' snapshot so Undo can restore the card without a full muse.ai sync. Never store tokens in this file.",
+  "entries": []
+}
