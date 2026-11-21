@@ -1,0 +1,879 @@
+{
+ "id": "belly-kiss-nov21",
+ "label": "Pregnant belly kissed by partner or kids — worldwide sweep part 2 (21 Nov 2026)",
+ "group_title": "Pregnant belly kissed by her partner or her kids",
+ "description": "Second worldwide pass (21 Nov 2026 PT) for adult pregnant women whose belly is kissed by their partner or their children, across films, TV, soaps, telenovelas, Asian serials and adult titles (fan-wiki API sweep, a full Kids-In-Mind sweep and regional web search). Each card says who kisses the belly, whether the couple has kids together and whether she already had kids, from the cited sources or 'unknown'. Partner kisses use 'partner-belly-kiss'; a child's kiss uses the existing 'belly-kissed' category. Titles already in the catalog only gain episodes, categories and links. Cards backed by a single explicit source are tagged 'loose fit'.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "Outlander",
+   "match_title": "Outlander",
+   "match_year": "2016",
+   "year": "2016",
+   "format": "tv",
+   "meta": "UK/US · English · Starz series, season 2",
+   "character": "Claire Fraser (Caitríona Balfe); husband Jamie Fraser (Sam Heughan)",
+   "summary": "In Paris, pregnant Claire is kissed on the belly by her husband Jamie twice: after she tells him Black Jack Randall is alive, he thanks her, kisses her and then her belly (S2E4); later, after making her promise to go back through the stones if things go badly, he kisses her belly and lays his head on it (S2E6).",
+   "note": "Belly kiss: by her partner (husband Jamie).",
+   "episodes": [
+    {
+     "episode": "S2E4 “La Dame Blanche” (30 Apr 2016)",
+     "air_date": "2016-04-30",
+     "gist": "Told that Black Jack Randall is alive, Jamie thanks Claire, kisses her and then her pregnant belly (Outlander TV News recap; single source for this episode).",
+     "number_verified": true
+    },
+    {
+     "episode": "S2E6 “Best Laid Schemes…” (14 May 2016)",
+     "air_date": "2016-05-14",
+     "gist": "After Claire promises to return to Frank if things go badly, Jamie kisses her belly and lays his head on it; that night he talks to the baby (TVLine recap; Outlander Homepage recap confirms the head on her belly).",
+     "number_verified": true
+    }
+   ],
+   "kids_together": "yes",
+   "kids_together_note": "Their daughter Faith is stillborn in S2E7 “Faith”; Claire later gives birth to Jamie's daughter Brianna after returning to the 20th century.",
+   "kids_status": "no",
+   "kids_note": "No children before this pregnancy.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Stillbirth (Faith, S2E7)",
+   "married": "yes",
+   "married_note": "Claire and Jamie are married.",
+   "sources": [
+    {
+     "label": "TVLine recap S2E6 (“he kisses her belly before laying his head on it”)",
+     "url": "https://www.tvline.com/recaps/outlander-recap-season-2-episode-6-jamie-randall-duel-713756/"
+    },
+    {
+     "label": "Outlander TV News recap S2E4 (“kisses her and then her belly”)",
+     "url": "https://www.outlandertvnews.com/2016/04/outlander-recapreview-episode-204-la-dame-blanche/"
+    },
+    {
+     "label": "Outlander Homepage recap S2E6",
+     "url": "https://blog.outlanderhomepage.com/2016/05/the-best-laid-schemes-of-mice-and-men.html"
+    },
+    {
+     "label": "Wikipedia — Outlander season 2 (S2E7: daughter stillborn)",
+     "url": "https://en.wikipedia.org/wiki/Outlander_season_2"
+    }
+   ],
+   "evidence": "2 independent sources for the belly kiss (TVLine for S2E6, Outlander TV News for S2E4); each episode individually single-sourced.",
+   "confidence_flag": "high",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "Grey's Anatomy",
+   "match_title": "Grey's Anatomy",
+   "match_year": "2011–2014",
+   "year": "2013",
+   "format": "tv",
+   "subtitle": "S10E9 “Sorry Seems to Be the Hardest Word” · Callie and Arizona",
+   "meta": "US · English · ABC medical drama, S10E9 (2013)",
+   "character": "Dr. Arizona Robbins (Jessica Capshaw); wife Dr. Callie Torres (Sara Ramírez)",
+   "summary": "In flashbacks, Arizona becomes pregnant by donor insemination; when she shows Callie the positive test, Callie kneels, says “Hi, sweet baby” and kisses Arizona's belly three times. Weeks later an ultrasound finds no heartbeat and Arizona miscarries.",
+   "note": "Belly kiss: by her partner (wife Callie). Early pregnancy, not yet showing. Loose fit: the kiss is documented only on the Grey's Anatomy fan wiki (episode and character pages); the TWoP recap confirms the pregnancy and miscarriage but not the kiss.",
+   "kids_together": "no",
+   "kids_together_note": "This pregnancy ends in miscarriage; the couple co-parents Callie's daughter Sofia.",
+   "kids_status": "yes",
+   "kids_note": "Co-parent of Sofia (Callie's daughter with Mark Sloan); not Arizona's biological child.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Miscarriage",
+   "married": "yes",
+   "married_note": "Callie and Arizona are married (separated during this episode).",
+   "sources": [
+    {
+     "label": "Grey's Anatomy Wiki — “Sorry Seems to Be the Hardest Word” (“kisses Arizona's belly three times”)",
+     "url": "https://greysanatomy.fandom.com/wiki/Sorry_Seems_to_Be_the_Hardest_Word"
+    },
+    {
+     "label": "Grey's Anatomy Wiki — Arizona Robbins",
+     "url": "https://greysanatomy.fandom.com/wiki/Arizona_Robbins"
+    },
+    {
+     "label": "TWoP Archive recap S10E9 (pregnancy and miscarriage)",
+     "url": "https://twoparchive.com/shows/greys-anatomy/s10e09-not-a-leg-to-stand-on.html"
+    }
+   ],
+   "evidence": "Belly kiss single-source (one fan wiki); pregnancy/miscarriage confirmed by TWoP. Loose fit.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "partner-belly-kiss",
+    "lesbian-couple-pregnancy"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "House of the Dragon",
+   "year": "2022",
+   "format": "tv",
+   "subtitle": "S1E6 “The Princess and the Queen” · Daemon and Laena",
+   "meta": "US · English · HBO series, S1E6 (aired 25 Sep 2022)",
+   "character": "Laena Velaryon (Nanna Blondell); husband Prince Daemon Targaryen (Matt Smith)",
+   "summary": "In Pentos, Laena is pregnant with her third child by Daemon; he kisses her pregnant belly at one point in the episode. Later her labour stalls, and rather than be cut open she has her dragon Vhagar burn her.",
+   "note": "Belly kiss: by her partner (husband Daemon). Loose fit: only Popsugar mentions the belly kiss; EW's recap and Wikipedia cover the pregnancy and death but not the kiss.",
+   "kids_together": "yes",
+   "kids_together_note": "Twin daughters Baela and Rhaena (born before this pregnancy); the third child is not born alive.",
+   "kids_status": "yes",
+   "kids_note": "Twin daughters Baela and Rhaena with Daemon.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Laena dies in obstructed labour; the baby is not delivered",
+   "married": "yes",
+   "married_note": "Daemon and Laena are married.",
+   "sources": [
+    {
+     "label": "Popsugar — Daemon's relationships (“He kisses her pregnant belly at one point in the episode”)",
+     "url": "https://www.popsugar.com/entertainment/daemon-targaryen-relationship-history-48944580"
+    },
+    {
+     "label": "EW recap S1E6",
+     "url": "https://ew.com/tv/recaps/house-of-the-dragon-season-1-episode-6/"
+    },
+    {
+     "label": "Wikipedia — House of the Dragon season 1",
+     "url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_1"
+    }
+   ],
+   "evidence": "Belly kiss single-source (Popsugar); pregnancy, daughters and death confirmed by EW and Wikipedia. Loose fit.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "Sons of Anarchy — “Orca Shrugged”",
+   "year": "2012",
+   "format": "tv",
+   "meta": "US · English · FX series, S5E5 (October 2012)",
+   "character": "Rita Roosevelt (Merle Dandridge); husband Sheriff Eli Roosevelt (Rockmond Dunbar)",
+   "summary": "Eli shares a moment with his pregnant wife Rita at his office and kisses her pregnant stomach. Later Rita is home alone when three men break in; she is shot in the struggle and dies of her injuries, and the unborn baby dies with her.",
+   "note": "Belly kiss: by her partner (husband Eli). Sources differ on timing: Cinemablend puts the break-in later in the same episode; the fan wiki dates her death to S5E6.",
+   "kids_together": "no",
+   "kids_together_note": "Rita and the unborn baby die.",
+   "kids_status": "no",
+   "kids_note": "No children are mentioned for Rita and Eli.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Rita is killed while pregnant; the baby dies",
+   "married": "yes",
+   "married_note": "Eli and Rita are married.",
+   "sources": [
+    {
+     "label": "Cinemablend — S5E5 “Orca Shrugged” (“taking the time to kiss her pregnant stomach”)",
+     "url": "https://www.cinemablend.com/television/Sons-Anarchy-Watch-Season-5-Episode-5-Orca-Shrugged-47958.html"
+    },
+    {
+     "label": "Sons of Anarchy Wiki — Rita Roosevelt (“her husband kissing her stomach”)",
+     "url": "https://sonsofanarchy.fandom.com/wiki/Rita_Roosevelt"
+    }
+   ],
+   "source_conflict": "Episode of Rita's death: Cinemablend describes the break-in in S5E5; the fan wiki lists her death in S5E6.",
+   "evidence": "2 independent sources (Cinemablend, fan wiki).",
+   "confidence_flag": "high",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "EastEnders — episode of 21 December 2015",
+   "year": "2015",
+   "format": "tv",
+   "meta": "UK · English · BBC One soap, episode 5193 (21 Dec 2015)",
+   "character": "Stacey Branning (Lacey Turner); boyfriend Martin Fowler (James Bye)",
+   "summary": "Martin fools around with his heavily pregnant girlfriend Stacey in the market by kissing her baby bump, as Shabnam and Kush walk past. Stacey gives birth to son Arthur on Christmas Day; it later emerges that Kush, not Martin, is Arthur's biological father.",
+   "note": "Belly kiss: by her partner (boyfriend Martin), who believes he is the father. Loose fit for the kiss itself: it appears only in the BBC's official synopsis (the fan wiki repeats the same text).",
+   "kids_together": "yes",
+   "kids_together_note": "Arthur (born Christmas 2015) is biologically Kush's but raised by Martin; Stacey and Martin later marry and have daughter Hope.",
+   "kids_status": "yes",
+   "kids_note": "Daughter Lily from a previous relationship.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Son Arthur born on Christmas Day 2015",
+   "married": "yes",
+   "married_note": "Stacey and Martin marry later (2016).",
+   "sources": [
+    {
+     "label": "BBC One — EastEnders, 21/12/2015 (official synopsis: “kissing her baby bump”)",
+     "url": "https://www.bbc.co.uk/programmes/b06tr69r"
+    },
+    {
+     "label": "EastEnders Wiki — Episode 5193 (21 December 2015)",
+     "url": "https://eastenders.fandom.com/wiki/Episode_5193_(21_December_2015)"
+    },
+    {
+     "label": "Daily Mail — Stacey gives birth with Martin (Christmas 2015)",
+     "url": "https://www.dailymail.co.uk/tvshowbiz/article-3357805/EastEnders-Stacey-Slater-breaks-tears-gives-birth-boyfriend-Martin-Fowler-emotional-Christmas-scenes.html"
+    },
+    {
+     "label": "Wikipedia — Stacey Slater (Arthur, marriage to Martin, daughter Hope)",
+     "url": "https://en.wikipedia.org/wiki/Stacey_Slater"
+    }
+   ],
+   "evidence": "Belly kiss: official BBC synopsis (fan wiki mirrors it). Birth and family outcome from Daily Mail and Wikipedia.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "partner-belly-kiss",
+    "mom-pregnancy"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "Império",
+   "year": "2014",
+   "format": "tv",
+   "subtitle": "Du and João Lucas — Christmas Eve wedding",
+   "meta": "Brazil · Portuguese · TV Globo telenovela (chapter aired 24 Dec 2014; rerun 2021)",
+   "character": "Du (Josie Pessoa); fiancé/husband João Lucas (Daniel Rocha)",
+   "summary": "At their improvised Christmas Eve wedding, João Lucas greets his pregnant bride Du with a kiss on the forehead and then on her belly; in the same chapter Du learns she is expecting twins. The twins are born two days later.",
+   "note": "Belly kiss: by her partner (João Lucas) during the wedding ceremony.",
+   "episodes": [
+    {
+     "episode": "Chapter of 24 Dec 2014 — wedding",
+     "air_date": "2014-12-24",
+     "gist": "João Lucas kisses Du's forehead and then her belly at the altar; Du learns she is carrying twins.",
+     "number_verified": false
+    },
+    {
+     "episode": "Chapter of 26 Dec 2014 — twins born",
+     "air_date": "2014-12-26",
+     "gist": "Du and João Lucas's twins are born and named José Alfredo and Marta.",
+     "number_verified": false
+    }
+   ],
+   "kids_together": "yes",
+   "kids_together_note": "Twins José Alfredo and Marta, born 26 Dec 2014 (Gshow).",
+   "kids_status": "no",
+   "kids_note": "No earlier children mentioned for Du.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Twins born",
+   "married": "yes",
+   "married_note": "They marry on Christmas Eve.",
+   "sources": [
+    {
+     "label": "Contigo! — wedding preview (“um beijo na testa dela, depois na barriga”)",
+     "url": "https://contigo.com.br/noticias/novelas/imperio-joao-lucas-passa-mal-ao-descobrir-que-du-esta-esperando-gemeos-quer-matar-o-papai.phtml"
+    },
+    {
+     "label": "Notícias da TV — wedding preview (“um beijo na testa dela, depois na barriga”)",
+     "url": "https://noticiasdatv.uol.com.br/noticia/novelas/em-imperio-joao-lucas-passa-mal-ao-saber-que-du-esta-gravida-gemeos-dois-63405"
+    },
+    {
+     "label": "Notícias da TV — Christmas Eve wedding chapter (2014)",
+     "url": "https://noticiasdatv.uol.com.br/noticia/novelas/imperio-gravida-de-gemeos-du-se-casa-com-lucas-na-noite-de-natal-5886"
+    },
+    {
+     "label": "Gshow — Nascem os gêmeos de Du e Lucas (26 Dec 2014)",
+     "url": "https://gshow.globo.com/novelas/imperio/vem-por-ai/noticia/2014/12/nascem-os-gemeos-de-du-e-lucas.html"
+    }
+   ],
+   "evidence": "2 independent outlets describe the belly kiss (Contigo, Notícias da TV; both pre-broadcast previews of the 2021 rerun); Gshow confirms the twins' birth.",
+   "confidence_flag": "high",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "Ikatan Cinta",
+   "year": "2020",
+   "format": "tv",
+   "subtitle": "Andin and Aldebaran — Lebaran special, episodes 271–272",
+   "meta": "Indonesia · Indonesian · RCTI sinetron (episodes 271–272 aired 13 May 2021)",
+   "character": "Andin (Amanda Manopo); husband Aldebaran (Arya Saloka)",
+   "summary": "Newly pregnant Andin runs after Aldebaran as he leaves for work and asks him to kiss the baby (“Cium dulu, anaknya pengen minta dicium”); he kisses her belly and tells the baby to look after its mother. Andin later gives birth to their son Askara.",
+   "note": "Belly kiss: by her partner (husband Aldebaran).",
+   "episodes": [
+    {
+     "episode": "Eps. 271–272 — Lebaran special (13 May 2021)",
+     "air_date": "2021-05-13",
+     "gist": "Andin asks Aldebaran to kiss her belly before work; he does.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep. 641 (Mar 2022) — birth",
+     "air_date": "",
+     "gist": "Andin gives birth to son Askara Putra Alfahri.",
+     "number_verified": false
+    }
+   ],
+   "kids_together": "yes",
+   "kids_together_note": "Son Askara Putra Alfahri (born in episode 641, Mar 2022).",
+   "kids_status": "yes",
+   "kids_note": "Daughter Reyna — Andin's biological daughter with Nino, adopted by Andin and Aldebaran.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Son Askara born",
+   "married": "yes",
+   "married_note": "Andin and Aldebaran are married.",
+   "sources": [
+    {
+     "label": "Pikiran Rakyat Cirebon — Andin asks Aldebaran to kiss the baby (eps. 271–272)",
+     "url": "https://cirebon.pikiran-rakyat.com/entertainment/pr-041911973/adegan-gemas-ikatan-cinta-andin-manja-minta-aldebaran-cium-calon-anaknya-sebelum-pergi-kerja"
+    },
+    {
+     "label": "Okezone — 5 tingkah manja Andin (“Usai mencium perut Andin…”)",
+     "url": "https://celebrity.okezone.com/read/2021/05/24/33/2414942/hamil-muda-ini-5-tingkah-super-manja-andin-kepada-aldebaran-di-ikatan-cinta?page=all"
+    },
+    {
+     "label": "Suara — Andin gives birth in Ikatan Cinta",
+     "url": "https://www.suara.com/entertainment/2022/03/07/094639/6-momen-amanda-manopo-melahirkan-di-ikatan-cinta-bak-kejadian-nyata"
+    },
+    {
+     "label": "Okezone — Reyna is Andin's biological daughter (29 Aug 2021 synopsis)",
+     "url": "https://celebrity.okezone.com/read/2021/08/30/598/2463052/sinopsis-ikatan-cinta-29-agustus-2021-terbongkar-identitas-reyna-anak-kandung-nino-andin-mas-al-legowo?page=all"
+    }
+   ],
+   "evidence": "2 independent sources for the belly kiss (Pikiran Rakyat, Okezone).",
+   "confidence_flag": "high",
+   "categories": [
+    "partner-belly-kiss",
+    "mom-pregnancy"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "Navy Seals vs. Zombies",
+   "year": "2015",
+   "format": "movie",
+   "meta": "US · English · action-horror film (Anchor Bay / Voltage)",
+   "character": "Emily, wife of SEAL AJ",
+   "summary": "After surviving a zombie outbreak in Baton Rouge (the SEALs turn out to be immune to the bite), AJ comes home and kisses his pregnant wife's belly as the credits roll.",
+   "note": "Belly kiss: by her partner (husband). Loose fit: only one review describes the ending belly kiss.",
+   "kids_together": "unknown",
+   "kids_together_note": "The film ends before the birth.",
+   "kids_status": "no",
+   "kids_note": "No earlier children mentioned.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "Still pregnant at the end",
+   "married": "yes",
+   "married_note": "Described as his wife.",
+   "sources": [
+    {
+     "label": "brucewebber.us review (“he ends up at home kissing his pregnant wife's belly”)",
+     "url": "https://brucewebber.us/article/navy-seals-vs-zombies"
+    }
+   ],
+   "evidence": "Single source. Loose fit.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "Vikings — “Resurrection”",
+   "year": "2020",
+   "format": "tv",
+   "meta": "Canada/Ireland · English · History series, S6E9 (aired 29 Jan 2020)",
+   "character": "Queen Gunnhild (Ragga Ragnars); husband King Bjorn Ironside (Alexander Ludwig)",
+   "summary": "On the night Bjorn takes Ingrid as his second wife, he kisses the pregnant Gunnhild's stomach before leaving her to consummate the new marriage; she insists he go, then weeps alone.",
+   "note": "Belly kiss: by her partner (husband Bjorn). Loose fit: the stomach kiss is described only on the Vikings fan wiki; Forbes' recap confirms the wedding-night scene but not the kiss.",
+   "kids_together": "no",
+   "kids_together_note": "The fan wiki lists a stillborn son of Bjorn and Gunnhild; the exact episode of the stillbirth was not verified.",
+   "kids_status": "no",
+   "kids_note": "No children of her own mentioned (Bjorn has children by other women).",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Stillborn son (per fan wiki)",
+   "married": "yes",
+   "married_note": "Gunnhild is Bjorn's wife.",
+   "sources": [
+    {
+     "label": "Vikings Wiki — Bjorn (“The way Bjorn kisses Gunnhild's stomach before leaving…”)",
+     "url": "https://vikings.fandom.com/wiki/Bjorn"
+    },
+    {
+     "label": "Forbes — S6E9 “Resurrection” recap",
+     "url": "https://www.forbes.com/sites/erikkain/2020/01/29/vikings-season-6-episode-9-recap-and-review-resurrection/"
+    }
+   ],
+   "evidence": "Belly kiss single-source (fan wiki). Loose fit.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "This Is Us — “A Long Road Home”",
+   "year": "2021",
+   "format": "tv",
+   "meta": "US · English · NBC drama, S5E5 (January 2021)",
+   "character": "Madison Simons (Caitlin Thompson); partner/fiancé Kevin Pearson (Justin Hartley)",
+   "summary": "Before leaving for a film shoot in Vancouver, Kevin says goodbye to Madison, who is pregnant with their twins and asks him to decide whether he is truly “all in”; he kisses her baby bump goodbye and leaves.",
+   "note": "Belly kiss: by her partner (Kevin, father of the twins). Loose fit: only Cheatsheet states the bump kiss; TV Fanatic's recap confirms he says goodbye to the babies but does not mention a kiss.",
+   "kids_together": "yes",
+   "kids_together_note": "Twins Franny and Nicky are born in S5E8 “In the Room”.",
+   "kids_status": "no",
+   "kids_note": "No earlier children.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Twins Franny and Nicky born (S5E8)",
+   "married": "no",
+   "married_note": "Madison calls off their wedding in the S5 finale “The Adirondacks”.",
+   "sources": [
+    {
+     "label": "Cheatsheet — Kevin and Madison's last interaction (“He kissed her baby bump goodbye”)",
+     "url": "https://www.cheatsheet.com/news/this-is-us-kevin-and-madisons-last-interaction-before-the-tragic-car-accident.html/"
+    },
+    {
+     "label": "TV Fanatic recap S5E5",
+     "url": "https://www.tvfanatic.com/this-is-us-season-5-episode-5-recap-a-long-road-home/"
+    },
+    {
+     "label": "TVLine recap S5E8 (twins born)",
+     "url": "https://www.tvline.com/recaps/this-is-us-recap-season-5-episode-8-madison-kevin-twins-born-1234640582/"
+    },
+    {
+     "label": "USA Today — S5 finale wedding twist",
+     "url": "https://www.usatoday.com/story/entertainment/tv/2021/05/25/this-us-season-5-finale-kevin-pearson-wedding-twist/7432521002/"
+    }
+   ],
+   "evidence": "Bump kiss single-source (Cheatsheet); scene context confirmed by TV Fanatic. Loose fit.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "The L Word",
+   "match_title": "The L Word",
+   "match_year": "2004–2005",
+   "year": "2005",
+   "format": "tv",
+   "subtitle": "S2E9 “Late, Later, Latent” · Tina's pregnancy",
+   "meta": "US · English · Showtime drama, S2E9 (aired 17 Apr 2005)",
+   "character": "Tina Kennard (Laurel Holloman); girlfriend Helena Peabody (Rachel Shelley); ex-partner and co-parent Bette Porter (Jennifer Beals)",
+   "summary": "Pregnant Tina is woken by her girlfriend Helena, who draws back the covers and kisses her belly before they talk about that afternoon's ultrasound. After the ultrasound, Bette, the baby's other mother, caresses and kisses Tina's belly at Tina's apartment and the two reunite in an intimate scene.",
+   "note": "Belly kisses: by her partner Helena, and by her ex-partner and co-parent Bette. Loose fit on independence: both the French episode synopsis and the English transcript are on the same fan site (Hypnoweb); Wikipedia confirms the episode but not the kisses.",
+   "episodes": [
+    {
+     "episode": "S2E9 “Late, Later, Latent” (17 Apr 2005)",
+     "air_date": "2005-04-17",
+     "gist": "Helena kisses pregnant Tina's belly in the morning; after the ultrasound Bette kisses Tina's belly and they reunite.",
+     "number_verified": true
+    }
+   ],
+   "sources": [
+    {
+     "label": "Hypnoweb — S02E09 synopsis and transcript (“She draws the covers back and kisses Tina's belly”; “Bette pulls the shirt up and caresses and kisses Tina's belly”)",
+     "url": "https://lword.hypnoweb.net/the-l-word/episode.51.2/S02E09-latitudes-19209.html"
+    },
+    {
+     "label": "Wikipedia — The L Word season 2 (episode 9, 17 Apr 2005)",
+     "url": "https://en.wikipedia.org/wiki/The_L_Word_(season_2)"
+    }
+   ],
+   "evidence": "Belly kisses documented on one fan site (synopsis + transcript); episode details from Wikipedia. Loose fit.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "partner-belly-kiss",
+    "lesbian-couple-pregnancy",
+    "pregnant-lesbian-intimate"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "Tom Clancy's Without Remorse",
+   "year": "2021",
+   "format": "movie",
+   "meta": "US · English · Amazon Prime Video action thriller (R)",
+   "character": "Pam Kelly (Lauren London); husband John Kelly (Michael B. Jordan)",
+   "summary": "Home from a mission in Syria, Navy SEAL John Kelly tells his heavily pregnant wife Pam he plans to leave the military, kisses her belly and talks to their unborn daughter. That night gunmen break into the house and kill Pam, setting off John's revenge.",
+   "note": "Belly kiss: by her partner (husband John).",
+   "kids_together": "no",
+   "kids_together_note": "Pam and the unborn baby are killed early in the film.",
+   "kids_status": "no",
+   "kids_note": "No earlier children.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Mother killed while pregnant",
+   "married": "yes",
+   "married_note": "John and Pam are married.",
+   "sources": [
+    {
+     "label": "Decider review (“kisses the belly wherein lies their unborn daughter”)",
+     "url": "https://decider.com/2021/04/30/without-remorse-amazon-prime-review/"
+    },
+    {
+     "label": "Kids-In-Mind parents' guide (“A husband kisses his pregnant wife's abdomen and talks to the fetus”)",
+     "url": "https://kids-in-mind.com/t/tom-clancys-without-remorse-parents-guide-movie-review-rating.htm"
+    },
+    {
+     "label": "Plugged In review (pregnant wife killed)",
+     "url": "https://www.pluggedin.com/movie-reviews/tom-clancys-without-remorse-2021/"
+    }
+   ],
+   "evidence": "2 independent sources for the belly kiss.",
+   "confidence_flag": "high",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "Those Who Wish Me Dead",
+   "year": "2021",
+   "format": "movie",
+   "meta": "US · English · Warner Bros. thriller directed by Taylor Sheridan (R)",
+   "character": "Allison Sawyer (Medina Senghore); husband Deputy Ethan Sawyer (Jon Bernthal)",
+   "summary": "Ethan comes home to his six-months-pregnant wife Allison, who runs a survival school; he talks to her belly and kisses it. When assassins hunting a boy come to their house, Allison fights them off and escapes, and the couple later shelter together from the wildfire.",
+   "note": "Belly kiss: by her partner (husband Ethan). Loose fit: only Kids-In-Mind states the belly kiss; IMDb's parents guide says he talks to her pregnant belly and they kiss.",
+   "kids_together": "unknown",
+   "kids_together_note": "The film ends before the birth (a girl is expected).",
+   "kids_status": "no",
+   "kids_note": "No earlier children mentioned.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "Still pregnant at the end",
+   "married": "yes",
+   "married_note": "Allison is Ethan's wife.",
+   "sources": [
+    {
+     "label": "Kids-In-Mind parents' guide (“he kisses her clothed, pregnant abdomen”)",
+     "url": "https://kids-in-mind.com/t/those-who-wish-me-dead-parents-guide-movie-review-rating.htm"
+    },
+    {
+     "label": "IMDb parents guide (“A man talks to his wife's pregnant belly”)",
+     "url": "https://www.imdb.com/title/tt3215824/parentalguide/"
+    },
+    {
+     "label": "The Hollywood Reporter review (heavily pregnant Allison)",
+     "url": "https://www.hollywoodreporter.com/movies/movie-reviews/those-who-wish-me-dead-1234950061/"
+    }
+   ],
+   "evidence": "Belly kiss explicit in one source; IMDb corroborates the belly scene. Loose fit.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "Hotel Mumbai",
+   "year": "2018",
+   "format": "movie",
+   "meta": "Australia/India/US · English, Hindi · drama about the 2008 Mumbai attacks (R)",
+   "character": "Arjun's heavily pregnant wife (Dimple in the screenplay); husband Arjun (Dev Patel)",
+   "summary": "Before leaving for his shift as a waiter at the Taj Mahal Palace hotel, Arjun kisses his heavily pregnant wife, including on her pregnant abdomen, and says goodbye to their young daughter. That night terrorists attack the hotel.",
+   "note": "Belly kiss: by her partner (husband Arjun). Loose fit: only Kids-In-Mind states the belly kiss; IMDb's synopsis and Metro Magazine confirm the goodbye kiss to his pregnant wife.",
+   "kids_together": "yes",
+   "kids_together_note": "They already have a young daughter (Seva); the new baby is not born on screen.",
+   "kids_status": "yes",
+   "kids_note": "Young daughter Seva.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "Not born on screen",
+   "married": "yes",
+   "married_note": "She is Arjun's wife.",
+   "sources": [
+    {
+     "label": "Kids-In-Mind parents' guide (“he kisses her clothed, pregnant abdomen”)",
+     "url": "https://kids-in-mind.com/h/hotel-mumbai-parents-guide-movie-review-rating.htm"
+    },
+    {
+     "label": "IMDb synopsis (“Arjun kisses his pregnant wife and small daughter goodbye”)",
+     "url": "https://www.imdb.com/title/tt5461944/plotsummary/"
+    },
+    {
+     "label": "Metro Magazine (“Arjun kissing his wife before leaving for work”)",
+     "url": "https://metromagazine.com.au/terror-tragedy-truth/"
+    }
+   ],
+   "evidence": "Belly kiss explicit in one source; goodbye kiss to pregnant wife confirmed by two more. Loose fit.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "The Raid: Redemption",
+   "year": "2011",
+   "format": "movie",
+   "meta": "Indonesia · Indonesian · action film directed by Gareth Evans (original title Serbuan Maut; R)",
+   "character": "Rama's pregnant wife (Ananda George); rookie cop Rama (Iko Uwais)",
+   "summary": "Before leaving for a special-forces raid on a gangster's tower block, rookie cop Rama says goodbye to his pregnant wife, kissing her clothed belly and then her forehead. He spends the film fighting to get home to her.",
+   "note": "Belly kiss: by her partner (Rama).",
+   "kids_together": "yes",
+   "kids_together_note": "In the sequel The Raid 2 (2014) Rama has a wife and baby son.",
+   "kids_status": "no",
+   "kids_note": "No earlier children mentioned.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "Born before the sequel",
+   "married": "yes",
+   "married_note": "Described as his wife (Common Sense Media says wife/girlfriend).",
+   "sources": [
+    {
+     "label": "Common Sense Media review (“He kisses her baby bump”)",
+     "url": "https://www.commonsensemedia.org/movie-reviews/the-raid-redemption"
+    },
+    {
+     "label": "Kids-In-Mind parents' guide (“A man kisses a pregnant woman's clothed stomach and then her forehead”)",
+     "url": "https://kids-in-mind.com/r/raidredemption.htm"
+    },
+    {
+     "label": "Kids-In-Mind — The Raid 2 (his wife and baby boy)",
+     "url": "https://kids-in-mind.com/r/raid2berandal.htm"
+    }
+   ],
+   "evidence": "2 independent sources for the belly kiss.",
+   "confidence_flag": "high",
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "Struck by Lightning",
+   "year": "2012",
+   "format": "movie",
+   "meta": "US · English · coming-of-age comedy-drama written by and starring Chris Colfer (PG-13)",
+   "character": "April Adams (Christina Hendricks), pharmacist; fiancé Neal Phillips (Dermot Mulroney)",
+   "summary": "Neal, the estranged father of teenage narrator Carson, has a pregnant fiancée, the town's new pharmacist April, who is about to become Carson's stepmother; Neal kisses April's pregnant stomach.",
+   "note": "Belly kiss: by her partner (fiancé Neal). Loose fit: only Kids-In-Mind states the belly kiss; Wikipedia confirms April is pregnant and engaged to Carson's father.",
+   "kids_together": "unknown",
+   "kids_together_note": "The birth is not covered in the sources checked.",
+   "kids_status": "no",
+   "kids_note": "No earlier children of her own mentioned (Neal has a son, Carson).",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "Not verified",
+   "married": "unknown",
+   "married_note": "Engaged (future stepmother of Carson).",
+   "sources": [
+    {
+     "label": "Kids-In-Mind parents' guide (“A man kisses his pregnant fiancée's stomach”)",
+     "url": "https://kids-in-mind.com/s/struckbylightning.htm"
+    },
+    {
+     "label": "Wikipedia — Struck by Lightning (2012 film)",
+     "url": "https://en.wikipedia.org/wiki/Struck_by_Lightning_(2012_film)"
+    }
+   ],
+   "evidence": "Belly kiss single-source. Loose fit.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "Beyond Silence",
+   "year": "1996",
+   "format": "movie",
+   "meta": "Germany · German, German Sign Language · drama directed by Caroline Link (original title Jenseits der Stille; Oscar-nominated)",
+   "character": "Kai (Emmanuelle Laborit), deaf mother; daughter Lara (Tatjana Trieb as a child)",
+   "summary": "Young Lara, the hearing daughter of deaf parents Martin and Kai, learns her mother is pregnant; she kisses her mother's stomach and promises the baby she will play it a song on her clarinet when it is born. Her sister Marie is later born.",
+   "note": "Belly kiss: by her child (daughter Lara). Loose fit: the kiss is described in one plot synopsis (IMDb; the CinemaIP page mirrors the same text); Wikipedia confirms the family and plot.",
+   "kids_together": "yes",
+   "kids_together_note": "Daughter Marie is born; Kai is later killed in a bicycle accident.",
+   "kids_status": "yes",
+   "kids_note": "Daughter Lara.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Daughter Marie born",
+   "married": "yes",
+   "married_note": "Martin and Kai are married.",
+   "sources": [
+    {
+     "label": "IMDb plot synopsis (“Lara kisses her mother's stomach”)",
+     "url": "https://www.imdb.com/title/tt0116692/plotsummary/"
+    },
+    {
+     "label": "CinemaIP synopsis (same text; new sister Marie)",
+     "url": "https://cinemaip.ai/movie/beyond-silence-403999"
+    },
+    {
+     "label": "Wikipedia — Beyond Silence (1996 film)",
+     "url": "https://en.wikipedia.org/wiki/Beyond_Silence_(1996_film)"
+    }
+   ],
+   "evidence": "Belly kiss single-source (one synopsis, mirrored). Loose fit.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "belly-kissed"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  },
+  {
+   "title": "The Secret Lives of Dentists",
+   "year": "2003",
+   "format": "movie",
+   "meta": "US · English · drama directed by Alan Rudolph, from Jane Smiley's novella The Age of Grief (R)",
+   "character": "Dr. Dana Hurst (Hope Davis); husband Dr. David Hurst (Campbell Scott)",
+   "summary": "Suspecting his wife Dana of an affair, dentist David remembers their life together in a flashback montage: their courtship at dental school, their marriage, their first home and her pregnancies. In one memory he kisses Dana's bare pregnant belly.",
+   "note": "Belly kiss: by her partner (husband David), in a flashback. Loose fit: only Kids-In-Mind states the belly kiss; Critics at Large confirms the flashback montage of her pregnancies.",
+   "kids_together": "yes",
+   "kids_together_note": "The couple has three daughters.",
+   "kids_status": "unknown",
+   "kids_note": "Which of her three pregnancies the flashback shows is not stated.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "Children born before the main story",
+   "married": "yes",
+   "married_note": "Dana and David are married.",
+   "sources": [
+    {
+     "label": "Kids-In-Mind parents' guide (“We see a woman's bare, pregnant abdomen and a man kisses it”)",
+     "url": "https://kids-in-mind.com/s/secretlivesofdentists.htm"
+    },
+    {
+     "label": "Critics at Large — “Time Waits for No One” (flashback of the pregnancies)",
+     "url": "https://www.criticsatlarge.ca/2017/06/time-waits-for-no-one.html"
+    }
+   ],
+   "evidence": "Belly kiss single-source; flashback montage confirmed by a second source. Loose fit.",
+   "confidence_flag": "loose fit",
+   "tags": [
+    "loose fit"
+   ],
+   "categories": [
+    "partner-belly-kiss"
+   ],
+   "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "The Fantastic Four: First Steps",
+   "year": "2025",
+   "reason": "Reed caresses Sue's pregnant abdomen; no belly kiss in any source found."
+  },
+  {
+   "title": "Fifty Shades Freed",
+   "year": "2018",
+   "reason": "The belly kiss is in the novel's epilogue only; the film omits it."
+  },
+  {
+   "title": "Nine Lives",
+   "year": "2005",
+   "reason": "The belly is kissed by her ex-lover, not her current partner."
+  },
+  {
+   "title": "The Diplomat — S3E8",
+   "year": "2025",
+   "reason": "Grace is not pregnant in the scene."
+  },
+  {
+   "title": "Lost — “The Economist”",
+   "year": "2008",
+   "reason": "Elsa is not pregnant."
+  },
+  {
+   "title": "Ghost Whisperer (season 4)",
+   "year": "",
+   "reason": "Belly kiss not confirmed by any source."
+  },
+  {
+   "title": "Virgin River — S4E1",
+   "year": "2022",
+   "reason": "Dream sequence; the belly kiss is not confirmed."
+  },
+  {
+   "title": "Heartland — S10E1",
+   "year": "2016",
+   "reason": "Belly kiss not verified."
+  },
+  {
+   "title": "Once Upon a Time",
+   "year": "",
+   "reason": "Pregnancy scenes found, but no belly kiss."
+  },
+  {
+   "title": "Charmed — “The Importance of Being Phoebe”",
+   "year": "",
+   "reason": "A sister, not her partner or child, kisses Piper's stomach."
+  },
+  {
+   "title": "Shameless (US) — Debbie Gallagher",
+   "year": "2016",
+   "reason": "Debbie is 15 (teen pregnancy); the kiss is by a stranger with a bump fetish. Already held on 19 Nov."
+  },
+  {
+   "title": "General Hospital — Dante and Lulu",
+   "year": "2012",
+   "reason": "Only forum posts mention a belly kiss."
+  },
+  {
+   "title": "Chocolate com Pimenta",
+   "year": "2003",
+   "reason": "Already in the catalog (19 Nov sweep)."
+  },
+  {
+   "title": "Venom vs. Carnage #1 (comic)",
+   "year": "2004",
+   "reason": "A comic book, not a screen title; single source."
+  },
+  {
+   "title": "NetShort microdramas (100% Cool 120% Sweet ep. 66; Winter Romance ep. 74)",
+   "year": "",
+   "reason": "Only a hand on the bump is described, no kiss."
+  },
+  {
+   "title": "We Are Starting Today (우리는 오늘부터) ep. 8; A Thousand Kisses (천 번의 입맞춤)",
+   "year": "",
+   "reason": "Korean press describes a lip kiss after the pregnancy news, not a belly kiss."
+  },
+  {
+   "title": "Real-life celebrity belly kisses (Rekha and Richa Chadha, Disha Parmar, Neha Dhupia, Kaley Cuoco, Serkan Keskin and Demet Evgar, influencer clips)",
+   "year": "",
+   "reason": "Real people, not fiction."
+  },
+  {
+   "title": "Siberia",
+   "year": "2019",
+   "reason": "Clint kisses the pregnant belly of a woman who comes into his bar, not his partner."
+  },
+  {
+   "title": "The Light Between Oceans",
+   "year": "2016",
+   "reason": "Tom kisses Isabel's abdomen before she tells him she is pregnant; not clear she is pregnant at the time."
+  },
+  {
+   "title": "Shut Up Little Man! An Audio Misadventure",
+   "year": "2011",
+   "reason": "Documentary about real people."
+  },
+  {
+   "title": "Life as We Know It",
+   "year": "2010",
+   "reason": "The husband caresses his wife's pregnant belly and kisses her, not her belly."
+  },
+  {
+   "title": "Jesus Henry Christ",
+   "year": "2012",
+   "reason": "A doctor touches a pregnant woman's belly and kisses her cheek, not her belly."
+  },
+  {
+   "title": "TikTok / Instagram fan edits and AI-generated clips",
+   "year": "",
+   "reason": "No fiction scene with an identifiable title, adult pregnant character and belly kiss could be verified from public pages."
+  }
+ ]
+}

@@ -3400,6 +3400,13 @@
      "subtitle": "",
      "year": "2016",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "belly-kiss-nov21:1",
+     "title": "Outlander",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19212,6 +19219,13 @@
      "subtitle": "",
      "year": "2022",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "belly-kiss-nov21:3",
+     "title": "House of the Dragon",
+     "subtitle": "S1E6 “The Princess and the Queen” · Daemon and Laena",
+     "year": "2022",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -31257,6 +31271,13 @@
      "subtitle": "Callie Torres and Arizona Robbins arc",
      "year": "2011–2014",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "belly-kiss-nov21:2",
+     "title": "Grey's Anatomy",
+     "subtitle": "S10E9 “Sorry Seems to Be the Hardest Word” · Callie and Arizona",
+     "year": "2013",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -34736,6 +34757,13 @@
      "subtitle": "Bette Porter and Tina Kennard baby arc",
      "year": "2004–2005",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "belly-kiss-nov21:11",
+     "title": "The L Word",
+     "subtitle": "S2E9 “Late, Later, Latent” · Tina's pregnancy",
+     "year": "2005",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -55070,11 +55098,12 @@
   "deep-refresh-nov19-pregnant-partner": 4,
   "widow-hypnotized-marriage-nov19": 1,
   "deep-refresh-nov19-c": 1,
-  "belly-kiss-nov19": 28
+  "belly-kiss-nov19": 28,
+  "belly-kiss-nov21": 18
  },
- "entry_count_after_dedupe": 3955,
+ "entry_count_after_dedupe": 3969,
  "within_source_groups": 6,
  "cross_source_groups": 2108,
  "index_only_records": 55,
- "local_only_records": 1683
+ "local_only_records": 1697
 }
