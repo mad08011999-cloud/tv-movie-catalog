@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build reads/data.json from reads/entries.json (hand-curated). Run: python3 reads/build.py"""
-import json,os,collections,datetime,sys
+import json,os,collections,datetime
 here=os.path.dirname(os.path.abspath(__file__))
 src=json.load(open(os.path.join(here,'entries.json'),encoding='utf-8'))
 E=src['entries']
@@ -41,8 +41,3 @@ C=dict(source=dict(kicker='READS: WRITTEN-FICTION STORY-PATTERN INDEX',
   entry_count=len(E),categories=[dict(c,legend_label=c['label']) for c in cats],
   formats=[dict(key=FMT_KEY(f),label=f'{f} ({n})') for f,n in sorted(fmt.items())],entries=CE,sections=secs,unplaced_entry_ids=[])
 open(os.path.join(here,'catalog.js'),'w',encoding='utf-8').write('window.CATALOG = '+json.dumps(C,ensure_ascii=False)+';\nwindow.CATALOG_UI = {episodes: "Chapters", married: "Wife", kids_status: "Kids before", summary: "Hypnosis summary"};\n')
-
-# Webpage removals (sources/removed.json): drop / restore before the generated files are used.
-sys.path.insert(0, os.path.join(os.path.dirname(here), 'scripts'))
-from apply_removed import apply_files
-apply_files(os.path.dirname(here), catalogs=('reads',))

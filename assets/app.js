@@ -63,14 +63,10 @@
     ` · ${D.entry_count} records after removing duplicates`;
 
   // search index
-  function indexEntry(e) {
+  D.entries.forEach(e => {
     e._hay = [e.title, e.subtitle, e.creator, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance, e.pregnancy_outcome, e.pregnancy_note, e.pregnant_has_children, e.kids_together, e.kids_together_note, e.married && 'marries her ' + e.married, e.married_note, e.already_married && 'already married when hypnotized ' + e.already_married, e.already_married_note, e.pregnant_end && 'pregnant by the end ' + e.pregnant_end, e.pregnant_end_note, e.evidence, e.source_conflict, e.fit_note, e.child_witness, e.rating && 'rating ' + e.rating, e.adult && 'adult title ' + e.adult, e.existing_kids && 'children before ' + e.existing_kids, e.pregnancy_again && 'pregnant again ' + e.pregnancy_again, e.pregnancy_again_note, ...(e.watch_links || []).map(l => [l.service, l.channel].join(' ')), ...(e.tags || []).map(t => 'tag:' + t + ' ' + t), ...(e.episodes || []).map(x => [x.episode, x.air_date, x.gist].join(' ')),
       ...e.categories.map(c => catLabel[c] || c), ...(e.merged_from || []).map(m => [m.label, m.summary, m.character, m.note].join(' '))].join(' \u0001 ').toLowerCase();
-    let txt = e._hay; e.categories.forEach(c => { const l = (catLabel[c] || '').toLowerCase(); if (l) txt = txt.split(l).join(' '); }); e._txt = txt;
-    e._year = yearOf(e);
-    e._sort = sortName(e.title);
-  }
-  D.entries.forEach(indexEntry);
+  });
   // ---------- smart context search (client-side; no external services) ----------
   // Any recognised concept term (even one word) switches the search box into context mode:
   //  * hard filters: years/decades, format, country/language, free link, pregnancy status, exclusions;
@@ -370,9 +366,8 @@
     const idxNote = e.index_only ? `<p class="entry-note"><strong>Title index only:</strong> listed by ${esc(srcLabel[e.from_sources[0]] || 'the title index')} without plot details.</p>` : '';
     const badges = `<span class="srcbadges">${e.from_sources.map(s => `<span title="${esc(srcLabel[s])}">${esc(srcShort[s])}</span>`).join('')}</span>`;
     const lab = (s) => s.replace(/^(Character:|Note:|Source basis:|Author \/ artist:|Adult basis:)/, '<strong>$1</strong>');
-    const removeBtn = `<button type="button" class="remove-entry" data-id="${e.id}" data-title="${esc(e.title)}" data-year="${esc(e.year || '')}" title="Remove this entry" aria-label="Remove ${esc(e.title)} from the catalog"><svg aria-hidden="true" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M4 7h16M10 11v6M14 11v6M6 7l1 14h10l1-14M9 7V4h6v3"/></svg></button>`;
     return `<article class="card" id="r${e.id}">${thumb}
-      <div class="card-top"><span>${esc(e.meta)}</span><span class="year">${badges}${esc(app.year_display || e.year || 'Year unresolved')}</span>${removeBtn}</div>
+      <div class="card-top"><span>${esc(e.meta)}</span><span class="year">${badges}${esc(app.year_display || e.year || 'Year unresolved')}</span></div>
       ${e.content_label ? `<p class="content-label" role="note"><strong>${esc(e.content_label)}</strong></p>` : ''}
       <h3>${esc(e.title)}${e.subtitle ? `<small>${esc(e.subtitle)}</small>` : ''}</h3>${subgroup}
       ${ch ? `<p class="character">${lab(esc(ch))}</p>` : ''}
@@ -540,52 +535,4 @@
   $('#search').value = state.q;
   sync(false);
   document.querySelectorAll('details[open]').forEach(d => { d.open = false; });   // safety net: nothing expanded on load
-
-  const catalogKind = /\/reads(\/|$)/.test(location.pathname) ? 'reads'
-    : /\/adult(\/|$)/.test(location.pathname) ? 'adult' : 'main';
-  function updateHeaderCounts(){
-    if ($('#total')) $('#total').textContent = D.entries.length;
-    if ($('#total2')) $('#total2').textContent = D.entries.length;
-    D.entry_count = D.entries.length;
-  }
-  function dropMatching(items){
-    if (!items || !items.length) return [];
-    const gone = [];
-    const keep = [];
-    const match = (e, it) => {
-      if (it.id != null && Number(it.id) === Number(e.id)) return true;
-      if (it.title && String(it.title) === String(e.title)
-          && String(it.year || '') === String(e.year || '')) return true;
-      return false;
-    };
-    D.entries.forEach(e => {
-      if (items.some(it => match(e, it))) { gone.push(e); byId.delete(e.id); }
-      else keep.push(e);
-    });
-    if (!gone.length) return [];
-    D.entries = keep;
-    updateHeaderCounts();
-    sync(false);
-    return gone;
-  }
-  window.__catalogUI = {
-    kind: catalogKind,
-    get: id => byId.get(id),
-    dropIds(ids){
-      const set = new Set(ids.map(Number));
-      return dropMatching(D.entries.filter(e => set.has(Number(e.id))).map(e => ({id: e.id})));
-    },
-    dropMatching,
-    restore(records){
-      (records || []).forEach(e => {
-        if (!e || byId.has(e.id)) return;
-        indexEntry(e);
-        D.entries.push(e);
-        byId.set(e.id, e);
-      });
-      updateHeaderCounts();
-      sync(false);
-    },
-    resync(){ sync(false); }
-  };
 })();
