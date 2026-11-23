@@ -258,6 +258,7 @@ SOURCES = [
      "local": "sources/deep-refresh-nov19-c.json", "required": False},
     {"id": "belly-kiss-nov19", "label": "Pregnant belly kissed by partner or kids — worldwide sweep (19 Nov 2026)", "local": "sources/belly-kiss-nov19.json", "required": False},
     {"id": "belly-kiss-nov21", "label": "Pregnant belly kissed by partner or kids — worldwide sweep part 2 (21 Nov 2026)", "local": "sources/belly-kiss-nov21.json", "required": False},
+    {"id": "weekly-nov23", "label": "Weekly sweep (23 Nov 2026)", "local": "sources/weekly-nov23.json", "required": True},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

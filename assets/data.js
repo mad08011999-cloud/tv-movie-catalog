@@ -14171,6 +14171,80 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "weekly-nov23",
+   "label": "Weekly sweep (23 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/weekly-nov23.json",
+   "description": "Weekly routine sweep, 23 Nov 2026 PT. Adult women hypnotised, under vashikaran or mind-controlled in titles newly aired or newly listed between about 16 and 23 Nov 2026. Adults only; notes are non-explicit. Each record cites the channel or platform with a direct link.",
+   "dropped": [
+    {
+     "title": "Pieces of Guilt (罪恶拼图, iQIYI) ep 18 'Chen Ying is Hypnotized' (aired 21 Nov 2026)",
+     "reason": "Psychologist Wang Mengxue hypnotises Chen Ying so she can recall a crime she witnessed. Sources only call her 'the girl' rescued four years ago, so her adulthood is not established; held back as a possible minor"
+    },
+    {
+     "title": "Kyunki Papa Kehte Hain (20 Nov 2026)",
+     "reason": "Vipudi hypnotises Pawan, a man; no woman is controlled"
+    },
+    {
+     "title": "Lo Chudail Chali Sasural (JioHotstar, promo 23 Nov 2026)",
+     "reason": "Urvashi casts a love spell on Aarav, a man"
+    },
+    {
+     "title": "DM ka vashikaran ep 4–7 (X/YouTube shorts, 17–21 Nov 2026)",
+     "reason": "Previously rejected; still only titles and hashtags, with no source saying a woman is put under vashikaran"
+    },
+    {
+     "title": "Darr Sabko Lagta Hai — Resha Konkar episode (&TV)",
+     "reason": "Ghost/spirit possession (excluded)"
+    },
+    {
+     "title": "Magic Knight Rayearth (2026) ep 7",
+     "reason": "Hikaru, Umi and Fuu are middle-school girls (minors)"
+    },
+    {
+     "title": "The Body (Netflix, Nov 2026)",
+     "reason": "Lisbeth manipulates the girls; this is social manipulation of school-age girls, not hypnosis of adult women"
+    },
+    {
+     "title": "A Friend of the Family (Channel 4, 21 Nov 2026)",
+     "reason": "The brainwashing victim, Jan Broberg, is a child (minor)"
+    },
+    {
+     "title": "Komisař Rex III (7) 'Vražda v hypnóze' (TV Prima rerun, 18 Nov 2026)",
+     "reason": "A 1996 rerun, not newly listed, and the victim is not confirmed female"
+    },
+    {
+     "title": "Company Employee (NHK, ep 4)",
+     "reason": "The suspected brainwashing is of Terada, a man; aired 3 Nov, outside the window"
+    },
+    {
+     "title": "Apsara (21 Nov 2026)",
+     "reason": "Previously rejected; this week has magic tricks and a kidnap plot but no hypnosis/control of a woman"
+    },
+    {
+     "title": "Brahmamudi (Star Maa, 16–23 Nov 2026)",
+     "reason": "Aishwarya is 'a pawn' in a business deal; no hypnosis or vashikaran"
+    },
+    {
+     "title": "Dr. Obsessive: Fall for Him or Lose Your Mind (Kuku TV)",
+     "reason": "Already tracked in gap-check-vertical-oct15"
+    },
+    {
+     "title": "Vashikaranam – Kis Par Rakhe Vishwas (Sony LIV)",
+     "reason": "Already in the catalog"
+    },
+    {
+     "title": "Hello, I Am a Witch... ep 7",
+     "reason": "The show is already in the catalog (ep 6, weekly-nov16); there is no new control of a woman"
+    }
+   ],
+   "check": {
+    "raw_count": 1,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -14289,10 +14363,11 @@ window.CATALOG = {
   "widow-hypnotized-marriage-nov19": 1,
   "deep-refresh-nov19-c": 1,
   "belly-kiss-nov19": 28,
-  "belly-kiss-nov21": 18
+  "belly-kiss-nov21": 18,
+  "weekly-nov23": 1
  },
- "raw_total": 7798,
- "entry_count": 3969,
+ "raw_total": 7799,
+ "entry_count": 3970,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -14430,7 +14505,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 167
+   "entry_count": 168
   },
   {
    "key": "index-54",
@@ -14550,7 +14625,7 @@ window.CATALOG = {
    "key": "partner-commissioned",
    "label": "Partner hires a third party to control wife / girlfriend",
    "legend_label": "Partner hires a third-party controller",
-   "entry_count": 18
+   "entry_count": 19
   },
   {
    "key": "index-48",
@@ -611709,6 +611784,120 @@ window.CATALOG = {
      "provenance": "Belly-kiss sweep part 2, 21 Nov 2026 PT (adult pregnant women whose belly is kissed by their partner or their children; non-explicit notes; fandom-wiki API sweep, Kids-In-Mind full-site sweep, regional web search)"
     }
    }
+  },
+  {
+   "id": 4165,
+   "title": "The Perfect AI Wife",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Vertical short drama · English · NetShort · 33 episodes · listed 19 Nov 2026",
+   "mechanism": "Brainwashing academy (personality erasure) commissioned by her husband",
+   "confidence_flag": "Medium · platform synopses (no episodes watched)",
+   "summary": "Noah cheats on his wife Evelyn with an AI robot companion, Stella, and sends Evelyn to a brainwashing academy. She returns three years later stripped of her personality, empty and obedient, 'a mindless machine'. Stella frames Evelyn, Noah believes the lie, and his cruelty drives her to near death. When the truth comes out Noah is consumed by regret, but by then Evelyn has reclaimed her mind and walks away from him.",
+   "character": "Evelyn, Noah's wife",
+   "provenance": "Weekly sweep, 23 Nov 2026 PT (adults only; non-explicit notes; no videos watched)",
+   "note": "NetShort has no public web page for the title, so the cards link to listing sites that name NetShort as the official source. Evelyn is a married adult.",
+   "pregnancy_note": "Not stated in sources.",
+   "tags": [
+    "vertical short",
+    "brainwashing",
+    "weekly-nov23"
+   ],
+   "hypnotist": "Her husband Noah, who commits her to a brainwashing academy/facility",
+   "gain_motive": [
+    "husband discards wife for an AI lover"
+   ],
+   "method": "Brainwashing at a facility that erases her mind",
+   "kids_status": "not stated",
+   "kids_note": "Sources mention no children for Evelyn, either before or with Noah. At the end she leaves him.",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Every synopsis says Noah sends his wife Evelyn to a brainwashing academy and she returns 'a mindless machine' / 'empty and obedient', then later 'reclaims her mind'.",
+   "adult": "no",
+   "already_married": "yes",
+   "format": "vertical short drama",
+   "categories": [
+    "wife",
+    "partner-commissioned"
+   ],
+   "sources": [
+    {
+     "label": "NetShort (official platform) — via DramaFinds listing 'The Perfect AI Wife' (33 episodes; official source: NetShort)",
+     "url": "https://dramafinds.com/detail/465117/the-perfect-ai-wife"
+    },
+    {
+     "label": "WatchDramaReels — The Perfect AI Wife (NetShort, 33 episodes)",
+     "url": "https://watchdramareels.com/series/the-perfect-ai-wife"
+    },
+    {
+     "label": "ShortDramaCentral — The Perfect AI Wife (online since 2026-11-19)",
+     "url": "https://shortdramacentral.com/drama/lkuy3fs1b/the-perfect-ai-wife"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "weekly-nov23"
+   ],
+   "source_records": [
+    "weekly-nov23:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "weekly-nov23:1": {
+     "title": "The Perfect AI Wife",
+     "year": "2026",
+     "format": "vertical short drama",
+     "meta": "Vertical short drama · English · NetShort · 33 episodes · listed 19 Nov 2026",
+     "character": "Evelyn, Noah's wife",
+     "summary": "Noah cheats on his wife Evelyn with an AI robot companion, Stella, and sends Evelyn to a brainwashing academy. She returns three years later stripped of her personality, empty and obedient, 'a mindless machine'. Stella frames Evelyn, Noah believes the lie, and his cruelty drives her to near death. When the truth comes out Noah is consumed by regret, but by then Evelyn has reclaimed her mind and walks away from him.",
+     "hypnotist": "Her husband Noah, who commits her to a brainwashing academy/facility",
+     "method": "Brainwashing at a facility that erases her mind",
+     "mechanism": "Brainwashing academy (personality erasure) commissioned by her husband",
+     "gain_motive": [
+      "husband discards wife for an AI lover"
+     ],
+     "categories": [
+      "wife",
+      "partner-commissioned"
+     ],
+     "fit": "core",
+     "tags": [
+      "vertical short",
+      "brainwashing",
+      "weekly-nov23"
+     ],
+     "episodes": [],
+     "already_married": "yes",
+     "pregnant_end": "not stated",
+     "pregnancy_note": "Not stated in sources.",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "kids_note": "Sources mention no children for Evelyn, either before or with Noah. At the end she leaves him.",
+     "sources": [
+      {
+       "label": "NetShort (official platform) — via DramaFinds listing 'The Perfect AI Wife' (33 episodes; official source: NetShort)",
+       "url": "https://dramafinds.com/detail/465117/the-perfect-ai-wife"
+      },
+      {
+       "label": "WatchDramaReels — The Perfect AI Wife (NetShort, 33 episodes)",
+       "url": "https://watchdramareels.com/series/the-perfect-ai-wife"
+      },
+      {
+       "label": "ShortDramaCentral — The Perfect AI Wife (online since 2026-11-19)",
+       "url": "https://shortdramacentral.com/drama/lkuy3fs1b/the-perfect-ai-wife"
+      }
+     ],
+     "evidence": "Every synopsis says Noah sends his wife Evelyn to a brainwashing academy and she returns 'a mindless machine' / 'empty and obedient', then later 'reclaims her mind'.",
+     "confidence_flag": "Medium · platform synopses (no episodes watched)",
+     "provenance": "Weekly sweep, 23 Nov 2026 PT (adults only; non-explicit notes; no videos watched)",
+     "adult": "no",
+     "note": "NetShort has no public web page for the title, so the cards link to listing sites that name NetShort as the official source. Evelyn is a married adult."
+    }
+   }
   }
  ],
  "sections": [
@@ -632995,7 +633184,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r2",
     "partner-hypnosis-nov11",
     "therapist-hypnosis-nov12",
-    "deep-refresh-nov19-pregnant-partner"
+    "deep-refresh-nov19-pregnant-partner",
+    "weekly-nov23"
    ],
    "groups": [
     {
@@ -633291,6 +633481,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov19-pregnant-partner"
+    },
+    {
+     "title": "Weekly sweep — 23 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4165,
+       "from_source": "weekly-nov23"
+      }
+     ],
+     "from_source": "weekly-nov23"
     }
    ],
    "declared_count_by_source": {
@@ -633302,7 +633503,8 @@ window.CATALOG = {
     "vertical-hypnosis-nov6-r2": null,
     "partner-hypnosis-nov11": null,
     "therapist-hypnosis-nov12": null,
-    "deep-refresh-nov19-pregnant-partner": null
+    "deep-refresh-nov19-pregnant-partner": null,
+    "weekly-nov23": null
    }
   },
   {
@@ -633348,7 +633550,8 @@ window.CATALOG = {
     "deep-refresh-nov19-b",
     "partner-hypnosis-nov19c",
     "deep-refresh-nov19-pregnant-partner",
-    "deep-refresh-nov19-c"
+    "deep-refresh-nov19-c",
+    "weekly-nov23"
    ],
    "groups": [
     {
@@ -634994,6 +635197,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov19-pregnant-partner"
+    },
+    {
+     "title": "Weekly sweep — 23 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4165,
+       "from_source": "weekly-nov23"
+      }
+     ],
+     "from_source": "weekly-nov23"
     }
    ],
    "declared_count_by_source": {
@@ -635033,7 +635247,8 @@ window.CATALOG = {
     "deep-refresh-nov19-b": null,
     "partner-hypnosis-nov19c": null,
     "deep-refresh-nov19-pregnant-partner": null,
-    "deep-refresh-nov19-c": null
+    "deep-refresh-nov19-c": null,
+    "weekly-nov23": null
    }
   },
   {
