@@ -263,6 +263,7 @@ SOURCES = [
      "local": "sources/deep-refresh-nov25.json", "required": False},
     {"id": "female-hypnosis-nov25", "label": "Female hypnosis focused sweep (25 Nov 2026), all media including AI-generated works",
      "local": "sources/female-hypnosis-nov25.json", "required": False},
+    {"id": "hypnotic-healing-similar-nov25", "label": "Erotic adult hypnosis similar to Hypnotic Healing (25 Nov 2026)", "local": "sources/hypnotic-healing-similar-nov25.json", "required": True},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

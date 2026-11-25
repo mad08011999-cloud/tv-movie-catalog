@@ -55108,5 +55108,18 @@
  "within_source_groups": 6,
  "cross_source_groups": 2108,
  "index_only_records": 55,
- "local_only_records": 1711
+ "local_only_records": 1711,
+ "offline_hypnotic_healing_similar_nov25": {
+  "new_ids": [
+   4179,
+   4180,
+   4181,
+   4182,
+   4183
+  ],
+  "enriched_ids": [],
+  "source": "hypnotic-healing-similar-nov25",
+  "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
+  "browser_or_network_calls": 0
+ }
 }
