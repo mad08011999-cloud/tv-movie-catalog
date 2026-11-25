@@ -14315,6 +14315,19 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "female-hypnosis-nov25",
+   "label": "Female hypnosis focused sweep (25 Nov 2026), all media including AI-generated works",
+   "kind": "local",
+   "share_url": "sources/female-hypnosis-nov25.json",
+   "description": "Focused deep search for works in which an adult female character is hypnotized (by a man, woman, device, app, stage hypnotist, villain, or other agent), across films, TV episodes, anime/OVA, web series, vertical microdramas, YouTube/shorts, games/VNs, manga/comics/webtoons, novels, and AI-generated works. 25 Nov 2026 PT. Adults only; non-explicit notes; every entry sourced with a confidence label. AI-generated works are marked in format/meta and tagged AI-generated. This file was created at the start of the run and appended at the true end of SOURCES so existing IDs do not shift.",
+   "dropped": [],
+   "check": {
+    "raw_count": 0,
+    "ok": false
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -14435,7 +14448,8 @@
   "belly-kiss-nov19": 28,
   "belly-kiss-nov21": 18,
   "weekly-nov23": 1,
-  "deep-refresh-nov25": 9
+  "deep-refresh-nov25": 9,
+  "female-hypnosis-nov25": 0
  },
  "raw_total": 7808,
  "entry_count": 3979,
