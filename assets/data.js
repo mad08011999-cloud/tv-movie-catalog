@@ -14252,10 +14252,35 @@ window.CATALOG = {
    "kind": "local",
    "share_url": "sources/deep-refresh-nov25.json",
    "description": "Multi-language sweep across every catalog topic, 25 Nov 2026, plus a dedicated search for AI-generated films, shorts, vertical/micro dramas, YouTube/TikTok/Bilibili/Douyin series, AI anime, and AI comics/webtoons. Focus on titles new since the 17 Nov 2026 deep refresh, plus deeper and older titles not yet found, vertical dramas, and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. AI-generated works are marked in format/meta and tagged AI-generated. This file was created at the start of the run and appended at the true end of SOURCES so existing IDs do not shift.",
-   "dropped": [],
+   "dropped": [
+    {
+     "title": "Teen Tigada",
+     "reason": "Held: title and coverage present the leads as a coming-of-age / young-romance couple around an unexpected pregnancy; adulthood of the pregnant character is not clearly established on an official page. Not added."
+    },
+    {
+     "title": "Disney's Hexed (2026)",
+     "reason": "Held: official Disney animated feature aimed at a general/family audience, with a mother-daughter adventure; not added as a kids' title."
+    },
+    {
+     "title": "Molly Moon and the Incredible Book of Hypnotism",
+     "reason": "Held: children's/family film about a young hypnotist; not an adults-only catalog fit."
+    },
+    {
+     "title": "OVA催眠性指導",
+     "reason": "Held: official Lune title and episode names are school-coded student guidance; not added."
+    },
+    {
+     "title": "巨乳人妻催眠通学",
+     "reason": "Already dropped for a school setting; rerelease/listing not re-added."
+    },
+    {
+     "title": "OVA巨乳プリンセス催眠 １＆２パック",
+     "reason": "Official Lune listing is a 25 Dec 2026 rerelease pack of an existing work, not a new title. Not given a new ID."
+    }
+   ],
    "check": {
-    "raw_count": 0,
-    "ok": false
+    "raw_count": 7,
+    "ok": true
    },
    "status": "local"
   }
@@ -14378,10 +14403,10 @@ window.CATALOG = {
   "belly-kiss-nov19": 28,
   "belly-kiss-nov21": 18,
   "weekly-nov23": 1,
-  "deep-refresh-nov25": 0
+  "deep-refresh-nov25": 7
  },
- "raw_total": 7799,
- "entry_count": 3970,
+ "raw_total": 7806,
+ "entry_count": 3977,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -14579,7 +14604,7 @@ window.CATALOG = {
    "key": "lesbian-couple-pregnancy",
    "label": "Lesbian couple pregnancy (female same-sex couple)",
    "legend_label": "Lesbian couple pregnancy",
-   "entry_count": 62
+   "entry_count": 65
   },
   {
    "key": "erotic-mainstream",
@@ -14891,7 +14916,7 @@ window.CATALOG = {
    "key": "surrogacy-ivf-adopt",
    "label": "surrogacy-ivf-adopt",
    "legend_label": "surrogacy-ivf-adopt",
-   "entry_count": 1
+   "entry_count": 7
   },
   {
    "key": "index-55",
@@ -611912,6 +611937,512 @@ window.CATALOG = {
      "note": "NetShort has no public web page for the title, so the cards link to listing sites that name NetShort as the official source. Evelyn is a married adult."
     }
    }
+  },
+  {
+   "id": 4166,
+   "title": "Lesbian Couple Pregnancy, A Love Story / Deux femmes et un couffin",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "RTS Mise au Point reportage · Switzerland · French · 17 min · first broadcast 1 Sept 2024",
+   "mechanism": "",
+   "confidence_flag": "High · 3+ sources",
+   "summary": "Official RTS pages follow Sophie and Nathalie, among the first couples of women to marry after Swiss marriage-for-all became law, through fertility treatment at CHUV—including IVF after unsuccessful insemination—to the birth of their son Mika.",
+   "character": "Sophie and Nathalie Barby",
+   "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "pregnant_end": "yes",
+   "evidence": "The official English RTSpro page (year 2024, production RTS, collection Mise au Point) states Sophie and Nathalie were among the first couple of women to marry after marriage became legal for all, and tells the story of their family project from the ups and downs of in vitro fertilization to the birth of their son. The official French RTSpro page gives the same plot under the title Deux femmes et un couffin. The official RTS news page dated 3 Sept 2024 identifies the same 17-minute Mise au Point reportage (first broadcast 1 Sept 2024), names Sophie and Nathalie Barby, states Sophie carried the child after IVF at CHUV, and names their son Mika.",
+   "adult": "no",
+   "format": "documentary",
+   "categories": [
+    "lesbian-couple-pregnancy",
+    "surrogacy-ivf-adopt"
+   ],
+   "sources": [
+    {
+     "label": "RTS official English listing",
+     "url": "https://rtspro.ch/en/title/lesbian-couple-pregnancy-a-love-story"
+    },
+    {
+     "label": "RTS official French listing",
+     "url": "https://rtspro.ch/fr/title/deux-femmes-et-un-couffin"
+    },
+    {
+     "label": "RTS news report",
+     "url": "https://www.rts.ch/info/societe/2024/article/apres-un-long-parcours-la-poussette-est-une-grande-victoire-temoigne-un-couple-de-mamans-lesbiennes-28617183.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov25"
+   ],
+   "source_records": [
+    "deep-refresh-nov25:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov25:1": {
+     "pregnant_end": "yes",
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "no",
+     "title": "Lesbian Couple Pregnancy, A Love Story / Deux femmes et un couffin",
+     "year": "2024",
+     "format": "documentary",
+     "meta": "RTS Mise au Point reportage · Switzerland · French · 17 min · first broadcast 1 Sept 2024",
+     "character": "Sophie and Nathalie Barby",
+     "summary": "Official RTS pages follow Sophie and Nathalie, among the first couples of women to marry after Swiss marriage-for-all became law, through fertility treatment at CHUV—including IVF after unsuccessful insemination—to the birth of their son Mika.",
+     "categories": [
+      "lesbian-couple-pregnancy",
+      "surrogacy-ivf-adopt"
+     ],
+     "sources": [
+      {
+       "label": "RTS official English listing",
+       "url": "https://rtspro.ch/en/title/lesbian-couple-pregnancy-a-love-story"
+      },
+      {
+       "label": "RTS official French listing",
+       "url": "https://rtspro.ch/fr/title/deux-femmes-et-un-couffin"
+      },
+      {
+       "label": "RTS news report",
+       "url": "https://www.rts.ch/info/societe/2024/article/apres-un-long-parcours-la-poussette-est-une-grande-victoire-temoigne-un-couple-de-mamans-lesbiennes-28617183.html"
+      }
+     ],
+     "evidence": "The official English RTSpro page (year 2024, production RTS, collection Mise au Point) states Sophie and Nathalie were among the first couple of women to marry after marriage became legal for all, and tells the story of their family project from the ups and downs of in vitro fertilization to the birth of their son. The official French RTSpro page gives the same plot under the title Deux femmes et un couffin. The official RTS news page dated 3 Sept 2024 identifies the same 17-minute Mise au Point reportage (first broadcast 1 Sept 2024), names Sophie and Nathalie Barby, states Sophie carried the child after IVF at CHUV, and names their son Mika.",
+     "confidence_flag": "High · 3+ sources"
+    }
+   }
+  },
+  {
+   "id": 4167,
+   "title": "Future Baby",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "Austrian documentary · 91 min · directed by Maria Arlamovsky · languages include English, Spanish, Hebrew and German · premiered 2016 Toronto Hot Docs",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Official Austrian Films and the film’s official site describe a documentary that follows patients, researchers, egg donors and surrogate mothers through clinics and laboratories, and asks how far assisted reproduction may go.",
+   "character": "",
+   "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "The official Austrian Films catalogue lists Future Baby (2016, 91 min, director/writer Maria Arlamovsky, premiere 2016 Toronto Hot Docs) and describes a film about changing human reproduction and assisted reproductive technology. The official film site states the director travels to patients and researchers, egg donors and surrogate mothers, laboratories and clinics, and that the hopes of future parents mesh with research on upgrading human embryos.",
+   "adult": "no",
+   "format": "documentary",
+   "categories": [
+    "surrogacy-ivf-adopt"
+   ],
+   "sources": [
+    {
+     "label": "Austrian Films official catalogue",
+     "url": "https://www.austrianfilms.com/film/future_baby"
+    },
+    {
+     "label": "Official film site",
+     "url": "https://www.futurebaby.at/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov25"
+   ],
+   "source_records": [
+    "deep-refresh-nov25:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov25:2": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "no",
+     "title": "Future Baby",
+     "year": "2016",
+     "format": "documentary",
+     "meta": "Austrian documentary · 91 min · directed by Maria Arlamovsky · languages include English, Spanish, Hebrew and German · premiered 2016 Toronto Hot Docs",
+     "character": "",
+     "summary": "Official Austrian Films and the film’s official site describe a documentary that follows patients, researchers, egg donors and surrogate mothers through clinics and laboratories, and asks how far assisted reproduction may go.",
+     "categories": [
+      "surrogacy-ivf-adopt"
+     ],
+     "sources": [
+      {
+       "label": "Austrian Films official catalogue",
+       "url": "https://www.austrianfilms.com/film/future_baby"
+      },
+      {
+       "label": "Official film site",
+       "url": "https://www.futurebaby.at/"
+      }
+     ],
+     "evidence": "The official Austrian Films catalogue lists Future Baby (2016, 91 min, director/writer Maria Arlamovsky, premiere 2016 Toronto Hot Docs) and describes a film about changing human reproduction and assisted reproductive technology. The official film site states the director travels to patients and researchers, egg donors and surrogate mothers, laboratories and clinics, and that the hopes of future parents mesh with research on upgrading human embryos.",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 4168,
+   "title": "Ma Na Sapna – A Mother's Dream",
+   "subtitle": "",
+   "year": "2013",
+   "meta": "Swiss documentary · 86 min · directed by Valerie Blankenbyl · Hindi, Gujarati and English · world premiere April 2013",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Official Swiss Films copy follows several women in India who turn to surrogacy in hope of a better future, through different stages of the process in a clinic in north-west India, including what happens after they give birth.",
+   "character": "",
+   "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "The official Swiss Films catalogue lists Ma Na Sapna – A Mother's Dream (Switzerland, April 2013, documentary, 86 min, directed/written by Valerie Blankenbyl) and states that the film follows six women through different stages of surrogacy and their broker in a clinic in north-west India, including what happens after they give birth. The official Journeyman Pictures sales page, which also uses the English title A Mother's Dream, describes a documentary on India's commercial surrogacy industry and the women who become pregnant on demand.",
+   "adult": "no",
+   "format": "documentary",
+   "categories": [
+    "surrogacy-ivf-adopt"
+   ],
+   "sources": [
+    {
+     "label": "Swiss Films official catalogue",
+     "url": "https://www.swissfilms.ch/en/movie/ma-na-sapna/ec49aa5e7b44436cbc1a7908f25fe532"
+    },
+    {
+     "label": "Journeyman Pictures official sales page",
+     "url": "https://www.journeyman.tv/film/6058"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov25"
+   ],
+   "source_records": [
+    "deep-refresh-nov25:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov25:3": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "no",
+     "title": "Ma Na Sapna – A Mother's Dream",
+     "year": "2013",
+     "format": "documentary",
+     "meta": "Swiss documentary · 86 min · directed by Valerie Blankenbyl · Hindi, Gujarati and English · world premiere April 2013",
+     "character": "",
+     "summary": "Official Swiss Films copy follows several women in India who turn to surrogacy in hope of a better future, through different stages of the process in a clinic in north-west India, including what happens after they give birth.",
+     "categories": [
+      "surrogacy-ivf-adopt"
+     ],
+     "sources": [
+      {
+       "label": "Swiss Films official catalogue",
+       "url": "https://www.swissfilms.ch/en/movie/ma-na-sapna/ec49aa5e7b44436cbc1a7908f25fe532"
+      },
+      {
+       "label": "Journeyman Pictures official sales page",
+       "url": "https://www.journeyman.tv/film/6058"
+      }
+     ],
+     "evidence": "The official Swiss Films catalogue lists Ma Na Sapna – A Mother's Dream (Switzerland, April 2013, documentary, 86 min, directed/written by Valerie Blankenbyl) and states that the film follows six women through different stages of surrogacy and their broker in a clinic in north-west India, including what happens after they give birth. The official Journeyman Pictures sales page, which also uses the English title A Mother's Dream, describes a documentary on India's commercial surrogacy industry and the women who become pregnant on demand.",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 4169,
+   "title": "The Two Week Wait",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "British short · 14 min · written and directed by Olivia Grant · United Kingdom · English · starring Jessica Brown Findlay and Daniel Ings",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official Norwich Film Festival copy follows a woman in her late thirties through dissociative experiences and deteriorating mental health during IVF, alongside her boyfriend.",
+   "character": "",
+   "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "The official Norwich Film Festival 2026 selection page titles the film The Two Week Wait, credits Olivia Grant as director and writer, lists a 14-minute United Kingdom English-language short, and states that a late-thirties woman comes up against pronounced dissociative experiences as she navigates deteriorating mental health during the rollercoaster of IVF alongside her boyfriend. Cast listed on the same official page includes Jessica Brown Findlay and Daniel Ings.",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "surrogacy-ivf-adopt"
+   ],
+   "sources": [
+    {
+     "label": "Norwich Film Festival official selection",
+     "url": "https://norwichfilmfestival.co.uk/films/official-selection-2026/the-two-week-wait/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov25"
+   ],
+   "source_records": [
+    "deep-refresh-nov25:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov25:4": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "no",
+     "title": "The Two Week Wait",
+     "year": "2026",
+     "format": "short",
+     "meta": "British short · 14 min · written and directed by Olivia Grant · United Kingdom · English · starring Jessica Brown Findlay and Daniel Ings",
+     "character": "",
+     "summary": "Official Norwich Film Festival copy follows a woman in her late thirties through dissociative experiences and deteriorating mental health during IVF, alongside her boyfriend.",
+     "categories": [
+      "surrogacy-ivf-adopt"
+     ],
+     "sources": [
+      {
+       "label": "Norwich Film Festival official selection",
+       "url": "https://norwichfilmfestival.co.uk/films/official-selection-2026/the-two-week-wait/"
+      }
+     ],
+     "evidence": "The official Norwich Film Festival 2026 selection page titles the film The Two Week Wait, credits Olivia Grant as director and writer, lists a 14-minute United Kingdom English-language short, and states that a late-thirties woman comes up against pronounced dissociative experiences as she navigates deteriorating mental health during the rollercoaster of IVF alongside her boyfriend. Cast listed on the same official page includes Jessica Brown Findlay and Daniel Ings.",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 4170,
+   "title": "3.0 Kilograms of Happiness / 3.0 Килограма щастие",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Bulgarian comedy-drama · 98 min · directed by Zornitsa Sophia · Bulgarian with English subtitles · based on a 2017 family story",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Official festival copy follows Anastasia and Chavdar as they try to help their daughter Betty after multiple miscarriages; when Chavdar pays for IVF, 55-year-old Anastasia decides she will carry the embryo herself, raising family, ethical and legal questions about whose child the pregnancy is.",
+   "character": "Anastasia; her husband Chavdar; their daughter Betty",
+   "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "The official European Film Festival page lists 3.0 Килограма щастие / 3.0 Kilograms of Happiness (2026, 98 min, directed by Zornitsa Sophia, comedy-drama) and states that Anastasia and her husband Chavdar want to help their daughter Betty after multiple miscarriages; when Chavdar pays for IVF treatment, 55-year-old Anastasia decides she will carry the embryo to term herself, unleashing a clash of family dynamics, ethics and even the law, based on a true Bulgarian family story from 2017. The official Sofia International Film Festival page lists the same 2026, 98-minute Bulgaria–Azerbaijan film and states that after Chavdar pays for a fourth IVF, Anastasia decides to get pregnant with the embryo despite her husband's protest and against their faith and the law.",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "surrogacy-ivf-adopt"
+   ],
+   "sources": [
+    {
+     "label": "European Film Festival official page",
+     "url": "https://euffto.com/singlefilmpage/3-0-kilograms-of-happiness/"
+    },
+    {
+     "label": "Sofia International Film Festival official page",
+     "url": "https://siff.bg/en/m/30-kilograms-of-happiness"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov25"
+   ],
+   "source_records": [
+    "deep-refresh-nov25:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov25:5": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "no",
+     "title": "3.0 Kilograms of Happiness / 3.0 Килограма щастие",
+     "year": "2026",
+     "format": "movie",
+     "meta": "Bulgarian comedy-drama · 98 min · directed by Zornitsa Sophia · Bulgarian with English subtitles · based on a 2017 family story",
+     "character": "Anastasia; her husband Chavdar; their daughter Betty",
+     "summary": "Official festival copy follows Anastasia and Chavdar as they try to help their daughter Betty after multiple miscarriages; when Chavdar pays for IVF, 55-year-old Anastasia decides she will carry the embryo herself, raising family, ethical and legal questions about whose child the pregnancy is.",
+     "categories": [
+      "surrogacy-ivf-adopt"
+     ],
+     "sources": [
+      {
+       "label": "European Film Festival official page",
+       "url": "https://euffto.com/singlefilmpage/3-0-kilograms-of-happiness/"
+      },
+      {
+       "label": "Sofia International Film Festival official page",
+       "url": "https://siff.bg/en/m/30-kilograms-of-happiness"
+      }
+     ],
+     "evidence": "The official European Film Festival page lists 3.0 Килограма щастие / 3.0 Kilograms of Happiness (2026, 98 min, directed by Zornitsa Sophia, comedy-drama) and states that Anastasia and her husband Chavdar want to help their daughter Betty after multiple miscarriages; when Chavdar pays for IVF treatment, 55-year-old Anastasia decides she will carry the embryo to term herself, unleashing a clash of family dynamics, ethics and even the law, based on a true Bulgarian family story from 2017. The official Sofia International Film Festival page lists the same 2026, 98-minute Bulgaria–Azerbaijan film and states that after Chavdar pays for a fourth IVF, Anastasia decides to get pregnant with the embryo despite her husband's protest and against their faith and the law.",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 4171,
+   "title": "Extended Family",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "Swiss documentary · 30 min · directed by Ramona Sonderegger · Swiss-German with English subtitles · world premiere May 2016",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official Swiss Films copy offers a portrait of two same-sex families in Switzerland—described as mummy, mama and daddy, and mummy, mama and sperm donor—who found a way to create their families in a legal grey zone, because Swiss law then banned adoption and assisted reproduction for same-sex couples.",
+   "character": "",
+   "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "pregnant_end": "no",
+   "evidence": "The official Swiss Films catalogue lists Extended Family (Switzerland, May 2016, documentary, 30 min, directed/written by Ramona Sonderegger) and describes an intimate insight into two same-sex families' lives, using the wording “Mummy, mama and daddy; mummy, mama and sperm donor,” and states that Swiss law bans access to adoption and any assisted reproductive medicine for same-sex couples.",
+   "adult": "no",
+   "format": "documentary",
+   "categories": [
+    "lesbian-couple-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Swiss Films official catalogue",
+     "url": "https://www.swissfilms.ch/en/movie/extended-family/241f01d171f4465885ac5bd715ff8a5f"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov25"
+   ],
+   "source_records": [
+    "deep-refresh-nov25:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov25:6": {
+     "pregnant_end": "no",
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "no",
+     "title": "Extended Family",
+     "year": "2016",
+     "format": "documentary",
+     "meta": "Swiss documentary · 30 min · directed by Ramona Sonderegger · Swiss-German with English subtitles · world premiere May 2016",
+     "character": "",
+     "summary": "Official Swiss Films copy offers a portrait of two same-sex families in Switzerland—described as mummy, mama and daddy, and mummy, mama and sperm donor—who found a way to create their families in a legal grey zone, because Swiss law then banned adoption and assisted reproduction for same-sex couples.",
+     "categories": [
+      "lesbian-couple-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Swiss Films official catalogue",
+       "url": "https://www.swissfilms.ch/en/movie/extended-family/241f01d171f4465885ac5bd715ff8a5f"
+      }
+     ],
+     "evidence": "The official Swiss Films catalogue lists Extended Family (Switzerland, May 2016, documentary, 30 min, directed/written by Ramona Sonderegger) and describes an intimate insight into two same-sex families' lives, using the wording “Mummy, mama and daddy; mummy, mama and sperm donor,” and states that Swiss law bans access to adoption and any assisted reproductive medicine for same-sex couples.",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 4172,
+   "title": "TwoMoms",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Japanese documentary · 2025 · directed by Satoko Nagamura · Japanese with English subtitles",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official MIX CPH / Japan In CPH festival copy follows four lesbian couples in Japan as they build families through assisted reproduction, and looks at parenthood alongside legal barriers and discrimination faced by LGBTQIA+ families in Japan.",
+   "character": "",
+   "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "The official Japan In CPH page for the MIX CPH LGBTQ+ screening of TwoMoms (2025), directed by Satoko Nagamura, states that the documentary follows four lesbian couples in Japan as they build families through assisted reproduction and offers an intimate look at the joys and challenges of parenthood alongside discrimination and legal barriers LGBTQIA+ families continue to face in Japan.",
+   "adult": "no",
+   "format": "documentary",
+   "categories": [
+    "lesbian-couple-pregnancy",
+    "surrogacy-ivf-adopt"
+   ],
+   "sources": [
+    {
+     "label": "Japan In CPH / MIX CPH official festival page",
+     "url": "https://japanincph.dk/event/twomoms-cinemateket/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-nov25"
+   ],
+   "source_records": [
+    "deep-refresh-nov25:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-nov25:7": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "no",
+     "title": "TwoMoms",
+     "year": "2025",
+     "format": "documentary",
+     "meta": "Japanese documentary · 2025 · directed by Satoko Nagamura · Japanese with English subtitles",
+     "character": "",
+     "summary": "Official MIX CPH / Japan In CPH festival copy follows four lesbian couples in Japan as they build families through assisted reproduction, and looks at parenthood alongside legal barriers and discrimination faced by LGBTQIA+ families in Japan.",
+     "categories": [
+      "lesbian-couple-pregnancy",
+      "surrogacy-ivf-adopt"
+     ],
+     "sources": [
+      {
+       "label": "Japan In CPH / MIX CPH official festival page",
+       "url": "https://japanincph.dk/event/twomoms-cinemateket/"
+      }
+     ],
+     "evidence": "The official Japan In CPH page for the MIX CPH LGBTQ+ screening of TwoMoms (2025), directed by Satoko Nagamura, states that the documentary follows four lesbian couples in Japan as they build families through assisted reproduction and offers an intimate look at the joys and challenges of parenthood alongside discrimination and legal barriers LGBTQIA+ families continue to face in Japan.",
+     "confidence_flag": "Single source · flag"
+    }
+   }
   }
  ],
  "sections": [
@@ -641905,7 +642436,8 @@ window.CATALOG = {
     "deep-refresh-oct30",
     "deep-refresh-nov04",
     "deep-refresh-nov12-cont",
-    "belly-kiss-nov21"
+    "belly-kiss-nov21",
+    "deep-refresh-nov25"
    ],
    "groups": [
     {
@@ -642511,6 +643043,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov12-cont"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 25 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4171,
+       "from_source": "deep-refresh-nov25"
+      },
+      {
+       "id": 4166,
+       "from_source": "deep-refresh-nov25"
+      },
+      {
+       "id": 4172,
+       "from_source": "deep-refresh-nov25"
+      }
+     ],
+     "from_source": "deep-refresh-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -642521,7 +643072,8 @@ window.CATALOG = {
     "deep-refresh-oct30": null,
     "deep-refresh-nov04": null,
     "deep-refresh-nov12-cont": null,
-    "belly-kiss-nov21": null
+    "belly-kiss-nov21": null,
+    "deep-refresh-nov25": null
    }
   },
   {
@@ -668717,10 +669269,12 @@ window.CATALOG = {
    "description": "",
    "notes": [],
    "from_sources": [
-    "deep-refresh-nov17"
+    "deep-refresh-nov17",
+    "deep-refresh-nov25"
    ],
    "declared_count_by_source": {
-    "deep-refresh-nov17": null
+    "deep-refresh-nov17": null,
+    "deep-refresh-nov25": null
    },
    "groups": [
     {
@@ -668733,6 +669287,37 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov17"
+    },
+    {
+     "title": "Deep gap-check (missed titles), 25 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4170,
+       "from_source": "deep-refresh-nov25"
+      },
+      {
+       "id": 4167,
+       "from_source": "deep-refresh-nov25"
+      },
+      {
+       "id": 4166,
+       "from_source": "deep-refresh-nov25"
+      },
+      {
+       "id": 4168,
+       "from_source": "deep-refresh-nov25"
+      },
+      {
+       "id": 4169,
+       "from_source": "deep-refresh-nov25"
+      },
+      {
+       "id": 4172,
+       "from_source": "deep-refresh-nov25"
+      }
+     ],
+     "from_source": "deep-refresh-nov25"
     }
    ]
   },
