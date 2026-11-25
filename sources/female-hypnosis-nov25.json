@@ -59,6 +59,66 @@
    ],
    "evidence": "The Cinemantik archive page for Psychothérapie en URSS / Psychotherapy in the USSR (1970, ref. 040J-16-PSY70, about 13 minutes) describes a Soviet film about psychotherapy used to treat sick women and to help them give birth without pain. Its shot list states that a patient who is afraid in a hospital bed is hypnotized by a doctor, taken to the delivery room, has contractions without pain, gives birth calmly, follows the nurses' instructions, and wakes after delivery, after which the doctor explains his method. Earlier shots describe other adult female patients being hypnotized in an auditorium and in a consulting room.",
    "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Female hypnosis focused sweep, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "yes",
+   "title": "FALLENMAGE Received: Hypnosis's Curse",
+   "year": "2026",
+   "format": "game",
+   "meta": "Adult RPG from developer 天之彼, published by BokiBoki Game; official Steam release 10 Dec 2026. Official Steam content notes state that all characters are 20 or older in lore and visual design. Not an AI-generated work.",
+   "character": "Fia (adult mage, official age 20+), hypnotized; Stein (her partner) and Freya (her mentor) look on; Aira (a demon) set the trap",
+   "summary": "Official Steam copy describes an adult RPG in which a party stops in a town and a demon named Aira lays a hypnotic trap. Fia, a composed mage in a relationship with the warrior Stein, has her sense of reason rewritten under the hypnotic spell while her companions watch.",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "hypno-intimacy",
+    "fantasy",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Official Steam store page",
+     "url": "https://store.steampowered.com/app/5001490/"
+    }
+   ],
+   "evidence": "Official Steam app details for FALLENMAGE Received: Hypnosis's Curse (app 5001490, coming 10 Dec 2026) describe an adult RPG in which a great demon sets a hypnotic trap in a town, and Fia, a composed mage in a romantic relationship with warrior Stein, slowly has her sense of reason rewritten. Official content notes state that all characters are strictly 20 years of age or older in both lore and visual design, and that the narrative involves hypnosis and mind-break (common-sense alteration).",
+   "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Female hypnosis focused sweep, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "yes",
+   "title": "Mind-Control Talisman ~Strong and Beautiful Adventurers Meet Their End~",
+   "year": "2025",
+   "format": "game",
+   "meta": "Adult RPG by MC_TWORL. Official 072 Project shop lists a 22 Oct 2025 release; official Steam storefront lists 5 Feb 2026. 18+ listing. Official 072 character copy gives ages 18 (Gilda), 24 (Saret) and 20 (Aria). Not an AI-generated work.",
+   "character": "Shirakawa Gilda (official age 18), Rokudo Saret (24), and Getsujo Aria (20), adult adventurers hypnotized by a talisman",
+   "summary": "Official shop and Steam copy describe an adult RPG in which three high-level adventurers, Gilda, Saret and Aria, are hypnotized while on a request. A magic talisman rewrites their common sense, and they are made to obey a master's commands. Official character listings give their ages as 18, 24 and 20.",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "hypno-intimacy",
+    "fantasy",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Official 072 Project shop listing",
+     "url": "https://072project.com/r18/en/shop/RA25032806"
+    },
+    {
+     "label": "Official Steam store page",
+     "url": "https://store.steampowered.com/app/3527690/"
+    }
+   ],
+   "evidence": "The official 072 Project shop listing and the official Steam store page for Mind-Control Talisman ~Strong and Beautiful Adventurers Meet Their End~ both state that Gilda, Saret and Aria, three high-level adventurers, are hypnotized by an evil person during a request, and that a magic talisman rewrites their common sense so they obey a master's commands. The official 072 character introduction lists Shirakawa Gilda's age as 18, Rokudo Saret's as 24, and Getsujo Aria's as 20. The 072 shop marks the work 18+ and dates its release 22 Oct 2025; Steam lists a 5 Feb 2026 storefront date.",
+   "confidence_flag": "Medium · 2 sources"
   }
  ],
  "dropped": [
@@ -99,10 +159,6 @@
    "reason": "Held: official studio page describes only a 'tormented young woman'; adulthood is not clearly stated. Not added."
   },
   {
-   "title": "FALLENMAGE Received: Hypnosis's Curse",
-   "reason": "Official Steam storefront was age-gated in this run, so first-party plot could not be verified. Not invented; not added."
-  },
-  {
    "title": "51PAPAYA titles including 重生之我为催眠先生",
    "reason": "Aggregator listings only; not added."
   },
@@ -125,6 +181,10 @@
   {
    "title": "Live comedy hypnosis tours (Hypnosis Unleashed, HYPROV, Giorda Hypn'Ose, Krystal Brown, etc.)",
    "reason": "Live touring stage shows, not identifiable published audiovisual or print works for this catalog. Not added."
+  },
+  {
+   "title": "Chez Dr. Bello",
+   "reason": "Nigerian short shown at festivals including Quibdó África 2024; the official festival catalog page did not yield extractable first-party plot text that could be quoted, and no official text confirmed pregnancy. Not invented; not added."
   }
  ]
 }
