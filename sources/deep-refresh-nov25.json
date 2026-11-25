@@ -194,6 +194,73 @@
    ],
    "evidence": "The official Japan In CPH page for the MIX CPH LGBTQ+ screening of TwoMoms (2025), directed by Satoko Nagamura, states that the documentary follows four lesbian couples in Japan as they build families through assisted reproduction and offers an intimate look at the joys and challenges of parenthood alongside discrimination and legal barriers LGBTQIA+ families continue to face in Japan.",
    "confidence_flag": "Single source · flag"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "no",
+   "title": "妻よ、僕の恋人になってくれませんか？ / My Dear Wife, Will You Be My Lover?",
+   "year": "2025",
+   "format": "digital manga",
+   "meta": "Digital manga · Japan · Japanese · men's comic (男性コミック) · by mamaya / STUDIO ZOON · official BOOK☆WALKER and Reader Store listings state the work uses generative AI · serialization began 28 Dec 2025 on Comic C'moA; collected volume 1 listed 19 July 2026",
+   "character": "太田巧 (Takumi Ota) and his wife 美月 (Mizuki), a 35-year-old dual-income couple with children",
+   "summary": "Official bookstore copy follows the 35-year-old Ota couple, close and raising children, whose marriage has become sexless. After the children fall asleep, Takumi tries to restart intimacy; Mizuki gently says she is tired. Worried about their future once the children leave home, he vows to make his wife his lover again. Official listings state the work uses generative AI.",
+   "categories": [
+    "erotic-mainstream"
+   ],
+   "tags": [
+    "AI-generated"
+   ],
+   "sources": [
+    {
+     "label": "BOOK☆WALKER official volume 1 listing",
+     "url": "https://bookwalker.jp/de14296782-c821-4484-864a-917b0c944f62/"
+    },
+    {
+     "label": "Sony Reader Store official volume 1 listing",
+     "url": "https://ebookstore.sony.jp/title/11494838/"
+    },
+    {
+     "label": "BookLive / ブッコミ official chapter 1 listing",
+     "url": "https://sp.handycomic.jp/product/index/title_id/2322182/vol_no/001"
+    }
+   ],
+   "evidence": "The official BOOK☆WALKER page for 妻よ、僕の恋人になってくれませんか？【単行本】第1巻 (mamaya / STUDIO ZOON, delivery start 2026/7/19) prints the publisher synopsis of the 35-year-old dual-income Ota couple and their children, Takumi's attempts to restart intimacy after the children fall asleep, Mizuki's tired refusals, and his vow to make his wife his lover again, and states ※この作品は生成AIを使用しています. The official Sony Reader Store page carries the same official synopsis and generative-AI disclaimer, lists the work as コミック - 男性コミック, and notes that preview and purchase require age authentication. The official BookLive / ブッコミ chapter-1 page prints the same official synopsis and the same AI-image disclaimer.",
+   "confidence_flag": "High · 3+ sources"
+  },
+  {
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "provenance": "Deep refresh, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "adult": "no",
+   "title": "Gods Don't Give Gifts",
+   "year": "2026",
+   "format": "movie",
+   "meta": "United States theatrical feature · English · directed by Zack London (Gossip Goblin) · Fable · R-rated sci-fi · official site describes it as Tales From The Second Cycle of Humanity · U.S. theatrical debut 4 Dec 2026 · AI-generated feature with human voice performances",
+   "character": "Zaynith Alda (played by Grimes / Claire Boucher), a Halvorith-family aristocrat",
+   "summary": "Official press describes an R-rated post-apocalyptic theatrical feature, presented as the first AI-generated film set for cinemas, that satirizes humanity's relationship with technology. In an early sequence, aristocrat Zaynith Alda seeks a dreamspool, an illicit induced experience in NiiroCradle that lets people experience alternate realities. The official site frames the work as Tales From The Second Cycle of Humanity.",
+   "categories": [
+    "scifi-tech",
+    "scifi"
+   ],
+   "tags": [
+    "AI-generated"
+   ],
+   "sources": [
+    {
+     "label": "Official film site",
+     "url": "https://godsdontgivegifts.com/"
+    },
+    {
+     "label": "Variety exclusive",
+     "url": "https://variety.com/2026/film/news/grimes-cameo-ai-film-gods-dont-give-gifts-1236940417/"
+    }
+   ],
+   "evidence": "The official site at godsdontgivegifts.com titles the work Gods Don't Give Gifts: A Film By Gossip Goblin and describes it as Tales From The Second Cycle of Humanity. Variety's 5 Nov 2026 exclusive identifies Zack London, directing under the moniker Gossip Goblin, and the AI studio Fable; it calls the nearly two-hour film the first AI feature set to debut in theaters, an R-rated sci-fi film with a 4 Dec debut that aims to satirize humanity's relationship with technology, and states that Grimes plays Zaynith Alda, a Halvorith-family aristocrat who seeks a dreamspool, an illicit induced experience in the world of NiiroCradle that lets people experience alternate realities.",
+   "confidence_flag": "Medium · 2 sources"
   }
  ],
  "dropped": [
@@ -220,6 +287,38 @@
   {
    "title": "OVA巨乳プリンセス催眠 １＆２パック",
    "reason": "Official Lune listing is a 25 Dec 2026 rerelease pack of an existing work, not a new title. Not given a new ID."
+  },
+  {
+   "title": "Hypnotized to Talk Like a Little Girl!",
+   "reason": "Held: title and description are child-coded (a woman's voice changed to a little girl). Not added."
+  },
+  {
+   "title": "Pomni and Chun-Li Relapse Hypnosis AI Video",
+   "reason": "Held: circulated on unofficial aggregator pages; one lead is a Digital Circus character whose adulthood is not clearly established. Not added."
+  },
+  {
+   "title": "A story about training a married woman with a hypnosis app and ending up with a parent-child bowl ~The neat and clean Yui edition~ [AI Generated]",
+   "reason": "Held: found only on pirate/magnet pages, with no official platform or studio URL; also set aside because of the parent-child framing. Not added."
+  },
+  {
+   "title": "掌握催眠之力后的淫乱生活",
+   "reason": "51PAPAYA aggregator listing only; aggregator/pirate sources are not enough. Not added."
+  },
+  {
+   "title": "重生之我为催眠先生",
+   "reason": "51PAPAYA aggregator listing only; aggregator/pirate sources are not enough. Not added."
+  },
+  {
+   "title": "人妻催眠援交",
+   "reason": "Official CmoA URL is identifiable, but the storefront returned an access-restriction page during this refresh, so official plot and rating could not be verified. Not invented; not added."
+  },
+  {
+   "title": "元・魔法少女も催眠アプリには勝てなかったの…～私、夜はアナタの妻になります～",
+   "reason": "Held: former magical-girl framing leaves adulthood not clearly confirmed on an official page retrieved this run. Not added."
+  },
+  {
+   "title": "Iinari! Saimin Kanojo: Reizoku Sennou Nama Hame Seikatsu!!",
+   "reason": "Held: girlfriend hypnosis OVA; adulthood and any school coding were not confirmed from an official publisher page this run. Not added."
   }
  ]
 }
