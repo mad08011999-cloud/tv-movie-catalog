@@ -14406,6 +14406,115 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "remarried-announce-nov25",
+   "label": "Remarried / re-partnered parent announces a pregnancy to their kid (25 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/remarried-announce-nov25.json",
+   "description": "Worldwide pass (25 Nov 2026 PT) for adult parents who have remarried or re-partnered after divorce, widowhood or single parenthood and are expecting a baby with the new partner, with the scene where their child is told or finds out. Each card says who was pregnant, how the child reacted, whether the couple had the baby, whether either parent already had kids, and whether they married, from the cited sources or 'unknown'. Existing categories reused (family, widow-divorcee-remarry-pregnant, mom-pregnancy, stepmom-pregnancy). Titles already in the catalog only gain episodes, categories and links. Cards where the announcement scene is not sourced are tagged 'loose fit'.",
+   "dropped": [
+    {
+     "title": "Once and Again",
+     "year": "2000",
+     "reason": "S2E8 — Lily's pregnancy test is negative (oandafans episode guide); no pregnancy."
+    },
+    {
+     "title": "Major Dad",
+     "year": "1990",
+     "reason": "S1E16 “Jr.” — Polly only 'may be pregnant' (TVmaze); no confirmed pregnancy or announcement to her daughters found."
+    },
+    {
+     "title": "Sweet Magnolias",
+     "year": "2020",
+     "reason": "Bill's girlfriend Noreen is pregnant, but no fetched source shows the pregnancy being announced to his sons (fan wiki blocked)."
+    },
+    {
+     "title": "Doctor Foster",
+     "year": "2015–2017",
+     "reason": "Kate's pregnancy is revealed to Gemma and Simon; son Tom finds out about the affair, but no source shows the pregnancy being announced to Tom."
+    },
+    {
+     "title": "The World of the Married (부부의 세계)",
+     "year": "2020",
+     "reason": "Da-kyung's pregnancy is told to Tae-oh; son Joon-young learns of the affair, not a pregnancy announcement, in the fetched synopses."
+    },
+    {
+     "title": "The New Adventures of Old Christine",
+     "year": "2009–2010",
+     "reason": "New Christine announces her pregnancy to Richard; no source shows son Ritchie being told."
+    },
+    {
+     "title": "我的前半生 / The First Half of My Life",
+     "year": "2017",
+     "reason": "Ling Ling hides her pregnancy; Ping'er is not told (search summary of Douban review)."
+    },
+    {
+     "title": "Daddy's Home",
+     "year": "2015",
+     "reason": "No pregnancy announcement shown; the film jumps ahead to a baby born a year later."
+    },
+    {
+     "title": "Gilmore Girls",
+     "year": "2002",
+     "reason": "Sherry tells Christopher she is pregnant; no fetched source shows Rory being told (annotated page failed to load)."
+    },
+    {
+     "title": "Heartland",
+     "year": "2015",
+     "reason": "Casey's pregnancy (S8E17) is revealed to Tim; Tim telling Amy/Lou unconfirmed (transcript and fan wiki blocked)."
+    },
+    {
+     "title": "Sex Education",
+     "year": "2021",
+     "reason": "Already on site; Jean reveals the pregnancy to Jakob in S3E1 — no fetched source shows her telling Otis, so no enrichment added."
+    },
+    {
+     "title": "Desperate Housewives",
+     "year": "2007",
+     "reason": "Already on site; S4E1 Susan learns of the pregnancy but does not tell Julie in that episode per search summary — not enriched."
+    },
+    {
+     "title": "Anupamaa",
+     "year": "2023",
+     "reason": "Already on site; Kavya (Vanraj's second wife) is pregnant by Anirudh and confesses to the family — not a new-partner pregnancy announced to her child."
+    },
+    {
+     "title": "Hollyoaks (Diane O'Connor)",
+     "year": "2013",
+     "reason": "Diane is pregnant by new partner Tony and stepdaughter Sinead reacts, but Diane is not yet remarried and no announcement scene to the children was sourced."
+    },
+    {
+     "title": "Gênesis (Tamar)",
+     "year": "2021",
+     "reason": "Twice-widowed Tamar tells Judá, not her children (she has none)."
+    },
+    {
+     "title": "Eres mi sangre",
+     "year": "2023",
+     "reason": "Gabriela is not remarried; pregnancy shared with the father, not a new partner."
+    },
+    {
+     "title": "Lifetime 'Pregnant With Stepfather' (2025)",
+     "year": "2025",
+     "reason": "YouTube upload only; not an independently verified official title."
+    },
+    {
+     "title": "ReelShort / DramaBox remarried-mom-tells-son titles",
+     "year": "",
+     "reason": "No title with this exact plot found in indexed catalogs."
+    },
+    {
+     "title": "爸，快看！后妈给你生了个啥",
+     "year": "",
+     "reason": "Short drama page returned almost no content; single search summary only."
+    }
+   ],
+   "check": {
+    "raw_count": 16,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -14528,10 +14637,11 @@ window.CATALOG = {
   "weekly-nov23": 1,
   "deep-refresh-nov25": 9,
   "female-hypnosis-nov25": 4,
-  "hypnotic-healing-similar-nov25": 5
+  "hypnotic-healing-similar-nov25": 5,
+  "remarried-announce-nov25": 16
  },
- "raw_total": 7817,
- "entry_count": 3988,
+ "raw_total": 7833,
+ "entry_count": 3998,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -14759,7 +14869,7 @@ window.CATALOG = {
    "key": "mom-pregnancy",
    "label": "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
    "legend_label": "Mother pregnant again",
-   "entry_count": 192
+   "entry_count": 201
   },
   {
    "key": "hypnotised-mother-marriage",
@@ -14897,7 +15007,7 @@ window.CATALOG = {
    "key": "stepmom-pregnancy",
    "label": "Pregnant stepmother / bonus mom",
    "legend_label": "Pregnant stepmother / bonus mom",
-   "entry_count": 23
+   "entry_count": 26
   },
   {
    "key": "pregnant-child",
@@ -15005,7 +15115,7 @@ window.CATALOG = {
    "key": "family",
    "label": "Single mom remarries and gets pregnant with new partner",
    "legend_label": "Single mom remarries and gets pregnant with new partner",
-   "entry_count": 45
+   "entry_count": 54
   },
   {
    "key": "spirit",
@@ -15071,7 +15181,7 @@ window.CATALOG = {
    "key": "widow-divorcee-remarry-pregnant",
    "label": "widow-divorcee-remarry-pregnant",
    "legend_label": "widow-divorcee-remarry-pregnant",
-   "entry_count": 38
+   "entry_count": 44
   },
   {
    "key": "widow-divorcee",
@@ -202608,13 +202718,45 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S2E22 “Baby Makes Five” (13 Feb 1992)",
+     "air_date": "1992-02-13",
+     "gist": "Jackie tells Kelly she is pregnant; Mel proposes (Television of Yore, Tumblr episode log, Plex synopsis).",
+     "number_verified": true
+    },
+    {
+     "episode": "S2E28 “Wedding Bell Blues” (7 May 1992)",
+     "air_date": "1992-05-07",
+     "gist": "Mel and Jackie marry at the Walsh house (Television of Yore).",
+     "number_verified": true
+    },
+    {
+     "episode": "Summer 1992 — Erin born (S3E2 first seen, unconfirmed)",
+     "air_date": "1992",
+     "gist": "Jackie gives birth to Erin Silver (90210 fan wiki); episode not confirmed by a second fetched source.",
+     "number_verified": false
+    }
+   ],
    "tags": [
     "imdb-list-ls099930129"
    ],
+   "kids_status": "yes",
+   "kids_note": "Jackie already has Kelly; Mel already has David.",
+   "kids_together": "yes",
+   "kids_together_note": "Daughter Erin Silver.",
+   "married": "yes",
+   "married_note": "Jackie and Mel marry in S2E28.",
+   "pregnant_end": "no",
+   "evidence": "Announcement: 3 sources; wedding: 1 fetched recap + search listing; birth: fan wiki.",
+   "source_conflict": "Pregnancy outcome: remarried-announce-nov25 says “Birth (Erin)”; worldwide-hypnosis says “not pregnant”",
    "format": "tv",
    "categories": [
     "human",
-    "other-control"
+    "other-control",
+    "family",
+    "widow-divorcee-remarry-pregnant",
+    "mom-pregnancy"
    ],
    "sources": [
     {
@@ -202628,18 +202770,40 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Jennie Garth: Beverly Hills 90210 (s9e21)",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Television of Yore — S2E22",
+     "url": "https://www.televisionofyore.com/recaps-of-beverly-hills-90210/beverly-hills-90210-season-2-episode-22"
+    },
+    {
+     "label": "Tumblr @remembertae — “Baby Makes Five”",
+     "url": "https://www.tumblr.com/remembertae/139301274665/beverly-hills-90210-baby-makes-five"
+    },
+    {
+     "label": "Plex — S2E22 synopsis",
+     "url": "https://watch.plex.tv/show/beverly-hills-90210/season/2/episode/22"
+    },
+    {
+     "label": "Television of Yore — S2E28",
+     "url": "https://www.televisionofyore.com/recaps-of-beverly-hills-90210/beverly-hills-90210-season-2-episode-28"
+    },
+    {
+     "label": "90210 fan wiki — Jackie Taylor",
+     "url": "https://90210.fandom.com/wiki/Jackie_Taylor"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "remarried-announce-nov25"
    ],
    "source_records": [
     "xla62ucxbx02u5:980",
     "worldwide-hypnosis:109",
-    "hypnosis-imdb-list-full-oct25:182"
+    "hypnosis-imdb-list-full-oct25:182",
+    "remarried-announce-nov25:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -202740,6 +202904,82 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "remarried-announce-nov25:11",
+     "source": "remarried-announce-nov25",
+     "label": "Beverly Hills 90210 · Jackie Taylor's pregnancy (1992) (1990–2000)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Beverly Hills 90210",
+     "subtitle": "Jackie Taylor's pregnancy (1992)",
+     "year": "1990–2000",
+     "meta": "Teen drama · United States · English · Fox, season 2–3",
+     "summary": "Divorced Jackie tells her daughter Kelly she is pregnant by her boyfriend Mel before telling Mel. Kelly confides in Donna and Brenda and the news spreads; Mel proposes on Valentine's Day, they marry at the Walsh house, and daughter Erin is born that summer.",
+     "character": "Jackie Taylor (Ann Gillespie), divorced mother of Kelly; boyfriend, then husband, Mel Silver (Matthew Laurance), father of David",
+     "note": "Announced by the mother (Jackie) to her daughter Kelly; Kelly urges her to tell Mel and leaks it to friends. Pregnant: the mom.",
+     "mechanism": "",
+     "confidence_flag": "high",
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant",
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Television of Yore — S2E22",
+       "url": "https://www.televisionofyore.com/recaps-of-beverly-hills-90210/beverly-hills-90210-season-2-episode-22"
+      },
+      {
+       "label": "Tumblr @remembertae — “Baby Makes Five”",
+       "url": "https://www.tumblr.com/remembertae/139301274665/beverly-hills-90210-baby-makes-five"
+      },
+      {
+       "label": "Plex — S2E22 synopsis",
+       "url": "https://watch.plex.tv/show/beverly-hills-90210/season/2/episode/22"
+      },
+      {
+       "label": "Television of Yore — S2E28",
+       "url": "https://www.televisionofyore.com/recaps-of-beverly-hills-90210/beverly-hills-90210-season-2-episode-28"
+      },
+      {
+       "label": "90210 fan wiki — Jackie Taylor",
+       "url": "https://90210.fandom.com/wiki/Jackie_Taylor"
+      }
+     ],
+     "pregnancy_outcome": "Birth (Erin)",
+     "episodes": [
+      {
+       "episode": "S2E22 “Baby Makes Five” (13 Feb 1992)",
+       "air_date": "1992-02-13",
+       "gist": "Jackie tells Kelly she is pregnant; Mel proposes (Television of Yore, Tumblr episode log, Plex synopsis).",
+       "number_verified": true
+      },
+      {
+       "episode": "S2E28 “Wedding Bell Blues” (7 May 1992)",
+       "air_date": "1992-05-07",
+       "gist": "Mel and Jackie marry at the Walsh house (Television of Yore).",
+       "number_verified": true
+      },
+      {
+       "episode": "Summer 1992 — Erin born (S3E2 first seen, unconfirmed)",
+       "air_date": "1992",
+       "gist": "Jackie gives birth to Erin Silver (90210 fan wiki); episode not confirmed by a second fetched source.",
+       "number_verified": false
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "Jackie already has Kelly; Mel already has David.",
+     "kids_together": "yes",
+     "kids_together_note": "Daughter Erin Silver.",
+     "married": "yes",
+     "married_note": "Jackie and Mel marry in S2E28.",
+     "pregnant_end": "no",
+     "evidence": "Announcement: 3 sources; wedding: 1 fetched recap + search listing; birth: fan wiki.",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -202811,6 +203051,76 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "remarried-announce-nov25:11": {
+     "title": "Beverly Hills 90210",
+     "match_title": "Beverly Hills 90210",
+     "match_year": "1990–2000",
+     "year": "1990–2000",
+     "format": "tv",
+     "meta": "Teen drama · United States · English · Fox, season 2–3",
+     "subtitle": "Jackie Taylor's pregnancy (1992)",
+     "character": "Jackie Taylor (Ann Gillespie), divorced mother of Kelly; boyfriend, then husband, Mel Silver (Matthew Laurance), father of David",
+     "summary": "Divorced Jackie tells her daughter Kelly she is pregnant by her boyfriend Mel before telling Mel. Kelly confides in Donna and Brenda and the news spreads; Mel proposes on Valentine's Day, they marry at the Walsh house, and daughter Erin is born that summer.",
+     "note": "Announced by the mother (Jackie) to her daughter Kelly; Kelly urges her to tell Mel and leaks it to friends. Pregnant: the mom.",
+     "episodes": [
+      {
+       "episode": "S2E22 “Baby Makes Five” (13 Feb 1992)",
+       "air_date": "1992-02-13",
+       "gist": "Jackie tells Kelly she is pregnant; Mel proposes (Television of Yore, Tumblr episode log, Plex synopsis).",
+       "number_verified": true
+      },
+      {
+       "episode": "S2E28 “Wedding Bell Blues” (7 May 1992)",
+       "air_date": "1992-05-07",
+       "gist": "Mel and Jackie marry at the Walsh house (Television of Yore).",
+       "number_verified": true
+      },
+      {
+       "episode": "Summer 1992 — Erin born (S3E2 first seen, unconfirmed)",
+       "air_date": "1992",
+       "gist": "Jackie gives birth to Erin Silver (90210 fan wiki); episode not confirmed by a second fetched source.",
+       "number_verified": false
+      }
+     ],
+     "kids_together": "yes",
+     "kids_together_note": "Daughter Erin Silver.",
+     "kids_status": "yes",
+     "kids_note": "Jackie already has Kelly; Mel already has David.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Birth (Erin)",
+     "married": "yes",
+     "married_note": "Jackie and Mel marry in S2E28.",
+     "sources": [
+      {
+       "label": "Television of Yore — S2E22",
+       "url": "https://www.televisionofyore.com/recaps-of-beverly-hills-90210/beverly-hills-90210-season-2-episode-22"
+      },
+      {
+       "label": "Tumblr @remembertae — “Baby Makes Five”",
+       "url": "https://www.tumblr.com/remembertae/139301274665/beverly-hills-90210-baby-makes-five"
+      },
+      {
+       "label": "Plex — S2E22 synopsis",
+       "url": "https://watch.plex.tv/show/beverly-hills-90210/season/2/episode/22"
+      },
+      {
+       "label": "Television of Yore — S2E28",
+       "url": "https://www.televisionofyore.com/recaps-of-beverly-hills-90210/beverly-hills-90210-season-2-episode-28"
+      },
+      {
+       "label": "90210 fan wiki — Jackie Taylor",
+       "url": "https://90210.fandom.com/wiki/Jackie_Taylor"
+      }
+     ],
+     "evidence": "Announcement: 3 sources; wedding: 1 fetched recap + search listing; birth: fan wiki.",
+     "confidence_flag": "high",
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant",
+      "mom-pregnancy"
+     ],
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
     }
    }
   },
@@ -236196,6 +236506,12 @@ window.CATALOG = {
       "https://en.wikipedia.org/wiki/Dexter_season_4",
       "https://www.tvmaze.com/episodes/11632/dexter-4x01-living-the-dream"
      ]
+    },
+    {
+     "episode": "S3E4 “All in the Family” (19 Oct 2008)",
+     "air_date": "2008-10-19",
+     "gist": "Rita and Dexter tell Astor and Cody about the baby; Dexter later proposes (Wikipedia, TV Quotes).",
+     "number_verified": true
     }
    ],
    "tags": [
@@ -236246,6 +236562,14 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt0773262/"
+    },
+    {
+     "label": "Wikipedia — All in the Family (Dexter)",
+     "url": "https://en.wikipedia.org/wiki/All_in_the_Family_(Dexter)"
+    },
+    {
+     "label": "TV Quotes — “We're having a baby”",
+     "url": "https://www.tv-quotes.com/shows/dexter/quote_113238.html"
     }
    ],
    "youtube_ids": [],
@@ -236256,7 +236580,8 @@ window.CATALOG = {
     "mom-pregnancy",
     "kids-pregnant-again",
     "widow-remarry",
-    "pregnant-intimate-oct25"
+    "pregnant-intimate-oct25",
+    "remarried-announce-nov25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1140",
@@ -236265,7 +236590,8 @@ window.CATALOG = {
     "mom-pregnancy:60",
     "kids-pregnant-again:13",
     "widow-remarry:8",
-    "pregnant-intimate-oct25:24"
+    "pregnant-intimate-oct25:24",
+    "remarried-announce-nov25:14"
    ],
    "index_only": false,
    "local_only": false,
@@ -236558,6 +236884,48 @@ window.CATALOG = {
      "pregnancy_note": "Father / partner: Dexter Morgan",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "remarried-announce-nov25:14",
+     "source": "remarried-announce-nov25",
+     "label": "Dexter (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dexter",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "Crime drama · United States · English · Showtime, season 3",
+     "summary": "Dexter and Rita announce Rita's pregnancy to her children Astor and Cody (\"You're gonna have a new little brother or little sister\"); Astor asks why they are not married, which leads Dexter to propose properly at the end of the episode.",
+     "character": "Rita Bennett (Julie Benz) and Dexter Morgan (Michael C. Hall); Rita's children Astor and Cody",
+     "note": "Announced by the mother and her new partner to her children; Cody asks for a puppy, Astor questions why they aren't married. Adds the announcement episode to the existing card.",
+     "mechanism": "",
+     "confidence_flag": "high",
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — All in the Family (Dexter)",
+       "url": "https://en.wikipedia.org/wiki/All_in_the_Family_(Dexter)"
+      },
+      {
+       "label": "TV Quotes — “We're having a baby”",
+       "url": "https://www.tv-quotes.com/shows/dexter/quote_113238.html"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S3E4 “All in the Family” (19 Oct 2008)",
+       "air_date": "2008-10-19",
+       "gist": "Rita and Dexter tell Astor and Cody about the baby; Dexter later proposes (Wikipedia, TV Quotes).",
+       "number_verified": true
+      }
+     ],
+     "evidence": "2 independent sources.",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -236785,6 +237153,42 @@ window.CATALOG = {
      "match_year": "2008",
      "pregnancy_note": "Father / partner: Dexter Morgan",
      "pregnancy_outcome": "Rita gives birth to son Harrison after season 3; she is killed in the season 4 finale"
+    },
+    "remarried-announce-nov25:14": {
+     "title": "Dexter",
+     "match_title": "Dexter",
+     "match_year": "2008",
+     "year": "2008",
+     "format": "tv",
+     "meta": "Crime drama · United States · English · Showtime, season 3",
+     "summary": "Dexter and Rita announce Rita's pregnancy to her children Astor and Cody (\"You're gonna have a new little brother or little sister\"); Astor asks why they are not married, which leads Dexter to propose properly at the end of the episode.",
+     "character": "Rita Bennett (Julie Benz) and Dexter Morgan (Michael C. Hall); Rita's children Astor and Cody",
+     "note": "Announced by the mother and her new partner to her children; Cody asks for a puppy, Astor questions why they aren't married. Adds the announcement episode to the existing card.",
+     "episodes": [
+      {
+       "episode": "S3E4 “All in the Family” (19 Oct 2008)",
+       "air_date": "2008-10-19",
+       "gist": "Rita and Dexter tell Astor and Cody about the baby; Dexter later proposes (Wikipedia, TV Quotes).",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — All in the Family (Dexter)",
+       "url": "https://en.wikipedia.org/wiki/All_in_the_Family_(Dexter)"
+      },
+      {
+       "label": "TV Quotes — “We're having a baby”",
+       "url": "https://www.tv-quotes.com/shows/dexter/quote_113238.html"
+      }
+     ],
+     "evidence": "2 independent sources.",
+     "confidence_flag": "high",
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
     }
    }
   },
@@ -323398,6 +323802,12 @@ window.CATALOG = {
       "https://www.usatoday.com/story/life/tv/2013/01/16/modern-family-gives-birth/1839913/",
       "https://www.tvmaze.com/episodes/4678/modern-family-4x12-party-crasher"
      ]
+    },
+    {
+     "episode": "S4E1 “Bringing Up Baby” (26 Sep 2012)",
+     "air_date": "2012-09-26",
+     "gist": "Gloria tells Manny she is pregnant; Manny's worries; accidental reveal (Wikipedia, TV Source Magazine).",
+     "number_verified": true
     }
    ],
    "kids_status": "yes",
@@ -323441,6 +323851,14 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt1442437/"
+    },
+    {
+     "label": "Wikipedia — Bringing Up Baby (Modern Family)",
+     "url": "https://en.wikipedia.org/wiki/Bringing_Up_Baby_(Modern_Family)"
+    },
+    {
+     "label": "TV Source Magazine — season premiere recap",
+     "url": "https://tvsourcemagazine.com/2012/09/3042-modern-family-season-premiere-recap-bringing-up-baby/"
     }
    ],
    "youtube_ids": [],
@@ -323449,14 +323867,16 @@ window.CATALOG = {
     "agegap-marriage",
     "mom-pregnancy",
     "kids-pregnant-again",
-    "widow-remarry"
+    "widow-remarry",
+    "remarried-announce-nov25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1563",
     "agegap-marriage:13",
     "mom-pregnancy:62",
     "kids-pregnant-again:14",
-    "widow-remarry:7"
+    "widow-remarry:7",
+    "remarried-announce-nov25:13"
    ],
    "index_only": false,
    "local_only": false,
@@ -323694,6 +324114,48 @@ window.CATALOG = {
      "adult": "yes",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "remarried-announce-nov25:13",
+     "source": "remarried-announce-nov25",
+     "label": "Modern Family (2009–2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Modern Family",
+     "subtitle": "",
+     "year": "2009–2020",
+     "meta": "Sitcom · United States · English · ABC",
+     "summary": "On Jay's 65th birthday, Gloria — worried Jay won't welcome a baby — tells her son Manny she is pregnant. Manny, after Luke suggests Jay will love his \"real son\" more, fears being replaced; a misunderstanding makes Manny accidentally reveal the baby to the family, and Jay turns out to be elated.",
+     "character": "Gloria Delgado-Pritchett (Sofía Vergara), Jay Pritchett (Ed O'Neill); Gloria's son Manny (Rico Rodriguez)",
+     "note": "Announced by the mother (Gloria) to her son Manny before her husband; Manny worries about being replaced and later writes a poem for the sibling. Adds the announcement episode to the existing card.",
+     "mechanism": "",
+     "confidence_flag": "high",
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — Bringing Up Baby (Modern Family)",
+       "url": "https://en.wikipedia.org/wiki/Bringing_Up_Baby_(Modern_Family)"
+      },
+      {
+       "label": "TV Source Magazine — season premiere recap",
+       "url": "https://tvsourcemagazine.com/2012/09/3042-modern-family-season-premiere-recap-bringing-up-baby/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S4E1 “Bringing Up Baby” (26 Sep 2012)",
+       "air_date": "2012-09-26",
+       "gist": "Gloria tells Manny she is pregnant; Manny's worries; accidental reveal (Wikipedia, TV Source Magazine).",
+       "number_verified": true
+      }
+     ],
+     "evidence": "2 independent sources.",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -323856,6 +324318,42 @@ window.CATALOG = {
       }
      ],
      "milestones_note": "Pregnancy milestones (reveal / checkup / shower / birth): checkup not found; the S4E8 baby shower is for Sal, not Gloria"
+    },
+    "remarried-announce-nov25:13": {
+     "title": "Modern Family",
+     "match_title": "Modern Family",
+     "match_year": "2009–2020",
+     "year": "2009–2020",
+     "format": "tv",
+     "meta": "Sitcom · United States · English · ABC",
+     "summary": "On Jay's 65th birthday, Gloria — worried Jay won't welcome a baby — tells her son Manny she is pregnant. Manny, after Luke suggests Jay will love his \"real son\" more, fears being replaced; a misunderstanding makes Manny accidentally reveal the baby to the family, and Jay turns out to be elated.",
+     "character": "Gloria Delgado-Pritchett (Sofía Vergara), Jay Pritchett (Ed O'Neill); Gloria's son Manny (Rico Rodriguez)",
+     "note": "Announced by the mother (Gloria) to her son Manny before her husband; Manny worries about being replaced and later writes a poem for the sibling. Adds the announcement episode to the existing card.",
+     "episodes": [
+      {
+       "episode": "S4E1 “Bringing Up Baby” (26 Sep 2012)",
+       "air_date": "2012-09-26",
+       "gist": "Gloria tells Manny she is pregnant; Manny's worries; accidental reveal (Wikipedia, TV Source Magazine).",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — Bringing Up Baby (Modern Family)",
+       "url": "https://en.wikipedia.org/wiki/Bringing_Up_Baby_(Modern_Family)"
+      },
+      {
+       "label": "TV Source Magazine — season premiere recap",
+       "url": "https://tvsourcemagazine.com/2012/09/3042-modern-family-season-premiere-recap-bringing-up-baby/"
+      }
+     ],
+     "evidence": "2 independent sources.",
+     "confidence_flag": "high",
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
     },
     "agegap-marriage:13": {
      "title": "Modern Family",
@@ -404379,6 +404877,12 @@ window.CATALOG = {
       "https://en.wikipedia.org/wiki/Weeds_(season_5)",
       "https://www.tvmaze.com/episodes/11550/weeds-5x07-where-the-sidewalk-ends"
      ]
+    },
+    {
+     "episode": "S5E1 “Wonderful Wonderful” (2009)",
+     "air_date": "2009",
+     "gist": "Nancy admits the pregnancy to Silas and Shane (TVOvermind recap; single source for this episode).",
+     "number_verified": true
     }
    ],
    "kids_status": "yes",
@@ -404413,18 +404917,24 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt0439100/"
+    },
+    {
+     "label": "TVOvermind — Weeds 5.01 recap",
+     "url": "https://tvovermind.com/weeds-501-wonderful-wonderful-recap/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "mom-pregnancy",
-    "widow-remarry"
+    "widow-remarry",
+    "remarried-announce-nov25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1952",
     "mom-pregnancy:14",
-    "widow-remarry:9"
+    "widow-remarry:9",
+    "remarried-announce-nov25:16"
    ],
    "index_only": false,
    "local_only": false,
@@ -404587,6 +405097,44 @@ window.CATALOG = {
      "adult": "yes",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "remarried-announce-nov25:16",
+     "source": "remarried-announce-nov25",
+     "label": "Weeds (2008–09)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Weeds",
+     "subtitle": "",
+     "year": "2008–09",
+     "meta": "Dark comedy · United States · English · Showtime, season 5",
+     "summary": "Widowed Nancy, pregnant by Tijuana mayor and cartel boss Esteban, first tells Andy; when her sons Shane and Silas walk in and question her, Nancy admits the pregnancy and it does not go down well — she sends them away to her sister's and a fight breaks out.",
+     "character": "Nancy Botwin (Mary-Louise Parker); sons Silas and Shane; Esteban Reyes",
+     "note": "The widowed mother admits the pregnancy by her new partner to her sons after they ask; they react badly. Episode single-sourced (TVOvermind recap). Adds the announcement episode to the existing card.",
+     "mechanism": "",
+     "confidence_flag": "medium",
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "TVOvermind — Weeds 5.01 recap",
+       "url": "https://tvovermind.com/weeds-501-wonderful-wonderful-recap/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S5E1 “Wonderful Wonderful” (2009)",
+       "air_date": "2009",
+       "gist": "Nancy admits the pregnancy to Silas and Shane (TVOvermind recap; single source for this episode).",
+       "number_verified": true
+      }
+     ],
+     "evidence": "Episode single-sourced; title already on site with independent sources.",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -404725,6 +405273,38 @@ window.CATALOG = {
       }
      ],
      "milestones_note": "Pregnancy milestones (reveal / checkup / shower / birth): shower not found"
+    },
+    "remarried-announce-nov25:16": {
+     "title": "Weeds",
+     "match_title": "Weeds",
+     "match_year": "2008–09",
+     "year": "2008–09",
+     "format": "tv",
+     "meta": "Dark comedy · United States · English · Showtime, season 5",
+     "summary": "Widowed Nancy, pregnant by Tijuana mayor and cartel boss Esteban, first tells Andy; when her sons Shane and Silas walk in and question her, Nancy admits the pregnancy and it does not go down well — she sends them away to her sister's and a fight breaks out.",
+     "character": "Nancy Botwin (Mary-Louise Parker); sons Silas and Shane; Esteban Reyes",
+     "note": "The widowed mother admits the pregnancy by her new partner to her sons after they ask; they react badly. Episode single-sourced (TVOvermind recap). Adds the announcement episode to the existing card.",
+     "episodes": [
+      {
+       "episode": "S5E1 “Wonderful Wonderful” (2009)",
+       "air_date": "2009",
+       "gist": "Nancy admits the pregnancy to Silas and Shane (TVOvermind recap; single source for this episode).",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "TVOvermind — Weeds 5.01 recap",
+       "url": "https://tvovermind.com/weeds-501-wonderful-wonderful-recap/"
+      }
+     ],
+     "evidence": "Episode single-sourced; title already on site with independent sources.",
+     "confidence_flag": "medium",
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
     }
    }
   },
@@ -452846,6 +453426,14 @@ window.CATALOG = {
    "character": "Carol Foster (Suzanne Somers) and stepfather Frank Lambert (Patrick Duffy)",
    "provenance": "Stepfamily / new-partner pregnancy pass, 7 Nov 2026 PT (adults only, non-explicit plot notes; user request t25u)",
    "note": "",
+   "episodes": [
+    {
+     "episode": "S4E8 “Beyond Therapy” (11 Nov 1994)",
+     "air_date": "1994-11-11",
+     "gist": "Frank and Carol announce the baby; the kids are unhappy; family therapy follows (TVmaze; IMDb season 4 episode list).",
+     "number_verified": true
+    }
+   ],
    "kids_status": "yes",
    "kids_note": "Lilly (new couple), plus 6 children combined",
    "married": "yes",
@@ -452869,20 +453457,114 @@ window.CATALOG = {
     {
      "label": "TheTVDB S4 finale",
      "url": "https://www.thetvdb.com/series/step-by-step/episodes/182904"
+    },
+    {
+     "label": "TVmaze — Step by Step 4x08 Beyond Therapy",
+     "url": "https://www.tvmaze.com/episodes/165460/step-by-step-4x08-beyond-therapy"
+    },
+    {
+     "label": "IMDb — Step by Step season 4 episodes",
+     "url": "https://www.imdb.com/title/tt0101205/episodes/?season=4"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "stepfamily-pregnancy-nov7"
+    "stepfamily-pregnancy-nov7",
+    "remarried-announce-nov25"
    ],
    "source_records": [
-    "stepfamily-pregnancy-nov7:2"
+    "stepfamily-pregnancy-nov7:2",
+    "remarried-announce-nov25:12"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "stepfamily-pregnancy-nov7:2",
+    "source": "stepfamily-pregnancy-nov7",
+    "label": "Step by Step (1991–1998)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Step by Step",
+    "subtitle": "",
+    "year": "1991–1998",
+    "meta": "Sitcom · United States · English",
+    "summary": "Widowed mother of three Carol Foster marries divorced father of three Frank Lambert, blending the families. In season 4 Carol is pregnant with Frank's child; in the season finale \"A Foster/Lambert Production\" (May 1995) daughter Lilly is born.",
+    "character": "Carol Foster (Suzanne Somers) and stepfather Frank Lambert (Patrick Duffy)",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "EXACT FIT · High · Wikipedia episode list + TheTVDB + fan wiki",
+    "categories": [
+     "widow-divorcee-remarry-pregnant",
+     "family"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia episode list",
+      "url": "https://en.wikipedia.org/wiki/List_of_Step_by_Step_episodes"
+     },
+     {
+      "label": "TheTVDB S4 finale",
+      "url": "https://www.thetvdb.com/series/step-by-step/episodes/182904"
+     }
+    ],
+    "kids_status": "yes",
+    "kids_note": "Lilly (new couple), plus 6 children combined",
+    "married": "yes",
+    "pregnant_end": "no",
+    "pregnant_end_note": "Lilly Foster-Lambert born in S4 finale",
+    "evidence": "Wikipedia episode list, TheTVDB S4 finale",
+    "adult": "no",
+    "existing_kids": "3",
+    "pregnancy_again": "birth",
+    "pregnancy_again_note": "Lilly Foster-Lambert born in S4 finale",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "remarried-announce-nov25:12",
+     "source": "remarried-announce-nov25",
+     "label": "Step by Step (1991–1998)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Step by Step",
+     "subtitle": "",
+     "year": "1991–1998",
+     "meta": "Sitcom · United States · English",
+     "summary": "Frank and Carol announce to their blended family that they are having a baby; the kids are underwhelmed and unhappy, so Carol insists they all go to family therapy.",
+     "character": "Carol Foster Lambert (Suzanne Somers) and Frank Lambert (Patrick Duffy); children Dana, Karen, Mark, J.T., Al and Brendan",
+     "note": "Announced by both parents to all six children; the kids react poorly. Adds the announcement episode to the existing card.",
+     "mechanism": "",
+     "confidence_flag": "high",
+     "categories": [
+      "widow-divorcee-remarry-pregnant",
+      "family"
+     ],
+     "sources": [
+      {
+       "label": "TVmaze — Step by Step 4x08 Beyond Therapy",
+       "url": "https://www.tvmaze.com/episodes/165460/step-by-step-4x08-beyond-therapy"
+      },
+      {
+       "label": "IMDb — Step by Step season 4 episodes",
+       "url": "https://www.imdb.com/title/tt0101205/episodes/?season=4"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S4E8 “Beyond Therapy” (11 Nov 1994)",
+       "air_date": "1994-11-11",
+       "gist": "Frank and Carol announce the baby; the kids are unhappy; family therapy follows (TVmaze; IMDb season 4 episode list).",
+       "number_verified": true
+      }
+     ],
+     "evidence": "Episode synopsis fetched from TVmaze; IMDb episode list as second listing.",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "stepfamily-pregnancy-nov7:2": {
      "title": "Step by Step",
@@ -452920,6 +453602,42 @@ window.CATALOG = {
      "married": "yes",
      "match_title": "Step by Step",
      "match_year": "1991–1998"
+    },
+    "remarried-announce-nov25:12": {
+     "title": "Step by Step",
+     "match_title": "Step by Step",
+     "match_year": "1991–1998",
+     "year": "1991–1998",
+     "format": "tv",
+     "meta": "Sitcom · United States · English",
+     "summary": "Frank and Carol announce to their blended family that they are having a baby; the kids are underwhelmed and unhappy, so Carol insists they all go to family therapy.",
+     "character": "Carol Foster Lambert (Suzanne Somers) and Frank Lambert (Patrick Duffy); children Dana, Karen, Mark, J.T., Al and Brendan",
+     "note": "Announced by both parents to all six children; the kids react poorly. Adds the announcement episode to the existing card.",
+     "episodes": [
+      {
+       "episode": "S4E8 “Beyond Therapy” (11 Nov 1994)",
+       "air_date": "1994-11-11",
+       "gist": "Frank and Carol announce the baby; the kids are unhappy; family therapy follows (TVmaze; IMDb season 4 episode list).",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "TVmaze — Step by Step 4x08 Beyond Therapy",
+       "url": "https://www.tvmaze.com/episodes/165460/step-by-step-4x08-beyond-therapy"
+      },
+      {
+       "label": "IMDb — Step by Step season 4 episodes",
+       "url": "https://www.imdb.com/title/tt0101205/episodes/?season=4"
+      }
+     ],
+     "evidence": "Episode synopsis fetched from TVmaze; IMDb episode list as second listing.",
+     "confidence_flag": "high",
+     "categories": [
+      "widow-divorcee-remarry-pregnant",
+      "family"
+     ],
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
     }
    }
   },
@@ -453024,6 +453742,14 @@ window.CATALOG = {
    "character": "Judith Harper-Melnick (Marin Hinkle) and stepfather Herb Melnick",
    "provenance": "Stepfamily / new-partner pregnancy pass, 7 Nov 2026 PT (adults only, non-explicit plot notes; user request t25u)",
    "note": "",
+   "episodes": [
+    {
+     "episode": "S6E7 “Best H.O. Money Can Buy” (2008)",
+     "air_date": "2008",
+     "gist": "Jake announces Judith's pregnancy (TV Fanatic recap; Scraps from the Loft transcript).",
+     "number_verified": true
+    }
+   ],
    "kids_status": "yes",
    "kids_note": "Milly — father Herb or Alan, never confirmed",
    "married": "yes",
@@ -453047,20 +453773,114 @@ window.CATALOG = {
     {
      "label": "Two and a Half Men wiki — Milly",
      "url": "https://twoandahalfmen.fandom.com/wiki/Milly_Melnick"
+    },
+    {
+     "label": "TV Fanatic — S6E7 recap",
+     "url": "https://www.tvfanatic.com/two-and-a-half-men-season-6-episode-7-recap-best-h-o-money-can-buy/"
+    },
+    {
+     "label": "Scraps from the Loft — S6E7 transcript",
+     "url": "https://scrapsfromtheloft.com/tv-series/two-and-a-half-men-s06e07-best-h-o-money-can-buy-transcript/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "stepfamily-pregnancy-nov7"
+    "stepfamily-pregnancy-nov7",
+    "remarried-announce-nov25"
    ],
    "source_records": [
-    "stepfamily-pregnancy-nov7:4"
+    "stepfamily-pregnancy-nov7:4",
+    "remarried-announce-nov25:15"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "stepfamily-pregnancy-nov7:4",
+    "source": "stepfamily-pregnancy-nov7",
+    "label": "Two and a Half Men (2008–2009 (season 6))",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Two and a Half Men",
+    "subtitle": "",
+    "year": "2008–2009 (season 6)",
+    "meta": "Sitcom · United States · English",
+    "summary": "Judith, mother of Jake from her marriage to Alan, remarries pediatrician Herb Melnick, Jake's stepfather. In season 6 she becomes pregnant after reconciling with Herb (but also slept with Alan), and gives birth to Milly in the season finale; paternity is never resolved.",
+    "character": "Judith Harper-Melnick (Marin Hinkle) and stepfather Herb Melnick",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "LOOSE FIT (paternity unresolved) · Medium · fan wiki",
+    "categories": [
+     "widow-divorcee-remarry-pregnant",
+     "family"
+    ],
+    "sources": [
+     {
+      "label": "Two and a Half Men wiki — Judith",
+      "url": "https://twoandahalfmen.fandom.com/wiki/Judith_Harper-Melnick"
+     },
+     {
+      "label": "Two and a Half Men wiki — Milly",
+      "url": "https://twoandahalfmen.fandom.com/wiki/Milly_Melnick"
+     }
+    ],
+    "kids_status": "yes",
+    "kids_note": "Milly — father Herb or Alan, never confirmed",
+    "married": "yes",
+    "pregnant_end": "no",
+    "pregnant_end_note": "Milly born in S6 finale",
+    "evidence": "Two and a Half Men wiki — Judith, Two and a Half Men wiki — Milly",
+    "adult": "no",
+    "existing_kids": "1",
+    "pregnancy_again": "birth",
+    "pregnancy_again_note": "Milly born in S6 finale",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "remarried-announce-nov25:15",
+     "source": "remarried-announce-nov25",
+     "label": "Two and a Half Men (2008–2009 (season 6))",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Two and a Half Men",
+     "subtitle": "",
+     "year": "2008–2009 (season 6)",
+     "meta": "Sitcom · United States · English · CBS, season 6",
+     "summary": "Six weeks after reconciling, Judith and her husband Herb bring Jake home and have him tell his father Alan the news: \"I'm gonna have a little brother or sister.\" Judith confirms she and Herb are having a baby, and Alan, who had recently slept with Judith, sits down to do the maths.",
+     "character": "Judith Melnick (Marin Hinkle) and husband Herb Melnick (Ryan Stiles); son Jake (Angus T. Jones); ex-husband Alan (Jon Cryer)",
+     "note": "The remarried mother and stepfather told son Jake first and had him announce it to his father. Adds the announcement episode to the existing card.",
+     "mechanism": "",
+     "confidence_flag": "high",
+     "categories": [
+      "widow-divorcee-remarry-pregnant",
+      "family"
+     ],
+     "sources": [
+      {
+       "label": "TV Fanatic — S6E7 recap",
+       "url": "https://www.tvfanatic.com/two-and-a-half-men-season-6-episode-7-recap-best-h-o-money-can-buy/"
+      },
+      {
+       "label": "Scraps from the Loft — S6E7 transcript",
+       "url": "https://scrapsfromtheloft.com/tv-series/two-and-a-half-men-s06e07-best-h-o-money-can-buy-transcript/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S6E7 “Best H.O. Money Can Buy” (2008)",
+       "air_date": "2008",
+       "gist": "Jake announces Judith's pregnancy (TV Fanatic recap; Scraps from the Loft transcript).",
+       "number_verified": true
+      }
+     ],
+     "evidence": "2 independent sources.",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "stepfamily-pregnancy-nov7:4": {
      "title": "Two and a Half Men",
@@ -453098,6 +453918,42 @@ window.CATALOG = {
      "married": "yes",
      "match_title": "Two and a Half Men",
      "match_year": "2008–2009 (season 6)"
+    },
+    "remarried-announce-nov25:15": {
+     "title": "Two and a Half Men",
+     "match_title": "Two and a Half Men",
+     "match_year": "2008–2009 (season 6)",
+     "year": "2008–2009 (season 6)",
+     "format": "tv",
+     "meta": "Sitcom · United States · English · CBS, season 6",
+     "summary": "Six weeks after reconciling, Judith and her husband Herb bring Jake home and have him tell his father Alan the news: \"I'm gonna have a little brother or sister.\" Judith confirms she and Herb are having a baby, and Alan, who had recently slept with Judith, sits down to do the maths.",
+     "character": "Judith Melnick (Marin Hinkle) and husband Herb Melnick (Ryan Stiles); son Jake (Angus T. Jones); ex-husband Alan (Jon Cryer)",
+     "note": "The remarried mother and stepfather told son Jake first and had him announce it to his father. Adds the announcement episode to the existing card.",
+     "episodes": [
+      {
+       "episode": "S6E7 “Best H.O. Money Can Buy” (2008)",
+       "air_date": "2008",
+       "gist": "Jake announces Judith's pregnancy (TV Fanatic recap; Scraps from the Loft transcript).",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "TV Fanatic — S6E7 recap",
+       "url": "https://www.tvfanatic.com/two-and-a-half-men-season-6-episode-7-recap-best-h-o-money-can-buy/"
+      },
+      {
+       "label": "Scraps from the Loft — S6E7 transcript",
+       "url": "https://scrapsfromtheloft.com/tv-series/two-and-a-half-men-s06e07-best-h-o-money-can-buy-transcript/"
+      }
+     ],
+     "evidence": "2 independent sources.",
+     "confidence_flag": "high",
+     "categories": [
+      "widow-divorcee-remarry-pregnant",
+      "family"
+     ],
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
     }
    }
   },
@@ -613670,6 +614526,1198 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 4184,
+   "title": "Reba",
+   "subtitle": "",
+   "year": "2001–2007",
+   "meta": "Sitcom · United States · English · The WB / CW",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "Divorcing dentist Brock leaves Reba for his pregnant dental hygienist Barbra Jean. In the pilot, during court-ordered family therapy, he tells Reba and the three children that he has to marry Barbra Jean because she is pregnant; Kyra blurts out \"Barbra Jean's pregnant!\" and Cheyenne shouts \"Dad! How could you!?\". Barbra Jean's water breaks in S1E19 and son Henry is born.",
+   "character": "Brock Hart (Christopher Rich) and his pregnant girlfriend, later wife, Barbra Jean (Melissa Peterman); children Cheyenne, Kyra and Jake",
+   "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)",
+   "note": "Announced by the father (Brock) to his children Cheyenne, Kyra and Jake; Cheyenne is angry, Kyra later asks what she has to call Barbra Jean. Pregnant: the dad's new partner.",
+   "pregnancy_outcome": "Birth (Henry)",
+   "episodes": [
+    {
+     "episode": "S1E1 “Pilot” (5 Oct 2001)",
+     "air_date": "2001-10-05",
+     "gist": "Brock tells the family he has to marry Barbra Jean because she is pregnant; the kids react angrily (Reba fan wiki, IMDb plot, TV Quotes, TVmaze).",
+     "number_verified": true
+    },
+    {
+     "episode": "S1E19 “Labor of Love” (26 Apr 2002)",
+     "air_date": "2002-04-26",
+     "gist": "Barbra Jean's water breaks and the baby arrives (TVmaze; FunTrivia season quiz names the baby Henry).",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "yes",
+   "kids_note": "Brock already has three children with Reba (Cheyenne, Kyra, Jake). No prior children for Barbra Jean are mentioned in the cited sources.",
+   "kids_together": "yes",
+   "kids_together_note": "Son Henry, born S1E19.",
+   "married": "yes",
+   "married_note": "Brock says in the pilot he has to marry Barbra Jean; she is credited as Barbra Jean Booker Hart (TVmaze).",
+   "pregnant_end": "no",
+   "evidence": "4 independent sources for the announcement; birth episode on TVmaze + FunTrivia.",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "stepmom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Reba fan wiki — Pilot",
+     "url": "https://reba.fandom.com/wiki/Pilot"
+    },
+    {
+     "label": "IMDb — Pilot plot",
+     "url": "https://www.imdb.com/title/tt0683901/plotsummary/"
+    },
+    {
+     "label": "TV Quotes — “Barbra Jean's pregnant!”",
+     "url": "https://www.tv-quotes.com/shows/reba/quote_33282.html"
+    },
+    {
+     "label": "TVmaze — Reba 1x01 Pilot",
+     "url": "https://www.tvmaze.com/episodes/91615/reba-1x01-pilot"
+    },
+    {
+     "label": "TVmaze — Reba 1x19 Labor of Love",
+     "url": "https://www.tvmaze.com/episodes/91633/reba-1x19-labor-of-love"
+    },
+    {
+     "label": "FunTrivia — Reba season one quiz",
+     "url": "https://www.funtrivia.com/trivia-quiz/Television/Reba-Season-One-252192.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "remarried-announce-nov25"
+   ],
+   "source_records": [
+    "remarried-announce-nov25:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "remarried-announce-nov25:1": {
+     "title": "Reba",
+     "year": "2001–2007",
+     "format": "tv",
+     "meta": "Sitcom · United States · English · The WB / CW",
+     "character": "Brock Hart (Christopher Rich) and his pregnant girlfriend, later wife, Barbra Jean (Melissa Peterman); children Cheyenne, Kyra and Jake",
+     "summary": "Divorcing dentist Brock leaves Reba for his pregnant dental hygienist Barbra Jean. In the pilot, during court-ordered family therapy, he tells Reba and the three children that he has to marry Barbra Jean because she is pregnant; Kyra blurts out \"Barbra Jean's pregnant!\" and Cheyenne shouts \"Dad! How could you!?\". Barbra Jean's water breaks in S1E19 and son Henry is born.",
+     "note": "Announced by the father (Brock) to his children Cheyenne, Kyra and Jake; Cheyenne is angry, Kyra later asks what she has to call Barbra Jean. Pregnant: the dad's new partner.",
+     "episodes": [
+      {
+       "episode": "S1E1 “Pilot” (5 Oct 2001)",
+       "air_date": "2001-10-05",
+       "gist": "Brock tells the family he has to marry Barbra Jean because she is pregnant; the kids react angrily (Reba fan wiki, IMDb plot, TV Quotes, TVmaze).",
+       "number_verified": true
+      },
+      {
+       "episode": "S1E19 “Labor of Love” (26 Apr 2002)",
+       "air_date": "2002-04-26",
+       "gist": "Barbra Jean's water breaks and the baby arrives (TVmaze; FunTrivia season quiz names the baby Henry).",
+       "number_verified": true
+      }
+     ],
+     "kids_together": "yes",
+     "kids_together_note": "Son Henry, born S1E19.",
+     "kids_status": "yes",
+     "kids_note": "Brock already has three children with Reba (Cheyenne, Kyra, Jake). No prior children for Barbra Jean are mentioned in the cited sources.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Birth (Henry)",
+     "married": "yes",
+     "married_note": "Brock says in the pilot he has to marry Barbra Jean; she is credited as Barbra Jean Booker Hart (TVmaze).",
+     "sources": [
+      {
+       "label": "Reba fan wiki — Pilot",
+       "url": "https://reba.fandom.com/wiki/Pilot"
+      },
+      {
+       "label": "IMDb — Pilot plot",
+       "url": "https://www.imdb.com/title/tt0683901/plotsummary/"
+      },
+      {
+       "label": "TV Quotes — “Barbra Jean's pregnant!”",
+       "url": "https://www.tv-quotes.com/shows/reba/quote_33282.html"
+      },
+      {
+       "label": "TVmaze — Reba 1x01 Pilot",
+       "url": "https://www.tvmaze.com/episodes/91615/reba-1x01-pilot"
+      },
+      {
+       "label": "TVmaze — Reba 1x19 Labor of Love",
+       "url": "https://www.tvmaze.com/episodes/91633/reba-1x19-labor-of-love"
+      },
+      {
+       "label": "FunTrivia — Reba season one quiz",
+       "url": "https://www.funtrivia.com/trivia-quiz/Television/Reba-Season-One-252192.html"
+      }
+     ],
+     "evidence": "4 independent sources for the announcement; birth episode on TVmaze + FunTrivia.",
+     "confidence_flag": "high",
+     "categories": [
+      "stepmom-pregnancy"
+     ],
+     "adult": "no",
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
+    }
+   }
+  },
+  {
+   "id": 4185,
+   "title": "Degrassi: The Next Generation",
+   "subtitle": "",
+   "year": "2003",
+   "meta": "Teen drama · Canada · English · CTV, season 2–3",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "Days before her wedding to Snake, Spike learns she is pregnant and, after Snake says he isn't ready for a child, considers ending the pregnancy without telling him. Her daughter Emma finds out, argues with her and tells Snake herself at his bachelor party. Spike and Snake reconcile, marry the same day and keep the baby; son Jack is later born at home.",
+   "character": "Christine “Spike” Nelson (Amanda Stepto), single mother of Emma; fiancé, then husband, Archie “Snake” Simpson (Stefan Brogren)",
+   "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)",
+   "note": "The kid (Emma) learns of the pregnancy before the new partner and tells him; Emma strongly objects to a termination. Pregnant: the mom.",
+   "pregnancy_outcome": "Birth (Jack)",
+   "episodes": [
+    {
+     "episode": "S2E12–13 “White Wedding” Parts 1–2 (Jan 2003)",
+     "air_date": "2003-01",
+     "gist": "Spike finds out she is pregnant; Emma tells Snake; the couple marry (IMDb, TheTVDB, Degrassi fan wiki, episode review blog). Air date conflict: TheTVDB 5 Jan 2003, IMDb 6 Jan 2003.",
+     "number_verified": true
+    },
+    {
+     "episode": "Season 3 — birth of Jack (episode unconfirmed)",
+     "air_date": "",
+     "gist": "Spike delivers son Jack at home (Degrassi fan wiki, Jack Simpson and Archie Simpson pages); episode number not confirmed by a second source.",
+     "number_verified": false
+    }
+   ],
+   "kids_status": "yes",
+   "kids_note": "Spike already has daughter Emma (father Shane McKay). Snake has no prior children in the cited sources.",
+   "kids_together": "yes",
+   "kids_together_note": "Son Jack Simpson.",
+   "married": "yes",
+   "married_note": "Spike and Snake marry in “White Wedding”.",
+   "pregnant_end": "no",
+   "evidence": "Pregnancy and Emma's role confirmed by 4 sources; birth by fan wiki only.",
+   "source_conflict": "Part 1 air date: 5 Jan 2003 (TheTVDB) vs 6 Jan 2003 (IMDb).",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "family",
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "IMDb — White Wedding: Part 1",
+     "url": "https://www.imdb.com/title/tt0557419/"
+    },
+    {
+     "label": "TheTVDB — White Wedding (1)",
+     "url": "https://www.thetvdb.com/series/degrassi/episodes/255933"
+    },
+    {
+     "label": "Degrassi fan wiki — Archie Simpson",
+     "url": "https://degrassi.fandom.com/wiki/Archie_Simpson"
+    },
+    {
+     "label": "Degrassi fan wiki — Jack Simpson",
+     "url": "https://degrassi.fandom.com/wiki/Jack_Simpson"
+    },
+    {
+     "label": "Degrassi TNG Reviewed — White Wedding Part 2",
+     "url": "https://degrassithenextgenerationreviewed.wordpress.com/2016/01/15/season-2-episode-13-white-wedding-part-2/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "remarried-announce-nov25"
+   ],
+   "source_records": [
+    "remarried-announce-nov25:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "remarried-announce-nov25:2": {
+     "title": "Degrassi: The Next Generation",
+     "year": "2003",
+     "format": "tv",
+     "meta": "Teen drama · Canada · English · CTV, season 2–3",
+     "character": "Christine “Spike” Nelson (Amanda Stepto), single mother of Emma; fiancé, then husband, Archie “Snake” Simpson (Stefan Brogren)",
+     "summary": "Days before her wedding to Snake, Spike learns she is pregnant and, after Snake says he isn't ready for a child, considers ending the pregnancy without telling him. Her daughter Emma finds out, argues with her and tells Snake herself at his bachelor party. Spike and Snake reconcile, marry the same day and keep the baby; son Jack is later born at home.",
+     "note": "The kid (Emma) learns of the pregnancy before the new partner and tells him; Emma strongly objects to a termination. Pregnant: the mom.",
+     "episodes": [
+      {
+       "episode": "S2E12–13 “White Wedding” Parts 1–2 (Jan 2003)",
+       "air_date": "2003-01",
+       "gist": "Spike finds out she is pregnant; Emma tells Snake; the couple marry (IMDb, TheTVDB, Degrassi fan wiki, episode review blog). Air date conflict: TheTVDB 5 Jan 2003, IMDb 6 Jan 2003.",
+       "number_verified": true
+      },
+      {
+       "episode": "Season 3 — birth of Jack (episode unconfirmed)",
+       "air_date": "",
+       "gist": "Spike delivers son Jack at home (Degrassi fan wiki, Jack Simpson and Archie Simpson pages); episode number not confirmed by a second source.",
+       "number_verified": false
+      }
+     ],
+     "kids_together": "yes",
+     "kids_together_note": "Son Jack Simpson.",
+     "kids_status": "yes",
+     "kids_note": "Spike already has daughter Emma (father Shane McKay). Snake has no prior children in the cited sources.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Birth (Jack)",
+     "married": "yes",
+     "married_note": "Spike and Snake marry in “White Wedding”.",
+     "source_conflict": "Part 1 air date: 5 Jan 2003 (TheTVDB) vs 6 Jan 2003 (IMDb).",
+     "sources": [
+      {
+       "label": "IMDb — White Wedding: Part 1",
+       "url": "https://www.imdb.com/title/tt0557419/"
+      },
+      {
+       "label": "TheTVDB — White Wedding (1)",
+       "url": "https://www.thetvdb.com/series/degrassi/episodes/255933"
+      },
+      {
+       "label": "Degrassi fan wiki — Archie Simpson",
+       "url": "https://degrassi.fandom.com/wiki/Archie_Simpson"
+      },
+      {
+       "label": "Degrassi fan wiki — Jack Simpson",
+       "url": "https://degrassi.fandom.com/wiki/Jack_Simpson"
+      },
+      {
+       "label": "Degrassi TNG Reviewed — White Wedding Part 2",
+       "url": "https://degrassithenextgenerationreviewed.wordpress.com/2016/01/15/season-2-episode-13-white-wedding-part-2/"
+      }
+     ],
+     "evidence": "Pregnancy and Emma's role confirmed by 4 sources; birth by fan wiki only.",
+     "confidence_flag": "high",
+     "categories": [
+      "family",
+      "mom-pregnancy"
+     ],
+     "adult": "no",
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
+    }
+   }
+  },
+  {
+   "id": 4186,
+   "title": "Domestic Disturbance",
+   "subtitle": "",
+   "year": "2001",
+   "meta": "Thriller film · United States · English · Paramount",
+   "mechanism": "",
+   "confidence_flag": "high",
+   "summary": "Recently divorced Susan marries wealthy newcomer Rick. When Susan announces that she and Rick are expecting a baby, her 12-year-old son Danny, already unhappy about the remarriage and afraid the baby will change her feelings toward him, stows away in Rick's SUV and witnesses Rick commit a murder. In the climax Rick attacks Susan and she suffers a miscarriage.",
+   "character": "Susan Morrison (Teri Polo), divorced mother; new husband Rick Barnes (Vince Vaughn); son Danny (Matt O'Leary)",
+   "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)",
+   "note": "Announced by the mother (Susan) to her son Danny; Danny reacts by running off to reach his father. Pregnant: the mom.",
+   "pregnancy_outcome": "Miscarriage",
+   "kids_status": "yes",
+   "kids_note": "Susan has son Danny with ex-husband Frank. Rick has no children in the cited sources.",
+   "kids_together": "no",
+   "kids_together_note": "Susan miscarries after Rick attacks her.",
+   "married": "yes",
+   "married_note": "Susan marries Rick at the start of the film.",
+   "pregnant_end": "no",
+   "evidence": "Announcement + son's reaction: Wikipedia, Plugged In, IMDb; miscarriage: Wikipedia, RogerEbert.com.",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "family",
+    "widow-divorcee-remarry-pregnant",
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Domestic Disturbance",
+     "url": "https://en.wikipedia.org/wiki/Domestic_Disturbance"
+    },
+    {
+     "label": "Plugged In review (“Susan announces that she and her new husband, Rick, are expecting”)",
+     "url": "https://www.pluggedin.com/movie-reviews/domesticdisturbance/"
+    },
+    {
+     "label": "IMDb — plot",
+     "url": "https://www.imdb.com/title/tt0249478/plotsummary/"
+    },
+    {
+     "label": "Variety review",
+     "url": "https://variety.com/2001/film/reviews/domestic-disturbance-1200553099/"
+    },
+    {
+     "label": "RogerEbert.com review (miscarriage)",
+     "url": "https://www.rogerebert.com/reviews/domestic-disturbance-2001"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "remarried-announce-nov25"
+   ],
+   "source_records": [
+    "remarried-announce-nov25:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "remarried-announce-nov25:3": {
+     "title": "Domestic Disturbance",
+     "year": "2001",
+     "format": "movie",
+     "meta": "Thriller film · United States · English · Paramount",
+     "character": "Susan Morrison (Teri Polo), divorced mother; new husband Rick Barnes (Vince Vaughn); son Danny (Matt O'Leary)",
+     "summary": "Recently divorced Susan marries wealthy newcomer Rick. When Susan announces that she and Rick are expecting a baby, her 12-year-old son Danny, already unhappy about the remarriage and afraid the baby will change her feelings toward him, stows away in Rick's SUV and witnesses Rick commit a murder. In the climax Rick attacks Susan and she suffers a miscarriage.",
+     "note": "Announced by the mother (Susan) to her son Danny; Danny reacts by running off to reach his father. Pregnant: the mom.",
+     "kids_together": "no",
+     "kids_together_note": "Susan miscarries after Rick attacks her.",
+     "kids_status": "yes",
+     "kids_note": "Susan has son Danny with ex-husband Frank. Rick has no children in the cited sources.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Miscarriage",
+     "married": "yes",
+     "married_note": "Susan marries Rick at the start of the film.",
+     "sources": [
+      {
+       "label": "Wikipedia — Domestic Disturbance",
+       "url": "https://en.wikipedia.org/wiki/Domestic_Disturbance"
+      },
+      {
+       "label": "Plugged In review (“Susan announces that she and her new husband, Rick, are expecting”)",
+       "url": "https://www.pluggedin.com/movie-reviews/domesticdisturbance/"
+      },
+      {
+       "label": "IMDb — plot",
+       "url": "https://www.imdb.com/title/tt0249478/plotsummary/"
+      },
+      {
+       "label": "Variety review",
+       "url": "https://variety.com/2001/film/reviews/domestic-disturbance-1200553099/"
+      },
+      {
+       "label": "RogerEbert.com review (miscarriage)",
+       "url": "https://www.rogerebert.com/reviews/domestic-disturbance-2001"
+      }
+     ],
+     "evidence": "Announcement + son's reaction: Wikipedia, Plugged In, IMDb; miscarriage: Wikipedia, RogerEbert.com.",
+     "confidence_flag": "high",
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant",
+      "mom-pregnancy"
+     ],
+     "adult": "no",
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
+    }
+   }
+  },
+  {
+   "id": 4187,
+   "title": "Ginny & Georgia",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Drama · United States · English · Netflix, season 3",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "Earlier in season 3 Georgia tells Ginny that when she was pregnant she craved milk straight from the carton. In the season 3 finale Georgia, still legally married to Paul, walks through the kitchen drinking milk from the carton; Ginny asks whether she said she drinks milk when pregnant, and Georgia's reaction confirms she is pregnant. The father may be Paul or Joe.",
+   "character": "Georgia Miller (Brianne Howey), married to Mayor Paul Randolph; daughter Ginny (Antonia Gentry)",
+   "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)",
+   "note": "Not a spoken announcement: the daughter (Ginny) works it out and the mother's face confirms it. Pregnant: the mom. Father unconfirmed (Paul or Joe).",
+   "pregnancy_outcome": "Still pregnant at season end",
+   "episodes": [
+    {
+     "episode": "S3E10 (season 3 finale, 2025)",
+     "air_date": "2025",
+     "gist": "Ginny realizes her mother is pregnant from the milk craving (Elle, Cosmopolitan).",
+     "number_verified": true
+    }
+   ],
+   "tags": [
+    "kid deduces, not announced"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Georgia already has Ginny and Austin.",
+   "kids_together": "unknown",
+   "kids_together_note": "Cliffhanger; no birth shown; paternity open.",
+   "married": "yes",
+   "married_note": "Married to Paul, though their marriage breaks down in season 3.",
+   "pregnant_end": "yes",
+   "evidence": "2 independent sources for the finale reveal to Ginny.",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "family",
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Elle — Is Georgia pregnant and who is the father?",
+     "url": "https://www.elle.com/culture/movies-tv/a64992310/georgia-pregnant-baby-father-ginny-and-georgia-season-3-explained/"
+    },
+    {
+     "label": "Cosmopolitan — Who is the father of Georgia's baby?",
+     "url": "https://www.cosmopolitan.com/entertainment/tv/a64993089/ginny-and-georgia-who-is-the-father-of-georgia-baby/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "remarried-announce-nov25"
+   ],
+   "source_records": [
+    "remarried-announce-nov25:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "remarried-announce-nov25:4": {
+     "title": "Ginny & Georgia",
+     "year": "2025",
+     "format": "tv",
+     "meta": "Drama · United States · English · Netflix, season 3",
+     "character": "Georgia Miller (Brianne Howey), married to Mayor Paul Randolph; daughter Ginny (Antonia Gentry)",
+     "summary": "Earlier in season 3 Georgia tells Ginny that when she was pregnant she craved milk straight from the carton. In the season 3 finale Georgia, still legally married to Paul, walks through the kitchen drinking milk from the carton; Ginny asks whether she said she drinks milk when pregnant, and Georgia's reaction confirms she is pregnant. The father may be Paul or Joe.",
+     "note": "Not a spoken announcement: the daughter (Ginny) works it out and the mother's face confirms it. Pregnant: the mom. Father unconfirmed (Paul or Joe).",
+     "episodes": [
+      {
+       "episode": "S3E10 (season 3 finale, 2025)",
+       "air_date": "2025",
+       "gist": "Ginny realizes her mother is pregnant from the milk craving (Elle, Cosmopolitan).",
+       "number_verified": true
+      }
+     ],
+     "kids_together": "unknown",
+     "kids_together_note": "Cliffhanger; no birth shown; paternity open.",
+     "kids_status": "yes",
+     "kids_note": "Georgia already has Ginny and Austin.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Still pregnant at season end",
+     "married": "yes",
+     "married_note": "Married to Paul, though their marriage breaks down in season 3.",
+     "sources": [
+      {
+       "label": "Elle — Is Georgia pregnant and who is the father?",
+       "url": "https://www.elle.com/culture/movies-tv/a64992310/georgia-pregnant-baby-father-ginny-and-georgia-season-3-explained/"
+      },
+      {
+       "label": "Cosmopolitan — Who is the father of Georgia's baby?",
+       "url": "https://www.cosmopolitan.com/entertainment/tv/a64993089/ginny-and-georgia-who-is-the-father-of-georgia-baby/"
+      }
+     ],
+     "evidence": "2 independent sources for the finale reveal to Ginny.",
+     "confidence_flag": "medium",
+     "tags": [
+      "kid deduces, not announced"
+     ],
+     "categories": [
+      "family",
+      "mom-pregnancy"
+     ],
+     "adult": "no",
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
+    }
+   }
+  },
+  {
+   "id": 4188,
+   "title": "小敏家 / A Little Mood for Love",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Family drama · China · Mandarin · Hunan TV / Youku, 45 episodes",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "On her 20th birthday Chen Jiajia goes to rest in her mother's room and finds Li Ping's positive pregnancy test; Li Ping, who has remarried, stops hiding it and admits she is pregnant. Jiajia is upset that her mother conceived with her stepfather without telling her and complains to her father, who says it is natural now that Li Ping has a new family.",
+   "character": "Li Ping, Chen Zhuo's ex-wife, now remarried; daughter Chen Jiajia",
+   "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)",
+   "note": "The adult daughter (Jiajia) discovers the test and the mother then confirms; Jiajia is angry. Pregnant: the mom. Outcome not confirmed by a fetched source (one search summary says she miscarries around episode 22 — unverified).",
+   "pregnancy_outcome": "Unconfirmed",
+   "episodes": [
+    {
+     "episode": "Episode 1 (11 Dec 2021 premiere)",
+     "air_date": "2021-12-11",
+     "gist": "Jiajia finds the pregnancy test; Li Ping admits she is pregnant (Newton episode guide; Feelcn article).",
+     "number_verified": true
+    },
+    {
+     "episode": "Episode 22 — possible miscarriage (unconfirmed)",
+     "air_date": "",
+     "gist": "Unconfirmed: a search summary reports a miscarriage after an argument with Jiajia; no fetched page confirmed it.",
+     "number_verified": false
+    }
+   ],
+   "kids_status": "yes",
+   "kids_note": "Li Ping has adult daughter Chen Jiajia with ex-husband Chen Zhuo.",
+   "kids_together": "unknown",
+   "kids_together_note": "Not confirmed in fetched sources.",
+   "married": "yes",
+   "married_note": "Li Ping has remarried (重组了家庭).",
+   "pregnant_end": "unknown",
+   "evidence": "2 independent sources for the discovery and the daughter's reaction; outcome unverified.",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "family",
+    "widow-divorcee-remarry-pregnant",
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Newton wiki — 小敏家 episode guide (ep. 1)",
+     "url": "https://www.newton.com.tw/wiki/%E5%B0%8F%E6%95%8F%E5%AE%B6/23804555"
+    },
+    {
+     "label": "Feelcn — 《小敏家》李萍怀孕陈佳佳生气的原因",
+     "url": "https://www.feelcn.com/article/585715.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "remarried-announce-nov25"
+   ],
+   "source_records": [
+    "remarried-announce-nov25:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "remarried-announce-nov25:5": {
+     "title": "小敏家 / A Little Mood for Love",
+     "year": "2021",
+     "format": "tv",
+     "meta": "Family drama · China · Mandarin · Hunan TV / Youku, 45 episodes",
+     "character": "Li Ping, Chen Zhuo's ex-wife, now remarried; daughter Chen Jiajia",
+     "summary": "On her 20th birthday Chen Jiajia goes to rest in her mother's room and finds Li Ping's positive pregnancy test; Li Ping, who has remarried, stops hiding it and admits she is pregnant. Jiajia is upset that her mother conceived with her stepfather without telling her and complains to her father, who says it is natural now that Li Ping has a new family.",
+     "note": "The adult daughter (Jiajia) discovers the test and the mother then confirms; Jiajia is angry. Pregnant: the mom. Outcome not confirmed by a fetched source (one search summary says she miscarries around episode 22 — unverified).",
+     "episodes": [
+      {
+       "episode": "Episode 1 (11 Dec 2021 premiere)",
+       "air_date": "2021-12-11",
+       "gist": "Jiajia finds the pregnancy test; Li Ping admits she is pregnant (Newton episode guide; Feelcn article).",
+       "number_verified": true
+      },
+      {
+       "episode": "Episode 22 — possible miscarriage (unconfirmed)",
+       "air_date": "",
+       "gist": "Unconfirmed: a search summary reports a miscarriage after an argument with Jiajia; no fetched page confirmed it.",
+       "number_verified": false
+      }
+     ],
+     "kids_together": "unknown",
+     "kids_together_note": "Not confirmed in fetched sources.",
+     "kids_status": "yes",
+     "kids_note": "Li Ping has adult daughter Chen Jiajia with ex-husband Chen Zhuo.",
+     "pregnant_end": "unknown",
+     "pregnancy_outcome": "Unconfirmed",
+     "married": "yes",
+     "married_note": "Li Ping has remarried (重组了家庭).",
+     "sources": [
+      {
+       "label": "Newton wiki — 小敏家 episode guide (ep. 1)",
+       "url": "https://www.newton.com.tw/wiki/%E5%B0%8F%E6%95%8F%E5%AE%B6/23804555"
+      },
+      {
+       "label": "Feelcn — 《小敏家》李萍怀孕陈佳佳生气的原因",
+       "url": "https://www.feelcn.com/article/585715.html"
+      }
+     ],
+     "evidence": "2 independent sources for the discovery and the daughter's reaction; outcome unverified.",
+     "confidence_flag": "medium",
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant",
+      "mom-pregnancy"
+     ],
+     "adult": "no",
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
+    }
+   }
+  },
+  {
+   "id": 4189,
+   "title": "Toradora!",
+   "subtitle": "",
+   "year": "2008–2009",
+   "meta": "Anime series · Japan · Japanese · J.C.Staff, episode 24",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "Taiga's father left after his business failed and her mother married another man and is now pregnant by him. When her mother arrives to take her to live with the new family, Taiga refuses, telling Ryūji she cannot fit in there, and the two run off together.",
+   "character": "Taiga Aisaka's mother (remarried); daughter Taiga Aisaka",
+   "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)",
+   "note": "The mother's remarriage and pregnancy are known to the daughter (Taiga), who feels displaced and refuses to join the new family. Pregnant: the mom. Light-novel birth of a half-brother is reported by a search summary only (unverified).",
+   "pregnancy_outcome": "Pregnant during the anime's ending arc",
+   "episodes": [
+    {
+     "episode": "Episode 24",
+     "air_date": "2009",
+     "gist": "Taiga explains her mother has remarried and is pregnant, and refuses to go with her (Animents and Citrus and Silk recaps).",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "yes",
+   "kids_note": "The mother already has Taiga from her first marriage.",
+   "kids_together": "unknown",
+   "kids_together_note": "Birth not shown in the anime per the cited recaps.",
+   "married": "yes",
+   "married_note": "Taiga's mother has remarried.",
+   "pregnant_end": "yes",
+   "evidence": "2 independent recaps.",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "family",
+    "widow-divorcee-remarry-pregnant",
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Animents — Toradora! Episode 24",
+     "url": "https://animents.wordpress.com/2014/02/09/toradora-episode-24/"
+    },
+    {
+     "label": "Citrus and Silk — Toradora episodes 21–25",
+     "url": "https://rinjichan.wordpress.com/2009/04/09/toradora-episode-21-25/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "remarried-announce-nov25"
+   ],
+   "source_records": [
+    "remarried-announce-nov25:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "remarried-announce-nov25:6": {
+     "title": "Toradora!",
+     "year": "2008–2009",
+     "format": "tv",
+     "meta": "Anime series · Japan · Japanese · J.C.Staff, episode 24",
+     "character": "Taiga Aisaka's mother (remarried); daughter Taiga Aisaka",
+     "summary": "Taiga's father left after his business failed and her mother married another man and is now pregnant by him. When her mother arrives to take her to live with the new family, Taiga refuses, telling Ryūji she cannot fit in there, and the two run off together.",
+     "note": "The mother's remarriage and pregnancy are known to the daughter (Taiga), who feels displaced and refuses to join the new family. Pregnant: the mom. Light-novel birth of a half-brother is reported by a search summary only (unverified).",
+     "episodes": [
+      {
+       "episode": "Episode 24",
+       "air_date": "2009",
+       "gist": "Taiga explains her mother has remarried and is pregnant, and refuses to go with her (Animents and Citrus and Silk recaps).",
+       "number_verified": true
+      }
+     ],
+     "kids_together": "unknown",
+     "kids_together_note": "Birth not shown in the anime per the cited recaps.",
+     "kids_status": "yes",
+     "kids_note": "The mother already has Taiga from her first marriage.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Pregnant during the anime's ending arc",
+     "married": "yes",
+     "married_note": "Taiga's mother has remarried.",
+     "sources": [
+      {
+       "label": "Animents — Toradora! Episode 24",
+       "url": "https://animents.wordpress.com/2014/02/09/toradora-episode-24/"
+      },
+      {
+       "label": "Citrus and Silk — Toradora episodes 21–25",
+       "url": "https://rinjichan.wordpress.com/2009/04/09/toradora-episode-21-25/"
+      }
+     ],
+     "evidence": "2 independent recaps.",
+     "confidence_flag": "medium",
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant",
+      "mom-pregnancy"
+     ],
+     "adult": "no",
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
+    }
+   }
+  },
+  {
+   "id": 4190,
+   "title": "Marmalade Boy",
+   "subtitle": "",
+   "year": "1994–1995",
+   "meta": "Anime series · Japan · Japanese · Toei Animation, 76 episodes",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "Two couples divorce and swap partners, so Miki's mother marries Yuu's father and Yuu's mother marries Miki's father. In the final episode, after the parents clear up the misunderstanding about Miki and Yuu being siblings, Chiyako and Rumi announce that they are both pregnant.",
+   "character": "Rumi Koishikawa/Matsuura (Miki's mother) and Chiyako Matsuura/Koishikawa (Yuu's mother), each remarried to the other's ex-husband; children Miki and Yuu",
+   "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)",
+   "note": "Announced by both remarried mothers to the family, including their children Miki and Yuu. Loose fit: the double announcement is documented by one fetched source (Spanish Wikipedia episode list); MyAnimeList confirms the episode and air date only.",
+   "pregnancy_outcome": "Both pregnant at series end",
+   "episodes": [
+    {
+     "episode": "Ep. 76 “Departure” (3 Sep 1995)",
+     "air_date": "1995-09-03",
+     "gist": "Chiyako and Rumi announce they are pregnant (es.wikipedia episode list); air date per MyAnimeList.",
+     "number_verified": true
+    }
+   ],
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Rumi already has Miki; Chiyako already has Yuu.",
+   "kids_together": "unknown",
+   "kids_together_note": "Births not shown in the anime per cited sources.",
+   "married": "yes",
+   "married_note": "Both mothers have remarried (partner swap).",
+   "pregnant_end": "yes",
+   "evidence": "Announcement single-sourced; loose fit.",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "family",
+    "widow-divorcee-remarry-pregnant",
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (es) — Anexo: Episodios de Marmalade Boy",
+     "url": "https://es.wikipedia.org/wiki/Anexo:Episodios_de_Marmalade_Boy"
+    },
+    {
+     "label": "MyAnimeList — Marmalade Boy episode 76",
+     "url": "https://myanimelist.net/anime/334/Marmalade_Boy/episode/76"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "remarried-announce-nov25"
+   ],
+   "source_records": [
+    "remarried-announce-nov25:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "remarried-announce-nov25:7": {
+     "title": "Marmalade Boy",
+     "year": "1994–1995",
+     "format": "tv",
+     "meta": "Anime series · Japan · Japanese · Toei Animation, 76 episodes",
+     "character": "Rumi Koishikawa/Matsuura (Miki's mother) and Chiyako Matsuura/Koishikawa (Yuu's mother), each remarried to the other's ex-husband; children Miki and Yuu",
+     "summary": "Two couples divorce and swap partners, so Miki's mother marries Yuu's father and Yuu's mother marries Miki's father. In the final episode, after the parents clear up the misunderstanding about Miki and Yuu being siblings, Chiyako and Rumi announce that they are both pregnant.",
+     "note": "Announced by both remarried mothers to the family, including their children Miki and Yuu. Loose fit: the double announcement is documented by one fetched source (Spanish Wikipedia episode list); MyAnimeList confirms the episode and air date only.",
+     "episodes": [
+      {
+       "episode": "Ep. 76 “Departure” (3 Sep 1995)",
+       "air_date": "1995-09-03",
+       "gist": "Chiyako and Rumi announce they are pregnant (es.wikipedia episode list); air date per MyAnimeList.",
+       "number_verified": true
+      }
+     ],
+     "kids_together": "unknown",
+     "kids_together_note": "Births not shown in the anime per cited sources.",
+     "kids_status": "yes",
+     "kids_note": "Rumi already has Miki; Chiyako already has Yuu.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Both pregnant at series end",
+     "married": "yes",
+     "married_note": "Both mothers have remarried (partner swap).",
+     "sources": [
+      {
+       "label": "Wikipedia (es) — Anexo: Episodios de Marmalade Boy",
+       "url": "https://es.wikipedia.org/wiki/Anexo:Episodios_de_Marmalade_Boy"
+      },
+      {
+       "label": "MyAnimeList — Marmalade Boy episode 76",
+       "url": "https://myanimelist.net/anime/334/Marmalade_Boy/episode/76"
+      }
+     ],
+     "evidence": "Announcement single-sourced; loose fit.",
+     "confidence_flag": "loose fit",
+     "tags": [
+      "loose fit"
+     ],
+     "categories": [
+      "family",
+      "widow-divorcee-remarry-pregnant",
+      "mom-pregnancy"
+     ],
+     "adult": "no",
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
+    }
+   }
+  },
+  {
+   "id": 4191,
+   "title": "Médico de familia",
+   "subtitle": "",
+   "year": "1995–1999",
+   "meta": "Family dramedy · Spain · Spanish · Telecinco, 9 seasons",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "Widower Nacho, raising three children, eventually marries his late wife's sister Alicia. In the 12 May 1998 episode “La familia... y ¿uno más?” Nacho goes with Alicia to her first scan and they get a surprise; the couple have twins, Manu and Elena, born in a stuck lift.",
+   "character": "Widowed GP Nacho Martín (Emilio Aragón) and his sister-in-law, later wife, Alicia (Lydia Bosch); Nacho's children María, Chechu and Anita",
+   "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)",
+   "note": "Loose fit: the pregnancy and twins have 3 sources, but no fetched source describes the scene where the children are told. Pregnant: the dad's new wife (their aunt).",
+   "pregnancy_outcome": "Birth (twins)",
+   "episodes": [
+    {
+     "episode": "“La familia... y ¿uno más?” (12 May 1998)",
+     "air_date": "1998-05-12",
+     "gist": "First scan, with a surprise (El País TV listing).",
+     "number_verified": false
+    }
+   ],
+   "tags": [
+    "loose fit",
+    "announcement to kids unconfirmed"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Nacho already has three children (María, Chechu, Anita); Alicia has no prior children in the cited sources.",
+   "kids_together": "yes",
+   "kids_together_note": "Twins Manu and Elena.",
+   "married": "yes",
+   "married_note": "Nacho marries Alicia en segundas nupcias.",
+   "pregnant_end": "no",
+   "evidence": "Remarriage + twins: 3 sources; announcement to the children unconfirmed.",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "stepmom-pregnancy",
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (es) — Médico de familia",
+     "url": "https://es.wikipedia.org/wiki/M%C3%A9dico_de_familia_(serie_de_televisi%C3%B3n)"
+    },
+    {
+     "label": "Sufridores en casa — 20 hitos de Médico de familia",
+     "url": "https://www.sufridoresencasa.com/medico-de-familia-aniversario/"
+    },
+    {
+     "label": "El País — 'La familia... y ¿uno más?' (12 May 1998)",
+     "url": "https://elpais.com/diario/1998/05/12/radiotv/894924017_850215.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "remarried-announce-nov25"
+   ],
+   "source_records": [
+    "remarried-announce-nov25:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "remarried-announce-nov25:8": {
+     "title": "Médico de familia",
+     "year": "1995–1999",
+     "format": "tv",
+     "meta": "Family dramedy · Spain · Spanish · Telecinco, 9 seasons",
+     "character": "Widowed GP Nacho Martín (Emilio Aragón) and his sister-in-law, later wife, Alicia (Lydia Bosch); Nacho's children María, Chechu and Anita",
+     "summary": "Widower Nacho, raising three children, eventually marries his late wife's sister Alicia. In the 12 May 1998 episode “La familia... y ¿uno más?” Nacho goes with Alicia to her first scan and they get a surprise; the couple have twins, Manu and Elena, born in a stuck lift.",
+     "note": "Loose fit: the pregnancy and twins have 3 sources, but no fetched source describes the scene where the children are told. Pregnant: the dad's new wife (their aunt).",
+     "episodes": [
+      {
+       "episode": "“La familia... y ¿uno más?” (12 May 1998)",
+       "air_date": "1998-05-12",
+       "gist": "First scan, with a surprise (El País TV listing).",
+       "number_verified": false
+      }
+     ],
+     "kids_together": "yes",
+     "kids_together_note": "Twins Manu and Elena.",
+     "kids_status": "yes",
+     "kids_note": "Nacho already has three children (María, Chechu, Anita); Alicia has no prior children in the cited sources.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Birth (twins)",
+     "married": "yes",
+     "married_note": "Nacho marries Alicia en segundas nupcias.",
+     "sources": [
+      {
+       "label": "Wikipedia (es) — Médico de familia",
+       "url": "https://es.wikipedia.org/wiki/M%C3%A9dico_de_familia_(serie_de_televisi%C3%B3n)"
+      },
+      {
+       "label": "Sufridores en casa — 20 hitos de Médico de familia",
+       "url": "https://www.sufridoresencasa.com/medico-de-familia-aniversario/"
+      },
+      {
+       "label": "El País — 'La familia... y ¿uno más?' (12 May 1998)",
+       "url": "https://elpais.com/diario/1998/05/12/radiotv/894924017_850215.html"
+      }
+     ],
+     "evidence": "Remarriage + twins: 3 sources; announcement to the children unconfirmed.",
+     "confidence_flag": "loose fit",
+     "tags": [
+      "loose fit",
+      "announcement to kids unconfirmed"
+     ],
+     "categories": [
+      "stepmom-pregnancy",
+      "mom-pregnancy"
+     ],
+     "adult": "no",
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
+    }
+   }
+  },
+  {
+   "id": 4192,
+   "title": "Blossom",
+   "subtitle": "",
+   "year": "1995",
+   "meta": "Sitcom · United States · English · NBC, season 5",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "Nick, whose ex-wife left the family, marries English divorcée Carol, who brings her daughter Kennedy. In the penultimate episode Carol discovers she is pregnant with Nick's child and Nick decides to sell the house; the series ends the same night.",
+   "character": "Carol Russo (Finola Hughes), divorced mother of Kennedy, married to divorced father Nick Russo (Ted Wass); stepchildren Blossom, Joey and Tony",
+   "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)",
+   "note": "Loose fit: the pregnancy is confirmed by 2 sources, but no fetched source describes how the children are told. Pregnant: the dad's new wife.",
+   "pregnancy_outcome": "Pregnant at series end",
+   "episodes": [
+    {
+     "episode": "S5E21 “So Many Milestones, So Little Time” (22 May 1995)",
+     "air_date": "1995-05-22",
+     "gist": "Carol discovers she is pregnant (Wikipedia episode list, TheTVDB).",
+     "number_verified": true
+    }
+   ],
+   "tags": [
+    "loose fit",
+    "announcement to kids unconfirmed"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Carol has daughter Kennedy with ex-husband Graham; Nick has Blossom, Joey and Tony.",
+   "kids_together": "unknown",
+   "kids_together_note": "Series ends before a birth.",
+   "married": "yes",
+   "married_note": "Carol marries Nick.",
+   "pregnant_end": "yes",
+   "evidence": "Pregnancy: 2 sources; announcement to kids unconfirmed.",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "family",
+    "stepmom-pregnancy",
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — List of Blossom episodes",
+     "url": "https://en.wikipedia.org/wiki/List_of_Blossom_episodes"
+    },
+    {
+     "label": "Wikipedia — List of Blossom characters (Carol Russo)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Blossom_characters"
+    },
+    {
+     "label": "TheTVDB — So Many Milestones, So Little Time",
+     "url": "https://www.thetvdb.com/series/blossom/episodes/207282"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "remarried-announce-nov25"
+   ],
+   "source_records": [
+    "remarried-announce-nov25:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "remarried-announce-nov25:9": {
+     "title": "Blossom",
+     "year": "1995",
+     "format": "tv",
+     "meta": "Sitcom · United States · English · NBC, season 5",
+     "character": "Carol Russo (Finola Hughes), divorced mother of Kennedy, married to divorced father Nick Russo (Ted Wass); stepchildren Blossom, Joey and Tony",
+     "summary": "Nick, whose ex-wife left the family, marries English divorcée Carol, who brings her daughter Kennedy. In the penultimate episode Carol discovers she is pregnant with Nick's child and Nick decides to sell the house; the series ends the same night.",
+     "note": "Loose fit: the pregnancy is confirmed by 2 sources, but no fetched source describes how the children are told. Pregnant: the dad's new wife.",
+     "episodes": [
+      {
+       "episode": "S5E21 “So Many Milestones, So Little Time” (22 May 1995)",
+       "air_date": "1995-05-22",
+       "gist": "Carol discovers she is pregnant (Wikipedia episode list, TheTVDB).",
+       "number_verified": true
+      }
+     ],
+     "kids_together": "unknown",
+     "kids_together_note": "Series ends before a birth.",
+     "kids_status": "yes",
+     "kids_note": "Carol has daughter Kennedy with ex-husband Graham; Nick has Blossom, Joey and Tony.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Pregnant at series end",
+     "married": "yes",
+     "married_note": "Carol marries Nick.",
+     "sources": [
+      {
+       "label": "Wikipedia — List of Blossom episodes",
+       "url": "https://en.wikipedia.org/wiki/List_of_Blossom_episodes"
+      },
+      {
+       "label": "Wikipedia — List of Blossom characters (Carol Russo)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Blossom_characters"
+      },
+      {
+       "label": "TheTVDB — So Many Milestones, So Little Time",
+       "url": "https://www.thetvdb.com/series/blossom/episodes/207282"
+      }
+     ],
+     "evidence": "Pregnancy: 2 sources; announcement to kids unconfirmed.",
+     "confidence_flag": "loose fit",
+     "tags": [
+      "loose fit",
+      "announcement to kids unconfirmed"
+     ],
+     "categories": [
+      "family",
+      "stepmom-pregnancy",
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "adult": "no",
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
+    }
+   }
+  },
+  {
+   "id": 4193,
+   "title": "One Tree Hill",
+   "subtitle": "",
+   "year": "2006",
+   "meta": "Teen drama · United States · English · The WB, season 3",
+   "mechanism": "",
+   "confidence_flag": "medium",
+   "summary": "Karen, who raised Lucas alone after Dan abandoned them, rekindles a relationship with Keith, who is later killed. In the season 3 finale she tells Lucas she is pregnant with Keith's child; Lucas's half-sister Lily Roe Scott is later born.",
+   "character": "Karen Roe (Moira Kelly), single mother of Lucas; her late fiancé Keith Scott",
+   "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)",
+   "note": "Announced by the mother (Karen) to her son Lucas. Pregnant: the mom, by her new partner (not remarried — Karen had never married).",
+   "pregnancy_outcome": "Birth of Lily later in the series (not in this episode)",
+   "episodes": [
+    {
+     "episode": "S3E22 “The Show Must Go On” (3 May 2006)",
+     "air_date": "2006-05-03",
+     "gist": "Karen tells Lucas she is pregnant with Keith's child (Wikipedia season 3).",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "yes",
+   "kids_note": "Karen already has Lucas (father Dan Scott).",
+   "kids_together": "yes",
+   "kids_together_note": "Daughter Lily Roe Scott (Wikipedia — Lucas Scott, family list).",
+   "married": "no",
+   "married_note": "Keith dies before they marry.",
+   "pregnant_end": "yes",
+   "evidence": "Announcement: Wikipedia season page (fan wiki page listed but blocked when fetched); baby: Lucas Scott article.",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "family",
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — One Tree Hill season 3",
+     "url": "https://en.wikipedia.org/wiki/One_Tree_Hill_season_3"
+    },
+    {
+     "label": "Wikipedia — Lucas Scott (half-sister Lily Roe Scott)",
+     "url": "https://en.wikipedia.org/wiki/Lucas_Scott"
+    },
+    {
+     "label": "One Tree Hill fan wiki — The Show Must Go On",
+     "url": "https://onetreehill.fandom.com/wiki/The_Show_Must_Go_On"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "remarried-announce-nov25"
+   ],
+   "source_records": [
+    "remarried-announce-nov25:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "remarried-announce-nov25:10": {
+     "title": "One Tree Hill",
+     "year": "2006",
+     "format": "tv",
+     "meta": "Teen drama · United States · English · The WB, season 3",
+     "character": "Karen Roe (Moira Kelly), single mother of Lucas; her late fiancé Keith Scott",
+     "summary": "Karen, who raised Lucas alone after Dan abandoned them, rekindles a relationship with Keith, who is later killed. In the season 3 finale she tells Lucas she is pregnant with Keith's child; Lucas's half-sister Lily Roe Scott is later born.",
+     "note": "Announced by the mother (Karen) to her son Lucas. Pregnant: the mom, by her new partner (not remarried — Karen had never married).",
+     "episodes": [
+      {
+       "episode": "S3E22 “The Show Must Go On” (3 May 2006)",
+       "air_date": "2006-05-03",
+       "gist": "Karen tells Lucas she is pregnant with Keith's child (Wikipedia season 3).",
+       "number_verified": true
+      }
+     ],
+     "kids_together": "yes",
+     "kids_together_note": "Daughter Lily Roe Scott (Wikipedia — Lucas Scott, family list).",
+     "kids_status": "yes",
+     "kids_note": "Karen already has Lucas (father Dan Scott).",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Birth of Lily later in the series (not in this episode)",
+     "married": "no",
+     "married_note": "Keith dies before they marry.",
+     "sources": [
+      {
+       "label": "Wikipedia — One Tree Hill season 3",
+       "url": "https://en.wikipedia.org/wiki/One_Tree_Hill_season_3"
+      },
+      {
+       "label": "Wikipedia — Lucas Scott (half-sister Lily Roe Scott)",
+       "url": "https://en.wikipedia.org/wiki/Lucas_Scott"
+      },
+      {
+       "label": "One Tree Hill fan wiki — The Show Must Go On",
+       "url": "https://onetreehill.fandom.com/wiki/The_Show_Must_Go_On"
+      }
+     ],
+     "evidence": "Announcement: Wikipedia season page (fan wiki page listed but blocked when fetched); baby: Lucas Scott article.",
+     "confidence_flag": "medium",
+     "categories": [
+      "family",
+      "mom-pregnancy"
+     ],
+     "adult": "no",
+     "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
+    }
+   }
   }
  ],
  "sections": [
@@ -618827,30 +620875,26 @@ window.CATALOG = {
      "items": [
       {
        "id": 4179,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4181,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4180,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4183,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4182,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       }
-     ]
+     ],
+     "from_source": "hypnotic-healing-similar-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -618899,7 +620943,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19c": null,
     "widow-hypnotized-marriage-nov19": null,
     "deep-refresh-nov19-c": null,
-    "female-hypnosis-nov25": null
+    "female-hypnosis-nov25": null,
+    "hypnotic-healing-similar-nov25": null
    }
   },
   {
@@ -622045,25 +624090,22 @@ window.CATALOG = {
      "items": [
       {
        "id": 4179,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4181,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4183,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4182,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       }
-     ]
+     ],
+     "from_source": "hypnotic-healing-similar-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -622079,7 +624121,8 @@ window.CATALOG = {
     "saimin-sweep-nov11": null,
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
-    "deep-refresh-nov19-b": null
+    "deep-refresh-nov19-b": null,
+    "hypnotic-healing-similar-nov25": null
    }
   },
   {
@@ -625537,10 +627580,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 4180,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       }
-     ]
+     ],
+     "from_source": "hypnotic-healing-similar-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -625586,7 +627629,8 @@ window.CATALOG = {
     "weekly-nov16": null,
     "deep-refresh-nov19-b": null,
     "deep-refresh-nov19-c": null,
-    "female-hypnosis-nov25": null
+    "female-hypnosis-nov25": null,
+    "hypnotic-healing-similar-nov25": null
    }
   },
   {
@@ -629690,7 +631734,8 @@ window.CATALOG = {
     "pregnant-scenes-oct25": null,
     "saimin-sweep-nov11": null,
     "hypno-sex-nov12": null,
-    "therapist-hypnosis-nov12": null
+    "therapist-hypnosis-nov12": null,
+    "hypnotic-healing-similar-nov25": null
    },
    "groups": [
     {
@@ -629824,30 +631869,26 @@ window.CATALOG = {
      "items": [
       {
        "id": 4179,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4181,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4180,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4183,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4182,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       }
-     ]
+     ],
+     "from_source": "hypnotic-healing-similar-nov25"
     }
    ]
   },
@@ -635034,30 +637075,26 @@ window.CATALOG = {
      "items": [
       {
        "id": 4179,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4181,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4180,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4183,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4182,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       }
-     ]
+     ],
+     "from_source": "hypnotic-healing-similar-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -635104,7 +637141,8 @@ window.CATALOG = {
     "vashikaran-nov11": null,
     "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
-    "partner-hypnosis-nov11": null
+    "partner-hypnosis-nov11": null,
+    "hypnotic-healing-similar-nov25": null
    }
   },
   {
@@ -642577,15 +644615,14 @@ window.CATALOG = {
      "items": [
       {
        "id": 4180,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4183,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       }
-     ]
+     ],
+     "from_source": "hypnotic-healing-similar-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -642624,7 +644661,8 @@ window.CATALOG = {
     "partner-hypnosis-nov11": null,
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
-    "weekly-nov16": null
+    "weekly-nov16": null,
+    "hypnotic-healing-similar-nov25": null
    }
   },
   {
@@ -643472,30 +645510,26 @@ window.CATALOG = {
      "items": [
       {
        "id": 4179,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4181,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4180,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4183,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4182,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       }
-     ]
+     ],
+     "from_source": "hypnotic-healing-similar-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -643516,7 +645550,8 @@ window.CATALOG = {
     "deep-refresh-nov19-b": null,
     "widow-hypnotized-marriage-nov19": null,
     "deep-refresh-nov19-c": null,
-    "female-hypnosis-nov25": null
+    "female-hypnosis-nov25": null,
+    "hypnotic-healing-similar-nov25": null
    }
   },
   {
@@ -647517,25 +649552,22 @@ window.CATALOG = {
      "items": [
       {
        "id": 4179,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4181,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4183,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       },
       {
        "id": 4182,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       }
-     ]
+     ],
+     "from_source": "hypnotic-healing-similar-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -647593,7 +649625,8 @@ window.CATALOG = {
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
     "partner-hypnosis-nov19b": null,
-    "female-hypnosis-nov25": null
+    "female-hypnosis-nov25": null,
+    "hypnotic-healing-similar-nov25": null
    }
   },
   {
@@ -648863,7 +650896,8 @@ window.CATALOG = {
     "hypnosis-repeat-pregnancy-nov7",
     "vertical-pregnant-again-nov07",
     "deep-refresh-nov19-b",
-    "belly-kiss-nov21"
+    "belly-kiss-nov21",
+    "remarried-announce-nov25"
    ],
    "groups": [
     {
@@ -650631,6 +652665,49 @@ window.CATALOG = {
       }
      ],
      "from_source": "belly-kiss-nov21"
+    },
+    {
+     "title": "Remarried or re-partnered parent tells their child about a new pregnancy",
+     "notes": [],
+     "items": [
+      {
+       "id": 969,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4185,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4186,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4187,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4190,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4191,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4193,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4189,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4188,
+       "from_source": "remarried-announce-nov25"
+      }
+     ],
+     "from_source": "remarried-announce-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -650644,7 +652721,8 @@ window.CATALOG = {
     "hypnosis-repeat-pregnancy-nov7": null,
     "vertical-pregnant-again-nov07": null,
     "deep-refresh-nov19-b": null,
-    "belly-kiss-nov21": null
+    "belly-kiss-nov21": null,
+    "remarried-announce-nov25": null
    }
   },
   {
@@ -659015,7 +661093,8 @@ window.CATALOG = {
     "kids-pregnant-again",
     "stepfamily-pregnancy-nov7",
     "lesbian-pregnancy",
-    "deep-refresh-oct30"
+    "deep-refresh-oct30",
+    "remarried-announce-nov25"
    ],
    "groups": [
     {
@@ -659414,6 +661493,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-oct30"
+    },
+    {
+     "title": "Remarried or re-partnered parent tells their child about a new pregnancy",
+     "notes": [],
+     "items": [
+      {
+       "id": 4192,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4191,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4184,
+       "from_source": "remarried-announce-nov25"
+      }
+     ],
+     "from_source": "remarried-announce-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -659422,7 +661520,8 @@ window.CATALOG = {
     "kids-pregnant-again": null,
     "stepfamily-pregnancy-nov7": null,
     "lesbian-pregnancy": null,
-    "deep-refresh-oct30": null
+    "deep-refresh-oct30": null,
+    "remarried-announce-nov25": null
    }
   },
   {
@@ -667977,7 +670076,8 @@ window.CATALOG = {
     "kids-pregnant-again",
     "stepfamily-pregnancy-nov7",
     "round3",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "remarried-announce-nov25"
    ],
    "groups": [
     {
@@ -668439,6 +670539,49 @@ window.CATALOG = {
       }
      ],
      "from_source": "wife-hypnosis-oct15"
+    },
+    {
+     "title": "Remarried or re-partnered parent tells their child about a new pregnancy",
+     "notes": [],
+     "items": [
+      {
+       "id": 969,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4192,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4185,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4186,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4187,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4190,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4193,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4189,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4188,
+       "from_source": "remarried-announce-nov25"
+      }
+     ],
+     "from_source": "remarried-announce-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -668448,7 +670591,8 @@ window.CATALOG = {
     "kids-pregnant-again": null,
     "stepfamily-pregnancy-nov7": null,
     "round3": null,
-    "wife-hypnosis-oct15": null
+    "wife-hypnosis-oct15": null,
+    "remarried-announce-nov25": null
    }
   },
   {
@@ -675025,11 +677169,13 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "stepfamily-pregnancy-nov7",
-    "widow-remarry"
+    "widow-remarry",
+    "remarried-announce-nov25"
    ],
    "declared_count_by_source": {
     "stepfamily-pregnancy-nov7": null,
-    "widow-remarry": null
+    "widow-remarry": null,
+    "remarried-announce-nov25": null
    },
    "groups": [
     {
@@ -675197,6 +677343,37 @@ window.CATALOG = {
       }
      ],
      "from_source": "widow-remarry"
+    },
+    {
+     "title": "Remarried or re-partnered parent tells their child about a new pregnancy",
+     "notes": [],
+     "items": [
+      {
+       "id": 969,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4192,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4186,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4190,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4189,
+       "from_source": "remarried-announce-nov25"
+      },
+      {
+       "id": 4188,
+       "from_source": "remarried-announce-nov25"
+      }
+     ],
+     "from_source": "remarried-announce-nov25"
     }
    ]
   },
@@ -678408,7 +680585,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19b": null,
     "deep-refresh-nov19-b": null,
     "partner-hypnosis-nov19c": null,
-    "deep-refresh-nov19-pregnant-partner": null
+    "deep-refresh-nov19-pregnant-partner": null,
+    "hypnotic-healing-similar-nov25": null
    },
    "groups": [
     {
@@ -679543,10 +681721,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 4179,
-       "tags": [],
        "from_source": "hypnotic-healing-similar-nov25"
       }
-     ]
+     ],
+     "from_source": "hypnotic-healing-similar-nov25"
     }
    ]
   },

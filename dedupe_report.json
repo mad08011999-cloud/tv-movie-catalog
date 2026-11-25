@@ -23460,6 +23460,13 @@
      "subtitle": "",
      "year": "1990–2000",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "remarried-announce-nov25:11",
+     "title": "Beverly Hills 90210",
+     "subtitle": "Jackie Taylor's pregnancy (1992)",
+     "year": "1990–2000",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -27296,6 +27303,13 @@
     },
     {
      "rid": "pregnant-intimate-oct25:24",
+     "title": "Dexter",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "remarried-announce-nov25:14",
      "title": "Dexter",
      "subtitle": "",
      "year": "2008",
@@ -37386,6 +37400,13 @@
      "subtitle": "",
      "year": "2009–2020",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "remarried-announce-nov25:13",
+     "title": "Modern Family",
+     "subtitle": "",
+     "year": "2009–2020",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -46821,6 +46842,13 @@
      "subtitle": "",
      "year": "2008–09",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "remarried-announce-nov25:16",
+     "title": "Weeds",
+     "subtitle": "",
+     "year": "2008–09",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -49423,6 +49451,46 @@
      "title": "Night Train to Terror",
      "subtitle": "",
      "year": "1985",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2547,
+   "kept": "Step by Step (1991–1998)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "stepfamily-pregnancy-nov7:2",
+     "title": "Step by Step",
+     "subtitle": "",
+     "year": "1991–1998"
+    },
+    {
+     "rid": "remarried-announce-nov25:12",
+     "title": "Step by Step",
+     "subtitle": "",
+     "year": "1991–1998",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2549,
+   "kept": "Two and a Half Men (2008–2009 (season 6))",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "stepfamily-pregnancy-nov7:4",
+     "title": "Two and a Half Men",
+     "subtitle": "",
+     "year": "2008–2009 (season 6)"
+    },
+    {
+     "rid": "remarried-announce-nov25:15",
+     "title": "Two and a Half Men",
+     "subtitle": "",
+     "year": "2008–2009 (season 6)",
      "matched_by": "match_title"
     }
    ]
@@ -55102,24 +55170,13 @@
   "belly-kiss-nov21": 18,
   "weekly-nov23": 1,
   "deep-refresh-nov25": 9,
-  "female-hypnosis-nov25": 4
+  "female-hypnosis-nov25": 4,
+  "hypnotic-healing-similar-nov25": 5,
+  "remarried-announce-nov25": 16
  },
- "entry_count_after_dedupe": 3983,
+ "entry_count_after_dedupe": 3998,
  "within_source_groups": 6,
- "cross_source_groups": 2108,
+ "cross_source_groups": 2110,
  "index_only_records": 55,
- "local_only_records": 1711,
- "offline_hypnotic_healing_similar_nov25": {
-  "new_ids": [
-   4179,
-   4180,
-   4181,
-   4182,
-   4183
-  ],
-  "enriched_ids": [],
-  "source": "hypnotic-healing-similar-nov25",
-  "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
-  "browser_or_network_calls": 0
- }
+ "local_only_records": 1726
 }
