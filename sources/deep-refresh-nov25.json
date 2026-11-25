@@ -1,0 +1,9 @@
+{
+ "id": "deep-refresh-nov25",
+ "label": "Deep refresh across all criteria (25 Nov 2026), including AI-generated works",
+ "group_title": "Deep gap-check (missed titles), 25 Nov 2026",
+ "description": "Multi-language sweep across every catalog topic, 25 Nov 2026, plus a dedicated search for AI-generated films, shorts, vertical/micro dramas, YouTube/TikTok/Bilibili/Douyin series, AI anime, and AI comics/webtoons. Focus on titles new since the 17 Nov 2026 deep refresh, plus deeper and older titles not yet found, vertical dramas, and non-English works. Adults only; non-explicit notes; every entry sourced with a confidence label. AI-generated works are marked in format/meta and tagged AI-generated. This file was created at the start of the run and appended at the true end of SOURCES so existing IDs do not shift.",
+ "category_labels": {},
+ "records": [],
+ "dropped": []
+}
