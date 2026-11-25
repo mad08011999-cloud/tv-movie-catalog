@@ -14322,10 +14322,75 @@
    "kind": "local",
    "share_url": "sources/female-hypnosis-nov25.json",
    "description": "Focused deep search for works in which an adult female character is hypnotized (by a man, woman, device, app, stage hypnotist, villain, or other agent), across films, TV episodes, anime/OVA, web series, vertical microdramas, YouTube/shorts, games/VNs, manga/comics/webtoons, novels, and AI-generated works. 25 Nov 2026 PT. Adults only; non-explicit notes; every entry sourced with a confidence label. AI-generated works are marked in format/meta and tagged AI-generated. This file was created at the start of the run and appended at the true end of SOURCES so existing IDs do not shift.",
-   "dropped": [],
+   "dropped": [
+    {
+     "title": "Hypnotized to Talk Like a Little Girl!",
+     "reason": "Held: title and description are child-coded (a woman's voice changed to a little girl). Not added."
+    },
+    {
+     "title": "Sailor Moon Super Scandalous: The Yassification of the Christ",
+     "reason": "Held: official 2024 festival listing describes Rini, Sailor Moon's daughter, being hypnotized; a minor character. Not added."
+    },
+    {
+     "title": "DC Super Hero Girls episode in which Green Lantern hypnotizes Supergirl",
+     "reason": "Held: children's/teen superhero show. Not added."
+    },
+    {
+     "title": "催眠痴漢Episode1 / TRYSET Break November 2026 listing",
+     "reason": "Held: official listing is school-coded (痴漢 / bully-girl framing). Not added."
+    },
+    {
+     "title": "Saimin Ryoujoku Gakuen",
+     "reason": "Held: title is school-coded (gakuen). Not added."
+    },
+    {
+     "title": "OVA彼女催眠 / Kanojo Saimin",
+     "reason": "Already dropped in the Nov 25 refresh; not re-added."
+    },
+    {
+     "title": "OVA巨乳プリンセス催眠 １＆２パック",
+     "reason": "Official Lune listing is a rerelease pack, not a new title. Not given a new ID."
+    },
+    {
+     "title": "Hadoota",
+     "reason": "Official Orient Films page describes a male patient (Hadoota) hypnotized by a female therapist; the hypnotized lead is not a female character. Not added to this female-hypnosis sweep."
+    },
+    {
+     "title": "The Hat Man (2022)",
+     "reason": "Held: official studio page describes only a 'tormented young woman'; adulthood is not clearly stated. Not added."
+    },
+    {
+     "title": "FALLENMAGE Received: Hypnosis's Curse",
+     "reason": "Official Steam storefront was age-gated in this run, so first-party plot could not be verified. Not invented; not added."
+    },
+    {
+     "title": "51PAPAYA titles including 重生之我为催眠先生",
+     "reason": "Aggregator listings only; not added."
+    },
+    {
+     "title": "ShortPeaks 'Hypnotist' and DramaExpress 'His Hypnosis Never Worked!' / 'Beneath the Hypnosis'",
+     "reason": "Aggregator/unofficial platform pages only; no official ReelShort, DramaBox, NetShort or studio URL verified. Not added."
+    },
+    {
+     "title": "Fear and Now",
+     "reason": "Already dropped in the catalog; not re-added."
+    },
+    {
+     "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+     "reason": "Already dropped; not re-added."
+    },
+    {
+     "title": "Devil Doll (1964)",
+     "reason": "Already dropped; not re-added."
+    },
+    {
+     "title": "Live comedy hypnosis tours (Hypnosis Unleashed, HYPROV, Giorda Hypn'Ose, Krystal Brown, etc.)",
+     "reason": "Live touring stage shows, not identifiable published audiovisual or print works for this catalog. Not added."
+    }
+   ],
    "check": {
-    "raw_count": 0,
-    "ok": false
+    "raw_count": 2,
+    "ok": true
    },
    "status": "local"
   }
@@ -14449,10 +14514,10 @@
   "belly-kiss-nov21": 18,
   "weekly-nov23": 1,
   "deep-refresh-nov25": 9,
-  "female-hypnosis-nov25": 0
+  "female-hypnosis-nov25": 2
  },
- "raw_total": 7808,
- "entry_count": 3979,
+ "raw_total": 7810,
+ "entry_count": 3981,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -14470,7 +14535,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 417
+   "entry_count": 419
   },
   {
    "key": "belly",
@@ -14662,7 +14727,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 294
+   "entry_count": 296
   },
   {
    "key": "mom-partner-control",
@@ -14764,7 +14829,7 @@
    "key": "pregnant",
    "label": "pregnant",
    "legend_label": "pregnant",
-   "entry_count": 75
+   "entry_count": 77
   },
   {
    "key": "belly-kissed",
@@ -14830,7 +14895,7 @@
    "key": "adult-pregnancy",
    "label": "Pregnant woman controlled — adult context & rating evidence",
    "legend_label": "Pregnant woman controlled — adult context & rating evidence",
-   "entry_count": 14
+   "entry_count": 15
   },
   {
    "key": "index-37",
@@ -14842,7 +14907,7 @@
    "key": "pregnant-strict",
    "label": "Pregnant woman hypnotized while pregnant — strict core",
    "legend_label": "Pregnant woman hypnotized while pregnant — strict core",
-   "entry_count": 21
+   "entry_count": 23
   },
   {
    "key": "pregnancy-evil",
@@ -612659,6 +612724,152 @@
      "confidence_flag": "Medium · 2 sources"
     }
    }
+  },
+  {
+   "id": 4175,
+   "title": "Hypnotism Confidential / Girl Trap",
+   "subtitle": "",
+   "year": "1957",
+   "meta": "United States exploitation drama · also distributed as Girl Trap · produced by Peter Anthony De Cenzie for Pad Productions · approved for New York exhibition in 1957 · shot in and around San Francisco",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Official AFI catalog copy follows a masked hypnotist-narrator who hypnotizes dancer Zee Zee Martine, then a story in which Tony Anthonelli uses a fountain-pen trigger to hypnotize people around him, including his aunt and waitress Sylvia. After Sylvia is later found to be pregnant with no memory of one night, a psychiatrist hypnotizes her again to recover what happened, and a warrant is issued for Anthonelli.",
+   "character": "Sylvia (a waitress); Zee Zee Martine (a dancer); Tony Anthonelli's aunt; Flame Kelly",
+   "provenance": "Female hypnosis focused sweep, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "The official AFI Catalog record for Hypnotism Confidential (1957, also distributed as Girl Trap) states that a masked hypnotist introduces dancer Zee Zee Martine and proceeds to hypnotize her, and that in the story Tony Anthonelli hypnotizes his aunt so she will write him a check and forget, then uses a fountain-pen trigger to hypnotize waitress Sylvia. The same official synopsis states that the district attorney's office investigates how Sylvia has mysteriously become pregnant; psychiatrist Dr. Vincent reports a complete loss of memory and, by re-hypnotizing Sylvia, unlocks her memory of being attacked by Anthonelli.",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "pregnant-strict",
+    "pregnant",
+    "adult-pregnancy",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "AFI Catalog official record",
+     "url": "https://catalog.afi.com/Catalog/MovieDetailsPrintView/53781"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "female-hypnosis-nov25"
+   ],
+   "source_records": [
+    "female-hypnosis-nov25:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "female-hypnosis-nov25:1": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Female hypnosis focused sweep, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "no",
+     "title": "Hypnotism Confidential / Girl Trap",
+     "year": "1957",
+     "format": "movie",
+     "meta": "United States exploitation drama · also distributed as Girl Trap · produced by Peter Anthony De Cenzie for Pad Productions · approved for New York exhibition in 1957 · shot in and around San Francisco",
+     "character": "Sylvia (a waitress); Zee Zee Martine (a dancer); Tony Anthonelli's aunt; Flame Kelly",
+     "summary": "Official AFI catalog copy follows a masked hypnotist-narrator who hypnotizes dancer Zee Zee Martine, then a story in which Tony Anthonelli uses a fountain-pen trigger to hypnotize people around him, including his aunt and waitress Sylvia. After Sylvia is later found to be pregnant with no memory of one night, a psychiatrist hypnotizes her again to recover what happened, and a warrant is issued for Anthonelli.",
+     "categories": [
+      "adult-hypnosis",
+      "pregnant-strict",
+      "pregnant",
+      "adult-pregnancy",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "AFI Catalog official record",
+       "url": "https://catalog.afi.com/Catalog/MovieDetailsPrintView/53781"
+      }
+     ],
+     "evidence": "The official AFI Catalog record for Hypnotism Confidential (1957, also distributed as Girl Trap) states that a masked hypnotist introduces dancer Zee Zee Martine and proceeds to hypnotize her, and that in the story Tony Anthonelli hypnotizes his aunt so she will write him a check and forget, then uses a fountain-pen trigger to hypnotize waitress Sylvia. The same official synopsis states that the district attorney's office investigates how Sylvia has mysteriously become pregnant; psychiatrist Dr. Vincent reports a complete loss of memory and, by re-hypnotizing Sylvia, unlocks her memory of being attacked by Anthonelli.",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 4176,
+   "title": "Psychothérapie en URSS / Psychotherapy in the USSR",
+   "subtitle": "",
+   "year": "1970",
+   "meta": "Soviet 16 mm colour sound film · about 13 minutes (part 1) · French-language print held by Cinemantik as 040J-16-PSY70",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A film-archive listing describes a 1970 Soviet film on psychotherapy in which a doctor hypnotizes a frightened hospital patient, who is then taken to a delivery room, has contractions without pain, gives birth calmly while following the nurses' instructions, and is awakened after the birth. Other sequences show adult women hypnotized in a lecture hall and in a consulting room.",
+   "character": "Unnamed adult female hospital patient in labour; other adult female patients shown under hypnosis",
+   "provenance": "Female hypnosis focused sweep, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+   "note": "",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "The Cinemantik archive page for Psychothérapie en URSS / Psychotherapy in the USSR (1970, ref. 040J-16-PSY70, about 13 minutes) describes a Soviet film about psychotherapy used to treat sick women and to help them give birth without pain. Its shot list states that a patient who is afraid in a hospital bed is hypnotized by a doctor, taken to the delivery room, has contractions without pain, gives birth calmly, follows the nurses' instructions, and wakes after delivery, after which the doctor explains his method. Earlier shots describe other adult female patients being hypnotized in an auditorium and in a consulting room.",
+   "adult": "no",
+   "format": "documentary",
+   "categories": [
+    "medical",
+    "pregnant-strict",
+    "pregnant",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Cinemantik film-archive listing (part 1)",
+     "url": "https://www.archivesfilms.com/?p=1909"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "female-hypnosis-nov25"
+   ],
+   "source_records": [
+    "female-hypnosis-nov25:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "female-hypnosis-nov25:2": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Female hypnosis focused sweep, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
+     "adult": "no",
+     "title": "Psychothérapie en URSS / Psychotherapy in the USSR",
+     "year": "1970",
+     "format": "documentary",
+     "meta": "Soviet 16 mm colour sound film · about 13 minutes (part 1) · French-language print held by Cinemantik as 040J-16-PSY70",
+     "character": "Unnamed adult female hospital patient in labour; other adult female patients shown under hypnosis",
+     "summary": "A film-archive listing describes a 1970 Soviet film on psychotherapy in which a doctor hypnotizes a frightened hospital patient, who is then taken to a delivery room, has contractions without pain, gives birth calmly while following the nurses' instructions, and is awakened after the birth. Other sequences show adult women hypnotized in a lecture hall and in a consulting room.",
+     "categories": [
+      "medical",
+      "pregnant-strict",
+      "pregnant",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Cinemantik film-archive listing (part 1)",
+       "url": "https://www.archivesfilms.com/?p=1909"
+      }
+     ],
+     "evidence": "The Cinemantik archive page for Psychothérapie en URSS / Psychotherapy in the USSR (1970, ref. 040J-16-PSY70, about 13 minutes) describes a Soviet film about psychotherapy used to treat sick women and to help them give birth without pain. Its shot list states that a patient who is afraid in a hospital bed is hypnotized by a doctor, taken to the delivery room, has contractions without pain, gives birth calmly, follows the nurses' instructions, and wakes after delivery, after which the doctor explains his method. Earlier shots describe other adult female patients being hypnotized in an auditorium and in a consulting room.",
+     "confidence_flag": "Single source · flag"
+    }
+   }
   }
  ],
  "sections": [
@@ -613189,7 +613400,8 @@
     "deep-refresh-nov19-b",
     "partner-hypnosis-nov19c",
     "widow-hypnotized-marriage-nov19",
-    "deep-refresh-nov19-c"
+    "deep-refresh-nov19-c",
+    "female-hypnosis-nov25"
    ],
    "groups": [
     {
@@ -617784,6 +617996,21 @@
       }
      ],
      "from_source": "widow-hypnotized-marriage-nov19"
+    },
+    {
+     "title": "Female hypnosis focused sweep, 25 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4175,
+       "from_source": "female-hypnosis-nov25"
+      },
+      {
+       "id": 4176,
+       "from_source": "female-hypnosis-nov25"
+      }
+     ],
+     "from_source": "female-hypnosis-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -617831,7 +618058,8 @@
     "deep-refresh-nov19-b": null,
     "partner-hypnosis-nov19c": null,
     "widow-hypnotized-marriage-nov19": null,
-    "deep-refresh-nov19-c": null
+    "deep-refresh-nov19-c": null,
+    "female-hypnosis-nov25": null
    }
   },
   {
@@ -644040,7 +644268,8 @@
     "partner-hypnosis-nov11",
     "therapist-hypnosis-nov12",
     "husband-hypnosis-nov12",
-    "partner-hypnosis-nov19b"
+    "partner-hypnosis-nov19b",
+    "female-hypnosis-nov25"
    ],
    "groups": [
     {
@@ -646239,6 +646468,21 @@
       }
      ],
      "from_source": "partner-hypnosis-nov19b"
+    },
+    {
+     "title": "Female hypnosis focused sweep, 25 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4175,
+       "from_source": "female-hypnosis-nov25"
+      },
+      {
+       "id": 4176,
+       "from_source": "female-hypnosis-nov25"
+      }
+     ],
+     "from_source": "female-hypnosis-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -646295,7 +646539,8 @@
     "partner-hypnosis-nov11": null,
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
-    "partner-hypnosis-nov19b": null
+    "partner-hypnosis-nov19b": null,
+    "female-hypnosis-nov25": null
    }
   },
   {
@@ -655058,7 +655303,8 @@
     "deep-refresh-nov11",
     "deep-refresh-nov12",
     "deep-refresh-nov12-cont",
-    "deep-refresh-nov13"
+    "deep-refresh-nov13",
+    "female-hypnosis-nov25"
    ],
    "declared_count_by_source": {
     "worldwide-hypnosis": null,
@@ -655072,7 +655318,8 @@
     "deep-refresh-nov11": null,
     "deep-refresh-nov12": null,
     "deep-refresh-nov12-cont": null,
-    "deep-refresh-nov13": null
+    "deep-refresh-nov13": null,
+    "female-hypnosis-nov25": null
    },
    "groups": [
     {
@@ -655440,6 +655687,21 @@
       }
      ],
      "from_source": "deep-refresh-nov13"
+    },
+    {
+     "title": "Female hypnosis focused sweep, 25 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4175,
+       "from_source": "female-hypnosis-nov25"
+      },
+      {
+       "id": 4176,
+       "from_source": "female-hypnosis-nov25"
+      }
+     ],
+     "from_source": "female-hypnosis-nov25"
     }
    ]
   },
@@ -658696,7 +658958,8 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "hypnosis-assault",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "female-hypnosis-nov25"
    ],
    "groups": [
     {
@@ -659035,12 +659298,24 @@
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Female hypnosis focused sweep, 25 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4175,
+       "from_source": "female-hypnosis-nov25"
+      }
+     ],
+     "from_source": "female-hypnosis-nov25"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 13,
     "hypnosis-assault": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "female-hypnosis-nov25": null
    }
   },
   {
@@ -659061,7 +659336,8 @@
     "hypno-pregnant-yt-oct25",
     "vertical-hypnosis-nov6",
     "deep-refresh-nov19-b",
-    "deep-refresh-nov19-pregnant-partner"
+    "deep-refresh-nov19-pregnant-partner",
+    "female-hypnosis-nov25"
    ],
    "groups": [
     {
@@ -659474,6 +659750,21 @@
       }
      ],
      "from_source": "deep-refresh-nov19-pregnant-partner"
+    },
+    {
+     "title": "Female hypnosis focused sweep, 25 Nov 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 4175,
+       "from_source": "female-hypnosis-nov25"
+      },
+      {
+       "id": 4176,
+       "from_source": "female-hypnosis-nov25"
+      }
+     ],
+     "from_source": "female-hypnosis-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -659482,7 +659773,8 @@
     "hypno-pregnant-yt-oct25": null,
     "vertical-hypnosis-nov6": null,
     "deep-refresh-nov19-b": null,
-    "deep-refresh-nov19-pregnant-partner": null
+    "deep-refresh-nov19-pregnant-partner": null,
+    "female-hypnosis-nov25": null
    }
   },
   {
