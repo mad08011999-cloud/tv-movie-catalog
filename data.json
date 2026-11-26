@@ -14715,6 +14715,145 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "bed-hypnosis-nov26",
+   "label": "Hypnotized in bed — all-media search (26 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/bed-hypnosis-nov26.json",
+   "description": "All-media pass (26 Nov 2026 PT) for adult women who are hypnotized while lying or sitting on a bed (in bed at night, asleep in bed, in a hospital bed), forced hypnosis included. Excluded: men-only scenes, possession, magic spells and potions, drugs-only control, implanted devices, and minors or children's and teen shows. No new title qualified that was not already in the catalog, so existing cards are tagged 'hypnotized in bed' rather than duplicated. The bed detail comes from each cited source.",
+   "dropped": [
+    {
+     "title": "Alison's Birthday",
+     "year": "1981",
+     "reason": "Not in catalog, but the source places her trance in the bedroom without naming the bed, the plot ends in spirit possession, and the prologue shows her at 16."
+    },
+    {
+     "title": "General Hospital — The Cartel (1991)",
+     "year": "1991",
+     "reason": "Faison triggers Anna and leads her into the bedroom to sleep, but the bed is not named. Series card already in catalog."
+    },
+    {
+     "title": "Horror of Dracula / Dracula Has Risen from the Grave / The Brides of Dracula / Count Dracula's Great Love / Dracula A.D. 2015 / Dracula: A Vampyre in Beijing / Guess What Happened to Count Dracula? / La Noche de Walpurgis",
+     "year": "",
+     "reason": "Hypnotized in her bedroom, but the sources do not put her on the bed. All are already in the catalog."
+    },
+    {
+     "title": "Wrestling Women vs. The Aztec Mummy",
+     "year": "1964",
+     "reason": "Chela is asleep in bed when triggered, but the control comes from an implanted device, not hypnosis."
+    },
+    {
+     "title": "Glitch",
+     "year": "2008",
+     "reason": "Julie lies on the bed under control from a telepathy chip; device control, not hypnosis."
+    },
+    {
+     "title": "Dark Asset",
+     "year": "",
+     "reason": "Triggered through an implanted chip as she gets ready for bed; device control."
+    },
+    {
+     "title": "Agimat ng Agila S1E10 / Bhairava Dweepam / Ira Maya Putri Cinderella / La Cabeza Viviente / Superman (1980 Indian)",
+     "year": "",
+     "reason": "The bed trance comes from an amulet, an enchanted bed, a fairy's machine, a ring or a spell; magic, not hypnosis."
+    },
+    {
+     "title": "Cinta Berdarah / Fire Spirit Beast / Siluman Kera / The Thirsting / Devil's Domain",
+     "year": "",
+     "reason": "A ghost, spirit, demon or witch's spell controls her; possession or magic."
+    },
+    {
+     "title": "Naagin 5 (ep. 24)",
+     "year": "2020",
+     "reason": "A potion's steam reaches Bani while she sleeps; potion, not hypnosis."
+    },
+    {
+     "title": "Naagin 3 (23–24 Mar 2019)",
+     "year": "2019",
+     "reason": "Hukum hypnotizes Bela and Vish, but the sources do not say the hypnosis happens on the bed. Series already in catalog."
+    },
+    {
+     "title": "Ngin Pak Pee Ep 7",
+     "year": "2018",
+     "reason": "Pim wakes under Malin's 'hypnotic spell'; a supernatural spell, not hypnosis."
+    },
+    {
+     "title": "Jack of All Trades S2E4",
+     "year": "",
+     "reason": "A drugged wine causes the trance; drugs only."
+    },
+    {
+     "title": "Jessica Jones",
+     "year": "2015",
+     "reason": "Killgrave orders Hope to stay in bed; pheromone mind control, not hypnosis."
+    },
+    {
+     "title": "Heirs of the Night S1E13",
+     "year": "",
+     "reason": "A children's and teen series."
+    },
+    {
+     "title": "Kaichou wa Maid-sama! / Kimagure Orange Road ep. 39 / Dance with Devils / RWBY Chibi",
+     "year": "",
+     "reason": "Teenage characters or a teen show."
+    },
+    {
+     "title": "Freud (2020) S1E2",
+     "year": "2020",
+     "reason": "Freud hypnotizes the catatonic Clara in hospital, but the recaps do not put her in bed. Series already in catalog."
+    },
+    {
+     "title": "Mind Thief",
+     "year": "2022",
+     "reason": "Christine hides a camera before bed, but the sources do not say the trance starts in bed."
+    },
+    {
+     "title": "Parasomnia / Neighbours (1988) / Anhonee / Pandya Store E203",
+     "year": "",
+     "reason": "Sleep or hospital is mentioned, but the sources do not place the hypnosis on a bed."
+    },
+    {
+     "title": "引她入梦 (Lead Her Into the Dream)",
+     "year": "2026",
+     "reason": "The husband hypnotizes her and plants false memories, but the synopsis only says he watches her sleeping face at night; the bed hypnosis is not stated."
+    },
+    {
+     "title": "His Hypnosis Never Worked!",
+     "year": "",
+     "reason": "The hypnosis fails, and no bed is mentioned."
+    },
+    {
+     "title": "Inside No. 9 — 'Zanzibar' / Hart to Hart (1982) / Murdoch Mysteries 'Twentieth Century Murdoch' / Penny Dreadful S3E4 / Columbo 'A Deadly State of Mind'",
+     "year": "",
+     "reason": "The hypnosis does not happen on a bed."
+    },
+    {
+     "title": "The Chosen S5E5",
+     "year": "2025",
+     "reason": "Claudia has visions in her bedchamber; no hypnosis."
+    },
+    {
+     "title": "Successive Slidings of Pleasure (1974)",
+     "year": "1974",
+     "reason": "'As if hypnotized' is figurative."
+    },
+    {
+     "title": "Escape from Tomorrow / Night Gallery 'Finnegan's Flight' / Friends 'The One with the Hypnosis Tape'",
+     "year": "",
+     "reason": "A man is the one hypnotized."
+    },
+    {
+     "title": "Nikuen (2025 OVA)",
+     "year": "2025",
+     "reason": "Adult animation whose characters' ages are unclear."
+    }
+   ],
+   "check": {
+    "raw_count": 30,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -14841,9 +14980,10 @@
   "remarried-announce-nov25": 16,
   "wife-hypno-partner-nov25": 8,
   "partner-hypnosis-discovery-t64u": 1,
-  "worldwide-hypnosis-discovery-nov25": 4
+  "worldwide-hypnosis-discovery-nov25": 4,
+  "bed-hypnosis-nov26": 30
  },
- "raw_total": 7846,
+ "raw_total": 7876,
  "entry_count": 4007,
  "categories": [
   {
@@ -15007,6 +15147,12 @@
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
    "entry_count": 45
+  },
+  {
+   "key": "hypnotized-in-bed",
+   "label": "Hypnotized in bed",
+   "legend_label": "Hypnotized in bed",
+   "entry_count": 30
   },
   {
    "key": "crime",
@@ -49718,9 +49864,18 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Jenn had a late-term stillbirth before the story begins; Dr. Meade's hypnotherapy exploits that trauma (pregnancy-adjacent).",
+   "episodes": [
+    {
+     "episode": "Climax",
+     "gist": "Meade hypnotizes Jenn to sleep at his late father's house; under hypnosis she cannot let go of the bed bars"
+    }
+   ],
    "tags": [
     "bestsimilar-hypnosis-6496",
-    "hypnotized by therapist"
+    "hypnotized by therapist",
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
    ],
    "hypnotist": "psychotherapist Dr. Collin Meade",
    "kids_status": "not stated",
@@ -49741,7 +49896,8 @@
     "medical",
     "doctor-gain",
     "index-48",
-    "wife-hypnotized"
+    "wife-hypnotized",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -49791,7 +49947,8 @@
     "streaming-oct15",
     "wife-hypnosis-oct15",
     "hypnosis-bestsimilar-nov5",
-    "therapist-hypnosis-nov12"
+    "therapist-hypnosis-nov12",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:143",
@@ -49808,7 +49965,8 @@
     "streaming-oct15:22",
     "wife-hypnosis-oct15:11",
     "hypnosis-bestsimilar-nov5:12",
-    "therapist-hypnosis-nov12:6"
+    "therapist-hypnosis-nov12:6",
+    "bed-hypnosis-nov26:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -50293,6 +50451,53 @@
      "fit_note": "Psychotherapist implants post-hypnotic triggers in patients, including married patient Gina Kelman.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:2",
+     "source": "bed-hypnosis-nov26",
+     "label": "Hypnotic (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Hypnotic (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Hypnotic"
+      },
+      {
+       "label": "Wikipedia — Hypnotic (2021 film) plot",
+       "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Climax",
+       "gist": "Meade hypnotizes Jenn to sleep at his late father's house; under hypnosis she cannot let go of the bed bars"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': near the end Dr. Meade hypnotizes Jenn into falling asleep and she wakes paralysed; Mental Block's caption shows her hypnotized and unable to let go of the bed bars. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -50586,6 +50791,42 @@
        "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
       }
      ]
+    },
+    "bed-hypnosis-nov26:2": {
+     "title": "Hypnotic",
+     "year": "2021",
+     "match_title": "Hypnotic",
+     "match_year": "2021",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "Climax",
+       "gist": "Meade hypnotizes Jenn to sleep at his late father's house; under hypnosis she cannot let go of the bed bars"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': near the end Dr. Meade hypnotizes Jenn into falling asleep and she wakes paralysed; Mental Block's caption shows her hypnotized and unable to let go of the bed bars. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Hypnotic (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Hypnotic"
+      },
+      {
+       "label": "Wikipedia — Hypnotic (2021 film) plot",
+       "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     },
     "streaming-oct15:3": {
      "standalone": true,
@@ -74096,22 +74337,45 @@
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "episodes": [
+    {
+     "episode": "Episode 462 (1968)",
+     "gist": "Julia Hoffman hypnotizes Victoria (Vicki) while Vicki is in bed"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': in episode 462 Dr. Julia Hoffman hypnotizes Victoria Winters while Vicki is in bed, extracting her 1795 memories and planting a post-hypnotic block on them; done without Vicki's consent.",
    "format": "tv",
    "categories": [
     "human",
     "doctor-gain",
     "forced-obedience",
-    "medical"
+    "medical",
+    "hypnotized-in-bed"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "Dark Shadows Commentary — Episode 462 ('Vicki is in bed, and Julia is extracting memories… using a post-hypnotic suggestion')",
+     "url": "https://darkshadowscommentary.com/2024/04/02/episode-462-whole-image/"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:245",
-    "ig6qlxqxoxvcxla:554"
+    "ig6qlxqxoxvcxla:554",
+    "bed-hypnosis-nov26:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -74165,6 +74429,49 @@
      "distinct_story": false,
      "index_title": "Dark Shadows (1967–68)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:1",
+     "source": "bed-hypnosis-nov26",
+     "label": "Dark Shadows (1967)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dark Shadows",
+     "subtitle": "",
+     "year": "1967",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Dark Shadows Commentary — Episode 462 ('Vicki is in bed, and Julia is extracting memories… using a post-hypnotic suggestion')",
+       "url": "https://darkshadowscommentary.com/2024/04/02/episode-462-whole-image/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 462 (1968)",
+       "gist": "Julia Hoffman hypnotizes Victoria (Vicki) while Vicki is in bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': in episode 462 Dr. Julia Hoffman hypnotizes Victoria Winters while Vicki is in bed, extracting her 1795 memories and planting a post-hypnotic block on them; done without Vicki's consent.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -74222,6 +74529,38 @@
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "bed-hypnosis-nov26:1": {
+     "title": "Dark Shadows",
+     "year": "1967",
+     "match_title": "Dark Shadows",
+     "match_year": "1967",
+     "format": "tv",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 462 (1968)",
+       "gist": "Julia Hoffman hypnotizes Victoria (Vicki) while Vicki is in bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': in episode 462 Dr. Julia Hoffman hypnotizes Victoria Winters while Vicki is in bed, extracting her 1795 memories and planting a post-hypnotic block on them; done without Vicki's consent.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Dark Shadows Commentary — Episode 462 ('Vicki is in bed, and Julia is extracting memories… using a post-hypnotic suggestion')",
+       "url": "https://darkshadowscommentary.com/2024/04/02/episode-462-whole-image/"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    },
    "watch_links": [
@@ -77000,8 +77339,17 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Marianne, hypnotized again, lies down on Ravna's bed"
+    }
+   ],
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
    ],
    "kids_status": "not stated",
    "kids_note": "not stated",
@@ -77018,7 +77366,8 @@
     "cult",
     "forced-obedience",
     "occult",
-    "wife-hypnotized"
+    "wife-hypnotized",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -77039,13 +77388,15 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:257",
     "ig6qlxqxoxvcxla:568",
     "worldwide-hypnosis:513",
-    "wife-hypnosis-oct15:16"
+    "wife-hypnosis-oct15:16",
+    "bed-hypnosis-nov26:20"
    ],
    "index_only": false,
    "local_only": false,
@@ -77182,6 +77533,49 @@
      "already_married_note": "Yes — husband: Gerald Harcourt (wife Marianne)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:20",
+     "source": "bed-hypnosis-nov26",
+     "label": "Kiss of the Vampire (1963)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Kiss of the Vampire",
+     "subtitle": "",
+     "year": "1963",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Kiss Of The Vampire (1963) (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Kiss_Of_The_Vampire_%281963%29"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Marianne, hypnotized again, lies down on Ravna's bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Marianne is hypnotized again and, under Ravna's control, lies down on his bed. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -77271,6 +77665,38 @@
       "loose fit"
      ],
      "fit_note": "Loose fit: vampiric mesmerism"
+    },
+    "bed-hypnosis-nov26:20": {
+     "title": "Kiss of the Vampire",
+     "year": "1963",
+     "match_title": "Kiss of the Vampire",
+     "match_year": "1963",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Marianne, hypnotized again, lies down on Ravna's bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Marianne is hypnotized again and, under Ravna's control, lies down on his bed. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Kiss Of The Vampire (1963) (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Kiss_Of_The_Vampire_%281963%29"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    },
    "watch_links": [
@@ -78483,15 +78909,29 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Erica, mind dominated by Yorga, lies back down on the bed in a trance as he enters"
+    }
+   ],
    "tags": [
     "imdb-list-ls099930129",
-    "bestsimilar-hypnosis-6496"
+    "bestsimilar-hypnosis-6496",
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
    ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Erica's mind is dominated by Yorga; in a trance she lies back down on the bed as he enters the bedroom. Forced vampire mesmerism.",
    "format": "movie",
    "categories": [
     "vampire",
     "adult-hypnosis",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -78524,13 +78964,15 @@
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "hypnosis-imdb-list-full-oct25",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:264",
     "worldwide-hypnosis:208",
     "hypnosis-imdb-list-full-oct25:256",
-    "hypnosis-bestsimilar-nov5:55"
+    "hypnosis-bestsimilar-nov5:55",
+    "bed-hypnosis-nov26:14"
    ],
    "index_only": false,
    "local_only": false,
@@ -78669,6 +79111,49 @@
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:14",
+     "source": "bed-hypnosis-nov26",
+     "label": "Count Yorga, Vampire (1970)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Count Yorga, Vampire",
+     "subtitle": "",
+     "year": "1970",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Count Yorga, Vampire (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Count_Yorga%2C_Vampire"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Erica, mind dominated by Yorga, lies back down on the bed in a trance as he enters"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Erica's mind is dominated by Yorga; in a trance she lies back down on the bed as he enters the bedroom. Forced vampire mesmerism.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -78768,6 +79253,38 @@
       "bestsimilar-hypnosis-6496"
      ],
      "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
+    },
+    "bed-hypnosis-nov26:14": {
+     "title": "Count Yorga, Vampire",
+     "year": "1970",
+     "match_title": "Count Yorga, Vampire",
+     "match_year": "1970",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Erica, mind dominated by Yorga, lies back down on the bed in a trance as he enters"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Erica's mind is dominated by Yorga; in a trance she lies back down on the bed as he enters the bedroom. Forced vampire mesmerism.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Count Yorga, Vampire (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Count_Yorga%2C_Vampire"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    },
    "watch_links": [
@@ -79094,25 +79611,52 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
+   "episodes": [
+    {
+     "episode": "S5E1",
+     "gist": "Buffy wakes to find Dracula in her bedroom and, hypnotized, lets him bite her"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis",
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': Buffy (19, in college) wakes to find Dracula in her bedroom and is helpless against his powers as he bites her; Spanish Wikipedia calls her 'hipnotizada'. Forced. Loose because the sources say she wakes in her bedroom rather than naming the bed.",
    "format": "tv",
    "categories": [
     "vampire",
-    "forced-obedience"
+    "forced-obedience",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
      "label": "TV Tropes: Hypnotic Eyes",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoticEyes"
+    },
+    {
+     "label": "Buffyverse Wiki — Buffy vs. Dracula",
+     "url": "https://buffy.fandom.com/wiki/Buffy_vs._Dracula"
+    },
+    {
+     "label": "Wikipedia (es) — Buffy vs. Dracula",
+     "url": "https://es.wikipedia.org/wiki/Buffy_vs._Dracula"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:266",
-    "worldwide-hypnosis:1071"
+    "worldwide-hypnosis:1071",
+    "bed-hypnosis-nov26:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -79171,6 +79715,54 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:11",
+     "source": "bed-hypnosis-nov26",
+     "label": "Buffy the Vampire Slayer — \"Buffy vs. Dracula\" (2000)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Buffy the Vampire Slayer — \"Buffy vs. Dracula\"",
+     "subtitle": "",
+     "year": "2000",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Buffyverse Wiki — Buffy vs. Dracula",
+       "url": "https://buffy.fandom.com/wiki/Buffy_vs._Dracula"
+      },
+      {
+       "label": "Wikipedia (es) — Buffy vs. Dracula",
+       "url": "https://es.wikipedia.org/wiki/Buffy_vs._Dracula"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S5E1",
+       "gist": "Buffy wakes to find Dracula in her bedroom and, hypnotized, lets him bite her"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis",
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': Buffy (19, in college) wakes to find Dracula in her bedroom and is helpless against his powers as he bites her; Spanish Wikipedia calls her 'hipnotizada'. Forced. Loose because the sources say she wakes in her bedroom rather than naming the bed.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -79210,6 +79802,43 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches.",
      "match_title": "Buffy the Vampire Slayer — \"Buffy vs. Dracula\""
+    },
+    "bed-hypnosis-nov26:11": {
+     "title": "Buffy the Vampire Slayer — \"Buffy vs. Dracula\"",
+     "year": "2000",
+     "match_title": "Buffy the Vampire Slayer — \"Buffy vs. Dracula\"",
+     "match_year": "2000",
+     "format": "tv",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "S5E1",
+       "gist": "Buffy wakes to find Dracula in her bedroom and, hypnotized, lets him bite her"
+      }
+     ],
+     "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': Buffy (19, in college) wakes to find Dracula in her bedroom and is helpless against his powers as he bites her; Spanish Wikipedia calls her 'hipnotizada'. Forced. Loose because the sources say she wakes in her bedroom rather than naming the bed.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Buffyverse Wiki — Buffy vs. Dracula",
+       "url": "https://buffy.fandom.com/wiki/Buffy_vs._Dracula"
+      },
+      {
+       "label": "Wikipedia (es) — Buffy vs. Dracula",
+       "url": "https://es.wikipedia.org/wiki/Buffy_vs._Dracula"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis",
+      "loose fit"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -174377,12 +175006,28 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "Episode 94",
+     "gist": "Montserrat wakes under the vampire Martino's hypnotic influence and, in a trance, gets up from the bed"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': in episode 94 Montserrat wakes under the vampire's hypnotic summons and, in a trance, gets up from the bed. Forced.",
    "format": "tv",
    "categories": [
     "partner-control",
     "pregnant-variants",
     "vampire",
-    "index-37"
+    "index-37",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -174406,13 +175051,15 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:821",
     "ig6qlxqxoxvcxla:339",
     "ig6qlxqxoxvcxla:867",
-    "worldwide-hypnosis:218"
+    "worldwide-hypnosis:218",
+    "bed-hypnosis-nov26:13"
    ],
    "index_only": false,
    "local_only": false,
@@ -174541,6 +175188,49 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:13",
+     "source": "bed-hypnosis-nov26",
+     "label": "Conde Vrolok (2009)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Conde Vrolok",
+     "subtitle": "",
+     "year": "2009",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Conde Vrolok (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Conde_Vrolok"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 94",
+       "gist": "Montserrat wakes under the vampire Martino's hypnotic influence and, in a trance, gets up from the bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': in episode 94 Montserrat wakes under the vampire's hypnotic summons and, in a trance, gets up from the bed. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -174656,6 +175346,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:13": {
+     "title": "Conde Vrolok",
+     "year": "2009",
+     "match_title": "Conde Vrolok",
+     "match_year": "2009",
+     "format": "tv",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 94",
+       "gist": "Montserrat wakes under the vampire Martino's hypnotic influence and, in a trance, gets up from the bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': in episode 94 Montserrat wakes under the vampire's hypnotic summons and, in a trance, gets up from the bed. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Conde Vrolok (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Conde_Vrolok"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -195225,10 +195947,27 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Ofelia is hypnotized by the witches and, mesmerized, lies down on the bed to wait for them"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis",
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': Ofelia is hypnotized by the witches and, in a trance, takes off her cross and lies down on the bed to wait for them. Forced. Loose because the hypnotists are witches.",
    "format": "movie",
    "categories": [
     "fantasy",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -195239,11 +195978,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:937",
-    "worldwide-hypnosis:73"
+    "worldwide-hypnosis:73",
+    "bed-hypnosis-nov26:30"
    ],
    "index_only": false,
    "local_only": false,
@@ -195307,6 +196048,50 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:30",
+     "source": "bed-hypnosis-nov26",
+     "label": "Atacan las brujas (1964)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Atacan las brujas",
+     "subtitle": "",
+     "year": "1964",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Atacan las brujas (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Atacan_las_brujas"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Ofelia is hypnotized by the witches and, mesmerized, lies down on the bed to wait for them"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis",
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': Ofelia is hypnotized by the witches and, in a trance, takes off her cross and lies down on the bed to wait for them. Forced. Loose because the hypnotists are witches.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -195352,6 +196137,39 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:30": {
+     "title": "Atacan las brujas",
+     "year": "1964",
+     "match_title": "Atacan las brujas",
+     "match_year": "1964",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Ofelia is hypnotized by the witches and, mesmerized, lies down on the bed to wait for them"
+      }
+     ],
+     "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': Ofelia is hypnotized by the witches and, in a trance, takes off her cross and lies down on the bed to wait for them. Forced. Loose because the hypnotists are witches.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Atacan las brujas (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Atacan_las_brujas"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis",
+      "loose fit"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -207957,11 +208775,27 @@
    "note": "Outcome facts: pregnancy outcome: unknown.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Gustavo approaches Ofelia and Eduardo's bed and casts his hypnotic gaze on Ofelia"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': the vampire Gustavo comes to the couple's bed, kills Eduardo and casts his hypnotic gaze on Ofelia. Forced vampire mesmerism.",
    "format": "movie",
    "categories": [
     "love",
     "vampire",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -207977,12 +208811,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1003",
     "worldwide-hypnosis:134",
-    "hypnotized-love:14"
+    "hypnotized-love:14",
+    "bed-hypnosis-nov26:12"
    ],
    "index_only": false,
    "local_only": false,
@@ -208086,6 +208922,49 @@
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:12",
+     "source": "bed-hypnosis-nov26",
+     "label": "Blood of the Virgins (1967)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Blood of the Virgins",
+     "subtitle": "",
+     "year": "1967",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Blood of the Virgins (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Blood_of_the_Virgins"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Gustavo approaches Ofelia and Eduardo's bed and casts his hypnotic gaze on Ofelia"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': the vampire Gustavo comes to the couple's bed, kills Eduardo and casts his hypnotic gaze on Ofelia. Forced vampire mesmerism.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -208162,6 +209041,38 @@
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "bed-hypnosis-nov26:12": {
+     "title": "Blood of the Virgins",
+     "year": "1967",
+     "match_title": "Blood of the Virgins",
+     "match_year": "1967",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Gustavo approaches Ofelia and Eduardo's bed and casts his hypnotic gaze on Ofelia"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': the vampire Gustavo comes to the couple's bed, kills Eduardo and casts his hypnotic gaze on Ofelia. Forced vampire mesmerism.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Blood of the Virgins (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Blood_of_the_Virgins"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -218410,10 +219321,26 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Dracula enters Mina's bedroom; mesmerized, she rises from her bed"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Dracula enters Mina's bedroom and mesmerizes her; she rises from her bed in a trance, and when he releases her she falls back into a deep sleep in bed. Forced vampire mesmerism.",
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -218424,11 +219351,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1056",
-    "worldwide-hypnosis:183"
+    "worldwide-hypnosis:183",
+    "bed-hypnosis-nov26:9"
    ],
    "index_only": false,
    "local_only": false,
@@ -218492,6 +219421,49 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:9",
+     "source": "bed-hypnosis-nov26",
+     "label": "Christmas at Draculas (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Christmas at Draculas",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Christmas at Draculas (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Christmas_at_Draculas"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Dracula enters Mina's bedroom; mesmerized, she rises from her bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Dracula enters Mina's bedroom and mesmerizes her; she rises from her bed in a trance, and when he releases her she falls back into a deep sleep in bed. Forced vampire mesmerism.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -218537,6 +219509,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:9": {
+     "title": "Christmas at Draculas",
+     "year": "2015",
+     "match_title": "Christmas at Draculas",
+     "match_year": "2015",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Dracula enters Mina's bedroom; mesmerized, she rises from her bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Dracula enters Mina's bedroom and mesmerizes her; she rises from her bed in a trance, and when he releases her she falls back into a deep sleep in bed. Forced vampire mesmerism.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Christmas at Draculas (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Christmas_at_Draculas"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -225363,10 +226367,26 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Laura is hypnotized by Carmilla and gets out of bed in a trance"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Laura is hypnotized by Carmilla and, in a trance, gets out of bed. Forced vampire mesmerism.",
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -225377,11 +226397,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1086",
-    "worldwide-hypnosis:216"
+    "worldwide-hypnosis:216",
+    "bed-hypnosis-nov26:15"
    ],
    "index_only": false,
    "local_only": false,
@@ -225445,6 +226467,49 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:15",
+     "source": "bed-hypnosis-nov26",
+     "label": "Crypt of the Vampire (1964)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Crypt of the Vampire",
+     "subtitle": "",
+     "year": "1964",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Crypt of the Vampire (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Crypt_of_the_Vampire"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Laura is hypnotized by Carmilla and gets out of bed in a trance"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Laura is hypnotized by Carmilla and, in a trance, gets out of bed. Forced vampire mesmerism.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -225490,6 +226555,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:15": {
+     "title": "Crypt of the Vampire",
+     "year": "1964",
+     "match_title": "Crypt of the Vampire",
+     "match_year": "1964",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Laura is hypnotized by Carmilla and gets out of bed in a trance"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Laura is hypnotized by Carmilla and, in a trance, gets out of bed. Forced vampire mesmerism.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Crypt of the Vampire (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Crypt_of_the_Vampire"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    },
    "watch_links": [
@@ -233730,10 +234827,26 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "The hypnotized student is not pregnant; the pregnancy in the plot is the hero's mother's backstory.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Steve sets his hypnotic gaze on a university student in her room; mesmerized, she gets out of bed"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': the vampire breaks into a university student's room and hypnotizes her; mesmerized, she gets out of bed. Forced.",
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -233748,11 +234861,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1127",
-    "worldwide-hypnosis:262"
+    "worldwide-hypnosis:262",
+    "bed-hypnosis-nov26:16"
    ],
    "index_only": false,
    "local_only": false,
@@ -233824,6 +234939,49 @@
      "pregnancy_note": "The hypnotized student is not pregnant; the pregnancy in the plot is the hero's mother's backstory.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:16",
+     "source": "bed-hypnosis-nov26",
+     "label": "Deafula (1975)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Deafula",
+     "subtitle": "",
+     "year": "1975",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Deafula (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Deafula"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Steve sets his hypnotic gaze on a university student in her room; mesmerized, she gets out of bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': the vampire breaks into a university student's room and hypnotizes her; mesmerized, she gets out of bed. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -233877,6 +235035,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "The hypnotized student is not pregnant; the pregnancy in the plot is the hero's mother's backstory.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:16": {
+     "title": "Deafula",
+     "year": "1975",
+     "match_title": "Deafula",
+     "match_year": "1975",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Steve sets his hypnotic gaze on a university student in her room; mesmerized, she gets out of bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': the vampire breaks into a university student's room and hypnotizes her; mesmerized, she gets out of bed. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Deafula (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Deafula"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -246025,11 +247215,26 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Seong Hye wakes hypnotized and, mesmerized, gets up from the bed"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
    "kids_status": "unknown",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Seong Hye wakes up hypnotized again and, mesmerized, gets up from the bed to follow Dracula. Forced.",
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -246041,12 +247246,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1180",
     "worldwide-hypnosis:317",
-    "kr-cn-hypnosis:28"
+    "kr-cn-hypnosis:28",
+    "bed-hypnosis-nov26:17"
    ],
    "index_only": false,
    "local_only": false,
@@ -246132,6 +247339,49 @@
      "kids_status": "unknown",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:17",
+     "source": "bed-hypnosis-nov26",
+     "label": "Dracula Rises from Coffin (1982)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dracula Rises from Coffin",
+     "subtitle": "",
+     "year": "1982",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Dracula Rises from Coffin (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Dracula_Rises_from_Coffin"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Seong Hye wakes hypnotized and, mesmerized, gets up from the bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Seong Hye wakes up hypnotized again and, mesmerized, gets up from the bed to follow Dracula. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -246188,6 +247438,38 @@
      "kids_status": "unknown",
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "bed-hypnosis-nov26:17": {
+     "title": "Dracula Rises from Coffin",
+     "year": "1982",
+     "match_title": "Dracula Rises from Coffin",
+     "match_year": "1982",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Seong Hye wakes hypnotized and, mesmerized, gets up from the bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Seong Hye wakes up hypnotized again and, mesmerized, gets up from the bed to follow Dracula. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Dracula Rises from Coffin (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Dracula_Rises_from_Coffin"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -246205,10 +247487,26 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "The woman Dracula hypnotizes is a peasant; his granddaughter, who is pregnant, is a different character.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "A peasant woman under Dracula's hypnotic control rises from the bed"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': a peasant woman falls under Dracula's hypnotic control and, in a trance, rises from the bed to offer her blood. Forced.",
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -246219,11 +247517,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1181",
-    "worldwide-hypnosis:905"
+    "worldwide-hypnosis:905",
+    "bed-hypnosis-nov26:26"
    ],
    "index_only": false,
    "local_only": false,
@@ -246287,6 +247587,49 @@
      "pregnancy_note": "The woman Dracula hypnotizes is a peasant; his granddaughter, who is pregnant, is a different character.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:26",
+     "source": "bed-hypnosis-nov26",
+     "label": "The Dracula Saga (1973)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Dracula Saga",
+     "subtitle": "",
+     "year": "1973",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — The Dracula Saga (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Dracula_Saga"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "A peasant woman under Dracula's hypnotic control rises from the bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': a peasant woman falls under Dracula's hypnotic control and, in a trance, rises from the bed to offer her blood. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -246332,6 +247675,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "The woman Dracula hypnotizes is a peasant; his granddaughter, who is pregnant, is a different character.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:26": {
+     "title": "The Dracula Saga",
+     "year": "1973",
+     "match_title": "The Dracula Saga",
+     "match_year": "1973",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "A peasant woman under Dracula's hypnotic control rises from the bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': a peasant woman falls under Dracula's hypnotic control and, in a trance, rises from the bed to offer her blood. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — The Dracula Saga (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Dracula_Saga"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -250163,9 +251538,18 @@
    "note": "Outcome facts: married: yes; kids status: unknown.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "Part 1",
+     "gist": "The butler finds the wife in hypnotic sleep, leads her to the bedroom and orders her to sit on the bed while she stays hypnotized"
+    }
+   ],
    "tags": [
     "loose fit",
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
    ],
    "hypnotist": "her husband, a successful businessman; then the butler takes advantage",
    "gain_motive": [
@@ -250192,7 +251576,8 @@
     "partner-control",
     "other-control",
     "index-50",
-    "wife-hypnotized"
+    "wife-hypnotized",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -250221,7 +251606,8 @@
     "hypno-leftovers",
     "hypnosis-assault",
     "wife-hypnosis-oct15",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1201",
@@ -250231,7 +251617,8 @@
     "hypno-leftovers:2",
     "hypnosis-assault:21",
     "wife-hypnosis-oct15:49",
-    "hypnosis-imdb-list-full-oct25:457"
+    "hypnosis-imdb-list-full-oct25:457",
+    "bed-hypnosis-nov26:8"
    ],
    "index_only": false,
    "local_only": false,
@@ -250533,6 +251920,49 @@
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:8",
+     "source": "bed-hypnosis-nov26",
+     "label": "El Gato con Gatas (1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "El Gato con Gatas",
+     "subtitle": "",
+     "year": "1992",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — El Gato con Gatas (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/El_Gato_con_Gatas"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Part 1",
+       "gist": "The butler finds the wife in hypnotic sleep, leads her to the bedroom and orders her to sit on the bed while she stays hypnotized"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': the businessman hypnotizes his wife into a hypnotic sleep; the butler finds her obedient in the trance, leads her to the bedroom and orders her to sit on the bed while she remains hypnotized. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -250774,6 +252204,38 @@
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "bed-hypnosis-nov26:8": {
+     "title": "El Gato con Gatas",
+     "year": "1992",
+     "match_title": "El Gato con Gatas",
+     "match_year": "1992",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "Part 1",
+       "gist": "The butler finds the wife in hypnotic sleep, leads her to the bedroom and orders her to sit on the bed while she stays hypnotized"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': the businessman hypnotizes his wife into a hypnotic sleep; the butler finds her obedient in the trance, leads her to the bedroom and orders her to sit on the bed while she remains hypnotized. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — El Gato con Gatas (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/El_Gato_con_Gatas"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -257051,10 +258513,26 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Priscilla, in a trance, gets up from the bed before breaking Dracula's hypnotic control"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Dracula dominates Priscilla's mind and she gets up from the bed in a trance, then frees herself from his hypnotic control. Forced.",
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -257065,11 +258543,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1235",
-    "worldwide-hypnosis:358"
+    "worldwide-hypnosis:358",
+    "bed-hypnosis-nov26:18"
    ],
    "index_only": false,
    "local_only": false,
@@ -257131,6 +258611,47 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:18",
+     "source": "bed-hypnosis-nov26",
+     "label": "Fate of Dracula",
+     "identifiers": [],
+     "title": "Fate of Dracula",
+     "subtitle": "",
+     "year": "",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Fate of Dracula (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Fate_of_Dracula"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Priscilla, in a trance, gets up from the bed before breaking Dracula's hypnotic control"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Dracula dominates Priscilla's mind and she gets up from the bed in a trance, then frees herself from his hypnotic control. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -257176,6 +258697,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:18": {
+     "title": "Fate of Dracula",
+     "year": "",
+     "match_title": "Fate of Dracula",
+     "match_year": "",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Priscilla, in a trance, gets up from the bed before breaking Dracula's hypnotic control"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Dracula dominates Priscilla's mind and she gets up from the bed in a trance, then frees herself from his hypnotic control. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Fate of Dracula (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Fate_of_Dracula"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -270773,12 +272326,27 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Alicia is the woman hypnotized and programmed; Sofía's pregnancy is a separate storyline.",
-   "tags": [
-    "imdb-list-ls099930129"
+   "episodes": [
+    {
+     "episode": "S3E10 'Valtejar'",
+     "gist": "Asleep in bed, Alicia is put into a trance by a clock-chime trigger, rises from her bed and takes a pistol; later a doctor hypnotizes her"
+    }
    ],
+   "tags": [
+    "imdb-list-ls099930129",
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis",
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': in S3E10 Alicia is asleep when a chiming clock triggers her programming; she falls into a trance and rises from her bed to carry out an assassination order. The conditioning was imposed on her during a kidnapping, so it is forced. Loose because the bed trance is a programmed trigger (brainwashing) rather than a fresh induction.",
    "format": "tv",
    "categories": [
-    "other-control"
+    "other-control",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -270798,12 +272366,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1302",
     "worldwide-hypnosis:402",
-    "hypnosis-imdb-list-full-oct25:248"
+    "hypnosis-imdb-list-full-oct25:248",
+    "bed-hypnosis-nov26:4"
    ],
    "index_only": false,
    "local_only": false,
@@ -270902,6 +272472,50 @@
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:4",
+     "source": "bed-hypnosis-nov26",
+     "label": "Gran Hotel (2011)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Gran Hotel",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Gran Hotel (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Gran_Hotel"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S3E10 'Valtejar'",
+       "gist": "Asleep in bed, Alicia is put into a trance by a clock-chime trigger, rises from her bed and takes a pistol; later a doctor hypnotizes her"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis",
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': in S3E10 Alicia is asleep when a chiming clock triggers her programming; she falls into a trance and rises from her bed to carry out an assassination order. The conditioning was imposed on her during a kidnapping, so it is forced. Loose because the bed trance is a programmed trigger (brainwashing) rather than a fresh induction.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -270971,6 +272585,39 @@
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "bed-hypnosis-nov26:4": {
+     "title": "Gran Hotel",
+     "year": "2011",
+     "match_title": "Gran Hotel",
+     "match_year": "2011",
+     "format": "tv",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "S3E10 'Valtejar'",
+       "gist": "Asleep in bed, Alicia is put into a trance by a clock-chime trigger, rises from her bed and takes a pistol; later a doctor hypnotizes her"
+      }
+     ],
+     "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': in S3E10 Alicia is asleep when a chiming clock triggers her programming; she falls into a trance and rises from her bed to carry out an assassination order. The conditioning was imposed on her during a kidnapping, so it is forced. Loose because the bed trance is a programmed trigger (brainwashing) rather than a fresh induction.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Gran Hotel (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Gran_Hotel"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis",
+      "loose fit"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -283345,24 +284992,45 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "Episodes 4–5",
+     "gist": "Doctors hypnotize Xiao Nian as trauma therapy; Gong Ou waits at her bedside as she comes out of the trance"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': in episodes 4–5 a hypnotist puts Xiao Nian into a therapeutic trance (she agrees to it); the recap places her in bed, with Gong Ou waiting 'by her bedside as she comes out of the trance'. Consensual, not forced.",
    "format": "tv",
    "categories": [
-    "other-control"
+    "other-control",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/I_Love_My_President_Though_He%E2%80%99s_A_Psycho"
+    },
+    {
+     "label": "A Virtual Voyage — Episode 4 & 5 recap",
+     "url": "https://www.avirtualvoyage.net/2017/03/i-love-my-president-though-hes-a-psycho-episode-4-5-recap.html"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1362",
-    "worldwide-hypnosis:448"
+    "worldwide-hypnosis:448",
+    "bed-hypnosis-nov26:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -283422,6 +285090,46 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:3",
+     "source": "bed-hypnosis-nov26",
+     "label": "I Love My President Though He’s A Psycho",
+     "identifiers": [],
+     "title": "I Love My President Though He’s A Psycho",
+     "subtitle": "",
+     "year": "",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "A Virtual Voyage — Episode 4 & 5 recap",
+       "url": "https://www.avirtualvoyage.net/2017/03/i-love-my-president-though-hes-a-psycho-episode-4-5-recap.html"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Episodes 4–5",
+       "gist": "Doctors hypnotize Xiao Nian as trauma therapy; Gong Ou waits at her bedside as she comes out of the trance"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': in episodes 4–5 a hypnotist puts Xiao Nian into a therapeutic trance (she agrees to it); the recap places her in bed, with Gong Ou waiting 'by her bedside as she comes out of the trance'. Consensual, not forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -283465,6 +285173,37 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:3": {
+     "title": "I Love My President Though He’s A Psycho",
+     "year": "",
+     "match_title": "I Love My President Though He’s A Psycho",
+     "match_year": "",
+     "format": "tv",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "Episodes 4–5",
+       "gist": "Doctors hypnotize Xiao Nian as trauma therapy; Gong Ou waits at her bedside as she comes out of the trance"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': in episodes 4–5 a hypnotist puts Xiao Nian into a therapeutic trance (she agrees to it); the recap places her in bed, with Gong Ou waiting 'by her bedside as she comes out of the trance'. Consensual, not forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "A Virtual Voyage — Episode 4 & 5 recap",
+       "url": "https://www.avirtualvoyage.net/2017/03/i-love-my-president-though-hes-a-psycho-episode-4-5-recap.html"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -288265,10 +290004,26 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Lucille is hypnotized and, under mind control, lies down on the bed"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Lucille is hypnotized by the vampire Rowan and, under his control, lies down on the bed before he bites her. Forced.",
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -288279,11 +290034,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1388",
-    "worldwide-hypnosis:482"
+    "worldwide-hypnosis:482",
+    "bed-hypnosis-nov26:19"
    ],
    "index_only": false,
    "local_only": false,
@@ -288347,6 +290104,49 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:19",
+     "source": "bed-hypnosis-nov26",
+     "label": "Invite Only (2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Invite Only",
+     "subtitle": "",
+     "year": "2019",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Invite Only (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Invite_Only"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Lucille is hypnotized and, under mind control, lies down on the bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Lucille is hypnotized by the vampire Rowan and, under his control, lies down on the bed before he bites her. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -288392,6 +290192,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:19": {
+     "title": "Invite Only",
+     "year": "2019",
+     "match_title": "Invite Only",
+     "match_year": "2019",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Lucille is hypnotized and, under mind control, lies down on the bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Lucille is hypnotized by the vampire Rowan and, under his control, lies down on the bed before he bites her. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Invite Only (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Invite_Only"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    },
    "watch_links": [
@@ -296410,8 +298242,17 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Hypnotically seduced, the young woman lies in bed with Dracula"
+    }
+   ],
    "tags": [
-    "loose fit"
+    "loose fit",
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
    ],
    "kids_status": "unknown",
    "kids_together": "no",
@@ -296424,7 +298265,8 @@
    "categories": [
     "vampire",
     "india-control",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -296445,13 +298287,15 @@
     "xla62ucxbx02u5",
     "india-catalog",
     "worldwide-hypnosis",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1431",
     "india-catalog:103",
     "worldwide-hypnosis:493",
-    "hypnosis-assault-loose:30"
+    "hypnosis-assault-loose:30",
+    "bed-hypnosis-nov26:10"
    ],
    "index_only": false,
    "local_only": false,
@@ -296595,6 +298439,49 @@
      "fit_note": "Loose fit: vampire mesmerism leads to seduction and biting; sources do not describe an explicit assault.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:10",
+     "source": "bed-hypnosis-nov26",
+     "label": "Khooni Dracula (1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Khooni Dracula",
+     "subtitle": "",
+     "year": "1992",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Khooni Dracula (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Khooni_Dracula"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Hypnotically seduced, the young woman lies in bed with Dracula"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': under Dracula's hypnotic control the young woman lies in bed with him before he bites her. Forced vampire mesmerism.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -296710,6 +298597,38 @@
      "catalog_ids": [
       918
      ]
+    },
+    "bed-hypnosis-nov26:10": {
+     "title": "Khooni Dracula",
+     "year": "1992",
+     "match_title": "Khooni Dracula",
+     "match_year": "1992",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Hypnotically seduced, the young woman lies in bed with Dracula"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': under Dracula's hypnotic control the young woman lies in bed with him before he bites her. Forced vampire mesmerism.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Khooni Dracula (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Khooni_Dracula"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -296886,13 +298805,27 @@
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Morton and his wife Jane are hypnotized by the eye in their bedroom; he lays her out on the bed for it"
+    }
+   ],
    "tags": [
     "imdb-list-ls099930129",
-    "bestsimilar-hypnosis-6496"
+    "bestsimilar-hypnosis-6496",
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
    ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Jane and her husband Morton are hypnotized by the eye in their bedroom, and he lays her out on the bed for the creature, which assaults her. Forced. Plot detail kept non-explicit.",
    "format": "movie",
    "categories": [
-    "other-control"
+    "other-control",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -296921,13 +298854,15 @@
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "hypnosis-imdb-list-full-oct25",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1433",
     "worldwide-hypnosis:919",
     "hypnosis-imdb-list-full-oct25:257",
-    "hypnosis-bestsimilar-nov5:164"
+    "hypnosis-bestsimilar-nov5:164",
+    "bed-hypnosis-nov26:29"
    ],
    "index_only": false,
    "local_only": false,
@@ -297059,6 +298994,49 @@
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:29",
+     "source": "bed-hypnosis-nov26",
+     "label": "The Killer Eye (1999)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Killer Eye",
+     "subtitle": "",
+     "year": "1999",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — The Killer Eye plot",
+       "url": "https://en.wikipedia.org/wiki/The_Killer_Eye"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Morton and his wife Jane are hypnotized by the eye in their bedroom; he lays her out on the bed for it"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Jane and her husband Morton are hypnotized by the eye in their bedroom, and he lays her out on the bed for the creature, which assaults her. Forced. Plot detail kept non-explicit.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -297150,6 +299128,38 @@
       "bestsimilar-hypnosis-6496"
      ],
      "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
+    },
+    "bed-hypnosis-nov26:29": {
+     "title": "The Killer Eye",
+     "year": "1999",
+     "match_title": "The Killer Eye",
+     "match_year": "1999",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Morton and his wife Jane are hypnotized by the eye in their bedroom; he lays her out on the bed for it"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Jane and her husband Morton are hypnotized by the eye in their bedroom, and he lays her out on the bed for the creature, which assaults her. Forced. Plot detail kept non-explicit.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Wikipedia — The Killer Eye plot",
+       "url": "https://en.wikipedia.org/wiki/The_Killer_Eye"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    },
    "watch_links": [
@@ -303893,10 +305903,26 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Erica wakes to Margaret's hypnotic call and gets out of bed under the vampire's control"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Erica wakes to the vampire Margaret's hypnotic call and, under her control, gets out of bed. Forced.",
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -303907,11 +305933,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1465",
-    "worldwide-hypnosis:527"
+    "worldwide-hypnosis:527",
+    "bed-hypnosis-nov26:21"
    ],
    "index_only": false,
    "local_only": false,
@@ -303975,6 +306003,49 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:21",
+     "source": "bed-hypnosis-nov26",
+     "label": "La llamada del vampiro (1972)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "La llamada del vampiro",
+     "subtitle": "",
+     "year": "1972",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — La llamada del vampiro (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/La_llamada_del_vampiro"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Erica wakes to Margaret's hypnotic call and gets out of bed under the vampire's control"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Erica wakes to the vampire Margaret's hypnotic call and, under her control, gets out of bed. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -304020,6 +306091,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:21": {
+     "title": "La llamada del vampiro",
+     "year": "1972",
+     "match_title": "La llamada del vampiro",
+     "match_year": "1972",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Erica wakes to Margaret's hypnotic call and gets out of bed under the vampire's control"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Erica wakes to the vampire Margaret's hypnotic call and, under her control, gets out of bed. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — La llamada del vampiro (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/La_llamada_del_vampiro"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -304495,16 +306598,29 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Susan wakes under Lillian's control and, hypnotized, gets out of bed"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
    "kids_status": "not stated",
    "kids_note": "not stated",
    "kids_together": "not stated",
    "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Susan wakes under Lillian's control and, hypnotized, gets out of bed and follows her to the tower. Forced.",
    "already_married": "yes",
    "already_married_note": "Yes — husband: her husband",
    "format": "movie",
    "categories": [
     "human",
-    "wife-hypnotized"
+    "wife-hypnotized",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -304520,12 +306636,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1469",
     "worldwide-hypnosis:550",
-    "wife-hypnosis-oct15:54"
+    "wife-hypnosis-oct15:54",
+    "bed-hypnosis-nov26:22"
    ],
    "index_only": false,
    "local_only": false,
@@ -304624,6 +306742,49 @@
      "already_married_note": "Yes — husband: her husband",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:22",
+     "source": "bed-hypnosis-nov26",
+     "label": "Lady Morgan's Vengeance (1965)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Lady Morgan's Vengeance",
+     "subtitle": "",
+     "year": "1965",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Lady Morgan's Vengeance (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Lady_Morgan%27s_Vengeance"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Susan wakes under Lillian's control and, hypnotized, gets out of bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Susan wakes under Lillian's control and, hypnotized, gets out of bed and follows her to the tower. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -304691,6 +306852,38 @@
      "kids_together": "not stated",
      "kids_status": "not stated",
      "kids_note": "not stated"
+    },
+    "bed-hypnosis-nov26:22": {
+     "title": "Lady Morgan's Vengeance",
+     "year": "1965",
+     "match_title": "Lady Morgan's Vengeance",
+     "match_year": "1965",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Susan wakes under Lillian's control and, hypnotized, gets out of bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Susan wakes under Lillian's control and, hypnotized, gets out of bed and follows her to the tower. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Lady Morgan's Vengeance (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Lady_Morgan%27s_Vengeance"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -334749,10 +336942,26 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Marina wakes under the vampire's hypnotic call and, mesmerized, gets up from her bed"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Marina wakes under the vampire's hypnotic call and, mesmerized, gets up from her bed. Forced.",
    "format": "movie",
    "categories": [
     "vampire",
-    "india-control"
+    "india-control",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -334768,12 +336977,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1617",
     "india-catalog:119",
-    "worldwide-hypnosis:640"
+    "worldwide-hypnosis:640",
+    "bed-hypnosis-nov26:23"
    ],
    "index_only": false,
    "local_only": false,
@@ -334874,6 +337085,49 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:23",
+     "source": "bed-hypnosis-nov26",
+     "label": "Nishi Trishna (1989)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Nishi Trishna",
+     "subtitle": "",
+     "year": "1989",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Nishi Trishna (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Nishi_Trishna"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Marina wakes under the vampire's hypnotic call and, mesmerized, gets up from her bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Marina wakes under the vampire's hypnotic call and, mesmerized, gets up from her bed. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -334948,6 +337202,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:23": {
+     "title": "Nishi Trishna",
+     "year": "1989",
+     "match_title": "Nishi Trishna",
+     "match_year": "1989",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Marina wakes under the vampire's hypnotic call and, mesmerized, gets up from her bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Marina wakes under the vampire's hypnotic call and, mesmerized, gets up from her bed. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Nishi Trishna (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Nishi_Trishna"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -346997,9 +349283,26 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "Episode 201",
+     "gist": "A hypnotist whispers to Rosa as she sleeps and hypnotizes her in her sleep"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis",
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': in episode 201 the hypnotist whispers to Rosa while she sleeps and hypnotizes her; in trance she gets up, sleepwalks and lies down next to him. Forced. Loose because the source says she is asleep but does not name the bed.",
    "format": "tv",
    "categories": [
-    "other-control"
+    "other-control",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -347014,11 +349317,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1672",
-    "worldwide-hypnosis:695"
+    "worldwide-hypnosis:695",
+    "bed-hypnosis-nov26:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -347088,6 +349393,50 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:5",
+     "source": "bed-hypnosis-nov26",
+     "label": "Pobre Rico (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Pobre Rico",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Pobre Rico (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Pobre_Rico"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 201",
+       "gist": "A hypnotist whispers to Rosa as she sleeps and hypnotizes her in her sleep"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis",
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': in episode 201 the hypnotist whispers to Rosa while she sleeps and hypnotizes her; in trance she gets up, sleepwalks and lies down next to him. Forced. Loose because the source says she is asleep but does not name the bed.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -347139,6 +349488,39 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:5": {
+     "title": "Pobre Rico",
+     "year": "2012",
+     "match_title": "Pobre Rico",
+     "match_year": "2012",
+     "format": "tv",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 201",
+       "gist": "A hypnotist whispers to Rosa as she sleeps and hypnotizes her in her sleep"
+      }
+     ],
+     "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': in episode 201 the hypnotist whispers to Rosa while she sleeps and hypnotizes her; in trance she gets up, sleepwalks and lies down next to him. Forced. Loose because the source says she is asleep but does not name the bed.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Pobre Rico (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Pobre_Rico"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis",
+      "loose fit"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -358508,9 +360890,25 @@
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Dr. Krupp sends his hypnotic summons; Flora wakes in a trance and gets up from the bed"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': the hypnotist Dr. Krupp sends his hypnotic summons; Flora wakes in a trance and, under his control, gets up from the bed and leaves the house. Forced.",
    "format": "movie",
    "categories": [
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -358525,11 +360923,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1723",
-    "worldwide-hypnosis:956"
+    "worldwide-hypnosis:956",
+    "bed-hypnosis-nov26:24"
    ],
    "index_only": false,
    "local_only": false,
@@ -358599,6 +360999,49 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:24",
+     "source": "bed-hypnosis-nov26",
+     "label": "The Robot vs. the Aztec Mummy (1958)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Robot vs. the Aztec Mummy",
+     "subtitle": "",
+     "year": "1958",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — The Robot vs. the Aztec Mummy (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Robot_vs._the_Aztec_Mummy"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Dr. Krupp sends his hypnotic summons; Flora wakes in a trance and gets up from the bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': the hypnotist Dr. Krupp sends his hypnotic summons; Flora wakes in a trance and, under his control, gets up from the bed and leaves the house. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -358650,6 +361093,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:24": {
+     "title": "The Robot vs. the Aztec Mummy",
+     "year": "1958",
+     "match_title": "The Robot vs. the Aztec Mummy",
+     "match_year": "1958",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Dr. Krupp sends his hypnotic summons; Flora wakes in a trance and gets up from the bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': the hypnotist Dr. Krupp sends his hypnotic summons; Flora wakes in a trance and, under his control, gets up from the bed and leaves the house. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — The Robot vs. the Aztec Mummy (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Robot_vs._the_Aztec_Mummy"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    },
    "watch_links": [
@@ -361515,10 +363990,26 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Luisa is hypnotized by the vampire and gets up from her bed"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Luisa is hypnotized by Dracula and gets up from her bed before he feeds on her. Forced.",
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -361533,11 +364024,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1739",
-    "worldwide-hypnosis:751"
+    "worldwide-hypnosis:751",
+    "bed-hypnosis-nov26:25"
    ],
    "index_only": false,
    "local_only": false,
@@ -361609,6 +364102,49 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:25",
+     "source": "bed-hypnosis-nov26",
+     "label": "Santo en el tesoro de Drácula (1968)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Santo en el tesoro de Drácula",
+     "subtitle": "",
+     "year": "1968",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki — Santo en el tesoro de Drácula (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Santo_en_el_tesoro_de_Dr%C3%A1cula"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Luisa is hypnotized by the vampire and gets up from her bed"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Luisa is hypnotized by Dracula and gets up from her bed before he feeds on her. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -361662,6 +364198,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "bed-hypnosis-nov26:25": {
+     "title": "Santo en el tesoro de Drácula",
+     "year": "1968",
+     "match_title": "Santo en el tesoro de Drácula",
+     "match_year": "1968",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Luisa is hypnotized by the vampire and gets up from her bed"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Luisa is hypnotized by Dracula and gets up from her bed before he feeds on her. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Mental Block wiki — Santo en el tesoro de Drácula (scene captions)",
+       "url": "https://mentalblock.miraheze.org/wiki/Santo_en_el_tesoro_de_Dr%C3%A1cula"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -372896,12 +375464,26 @@
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Grace is the woman hypnotized; Danielle's pregnancy is backstory.",
-   "tags": [
-    "bestsimilar-hypnosis-6496"
+   "episodes": [
+    {
+     "episode": "Climax",
+     "gist": "At the asylum Emil sedates and hypnotizes Grace and places Danielle on the bed beside her"
+    }
    ],
+   "tags": [
+    "bestsimilar-hypnosis-6496",
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Existing card tagged 'hypnotized in bed': at the remote asylum Emil sedates and hypnotizes Grace and places Danielle on the bed beside her; Grace stays under his hypnotic spell afterwards. Forced (sedation plus hypnosis).",
    "format": "movie",
    "categories": [
-    "human"
+    "human",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -372919,18 +375501,24 @@
     {
      "label": "BestSimilar tag: hypnosis",
      "url": "https://bestsimilar.com/tag/6496-hypnosis"
+    },
+    {
+     "label": "Wikipedia — Sisters (1972 film) plot",
+     "url": "https://en.wikipedia.org/wiki/Sisters_(1972_film)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-bestsimilar-nov5"
+    "hypnosis-bestsimilar-nov5",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1796",
     "worldwide-hypnosis:770",
-    "hypnosis-bestsimilar-nov5:41"
+    "hypnosis-bestsimilar-nov5:41",
+    "bed-hypnosis-nov26:28"
    ],
    "index_only": false,
    "local_only": false,
@@ -373033,6 +375621,49 @@
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:28",
+     "source": "bed-hypnosis-nov26",
+     "label": "Sisters (1973)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sisters",
+     "subtitle": "",
+     "year": "1973",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — Sisters (1972 film) plot",
+       "url": "https://en.wikipedia.org/wiki/Sisters_(1972_film)"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Climax",
+       "gist": "At the asylum Emil sedates and hypnotizes Grace and places Danielle on the bed beside her"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': at the remote asylum Emil sedates and hypnotizes Grace and places Danielle on the bed beside her; Grace stays under his hypnotic spell afterwards. Forced (sedation plus hypnosis).",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -373106,6 +375737,38 @@
       "bestsimilar-hypnosis-6496"
      ],
      "provenance": "BestSimilar tag 6496-hypnosis import, 5 Nov 2026 PT; source link only on existing catalog card"
+    },
+    "bed-hypnosis-nov26:28": {
+     "title": "Sisters",
+     "year": "1973",
+     "match_title": "Sisters",
+     "match_year": "1973",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "Climax",
+       "gist": "At the asylum Emil sedates and hypnotizes Grace and places Danielle on the bed beside her"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': at the remote asylum Emil sedates and hypnotizes Grace and places Danielle on the bed beside her; Grace stays under his hypnotic spell afterwards. Forced (sedation plus hypnosis).",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Wikipedia — Sisters (1972 film) plot",
+       "url": "https://en.wikipedia.org/wiki/Sisters_(1972_film)"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    },
    "watch_links": [
@@ -545847,9 +548510,18 @@
    "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
    "note": "",
    "pregnancy_note": "not stated in the plot summary",
+   "episodes": [
+    {
+     "episode": "—",
+     "gist": "Rossignol carries Rosine to a bed and hypnotizes her"
+    }
+   ],
    "tags": [
     "deep-oct25",
-    "wikipedia-plot"
+    "wikipedia-plot",
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -545857,10 +548529,12 @@
    "pregnant_end": "not stated",
    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
    "evidence": "Wikipedia plot summary (en edition, page \"The Man in the Moonlight\")",
+   "fit_note": "Existing card tagged 'hypnotized in bed': Rossignol carries Rosine to a bed and hypnotizes her. Forced.",
    "already_married": "not stated",
    "format": "movie",
    "categories": [
-    "forced-obedience"
+    "forced-obedience",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -545870,16 +548544,100 @@
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:46"
+    "hypnosis-deep-oct25:46",
+    "bed-hypnosis-nov26:27"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-deep-oct25:46",
+    "source": "hypnosis-deep-oct25",
+    "label": "The Man in the Moonlight (1919)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Man in the Moonlight",
+    "subtitle": "",
+    "year": "1919",
+    "meta": "Wikipedia en · movie",
+    "summary": "Rossignol carries Rosine to a bed and hypnotises her.",
+    "character": "Rosine",
+    "note": "",
+    "mechanism": "hypnosis by Rossignol",
+    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia — plot summary",
+      "url": "https://en.wikipedia.org/wiki/The_Man_in_the_Moonlight"
+     }
+    ],
+    "pregnancy_note": "not stated in the plot summary",
+    "tags": [
+     "deep-oct25",
+     "wikipedia-plot"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+    "evidence": "Wikipedia plot summary (en edition, page \"The Man in the Moonlight\")",
+    "already_married": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "bed-hypnosis-nov26:27",
+     "source": "bed-hypnosis-nov26",
+     "label": "The Man in the Moonlight (1919)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Man in the Moonlight",
+     "subtitle": "",
+     "year": "1919",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — The Man in the Moonlight",
+       "url": "https://en.wikipedia.org/wiki/The_Man_in_the_Moonlight"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Rossignol carries Rosine to a bed and hypnotizes her"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': Rossignol carries Rosine to a bed and hypnotizes her. Forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-deep-oct25:46": {
      "title": "The Man in the Moonlight",
@@ -545912,6 +548670,38 @@
      "evidence": "Wikipedia plot summary (en edition, page \"The Man in the Moonlight\")",
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    },
+    "bed-hypnosis-nov26:27": {
+     "title": "The Man in the Moonlight",
+     "year": "1919",
+     "match_title": "The Man in the Moonlight",
+     "match_year": "1919",
+     "format": "movie",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "—",
+       "gist": "Rossignol carries Rosine to a bed and hypnotizes her"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': Rossignol carries Rosine to a bed and hypnotizes her. Forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Wikipedia — The Man in the Moonlight",
+       "url": "https://en.wikipedia.org/wiki/The_Man_in_the_Moonlight"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -603465,11 +606255,21 @@
    "provenance": "Husband-hypnotist pass, 12 Nov 2026 PT (adult women hypnotized by their own husband; possession excluded; non-explicit notes)",
    "note": "",
    "pregnancy_note": "Not stated in the episode page or listener summaries.",
+   "episodes": [
+    {
+     "episode": "#0950",
+     "gist": "Rod hypnotizes his wife Olivia in her sleep to commit murders"
+    }
+   ],
    "tags": [
     "husband-hypnosis-nov12",
     "hypnotized by partner/husband",
     "radio",
-    "old-time radio"
+    "old-time radio",
+    "bed-hypnosis-nov26",
+    "hypnotized in bed",
+    "forced hypnosis",
+    "loose fit"
    ],
    "hypnotist": "her husband Rod Talbert (himself acting under Professor Leo Hertel's hypnosis)",
    "method": "hypnosis during sleep",
@@ -603479,6 +606279,7 @@
    "married": "yes",
    "pregnant_end": "not stated",
    "evidence": "Episode page plot plus listener spoiler summary: 'Rod Talbert … hypnotizes his wife Olivia … in her sleep to commit murder.'",
+   "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': Rod hypnotizes Olivia in her sleep. Forced. Loose because the sources say 'in her sleep' without naming the bed.",
    "already_married": "yes",
    "format": "audio drama",
    "categories": [
@@ -603486,7 +606287,8 @@
     "partner-control",
     "wife-hypnotized",
     "crime",
-    "forced-obedience"
+    "forced-obedience",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -603496,16 +606298,109 @@
    ],
    "youtube_ids": [],
    "from_sources": [
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
-    "husband-hypnosis-nov12:2"
+    "husband-hypnosis-nov12:2",
+    "bed-hypnosis-nov26:6"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "husband-hypnosis-nov12:2",
+    "source": "husband-hypnosis-nov12",
+    "label": "CBS Radio Mystery Theater — \"The Dominant Personality\" (1979)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "CBS Radio Mystery Theater — \"The Dominant Personality\"",
+    "subtitle": "",
+    "year": "1979",
+    "meta": "Radio drama episode · USA · English · CBS Radio Mystery Theater #0950 · first run 26 Jan 1979 · written by Percy Granger · Roberta Maxwell, Ralph Bell, Gordon Heath",
+    "summary": "After their wedding Olivia moves to the wilderness with her loner husband Rod. A series of murders nearby points to him. The twist: Rod has been hypnotizing Olivia in her sleep to commit the killings — and he himself was hypnotized into doing so by Professor Leo Hertel, the real 'dominant personality'.",
+    "character": "Olivia Talbert (Roberta Maxwell), a city waitress newly married to recluse Rod Talbert (Ralph Bell)",
+    "note": "",
+    "mechanism": "husband hypnotizes wife into murder",
+    "confidence_flag": "medium · single archive source",
+    "categories": [
+     "wife",
+     "partner-control",
+     "wife-hypnotized",
+     "crime",
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "CBS Radio Mystery Theater archive — episode 0950 (listen + plot)",
+      "url": "https://www.cbsrmt.com/episode/950-the-dominant-personality.html"
+     }
+    ],
+    "pregnancy_note": "Not stated in the episode page or listener summaries.",
+    "tags": [
+     "husband-hypnosis-nov12",
+     "hypnotized by partner/husband",
+     "radio",
+     "old-time radio"
+    ],
+    "hypnotist": "her husband Rod Talbert (himself acting under Professor Leo Hertel's hypnosis)",
+    "method": "hypnosis during sleep",
+    "kids_status": "no (newlyweds; none mentioned)",
+    "kids_note": "No children are mentioned.",
+    "kids_together": "not stated",
+    "married": "yes",
+    "pregnant_end": "not stated",
+    "evidence": "Episode page plot plus listener spoiler summary: 'Rod Talbert … hypnotizes his wife Olivia … in her sleep to commit murder.'",
+    "already_married": "yes",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "bed-hypnosis-nov26:6",
+     "source": "bed-hypnosis-nov26",
+     "label": "CBS Radio Mystery Theater — \"The Dominant Personality\" (1979)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "CBS Radio Mystery Theater — \"The Dominant Personality\"",
+     "subtitle": "",
+     "year": "1979",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "cbsrmt.com — The Dominant Personality",
+       "url": "https://www.cbsrmt.com/episode/950-the-dominant-personality.html"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "#0950",
+       "gist": "Rod hypnotizes his wife Olivia in her sleep to commit murders"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis",
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': Rod hypnotizes Olivia in her sleep. Forced. Loose because the sources say 'in her sleep' without naming the bed.",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "husband-hypnosis-nov12:2": {
      "title": "CBS Radio Mystery Theater — \"The Dominant Personality\"",
@@ -603547,6 +606442,39 @@
      "provenance": "Husband-hypnotist pass, 12 Nov 2026 PT (adult women hypnotized by their own husband; possession excluded; non-explicit notes)",
      "married": "yes",
      "already_married": "yes"
+    },
+    "bed-hypnosis-nov26:6": {
+     "title": "CBS Radio Mystery Theater — \"The Dominant Personality\"",
+     "year": "1979",
+     "match_title": "CBS Radio Mystery Theater — \"The Dominant Personality\"",
+     "match_year": "1979",
+     "format": "audio drama",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "#0950",
+       "gist": "Rod hypnotizes his wife Olivia in her sleep to commit murders"
+      }
+     ],
+     "fit_note": "Loose fit — Existing card tagged 'hypnotized in bed': Rod hypnotizes Olivia in her sleep. Forced. Loose because the sources say 'in her sleep' without naming the bed.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "cbsrmt.com — The Dominant Personality",
+       "url": "https://www.cbsrmt.com/episode/950-the-dominant-personality.html"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed",
+      "forced hypnosis",
+      "loose fit"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -614360,17 +617288,29 @@
    "character": "Unnamed adult female hospital patient in labour; other adult female patients shown under hypnosis",
    "provenance": "Female hypnosis focused sweep, 25 Nov 2026 PT (adults only; non-explicit notes; AI-generated works tagged)",
    "note": "",
+   "episodes": [
+    {
+     "episode": "Shot list",
+     "gist": "A frightened patient in a hospital bed is hypnotized by a doctor before a painless delivery"
+    }
+   ],
+   "tags": [
+    "bed-hypnosis-nov26",
+    "hypnotized in bed"
+   ],
    "kids_status": "no",
    "kids_together": "no",
    "pregnant_end": "yes",
    "evidence": "The Cinemantik archive page for Psychothérapie en URSS / Psychotherapy in the USSR (1970, ref. 040J-16-PSY70, about 13 minutes) describes a Soviet film about psychotherapy used to treat sick women and to help them give birth without pain. Its shot list states that a patient who is afraid in a hospital bed is hypnotized by a doctor, taken to the delivery room, has contractions without pain, gives birth calmly, follows the nurses' instructions, and wakes after delivery, after which the doctor explains his method. Earlier shots describe other adult female patients being hypnotized in an auditorium and in a consulting room.",
+   "fit_note": "Existing card tagged 'hypnotized in bed': the archive shot list says a frightened patient in a hospital bed is hypnotized by a doctor, then taken to the delivery room. Medical and consensual, not forced.",
    "adult": "no",
    "format": "documentary",
    "categories": [
     "medical",
     "pregnant-strict",
     "pregnant",
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "hypnotized-in-bed"
    ],
    "sources": [
     {
@@ -614380,16 +617320,95 @@
    ],
    "youtube_ids": [],
    "from_sources": [
-    "female-hypnosis-nov25"
+    "female-hypnosis-nov25",
+    "bed-hypnosis-nov26"
    ],
    "source_records": [
-    "female-hypnosis-nov25:2"
+    "female-hypnosis-nov25:2",
+    "bed-hypnosis-nov26:7"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "female-hypnosis-nov25:2",
+    "source": "female-hypnosis-nov25",
+    "label": "Psychothérapie en URSS / Psychotherapy in the USSR (1970)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Psychothérapie en URSS / Psychotherapy in the USSR",
+    "subtitle": "",
+    "year": "1970",
+    "meta": "Soviet 16 mm colour sound film · about 13 minutes (part 1) · French-language print held by Cinemantik as 040J-16-PSY70",
+    "summary": "A film-archive listing describes a 1970 Soviet film on psychotherapy in which a doctor hypnotizes a frightened hospital patient, who is then taken to a delivery room, has contractions without pain, gives birth calmly while following the nurses' instructions, and is awakened after the birth. Other sequences show adult women hypnotized in a lecture hall and in a consulting room.",
+    "character": "Unnamed adult female hospital patient in labour; other adult female patients shown under hypnosis",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "Single source · flag",
+    "categories": [
+     "medical",
+     "pregnant-strict",
+     "pregnant",
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "Cinemantik film-archive listing (part 1)",
+      "url": "https://www.archivesfilms.com/?p=1909"
+     }
+    ],
+    "kids_status": "no",
+    "kids_together": "no",
+    "pregnant_end": "yes",
+    "evidence": "The Cinemantik archive page for Psychothérapie en URSS / Psychotherapy in the USSR (1970, ref. 040J-16-PSY70, about 13 minutes) describes a Soviet film about psychotherapy used to treat sick women and to help them give birth without pain. Its shot list states that a patient who is afraid in a hospital bed is hypnotized by a doctor, taken to the delivery room, has contractions without pain, gives birth calmly, follows the nurses' instructions, and wakes after delivery, after which the doctor explains his method. Earlier shots describe other adult female patients being hypnotized in an auditorium and in a consulting room.",
+    "adult": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "bed-hypnosis-nov26:7",
+     "source": "bed-hypnosis-nov26",
+     "label": "Psychothérapie en URSS / Psychotherapy in the USSR (1970)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Psychothérapie en URSS / Psychotherapy in the USSR",
+     "subtitle": "",
+     "year": "1970",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "sources": [
+      {
+       "label": "Cinemantik film-archive listing (shot list)",
+       "url": "https://www.archivesfilms.com/?p=1909"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Shot list",
+       "gist": "A frightened patient in a hospital bed is hypnotized by a doctor before a painless delivery"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Existing card tagged 'hypnotized in bed': the archive shot list says a frightened patient in a hospital bed is hypnotized by a doctor, then taken to the delivery room. Medical and consensual, not forced.",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "female-hypnosis-nov25:2": {
      "pregnant_end": "yes",
@@ -614417,6 +617436,37 @@
      ],
      "evidence": "The Cinemantik archive page for Psychothérapie en URSS / Psychotherapy in the USSR (1970, ref. 040J-16-PSY70, about 13 minutes) describes a Soviet film about psychotherapy used to treat sick women and to help them give birth without pain. Its shot list states that a patient who is afraid in a hospital bed is hypnotized by a doctor, taken to the delivery room, has contractions without pain, gives birth calmly, follows the nurses' instructions, and wakes after delivery, after which the doctor explains his method. Earlier shots describe other adult female patients being hypnotized in an auditorium and in a consulting room.",
      "confidence_flag": "Single source · flag"
+    },
+    "bed-hypnosis-nov26:7": {
+     "title": "Psychothérapie en URSS / Psychotherapy in the USSR",
+     "year": "1970",
+     "match_title": "Psychothérapie en URSS / Psychotherapy in the USSR",
+     "match_year": "1970",
+     "format": "documentary",
+     "categories": [
+      "hypnotized-in-bed"
+     ],
+     "episodes": [
+      {
+       "episode": "Shot list",
+       "gist": "A frightened patient in a hospital bed is hypnotized by a doctor before a painless delivery"
+      }
+     ],
+     "fit_note": "Existing card tagged 'hypnotized in bed': the archive shot list says a frightened patient in a hospital bed is hypnotized by a doctor, then taken to the delivery room. Medical and consensual, not forced.",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "sources": [
+      {
+       "label": "Cinemantik film-archive listing (shot list)",
+       "url": "https://www.archivesfilms.com/?p=1909"
+      }
+     ],
+     "tags": [
+      "bed-hypnosis-nov26",
+      "hypnotized in bed"
+     ],
+     "provenance": "Hypnotized-in-bed pass, 26 Nov 2026 PT (adult women hypnotized while lying or sitting on a bed; forced hypnosis included; possession, spells/potions, drugs-only and device control excluded) — existing card tagged, not a new title"
     }
    }
   },
@@ -622667,10 +625717,10 @@
      "items": [
       {
        "id": 4200,
-       "tags": [],
        "from_source": "worldwide-hypnosis-discovery-nov25"
       }
-     ]
+     ],
+     "from_source": "worldwide-hypnosis-discovery-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -622720,7 +625770,8 @@
     "widow-hypnotized-marriage-nov19": null,
     "deep-refresh-nov19-c": null,
     "female-hypnosis-nov25": null,
-    "hypnotic-healing-similar-nov25": null
+    "hypnotic-healing-similar-nov25": null,
+    "worldwide-hypnosis-discovery-nov25": null
    }
   },
   {
@@ -625890,10 +628941,10 @@
      "items": [
       {
        "id": 4199,
-       "tags": [],
        "from_source": "worldwide-hypnosis-discovery-nov25"
       }
-     ]
+     ],
+     "from_source": "worldwide-hypnosis-discovery-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -625910,7 +628961,8 @@
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
     "deep-refresh-nov19-b": null,
-    "hypnotic-healing-similar-nov25": null
+    "hypnotic-healing-similar-nov25": null,
+    "worldwide-hypnosis-discovery-nov25": null
    }
   },
   {
@@ -633128,10 +636180,10 @@
      "items": [
       {
        "id": 4198,
-       "tags": [],
        "from_source": "partner-hypnosis-discovery-t64u"
       }
-     ]
+     ],
+     "from_source": "partner-hypnosis-discovery-t64u"
     }
    ],
    "declared_count_by_source": {
@@ -633161,7 +636213,8 @@
     "partner-hypnosis-nov19c": null,
     "deep-refresh-nov19-pregnant-partner": null,
     "deep-refresh-nov19-c": null,
-    "wife-hypno-partner-nov25": null
+    "wife-hypno-partner-nov25": null,
+    "partner-hypnosis-discovery-t64u": null
    }
   },
   {
@@ -634530,6 +637583,7 @@
         "Human-villain hypnosis / mind control",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -641085,10 +644139,10 @@
      "items": [
       {
        "id": 4198,
-       "tags": [],
        "from_source": "partner-hypnosis-discovery-t64u"
       }
-     ]
+     ],
+     "from_source": "partner-hypnosis-discovery-t64u"
     }
    ],
    "declared_count_by_source": {
@@ -641130,7 +644184,8 @@
     "deep-refresh-nov19-pregnant-partner": null,
     "deep-refresh-nov19-c": null,
     "weekly-nov23": null,
-    "wife-hypno-partner-nov25": null
+    "wife-hypno-partner-nov25": null,
+    "partner-hypnosis-discovery-t64u": null
    }
   },
   {
@@ -642158,10 +645213,10 @@
      "items": [
       {
        "id": 4198,
-       "tags": [],
        "from_source": "partner-hypnosis-discovery-t64u"
       }
-     ]
+     ],
+     "from_source": "partner-hypnosis-discovery-t64u"
     }
    ],
    "declared_count_by_source": {
@@ -642186,8 +645241,150 @@
     "hypno-sex-nov12": null,
     "husband-hypnosis-nov12": null,
     "deep-refresh-nov19-b": null,
-    "partner-hypnosis-nov19c": null
+    "partner-hypnosis-nov19c": null,
+    "partner-hypnosis-discovery-t64u": null
    }
+  },
+  {
+   "title": "Hypnotized in bed",
+   "category": "hypnotized-in-bed",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "bed-hypnosis-nov26"
+   ],
+   "declared_count_by_source": {
+    "bed-hypnosis-nov26": null
+   },
+   "groups": [
+    {
+     "title": "Adult woman hypnotized while in bed",
+     "notes": [],
+     "items": [
+      {
+       "id": 926,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 992,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 265,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 4057,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1045,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 812,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 263,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1075,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 244,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1116,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1169,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1170,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1190,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1224,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1291,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 142,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1350,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1376,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1419,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1421,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 256,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1452,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1456,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 3465,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1603,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1658,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 4176,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1709,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1725,
+       "from_source": "bed-hypnosis-nov26"
+      },
+      {
+       "id": 1782,
+       "from_source": "bed-hypnosis-nov26"
+      }
+     ],
+     "from_source": "bed-hypnosis-nov26"
+    }
+   ]
   },
   {
    "title": "Hypnotized into crime",
@@ -643482,10 +646679,10 @@
      "items": [
       {
        "id": 4200,
-       "tags": [],
        "from_source": "worldwide-hypnosis-discovery-nov25"
       }
-     ]
+     ],
+     "from_source": "worldwide-hypnosis-discovery-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -643526,7 +646723,8 @@
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
     "deep-refresh-nov19": null,
-    "deep-refresh-nov19-pregnant-partner": null
+    "deep-refresh-nov19-pregnant-partner": null,
+    "worldwide-hypnosis-discovery-nov25": null
    }
   },
   {
@@ -646572,15 +649770,14 @@
      "items": [
       {
        "id": 4201,
-       "tags": [],
        "from_source": "worldwide-hypnosis-discovery-nov25"
       },
       {
        "id": 4202,
-       "tags": [],
        "from_source": "worldwide-hypnosis-discovery-nov25"
       }
-     ]
+     ],
+     "from_source": "worldwide-hypnosis-discovery-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -646621,7 +649818,8 @@
     "husband-hypnosis-nov12": null,
     "weekly-nov16": null,
     "hypnotic-healing-similar-nov25": null,
-    "wife-hypno-partner-nov25": null
+    "wife-hypno-partner-nov25": null,
+    "worldwide-hypnosis-discovery-nov25": null
    }
   },
   {
@@ -651535,25 +654733,22 @@
      "items": [
       {
        "id": 4201,
-       "tags": [],
        "from_source": "worldwide-hypnosis-discovery-nov25"
       },
       {
        "id": 4202,
-       "tags": [],
        "from_source": "worldwide-hypnosis-discovery-nov25"
       },
       {
        "id": 4200,
-       "tags": [],
        "from_source": "worldwide-hypnosis-discovery-nov25"
       },
       {
        "id": 4199,
-       "tags": [],
        "from_source": "worldwide-hypnosis-discovery-nov25"
       }
-     ]
+     ],
+     "from_source": "worldwide-hypnosis-discovery-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -651612,7 +654807,8 @@
     "husband-hypnosis-nov12": null,
     "partner-hypnosis-nov19b": null,
     "female-hypnosis-nov25": null,
-    "hypnotic-healing-similar-nov25": null
+    "hypnotic-healing-similar-nov25": null,
+    "worldwide-hypnosis-discovery-nov25": null
    }
   },
   {
@@ -655516,6 +658712,12 @@
         "Other female hypnosis / mind control",
         "Hypnosis",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/I_Love_My_President_Though_He%E2%80%99s_A_Psycho"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -680139,6 +683341,7 @@
         "Human-villain hypnosis / mind control",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -682592,7 +685795,8 @@
     "partner-hypnosis-nov19c": null,
     "deep-refresh-nov19-pregnant-partner": null,
     "hypnotic-healing-similar-nov25": null,
-    "wife-hypno-partner-nov25": null
+    "wife-hypno-partner-nov25": null,
+    "partner-hypnosis-discovery-t64u": null
    },
    "groups": [
     {
@@ -683749,10 +686953,10 @@
      "items": [
       {
        "id": 4198,
-       "tags": [],
        "from_source": "partner-hypnosis-discovery-t64u"
       }
-     ]
+     ],
+     "from_source": "partner-hypnosis-discovery-t64u"
     }
    ]
   },

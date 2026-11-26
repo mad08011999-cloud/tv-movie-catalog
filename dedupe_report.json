@@ -4227,6 +4227,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:2",
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -7407,6 +7414,13 @@
      "subtitle": "",
      "year": "1967–68",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:1",
+     "title": "Dark Shadows",
+     "subtitle": "",
+     "year": "1967",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -7801,6 +7815,13 @@
      "subtitle": "",
      "year": "1963",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:20",
+     "title": "Kiss of the Vampire",
+     "subtitle": "",
+     "year": "1963",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -7983,6 +8004,13 @@
      "subtitle": "",
      "year": "1970",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:14",
+     "title": "Count Yorga, Vampire",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -8034,6 +8062,13 @@
     {
      "rid": "worldwide-hypnosis:1071",
      "title": "Buffy the Vampire Slayer",
+     "subtitle": "",
+     "year": "2000",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:11",
+     "title": "Buffy the Vampire Slayer — \"Buffy vs. Dracula\"",
      "subtitle": "",
      "year": "2000",
      "matched_by": "match_title"
@@ -19908,6 +19943,13 @@
      "subtitle": "",
      "year": "2009",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:13",
+     "title": "Conde Vrolok",
+     "subtitle": "",
+     "year": "2009",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -22516,6 +22558,13 @@
      "subtitle": "",
      "year": "1964",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:30",
+     "title": "Atacan las brujas",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -24004,6 +24053,13 @@
      "subtitle": "",
      "year": "1967",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:12",
+     "title": "Blood of the Virgins",
+     "subtitle": "",
+     "year": "1967",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -25232,6 +25288,13 @@
      "subtitle": "",
      "year": "2015",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:9",
+     "title": "Christmas at Draculas",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -26000,6 +26063,13 @@
      "subtitle": "",
      "year": "1964",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:15",
+     "title": "Crypt of the Vampire",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -26935,6 +27005,13 @@
      "subtitle": "",
      "year": "1975",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:16",
+     "title": "Deafula",
+     "subtitle": "",
+     "year": "1975",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -28317,6 +28394,13 @@
      "subtitle": "",
      "year": "1982",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:17",
+     "title": "Dracula Rises from Coffin",
+     "subtitle": "",
+     "year": "1982",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -28337,6 +28421,13 @@
      "subtitle": "",
      "year": "1973",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:26",
+     "title": "The Dracula Saga",
+     "subtitle": "",
+     "year": "1973",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -28824,6 +28915,13 @@
     },
     {
      "rid": "hypnosis-imdb-list-full-oct25:457",
+     "title": "El Gato con Gatas",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:8",
      "title": "El Gato con Gatas",
      "subtitle": "",
      "year": "1992",
@@ -29600,6 +29698,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:18",
+     "title": "Fate of Dracula",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -31199,6 +31304,13 @@
      "subtitle": "",
      "year": "2011–2013",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:4",
+     "title": "Gran Hotel",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -32610,6 +32722,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:3",
+     "title": "I Love My President Though He’s A Psycho",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -33207,6 +33326,13 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:19",
+     "title": "Invite Only",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -34200,6 +34326,13 @@
      "subtitle": "",
      "year": "1992",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:10",
+     "title": "Khooni Dracula",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -34250,6 +34383,13 @@
     },
     {
      "rid": "hypnosis-bestsimilar-nov5:164",
+     "title": "The Killer Eye",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:29",
      "title": "The Killer Eye",
      "subtitle": "",
      "year": "1999",
@@ -35006,6 +35146,13 @@
      "subtitle": "",
      "year": "1972",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:21",
+     "title": "La llamada del vampiro",
+     "subtitle": "",
+     "year": "1972",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -35089,6 +35236,13 @@
     },
     {
      "rid": "wife-hypnosis-oct15:54",
+     "title": "Lady Morgan's Vengeance",
+     "subtitle": "",
+     "year": "1965",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:22",
      "title": "Lady Morgan's Vengeance",
      "subtitle": "",
      "year": "1965",
@@ -38642,6 +38796,13 @@
      "subtitle": "",
      "year": "1989",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:23",
+     "title": "Nishi Trishna",
+     "subtitle": "",
+     "year": "1989",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -40022,6 +40183,13 @@
      "subtitle": "",
      "year": "2012",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:5",
+     "title": "Pobre Rico",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -41337,6 +41505,13 @@
      "subtitle": "",
      "year": "1958",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:24",
+     "title": "The Robot vs. the Aztec Mummy",
+     "subtitle": "",
+     "year": "1958",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -41692,6 +41867,13 @@
      "subtitle": "",
      "year": "1968",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:25",
+     "title": "Santo en el tesoro de Drácula",
+     "subtitle": "",
+     "year": "1968",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -43038,6 +43220,13 @@
     },
     {
      "rid": "hypnosis-bestsimilar-nov5:41",
+     "title": "Sisters",
+     "subtitle": "",
+     "year": "1973",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:28",
      "title": "Sisters",
      "subtitle": "",
      "year": "1973",
@@ -52808,6 +52997,26 @@
    ]
   },
   {
+   "kept_id": 3465,
+   "kept": "The Man in the Moonlight (1919)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25:46",
+     "title": "The Man in the Moonlight",
+     "subtitle": "",
+     "year": "1919"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:27",
+     "title": "The Man in the Moonlight",
+     "subtitle": "",
+     "year": "1919",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 3466,
    "kept": "Till Human Voices Wake Us (2002)",
    "scope": "cross-source",
@@ -53804,6 +54013,46 @@
      "title": "SNOS-440 豊乳マダムな眠り姫 ～不眠治療中に受けた…えげつないワイセツ行為～ (奥田咲)",
      "subtitle": "",
      "year": "2026",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 4057,
+   "kept": "CBS Radio Mystery Theater — \"The Dominant Personality\" (1979)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "husband-hypnosis-nov12:2",
+     "title": "CBS Radio Mystery Theater — \"The Dominant Personality\"",
+     "subtitle": "",
+     "year": "1979"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:6",
+     "title": "CBS Radio Mystery Theater — \"The Dominant Personality\"",
+     "subtitle": "",
+     "year": "1979",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 4176,
+   "kept": "Psychothérapie en URSS / Psychotherapy in the USSR (1970)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "female-hypnosis-nov25:2",
+     "title": "Psychothérapie en URSS / Psychotherapy in the USSR",
+     "subtitle": "",
+     "year": "1970"
+    },
+    {
+     "rid": "bed-hypnosis-nov26:7",
+     "title": "Psychothérapie en URSS / Psychotherapy in the USSR",
+     "subtitle": "",
+     "year": "1970",
      "matched_by": "match_title"
     }
    ]
@@ -55214,32 +55463,14 @@
   "female-hypnosis-nov25": 4,
   "hypnotic-healing-similar-nov25": 5,
   "remarried-announce-nov25": 16,
-  "wife-hypno-partner-nov25": 8
+  "wife-hypno-partner-nov25": 8,
+  "partner-hypnosis-discovery-t64u": 1,
+  "worldwide-hypnosis-discovery-nov25": 4,
+  "bed-hypnosis-nov26": 30
  },
- "entry_count_after_dedupe": 4002,
+ "entry_count_after_dedupe": 4007,
  "within_source_groups": 6,
- "cross_source_groups": 2111,
+ "cross_source_groups": 2114,
  "index_only_records": 55,
- "local_only_records": 1730,
- "offline_partner_hypnosis_discovery_t64u": {
-  "new_ids": [
-   4198
-  ],
-  "enriched_ids": [],
-  "source": "partner-hypnosis-discovery-t64u",
-  "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
-  "browser_or_network_calls": 0
- },
- "offline_worldwide_hypnosis_discovery_nov25": {
-  "new_ids": [
-   4199,
-   4200,
-   4201,
-   4202
-  ],
-  "enriched_ids": [],
-  "source": "worldwide-hypnosis-discovery-nov25",
-  "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
-  "browser_or_network_calls": 0
- }
+ "local_only_records": 1735
 }
