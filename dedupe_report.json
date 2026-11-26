@@ -55220,5 +55220,14 @@
  "within_source_groups": 6,
  "cross_source_groups": 2111,
  "index_only_records": 55,
- "local_only_records": 1730
+ "local_only_records": 1730,
+ "offline_partner_hypnosis_discovery_t64u": {
+  "new_ids": [
+   4198
+  ],
+  "enriched_ids": [],
+  "source": "partner-hypnosis-discovery-t64u",
+  "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
+  "browser_or_network_calls": 0
+ }
 }
