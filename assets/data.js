@@ -14867,6 +14867,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "fandom-hypnosis-nov26",
+   "label": "Themed TV Episodes wiki — hypnosis (26 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/fandom-hypnosis-nov26.json",
+   "description": "Staging file for every missing episode on https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis (26 listed episodes, no subpages). Five episodes already in the catalog were not restaged (Adventures of Superman \"The Secret of Superman\" #2911; The Joseph Cotten Show \"The Gentle Voice of Murder\" #644; Surfside 6 \"Power of Suggestion\" #605; Temperatures Rising \"Ellen's Flip Side\" #3990; Columbo \"A Deadly State of Mind\" #1058/#3571/#1057). The 21 records here are episode-specific cards. Hypnosis plots were checked against at least one source besides the fandom page (Wikipedia, CTVA, Mental Block, show wikis, TV Guide, TVmaze, transcripts or reviews). Single-thin or conflicting-plot cases are tagged loose fit. Kids' and family shows are included as non-sexual entries and are not placed in adult or erotic categories. Pregnancy, kids together and prior kids are taken from the plot sources, with Unknown where the sources are silent. A whole-show catalog card was not treated as a duplicate unless it named the episode.",
+   "dropped": [],
+   "check": {
+    "raw_count": 21,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -14995,10 +15008,11 @@ window.CATALOG = {
   "partner-hypnosis-discovery-t64u": 1,
   "worldwide-hypnosis-discovery-nov25": 4,
   "bed-hypnosis-nov26": 30,
-  "forced-female-hypnosis-nov26": 4
+  "forced-female-hypnosis-nov26": 4,
+  "fandom-hypnosis-nov26": 21
  },
- "raw_total": 7880,
- "entry_count": 4011,
+ "raw_total": 7901,
+ "entry_count": 4029,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -15034,7 +15048,7 @@ window.CATALOG = {
    "key": "index-62",
    "label": "Comedy",
    "legend_label": "Comedy",
-   "entry_count": 36
+   "entry_count": 49
   },
   {
    "key": "index-61",
@@ -15070,13 +15084,13 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 134
+   "entry_count": 140
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 326
+   "entry_count": 327
   },
   {
    "key": "child-controller",
@@ -15106,7 +15120,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 392
+   "entry_count": 395
   },
   {
    "key": "index-56",
@@ -15130,7 +15144,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 731
+   "entry_count": 739
   },
   {
    "key": "wife",
@@ -15172,7 +15186,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 209
+   "entry_count": 211
   },
   {
    "key": "royal-hypnosis",
@@ -15214,7 +15228,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 304
+   "entry_count": 307
   },
   {
    "key": "mom-partner-control",
@@ -15226,7 +15240,7 @@ window.CATALOG = {
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 122
+   "entry_count": 123
   },
   {
    "key": "mom-pregnancy",
@@ -15244,7 +15258,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 482
+   "entry_count": 487
   },
   {
    "key": "parents-sleeping",
@@ -15466,7 +15480,7 @@ window.CATALOG = {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 421
+   "entry_count": 425
   },
   {
    "key": "scifi-tech",
@@ -18996,11 +19010,26 @@ window.CATALOG = {
    "character": "",
    "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
    "note": "",
+   "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots)",
+   "pregnancy_note": "Kids together: No.",
+   "tags": [
+    "TV episode",
+    "Spider-Man and His Amazing Friends",
+    "animated",
+    "kids show"
+   ],
+   "kids_status": "Has kids from before: Unknown / not applicable (the named hypnotised girlfriend is a teenager in a kids' show)",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia's series page has a detailed plot (hypnotic arcade signal, Louise affected, Videoman origin). TVmaze has a matching short summary. 2+ sources.",
    "fit_note": "Dracula hypnotises Angelica Jones / Firestar to make her his bride; rescued before the wedding.",
    "format": "tv",
    "categories": [
     "love",
-    "hypnotized-marriage"
+    "hypnotized-marriage",
+    "scifi",
+    "tech",
+    "human"
    ],
    "sources": [
     {
@@ -19014,18 +19043,36 @@ window.CATALOG = {
     {
      "label": "TVmaze",
      "url": "https://www.TVmaze.com/episodes/259752/spider-man-and-his-amazing-friends-3x02-the-bride-of-dracula"
+    },
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: Spider-Man and His Amazing Friends (Videoman / episode section)",
+     "url": "https://en.wikipedia.org/wiki/Spider-Man_and_His_Amazing_Friends"
+    },
+    {
+     "label": "TVmaze: The Education of a Superhero",
+     "url": "https://www.tvmaze.com/episodes/259753/spider-man-and-his-amazing-friends-3x03-the-education-of-a-superhero"
+    },
+    {
+     "label": "IMDb: The Education of a Superhero",
+     "url": "https://www.imdb.com/title/tt0804168/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "hypnotized-marriage"
+    "hypnotized-marriage",
+    "fandom-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:11",
     "ig6qlxqxoxvcxla:11",
-    "hypnotized-marriage:25"
+    "hypnotized-marriage:25",
+    "fandom-hypnosis-nov26:19"
    ],
    "index_only": false,
    "local_only": false,
@@ -19137,6 +19184,62 @@ window.CATALOG = {
      "fit_note": "Dracula hypnotises Angelica Jones / Firestar to make her his bride; rescued before the wedding.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "fandom-hypnosis-nov26:19",
+     "source": "fandom-hypnosis-nov26",
+     "label": "Spider-Man and His Amazing Friends — \"The Education of a Superhero\" (1983)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Spider-Man and His Amazing Friends — \"The Education of a Superhero\"",
+     "subtitle": "",
+     "year": "1983",
+     "meta": "Animated TV episode · USA · English · NBC · Season 3, Episode 3 · aired 1 Oct 1983",
+     "summary": "The Gamesman broadcasts a hypnotic signal through video arcade machines, entrancing a huge number of people in the city (Wikipedia says more than 300,000). Teenager Francis Byte is too absorbed in a game, and later in his girlfriend Louise, to fall under at first; Louise walks away and then is hypnotised. An explosion caused by the signal transforms Francis into Videoman. The Spider-Friends help the inexperienced hero fight the Gamesman, and they later take him to Professor Xavier.",
+     "character": "arcade players and other young people in the city, including Louise (Francis Byte's girlfriend); Francis himself is not entranced, and neither are Spider-Man or Firestar at first",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "scifi",
+      "tech",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: Spider-Man and His Amazing Friends (Videoman / episode section)",
+       "url": "https://en.wikipedia.org/wiki/Spider-Man_and_His_Amazing_Friends"
+      },
+      {
+       "label": "TVmaze: The Education of a Superhero",
+       "url": "https://www.tvmaze.com/episodes/259753/spider-man-and-his-amazing-friends-3x03-the-education-of-a-superhero"
+      },
+      {
+       "label": "IMDb: The Education of a Superhero",
+       "url": "https://www.imdb.com/title/tt0804168/"
+      }
+     ],
+     "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots)",
+     "pregnancy_note": "Kids together: No.",
+     "tags": [
+      "TV episode",
+      "Spider-Man and His Amazing Friends",
+      "animated",
+      "kids show"
+     ],
+     "kids_status": "Has kids from before: Unknown / not applicable (the named hypnotised girlfriend is a teenager in a kids' show)",
+     "kids_together": "No",
+     "pregnant_end": "no",
+     "evidence": "Wikipedia's series page has a detailed plot (hypnotic arcade signal, Louise affected, Videoman origin). TVmaze has a matching short summary. 2+ sources.",
+     "fit_note": "Kids' cartoon; non-sexual. The Gamesman's machine hypnotises 'young people' through arcade machines, including Francis Byte's girlfriend Louise (likely a teenager) and hundreds of thousands of city residents. Do not use adult or erotic categories. Catalog card #11 is a different episode ('The Bride of Dracula!').",
+     "distinct_story": true,
+     "matched_by": "alias"
     }
    ],
    "raw": {
@@ -19219,6 +19322,50 @@ window.CATALOG = {
      ],
      "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
      "fit_note": "Dracula hypnotises Angelica Jones / Firestar to make her his bride; rescued before the wedding."
+    },
+    "fandom-hypnosis-nov26:19": {
+     "title": "Spider-Man and His Amazing Friends — \"The Education of a Superhero\"",
+     "year": "1983",
+     "format": "tv",
+     "meta": "Animated TV episode · USA · English · NBC · Season 3, Episode 3 · aired 1 Oct 1983",
+     "categories": [
+      "scifi",
+      "tech",
+      "human"
+     ],
+     "tags": [
+      "TV episode",
+      "Spider-Man and His Amazing Friends",
+      "animated",
+      "kids show"
+     ],
+     "fit_note": "Kids' cartoon; non-sexual. The Gamesman's machine hypnotises 'young people' through arcade machines, including Francis Byte's girlfriend Louise (likely a teenager) and hundreds of thousands of city residents. Do not use adult or erotic categories. Catalog card #11 is a different episode ('The Bride of Dracula!').",
+     "character": "arcade players and other young people in the city, including Louise (Francis Byte's girlfriend); Francis himself is not entranced, and neither are Spider-Man or Firestar at first",
+     "summary": "The Gamesman broadcasts a hypnotic signal through video arcade machines, entrancing a huge number of people in the city (Wikipedia says more than 300,000). Teenager Francis Byte is too absorbed in a game, and later in his girlfriend Louise, to fall under at first; Louise walks away and then is hypnotised. An explosion caused by the signal transforms Francis into Videoman. The Spider-Friends help the inexperienced hero fight the Gamesman, and they later take him to Professor Xavier.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots)",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: Unknown / not applicable (the named hypnotised girlfriend is a teenager in a kids' show)",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: Spider-Man and His Amazing Friends (Videoman / episode section)",
+       "url": "https://en.wikipedia.org/wiki/Spider-Man_and_His_Amazing_Friends"
+      },
+      {
+       "label": "TVmaze: The Education of a Superhero",
+       "url": "https://www.tvmaze.com/episodes/259753/spider-man-and-his-amazing-friends-3x03-the-education-of-a-superhero"
+      },
+      {
+       "label": "IMDb: The Education of a Superhero",
+       "url": "https://www.imdb.com/title/tt0804168/"
+      }
+     ],
+     "evidence": "Wikipedia's series page has a detailed plot (hypnotic arcade signal, Louise affected, Videoman origin). TVmaze has a matching short summary. 2+ sources."
     }
    }
   },
@@ -239936,16 +240083,27 @@ window.CATALOG = {
      "number_verified": false
     }
    ],
+   "tags": [
+    "TV episode",
+    "Dick Tracy"
+   ],
    "hypnotist": "a con artist posing as a fortune-telling swami",
    "gain_motive": [
     "money"
    ],
    "method": "hypnosis",
    "kids_status": "unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Mental Block names the episode and the hypnotised wealthy woman; IMDb and TV Guide carry the same plot synopsis. 3+ sources; IMDb/TV Guide wording is shared.",
+   "fit_note": "Episode-specific card. Series card #1134 mentions 'The Swami hypnotizes the woman' but does not name this episode title or number, so it is not treated as a duplicate. The IMDb and TV Guide synopses share the same wording; Mental Block independently names the episode and the wealthy woman (Florence Bates).",
    "format": "tv",
    "categories": [
     "human",
-    "index-49"
+    "index-49",
+    "forced-obedience",
+    "crime",
+    "other-control"
    ],
    "sources": [
     {
@@ -239955,18 +240113,32 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Dick_Tracy_%28TV_series%29"
+    },
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "IMDb: Dick Tracy vs. Swami",
+     "url": "https://www.imdb.com/title/tt1072844/"
+    },
+    {
+     "label": "TV Guide: Dick Tracy season 1",
+     "url": "https://www.tvguide.com/tvshows/dick-tracy/episodes-season-1/1030000177/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "fandom-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1145",
     "worldwide-hypnosis:270",
-    "rich-wife-hypnosis:33"
+    "rich-wife-hypnosis:33",
+    "fandom-hypnosis-nov26:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -240084,6 +240256,62 @@ window.CATALOG = {
      "kids_status": "unknown",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "fandom-hypnosis-nov26:1",
+     "source": "fandom-hypnosis-nov26",
+     "label": "Dick Tracy — \"Dick Tracy vs. Swami\" (1950)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Dick Tracy — \"Dick Tracy vs. Swami\"",
+     "subtitle": "",
+     "year": "1950",
+     "meta": "TV episode · USA · English · Season 1, Episode 13 · aired 4 Dec 1950 (IMDb/TV Guide; TVmaze lists 6 Dec)",
+     "summary": "A phony swami (John Merton) runs a crystal-ball swindle and uses hypnotism to blot out a rich woman's memory. Dick Tracy follows the clues; Sam Ketchum finds the swami's hideout, is waylaid and locked in a room with a time bomb.",
+     "character": "an unnamed wealthy woman (Florence Bates)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "forced-obedience",
+      "human",
+      "crime",
+      "index-49",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Mental Block wiki: Dick Tracy",
+       "url": "https://mentalblock.miraheze.org/wiki/Dick_Tracy"
+      },
+      {
+       "label": "IMDb: Dick Tracy vs. Swami",
+       "url": "https://www.imdb.com/title/tt1072844/"
+      },
+      {
+       "label": "TV Guide: Dick Tracy season 1",
+       "url": "https://www.tvguide.com/tvshows/dick-tracy/episodes-season-1/1030000177/"
+      }
+     ],
+     "pregnancy_outcome": "Unknown (sources do not mention pregnancy)",
+     "pregnancy_note": "Kids together: No (the hypnotist is the swindler, not her partner).",
+     "tags": [
+      "TV episode",
+      "Dick Tracy"
+     ],
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "pregnant_end": "no",
+     "evidence": "Mental Block names the episode and the hypnotised wealthy woman; IMDb and TV Guide carry the same plot synopsis. 3+ sources; IMDb/TV Guide wording is shared.",
+     "fit_note": "Episode-specific card. Series card #1134 mentions 'The Swami hypnotizes the woman' but does not name this episode title or number, so it is not treated as a duplicate. The IMDb and TV Guide synopses share the same wording; Mental Block independently names the episode and the wealthy woman (Florence Bates).",
+     "distinct_story": true,
+     "matched_by": "alias"
     }
    ],
    "raw": {
@@ -240175,6 +240403,50 @@ window.CATALOG = {
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "fandom-hypnosis-nov26:1": {
+     "title": "Dick Tracy — \"Dick Tracy vs. Swami\"",
+     "year": "1950",
+     "format": "tv",
+     "meta": "TV episode · USA · English · Season 1, Episode 13 · aired 4 Dec 1950 (IMDb/TV Guide; TVmaze lists 6 Dec)",
+     "categories": [
+      "forced-obedience",
+      "human",
+      "crime",
+      "index-49",
+      "other-control"
+     ],
+     "tags": [
+      "TV episode",
+      "Dick Tracy"
+     ],
+     "fit_note": "Episode-specific card. Series card #1134 mentions 'The Swami hypnotizes the woman' but does not name this episode title or number, so it is not treated as a duplicate. The IMDb and TV Guide synopses share the same wording; Mental Block independently names the episode and the wealthy woman (Florence Bates).",
+     "character": "an unnamed wealthy woman (Florence Bates)",
+     "summary": "A phony swami (John Merton) runs a crystal-ball swindle and uses hypnotism to blot out a rich woman's memory. Dick Tracy follows the clues; Sam Ketchum finds the swami's hideout, is waylaid and locked in a room with a time bomb.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Unknown (sources do not mention pregnancy)",
+     "pregnancy_note": "Kids together: No (the hypnotist is the swindler, not her partner).",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Mental Block wiki: Dick Tracy",
+       "url": "https://mentalblock.miraheze.org/wiki/Dick_Tracy"
+      },
+      {
+       "label": "IMDb: Dick Tracy vs. Swami",
+       "url": "https://www.imdb.com/title/tt1072844/"
+      },
+      {
+       "label": "TV Guide: Dick Tracy season 1",
+       "url": "https://www.tvguide.com/tvshows/dick-tracy/episodes-season-1/1030000177/"
+      }
+     ],
+     "evidence": "Mental Block names the episode and the hypnotised wealthy woman; IMDb and TV Guide carry the same plot synopsis. 3+ sources; IMDb/TV Guide wording is shared."
     }
    },
    "watch_links": [
@@ -253109,13 +253381,23 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "imdb-list-ls099930129"
+    "imdb-list-ls099930129",
+    "TV episode",
+    "Electra Woman and Dyna Girl",
+    "kids show"
    ],
+   "kids_status": "Has kids from before: No (not mentioned; Dyna Girl is herself a teenage sidekick)",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Mental Block describes Glitter Rock hypnotising the heroines with his music; theLogBook independently covers the kidnapping, the mind-controlling satellite and King Alex breaking the control. 3+ sources.",
+   "fit_note": "Kids' Saturday-morning show; non-sexual. Electra Woman (Lori, Deidre Hall) is an adult; Dyna Girl (Judy, Judy Strangis) is a teenage sidekick. They are both hypnotised by Glitter Rock's music as part of a world-takeover plot and a death-trap, not a sexual plot — do not use adult or erotic categories. Series card #1196 does not name this episode (it is a whole-show card).",
    "format": "tv",
    "categories": [
     "scifi",
     "fantasy",
-    "human"
+    "human",
+    "forced-obedience",
+    "tech"
    ],
    "sources": [
     {
@@ -253129,18 +253411,36 @@ window.CATALOG = {
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Judy Strangis: Electra Woman & Dyna Girl (**); Deidre Hall: Electra Woman & Dyna Girl (**)",
      "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "theLogBook: Glitter Rock, Part 1",
+     "url": "https://www.thelogbook.com/glitter-rock-1/"
+    },
+    {
+     "label": "theLogBook: Glitter Rock, Part 2",
+     "url": "https://www.thelogbook.com/glitter-rock-2/"
+    },
+    {
+     "label": "IMDb: Glitter Rock",
+     "url": "https://www.imdb.com/title/tt0569719/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnosis-imdb-list-full-oct25"
+    "hypnosis-imdb-list-full-oct25",
+    "fandom-hypnosis-nov26"
    ],
    "source_records": [
     "xla62ucxbx02u5:1207",
     "worldwide-hypnosis:328",
-    "hypnosis-imdb-list-full-oct25:162"
+    "hypnosis-imdb-list-full-oct25:162",
+    "fandom-hypnosis-nov26:17"
    ],
    "index_only": false,
    "local_only": false,
@@ -253243,6 +253543,66 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "fandom-hypnosis-nov26:17",
+     "source": "fandom-hypnosis-nov26",
+     "label": "Electra Woman and Dyna Girl — \"Glitter Rock\" (Parts 1 & 2) (1976)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Electra Woman and Dyna Girl — \"Glitter Rock\" (Parts 1 & 2)",
+     "subtitle": "",
+     "year": "1976",
+     "meta": "Live-action Saturday-morning TV two-parter · USA · English · ABC (The Krofft Supershow) · Season 1, Episodes 3 & 4 · aired 25 Sep and 2 Oct 1976",
+     "summary": "Glam-rock villain Glitter Rock and his aide Side Man kidnap visiting King Alex to get a rare jewel from the king's key, planning to power a satellite that will broadcast mind-controlling music worldwide. When Electra Woman and Dyna Girl try to stop him, his music hypnotises them; King Alex later breaks that control, and the heroines intercept the satellite in the Electra Plane. Mental Block and later recaps also describe Glitter Rock using the hypno-music on the duo directly during the rescue.",
+     "character": "Electra Woman / Lori and Dyna Girl / Judy, hypnotised by Glitter Rock's music; a friend/King Alex is kidnapped as part of the plan",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "forced-obedience",
+      "scifi",
+      "tech",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Mental Block wiki: Electra Woman and Dyna Girl",
+       "url": "https://mentalblock.miraheze.org/wiki/Electra_Woman_and_Dyna_Girl"
+      },
+      {
+       "label": "theLogBook: Glitter Rock, Part 1",
+       "url": "https://www.thelogbook.com/glitter-rock-1/"
+      },
+      {
+       "label": "theLogBook: Glitter Rock, Part 2",
+       "url": "https://www.thelogbook.com/glitter-rock-2/"
+      },
+      {
+       "label": "IMDb: Glitter Rock",
+       "url": "https://www.imdb.com/title/tt0569719/"
+      }
+     ],
+     "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots)",
+     "pregnancy_note": "Kids together: No.",
+     "tags": [
+      "TV episode",
+      "Electra Woman and Dyna Girl",
+      "kids show"
+     ],
+     "kids_status": "Has kids from before: No (not mentioned; Dyna Girl is herself a teenage sidekick)",
+     "kids_together": "No",
+     "pregnant_end": "no",
+     "evidence": "Mental Block describes Glitter Rock hypnotising the heroines with his music; theLogBook independently covers the kidnapping, the mind-controlling satellite and King Alex breaking the control. 3+ sources.",
+     "fit_note": "Kids' Saturday-morning show; non-sexual. Electra Woman (Lori, Deidre Hall) is an adult; Dyna Girl (Judy, Judy Strangis) is a teenage sidekick. They are both hypnotised by Glitter Rock's music as part of a world-takeover plot and a death-trap, not a sexual plot — do not use adult or erotic categories. Series card #1196 does not name this episode (it is a whole-show card).",
+     "distinct_story": true,
+     "matched_by": "alias"
     }
    ],
    "raw": {
@@ -253316,6 +253676,54 @@ window.CATALOG = {
       "imdb-list-ls099930129"
      ],
      "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "fandom-hypnosis-nov26:17": {
+     "title": "Electra Woman and Dyna Girl — \"Glitter Rock\" (Parts 1 & 2)",
+     "year": "1976",
+     "format": "tv",
+     "meta": "Live-action Saturday-morning TV two-parter · USA · English · ABC (The Krofft Supershow) · Season 1, Episodes 3 & 4 · aired 25 Sep and 2 Oct 1976",
+     "categories": [
+      "forced-obedience",
+      "scifi",
+      "tech",
+      "human"
+     ],
+     "tags": [
+      "TV episode",
+      "Electra Woman and Dyna Girl",
+      "kids show"
+     ],
+     "fit_note": "Kids' Saturday-morning show; non-sexual. Electra Woman (Lori, Deidre Hall) is an adult; Dyna Girl (Judy, Judy Strangis) is a teenage sidekick. They are both hypnotised by Glitter Rock's music as part of a world-takeover plot and a death-trap, not a sexual plot — do not use adult or erotic categories. Series card #1196 does not name this episode (it is a whole-show card).",
+     "character": "Electra Woman / Lori and Dyna Girl / Judy, hypnotised by Glitter Rock's music; a friend/King Alex is kidnapped as part of the plan",
+     "summary": "Glam-rock villain Glitter Rock and his aide Side Man kidnap visiting King Alex to get a rare jewel from the king's key, planning to power a satellite that will broadcast mind-controlling music worldwide. When Electra Woman and Dyna Girl try to stop him, his music hypnotises them; King Alex later breaks that control, and the heroines intercept the satellite in the Electra Plane. Mental Block and later recaps also describe Glitter Rock using the hypno-music on the duo directly during the rescue.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots)",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: No (not mentioned; Dyna Girl is herself a teenage sidekick)",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Mental Block wiki: Electra Woman and Dyna Girl",
+       "url": "https://mentalblock.miraheze.org/wiki/Electra_Woman_and_Dyna_Girl"
+      },
+      {
+       "label": "theLogBook: Glitter Rock, Part 1",
+       "url": "https://www.thelogbook.com/glitter-rock-1/"
+      },
+      {
+       "label": "theLogBook: Glitter Rock, Part 2",
+       "url": "https://www.thelogbook.com/glitter-rock-2/"
+      },
+      {
+       "label": "IMDb: Glitter Rock",
+       "url": "https://www.imdb.com/title/tt0569719/"
+      }
+     ],
+     "evidence": "Mental Block describes Glitter Rock hypnotising the heroines with his music; theLogBook independently covers the kidnapping, the mind-controlling satellite and King Alex breaking the control. 3+ sources."
     }
    },
    "watch_links": [
@@ -621110,6 +621518,1908 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 4207,
+   "title": "Private Secretary — \"The Eyes Have It\"",
+   "subtitle": "",
+   "year": "1953",
+   "meta": "TV episode · USA · English · CBS · Season 1, Episode 3 · aired 15 Feb 1953 · sitcom (also known as Susie in syndication)",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A hypnotist puts talent-agency secretary Susie under his spell to get a contract. Her boss, Peter Sands, mistakes her odd behaviour for a nervous breakdown. King Donovan guest-stars.",
+   "character": "Susie McNamara (Ann Sothern)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown (sources do not mention pregnancy)",
+   "pregnancy_note": "Kids together: No.",
+   "tags": [
+    "TV episode",
+    "Private Secretary"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia episode list, CTVA and Rotten Tomatoes all confirm a hypnotist puts Susie under to get a contract. 4+ sources.",
+   "fit_note": "Adult secretary Susie McNamara (Ann Sothern) is hypnotised by a would-be client so he can get a contract. 1950s sitcom, not an adult/erotic title.",
+   "format": "tv",
+   "categories": [
+    "forced-obedience",
+    "human",
+    "other-control",
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: List of Private Secretary episodes",
+     "url": "https://en.wikipedia.org/wiki/List_of_Private_Secretary_episodes"
+    },
+    {
+     "label": "CTVA: Private Secretary season 1",
+     "url": "https://ctva.biz/US/Comedy/PrivateSecretary_01_(Early1953).htm"
+    },
+    {
+     "label": "Rotten Tomatoes: The Eyes Have It",
+     "url": "https://www.rottentomatoes.com/tv/private_secretary/s01/e03"
+    },
+    {
+     "label": "IMDb: The Eyes Have It",
+     "url": "https://www.imdb.com/title/tt0894601/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:2": {
+     "title": "Private Secretary — \"The Eyes Have It\"",
+     "year": "1953",
+     "format": "tv",
+     "meta": "TV episode · USA · English · CBS · Season 1, Episode 3 · aired 15 Feb 1953 · sitcom (also known as Susie in syndication)",
+     "categories": [
+      "forced-obedience",
+      "human",
+      "other-control",
+      "index-62"
+     ],
+     "tags": [
+      "TV episode",
+      "Private Secretary"
+     ],
+     "fit_note": "Adult secretary Susie McNamara (Ann Sothern) is hypnotised by a would-be client so he can get a contract. 1950s sitcom, not an adult/erotic title.",
+     "character": "Susie McNamara (Ann Sothern)",
+     "summary": "A hypnotist puts talent-agency secretary Susie under his spell to get a contract. Her boss, Peter Sands, mistakes her odd behaviour for a nervous breakdown. King Donovan guest-stars.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Unknown (sources do not mention pregnancy)",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: List of Private Secretary episodes",
+       "url": "https://en.wikipedia.org/wiki/List_of_Private_Secretary_episodes"
+      },
+      {
+       "label": "CTVA: Private Secretary season 1",
+       "url": "https://ctva.biz/US/Comedy/PrivateSecretary_01_(Early1953).htm"
+      },
+      {
+       "label": "Rotten Tomatoes: The Eyes Have It",
+       "url": "https://www.rottentomatoes.com/tv/private_secretary/s01/e03"
+      },
+      {
+       "label": "IMDb: The Eyes Have It",
+       "url": "https://www.imdb.com/title/tt0894601/"
+      }
+     ],
+     "evidence": "Wikipedia episode list, CTVA and Rotten Tomatoes all confirm a hypnotist puts Susie under to get a contract. 4+ sources."
+    }
+   }
+  },
+  {
+   "id": 4208,
+   "title": "Topper — \"The Hypnotist\"",
+   "subtitle": "",
+   "year": "1953",
+   "meta": "TV episode · USA · English · CBS · Season 1, Episode 4 · aired 30 Oct 1953 · sitcom",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Cosmo Topper's old school friend, a hypnotist, becomes a problem, and the ghostly George and Marion Kerby work some hocus-pocus on him. The surviving short synopses do not spell out who, if anyone, is actually put under.",
+   "character": "unclear (Topper's hypnotist friend is involved; the subject of the hypnosis is not named in the reliable synopses)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown (plot too thin to say)",
+   "pregnancy_note": "Kids together: Unknown.",
+   "tags": [
+    "TV episode",
+    "Topper",
+    "loose fit"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "Unknown",
+   "pregnant_end": "no",
+   "evidence": "CTVA and TV Guide confirm a hypnotist episode aired 30 Oct 1953, but they give different one-line plots and neither names a clear hypnotised subject. Tagged loose fit.",
+   "fit_note": "Loose fit: the episode is confirmed to involve a hypnotist, but surviving synopses disagree and do not clearly say who is hypnotised. TV Guide/fandom: 'An old school chum proves irksome and gets treatment.' CTVA: 'The Kerbys work some hocus-pocus on Topper's hypnotist friend.' Wikipedia lists only a guest (Maude Prickett as Amelia) and has no plot. An online blurb about a possessed socialite looks unreliable (it mixes up which characters are ghosts) and was not used.",
+   "format": "tv",
+   "categories": [
+    "index-62",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "CTVA: Topper",
+     "url": "https://ctva.biz/US/Comedy/Topper.htm"
+    },
+    {
+     "label": "TV Guide: Topper season 1",
+     "url": "https://www.tvguide.com/tvshows/topper/episodes-season-1/1000277487/"
+    },
+    {
+     "label": "Wikipedia: Topper (TV series) episode list",
+     "url": "https://en.wikipedia.org/wiki/Topper_(TV_series)"
+    },
+    {
+     "label": "IMDb: The Hypnotist",
+     "url": "https://www.imdb.com/title/tt0820780/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:3": {
+     "title": "Topper — \"The Hypnotist\"",
+     "year": "1953",
+     "format": "tv",
+     "meta": "TV episode · USA · English · CBS · Season 1, Episode 4 · aired 30 Oct 1953 · sitcom",
+     "categories": [
+      "index-62",
+      "human"
+     ],
+     "tags": [
+      "TV episode",
+      "Topper",
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: the episode is confirmed to involve a hypnotist, but surviving synopses disagree and do not clearly say who is hypnotised. TV Guide/fandom: 'An old school chum proves irksome and gets treatment.' CTVA: 'The Kerbys work some hocus-pocus on Topper's hypnotist friend.' Wikipedia lists only a guest (Maude Prickett as Amelia) and has no plot. An online blurb about a possessed socialite looks unreliable (it mixes up which characters are ghosts) and was not used.",
+     "character": "unclear (Topper's hypnotist friend is involved; the subject of the hypnosis is not named in the reliable synopses)",
+     "summary": "Cosmo Topper's old school friend, a hypnotist, becomes a problem, and the ghostly George and Marion Kerby work some hocus-pocus on him. The surviving short synopses do not spell out who, if anyone, is actually put under.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Unknown (plot too thin to say)",
+     "pregnancy_note": "Kids together: Unknown.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "CTVA: Topper",
+       "url": "https://ctva.biz/US/Comedy/Topper.htm"
+      },
+      {
+       "label": "TV Guide: Topper season 1",
+       "url": "https://www.tvguide.com/tvshows/topper/episodes-season-1/1000277487/"
+      },
+      {
+       "label": "Wikipedia: Topper (TV series) episode list",
+       "url": "https://en.wikipedia.org/wiki/Topper_(TV_series)"
+      },
+      {
+       "label": "IMDb: The Hypnotist",
+       "url": "https://www.imdb.com/title/tt0820780/"
+      }
+     ],
+     "evidence": "CTVA and TV Guide confirm a hypnotist episode aired 30 Oct 1953, but they give different one-line plots and neither names a clear hypnotised subject. Tagged loose fit."
+    }
+   }
+  },
+  {
+   "id": 4209,
+   "title": "Duffy's Tavern — \"Archie the Hypnotist\"",
+   "subtitle": "",
+   "year": "1954",
+   "meta": "TV episode · USA · English · syndicated · listed as Season 1, Episode 7 on the fandom page (15 June 1954); CTVA numbers it later in the run, with local air dates in July–August 1954",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Hypnotist Danzo puts Archie under a spell. While influenced, Archie demands three days off from unseen owner Duffy — his first vacation in years — then hires a disheveled stand-in he thinks is too inept to be competition. A contemporary paper also says the hypnotist tries some underhanded work.",
+   "character": "Archie (Ed Gardner), the tavern's manager; not Duffy, contrary to the fandom blurb",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not applicable — the hypnotised character is a man; no pregnancy plot.",
+   "pregnancy_note": "Kids together: No.",
+   "tags": [
+    "TV episode",
+    "Duffy's Tavern"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "CTVA quotes two independent synopses (guide compiler + Long Beach Independent) that Archie is hypnotised by Danzo. The fandom page's claim that Duffy is the subject is not followed. 2+ independent plot sources.",
+   "fit_note": "The fandom page says Duffy is the one under the hypnotist's influence. CTVA's two contemporary synopses say Archie is the one Danzo puts under; a Long Beach Independent blurb is explicit that 'a hypnotist puts Archie under a spell.' The card follows CTVA. Episode numbering also differs between the fandom list (S1E7) and CTVA (listed as 1.20 in one airing order).",
+   "format": "tv",
+   "categories": [
+    "index-62",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "CTVA: Duffy's Tavern (synopses from episode-guide compiler and Long Beach Independent)",
+     "url": "https://ctva.biz/US/Comedy/DuffysTavern.htm"
+    },
+    {
+     "label": "epguides: Duffy's Tavern",
+     "url": "https://epguides.com/DuffysTavern/"
+    },
+    {
+     "label": "IMDb: Archie the Hypnotist",
+     "url": "https://www.imdb.com/title/tt1280845/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:4": {
+     "title": "Duffy's Tavern — \"Archie the Hypnotist\"",
+     "year": "1954",
+     "format": "tv",
+     "meta": "TV episode · USA · English · syndicated · listed as Season 1, Episode 7 on the fandom page (15 June 1954); CTVA numbers it later in the run, with local air dates in July–August 1954",
+     "categories": [
+      "index-62",
+      "human"
+     ],
+     "tags": [
+      "TV episode",
+      "Duffy's Tavern"
+     ],
+     "fit_note": "The fandom page says Duffy is the one under the hypnotist's influence. CTVA's two contemporary synopses say Archie is the one Danzo puts under; a Long Beach Independent blurb is explicit that 'a hypnotist puts Archie under a spell.' The card follows CTVA. Episode numbering also differs between the fandom list (S1E7) and CTVA (listed as 1.20 in one airing order).",
+     "character": "Archie (Ed Gardner), the tavern's manager; not Duffy, contrary to the fandom blurb",
+     "summary": "Hypnotist Danzo puts Archie under a spell. While influenced, Archie demands three days off from unseen owner Duffy — his first vacation in years — then hires a disheveled stand-in he thinks is too inept to be competition. A contemporary paper also says the hypnotist tries some underhanded work.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not applicable — the hypnotised character is a man; no pregnancy plot.",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "CTVA: Duffy's Tavern (synopses from episode-guide compiler and Long Beach Independent)",
+       "url": "https://ctva.biz/US/Comedy/DuffysTavern.htm"
+      },
+      {
+       "label": "epguides: Duffy's Tavern",
+       "url": "https://epguides.com/DuffysTavern/"
+      },
+      {
+       "label": "IMDb: Archie the Hypnotist",
+       "url": "https://www.imdb.com/title/tt1280845/"
+      }
+     ],
+     "evidence": "CTVA quotes two independent synopses (guide compiler + Long Beach Independent) that Archie is hypnotised by Danzo. The fandom page's claim that Duffy is the subject is not followed. 2+ independent plot sources."
+    }
+   }
+  },
+  {
+   "id": 4210,
+   "title": "Judge Roy Bean — \"The Hypnotist\"",
+   "subtitle": "",
+   "year": "1956",
+   "meta": "TV episode · USA · English · syndicated · Season 1, Episode 32 · aired 24 Apr 1956 · western",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Judge Roy Bean looks into a con built around the legend of the Haunted Hills. Letty is hypnotised so she can recall past events connected to the legend; the fandom listing adds that others also undergo hypnosis to remember the long-past events.",
+   "character": "Letty Bean (Jackie Loughery); the fandom synopsis also says others are hypnotised to recall long-past events",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Unknown (sources do not mention pregnancy)",
+   "pregnancy_note": "Kids together: No.",
+   "tags": [
+    "TV episode",
+    "Judge Roy Bean"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia episode list: Letty is hypnotised to recall past events of the Haunted Hills legend. CTVA confirms the episode title and 1956 slot. 2+ sources.",
+   "fit_note": "Letty Bean, the judge's niece, is played by Jackie Loughery (Miss USA 1952, born 1930), an adult in her mid-20s at the time. Hypnosis is used to recall past events, not for anything sexual. Wikipedia and the fandom listing agree on Letty; the fandom blurb also says others undergo hypnosis.",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "other-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: Judge Roy Bean (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Judge_Roy_Bean_(TV_series)"
+    },
+    {
+     "label": "CTVA: Judge Roy Bean (episode title and guest credits)",
+     "url": "https://ctva.biz/US/Western/JudgeRoyBean.htm"
+    },
+    {
+     "label": "IMDb: The Hypnotist",
+     "url": "https://www.imdb.com/title/tt0617177/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:5": {
+     "title": "Judge Roy Bean — \"The Hypnotist\"",
+     "year": "1956",
+     "format": "tv",
+     "meta": "TV episode · USA · English · syndicated · Season 1, Episode 32 · aired 24 Apr 1956 · western",
+     "categories": [
+      "medical",
+      "other-control",
+      "human"
+     ],
+     "tags": [
+      "TV episode",
+      "Judge Roy Bean"
+     ],
+     "fit_note": "Letty Bean, the judge's niece, is played by Jackie Loughery (Miss USA 1952, born 1930), an adult in her mid-20s at the time. Hypnosis is used to recall past events, not for anything sexual. Wikipedia and the fandom listing agree on Letty; the fandom blurb also says others undergo hypnosis.",
+     "character": "Letty Bean (Jackie Loughery); the fandom synopsis also says others are hypnotised to recall long-past events",
+     "summary": "Judge Roy Bean looks into a con built around the legend of the Haunted Hills. Letty is hypnotised so she can recall past events connected to the legend; the fandom listing adds that others also undergo hypnosis to remember the long-past events.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Unknown (sources do not mention pregnancy)",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: Judge Roy Bean (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Judge_Roy_Bean_(TV_series)"
+      },
+      {
+       "label": "CTVA: Judge Roy Bean (episode title and guest credits)",
+       "url": "https://ctva.biz/US/Western/JudgeRoyBean.htm"
+      },
+      {
+       "label": "IMDb: The Hypnotist",
+       "url": "https://www.imdb.com/title/tt0617177/"
+      }
+     ],
+     "evidence": "Wikipedia episode list: Letty is hypnotised to recall past events of the Haunted Hills legend. CTVA confirms the episode title and 1956 slot. 2+ sources."
+    }
+   }
+  },
+  {
+   "id": 4211,
+   "title": "One Step Beyond — \"Ordeal on Locust Street\"",
+   "subtitle": "",
+   "year": "1959",
+   "meta": "TV anthology episode · USA · English · ABC · Season 2, Episode 2 · aired 22 Sep 1959",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "The Parish family keeps their deformed, fish-like son Jason hidden in their Boston house. When Anna's fiancé Danny glimpses him and flees, Anna's mother refuses to send Jason to a hospital and instead calls in Dr. Edward Brown, a discredited doctor who uses a 'mind force.' He first hypnotises Anna as a demonstration (hand-raising, suggested burns, analgesia, a suggestion that she forget the pain of Danny leaving), then treats Jason. Three months later, on Christmas Eve, Jason appears as a handsome, unblemished young man. Host John Newland says Dr. Brown did not live to see hypnosis accepted by the medical community.",
+   "character": "Anna Parish (demonstration subject); her brother Jason Parish (the patient treated with 'mind force' hypnosis)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots)",
+   "pregnancy_note": "Kids together: No. Anna is a young woman with a fiancé, not a mother in this episode.",
+   "tags": [
+    "TV episode",
+    "One Step Beyond"
+   ],
+   "kids_status": "Has kids from before: No (Anna is the daughter in the household; no children of hers are mentioned)",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia short summary plus a detailed independent review on Genre Snaps. 2+ sources.",
+   "fit_note": "Different episode from catalog card #3041 (One Step Beyond — \"The Villa\"). Adult daughter Anna is hypnotised only as a demonstration; the main treatment is of her brother Jason, a hidden, deformed young man whom a later review describes as older than a child. Non-sexual anthology story. The 'cure' of the deformity is presented as supernatural hypnosis/mind force.",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "other-control",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: Alcoa Presents: One Step Beyond",
+     "url": "https://en.wikipedia.org/wiki/Alcoa_Presents_One_Step_Beyond"
+    },
+    {
+     "label": "Genre Snaps review: Ordeal on Locust Street",
+     "url": "https://genresnaps.com/one-step-beyond-ordeal-on-locust-street-09-22-9/"
+    },
+    {
+     "label": "IMDb: Ordeal on Locust Street",
+     "url": "https://www.imdb.com/title/tt0507799/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:6": {
+     "title": "One Step Beyond — \"Ordeal on Locust Street\"",
+     "year": "1959",
+     "format": "tv",
+     "meta": "TV anthology episode · USA · English · ABC · Season 2, Episode 2 · aired 22 Sep 1959",
+     "categories": [
+      "medical",
+      "other-control",
+      "fantasy"
+     ],
+     "tags": [
+      "TV episode",
+      "One Step Beyond"
+     ],
+     "fit_note": "Different episode from catalog card #3041 (One Step Beyond — \"The Villa\"). Adult daughter Anna is hypnotised only as a demonstration; the main treatment is of her brother Jason, a hidden, deformed young man whom a later review describes as older than a child. Non-sexual anthology story. The 'cure' of the deformity is presented as supernatural hypnosis/mind force.",
+     "character": "Anna Parish (demonstration subject); her brother Jason Parish (the patient treated with 'mind force' hypnosis)",
+     "summary": "The Parish family keeps their deformed, fish-like son Jason hidden in their Boston house. When Anna's fiancé Danny glimpses him and flees, Anna's mother refuses to send Jason to a hospital and instead calls in Dr. Edward Brown, a discredited doctor who uses a 'mind force.' He first hypnotises Anna as a demonstration (hand-raising, suggested burns, analgesia, a suggestion that she forget the pain of Danny leaving), then treats Jason. Three months later, on Christmas Eve, Jason appears as a handsome, unblemished young man. Host John Newland says Dr. Brown did not live to see hypnosis accepted by the medical community.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots)",
+     "pregnancy_note": "Kids together: No. Anna is a young woman with a fiancé, not a mother in this episode.",
+     "kids_status": "Has kids from before: No (Anna is the daughter in the household; no children of hers are mentioned)",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: Alcoa Presents: One Step Beyond",
+       "url": "https://en.wikipedia.org/wiki/Alcoa_Presents_One_Step_Beyond"
+      },
+      {
+       "label": "Genre Snaps review: Ordeal on Locust Street",
+       "url": "https://genresnaps.com/one-step-beyond-ordeal-on-locust-street-09-22-9/"
+      },
+      {
+       "label": "IMDb: Ordeal on Locust Street",
+       "url": "https://www.imdb.com/title/tt0507799/"
+      }
+     ],
+     "evidence": "Wikipedia short summary plus a detailed independent review on Genre Snaps. 2+ sources."
+    }
+   }
+  },
+  {
+   "id": 4212,
+   "title": "The Flintstones — \"The Hypnotist\"",
+   "subtitle": "",
+   "year": "1961",
+   "meta": "Animated TV episode · USA · English · ABC · Season 1, Episode 20 · aired 10 Feb 1961 · TV-G",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Fred tries to show Wilma and the Rubbles that he can hypnotise people after seeing a stage hypnotist. He accidentally puts Barney under and makes him think he is a frisky puppy, then cannot reverse it. Fred tries to fix things before Wilma and Betty get back from the market; Barney runs off and ends up at the dog pound.",
+   "character": "Barney Rubble (accidentally hypnotised by Fred); Wilma and Betty watch the demonstration but are not confirmed as subjects",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not applicable — the confirmed hypnotised character is Barney, a man; no pregnancy plot. (Pebbles has not been born yet in season 1.)",
+   "pregnancy_note": "Kids together: No in this episode (Pebbles is introduced later in the series).",
+   "tags": [
+    "TV episode",
+    "The Flintstones",
+    "animated",
+    "kids show"
+   ],
+   "kids_status": "Has kids from before: No (this is season 1, before Pebbles)",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia, TVmaze and Hanna-Barbera Wiki all have Fred accidentally hypnotising Barney into thinking he is a dog. 3+ sources.",
+   "fit_note": "Family cartoon; non-sexual. Only Barney is confirmed as the hypnotised subject (he thinks he is a puppy and ends up at the pound). A Mental Block note that Fred also turns Wilma and Betty into chickens is not supported by Wikipedia, TVmaze or the Hanna-Barbera Wiki, so it was not used. Series card #1235 is a whole-show card and does not name this episode.",
+   "format": "tv",
+   "categories": [
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: List of The Flintstones episodes",
+     "url": "https://en.wikipedia.org/wiki/List_of_The_Flintstones_episodes"
+    },
+    {
+     "label": "Hanna-Barbera Wiki: The Hypnotist",
+     "url": "https://hanna-barberawiki.com/wiki/The_Hypnotist"
+    },
+    {
+     "label": "TVmaze: The Hypnotist",
+     "url": "https://www.tvmaze.com/episodes/176673/the-flintstones-1x20-the-hypnotist"
+    },
+    {
+     "label": "IMDb: The Hypnotist",
+     "url": "https://www.imdb.com/title/tt0580262/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:7": {
+     "title": "The Flintstones — \"The Hypnotist\"",
+     "year": "1961",
+     "format": "tv",
+     "meta": "Animated TV episode · USA · English · ABC · Season 1, Episode 20 · aired 10 Feb 1961 · TV-G",
+     "categories": [
+      "index-62"
+     ],
+     "tags": [
+      "TV episode",
+      "The Flintstones",
+      "animated",
+      "kids show"
+     ],
+     "fit_note": "Family cartoon; non-sexual. Only Barney is confirmed as the hypnotised subject (he thinks he is a puppy and ends up at the pound). A Mental Block note that Fred also turns Wilma and Betty into chickens is not supported by Wikipedia, TVmaze or the Hanna-Barbera Wiki, so it was not used. Series card #1235 is a whole-show card and does not name this episode.",
+     "character": "Barney Rubble (accidentally hypnotised by Fred); Wilma and Betty watch the demonstration but are not confirmed as subjects",
+     "summary": "Fred tries to show Wilma and the Rubbles that he can hypnotise people after seeing a stage hypnotist. He accidentally puts Barney under and makes him think he is a frisky puppy, then cannot reverse it. Fred tries to fix things before Wilma and Betty get back from the market; Barney runs off and ends up at the dog pound.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not applicable — the confirmed hypnotised character is Barney, a man; no pregnancy plot. (Pebbles has not been born yet in season 1.)",
+     "pregnancy_note": "Kids together: No in this episode (Pebbles is introduced later in the series).",
+     "kids_status": "Has kids from before: No (this is season 1, before Pebbles)",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: List of The Flintstones episodes",
+       "url": "https://en.wikipedia.org/wiki/List_of_The_Flintstones_episodes"
+      },
+      {
+       "label": "Hanna-Barbera Wiki: The Hypnotist",
+       "url": "https://hanna-barberawiki.com/wiki/The_Hypnotist"
+      },
+      {
+       "label": "TVmaze: The Hypnotist",
+       "url": "https://www.tvmaze.com/episodes/176673/the-flintstones-1x20-the-hypnotist"
+      },
+      {
+       "label": "IMDb: The Hypnotist",
+       "url": "https://www.imdb.com/title/tt0580262/"
+      }
+     ],
+     "evidence": "Wikipedia, TVmaze and Hanna-Barbera Wiki all have Fred accidentally hypnotising Barney into thinking he is a dog. 3+ sources."
+    }
+   }
+  },
+  {
+   "id": 4213,
+   "title": "Pete and Gladys — \"Uncle Paul's Insurance\"",
+   "subtitle": "",
+   "year": "1961",
+   "meta": "TV episode · USA · English · CBS · Season 2, Episode 7 · aired 30 Oct 1961 · sitcom",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Insurance salesman Pete is too afraid to ask his Uncle Paul (Gale Gordon) to buy a policy from him. Bruce tries to hypnotise Pete to find out why.",
+   "character": "Pete Porter (Harry Morgan); Bruce (Gladys's nephew) attempts the hypnosis",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not applicable — the intended hypnotised character is Pete, a man; no pregnancy plot.",
+   "pregnancy_note": "Kids together: No.",
+   "tags": [
+    "TV episode",
+    "Pete and Gladys"
+   ],
+   "kids_status": "Has kids from before: Unknown (the regular household in this series is Pete and Gladys; nephew Bruce visits)",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "TV Guide supplies the hypnosis one-liner; Wikipedia/CTVA confirm title, airdate and Uncle Paul/Gale Gordon but not the plot. 2 sources for the episode, 1 detailed plot line.",
+   "fit_note": "TV Guide and the fandom page use the same one-line synopsis (Bruce tries to hypnotise Pete). Wikipedia and CTVA list the episode but have no plot, so the hypnosis detail is thinly sourced. Not tagged loose fit because TV Guide is an independent published listing, but the plot is only that one line. Subject is Pete (a man); Gladys is not the one hypnotised.",
+   "format": "tv",
+   "categories": [
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "TV Guide: Pete and Gladys season 2",
+     "url": "https://www.tvguide.com/tvshows/pete-and-gladys/episodes-season-2/1030264214/"
+    },
+    {
+     "label": "Wikipedia: Pete and Gladys (episode list, title and airdate only)",
+     "url": "https://en.wikipedia.org/wiki/Pete_and_Gladys"
+    },
+    {
+     "label": "IMDb: Uncle Paul's Insurance",
+     "url": "https://www.imdb.com/title/tt1088630/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:8": {
+     "title": "Pete and Gladys — \"Uncle Paul's Insurance\"",
+     "year": "1961",
+     "format": "tv",
+     "meta": "TV episode · USA · English · CBS · Season 2, Episode 7 · aired 30 Oct 1961 · sitcom",
+     "categories": [
+      "index-62"
+     ],
+     "tags": [
+      "TV episode",
+      "Pete and Gladys"
+     ],
+     "fit_note": "TV Guide and the fandom page use the same one-line synopsis (Bruce tries to hypnotise Pete). Wikipedia and CTVA list the episode but have no plot, so the hypnosis detail is thinly sourced. Not tagged loose fit because TV Guide is an independent published listing, but the plot is only that one line. Subject is Pete (a man); Gladys is not the one hypnotised.",
+     "character": "Pete Porter (Harry Morgan); Bruce (Gladys's nephew) attempts the hypnosis",
+     "summary": "Insurance salesman Pete is too afraid to ask his Uncle Paul (Gale Gordon) to buy a policy from him. Bruce tries to hypnotise Pete to find out why.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not applicable — the intended hypnotised character is Pete, a man; no pregnancy plot.",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: Unknown (the regular household in this series is Pete and Gladys; nephew Bruce visits)",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "TV Guide: Pete and Gladys season 2",
+       "url": "https://www.tvguide.com/tvshows/pete-and-gladys/episodes-season-2/1030264214/"
+      },
+      {
+       "label": "Wikipedia: Pete and Gladys (episode list, title and airdate only)",
+       "url": "https://en.wikipedia.org/wiki/Pete_and_Gladys"
+      },
+      {
+       "label": "IMDb: Uncle Paul's Insurance",
+       "url": "https://www.imdb.com/title/tt1088630/"
+      }
+     ],
+     "evidence": "TV Guide supplies the hypnosis one-liner; Wikipedia/CTVA confirm title, airdate and Uncle Paul/Gale Gordon but not the plot. 2 sources for the episode, 1 detailed plot line."
+    }
+   }
+  },
+  {
+   "id": 4214,
+   "title": "Ensign O'Toole — \"Operation: Hypnosis\"",
+   "subtitle": "",
+   "year": "1962",
+   "meta": "TV episode · USA · English · NBC · Season 1, Episode 11 · aired 2 Dec 1962 · sitcom",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Aboard the destroyer USS Appleby, Ensign O'Toole hypnotises Lt. St. John into believing he is the finest (or a rigidly by-the-book) lieutenant in the Navy, and hypnotises Chief Petty Officer Nelson into giving up gambling. Chaos follows.",
+   "character": "Lieutenant (jg) Rex St. John and Chief Petty Officer Nelson, both hypnotised by Ensign O'Toole",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not applicable — the hypnotised characters are men; no pregnancy plot.",
+   "pregnancy_note": "Kids together: No.",
+   "tags": [
+    "TV episode",
+    "Ensign O'Toole"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia episode list and Mental Block both describe O'Toole hypnotising St. John and the Chief. 2+ sources.",
+   "fit_note": "Male officers only. Wikipedia and Mental Block agree on the two subjects (Lt. St. John and Chief Nelson).",
+   "format": "tv",
+   "categories": [
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: Ensign O'Toole",
+     "url": "https://en.wikipedia.org/wiki/Ensign_O%27Toole"
+    },
+    {
+     "label": "Mental Block wiki: Ensign O'Toole",
+     "url": "https://mentalblock.miraheze.org/wiki/Ensign_O%27Toole"
+    },
+    {
+     "label": "IMDb: Operation: Hypnosis",
+     "url": "https://www.imdb.com/title/tt1493384/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:9": {
+     "title": "Ensign O'Toole — \"Operation: Hypnosis\"",
+     "year": "1962",
+     "format": "tv",
+     "meta": "TV episode · USA · English · NBC · Season 1, Episode 11 · aired 2 Dec 1962 · sitcom",
+     "categories": [
+      "index-62"
+     ],
+     "tags": [
+      "TV episode",
+      "Ensign O'Toole"
+     ],
+     "fit_note": "Male officers only. Wikipedia and Mental Block agree on the two subjects (Lt. St. John and Chief Nelson).",
+     "character": "Lieutenant (jg) Rex St. John and Chief Petty Officer Nelson, both hypnotised by Ensign O'Toole",
+     "summary": "Aboard the destroyer USS Appleby, Ensign O'Toole hypnotises Lt. St. John into believing he is the finest (or a rigidly by-the-book) lieutenant in the Navy, and hypnotises Chief Petty Officer Nelson into giving up gambling. Chaos follows.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not applicable — the hypnotised characters are men; no pregnancy plot.",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: Ensign O'Toole",
+       "url": "https://en.wikipedia.org/wiki/Ensign_O%27Toole"
+      },
+      {
+       "label": "Mental Block wiki: Ensign O'Toole",
+       "url": "https://mentalblock.miraheze.org/wiki/Ensign_O%27Toole"
+      },
+      {
+       "label": "IMDb: Operation: Hypnosis",
+       "url": "https://www.imdb.com/title/tt1493384/"
+      }
+     ],
+     "evidence": "Wikipedia episode list and Mental Block both describe O'Toole hypnotising St. John and the Chief. 2+ sources."
+    }
+   }
+  },
+  {
+   "id": 4215,
+   "title": "Mister Ed — \"Working Wives\"",
+   "subtitle": "",
+   "year": "1963",
+   "meta": "TV episode · USA · English · CBS · Season 3, Episode 20 · aired 14 Feb 1963 · sitcom",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Carol wants Wilbur to skip his moonlight ride and take her and the Addisons to the movies. After Carol jokes that 'that horse has you hypnotized,' Ed uses a mail-order hypnosis book, has Wilbur stare into his eye, and plants a suggestion that Wilbur will be unable to leave his chair when it is time to go. The wives, feeling taken for granted, then get jobs, leaving Wilbur and Roger to keep house.",
+   "character": "Wilbur Post, hypnotised by his talking horse Mister Ed",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not applicable — the hypnotised character is Wilbur, a man; no pregnancy plot. Carol is not hypnotised.",
+   "pregnancy_note": "Kids together: No (Wilbur and Carol are a childless couple in the series).",
+   "tags": [
+    "TV episode",
+    "Mister Ed"
+   ],
+   "kids_status": "Has kids from before: No",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia episode summary plus a full episode transcript in which Ed counts Wilbur down and plants the chair suggestion. 2+ sources; the fandom one-liner omitted the hypnosis.",
+   "fit_note": "The fandom page's short blurb does not mention hypnosis, but Wikipedia and the episode transcript do: Ed, having just read 'Hypnotism Made Easy,' hypnotises Wilbur so he cannot get out of his chair to go to the movies. Carol and Kay are not hypnotised; they later get jobs after feeling taken for granted.",
+   "format": "tv",
+   "categories": [
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: List of Mister Ed episodes",
+     "url": "https://en.wikipedia.org/wiki/List_of_Mister_Ed_episodes"
+    },
+    {
+     "label": "Forever Dreaming transcript: 03x20 Working Wives",
+     "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=82467"
+    },
+    {
+     "label": "TVmaze: Working Wives",
+     "url": "https://www.tvmaze.com/episodes/263629/mister-ed-3x20-working-wives"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:10": {
+     "title": "Mister Ed — \"Working Wives\"",
+     "year": "1963",
+     "format": "tv",
+     "meta": "TV episode · USA · English · CBS · Season 3, Episode 20 · aired 14 Feb 1963 · sitcom",
+     "categories": [
+      "index-62"
+     ],
+     "tags": [
+      "TV episode",
+      "Mister Ed"
+     ],
+     "fit_note": "The fandom page's short blurb does not mention hypnosis, but Wikipedia and the episode transcript do: Ed, having just read 'Hypnotism Made Easy,' hypnotises Wilbur so he cannot get out of his chair to go to the movies. Carol and Kay are not hypnotised; they later get jobs after feeling taken for granted.",
+     "character": "Wilbur Post, hypnotised by his talking horse Mister Ed",
+     "summary": "Carol wants Wilbur to skip his moonlight ride and take her and the Addisons to the movies. After Carol jokes that 'that horse has you hypnotized,' Ed uses a mail-order hypnosis book, has Wilbur stare into his eye, and plants a suggestion that Wilbur will be unable to leave his chair when it is time to go. The wives, feeling taken for granted, then get jobs, leaving Wilbur and Roger to keep house.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not applicable — the hypnotised character is Wilbur, a man; no pregnancy plot. Carol is not hypnotised.",
+     "pregnancy_note": "Kids together: No (Wilbur and Carol are a childless couple in the series).",
+     "kids_status": "Has kids from before: No",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: List of Mister Ed episodes",
+       "url": "https://en.wikipedia.org/wiki/List_of_Mister_Ed_episodes"
+      },
+      {
+       "label": "Forever Dreaming transcript: 03x20 Working Wives",
+       "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=82467"
+      },
+      {
+       "label": "TVmaze: Working Wives",
+       "url": "https://www.tvmaze.com/episodes/263629/mister-ed-3x20-working-wives"
+      }
+     ],
+     "evidence": "Wikipedia episode summary plus a full episode transcript in which Ed counts Wilbur down and plants the chair suggestion. 2+ sources; the fandom one-liner omitted the hypnosis."
+    }
+   }
+  },
+  {
+   "id": 4216,
+   "title": "The Bill Dana Show — \"The Hypnotist\"",
+   "subtitle": "",
+   "year": "1963",
+   "meta": "TV episode · USA · English · NBC · Season 1, Episode 2 · aired 29 Sep 1963 · sitcom",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A hypnotist is appearing at the hotel. After seeing Mr. Phillips yell at bellhop Jose, the hypnotist puts Phillips under and makes him unusually friendly and tolerant toward Jose, which baffles Jose. The fandom listing also has Jose and Eddie first refusing to take the act seriously, then being hypnotised in the lounge and made to act foolishly before they are brought out of it.",
+   "character": "hotel manager Mr. Phillips (confirmed by Wikipedia); Jose and Eddie are also put under in the fandom listing, not independently confirmed there",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not applicable — the confirmed hypnotised character is Mr. Phillips, a man; no pregnancy plot.",
+   "pregnancy_note": "Kids together: No.",
+   "tags": [
+    "TV episode",
+    "The Bill Dana Show"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia episode list independently confirms the Phillips hypnosis beat. The Jose/Eddie lounge beat is only in the fandom listing.",
+   "fit_note": "Wikipedia confirms that a hotel hypnotist puts manager Mr. Phillips under to make him kind to bellhop Jose. The fandom listing adds that the hypnotist is a woman, and that Jose and Eddie are first put under in the lounge and made to act foolishly; that fuller lounge beat is not in the Wikipedia short summary, so it is mentioned with that caveat.",
+   "format": "tv",
+   "categories": [
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: The Bill Dana Show",
+     "url": "https://en.wikipedia.org/wiki/The_Bill_Dana_Show"
+    },
+    {
+     "label": "IMDb: The Hypnotist",
+     "url": "https://www.imdb.com/title/tt1092701/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:11": {
+     "title": "The Bill Dana Show — \"The Hypnotist\"",
+     "year": "1963",
+     "format": "tv",
+     "meta": "TV episode · USA · English · NBC · Season 1, Episode 2 · aired 29 Sep 1963 · sitcom",
+     "categories": [
+      "index-62"
+     ],
+     "tags": [
+      "TV episode",
+      "The Bill Dana Show"
+     ],
+     "fit_note": "Wikipedia confirms that a hotel hypnotist puts manager Mr. Phillips under to make him kind to bellhop Jose. The fandom listing adds that the hypnotist is a woman, and that Jose and Eddie are first put under in the lounge and made to act foolishly; that fuller lounge beat is not in the Wikipedia short summary, so it is mentioned with that caveat.",
+     "character": "hotel manager Mr. Phillips (confirmed by Wikipedia); Jose and Eddie are also put under in the fandom listing, not independently confirmed there",
+     "summary": "A hypnotist is appearing at the hotel. After seeing Mr. Phillips yell at bellhop Jose, the hypnotist puts Phillips under and makes him unusually friendly and tolerant toward Jose, which baffles Jose. The fandom listing also has Jose and Eddie first refusing to take the act seriously, then being hypnotised in the lounge and made to act foolishly before they are brought out of it.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not applicable — the confirmed hypnotised character is Mr. Phillips, a man; no pregnancy plot.",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: The Bill Dana Show",
+       "url": "https://en.wikipedia.org/wiki/The_Bill_Dana_Show"
+      },
+      {
+       "label": "IMDb: The Hypnotist",
+       "url": "https://www.imdb.com/title/tt1092701/"
+      }
+     ],
+     "evidence": "Wikipedia episode list independently confirms the Phillips hypnosis beat. The Jose/Eddie lounge beat is only in the fandom listing."
+    }
+   }
+  },
+  {
+   "id": 4217,
+   "title": "The Flintstones — \"Sleep On, Sweet Fred\"",
+   "subtitle": "",
+   "year": "1963",
+   "meta": "Animated TV episode · USA · English · ABC · Season 4, Episode 10 (the fandom page wrongly lists it as Season 1, Episode 10) · aired 21 Nov 1963 · TV-G",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Wilma and Betty watch a TV interview with Dr. Terratso Firma on mental conditioning and learn that repeating commands to a sleeping person can make him obey when he wakes. They whisper sleep suggestions to Fred and Barney (wipe their feet, ask for raises, prefer opera and shopping to bowling). It works until the men overhear the scheme and pretend they have been commanded to steal mink coats, luring the wives to a fur salon, where baby Pebbles throws a brick through the window and the two couples are arrested. The wives are punished for 'brainwashing' their husbands.",
+   "character": "Fred Flintstone and Barney Rubble (sleep-taught by Wilma and Betty)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant (Pebbles is already born; no new pregnancy in the plot). The hypnotised characters are the husbands.",
+   "pregnancy_note": "Kids together: Yes — Fred and Wilma already have Pebbles (who appears in the episode). Betty and Barney have adopted Bamm-Bamm earlier in season 4, though he is not the focus here.",
+   "tags": [
+    "TV episode",
+    "The Flintstones",
+    "animated",
+    "kids show"
+   ],
+   "kids_status": "Has kids from before: Yes (Pebbles; Bamm-Bamm for the Rubbles)",
+   "kids_together": "Yes",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia, the show's fandom wiki (detailed plot, working title 'Hypnotized Fred'), Apple TV/Tubi listings and TVmaze. 4+ sources. Fandom list had the wrong season number.",
+   "fit_note": "Family cartoon; non-sexual. This is sleep-teaching / sleep suggestion rather than a classic hypnotic induction; the Flintstones wiki notes the working title was 'Hypnotized Fred' and calls the TV doctor a hypnotist. Wilma and Betty are the ones giving the suggestions; Fred and Barney are the subjects. Series card #1235 does not name this episode. The existing 'wife' / partner-control categories are for a husband or partner controlling a woman, so they were not used.",
+   "format": "tv",
+   "categories": [
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: List of The Flintstones episodes",
+     "url": "https://en.wikipedia.org/wiki/List_of_The_Flintstones_episodes"
+    },
+    {
+     "label": "Flintstones wiki: Sleep On, Sweet Fred",
+     "url": "https://flintstones.fandom.com/wiki/Sleep_On,_Sweet_Fred"
+    },
+    {
+     "label": "Apple TV episode listing",
+     "url": "https://tv.apple.com/us/episode/sleep-on-sweet-fred/umc.cmc.dvjk8lk1tyeo5d0fhc5tp7do"
+    },
+    {
+     "label": "TVmaze: Sleep On, Sweet Fred",
+     "url": "https://www.tvmaze.com/episodes/176751/the-flintstones-4x10-sleep-on-sweet-fred"
+    },
+    {
+     "label": "IMDb: Sleep On, Sweet Fred",
+     "url": "https://www.imdb.com/title/tt0580229/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:12": {
+     "title": "The Flintstones — \"Sleep On, Sweet Fred\"",
+     "year": "1963",
+     "format": "tv",
+     "meta": "Animated TV episode · USA · English · ABC · Season 4, Episode 10 (the fandom page wrongly lists it as Season 1, Episode 10) · aired 21 Nov 1963 · TV-G",
+     "categories": [
+      "index-62"
+     ],
+     "tags": [
+      "TV episode",
+      "The Flintstones",
+      "animated",
+      "kids show"
+     ],
+     "fit_note": "Family cartoon; non-sexual. This is sleep-teaching / sleep suggestion rather than a classic hypnotic induction; the Flintstones wiki notes the working title was 'Hypnotized Fred' and calls the TV doctor a hypnotist. Wilma and Betty are the ones giving the suggestions; Fred and Barney are the subjects. Series card #1235 does not name this episode. The existing 'wife' / partner-control categories are for a husband or partner controlling a woman, so they were not used.",
+     "character": "Fred Flintstone and Barney Rubble (sleep-taught by Wilma and Betty)",
+     "summary": "Wilma and Betty watch a TV interview with Dr. Terratso Firma on mental conditioning and learn that repeating commands to a sleeping person can make him obey when he wakes. They whisper sleep suggestions to Fred and Barney (wipe their feet, ask for raises, prefer opera and shopping to bowling). It works until the men overhear the scheme and pretend they have been commanded to steal mink coats, luring the wives to a fur salon, where baby Pebbles throws a brick through the window and the two couples are arrested. The wives are punished for 'brainwashing' their husbands.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant (Pebbles is already born; no new pregnancy in the plot). The hypnotised characters are the husbands.",
+     "pregnancy_note": "Kids together: Yes — Fred and Wilma already have Pebbles (who appears in the episode). Betty and Barney have adopted Bamm-Bamm earlier in season 4, though he is not the focus here.",
+     "kids_status": "Has kids from before: Yes (Pebbles; Bamm-Bamm for the Rubbles)",
+     "kids_together": "Yes",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: List of The Flintstones episodes",
+       "url": "https://en.wikipedia.org/wiki/List_of_The_Flintstones_episodes"
+      },
+      {
+       "label": "Flintstones wiki: Sleep On, Sweet Fred",
+       "url": "https://flintstones.fandom.com/wiki/Sleep_On,_Sweet_Fred"
+      },
+      {
+       "label": "Apple TV episode listing",
+       "url": "https://tv.apple.com/us/episode/sleep-on-sweet-fred/umc.cmc.dvjk8lk1tyeo5d0fhc5tp7do"
+      },
+      {
+       "label": "TVmaze: Sleep On, Sweet Fred",
+       "url": "https://www.tvmaze.com/episodes/176751/the-flintstones-4x10-sleep-on-sweet-fred"
+      },
+      {
+       "label": "IMDb: Sleep On, Sweet Fred",
+       "url": "https://www.imdb.com/title/tt0580229/"
+      }
+     ],
+     "evidence": "Wikipedia, the show's fandom wiki (detailed plot, working title 'Hypnotized Fred'), Apple TV/Tubi listings and TVmaze. 4+ sources. Fandom list had the wrong season number."
+    }
+   }
+  },
+  {
+   "id": 4218,
+   "title": "The Jack Benny Program — \"The Cat Burglar\"",
+   "subtitle": "",
+   "year": "1964",
+   "meta": "TV episode · USA · English · NBC · Season 15, Episode 9 · aired 20 Nov 1964 · comedy",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "During a poker night at Jack's, the guests talk about a cat burglar hitting Beverly Hills celebrities. In a parallel plot, two criminals hypnotise a dupe, dress him as a cat, and send him into sleeping residents' homes to steal valuables. Joey Bishop's surprise appearance helps Jack and Rochester identify the burglar.",
+   "character": "an unnamed man ('a poor dupe') hypnotised by two criminals; Jack and Rochester later identify the cat burglar",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not applicable — the hypnotised character is a man; no pregnancy plot.",
+   "pregnancy_note": "Kids together: No.",
+   "tags": [
+    "TV episode",
+    "The Jack Benny Program"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia season-15 episode list independently has the hypnotised-dupe cat-burglar plot and the Joey Bishop guest appearance. 2+ sources.",
+   "fit_note": "The hypnotised person is an unnamed 'poor dupe' made to burgle houses in a cat costume, not Jack Benny himself. Wikipedia's plot matches the fandom listing (guest Joey Bishop). Non-sexual.",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "human",
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: The Jack Benny Program season 15",
+     "url": "https://en.wikipedia.org/wiki/The_Jack_Benny_Program_season_15"
+    },
+    {
+     "label": "IMDb: The Cat Burglar",
+     "url": "https://www.imdb.com/title/tt0613730/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:13": {
+     "title": "The Jack Benny Program — \"The Cat Burglar\"",
+     "year": "1964",
+     "format": "tv",
+     "meta": "TV episode · USA · English · NBC · Season 15, Episode 9 · aired 20 Nov 1964 · comedy",
+     "categories": [
+      "crime",
+      "human",
+      "index-62"
+     ],
+     "tags": [
+      "TV episode",
+      "The Jack Benny Program"
+     ],
+     "fit_note": "The hypnotised person is an unnamed 'poor dupe' made to burgle houses in a cat costume, not Jack Benny himself. Wikipedia's plot matches the fandom listing (guest Joey Bishop). Non-sexual.",
+     "character": "an unnamed man ('a poor dupe') hypnotised by two criminals; Jack and Rochester later identify the cat burglar",
+     "summary": "During a poker night at Jack's, the guests talk about a cat burglar hitting Beverly Hills celebrities. In a parallel plot, two criminals hypnotise a dupe, dress him as a cat, and send him into sleeping residents' homes to steal valuables. Joey Bishop's surprise appearance helps Jack and Rochester identify the burglar.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not applicable — the hypnotised character is a man; no pregnancy plot.",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: The Jack Benny Program season 15",
+       "url": "https://en.wikipedia.org/wiki/The_Jack_Benny_Program_season_15"
+      },
+      {
+       "label": "IMDb: The Cat Burglar",
+       "url": "https://www.imdb.com/title/tt0613730/"
+      }
+     ],
+     "evidence": "Wikipedia season-15 episode list independently has the hypnotised-dupe cat-burglar plot and the Joey Bishop guest appearance. 2+ sources."
+    }
+   }
+  },
+  {
+   "id": 4219,
+   "title": "The Invaders — \"Condition: Red\"",
+   "subtitle": "",
+   "year": "1967",
+   "meta": "TV episode · USA · English · ABC · Season 2, Episode 1 · aired 5 Sep 1967 · science fiction",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A doctor pronounces Laurie Keller dead after a riding fall, then is killed when she revives — she is a pulseless Invader. David Vincent investigates at NORAD, where her husband, Major Dan Keller, is a computer programmer. Laurie uses a red light from her ring and a metal head device to put Dan into a trance and make him swap a crucial NORAD tape so alien ships can approach Alaska undetected. Dan later confronts her, she is killed and disintegrates, and he dies after warning the base; NORAD switches to a backup program and the ships retreat. Dan had recently remarried after his first wife's death; the sources do not say whether that earlier death was the aliens' work.",
+   "character": "Major Dan Keller (Jason Evers), mind-controlled by his alien 'wife' Laurie Keller (Antoinette Bower)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not applicable — the mind-controlled character is Dan, a man. Laurie is the controller, not a pregnant human wife.",
+   "pregnancy_note": "Kids together: Unknown / not mentioned. Dan is a recent widower who has remarried Laurie.",
+   "tags": [
+    "TV episode",
+    "The Invaders"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "Unknown",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia (forced tape swap), theinvaders.tv (ring light and crown device) and a detailed review describing the head device as long-term hypnotism. 3+ sources.",
+   "fit_note": "The hypnotised person is Major Dan Keller (the husband), not his wife. Laurie is an Invader posing as his new wife and is the controller. The method is technological mind control (a red light from her ring plus a metal crown/head device), not a stage induction; theinvaders.tv and a later review describe it in those terms, and the fandom hypnosis list calls it hypnosis. Wikipedia describes him as being forced against his will to swap a NORAD tape but does not use the word hypnosis.",
+   "format": "tv",
+   "categories": [
+    "scifi",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: The Invaders (episode list plot)",
+     "url": "https://en.wikipedia.org/wiki/The_Invaders"
+    },
+    {
+     "label": "theinvaders.tv season 2 episode guide",
+     "url": "https://theinvaders.tv/season2.htm"
+    },
+    {
+     "label": "The Book of PDR: Condition, Red",
+     "url": "https://www.bookofpdr.com/2026/07/21/the-invaders-condition-red/"
+    },
+    {
+     "label": "IMDb: Condition: Red",
+     "url": "https://www.imdb.com/title/tt0611976/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:14": {
+     "title": "The Invaders — \"Condition: Red\"",
+     "year": "1967",
+     "format": "tv",
+     "meta": "TV episode · USA · English · ABC · Season 2, Episode 1 · aired 5 Sep 1967 · science fiction",
+     "categories": [
+      "scifi",
+      "tech"
+     ],
+     "tags": [
+      "TV episode",
+      "The Invaders"
+     ],
+     "fit_note": "The hypnotised person is Major Dan Keller (the husband), not his wife. Laurie is an Invader posing as his new wife and is the controller. The method is technological mind control (a red light from her ring plus a metal crown/head device), not a stage induction; theinvaders.tv and a later review describe it in those terms, and the fandom hypnosis list calls it hypnosis. Wikipedia describes him as being forced against his will to swap a NORAD tape but does not use the word hypnosis.",
+     "character": "Major Dan Keller (Jason Evers), mind-controlled by his alien 'wife' Laurie Keller (Antoinette Bower)",
+     "summary": "A doctor pronounces Laurie Keller dead after a riding fall, then is killed when she revives — she is a pulseless Invader. David Vincent investigates at NORAD, where her husband, Major Dan Keller, is a computer programmer. Laurie uses a red light from her ring and a metal head device to put Dan into a trance and make him swap a crucial NORAD tape so alien ships can approach Alaska undetected. Dan later confronts her, she is killed and disintegrates, and he dies after warning the base; NORAD switches to a backup program and the ships retreat. Dan had recently remarried after his first wife's death; the sources do not say whether that earlier death was the aliens' work.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not applicable — the mind-controlled character is Dan, a man. Laurie is the controller, not a pregnant human wife.",
+     "pregnancy_note": "Kids together: Unknown / not mentioned. Dan is a recent widower who has remarried Laurie.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: The Invaders (episode list plot)",
+       "url": "https://en.wikipedia.org/wiki/The_Invaders"
+      },
+      {
+       "label": "theinvaders.tv season 2 episode guide",
+       "url": "https://theinvaders.tv/season2.htm"
+      },
+      {
+       "label": "The Book of PDR: Condition, Red",
+       "url": "https://www.bookofpdr.com/2026/07/21/the-invaders-condition-red/"
+      },
+      {
+       "label": "IMDb: Condition: Red",
+       "url": "https://www.imdb.com/title/tt0611976/"
+      }
+     ],
+     "evidence": "Wikipedia (forced tape swap), theinvaders.tv (ring light and crown device) and a detailed review describing the head device as long-term hypnotism. 3+ sources."
+    }
+   }
+  },
+  {
+   "id": 4220,
+   "title": "The Monkees — \"The Frodis Caper\" (aka \"Mijacogeo\")",
+   "subtitle": "",
+   "year": "1968",
+   "meta": "TV episode · USA · English · NBC · Season 2, Episode 26 · aired 25 Mar 1968 · sitcom",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Micky, Mike and Davy find that Peter and their neighbours have been hypnotised through their TV sets. Wizard Glick (Rip Taylor) is using an alien creature called the Frodis, and devices such as the Freeble Energizer, to control viewers' minds and take over the world. The three remaining Monkees have to stop him; the episode is also known as Mijacogeo, a name taken from Micky Dolenz's childhood dog.",
+   "character": "Peter Tork and the Monkees' neighbours (and, in the villains' plan, television viewers worldwide)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots). The named hypnotised regular is Peter; neighbours are not identified by gender in the short synopses.",
+   "pregnancy_note": "Kids together: No.",
+   "tags": [
+    "TV episode",
+    "The Monkees"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia episode list independently describes Peter and the neighbours hypnotised through TV sets by Wizard Glick. 2+ sources.",
+   "fit_note": "Also known as Mijacogeo (the fandom-page title) and The Frodis Caper (the usual on-screen/Wikipedia title). Peter and the neighbours are hypnotised through television sets; mass mind control, not a pregnancy or adult-erotic plot.",
+   "format": "tv",
+   "categories": [
+    "scifi",
+    "tech",
+    "human",
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: List of The Monkees episodes (and redirect The Frodis Caper)",
+     "url": "https://en.wikipedia.org/wiki/List_of_The_Monkees_episodes"
+    },
+    {
+     "label": "IMDb: Mijacogeo",
+     "url": "https://www.imdb.com/title/tt0650673/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:15": {
+     "title": "The Monkees — \"The Frodis Caper\" (aka \"Mijacogeo\")",
+     "year": "1968",
+     "format": "tv",
+     "meta": "TV episode · USA · English · NBC · Season 2, Episode 26 · aired 25 Mar 1968 · sitcom",
+     "categories": [
+      "scifi",
+      "tech",
+      "human",
+      "index-62"
+     ],
+     "tags": [
+      "TV episode",
+      "The Monkees"
+     ],
+     "fit_note": "Also known as Mijacogeo (the fandom-page title) and The Frodis Caper (the usual on-screen/Wikipedia title). Peter and the neighbours are hypnotised through television sets; mass mind control, not a pregnancy or adult-erotic plot.",
+     "character": "Peter Tork and the Monkees' neighbours (and, in the villains' plan, television viewers worldwide)",
+     "summary": "Micky, Mike and Davy find that Peter and their neighbours have been hypnotised through their TV sets. Wizard Glick (Rip Taylor) is using an alien creature called the Frodis, and devices such as the Freeble Energizer, to control viewers' minds and take over the world. The three remaining Monkees have to stop him; the episode is also known as Mijacogeo, a name taken from Micky Dolenz's childhood dog.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots). The named hypnotised regular is Peter; neighbours are not identified by gender in the short synopses.",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: List of The Monkees episodes (and redirect The Frodis Caper)",
+       "url": "https://en.wikipedia.org/wiki/List_of_The_Monkees_episodes"
+      },
+      {
+       "label": "IMDb: Mijacogeo",
+       "url": "https://www.imdb.com/title/tt0650673/"
+      }
+     ],
+     "evidence": "Wikipedia episode list independently describes Peter and the neighbours hypnotised through TV sets by Wizard Glick. 2+ sources."
+    }
+   }
+  },
+  {
+   "id": 4221,
+   "title": "Chico and the Man — \"The Hypnotist\"",
+   "subtitle": "",
+   "year": "1976",
+   "meta": "TV episode · USA · English · NBC · Season 2, Episode 15 · aired 16 Jan 1976 (the fandom page lists 1975, which is the wrong year)",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Louie is too afraid to go to the dentist and asks Chico to hypnotise him. Skeptical Ed is the one who actually goes under. Chico plants a post-hypnotic suggestion that Ed will do whatever he is asked if he hears the words 'Will you.' When Ed's girlfriend Flora uses that phrase to propose, he agrees to marry her.",
+   "character": "Ed Brown (Jack Albertson), accidentally hypnotised by Chico",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not applicable — the hypnotised character is Ed, a man; no pregnancy plot. Flora is not hypnotised.",
+   "pregnancy_note": "Kids together: Unknown.",
+   "tags": [
+    "TV episode",
+    "Chico and the Man"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "Unknown",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia episode list matches the fandom plot (Ed, not Louie, is hypnotised; 'Will you' trigger; Flora's proposal) and gives the 16 Jan 1976 airdate. 2+ sources.",
+   "fit_note": "Ed is the one who goes under, not Louie, who asked for the hypnosis. Ed's girlfriend Flora then gets a yes to a marriage proposal because of the trigger phrase. He is a man, so this is not the female 'hypnotized-to-marry' category.",
+   "format": "tv",
+   "categories": [
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: List of Chico and the Man episodes",
+     "url": "https://en.wikipedia.org/wiki/List_of_Chico_and_the_Man_episodes"
+    },
+    {
+     "label": "IMDb: The Hypnotist",
+     "url": "https://www.imdb.com/title/tt0540513/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:16": {
+     "title": "Chico and the Man — \"The Hypnotist\"",
+     "year": "1976",
+     "format": "tv",
+     "meta": "TV episode · USA · English · NBC · Season 2, Episode 15 · aired 16 Jan 1976 (the fandom page lists 1975, which is the wrong year)",
+     "categories": [
+      "index-62"
+     ],
+     "tags": [
+      "TV episode",
+      "Chico and the Man"
+     ],
+     "fit_note": "Ed is the one who goes under, not Louie, who asked for the hypnosis. Ed's girlfriend Flora then gets a yes to a marriage proposal because of the trigger phrase. He is a man, so this is not the female 'hypnotized-to-marry' category.",
+     "character": "Ed Brown (Jack Albertson), accidentally hypnotised by Chico",
+     "summary": "Louie is too afraid to go to the dentist and asks Chico to hypnotise him. Skeptical Ed is the one who actually goes under. Chico plants a post-hypnotic suggestion that Ed will do whatever he is asked if he hears the words 'Will you.' When Ed's girlfriend Flora uses that phrase to propose, he agrees to marry her.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not applicable — the hypnotised character is Ed, a man; no pregnancy plot. Flora is not hypnotised.",
+     "pregnancy_note": "Kids together: Unknown.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "Unknown",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: List of Chico and the Man episodes",
+       "url": "https://en.wikipedia.org/wiki/List_of_Chico_and_the_Man_episodes"
+      },
+      {
+       "label": "IMDb: The Hypnotist",
+       "url": "https://www.imdb.com/title/tt0540513/"
+      }
+     ],
+     "evidence": "Wikipedia episode list matches the fandom plot (Ed, not Louie, is hypnotised; 'Will you' trigger; Flora's proposal) and gives the 16 Jan 1976 airdate. 2+ sources."
+    }
+   }
+  },
+  {
+   "id": 4222,
+   "title": "Buck Rogers in the 25th Century — \"Space Rockers\"",
+   "subtitle": "",
+   "year": "1980",
+   "meta": "TV episode · USA · English · NBC · Season 1, Episode 21 (the fandom page lists it as Episode 19) · aired 21 Feb 1980 · science fiction",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Wherever the rock band Andromeda plays, young fans break out into violent mobs. Buck traces this to Music World, a former military base turned broadcast station, and learns that the band's manager, Lars Mangros, is mixing mind-altering frequencies or a hypnotic signal into the music. With a galaxy-wide concert hours away, Buck has to destroy the transmitter before the signal can be used for conquest.",
+   "character": "concert audiences / 'the youth of the galaxy' driven to violence by a hidden signal; no single named female subject in the main synopses",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots; the targets are a mass audience)",
+   "pregnancy_note": "Kids together: No.",
+   "tags": [
+    "TV episode",
+    "Buck Rogers in the 25th Century"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia, Mental Block and TVmaze agree on the Andromeda/Mangros mind-control-signal plot and the 21 Feb 1980 airdate. 3+ sources.",
+   "fit_note": "Mass mind control of concert audiences via a signal hidden in music, aimed especially at young listeners. Non-sexual. Series card #1017 is a whole-show card (and is about a different, vampire-themed episode in its notes) and does not name Space Rockers. Wikipedia, Mental Block and TVmaze all number it season 1 episode 21, not 19.",
+   "format": "tv",
+   "categories": [
+    "scifi",
+    "tech",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: List of Buck Rogers in the 25th Century episodes",
+     "url": "https://en.wikipedia.org/wiki/List_of_Buck_Rogers_in_the_25th_Century_episodes"
+    },
+    {
+     "label": "Mental Block wiki: Buck Rogers in the 25th Century",
+     "url": "https://mentalblock.miraheze.org/wiki/Buck_Rogers_in_the_25th_Century"
+    },
+    {
+     "label": "TVmaze: Space Rockers",
+     "url": "https://www.tvmaze.com/episodes/131458/buck-rogers-in-the-25th-century-1x21-space-rockers"
+    },
+    {
+     "label": "IMDb: Space Rockers",
+     "url": "https://www.imdb.com/title/tt0533110/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:18": {
+     "title": "Buck Rogers in the 25th Century — \"Space Rockers\"",
+     "year": "1980",
+     "format": "tv",
+     "meta": "TV episode · USA · English · NBC · Season 1, Episode 21 (the fandom page lists it as Episode 19) · aired 21 Feb 1980 · science fiction",
+     "categories": [
+      "scifi",
+      "tech",
+      "human"
+     ],
+     "tags": [
+      "TV episode",
+      "Buck Rogers in the 25th Century"
+     ],
+     "fit_note": "Mass mind control of concert audiences via a signal hidden in music, aimed especially at young listeners. Non-sexual. Series card #1017 is a whole-show card (and is about a different, vampire-themed episode in its notes) and does not name Space Rockers. Wikipedia, Mental Block and TVmaze all number it season 1 episode 21, not 19.",
+     "character": "concert audiences / 'the youth of the galaxy' driven to violence by a hidden signal; no single named female subject in the main synopses",
+     "summary": "Wherever the rock band Andromeda plays, young fans break out into violent mobs. Buck traces this to Music World, a former military base turned broadcast station, and learns that the band's manager, Lars Mangros, is mixing mind-altering frequencies or a hypnotic signal into the music. With a galaxy-wide concert hours away, Buck has to destroy the transmitter before the signal can be used for conquest.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots; the targets are a mass audience)",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: List of Buck Rogers in the 25th Century episodes",
+       "url": "https://en.wikipedia.org/wiki/List_of_Buck_Rogers_in_the_25th_Century_episodes"
+      },
+      {
+       "label": "Mental Block wiki: Buck Rogers in the 25th Century",
+       "url": "https://mentalblock.miraheze.org/wiki/Buck_Rogers_in_the_25th_Century"
+      },
+      {
+       "label": "TVmaze: Space Rockers",
+       "url": "https://www.tvmaze.com/episodes/131458/buck-rogers-in-the-25th-century-1x21-space-rockers"
+      },
+      {
+       "label": "IMDb: Space Rockers",
+       "url": "https://www.imdb.com/title/tt0533110/"
+      }
+     ],
+     "evidence": "Wikipedia, Mental Block and TVmaze agree on the Andromeda/Mangros mind-control-signal plot and the 21 Feb 1980 airdate. 3+ sources."
+    }
+   }
+  },
+  {
+   "id": 4223,
+   "title": "Hulk Hogan's Rock 'n' Wrestling — \"Rowdy Roddy Reforms / Three Little Hulks\"",
+   "subtitle": "",
+   "year": "1986",
+   "meta": "Animated TV episode (two segments) · USA · English · CBS · Season 2, Episode 13 · aired 18 Oct 1986",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "In the 'Rowdy Roddy Reforms' segment, Roddy Piper is hypnotised and starts acting uncharacteristically nice, to the confusion of Hulk Hogan and the alarm of the other heel wrestlers. The companion segment, 'Three Little Hulks,' has Hulk's three nephews visiting and causing trouble; it is not about hypnosis.",
+   "character": "Rowdy Roddy Piper",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not applicable — the hypnotised character is Roddy Piper, a man; no pregnancy plot.",
+   "pregnancy_note": "Kids together: No.",
+   "tags": [
+    "TV episode",
+    "Hulk Hogan's Rock 'n' Wrestling",
+    "animated",
+    "kids show"
+   ],
+   "kids_status": "Has kids from before: Unknown",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia episode table and the show's Miraheze wiki both say Piper is hypnotised and starts acting nice. 2+ sources; plot is short in all of them.",
+   "fit_note": "Kids' cartoon; non-sexual. Only the first segment, Rowdy Roddy Reforms, is the hypnosis plot (Roddy Piper, a man, is hypnotised into acting nice). Three Little Hulks is a separate segment about Hulk's nephews and is not a hypnosis story.",
+   "format": "tv",
+   "categories": [
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: Hulk Hogan's Rock 'n' Wrestling",
+     "url": "https://en.wikipedia.org/wiki/Hulk_Hogan%27s_Rock_%27n%27_Wrestling"
+    },
+    {
+     "label": "Hulk Hogan's Rock 'n' Wrestling wiki: Rowdy Roddy Reforms",
+     "url": "https://hulkhogansrocknwrestling.miraheze.org/wiki/Rowdy_Roddy_Reforms"
+    },
+    {
+     "label": "TVmaze: Rowdy Roddy Reforms / Three Little Hulks",
+     "url": "https://www.tvmaze.com/episodes/1170371/hulk-hogans-rock-n-wrestling-2x13-rowdy-roddy-reforms-three-little-hulks"
+    },
+    {
+     "label": "IMDb: Roddy Reforms/Three Little Hulks",
+     "url": "https://www.imdb.com/title/tt3960802/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:20": {
+     "title": "Hulk Hogan's Rock 'n' Wrestling — \"Rowdy Roddy Reforms / Three Little Hulks\"",
+     "year": "1986",
+     "format": "tv",
+     "meta": "Animated TV episode (two segments) · USA · English · CBS · Season 2, Episode 13 · aired 18 Oct 1986",
+     "categories": [
+      "index-62"
+     ],
+     "tags": [
+      "TV episode",
+      "Hulk Hogan's Rock 'n' Wrestling",
+      "animated",
+      "kids show"
+     ],
+     "fit_note": "Kids' cartoon; non-sexual. Only the first segment, Rowdy Roddy Reforms, is the hypnosis plot (Roddy Piper, a man, is hypnotised into acting nice). Three Little Hulks is a separate segment about Hulk's nephews and is not a hypnosis story.",
+     "character": "Rowdy Roddy Piper",
+     "summary": "In the 'Rowdy Roddy Reforms' segment, Roddy Piper is hypnotised and starts acting uncharacteristically nice, to the confusion of Hulk Hogan and the alarm of the other heel wrestlers. The companion segment, 'Three Little Hulks,' has Hulk's three nephews visiting and causing trouble; it is not about hypnosis.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not applicable — the hypnotised character is Roddy Piper, a man; no pregnancy plot.",
+     "pregnancy_note": "Kids together: No.",
+     "kids_status": "Has kids from before: Unknown",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: Hulk Hogan's Rock 'n' Wrestling",
+       "url": "https://en.wikipedia.org/wiki/Hulk_Hogan%27s_Rock_%27n%27_Wrestling"
+      },
+      {
+       "label": "Hulk Hogan's Rock 'n' Wrestling wiki: Rowdy Roddy Reforms",
+       "url": "https://hulkhogansrocknwrestling.miraheze.org/wiki/Rowdy_Roddy_Reforms"
+      },
+      {
+       "label": "TVmaze: Rowdy Roddy Reforms / Three Little Hulks",
+       "url": "https://www.tvmaze.com/episodes/1170371/hulk-hogans-rock-n-wrestling-2x13-rowdy-roddy-reforms-three-little-hulks"
+      },
+      {
+       "label": "IMDb: Roddy Reforms/Three Little Hulks",
+       "url": "https://www.imdb.com/title/tt3960802/"
+      }
+     ],
+     "evidence": "Wikipedia episode table and the show's Miraheze wiki both say Piper is hypnotised and starts acting nice. 2+ sources; plot is short in all of them."
+    }
+   }
+  },
+  {
+   "id": 4224,
+   "title": "My Secret Identity — \"Trading Places\"",
+   "subtitle": "",
+   "year": "1990",
+   "meta": "TV episode · Canada / USA · English · first-run syndication · Season 3, Episode 2 · aired 6 Oct 1990 (Wikipedia/TVmaze; the fandom page lists 8 Oct)",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Dr. J uses a hypnotic device to make Stephanie, Andrew's mother, more impulsive. The hypnotic light reflects off a window, and Andrew and his friend Kirk are also put under; they fall into a hypnotic sleep and then start acting like one another.",
+   "character": "Stephanie Clements (Andrew's mother), deliberately hypnotised by Dr. Benjamin Jeffcoate; Andrew Clements and Kirk Stevens are accidentally affected",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots)",
+   "pregnancy_note": "Kids together: No — Dr. J is the hypnotist and a neighbour, not Stephanie's partner in this plot, and no child with him is mentioned.",
+   "tags": [
+    "TV episode",
+    "My Secret Identity"
+   ],
+   "kids_status": "Has kids from before: Yes (her son Andrew and daughter Erin)",
+   "kids_together": "No",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia episode list plus Mental Block scene notes (device, Stephanie programmed, reflected light, Andrew and Kirk). Cast page confirms Stephanie is the mother. 3+ sources.",
+   "fit_note": "Family/teen sitcom; non-sexual. The intended subject, Stephanie Clements (Wanda Cannon), is Andrew's adult mother, not a teenage girlfriend. Dr. Jeffcoate ('Dr. J') is the family's scientist neighbour, who is attracted to her but is not her husband. Andrew and Kirk (teenagers) are accidentally affected when the hypnotic light reflects off a window; they are not placed in an adult or sexual category. Series card #2390 is a whole-show card and does not name this episode.",
+   "format": "tv",
+   "categories": [
+    "other-control",
+    "mother",
+    "medical",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+     "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+    },
+    {
+     "label": "Wikipedia: List of My Secret Identity episodes",
+     "url": "https://en.wikipedia.org/wiki/List_of_My_Secret_Identity_episodes"
+    },
+    {
+     "label": "Mental Block wiki: My Secret Identity",
+     "url": "https://mentalblock.miraheze.org/wiki/My_Secret_Identity"
+    },
+    {
+     "label": "Wikipedia: My Secret Identity (cast: Stephanie as Andrew's mother)",
+     "url": "https://en.wikipedia.org/wiki/My_Secret_Identity"
+    },
+    {
+     "label": "TVmaze: Trading Places",
+     "url": "https://www.tvmaze.com/episodes/297325/my-secret-identity-3x02-trading-places"
+    },
+    {
+     "label": "IMDb: Trading Places",
+     "url": "https://www.imdb.com/title/tt0654928/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fandom-hypnosis-nov26"
+   ],
+   "source_records": [
+    "fandom-hypnosis-nov26:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fandom-hypnosis-nov26:21": {
+     "title": "My Secret Identity — \"Trading Places\"",
+     "year": "1990",
+     "format": "tv",
+     "meta": "TV episode · Canada / USA · English · first-run syndication · Season 3, Episode 2 · aired 6 Oct 1990 (Wikipedia/TVmaze; the fandom page lists 8 Oct)",
+     "categories": [
+      "other-control",
+      "mother",
+      "medical",
+      "tech"
+     ],
+     "tags": [
+      "TV episode",
+      "My Secret Identity"
+     ],
+     "fit_note": "Family/teen sitcom; non-sexual. The intended subject, Stephanie Clements (Wanda Cannon), is Andrew's adult mother, not a teenage girlfriend. Dr. Jeffcoate ('Dr. J') is the family's scientist neighbour, who is attracted to her but is not her husband. Andrew and Kirk (teenagers) are accidentally affected when the hypnotic light reflects off a window; they are not placed in an adult or sexual category. Series card #2390 is a whole-show card and does not name this episode.",
+     "character": "Stephanie Clements (Andrew's mother), deliberately hypnotised by Dr. Benjamin Jeffcoate; Andrew Clements and Kirk Stevens are accidentally affected",
+     "summary": "Dr. J uses a hypnotic device to make Stephanie, Andrew's mother, more impulsive. The hypnotic light reflects off a window, and Andrew and his friend Kirk are also put under; they fall into a hypnotic sleep and then start acting like one another.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Not pregnant (no pregnancy in the cited plots)",
+     "pregnancy_note": "Kids together: No — Dr. J is the hypnotist and a neighbour, not Stephanie's partner in this plot, and no child with him is mentioned.",
+     "kids_status": "Has kids from before: Yes (her son Andrew and daughter Erin)",
+     "kids_together": "No",
+     "sources": [
+      {
+       "label": "Themed TV Episodes wiki — Episodes about Hypnosis",
+       "url": "https://themed-tv-episodes.fandom.com/wiki/Episodes_about_Hypnosis"
+      },
+      {
+       "label": "Wikipedia: List of My Secret Identity episodes",
+       "url": "https://en.wikipedia.org/wiki/List_of_My_Secret_Identity_episodes"
+      },
+      {
+       "label": "Mental Block wiki: My Secret Identity",
+       "url": "https://mentalblock.miraheze.org/wiki/My_Secret_Identity"
+      },
+      {
+       "label": "Wikipedia: My Secret Identity (cast: Stephanie as Andrew's mother)",
+       "url": "https://en.wikipedia.org/wiki/My_Secret_Identity"
+      },
+      {
+       "label": "TVmaze: Trading Places",
+       "url": "https://www.tvmaze.com/episodes/297325/my-secret-identity-3x02-trading-places"
+      },
+      {
+       "label": "IMDb: Trading Places",
+       "url": "https://www.imdb.com/title/tt0654928/"
+      }
+     ],
+     "evidence": "Wikipedia episode list plus Mental Block scene notes (device, Stephanie programmed, reflected light, Andrew and Kirk). Cast page confirms Stephanie is the mother. 3+ sources."
+    }
+   }
   }
  ],
  "sections": [
@@ -626896,7 +629206,8 @@ window.CATALOG = {
     "weekly-oct19",
     "deep-oct24",
     "vashikaran-nov11",
-    "hypnosis-nov11"
+    "hypnosis-nov11",
+    "fandom-hypnosis-nov26"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 8,
@@ -626909,7 +629220,8 @@ window.CATALOG = {
     "weekly-oct19": null,
     "deep-oct24": null,
     "vashikaran-nov11": null,
-    "hypnosis-nov11": null
+    "hypnosis-nov11": null,
+    "fandom-hypnosis-nov26": null
    },
    "groups": [
     {
@@ -627125,6 +629437,65 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-nov11"
+    },
+    {
+     "title": "Television episodes from the Themed TV Episodes wiki hypnosis list (Nov 26)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4216,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4221,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4209,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4214,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4217,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4212,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4223,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4218,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4215,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4220,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4213,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4207,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4208,
+       "from_source": "fandom-hypnosis-nov26"
+      }
+     ],
+     "from_source": "fandom-hypnosis-nov26"
     }
    ]
   },
@@ -629583,7 +631954,8 @@ window.CATALOG = {
     "deep-refresh-nov16",
     "deep-refresh-nov19",
     "partner-hypnosis-nov19c",
-    "deep-refresh-nov19-pregnant-partner"
+    "deep-refresh-nov19-pregnant-partner",
+    "fandom-hypnosis-nov26"
    ],
    "groups": [
     {
@@ -630331,6 +632703,37 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov19-pregnant-partner"
+    },
+    {
+     "title": "Television episodes from the Themed TV Episodes wiki hypnosis list (Nov 26)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4222,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 1196,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4219,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4220,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4224,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 11,
+       "from_source": "fandom-hypnosis-nov26"
+      }
+     ],
+     "from_source": "fandom-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -630367,7 +632770,8 @@ window.CATALOG = {
     "deep-refresh-nov16": null,
     "deep-refresh-nov19": null,
     "partner-hypnosis-nov19c": null,
-    "deep-refresh-nov19-pregnant-partner": null
+    "deep-refresh-nov19-pregnant-partner": null,
+    "fandom-hypnosis-nov26": null
    }
   },
   {
@@ -630421,7 +632825,8 @@ window.CATALOG = {
     "deep-refresh-nov19-c",
     "female-hypnosis-nov25",
     "hypnotic-healing-similar-nov25",
-    "forced-female-hypnosis-nov26"
+    "forced-female-hypnosis-nov26",
+    "fandom-hypnosis-nov26"
    ],
    "groups": [
     {
@@ -633010,10 +635415,21 @@ window.CATALOG = {
      "items": [
       {
        "id": 4204,
-       "tags": [],
        "from_source": "forced-female-hypnosis-nov26"
       }
-     ]
+     ],
+     "from_source": "forced-female-hypnosis-nov26"
+    },
+    {
+     "title": "Television episodes from the Themed TV Episodes wiki hypnosis list (Nov 26)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4211,
+       "from_source": "fandom-hypnosis-nov26"
+      }
+     ],
+     "from_source": "fandom-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -633060,7 +635476,9 @@ window.CATALOG = {
     "deep-refresh-nov19-b": null,
     "deep-refresh-nov19-c": null,
     "female-hypnosis-nov25": null,
-    "hypnotic-healing-similar-nov25": null
+    "hypnotic-healing-similar-nov25": null,
+    "forced-female-hypnosis-nov26": null,
+    "fandom-hypnosis-nov26": null
    }
   },
   {
@@ -636782,10 +639200,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 4206,
-       "tags": [],
        "from_source": "forced-female-hypnosis-nov26"
       }
-     ]
+     ],
+     "from_source": "forced-female-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -636816,7 +639234,8 @@ window.CATALOG = {
     "deep-refresh-nov19-pregnant-partner": null,
     "deep-refresh-nov19-c": null,
     "wife-hypno-partner-nov25": null,
-    "partner-hypnosis-discovery-t64u": null
+    "partner-hypnosis-discovery-t64u": null,
+    "forced-female-hypnosis-nov26": null
    }
   },
   {
@@ -637521,7 +639940,8 @@ window.CATALOG = {
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11",
     "hypnotic-healing-similar-nov25",
-    "forced-female-hypnosis-nov26"
+    "forced-female-hypnosis-nov26",
+    "fandom-hypnosis-nov26"
    ],
    "groups": [
     {
@@ -638289,6 +640709,16 @@ window.CATALOG = {
         "Human-villain control",
         "Hypnosis",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Dick_Tracy"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Dick_Tracy_%28TV_series%29"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -642617,15 +645047,53 @@ window.CATALOG = {
      "items": [
       {
        "id": 4205,
-       "tags": [],
        "from_source": "forced-female-hypnosis-nov26"
       },
       {
        "id": 4203,
-       "tags": [],
        "from_source": "forced-female-hypnosis-nov26"
       }
-     ]
+     ],
+     "from_source": "forced-female-hypnosis-nov26"
+    },
+    {
+     "title": "Television episodes from the Themed TV Episodes wiki hypnosis list (Nov 26)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4222,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4209,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4218,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4210,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4220,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4207,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 11,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4208,
+       "from_source": "fandom-hypnosis-nov26"
+      }
+     ],
+     "from_source": "fandom-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -642673,7 +645141,9 @@ window.CATALOG = {
     "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null,
-    "hypnotic-healing-similar-nov25": null
+    "hypnotic-healing-similar-nov25": null,
+    "forced-female-hypnosis-nov26": null,
+    "fandom-hypnosis-nov26": null
    }
   },
   {
@@ -644770,10 +647240,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 4206,
-       "tags": [],
        "from_source": "forced-female-hypnosis-nov26"
       }
-     ]
+     ],
+     "from_source": "forced-female-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -644816,7 +647286,8 @@ window.CATALOG = {
     "deep-refresh-nov19-c": null,
     "weekly-nov23": null,
     "wife-hypno-partner-nov25": null,
-    "partner-hypnosis-discovery-t64u": null
+    "partner-hypnosis-discovery-t64u": null,
+    "forced-female-hypnosis-nov26": null
    }
   },
   {
@@ -646068,7 +648539,8 @@ window.CATALOG = {
     "husband-hypnosis-nov12",
     "deep-refresh-nov19",
     "deep-refresh-nov19-pregnant-partner",
-    "worldwide-hypnosis-discovery-nov25"
+    "worldwide-hypnosis-discovery-nov25",
+    "fandom-hypnosis-nov26"
    ],
    "groups": [
     {
@@ -647314,6 +649786,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "worldwide-hypnosis-discovery-nov25"
+    },
+    {
+     "title": "Television episodes from the Themed TV Episodes wiki hypnosis list (Nov 26)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1134,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4218,
+       "from_source": "fandom-hypnosis-nov26"
+      }
+     ],
+     "from_source": "fandom-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -647355,7 +649842,8 @@ window.CATALOG = {
     "husband-hypnosis-nov12": null,
     "deep-refresh-nov19": null,
     "deep-refresh-nov19-pregnant-partner": null,
-    "worldwide-hypnosis-discovery-nov25": null
+    "worldwide-hypnosis-discovery-nov25": null,
+    "fandom-hypnosis-nov26": null
    }
   },
   {
@@ -649292,6 +651780,20 @@ window.CATALOG = {
         "Vampiric hypnosis",
         "Strong · index-verified · interrupted"
        ],
+       "sources": [
+        {
+         "label": "CBR",
+         "url": "https://www.cbr.com/spider-man-vs-dracula-best-halloween-story/"
+        },
+        {
+         "label": "CBR feature",
+         "url": "https://www.cbr.com/spider-man-and-amazing-friends-fought-dracula/"
+        },
+        {
+         "label": "TVmaze",
+         "url": "https://www.TVmaze.com/episodes/259752/spider-man-and-his-amazing-friends-3x02-the-bride-of-dracula"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -650417,10 +652919,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 4206,
-       "tags": [],
        "from_source": "forced-female-hypnosis-nov26"
       }
-     ]
+     ],
+     "from_source": "forced-female-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -650462,7 +652964,8 @@ window.CATALOG = {
     "weekly-nov16": null,
     "hypnotic-healing-similar-nov25": null,
     "wife-hypno-partner-nov25": null,
-    "worldwide-hypnosis-discovery-nov25": null
+    "worldwide-hypnosis-discovery-nov25": null,
+    "forced-female-hypnosis-nov26": null
    }
   },
   {
@@ -653132,7 +655635,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19b",
     "female-hypnosis-nov25",
     "hypnotic-healing-similar-nov25",
-    "worldwide-hypnosis-discovery-nov25"
+    "worldwide-hypnosis-discovery-nov25",
+    "fandom-hypnosis-nov26"
    ],
    "groups": [
     {
@@ -655392,6 +657896,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "worldwide-hypnosis-discovery-nov25"
+    },
+    {
+     "title": "Television episodes from the Themed TV Episodes wiki hypnosis list (Nov 26)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4210,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4224,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4211,
+       "from_source": "fandom-hypnosis-nov26"
+      }
+     ],
+     "from_source": "fandom-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -655451,7 +657974,8 @@ window.CATALOG = {
     "partner-hypnosis-nov19b": null,
     "female-hypnosis-nov25": null,
     "hypnotic-healing-similar-nov25": null,
-    "worldwide-hypnosis-discovery-nov25": null
+    "worldwide-hypnosis-discovery-nov25": null,
+    "fandom-hypnosis-nov26": null
    }
   },
   {
@@ -655556,7 +658080,8 @@ window.CATALOG = {
     "hypnosis-nov11",
     "partner-hypnosis-nov11",
     "therapist-hypnosis-nov12",
-    "partner-hypnosis-nov19b"
+    "partner-hypnosis-nov19b",
+    "fandom-hypnosis-nov26"
    ],
    "groups": [
     {
@@ -656675,6 +659200,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "partner-hypnosis-nov19b"
+    },
+    {
+     "title": "Television episodes from the Themed TV Episodes wiki hypnosis list (Nov 26)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4224,
+       "from_source": "fandom-hypnosis-nov26"
+      }
+     ],
+     "from_source": "fandom-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -656701,7 +659237,8 @@ window.CATALOG = {
     "hypnosis-nov11": null,
     "partner-hypnosis-nov11": null,
     "therapist-hypnosis-nov12": null,
-    "partner-hypnosis-nov19b": null
+    "partner-hypnosis-nov19b": null,
+    "fandom-hypnosis-nov26": null
    }
   },
   {
@@ -658637,7 +661174,8 @@ window.CATALOG = {
     "saimin-sweep-nov11",
     "deep-refresh-nov19",
     "female-hypnosis-nov25",
-    "forced-female-hypnosis-nov26"
+    "forced-female-hypnosis-nov26",
+    "fandom-hypnosis-nov26"
    ],
    "groups": [
     {
@@ -661898,10 +664436,37 @@ window.CATALOG = {
      "items": [
       {
        "id": 4204,
-       "tags": [],
        "from_source": "forced-female-hypnosis-nov26"
       }
-     ]
+     ],
+     "from_source": "forced-female-hypnosis-nov26"
+    },
+    {
+     "title": "Television episodes from the Themed TV Episodes wiki hypnosis list (Nov 26)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1134,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4210,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4224,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4211,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4207,
+       "from_source": "fandom-hypnosis-nov26"
+      }
+     ],
+     "from_source": "fandom-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -661940,7 +664505,9 @@ window.CATALOG = {
     "hypnosis-nov11": null,
     "saimin-sweep-nov11": null,
     "deep-refresh-nov19": null,
-    "female-hypnosis-nov25": null
+    "female-hypnosis-nov25": null,
+    "forced-female-hypnosis-nov26": null,
+    "fandom-hypnosis-nov26": null
    }
   },
   {
@@ -670570,7 +673137,8 @@ window.CATALOG = {
     "deep-refresh-oct30",
     "pdf-hypnosis-sweeps-nov08",
     "partner-hypnosis-nov11",
-    "husband-hypnosis-nov12"
+    "husband-hypnosis-nov12",
+    "fandom-hypnosis-nov26"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 9,
@@ -670582,7 +673150,8 @@ window.CATALOG = {
     "deep-refresh-oct30": null,
     "pdf-hypnosis-sweeps-nov08": null,
     "partner-hypnosis-nov11": null,
-    "husband-hypnosis-nov12": null
+    "husband-hypnosis-nov12": null,
+    "fandom-hypnosis-nov26": null
    },
    "groups": [
     {
@@ -671255,7 +673824,8 @@ window.CATALOG = {
     "hypno-sex-nov12",
     "husband-hypnosis-nov12",
     "deep-refresh-nov13",
-    "deep-refresh-nov25"
+    "deep-refresh-nov25",
+    "fandom-hypnosis-nov26"
    ],
    "groups": [
     {
@@ -675838,6 +678408,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov25"
+    },
+    {
+     "title": "Television episodes from the Themed TV Episodes wiki hypnosis list (Nov 26)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4222,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4219,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4220,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 11,
+       "from_source": "fandom-hypnosis-nov26"
+      }
+     ],
+     "from_source": "fandom-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -675865,7 +678458,8 @@ window.CATALOG = {
     "hypno-sex-nov12": null,
     "husband-hypnosis-nov12": null,
     "deep-refresh-nov13": null,
-    "deep-refresh-nov25": null
+    "deep-refresh-nov25": null,
+    "fandom-hypnosis-nov26": null
    }
   },
   {
@@ -683409,7 +686003,8 @@ window.CATALOG = {
     "deep-refresh-nov19",
     "deep-refresh-nov19-b",
     "female-hypnosis-nov25",
-    "forced-female-hypnosis-nov26"
+    "forced-female-hypnosis-nov26",
+    "fandom-hypnosis-nov26"
    ],
    "groups": [
     {
@@ -686328,15 +688923,33 @@ window.CATALOG = {
      "items": [
       {
        "id": 4205,
-       "tags": [],
        "from_source": "forced-female-hypnosis-nov26"
       },
       {
        "id": 4203,
-       "tags": [],
        "from_source": "forced-female-hypnosis-nov26"
       }
-     ]
+     ],
+     "from_source": "forced-female-hypnosis-nov26"
+    },
+    {
+     "title": "Television episodes from the Themed TV Episodes wiki hypnosis list (Nov 26)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1134,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 1196,
+       "from_source": "fandom-hypnosis-nov26"
+      },
+      {
+       "id": 4207,
+       "from_source": "fandom-hypnosis-nov26"
+      }
+     ],
+     "from_source": "fandom-hypnosis-nov26"
     }
    ],
    "declared_count_by_source": {
@@ -686380,7 +688993,9 @@ window.CATALOG = {
     "husband-hypnosis-nov12": null,
     "deep-refresh-nov19": null,
     "deep-refresh-nov19-b": null,
-    "female-hypnosis-nov25": null
+    "female-hypnosis-nov25": null,
+    "forced-female-hypnosis-nov26": null,
+    "fandom-hypnosis-nov26": null
    }
   },
   {

@@ -386,6 +386,13 @@
      "subtitle": "",
      "year": "1983",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "fandom-hypnosis-nov26:19",
+     "title": "Spider-Man and His Amazing Friends — \"The Education of a Superhero\"",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "alias"
     }
    ]
   },
@@ -27547,6 +27554,13 @@
      "subtitle": "",
      "year": "1950–1951",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "fandom-hypnosis-nov26:1",
+     "title": "Dick Tracy — \"Dick Tracy vs. Swami\"",
+     "subtitle": "",
+     "year": "1950",
+     "matched_by": "alias"
     }
    ]
   },
@@ -29060,6 +29074,13 @@
      "subtitle": "",
      "year": "1976–1977",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "fandom-hypnosis-nov26:17",
+     "title": "Electra Woman and Dyna Girl — \"Glitter Rock\" (Parts 1 & 2)",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "alias"
     }
    ]
   },
@@ -55466,23 +55487,13 @@
   "wife-hypno-partner-nov25": 8,
   "partner-hypnosis-discovery-t64u": 1,
   "worldwide-hypnosis-discovery-nov25": 4,
-  "bed-hypnosis-nov26": 30
+  "bed-hypnosis-nov26": 30,
+  "forced-female-hypnosis-nov26": 4,
+  "fandom-hypnosis-nov26": 21
  },
- "entry_count_after_dedupe": 4007,
+ "entry_count_after_dedupe": 4029,
  "within_source_groups": 6,
  "cross_source_groups": 2114,
  "index_only_records": 55,
- "local_only_records": 1735,
- "offline_forced_female_hypnosis_nov26": {
-  "new_ids": [
-   4203,
-   4204,
-   4205,
-   4206
-  ],
-  "enriched_ids": [],
-  "source": "forced-female-hypnosis-nov26",
-  "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
-  "browser_or_network_calls": 0
- }
+ "local_only_records": 1757
 }
