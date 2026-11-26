@@ -14515,6 +14515,180 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "wife-hypno-partner-nov25",
+   "label": "Female hypnotized / mind-controlled by her own partner — PH/ID + worldwide (25 Nov 2026)",
+   "kind": "local",
+   "share_url": "sources/wife-hypno-partner-nov25.json",
+   "description": "Sweep on 25 Nov 2026 PT focused on the Philippines and Indonesia (teleserye, anthology, Vivamax, sinetron, FTV), plus worldwide titles in any language, for adult women hypnotized or mind-controlled by their own partner: hypnosis, trance, gayuma/pelet/black-magic love charms or technology. Mere manipulation, gaslighting and possession are excluded. Each card records whether she was married to the controller, whether they had children, and whether she had children before, from the cited sources or 'unknown'. Existing categories reused (wife, partner-control, love, tantrik, hypnotized-to-marry, wife-hypnotized, therapist-wife, partner-commissioned). Titles already in the catalog only gain episodes, categories and links. Single-source or borderline cards are tagged 'loose fit'.",
+   "dropped": [
+    {
+     "title": "Magpakailanman — “Mag-asawa, Ginayuma”",
+     "year": "2023 (rerun 2025)",
+     "reason": "Third party (Raul) puts gayuma on both Elmer and his wife Dessa; not her partner."
+    },
+    {
+     "title": "Wagas — “Ang Kapangyarihan ng Gayuma”",
+     "year": "2017",
+     "reason": "Spell cast on the wife by a female neighbour, not her partner (already on site as Wagas)."
+    },
+    {
+     "title": "Karelasyon — “Gayuma” (S1E28)",
+     "year": "2015",
+     "reason": "Diego uses gayuma on Clarissa, who rejected him; sources do not show her becoming his partner."
+    },
+    {
+     "title": "Maalaala Mo Kaya — “Gayuma” (Celia)",
+     "year": "1996",
+     "reason": "Suitor Nato's potion is taken by Celia's sister by accident; not a partner."
+    },
+    {
+     "title": "Maalaala Mo Kaya — “Gayuma” (Ella and Dan)",
+     "year": "2003",
+     "reason": "The wife uses the love charm on her husband (reversed)."
+    },
+    {
+     "title": "Gayuma: Sana'y Mahalin Mo Rin Ako",
+     "year": "1995",
+     "reason": "Infertile wife's potion obsession; no partner control of a woman in the sources."
+    },
+    {
+     "title": "Huwad (originally Gayuma)",
+     "year": "2024",
+     "reason": "Already on site; the wife takes the potion herself to win back her husband."
+    },
+    {
+     "title": "Ipaglaban Mo — “Gayuma”",
+     "year": "2019",
+     "reason": "Already on site; healer Pedring (not her husband) drugs/hypnotises Lily."
+    },
+    {
+     "title": "Regal Studio Presents — “Secret Gayuma Recipe”",
+     "year": "2026",
+     "reason": "Employee accidentally doses her boss; not a partner and the man is the target."
+    },
+    {
+     "title": "Daig Kayo ng Lola Ko — “JOY to the World”",
+     "year": "2024",
+     "reason": "Children's fantasy anthology; victim is male (Tristan)."
+    },
+    {
+     "title": "Mind Master — “Hipnotismo”",
+     "year": "2011",
+     "reason": "Real stage-hypnosis show with celebrity guests; no partner."
+    },
+    {
+     "title": "Magpakailanman — “The Power of Hypnotism”",
+     "year": "2017",
+     "reason": "Hypnotist Apo Jessie controls followers; no partner relationship in the sources."
+    },
+    {
+     "title": "Hipnotismo (BG Productions)",
+     "year": "2018 (announced)",
+     "reason": "Newlywed horror announced in 2018; no plot showing the husband hypnotizing the wife and release not confirmed."
+    },
+    {
+     "title": "Pelet Kuntilanak",
+     "year": "2011",
+     "reason": "Women use pelet on men (reversed)."
+    },
+    {
+     "title": "Sosok Ketiga: Lintrik / Lintrik: Ilmu Pemikat",
+     "year": "2025",
+     "reason": "The other woman charms the husband (reversed); Sosok Ketiga already on site."
+    },
+    {
+     "title": "Sihir Pelakor",
+     "year": "2025",
+     "reason": "The husband Edi is the gendam victim."
+    },
+    {
+     "title": "Hidayah — “Pelet Bini Muda Agar Suami Tunduk…”",
+     "year": "",
+     "reason": "The young wife charms the husband (reversed)."
+    },
+    {
+     "title": "Pelet Cinta di Tambak Ikan (FTV SCTV)",
+     "year": "2016",
+     "reason": "Romantic comedy; no sourced partner control of a woman."
+    },
+    {
+     "title": "Katakan Putus — “Putus Karena Dipelet” (Trans TV)",
+     "year": "",
+     "reason": "Reality show; no plot details."
+    },
+    {
+     "title": "Uya Kuya TV hypnosis episodes (e.g. 'Suami Selingkuh Sama Adekku', 'Suami Tertindas 12 Th')",
+     "year": "2023–2026",
+     "reason": "Real people hypnotized by the TV host, not by a partner."
+    },
+    {
+     "title": "'Hipnotis Istri biar bisa maen lama' (Arbi Alfarisi)",
+     "year": "",
+     "reason": "Prank/real-hypnosis clip, not scripted media; consent and context unverifiable."
+    },
+    {
+     "title": "Ahli Hipnotis Terbaik: Pacar Brengsek Menyewa Muridku untuk Menghipnotisku (顶级催眠师渣男请我徒弟催眠我)",
+     "year": "",
+     "reason": "Chinese short drama; the heroine is a master hypnotist who only pretends to agree — no sourced scene of her actually being hypnotized."
+    },
+    {
+     "title": "His Hypnosis Never Worked! (ShortMax)",
+     "year": "",
+     "reason": "The synopsis says the hypnosis never worked; she only plays along."
+    },
+    {
+     "title": "女友催眠 (Girlfriend Hypnosis)",
+     "year": "2026",
+     "reason": "School setting; ages ambiguous."
+    },
+    {
+     "title": "重生之我为催眠先生 (Rebirth: I Am Mr. Hypnosis)",
+     "year": "2026",
+     "reason": "AI adult short; victims are college strangers, not partners; ages ambiguous."
+    },
+    {
+     "title": "Nikuen",
+     "year": "2025",
+     "reason": "Hypnotist is a man who controlled her mother, not her partner."
+    },
+    {
+     "title": "Siyah — “Lutrum Putrum”",
+     "year": "",
+     "reason": "Husband has a magician put a spirit into his wife: possession, excluded by request."
+    },
+    {
+     "title": "Thunderbolt: Magun",
+     "year": "2001",
+     "reason": "Husband places a chastity curse (magun) on his wife; a curse, not control of her will."
+    },
+    {
+     "title": "Mantera Anjasmoro (TV3)",
+     "year": "",
+     "reason": "The wife uses a love charm on her husband (reversed)."
+    },
+    {
+     "title": "Hyeongsa — “Eolgul eomneun minyeo” (TBC)",
+     "year": "1980",
+     "reason": "A man hypnotizes his friend's wife; not her partner."
+    },
+    {
+     "title": "Japanese AV 'hypnotized in front of her husband' titles (e.g. MILD-879)",
+     "year": "",
+     "reason": "Third-party hypnotist, not the partner."
+    },
+    {
+     "title": "Beneath the Hypnosis / Bajo la Hipnosis; Listen To Your Husband / 枕边催眠师; The Mafia Queen Is a Nanny; Workin' Moms 'Consent'; Don't Worry Darling; The Stepford Wives; 被催眠的她",
+     "year": "",
+     "reason": "Already on site with these aliases and sources; nothing new to add."
+    }
+   ],
+   "check": {
+    "raw_count": 8,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -14638,10 +14812,11 @@
   "deep-refresh-nov25": 9,
   "female-hypnosis-nov25": 4,
   "hypnotic-healing-similar-nov25": 5,
-  "remarried-announce-nov25": 16
+  "remarried-announce-nov25": 16,
+  "wife-hypno-partner-nov25": 8
  },
- "raw_total": 7833,
- "entry_count": 3998,
+ "raw_total": 7841,
+ "entry_count": 4002,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -14731,7 +14906,7 @@
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 98
+   "entry_count": 103
   },
   {
    "key": "india-control",
@@ -14743,7 +14918,7 @@
    "key": "hypnotized-to-marry",
    "label": "Female hypnotized into marriage",
    "legend_label": "Female hypnotized into marriage",
-   "entry_count": 34
+   "entry_count": 35
   },
   {
    "key": "forced-obedience",
@@ -14779,7 +14954,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 168
+   "entry_count": 170
   },
   {
    "key": "index-54",
@@ -14821,7 +14996,7 @@
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 243
+   "entry_count": 246
   },
   {
    "key": "hypno-intimacy",
@@ -15163,7 +15338,7 @@
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 74
+   "entry_count": 76
   },
   {
    "key": "vampire",
@@ -15199,13 +15374,13 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 237
+   "entry_count": 238
   },
   {
    "key": "therapist-wife",
    "label": "Wife hypnotized / controlled by a therapist",
    "legend_label": "Wife hypnotized / controlled by a therapist",
-   "entry_count": 26
+   "entry_count": 27
   },
   {
    "key": "another-man",
@@ -68313,28 +68488,58 @@
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "episodes": [
+    {
+     "episode": "“Gayuma” (25 Dec 2021)",
+     "air_date": "2021-12-25",
+     "gist": "Love potion makes Regina agree to marry Adan; she later escapes (LionhearTV, Manila Standard, GMA follow-up).",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "no",
+   "kids_note": "None mentioned.",
+   "kids_together": "no",
+   "kids_together_note": "None mentioned.",
+   "married": "no",
+   "married_note": "Engaged under the potion; no wedding stated.",
+   "evidence": "3 independent sources.",
    "fit_note": "Love-potion spell makes the woman agree to marry.",
    "format": "tv",
    "categories": [
     "love",
-    "hypnotized-marriage"
+    "hypnotized-marriage",
+    "hypnotized-to-marry"
    ],
    "sources": [
     {
      "label": "catalog card",
      "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+    },
+    {
+     "label": "LionhearTV — Max Collins falls under a love spell",
+     "url": "https://www.lionheartv.net/2021/12/max-collins-falls-under-a-love-spell-in-wish-ko-langs-gayuma-episode/"
+    },
+    {
+     "label": "Manila Standard — Max Collins in 'Wish Ko Lang' December special",
+     "url": "https://manilastandard.net/?p=314024482"
+    },
+    {
+     "label": "GMA — Babaeng ginayuma, tinulungan ng 'Wish Ko Lang'",
+     "url": "https://www.gmanetwork.com/entertainment/showbiznews/babaeng-ginayuma-tinulungan-ng-wish-ko-lang/84117/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "hypnotized-marriage"
+    "hypnotized-marriage",
+    "wife-hypno-partner-nov25"
    ],
    "source_records": [
     "xla62ucxbx02u5:224",
     "ig6qlxqxoxvcxla:212",
-    "hypnotized-marriage:10"
+    "hypnotized-marriage:10",
+    "wife-hypno-partner-nov25:6"
    ],
    "index_only": false,
    "local_only": false,
@@ -68414,6 +68619,59 @@
      "fit_note": "Love-potion spell makes the woman agree to marry.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypno-partner-nov25:6",
+     "source": "wife-hypno-partner-nov25",
+     "label": "Wish Ko Lang: \"Gayuma\" (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Wish Ko Lang: \"Gayuma\"",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "TV anthology episode · Philippines · Filipino · GMA Network · Christmas special, aired 25 Dec 2021 · dir. Jojo Nadela",
+     "summary": "Regina turns down her obsessed childhood friend Adan. He uses a love potion (gayuma) on her, and she suddenly seems head over heels for him and is about to marry him; when her mother discovers the potion, Adan takes her to Manila. The potion wears off, she meets Stephen, and Adan locks her up and beats her whenever she tries to leave, until she frees herself.",
+     "character": "Regina (Max Collins); childhood friend Adan (Dave Bornea); Stephen (Jak Roberto)",
+     "note": "Adds the air date, cast and two sources. Controller: Adan, who becomes her fiancé only through the potion (loose partner fit).",
+     "mechanism": "",
+     "confidence_flag": "high",
+     "categories": [
+      "love",
+      "hypnotized-marriage",
+      "hypnotized-to-marry"
+     ],
+     "sources": [
+      {
+       "label": "LionhearTV — Max Collins falls under a love spell",
+       "url": "https://www.lionheartv.net/2021/12/max-collins-falls-under-a-love-spell-in-wish-ko-langs-gayuma-episode/"
+      },
+      {
+       "label": "Manila Standard — Max Collins in 'Wish Ko Lang' December special",
+       "url": "https://manilastandard.net/?p=314024482"
+      },
+      {
+       "label": "GMA — Babaeng ginayuma, tinulungan ng 'Wish Ko Lang'",
+       "url": "https://www.gmanetwork.com/entertainment/showbiznews/babaeng-ginayuma-tinulungan-ng-wish-ko-lang/84117/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "“Gayuma” (25 Dec 2021)",
+       "air_date": "2021-12-25",
+       "gist": "Love potion makes Regina agree to marry Adan; she later escapes (LionhearTV, Manila Standard, GMA follow-up).",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "None mentioned.",
+     "kids_together": "no",
+     "kids_together_note": "None mentioned.",
+     "married": "no",
+     "married_note": "Engaged under the potion; no wedding stated.",
+     "evidence": "3 independent sources.",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -68455,6 +68713,53 @@
      ],
      "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
      "fit_note": "Love-potion spell makes the woman agree to marry."
+    },
+    "wife-hypno-partner-nov25:6": {
+     "title": "Wish Ko Lang: \"Gayuma\"",
+     "match_title": "Wish Ko Lang: \"Gayuma\"",
+     "match_year": "2021",
+     "year": "2021",
+     "format": "tv",
+     "meta": "TV anthology episode · Philippines · Filipino · GMA Network · Christmas special, aired 25 Dec 2021 · dir. Jojo Nadela",
+     "character": "Regina (Max Collins); childhood friend Adan (Dave Bornea); Stephen (Jak Roberto)",
+     "summary": "Regina turns down her obsessed childhood friend Adan. He uses a love potion (gayuma) on her, and she suddenly seems head over heels for him and is about to marry him; when her mother discovers the potion, Adan takes her to Manila. The potion wears off, she meets Stephen, and Adan locks her up and beats her whenever she tries to leave, until she frees herself.",
+     "note": "Adds the air date, cast and two sources. Controller: Adan, who becomes her fiancé only through the potion (loose partner fit).",
+     "episodes": [
+      {
+       "episode": "“Gayuma” (25 Dec 2021)",
+       "air_date": "2021-12-25",
+       "gist": "Love potion makes Regina agree to marry Adan; she later escapes (LionhearTV, Manila Standard, GMA follow-up).",
+       "number_verified": true
+      }
+     ],
+     "kids_together": "no",
+     "kids_together_note": "None mentioned.",
+     "kids_status": "no",
+     "kids_note": "None mentioned.",
+     "married": "no",
+     "married_note": "Engaged under the potion; no wedding stated.",
+     "sources": [
+      {
+       "label": "LionhearTV — Max Collins falls under a love spell",
+       "url": "https://www.lionheartv.net/2021/12/max-collins-falls-under-a-love-spell-in-wish-ko-langs-gayuma-episode/"
+      },
+      {
+       "label": "Manila Standard — Max Collins in 'Wish Ko Lang' December special",
+       "url": "https://manilastandard.net/?p=314024482"
+      },
+      {
+       "label": "GMA — Babaeng ginayuma, tinulungan ng 'Wish Ko Lang'",
+       "url": "https://www.gmanetwork.com/entertainment/showbiznews/babaeng-ginayuma-tinulungan-ng-wish-ko-lang/84117/"
+      }
+     ],
+     "evidence": "3 independent sources.",
+     "confidence_flag": "high",
+     "categories": [
+      "love",
+      "hypnotized-marriage",
+      "hypnotized-to-marry"
+     ],
+     "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)"
     }
    }
   },
@@ -174563,8 +174868,19 @@
    "confidence_flag": "Low confidence · near-miss",
    "summary": "After Yvonne leaves him before their wedding, Lenny seeks a witch doctor’s help to make her fall for him through a love potion. The ex-partner instigates the control, but a third party performs it and the mechanism is not explicit hypnosis or trance.",
    "character": "",
-   "provenance": "",
+   "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)",
    "note": "",
+   "episodes": [
+    {
+     "episode": "“Love Potion” (11 Feb 2012)",
+     "air_date": "2012-02-11",
+     "gist": "Lenny uses a witch doctor's love potion on his runaway fiancée Yvonne (PEP.ph; Wikipedia season 20 list).",
+     "number_verified": true
+    }
+   ],
+   "married": "no",
+   "married_note": "Engaged; she ran away three days before the wedding.",
+   "evidence": "PEP press article; existing card already cites Wikipedia and YouTube.",
    "format": "tv",
    "categories": [
     "partner-control",
@@ -174578,6 +174894,10 @@
     {
      "label": "YouTube",
      "url": "https://www.youtube.com/watch?v=JPLbtenypnw"
+    },
+    {
+     "label": "PEP.ph — Alfred Vargas and Bianca Manalo topbill 'love potion' episode",
+     "url": "https://www.pep.ph/news/local/9792/alfred-vargas-and-bianca-manalo-topbill-love-potion-episode-of-maalaala-mo-kaya"
     }
    ],
    "youtube_ids": [
@@ -174585,13 +174905,15 @@
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypno-partner-nov25"
    ],
    "source_records": [
     "xla62ucxbx02u5:824",
     "ig6qlxqxoxvcxla:55",
     "ig6qlxqxoxvcxla:338",
-    "ig6qlxqxoxvcxla:342"
+    "ig6qlxqxoxvcxla:342",
+    "wife-hypno-partner-nov25:7"
    ],
    "index_only": false,
    "local_only": false,
@@ -174712,6 +175034,46 @@
      "distinct_story": false,
      "index_title": "Maalaala Mo Kaya “Gayuma” (2012 Philippines)",
      "matched_by": "alias"
+    },
+    {
+     "rid": "wife-hypno-partner-nov25:7",
+     "source": "wife-hypno-partner-nov25",
+     "label": "Maalaala Mo Kaya (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Maalaala Mo Kaya",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "TV anthology episode · Philippines · Filipino · ABS-CBN · “Love Potion”, aired 11 Feb 2012 · dir. Lino Cayetano",
+     "summary": "Half-Korean, half-Filipino Lenny finally wins Yvonne as his girlfriend and proposes; she accepts but runs away three days before the wedding. Frustrated, Lenny gets a witch doctor to make her fall for him through a love potion.",
+     "character": "Lenny (Alfred Vargas); his girlfriend, then fiancée, Yvonne (Bianca Manalo)",
+     "note": "Adds the episode date, cast and the PEP source. Controller: her ex-fiancé, through a witch doctor.",
+     "mechanism": "",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-control",
+      "partner-commissioned"
+     ],
+     "sources": [
+      {
+       "label": "PEP.ph — Alfred Vargas and Bianca Manalo topbill 'love potion' episode",
+       "url": "https://www.pep.ph/news/local/9792/alfred-vargas-and-bianca-manalo-topbill-love-potion-episode-of-maalaala-mo-kaya"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "“Love Potion” (11 Feb 2012)",
+       "air_date": "2012-02-11",
+       "gist": "Lenny uses a witch doctor's love potion on his runaway fiancée Yvonne (PEP.ph; Wikipedia season 20 list).",
+       "number_verified": true
+      }
+     ],
+     "married": "no",
+     "married_note": "Engaged; she ran away three days before the wedding.",
+     "evidence": "PEP press article; existing card already cites Wikipedia and YouTube.",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -174794,6 +175156,40 @@
      "group": "Regain love / stop leaving",
      "confidence": "Verified",
      "note": ""
+    },
+    "wife-hypno-partner-nov25:7": {
+     "title": "Maalaala Mo Kaya",
+     "match_title": "Maalaala Mo Kaya",
+     "match_year": "2012",
+     "year": "2012",
+     "format": "tv",
+     "meta": "TV anthology episode · Philippines · Filipino · ABS-CBN · “Love Potion”, aired 11 Feb 2012 · dir. Lino Cayetano",
+     "character": "Lenny (Alfred Vargas); his girlfriend, then fiancée, Yvonne (Bianca Manalo)",
+     "summary": "Half-Korean, half-Filipino Lenny finally wins Yvonne as his girlfriend and proposes; she accepts but runs away three days before the wedding. Frustrated, Lenny gets a witch doctor to make her fall for him through a love potion.",
+     "note": "Adds the episode date, cast and the PEP source. Controller: her ex-fiancé, through a witch doctor.",
+     "episodes": [
+      {
+       "episode": "“Love Potion” (11 Feb 2012)",
+       "air_date": "2012-02-11",
+       "gist": "Lenny uses a witch doctor's love potion on his runaway fiancée Yvonne (PEP.ph; Wikipedia season 20 list).",
+       "number_verified": true
+      }
+     ],
+     "married": "no",
+     "married_note": "Engaged; she ran away three days before the wedding.",
+     "sources": [
+      {
+       "label": "PEP.ph — Alfred Vargas and Bianca Manalo topbill 'love potion' episode",
+       "url": "https://www.pep.ph/news/local/9792/alfred-vargas-and-bianca-manalo-topbill-love-potion-episode-of-maalaala-mo-kaya"
+      }
+     ],
+     "evidence": "PEP press article; existing card already cites Wikipedia and YouTube.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-control",
+      "partner-commissioned"
+     ],
+     "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)"
     }
    },
    "watch_links": [
@@ -314499,10 +314895,21 @@
    "note": "Outcome facts: pregnancy outcome: unknown.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "episodes": [
+    {
+     "episode": "S1E330 “Magkapatid, Biktima ng Kulto” (28 Sep 2019)",
+     "air_date": "2019-09-28",
+     "gist": "Cult husband puts his wife in a trance with a necklace (Mental Block scene log; WatchWhatWhere S1E330 listing; Ashley Ortega filmography).",
+     "number_verified": true
+    }
+   ],
    "kids_status": "not stated",
    "kids_note": "not stated",
    "kids_together": "not stated",
+   "married": "yes",
+   "married_note": "The sisters become wives of a cult member.",
    "pregnant_end": "not stated",
+   "evidence": "3 sources (scene log, episode listing, filmography).",
    "already_married": "yes",
    "already_married_note": "Yes — husband: her husband",
    "format": "tv",
@@ -314517,18 +314924,28 @@
     {
      "label": "Mental Block",
      "url": "https://mentalblock.miraheze.org/wiki/Magpakailanman"
+    },
+    {
+     "label": "WatchWhatWhere — Magpakailanman S1E330",
+     "url": "https://watchwhatwhere.com/title/2668350-magkapatid-biktima-ng-kulto"
+    },
+    {
+     "label": "Wikipedia — Ashley Ortega (filmography: Ella)",
+     "url": "https://en.wikipedia.org/wiki/Ashley_Ortega"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "hypnotized-love",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "wife-hypno-partner-nov25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1517",
     "hypnotized-love:25",
-    "wife-hypnosis-oct15:57"
+    "wife-hypnosis-oct15:57",
+    "wife-hypno-partner-nov25:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -314627,6 +315044,55 @@
      "already_married_note": "Yes — husband: her husband",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypno-partner-nov25:5",
+     "source": "wife-hypno-partner-nov25",
+     "label": "Magpakailanman · “Magkapatid, Biktima ng Kulto” (S1E330, 28 Sep 2019) (2019)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Magpakailanman",
+     "subtitle": "“Magkapatid, Biktima ng Kulto” (S1E330, 28 Sep 2019)",
+     "year": "2019",
+     "meta": "TV anthology episode · Philippines · Filipino · GMA Network",
+     "summary": "Two sisters are drawn into a cult and pushed into becoming wives of one of its key members. When one wife starts to doubt, her husband swings his necklace, puts her in a trance and tells her she loves only him and will do everything he says.",
+     "character": "Sisters Ella (Ashley Ortega) and her sister (Max Collins); their cult-member husband",
+     "note": "Adds the episode number, cast and a second source to the existing card. Controller: her husband.",
+     "mechanism": "",
+     "confidence_flag": "high",
+     "categories": [
+      "wife",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "WatchWhatWhere — Magpakailanman S1E330",
+       "url": "https://watchwhatwhere.com/title/2668350-magkapatid-biktima-ng-kulto"
+      },
+      {
+       "label": "Wikipedia — Ashley Ortega (filmography: Ella)",
+       "url": "https://en.wikipedia.org/wiki/Ashley_Ortega"
+      },
+      {
+       "label": "Mental Block — Magpakailanman",
+       "url": "https://mentalblock.miraheze.org/wiki/Magpakailanman"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S1E330 “Magkapatid, Biktima ng Kulto” (28 Sep 2019)",
+       "air_date": "2019-09-28",
+       "gist": "Cult husband puts his wife in a trance with a necklace (Mental Block scene log; WatchWhatWhere S1E330 listing; Ashley Ortega filmography).",
+       "number_verified": true
+      }
+     ],
+     "married": "yes",
+     "married_note": "The sisters become wives of a cult member.",
+     "evidence": "3 sources (scene log, episode listing, filmography).",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -314671,6 +315137,49 @@
      "kids_together": "not stated",
      "kids_status": "not stated",
      "kids_note": "not stated"
+    },
+    "wife-hypno-partner-nov25:5": {
+     "title": "Magpakailanman",
+     "match_title": "Magpakailanman",
+     "match_year": "2019",
+     "year": "2019",
+     "format": "tv",
+     "meta": "TV anthology episode · Philippines · Filipino · GMA Network",
+     "subtitle": "“Magkapatid, Biktima ng Kulto” (S1E330, 28 Sep 2019)",
+     "character": "Sisters Ella (Ashley Ortega) and her sister (Max Collins); their cult-member husband",
+     "summary": "Two sisters are drawn into a cult and pushed into becoming wives of one of its key members. When one wife starts to doubt, her husband swings his necklace, puts her in a trance and tells her she loves only him and will do everything he says.",
+     "note": "Adds the episode number, cast and a second source to the existing card. Controller: her husband.",
+     "episodes": [
+      {
+       "episode": "S1E330 “Magkapatid, Biktima ng Kulto” (28 Sep 2019)",
+       "air_date": "2019-09-28",
+       "gist": "Cult husband puts his wife in a trance with a necklace (Mental Block scene log; WatchWhatWhere S1E330 listing; Ashley Ortega filmography).",
+       "number_verified": true
+      }
+     ],
+     "married": "yes",
+     "married_note": "The sisters become wives of a cult member.",
+     "sources": [
+      {
+       "label": "WatchWhatWhere — Magpakailanman S1E330",
+       "url": "https://watchwhatwhere.com/title/2668350-magkapatid-biktima-ng-kulto"
+      },
+      {
+       "label": "Wikipedia — Ashley Ortega (filmography: Ella)",
+       "url": "https://en.wikipedia.org/wiki/Ashley_Ortega"
+      },
+      {
+       "label": "Mental Block — Magpakailanman",
+       "url": "https://mentalblock.miraheze.org/wiki/Magpakailanman"
+      }
+     ],
+     "evidence": "3 sources (scene log, episode listing, filmography).",
+     "confidence_flag": "high",
+     "categories": [
+      "wife",
+      "partner-control"
+     ],
+     "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)"
     },
     "hypnotized-love:25": {
      "title": "Magpakailanman",
@@ -489636,13 +490145,18 @@
     "Western Live Action"
    ],
    "kids_status": "not stated",
+   "kids_note": "None.",
    "kids_together": "not stated",
+   "kids_together_note": "None.",
    "married": "not stated",
+   "married_note": "Girlfriend.",
    "pregnant_end": "not stated",
    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
    "format": "movie",
    "categories": [
-    "fantasy"
+    "fantasy",
+    "partner-control",
+    "love"
    ],
    "sources": [
     {
@@ -489652,20 +490166,119 @@
     {
      "label": "Wikipedia: Ruby Sparks",
      "url": "https://en.wikipedia.org/wiki/Ruby_Sparks"
+    },
+    {
+     "label": "NPR — Ruby Sparks review",
+     "url": "https://www.npr.org/2012/07/24/157126789/in-a-make-your-own-girl-fable-a-real-woman-emerges"
+    },
+    {
+     "label": "RogerEbert.com — Ruby Sparks review",
+     "url": "https://www.rogerebert.com/reviews/ruby-sparks-2012"
+    },
+    {
+     "label": "Antenna — Gender and Authorship in Ruby Sparks",
+     "url": "https://blog.commarts.wisc.edu/2012/08/15/gender-and-authorship-in-ruby-sparks/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "wife-hypno-partner-nov25"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:131"
+    "fanwiki-screen-oct14:131",
+    "wife-hypno-partner-nov25:8"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:131",
+    "source": "fanwiki-screen-oct14",
+    "label": "Ruby Sparks (2012)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Ruby Sparks",
+    "subtitle": "",
+    "year": "2012",
+    "meta": "Film · English",
+    "summary": "Calvin is a popular writer who starts writing a new book on his manual typewriter about Ruby, the girl of his dreams. He can't believe his eyes when Ruby materializes as a real person, and they begin to have a beautiful relationship. In case of relationship problems, all Calvin has to do is type on his typewriter to control Ruby's mind and actions according to his wishes. Scene: When Ruby tries to break up with him, Calvin reveals that she is not real and that he can control the girl with his typewriter. Ruby doesn't believe it, but she starts snapping her fingers frantically the moment Calvin types what she should do. Under the influence of the typewriter, Ruby falls into a trance and begins to undress and sing to Calvin. Furious with Ruby, Calvin uses the machine to make her believe she is a dog. Under the control of the typewriter, Ruby declares her love and devotion for Calvin. Realizing how monstrous he was being, Calvin frees Ruby from the typewriter's spell, al",
+    "character": "",
+    "note": "",
+    "mechanism": "Magical Hypnosis",
+    "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
+    "categories": [
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: Ruby Sparks",
+      "url": "https://mentalblock.miraheze.org/wiki/Ruby_Sparks"
+     },
+     {
+      "label": "Wikipedia: Ruby Sparks",
+      "url": "https://en.wikipedia.org/wiki/Ruby_Sparks"
+     }
+    ],
+    "tags": [
+     "Films Live-Action",
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypno-partner-nov25:8",
+     "source": "wife-hypno-partner-nov25",
+     "label": "Ruby Sparks (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ruby Sparks",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "Film · United States · English · dir. Jonathan Dayton & Valerie Faris",
+     "summary": "Novelist Calvin writes Ruby into existence and, once she is his live-in girlfriend, changes her mind and behaviour by typing on his typewriter: making her clingy, giddy or miserable, and compelling her to obey humiliating commands, until he gives up the control.",
+     "character": "",
+     "note": "Adds the partner-control category and outcome fields. Controller: her boyfriend (supernatural typewriter control).",
+     "mechanism": "",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-control",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "NPR — Ruby Sparks review",
+       "url": "https://www.npr.org/2012/07/24/157126789/in-a-make-your-own-girl-fable-a-real-woman-emerges"
+      },
+      {
+       "label": "RogerEbert.com — Ruby Sparks review",
+       "url": "https://www.rogerebert.com/reviews/ruby-sparks-2012"
+      },
+      {
+       "label": "Antenna — Gender and Authorship in Ruby Sparks",
+       "url": "https://blog.commarts.wisc.edu/2012/08/15/gender-and-authorship-in-ruby-sparks/"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "None.",
+     "kids_together": "no",
+     "kids_together_note": "None.",
+     "married": "no",
+     "married_note": "Girlfriend.",
+     "pregnant_end": "no",
+     "evidence": "3 independent reviews.",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:131": {
      "title": "Ruby Sparks",
@@ -489702,6 +490315,44 @@
       "Films Live-Action",
       "Western Live Action"
      ]
+    },
+    "wife-hypno-partner-nov25:8": {
+     "title": "Ruby Sparks",
+     "match_title": "Ruby Sparks",
+     "match_year": "2012",
+     "year": "2012",
+     "format": "movie",
+     "meta": "Film · United States · English · dir. Jonathan Dayton & Valerie Faris",
+     "summary": "Novelist Calvin writes Ruby into existence and, once she is his live-in girlfriend, changes her mind and behaviour by typing on his typewriter: making her clingy, giddy or miserable, and compelling her to obey humiliating commands, until he gives up the control.",
+     "note": "Adds the partner-control category and outcome fields. Controller: her boyfriend (supernatural typewriter control).",
+     "kids_together": "no",
+     "kids_together_note": "None.",
+     "kids_status": "no",
+     "kids_note": "None.",
+     "pregnant_end": "no",
+     "married": "no",
+     "married_note": "Girlfriend.",
+     "sources": [
+      {
+       "label": "NPR — Ruby Sparks review",
+       "url": "https://www.npr.org/2012/07/24/157126789/in-a-make-your-own-girl-fable-a-real-woman-emerges"
+      },
+      {
+       "label": "RogerEbert.com — Ruby Sparks review",
+       "url": "https://www.rogerebert.com/reviews/ruby-sparks-2012"
+      },
+      {
+       "label": "Antenna — Gender and Authorship in Ruby Sparks",
+       "url": "https://blog.commarts.wisc.edu/2012/08/15/gender-and-authorship-in-ruby-sparks/"
+      }
+     ],
+     "evidence": "3 independent reviews.",
+     "confidence_flag": "high",
+     "categories": [
+      "partner-control",
+      "love"
+     ],
+     "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)"
     }
    }
   },
@@ -615718,6 +616369,462 @@
      "provenance": "Remarried / re-partnered parent announces a pregnancy to their child — worldwide sweep, 25 Nov 2026 PT (adult parents; children are family-scene only; non-explicit notes; user request t82u)"
     }
    }
+  },
+  {
+   "id": 4194,
+   "title": "Naziha",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "TV drama serial · Malaysia · Malay · TV3 Slot Zehra · 13 episodes (15 Jun – 14 Sep 2012) · Orangetree Production · dir. Along Kamaludin",
+   "mechanism": "Black magic (ilmu hitam) by husband",
+   "confidence_flag": "medium",
+   "summary": "Naziha rejects Farouk in public, and he swears to get her by any means. Slander wrecks her planned wedding to her childhood friend Adam days before the ceremony, so to cover the shame she is pushed into marrying Farouk. As his wife she is abused physically and mentally by a husband who practises black magic (ilmu hitam) to subdue her. In the finale Naziha agrees to marry Akmal; Farouk attacks the wedding party on the way to the mosque and stabs Adam, who dies.",
+   "character": "Naziha (Izara Aishah); husband Farouk (Erry Putra); former fiancé Adam (Ryzal Jaafar); later suitor Akmal (Amar Baharin)",
+   "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)",
+   "note": "Controller: her husband Farouk (black magic used to 'menakluk' — conquer/subdue — her). Loose fit: the sources say he uses black magic to subdue and torment her but do not spell out a trance or will-override scene. Age is not stated; she is an adult bride in the cited synopses. Pregnancy not mentioned.",
+   "pregnancy_outcome": "not pregnant (not mentioned)",
+   "episodes": [
+    {
+     "episode": "Episodes 1–13 (15 Jun – 14 Sep 2012)",
+     "air_date": "2012-06-15",
+     "gist": "Forced marriage to Farouk, who uses black magic to subdue her (Malay Wikipedia, Budiey).",
+     "number_verified": true
+    },
+    {
+     "episode": "Final episode (14 Sep 2012)",
+     "air_date": "2012-09-14",
+     "gist": "Naziha agrees to marry Akmal; Farouk stabs Adam on the way to the mosque and Adam dies (Admya episode recap).",
+     "number_verified": false
+    }
+   ],
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_note": "No prior children; she is a first-time bride.",
+   "kids_together": "no",
+   "kids_together_note": "No children with Farouk are mentioned in the cited sources.",
+   "married": "yes",
+   "married_note": "Forced to marry Farouk after the slander; by the finale she agrees to marry Akmal.",
+   "pregnant_end": "no",
+   "evidence": "Premise: Malay Wikipedia + Budiey (2 independent); finale: one blog recap.",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "wife",
+    "partner-control",
+    "tantrik"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (Bahasa Melayu) — Naziha",
+     "url": "https://ms.wikipedia.org/wiki/Naziha"
+    },
+    {
+     "label": "Budiey Channel — Sinopsis Drama Naziha",
+     "url": "https://www.budiey.com/sinopsis-drama-naziha/"
+    },
+    {
+     "label": "Admya blog — Episode akhir Naziha slot Zehra",
+     "url": "https://admya.blogspot.com/2012/08/episode-akhir-naziha-slot-zehra.html"
+    },
+    {
+     "label": "Asam Garam Kehidupan — Sinopsis Drama Naziha (TV3)",
+     "url": "http://yanawanie.blogspot.com/2012/06/sinopsis-drama-naziha-tv3.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "wife-hypno-partner-nov25"
+   ],
+   "source_records": [
+    "wife-hypno-partner-nov25:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "wife-hypno-partner-nov25:1": {
+     "title": "Naziha",
+     "year": "2012",
+     "format": "tv",
+     "meta": "TV drama serial · Malaysia · Malay · TV3 Slot Zehra · 13 episodes (15 Jun – 14 Sep 2012) · Orangetree Production · dir. Along Kamaludin",
+     "character": "Naziha (Izara Aishah); husband Farouk (Erry Putra); former fiancé Adam (Ryzal Jaafar); later suitor Akmal (Amar Baharin)",
+     "summary": "Naziha rejects Farouk in public, and he swears to get her by any means. Slander wrecks her planned wedding to her childhood friend Adam days before the ceremony, so to cover the shame she is pushed into marrying Farouk. As his wife she is abused physically and mentally by a husband who practises black magic (ilmu hitam) to subdue her. In the finale Naziha agrees to marry Akmal; Farouk attacks the wedding party on the way to the mosque and stabs Adam, who dies.",
+     "note": "Controller: her husband Farouk (black magic used to 'menakluk' — conquer/subdue — her). Loose fit: the sources say he uses black magic to subdue and torment her but do not spell out a trance or will-override scene. Age is not stated; she is an adult bride in the cited synopses. Pregnancy not mentioned.",
+     "mechanism": "Black magic (ilmu hitam) by husband",
+     "episodes": [
+      {
+       "episode": "Episodes 1–13 (15 Jun – 14 Sep 2012)",
+       "air_date": "2012-06-15",
+       "gist": "Forced marriage to Farouk, who uses black magic to subdue her (Malay Wikipedia, Budiey).",
+       "number_verified": true
+      },
+      {
+       "episode": "Final episode (14 Sep 2012)",
+       "air_date": "2012-09-14",
+       "gist": "Naziha agrees to marry Akmal; Farouk stabs Adam on the way to the mosque and Adam dies (Admya episode recap).",
+       "number_verified": false
+      }
+     ],
+     "kids_together": "no",
+     "kids_together_note": "No children with Farouk are mentioned in the cited sources.",
+     "kids_status": "no",
+     "kids_note": "No prior children; she is a first-time bride.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant (not mentioned)",
+     "married": "yes",
+     "married_note": "Forced to marry Farouk after the slander; by the finale she agrees to marry Akmal.",
+     "sources": [
+      {
+       "label": "Wikipedia (Bahasa Melayu) — Naziha",
+       "url": "https://ms.wikipedia.org/wiki/Naziha"
+      },
+      {
+       "label": "Budiey Channel — Sinopsis Drama Naziha",
+       "url": "https://www.budiey.com/sinopsis-drama-naziha/"
+      },
+      {
+       "label": "Admya blog — Episode akhir Naziha slot Zehra",
+       "url": "https://admya.blogspot.com/2012/08/episode-akhir-naziha-slot-zehra.html"
+      },
+      {
+       "label": "Asam Garam Kehidupan — Sinopsis Drama Naziha (TV3)",
+       "url": "http://yanawanie.blogspot.com/2012/06/sinopsis-drama-naziha-tv3.html"
+      }
+     ],
+     "evidence": "Premise: Malay Wikipedia + Budiey (2 independent); finale: one blog recap.",
+     "confidence_flag": "medium",
+     "tags": [
+      "loose fit"
+     ],
+     "categories": [
+      "wife",
+      "partner-control",
+      "tantrik"
+     ],
+     "adult": "no",
+     "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)"
+    }
+   }
+  },
+  {
+   "id": 4195,
+   "title": "Jaran Goyang",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Horror film · Indonesia · Indonesian · dir. Findo Purwono HW · Intercept Filmcraft / Spacetoon Indonesia · released 5 Jul 2018 · 79 min",
+   "mechanism": "Pelet / love charm (Jaran Goyang)",
+   "confidence_flag": "medium",
+   "summary": "Gardener Dirga falls for dangdut singer Elena, who turns him down because she already has a boyfriend, Robert. Dirga kills Robert and gets the Jaran Goyang love charm (pelet) from his aunt Bu Srinthil; under the charm Elena becomes infatuated with him and he succeeds in winning her. He then tries to charm her younger sister Tania as well, the sisters fight, and Elena dies at Dirga's hands.",
+   "character": "Elena (Cut Meyriska), dangdut singer; Dirga (Ajun Perwira), gardener; Elena's boyfriend Robert (Cris de Lima); Elena's sister Tania (Laura Theux); Bu Srinthil (Nova Eliza)",
+   "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)",
+   "note": "Loose fit: the controller is not her partner beforehand — he becomes her lover only through the pelet. Featured woman Elena is an adult professional singer; the sister Tania's age is not stated, so the card covers Elena only.",
+   "pregnancy_outcome": "not pregnant",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_note": "No prior children mentioned.",
+   "kids_together": "no",
+   "kids_together_note": "Elena dies; no children.",
+   "married": "no",
+   "married_note": "Lovers under the charm; no marriage in the cited synopses.",
+   "pregnant_end": "no",
+   "evidence": "filmindonesia + Indonesian Wikipedia + 2 press articles.",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "love",
+    "tantrik",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "filmindonesia.or.id — Jaran Goyang",
+     "url": "https://www.filmindonesia.or.id/film/lf-j011-18-534251"
+    },
+    {
+     "label": "Wikipedia (Indonesian) — Jaran Goyang (film)",
+     "url": "https://id.wikipedia.org/wiki/Jaran_Goyang_(film)"
+    },
+    {
+     "label": "Dwipa News — Film Jaran Goyang, Kontrol Cinta dan Kendali Diri",
+     "url": "https://www.dwipanews.com/2018/06/film-jaran-goyang-kontrol-cinta-dan-kendali-diri"
+    },
+    {
+     "label": "JPNN — Film Jaran Goyang ungkap rahasia pelet",
+     "url": "https://www.jpnn.com/news/film-jaran-goyang-ungkap-rahasia-pelet-dari-tanah-jawa"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "wife-hypno-partner-nov25"
+   ],
+   "source_records": [
+    "wife-hypno-partner-nov25:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "wife-hypno-partner-nov25:2": {
+     "title": "Jaran Goyang",
+     "year": "2018",
+     "format": "movie",
+     "meta": "Horror film · Indonesia · Indonesian · dir. Findo Purwono HW · Intercept Filmcraft / Spacetoon Indonesia · released 5 Jul 2018 · 79 min",
+     "character": "Elena (Cut Meyriska), dangdut singer; Dirga (Ajun Perwira), gardener; Elena's boyfriend Robert (Cris de Lima); Elena's sister Tania (Laura Theux); Bu Srinthil (Nova Eliza)",
+     "summary": "Gardener Dirga falls for dangdut singer Elena, who turns him down because she already has a boyfriend, Robert. Dirga kills Robert and gets the Jaran Goyang love charm (pelet) from his aunt Bu Srinthil; under the charm Elena becomes infatuated with him and he succeeds in winning her. He then tries to charm her younger sister Tania as well, the sisters fight, and Elena dies at Dirga's hands.",
+     "note": "Loose fit: the controller is not her partner beforehand — he becomes her lover only through the pelet. Featured woman Elena is an adult professional singer; the sister Tania's age is not stated, so the card covers Elena only.",
+     "mechanism": "Pelet / love charm (Jaran Goyang)",
+     "kids_together": "no",
+     "kids_together_note": "Elena dies; no children.",
+     "kids_status": "no",
+     "kids_note": "No prior children mentioned.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "married": "no",
+     "married_note": "Lovers under the charm; no marriage in the cited synopses.",
+     "sources": [
+      {
+       "label": "filmindonesia.or.id — Jaran Goyang",
+       "url": "https://www.filmindonesia.or.id/film/lf-j011-18-534251"
+      },
+      {
+       "label": "Wikipedia (Indonesian) — Jaran Goyang (film)",
+       "url": "https://id.wikipedia.org/wiki/Jaran_Goyang_(film)"
+      },
+      {
+       "label": "Dwipa News — Film Jaran Goyang, Kontrol Cinta dan Kendali Diri",
+       "url": "https://www.dwipanews.com/2018/06/film-jaran-goyang-kontrol-cinta-dan-kendali-diri"
+      },
+      {
+       "label": "JPNN — Film Jaran Goyang ungkap rahasia pelet",
+       "url": "https://www.jpnn.com/news/film-jaran-goyang-ungkap-rahasia-pelet-dari-tanah-jawa"
+      }
+     ],
+     "evidence": "filmindonesia + Indonesian Wikipedia + 2 press articles.",
+     "confidence_flag": "medium",
+     "tags": [
+      "loose fit"
+     ],
+     "categories": [
+      "love",
+      "tantrik",
+      "partner-control"
+     ],
+     "adult": "no",
+     "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)"
+    }
+   }
+  },
+  {
+   "id": 4196,
+   "title": "You Are My Sunshine",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "Short film · United Kingdom · English · 33 min · written & directed by Richard Anthony Dunford · distributed by Filmhub",
+   "mechanism": "Hypnosis by boyfriend",
+   "confidence_flag": "medium",
+   "summary": "A rookie divorce lawyer hypnotizes his girlfriend to stop her from breaking up with him.",
+   "character": "Jared (Lewis Cartwright), a rookie divorce lawyer, and his girlfriend (Ellie Mitra); Claire Huskisson",
+   "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)",
+   "note": "Controller: her boyfriend. Only the one-line official logline is available; the outcome of the relationship is not stated in the cited sources.",
+   "pregnancy_outcome": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "kids_together_note": "Not stated.",
+   "married": "no",
+   "married_note": "Girlfriend, not wife.",
+   "pregnant_end": "unknown",
+   "evidence": "Apple TV logline + IMDb credits (character Jared) + WatchWhatWhere listing.",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "partner-control",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "Apple TV — You Are My Sunshine (2015)",
+     "url": "https://tv.apple.com/us/movie/you-are-my-sunshine/umc.cmc.1nbe98stfu4n1lpllid6c8a8t"
+    },
+    {
+     "label": "IMDb — You Are My Sunshine (2015) full credits",
+     "url": "https://www.imdb.com/title/tt4298564/fullcredits/"
+    },
+    {
+     "label": "WatchWhatWhere — You Are My Sunshine",
+     "url": "https://watchwhatwhere.com/title/8996758-you-are-my-sunshine"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "wife-hypno-partner-nov25"
+   ],
+   "source_records": [
+    "wife-hypno-partner-nov25:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "wife-hypno-partner-nov25:3": {
+     "title": "You Are My Sunshine",
+     "year": "2015",
+     "format": "short",
+     "meta": "Short film · United Kingdom · English · 33 min · written & directed by Richard Anthony Dunford · distributed by Filmhub",
+     "character": "Jared (Lewis Cartwright), a rookie divorce lawyer, and his girlfriend (Ellie Mitra); Claire Huskisson",
+     "summary": "A rookie divorce lawyer hypnotizes his girlfriend to stop her from breaking up with him.",
+     "note": "Controller: her boyfriend. Only the one-line official logline is available; the outcome of the relationship is not stated in the cited sources.",
+     "mechanism": "Hypnosis by boyfriend",
+     "kids_together": "unknown",
+     "kids_together_note": "Not stated.",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "pregnant_end": "unknown",
+     "pregnancy_outcome": "unknown",
+     "married": "no",
+     "married_note": "Girlfriend, not wife.",
+     "sources": [
+      {
+       "label": "Apple TV — You Are My Sunshine (2015)",
+       "url": "https://tv.apple.com/us/movie/you-are-my-sunshine/umc.cmc.1nbe98stfu4n1lpllid6c8a8t"
+      },
+      {
+       "label": "IMDb — You Are My Sunshine (2015) full credits",
+       "url": "https://www.imdb.com/title/tt4298564/fullcredits/"
+      },
+      {
+       "label": "WatchWhatWhere — You Are My Sunshine",
+       "url": "https://watchwhatwhere.com/title/8996758-you-are-my-sunshine"
+      }
+     ],
+     "evidence": "Apple TV logline + IMDb credits (character Jared) + WatchWhatWhere listing.",
+     "confidence_flag": "medium",
+     "categories": [
+      "partner-control",
+      "love"
+     ],
+     "adult": "no",
+     "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)"
+    }
+   }
+  },
+  {
+   "id": 4197,
+   "title": "The Memory He Stole",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Narrated web-novel story · English · YouTube channel Ms. Neko-chan · published 25 Mar 2026 · 41 min",
+   "mechanism": "Hypnosis by husband (memory wipe)",
+   "confidence_flag": "low",
+   "summary": "After a fight that ends in a miscarriage, Eleanor's psychiatrist husband Arthur uses an experimental hypnosis technique to wipe her memory and leaves her at the hospital, then spends three months in the mountains with his patient Emily Rose and their son Tommy. When he restores her memory, her feelings for him and her old life do not come back; she divorces Arthur, Emily is later exposed as faking her illness, and a year later Eleanor marries McKenzie.",
+   "character": "Eleanor (narrator); husband Arthur Sterling, a psychiatrist; their son Tommy Sterling; patient Emily Rose; later partner McKenzie",
+   "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)",
+   "note": "Controller: her husband (hypnotic memory erasure). Loose fit: only the YouTube narration was fetched; Medium and Reddit postings of the same story appear in search listings but could not be opened. May be AI-narrated (not confirmed).",
+   "pregnancy_outcome": "Miscarriage (before the hypnosis)",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_note": "No children from before the marriage.",
+   "kids_together": "yes",
+   "kids_together_note": "Son Tommy with Arthur; a later pregnancy ended in miscarriage before the hypnosis.",
+   "married": "yes",
+   "married_note": "Married to Arthur; divorces him and later marries McKenzie.",
+   "pregnant_end": "no",
+   "evidence": "One fetched source (YouTube narration); two search-indexed postings not opened.",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "wife",
+    "partner-control",
+    "wife-hypnotized",
+    "therapist-wife"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — [Full Story] The Memory He Stole (Ms. Neko-chan)",
+     "url": "https://www.youtube.com/watch?v=J5Qa2O5xP1E"
+    },
+    {
+     "label": "Medium — The Memory He Stole (novel) [search listing; page not openable]",
+     "url": "https://medium.com/@h16610031/the-memory-he-stole-novel-94d41f75b0c3"
+    },
+    {
+     "label": "Reddit r/YourGoodNovelFix — The Memory He Stole [search listing]",
+     "url": "https://www.reddit.com/r/YourGoodNovelFix/comments/1ryri8g/the_memory_he_stole/"
+    }
+   ],
+   "youtube_ids": [
+    "J5Qa2O5xP1E"
+   ],
+   "from_sources": [
+    "wife-hypno-partner-nov25"
+   ],
+   "source_records": [
+    "wife-hypno-partner-nov25:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/J5Qa2O5xP1E.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "wife-hypno-partner-nov25:4": {
+     "title": "The Memory He Stole",
+     "year": "2026",
+     "format": "short",
+     "meta": "Narrated web-novel story · English · YouTube channel Ms. Neko-chan · published 25 Mar 2026 · 41 min",
+     "character": "Eleanor (narrator); husband Arthur Sterling, a psychiatrist; their son Tommy Sterling; patient Emily Rose; later partner McKenzie",
+     "summary": "After a fight that ends in a miscarriage, Eleanor's psychiatrist husband Arthur uses an experimental hypnosis technique to wipe her memory and leaves her at the hospital, then spends three months in the mountains with his patient Emily Rose and their son Tommy. When he restores her memory, her feelings for him and her old life do not come back; she divorces Arthur, Emily is later exposed as faking her illness, and a year later Eleanor marries McKenzie.",
+     "note": "Controller: her husband (hypnotic memory erasure). Loose fit: only the YouTube narration was fetched; Medium and Reddit postings of the same story appear in search listings but could not be opened. May be AI-narrated (not confirmed).",
+     "mechanism": "Hypnosis by husband (memory wipe)",
+     "kids_together": "yes",
+     "kids_together_note": "Son Tommy with Arthur; a later pregnancy ended in miscarriage before the hypnosis.",
+     "kids_status": "no",
+     "kids_note": "No children from before the marriage.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "Miscarriage (before the hypnosis)",
+     "married": "yes",
+     "married_note": "Married to Arthur; divorces him and later marries McKenzie.",
+     "sources": [
+      {
+       "label": "YouTube — [Full Story] The Memory He Stole (Ms. Neko-chan)",
+       "url": "https://www.youtube.com/watch?v=J5Qa2O5xP1E"
+      },
+      {
+       "label": "Medium — The Memory He Stole (novel) [search listing; page not openable]",
+       "url": "https://medium.com/@h16610031/the-memory-he-stole-novel-94d41f75b0c3"
+      },
+      {
+       "label": "Reddit r/YourGoodNovelFix — The Memory He Stole [search listing]",
+       "url": "https://www.reddit.com/r/YourGoodNovelFix/comments/1ryri8g/the_memory_he_stole/"
+      }
+     ],
+     "evidence": "One fetched source (YouTube narration); two search-indexed postings not opened.",
+     "confidence_flag": "low",
+     "tags": [
+      "loose fit"
+     ],
+     "categories": [
+      "wife",
+      "partner-control",
+      "wife-hypnotized",
+      "therapist-wife"
+     ],
+     "adult": "no",
+     "provenance": "Female hypnotized / mind-controlled by her own partner — Philippines & Indonesia focus plus worldwide sweep, 25 Nov 2026 PT (adult women only; literal hypnosis, trance, love-charm/black-magic or tech control; mere manipulation, gaslighting and possession excluded; non-explicit notes; user request t84u)"
+    }
+   }
   }
  ],
  "sections": [
@@ -630209,7 +631316,8 @@
     "deep-refresh-nov19-b",
     "partner-hypnosis-nov19c",
     "deep-refresh-nov19-pregnant-partner",
-    "deep-refresh-nov19-c"
+    "deep-refresh-nov19-c",
+    "wife-hypno-partner-nov25"
    ],
    "groups": [
     {
@@ -630506,6 +631614,12 @@
         "Cult / coercive brainwashing",
         "Trance",
         "Strong · fan-wiki source"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Magpakailanman"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown.",
@@ -630838,6 +631952,16 @@
         "Husband / boyfriend hires a third party to hypnotize / mind-control his wife / girlfriend",
         "Love potion commissioned through a witch doctor",
         "Low confidence · near-miss"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Maalaala_Mo_Kaya_season_20"
+        },
+        {
+         "label": "YouTube",
+         "url": "https://www.youtube.com/watch?v=JPLbtenypnw"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -631288,6 +632412,33 @@
       }
      ],
      "from_source": "deep-refresh-nov19-pregnant-partner"
+    },
+    {
+     "title": "Woman hypnotized or mind-controlled by her husband, boyfriend, fiancé or lover",
+     "notes": [],
+     "items": [
+      {
+       "id": 4195,
+       "from_source": "wife-hypno-partner-nov25"
+      },
+      {
+       "id": 4197,
+       "from_source": "wife-hypno-partner-nov25"
+      },
+      {
+       "id": 4194,
+       "from_source": "wife-hypno-partner-nov25"
+      },
+      {
+       "id": 2893,
+       "from_source": "wife-hypno-partner-nov25"
+      },
+      {
+       "id": 4196,
+       "from_source": "wife-hypno-partner-nov25"
+      }
+     ],
+     "from_source": "wife-hypno-partner-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -631316,7 +632467,8 @@
     "deep-refresh-nov19-b": null,
     "partner-hypnosis-nov19c": null,
     "deep-refresh-nov19-pregnant-partner": null,
-    "deep-refresh-nov19-c": null
+    "deep-refresh-nov19-c": null,
+    "wife-hypno-partner-nov25": null
    }
   },
   {
@@ -631337,7 +632489,8 @@
     "hypnosis-deep-oct25c",
     "partner-hypnosis-nov11",
     "partner-hypnosis-nov19b",
-    "widow-hypnotized-marriage-nov19"
+    "widow-hypnotized-marriage-nov19",
+    "wife-hypno-partner-nov25"
    ],
    "groups": [
     {
@@ -631692,6 +632845,17 @@
       }
      ],
      "from_source": "widow-hypnotized-marriage-nov19"
+    },
+    {
+     "title": "Woman hypnotized or mind-controlled by her husband, boyfriend, fiancé or lover",
+     "notes": [],
+     "items": [
+      {
+       "id": 223,
+       "from_source": "wife-hypno-partner-nov25"
+      }
+     ],
+     "from_source": "wife-hypno-partner-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -631700,7 +632864,8 @@
     "hypnosis-deep-oct25c": null,
     "partner-hypnosis-nov11": null,
     "partner-hypnosis-nov19b": null,
-    "widow-hypnotized-marriage-nov19": null
+    "widow-hypnotized-marriage-nov19": null,
+    "wife-hypno-partner-nov25": null
    }
   },
   {
@@ -637172,7 +638337,8 @@
     "partner-hypnosis-nov11",
     "therapist-hypnosis-nov12",
     "deep-refresh-nov19-pregnant-partner",
-    "weekly-nov23"
+    "weekly-nov23",
+    "wife-hypno-partner-nov25"
    ],
    "groups": [
     {
@@ -637491,7 +638657,8 @@
     "partner-hypnosis-nov11": null,
     "therapist-hypnosis-nov12": null,
     "deep-refresh-nov19-pregnant-partner": null,
-    "weekly-nov23": null
+    "weekly-nov23": null,
+    "wife-hypno-partner-nov25": null
    }
   },
   {
@@ -637538,7 +638705,8 @@
     "partner-hypnosis-nov19c",
     "deep-refresh-nov19-pregnant-partner",
     "deep-refresh-nov19-c",
-    "weekly-nov23"
+    "weekly-nov23",
+    "wife-hypno-partner-nov25"
    ],
    "groups": [
     {
@@ -638649,6 +639817,12 @@
         "Trance",
         "Strong · fan-wiki source"
        ],
+       "sources": [
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Magpakailanman"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown.",
        "from_source": "xla62ucxbx02u5"
@@ -639195,6 +640369,21 @@
       }
      ],
      "from_source": "weekly-nov23"
+    },
+    {
+     "title": "Woman hypnotized or mind-controlled by her husband, boyfriend, fiancé or lover",
+     "notes": [],
+     "items": [
+      {
+       "id": 4197,
+       "from_source": "wife-hypno-partner-nov25"
+      },
+      {
+       "id": 4194,
+       "from_source": "wife-hypno-partner-nov25"
+      }
+     ],
+     "from_source": "wife-hypno-partner-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -639235,7 +640424,8 @@
     "partner-hypnosis-nov19c": null,
     "deep-refresh-nov19-pregnant-partner": null,
     "deep-refresh-nov19-c": null,
-    "weekly-nov23": null
+    "weekly-nov23": null,
+    "wife-hypno-partner-nov25": null
    }
   },
   {
@@ -639330,7 +640520,8 @@
     "vertical-hypnosis-nov6",
     "hypnosis-nov11",
     "partner-hypnosis-nov19b",
-    "widow-hypnotized-marriage-nov19"
+    "widow-hypnotized-marriage-nov19",
+    "wife-hypno-partner-nov25"
    ],
    "declared_count_by_source": {
     "hypnotized-marriage": null,
@@ -639343,7 +640534,8 @@
     "vertical-hypnosis-nov6": null,
     "hypnosis-nov11": null,
     "partner-hypnosis-nov19b": null,
-    "widow-hypnotized-marriage-nov19": null
+    "widow-hypnotized-marriage-nov19": null,
+    "wife-hypno-partner-nov25": null
    },
    "groups": [
     {
@@ -642070,7 +643262,8 @@
     "therapist-hypnosis-nov12",
     "husband-hypnosis-nov12",
     "weekly-nov16",
-    "hypnotic-healing-similar-nov25"
+    "hypnotic-healing-similar-nov25",
+    "wife-hypno-partner-nov25"
    ],
    "groups": [
     {
@@ -644623,6 +645816,25 @@
       }
      ],
      "from_source": "hypnotic-healing-similar-nov25"
+    },
+    {
+     "title": "Woman hypnotized or mind-controlled by her husband, boyfriend, fiancé or lover",
+     "notes": [],
+     "items": [
+      {
+       "id": 4195,
+       "from_source": "wife-hypno-partner-nov25"
+      },
+      {
+       "id": 2893,
+       "from_source": "wife-hypno-partner-nov25"
+      },
+      {
+       "id": 4196,
+       "from_source": "wife-hypno-partner-nov25"
+      }
+     ],
+     "from_source": "wife-hypno-partner-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -644662,7 +645874,8 @@
     "therapist-hypnosis-nov12": null,
     "husband-hypnosis-nov12": null,
     "weekly-nov16": null,
-    "hypnotic-healing-similar-nov25": null
+    "hypnotic-healing-similar-nov25": null,
+    "wife-hypno-partner-nov25": null
    }
   },
   {
@@ -673151,7 +674364,8 @@
     "deep-refresh-oct18",
     "deep-refresh-oct30",
     "vashikaran-nov11",
-    "deep-refresh-nov11"
+    "deep-refresh-nov11",
+    "wife-hypno-partner-nov25"
    ],
    "groups": [
     {
@@ -673815,6 +675029,21 @@
       }
      ],
      "from_source": "vashikaran-nov11"
+    },
+    {
+     "title": "Woman hypnotized or mind-controlled by her husband, boyfriend, fiancé or lover",
+     "notes": [],
+     "items": [
+      {
+       "id": 4195,
+       "from_source": "wife-hypno-partner-nov25"
+      },
+      {
+       "id": 4194,
+       "from_source": "wife-hypno-partner-nov25"
+      }
+     ],
+     "from_source": "wife-hypno-partner-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -673834,7 +675063,8 @@
     "deep-refresh-oct18": null,
     "deep-refresh-oct30": null,
     "vashikaran-nov11": null,
-    "deep-refresh-nov11": null
+    "deep-refresh-nov11": null,
+    "wife-hypno-partner-nov25": null
    }
   },
   {
@@ -680547,7 +681777,8 @@
     "deep-refresh-nov19-b",
     "partner-hypnosis-nov19c",
     "deep-refresh-nov19-pregnant-partner",
-    "hypnotic-healing-similar-nov25"
+    "hypnotic-healing-similar-nov25",
+    "wife-hypno-partner-nov25"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -680586,7 +681817,8 @@
     "deep-refresh-nov19-b": null,
     "partner-hypnosis-nov19c": null,
     "deep-refresh-nov19-pregnant-partner": null,
-    "hypnotic-healing-similar-nov25": null
+    "hypnotic-healing-similar-nov25": null,
+    "wife-hypno-partner-nov25": null
    },
    "groups": [
     {
@@ -681725,6 +682957,17 @@
       }
      ],
      "from_source": "hypnotic-healing-similar-nov25"
+    },
+    {
+     "title": "Woman hypnotized or mind-controlled by her husband, boyfriend, fiancé or lover",
+     "notes": [],
+     "items": [
+      {
+       "id": 4197,
+       "from_source": "wife-hypno-partner-nov25"
+      }
+     ],
+     "from_source": "wife-hypno-partner-nov25"
     }
    ]
   },
@@ -681756,7 +682999,8 @@
     "saimin-sweep-nov11",
     "partner-hypnosis-nov11",
     "therapist-hypnosis-nov12",
-    "deep-refresh-nov19-b"
+    "deep-refresh-nov19-b",
+    "wife-hypno-partner-nov25"
    ],
    "groups": [
     {
@@ -682049,6 +683293,17 @@
       }
      ],
      "from_source": "deep-refresh-nov19-b"
+    },
+    {
+     "title": "Woman hypnotized or mind-controlled by her husband, boyfriend, fiancé or lover",
+     "notes": [],
+     "items": [
+      {
+       "id": 4197,
+       "from_source": "wife-hypno-partner-nov25"
+      }
+     ],
+     "from_source": "wife-hypno-partner-nov25"
     }
    ],
    "declared_count_by_source": {
@@ -682067,7 +683322,8 @@
     "saimin-sweep-nov11": null,
     "partner-hypnosis-nov11": null,
     "therapist-hypnosis-nov12": null,
-    "deep-refresh-nov19-b": null
+    "deep-refresh-nov19-b": null,
+    "wife-hypno-partner-nov25": null
    }
   },
   {

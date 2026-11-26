@@ -6714,6 +6714,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypno-partner-nov25:6",
+     "title": "Wish Ko Lang: \"Gayuma\"",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19975,6 +19982,13 @@
      "subtitle": "",
      "year": "2012 Philippines",
      "matched_by": "alias"
+    },
+    {
+     "rid": "wife-hypno-partner-nov25:7",
+     "title": "Maalaala Mo Kaya",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -36277,6 +36291,13 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypno-partner-nov25:5",
+     "title": "Magpakailanman",
+     "subtitle": "“Magkapatid, Biktima ng Kulto” (S1E330, 28 Sep 2019)",
+     "year": "2019",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -51052,6 +51073,26 @@
    ]
   },
   {
+   "kept_id": 2893,
+   "kept": "Ruby Sparks (2012)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:131",
+     "title": "Ruby Sparks",
+     "subtitle": "",
+     "year": "2012"
+    },
+    {
+     "rid": "wife-hypno-partner-nov25:8",
+     "title": "Ruby Sparks",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2895,
    "kept": "Sands of Oblivion (2007)",
    "scope": "cross-source",
@@ -55172,11 +55213,12 @@
   "deep-refresh-nov25": 9,
   "female-hypnosis-nov25": 4,
   "hypnotic-healing-similar-nov25": 5,
-  "remarried-announce-nov25": 16
+  "remarried-announce-nov25": 16,
+  "wife-hypno-partner-nov25": 8
  },
- "entry_count_after_dedupe": 3998,
+ "entry_count_after_dedupe": 4002,
  "within_source_groups": 6,
- "cross_source_groups": 2110,
+ "cross_source_groups": 2111,
  "index_only_records": 55,
- "local_only_records": 1726
+ "local_only_records": 1730
 }
