@@ -14702,6 +14702,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "worldwide-hypnosis-discovery-nov25",
+   "label": "Worldwide hypnosis discovery Nov 2026 (t66u–t68u) — Mahkum 2025, Komisarz Alex 2013, Hipnoza 1966 & 1987",
+   "kind": "local",
+   "share_url": "sources/worldwide-hypnosis-discovery-nov25.json",
+   "description": "Four new verified audiovisual titles from a long worldwide discovery search for any adult female character who is hypnotized (hypnotist can be anyone; tech/drug/spell control as a loose fit). Literal hypnosis in all four. Existing categories only. Family: unknown is never recorded as no; Mahkum has a documented son from before. The 1966 and 1987 Teatr Telewizji productions of Hipnoza are distinct by title+year. No enrichments of existing cards.",
+   "dropped": [],
+   "check": {
+    "raw_count": 4,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -14827,10 +14840,11 @@ window.CATALOG = {
   "hypnotic-healing-similar-nov25": 5,
   "remarried-announce-nov25": 16,
   "wife-hypno-partner-nov25": 8,
-  "partner-hypnosis-discovery-t64u": 1
+  "partner-hypnosis-discovery-t64u": 1,
+  "worldwide-hypnosis-discovery-nov25": 4
  },
- "raw_total": 7842,
- "entry_count": 4003,
+ "raw_total": 7846,
+ "entry_count": 4007,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -14848,7 +14862,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 426
+   "entry_count": 427
   },
   {
    "key": "belly",
@@ -14896,7 +14910,7 @@ window.CATALOG = {
    "key": "doctor-gain",
    "label": "Doctor hypnotizes female characters for personal gain",
    "legend_label": "Doctor controls female character for personal gain",
-   "entry_count": 60
+   "entry_count": 61
   },
   {
    "key": "tech",
@@ -14998,7 +15012,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 208
+   "entry_count": 209
   },
   {
    "key": "royal-hypnosis",
@@ -15010,7 +15024,7 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 246
+   "entry_count": 248
   },
   {
    "key": "hypno-intimacy",
@@ -15040,7 +15054,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 300
+   "entry_count": 304
   },
   {
    "key": "mom-partner-control",
@@ -616964,6 +616978,510 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 4199,
+   "title": "Mahkum / محکوم",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Streaming drama series · Filimo · dir. Siamak Mardaneh · writer Mehran Mahdavian · producer Mohammad Reza Mansouri · 1 season, 22 episodes · released 12 Shahrivar 1404 – 8 Bahman 1404 (3 Sep 2025 – 28 Jan 2026) · Iran · Persian",
+   "mechanism": "Literal hypnosis: in episode 1 Khosrow insists on hypnotizing Nasrin by the sea to make her feel better; she eventually agrees and closes her eyes; he says he will enter her unconscious and take her five years into the future.",
+   "confidence_flag": "High: Persian Wikipedia (credits, 22 episodes, premiere/end dates, Nasrin as widow with a son) plus Ensaf News (episode 1 sea-side hypnosis, 23 Shahrivar 1404).",
+   "summary": "Nasrin Armand, a prosecutor and widow, is trying to rebuild life for herself and her son Mahyar. In episode 1 her son's therapist, Khosrow Shahabi, takes her to the Caspian shore and insists on hypnotizing her. After she agrees and closes her eyes, he says he will enter her unconscious and take her five years ahead. Public plot pages establish that she already has a son; they do not confirm pregnancy or a child with Khosrow by the end of the 22-episode season.",
+   "character": "Nasrin Armand (Sareh Bayat), an adult widow and prosecutor (dadyar), mother of Mahyar",
+   "provenance": "worldwide-hypnosis-discovery-nov25, 25 Nov 2026 PT — worldwide discovery pass (hypnotist can be anyone); public metadata only; videos not watched",
+   "note": "Kids from before: YES — son Mahyar (Younes Haran-Af), established on the Persian Wikipedia series page. Pregnancy during or at the end: UNKNOWN (absence of mention is not no). Children with Khosrow, or a NEW birth by the ending: UNKNOWN, never no. Season 1 premiered 3 Sep 2025 and ended 28 Jan 2026 (America/Los_Angeles).",
+   "episodes": [
+    {
+     "episode": "Episode 1",
+     "air_date": "2025-09-03",
+     "gist": "At the sea, therapist Khosrow Shahabi insists on hypnotizing widow Nasrin Armand to make her feel better; she agrees and closes her eyes; he says he will enter her unconscious and take her five years into the future (Ensaf News).",
+     "number_verified": true
+    }
+   ],
+   "tags": [
+    "Original title: محکوم",
+    "Alias: Mahkum",
+    "Alias: محکوم",
+    "Alias: Mahkoom",
+    "Alias: The Condemned (Filimo, 2025)"
+   ],
+   "hypnotist": "Khosrow Shahabi (Kourosh Tahami), a therapist and the psychologist of her son, who later becomes romantically involved with her",
+   "kids_status": "yes",
+   "kids_note": "YES: Nasrin already has a son, Mahyar, from before the story (with her late husband). That is plot-based, not inferred from the word widow alone.",
+   "kids_together": "unknown",
+   "kids_together_note": "Children with the hypnotist, and any NEW birth by the ending, are UNKNOWN. Silence is not no. She already has Mahyar from the earlier marriage.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: cited sources do not confirm pregnancy at the end of season 1; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS of an adult woman by her son's therapist (hypnotist can be anyone). Distinct from already-cataloged Iranian titles such as Khane sabz (1994). Identity is exact title + year (2025). Existing categories only: medical, doctor-gain.",
+   "rating": "Not stated",
+   "adult": "yes",
+   "existing_kids": "yes",
+   "content_label": "Social/crime drama (non-explicit)",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "doctor-gain"
+   ],
+   "sources": [
+    {
+     "label": "Persian Wikipedia — محکوم (مجموعه نمایش خانگی): Filimo series, dir. Siamak Mardaneh, 1 season / 22 episodes, released 12 Shahrivar–8 Bahman 1404; Sareh Bayat as Nasrin Armand, a prosecutor who after losing her husband tries to rebuild life for herself and her son; Younes Haran-Af as Mahyar; Kourosh Tahami as Khosrow Shahabi",
+     "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%DA%A9%D9%88%D9%85_(%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87_%D9%86%D9%85%D8%A7%DB%8C%D8%B4_%D8%AE%D8%A7%D9%86%DA%AF%DB%8C)"
+    },
+    {
+     "label": "Ensaf News, 23 Shahrivar 1404 — episode 1: therapist Khosrow insists on hypnotizing Nasrin by the sea; she finally agrees and closes her eyes; he says he will enter her unconscious and take her five years into the future",
+     "url": "https://ensafnews.com/609523/%d8%aa%d8%b1%d8%a7%d9%be%db%8c%d8%b3%d8%aa%d9%90-%d8%af%db%8c%d9%88%d8%a7%d9%86%d9%87-%d8%af%d8%b1-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d9%85%d8%ad%da%a9%d9%88%d9%85-%da%a9%d8%af%d8%a7%d9%85/"
+    },
+    {
+     "label": "Filimo title page — سریال محکوم, official streaming listing for the series (id 161602)",
+     "url": "https://www.filimo.com/m/161602/%D9%85%D8%AD%DA%A9%D9%88%D9%85"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "worldwide-hypnosis-discovery-nov25"
+   ],
+   "source_records": [
+    "worldwide-hypnosis-discovery-nov25:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "worldwide-hypnosis-discovery-nov25:1": {
+     "title": "Mahkum / محکوم",
+     "original_language_title": "محکوم",
+     "aliases": [
+      "Mahkum",
+      "محکوم",
+      "Mahkoom",
+      "The Condemned (Filimo, 2025)"
+     ],
+     "year": "2025",
+     "format": "tv",
+     "country": "Iran",
+     "language": "Persian",
+     "orientation": "Streaming drama series · Filimo · dir. Siamak Mardaneh · writer Mehran Mahdavian · producer Mohammad Reza Mansouri · 1 season, 22 episodes · released 12 Shahrivar 1404 – 8 Bahman 1404 (3 Sep 2025 – 28 Jan 2026)",
+     "character": "Nasrin Armand (Sareh Bayat), an adult widow and prosecutor (dadyar), mother of Mahyar",
+     "hypnotist": "Khosrow Shahabi (Kourosh Tahami), a therapist and the psychologist of her son, who later becomes romantically involved with her",
+     "adult": "yes",
+     "content_label": "Social/crime drama (non-explicit)",
+     "rating": "Not stated",
+     "mechanism": "Literal hypnosis: in episode 1 Khosrow insists on hypnotizing Nasrin by the sea to make her feel better; she eventually agrees and closes her eyes; he says he will enter her unconscious and take her five years into the future.",
+     "summary": "Nasrin Armand, a prosecutor and widow, is trying to rebuild life for herself and her son Mahyar. In episode 1 her son's therapist, Khosrow Shahabi, takes her to the Caspian shore and insists on hypnotizing her. After she agrees and closes her eyes, he says he will enter her unconscious and take her five years ahead. Public plot pages establish that she already has a son; they do not confirm pregnancy or a child with Khosrow by the end of the 22-episode season.",
+     "fit_note": "LITERAL HYPNOSIS of an adult woman by her son's therapist (hypnotist can be anyone). Distinct from already-cataloged Iranian titles such as Khane sabz (1994). Identity is exact title + year (2025). Existing categories only: medical, doctor-gain.",
+     "relationship": "Nasrin is a widow at the start and the mother of Khosrow's patient Mahyar. Ensaf News treats a later marriage between the therapist and the patient's mother as part of the premise; that later marriage was not independently confirmed on the bibliographic pages cited for family outcomes, so it is not recorded as a fact here.",
+     "note": "Kids from before: YES — son Mahyar (Younes Haran-Af), established on the Persian Wikipedia series page. Pregnancy during or at the end: UNKNOWN (absence of mention is not no). Children with Khosrow, or a NEW birth by the ending: UNKNOWN, never no. Season 1 premiered 3 Sep 2025 and ended 28 Jan 2026 (America/Los_Angeles).",
+     "confidence_flag": "High: Persian Wikipedia (credits, 22 episodes, premiere/end dates, Nasrin as widow with a son) plus Ensaf News (episode 1 sea-side hypnosis, 23 Shahrivar 1404).",
+     "kids_status": "yes",
+     "existing_kids": "yes",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "kids_note": "YES: Nasrin already has a son, Mahyar, from before the story (with her late husband). That is plot-based, not inferred from the word widow alone.",
+     "pregnant_end_note": "UNKNOWN: cited sources do not confirm pregnancy at the end of season 1; absence of mention is not a no.",
+     "kids_together_note": "Children with the hypnotist, and any NEW birth by the ending, are UNKNOWN. Silence is not no. She already has Mahyar from the earlier marriage.",
+     "categories": [
+      "medical",
+      "doctor-gain"
+     ],
+     "sources": [
+      {
+       "label": "Persian Wikipedia — محکوم (مجموعه نمایش خانگی): Filimo series, dir. Siamak Mardaneh, 1 season / 22 episodes, released 12 Shahrivar–8 Bahman 1404; Sareh Bayat as Nasrin Armand, a prosecutor who after losing her husband tries to rebuild life for herself and her son; Younes Haran-Af as Mahyar; Kourosh Tahami as Khosrow Shahabi",
+       "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%DA%A9%D9%88%D9%85_(%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87_%D9%86%D9%85%D8%A7%DB%8C%D8%B4_%D8%AE%D8%A7%D9%86%DA%AF%DB%8C)"
+      },
+      {
+       "label": "Ensaf News, 23 Shahrivar 1404 — episode 1: therapist Khosrow insists on hypnotizing Nasrin by the sea; she finally agrees and closes her eyes; he says he will enter her unconscious and take her five years into the future",
+       "url": "https://ensafnews.com/609523/%d8%aa%d8%b1%d8%a7%d9%be%db%8c%d8%b3%d8%aa%d9%90-%d8%af%db%8c%d9%88%d8%a7%d9%86%d9%87-%d8%af%d8%b1-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d9%85%d8%ad%da%a9%d9%88%d9%85-%da%a9%d8%af%d8%a7%d9%85/"
+      },
+      {
+       "label": "Filimo title page — سریال محکوم, official streaming listing for the series (id 161602)",
+       "url": "https://www.filimo.com/m/161602/%D9%85%D8%AD%DA%A9%D9%88%D9%85"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 1",
+       "air_date": "2025-09-03",
+       "gist": "At the sea, therapist Khosrow Shahabi insists on hypnotizing widow Nasrin Armand to make her feel better; she agrees and closes her eyes; he says he will enter her unconscious and take her five years into the future (Ensaf News).",
+       "number_verified": true
+      }
+     ],
+     "provenance": "worldwide-hypnosis-discovery-nov25, 25 Nov 2026 PT — worldwide discovery pass (hypnotist can be anyone); public metadata only; videos not watched",
+     "no_media": true,
+     "meta": "Streaming drama series · Filimo · dir. Siamak Mardaneh · writer Mehran Mahdavian · producer Mohammad Reza Mansouri · 1 season, 22 episodes · released 12 Shahrivar 1404 – 8 Bahman 1404 (3 Sep 2025 – 28 Jan 2026) · Iran · Persian",
+     "tags": [
+      "Original title: محکوم",
+      "Alias: Mahkum",
+      "Alias: محکوم",
+      "Alias: Mahkoom",
+      "Alias: The Condemned (Filimo, 2025)"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4200,
+   "title": "Komisarz Alex — \"W hipnozie\"",
+   "subtitle": "",
+   "year": "2013",
+   "meta": "TV crime-episode · Komisarz Alex season 3, series episode 36 · 2013 · dir. Robert Wichrowski / Krzysztof Lang · about 44–60 min depending on listing · Poland · Polish",
+   "mechanism": "Literal hypnosis: Aneta wakes beside her stabbed fiancé with no memory and is found to be in a hypnotic state; police investigate hypnotists and trace Gawryłow's healing seances, including the victim's cancer-ill mother as a patient.",
+   "confidence_flag": "High for Aneta being in a hypnotic state (Interia and Telemagazyn episode synopses agree). Medium-high for naming Gawryłow as her hypnotist: he is the only hypnotist identified in those synopses, but they do not print a direct 'Gawryłow hypnotized Aneta' sentence.",
+   "summary": "Aneta, a young adult woman, wakes in her fiancé's bed and finds him dead with a knife in his back. There is no sign of a break-in or fight, and she remembers nothing. Police determine she is in a state of hypnosis. They look into other similar cases and at people with hypnotic abilities, and find Gawryłow, who holds special hypnosis sessions that are supposed to restore the seriously ill. One of his patients is the victim's mother, who has cancer and intended to leave him her estate; her son had opposed that, which may be why he was killed. With no hard proof, the police plan a sting using Aneta, who has been partly woken from hypnosis.",
+   "character": "Aneta, an adult woman, fiancée of the murder victim",
+   "provenance": "worldwide-hypnosis-discovery-nov25, 25 Nov 2026 PT — worldwide discovery pass; public metadata only; videos not watched",
+   "note": "Family fields for Aneta: existing children UNKNOWN; pregnancy UNKNOWN; children with her fiancé or a NEW birth by the ending UNKNOWN. Silence is not no. The fiancé is murdered in the episode.",
+   "episodes": [
+    {
+     "episode": "Season 3, episode 10 / series episode 36, \"W hipnozie\"",
+     "air_date": "",
+     "gist": "Aneta is found in a hypnotic state after her fiancé is stabbed; police investigate Gawryłow's hypnosis seances and plan a sting with Aneta after she is partly woken (Interia, Telemagazyn).",
+     "number_verified": true
+    }
+   ],
+   "tags": [
+    "Original title: Komisarz Alex — W hipnozie",
+    "Alias: Komisarz Alex odc. 36",
+    "Alias: Komisarz Alex s.III odc. 10",
+    "Alias: Komisarz Alex episode 36 In Hypnosis",
+    "Alias: W hipnozie"
+   ],
+   "hypnotist": "Gawryłow, who runs purported healing hypnosis sessions for the seriously ill, is the only hypnotist identified in the case; official episode synopses state Aneta is found in a hypnotic state and is later used in a police sting after being partly woken from hypnosis, without a verbatim sentence that names him as the person who hypnotized her",
+   "kids_status": "unknown",
+   "kids_note": "Existing children before the story UNKNOWN; silence is not no. Aneta is described as a young adult fiancée; no cited synopsis mentions a child.",
+   "kids_together": "unknown",
+   "kids_together_note": "Couple children at ending UNKNOWN; NEW birth by ending UNKNOWN. Silence is not no. Her fiancé is killed in the episode.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS of an adult woman (hypnotist can be anyone). Distinct episode work, identity exact title + year (2013). Existing categories only: crime, medical, adult-hypnosis.",
+   "rating": "Not stated",
+   "adult": "yes",
+   "existing_kids": "unknown",
+   "content_label": "Crime drama (non-explicit)",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "medical",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Interia Świat Seriali — Komisarz Alex odcinek 36 'W hipnozie' (2013): Aneta wakes beside her stabbed fiancé, is in a state of hypnosis, police trace Gawryłow's healing seances, sting uses Aneta after she is partly woken",
+     "url": "https://swiatseriali.interia.pl/seriale/komisarz-alex/odcinki/news-komisarz-alex-odcinek-36-w-hipnozie,nId,958349"
+    },
+    {
+     "label": "Telemagazyn — Komisarz Alex odc. 36 'W hipnozie' episode synopsis, same plot as Interia; duration listed as 44 min",
+     "url": "https://telemagazyn.pl/komisarz-alex-odc36/pr/31803/ep/1809955"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "worldwide-hypnosis-discovery-nov25"
+   ],
+   "source_records": [
+    "worldwide-hypnosis-discovery-nov25:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "worldwide-hypnosis-discovery-nov25:2": {
+     "title": "Komisarz Alex — \"W hipnozie\"",
+     "original_language_title": "Komisarz Alex — W hipnozie",
+     "aliases": [
+      "Komisarz Alex odc. 36",
+      "Komisarz Alex s.III odc. 10",
+      "Komisarz Alex episode 36 In Hypnosis",
+      "W hipnozie"
+     ],
+     "year": "2013",
+     "format": "tv",
+     "country": "Poland",
+     "language": "Polish",
+     "orientation": "TV crime-episode · Komisarz Alex season 3, series episode 36 · 2013 · dir. Robert Wichrowski / Krzysztof Lang · about 44–60 min depending on listing",
+     "character": "Aneta, an adult woman, fiancée of the murder victim",
+     "hypnotist": "Gawryłow, who runs purported healing hypnosis sessions for the seriously ill, is the only hypnotist identified in the case; official episode synopses state Aneta is found in a hypnotic state and is later used in a police sting after being partly woken from hypnosis, without a verbatim sentence that names him as the person who hypnotized her",
+     "adult": "yes",
+     "content_label": "Crime drama (non-explicit)",
+     "rating": "Not stated",
+     "mechanism": "Literal hypnosis: Aneta wakes beside her stabbed fiancé with no memory and is found to be in a hypnotic state; police investigate hypnotists and trace Gawryłow's healing seances, including the victim's cancer-ill mother as a patient.",
+     "summary": "Aneta, a young adult woman, wakes in her fiancé's bed and finds him dead with a knife in his back. There is no sign of a break-in or fight, and she remembers nothing. Police determine she is in a state of hypnosis. They look into other similar cases and at people with hypnotic abilities, and find Gawryłow, who holds special hypnosis sessions that are supposed to restore the seriously ill. One of his patients is the victim's mother, who has cancer and intended to leave him her estate; her son had opposed that, which may be why he was killed. With no hard proof, the police plan a sting using Aneta, who has been partly woken from hypnosis.",
+     "fit_note": "LITERAL HYPNOSIS of an adult woman (hypnotist can be anyone). Distinct episode work, identity exact title + year (2013). Existing categories only: crime, medical, adult-hypnosis.",
+     "relationship": "Aneta is the victim's fiancée, not his wife. The victim's mother is also a female hypnosis patient of Gawryłow (cancer treatment seances).",
+     "note": "Family fields for Aneta: existing children UNKNOWN; pregnancy UNKNOWN; children with her fiancé or a NEW birth by the ending UNKNOWN. Silence is not no. The fiancé is murdered in the episode.",
+     "confidence_flag": "High for Aneta being in a hypnotic state (Interia and Telemagazyn episode synopses agree). Medium-high for naming Gawryłow as her hypnotist: he is the only hypnotist identified in those synopses, but they do not print a direct 'Gawryłow hypnotized Aneta' sentence.",
+     "kids_status": "unknown",
+     "existing_kids": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "kids_note": "Existing children before the story UNKNOWN; silence is not no. Aneta is described as a young adult fiancée; no cited synopsis mentions a child.",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence; absence of mention is not a no.",
+     "kids_together_note": "Couple children at ending UNKNOWN; NEW birth by ending UNKNOWN. Silence is not no. Her fiancé is killed in the episode.",
+     "categories": [
+      "crime",
+      "medical",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Interia Świat Seriali — Komisarz Alex odcinek 36 'W hipnozie' (2013): Aneta wakes beside her stabbed fiancé, is in a state of hypnosis, police trace Gawryłow's healing seances, sting uses Aneta after she is partly woken",
+       "url": "https://swiatseriali.interia.pl/seriale/komisarz-alex/odcinki/news-komisarz-alex-odcinek-36-w-hipnozie,nId,958349"
+      },
+      {
+       "label": "Telemagazyn — Komisarz Alex odc. 36 'W hipnozie' episode synopsis, same plot as Interia; duration listed as 44 min",
+       "url": "https://telemagazyn.pl/komisarz-alex-odc36/pr/31803/ep/1809955"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Season 3, episode 10 / series episode 36, \"W hipnozie\"",
+       "air_date": "",
+       "gist": "Aneta is found in a hypnotic state after her fiancé is stabbed; police investigate Gawryłow's hypnosis seances and plan a sting with Aneta after she is partly woken (Interia, Telemagazyn).",
+       "number_verified": true
+      }
+     ],
+     "provenance": "worldwide-hypnosis-discovery-nov25, 25 Nov 2026 PT — worldwide discovery pass; public metadata only; videos not watched",
+     "no_media": true,
+     "meta": "TV crime-episode · Komisarz Alex season 3, series episode 36 · 2013 · dir. Robert Wichrowski / Krzysztof Lang · about 44–60 min depending on listing · Poland · Polish",
+     "tags": [
+      "Original title: Komisarz Alex — W hipnozie",
+      "Alias: Komisarz Alex odc. 36",
+      "Alias: Komisarz Alex s.III odc. 10",
+      "Alias: Komisarz Alex episode 36 In Hypnosis",
+      "Alias: W hipnozie"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4201,
+   "title": "Hipnoza",
+   "subtitle": "",
+   "year": "1966",
+   "meta": "TV theatre · Teatr Telewizji · premiere 21 Dec 1966 · dir. Antoni Cwojdziński · Zofia Mrozowska and Kazimierz Rudzki · Poland · Polish",
+   "mechanism": "Literal hypnosis: the actress comes to the doctor for hypnotic sessions to treat throat pain; the hypnosis is the catalyst that brings out an unspoken feeling between them.",
+   "confidence_flag": "High for the 21 Dec 1966 Teatr Telewizji production and leads (Encyklopedia Teatru Polskiego production list; January 1967 reviews of Mrozowska and Rudzki). High that the play is about medical hypnosis of the actress: the same Cwojdziński text is documented in later production notes; 1967 reviews confirm this television staging and the two leads but are thinner on a scene-by-scene retelling.",
+   "summary": "This 21 Dec 1966 Teatr Telewizji production of Antoni Cwojdziński's play, directed by the author, stars Zofia Mrozowska and Kazimierz Rudzki. In the play an actress and a doctor, both displaced to New York by the war, are first linked by homesickness. She seeks his help for throat pain through hypnotic sessions; the hypnosis brings out a strong feeling between them, even though she is already engaged to another man.",
+   "character": "Rena, an adult actress, already engaged to another man, who seeks hypnotic treatment for throat pain",
+   "provenance": "worldwide-hypnosis-discovery-nov25, 25 Nov 2026 PT — worldwide discovery pass, including a pre-1980 TV-theatre pass; public metadata only; videos not watched",
+   "note": "Family outcomes (existing children, ending pregnancy, kids together, NEW birth) are UNKNOWN. Cited production listings and plot descriptions do not mention children or pregnancy; absence of mention is not a no. Do not treat this as a duplicate of the 1987 Teatr Telewizji Hipnoza, or of later stage-only revivals.",
+   "tags": [
+    "Original title: Hipnoza",
+    "Alias: Hipnoza (Teatr Telewizji, 1966)",
+    "Alias: Hipnoza, Antoni Cwojdziński (1966 TV)"
+   ],
+   "hypnotist": "Dr. Jan, a physician who practices hypnotic sessions (Kazimierz Rudzki in this production)",
+   "kids_status": "unknown",
+   "kids_note": "Existing children before the story UNKNOWN; silence is not no.",
+   "kids_together": "unknown",
+   "kids_together_note": "Couple children at ending UNKNOWN; NEW birth by ending UNKNOWN. Silence is not no.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS of an adult woman by her doctor in a 1966 Polish TV-theatre production. Distinct by title+year from the 1987 Teatr Telewizji production of the same play (Joanna Żółkowska / Piotr Fronczewski, dir. Anna Minkiewicz). Identity is exact title + year (1966), not a numeric ID. Existing categories only: medical, love.",
+   "rating": "Not stated",
+   "adult": "yes",
+   "existing_kids": "unknown",
+   "content_label": "Television play / scientific comedy (non-explicit)",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "Encyklopedia Teatru Polskiego — Hipnoza production list: Teatr Telewizji premiere 21 Dec 1966, directed by Antoni Cwojdziński (this URL is used only on the 1966 card, not on the 1987 card)",
+     "url": "https://encyklopediateatru.pl/sztuki/322/hipnoza"
+    },
+    {
+     "label": "Encyklopedia Teatru Polskiego — 'Wesoło i nudno' (fragment), review of the 21 Dec 1966 television Hipnoza, praising Zofia Mrozowska and Kazimierz Rudzki (published early Jan 1967)",
+     "url": "https://encyklopediateatru.pl/artykuly/74459/wesolo-i-nudno-fragm"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "worldwide-hypnosis-discovery-nov25"
+   ],
+   "source_records": [
+    "worldwide-hypnosis-discovery-nov25:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "worldwide-hypnosis-discovery-nov25:3": {
+     "title": "Hipnoza",
+     "original_language_title": "Hipnoza",
+     "aliases": [
+      "Hipnoza (Teatr Telewizji, 1966)",
+      "Hipnoza, Antoni Cwojdziński (1966 TV)"
+     ],
+     "year": "1966",
+     "format": "tv",
+     "country": "Poland",
+     "language": "Polish",
+     "orientation": "TV theatre · Teatr Telewizji · premiere 21 Dec 1966 · dir. Antoni Cwojdziński · Zofia Mrozowska and Kazimierz Rudzki",
+     "character": "Rena, an adult actress, already engaged to another man, who seeks hypnotic treatment for throat pain",
+     "hypnotist": "Dr. Jan, a physician who practices hypnotic sessions (Kazimierz Rudzki in this production)",
+     "adult": "yes",
+     "content_label": "Television play / scientific comedy (non-explicit)",
+     "rating": "Not stated",
+     "mechanism": "Literal hypnosis: the actress comes to the doctor for hypnotic sessions to treat throat pain; the hypnosis is the catalyst that brings out an unspoken feeling between them.",
+     "summary": "This 21 Dec 1966 Teatr Telewizji production of Antoni Cwojdziński's play, directed by the author, stars Zofia Mrozowska and Kazimierz Rudzki. In the play an actress and a doctor, both displaced to New York by the war, are first linked by homesickness. She seeks his help for throat pain through hypnotic sessions; the hypnosis brings out a strong feeling between them, even though she is already engaged to another man.",
+     "fit_note": "LITERAL HYPNOSIS of an adult woman by her doctor in a 1966 Polish TV-theatre production. Distinct by title+year from the 1987 Teatr Telewizji production of the same play (Joanna Żółkowska / Piotr Fronczewski, dir. Anna Minkiewicz). Identity is exact title + year (1966), not a numeric ID. Existing categories only: medical, love.",
+     "relationship": "Rena is engaged to another man; a romance develops with her hypnotist, Dr. Jan. Sources do not say she is married at the start.",
+     "note": "Family outcomes (existing children, ending pregnancy, kids together, NEW birth) are UNKNOWN. Cited production listings and plot descriptions do not mention children or pregnancy; absence of mention is not a no. Do not treat this as a duplicate of the 1987 Teatr Telewizji Hipnoza, or of later stage-only revivals.",
+     "confidence_flag": "High for the 21 Dec 1966 Teatr Telewizji production and leads (Encyklopedia Teatru Polskiego production list; January 1967 reviews of Mrozowska and Rudzki). High that the play is about medical hypnosis of the actress: the same Cwojdziński text is documented in later production notes; 1967 reviews confirm this television staging and the two leads but are thinner on a scene-by-scene retelling.",
+     "kids_status": "unknown",
+     "existing_kids": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "kids_note": "Existing children before the story UNKNOWN; silence is not no.",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence; absence of mention is not a no.",
+     "kids_together_note": "Couple children at ending UNKNOWN; NEW birth by ending UNKNOWN. Silence is not no.",
+     "categories": [
+      "medical",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "Encyklopedia Teatru Polskiego — Hipnoza production list: Teatr Telewizji premiere 21 Dec 1966, directed by Antoni Cwojdziński (this URL is used only on the 1966 card, not on the 1987 card)",
+       "url": "https://encyklopediateatru.pl/sztuki/322/hipnoza"
+      },
+      {
+       "label": "Encyklopedia Teatru Polskiego — 'Wesoło i nudno' (fragment), review of the 21 Dec 1966 television Hipnoza, praising Zofia Mrozowska and Kazimierz Rudzki (published early Jan 1967)",
+       "url": "https://encyklopediateatru.pl/artykuly/74459/wesolo-i-nudno-fragm"
+      }
+     ],
+     "episodes": [],
+     "provenance": "worldwide-hypnosis-discovery-nov25, 25 Nov 2026 PT — worldwide discovery pass, including a pre-1980 TV-theatre pass; public metadata only; videos not watched",
+     "no_media": true,
+     "meta": "TV theatre · Teatr Telewizji · premiere 21 Dec 1966 · dir. Antoni Cwojdziński · Zofia Mrozowska and Kazimierz Rudzki · Poland · Polish",
+     "tags": [
+      "Original title: Hipnoza",
+      "Alias: Hipnoza (Teatr Telewizji, 1966)",
+      "Alias: Hipnoza, Antoni Cwojdziński (1966 TV)"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4202,
+   "title": "Hipnoza",
+   "subtitle": "",
+   "year": "1987",
+   "meta": "TV theatre · Teatr Telewizji · premiere 1 Jan 1987 · dir. Anna Minkiewicz · Joanna Żółkowska as the actress Rena, Piotr Fronczewski as Dr. Jan · later rebroadcast on TVP1 on 26 Feb 2024 (rebroadcast, not a new production year) · Poland · Polish",
+   "mechanism": "Literal hypnosis: the actress comes to the doctor for hypnotic sessions to treat throat pain; unconventional methods bring surprising results, and the hypnosis is the catalyst for a romance.",
+   "confidence_flag": "High: Encyklopedia Teatru Polskiego (premiere 1 Jan 1987, dir. Anna Minkiewicz); Antena article of 17 Aug 1988 on this television staging (Żółkowska and Fronczewski; plot: hypnosis as catalyst); TVP article on the 26 Feb 2024 rebroadcast, which retells the plot and names the same leads and director.",
+   "summary": "In this 1 Jan 1987 Teatr Telewizji production of Antoni Cwojdziński's play, directed by Anna Minkiewicz, Joanna Żółkowska plays the actress Rena and Piotr Fronczewski plays Dr. Jan. The two have been thrown together in New York by the war. Suffering from throat pain, she goes to the doctor who practices hypnotic sessions; the unconventional treatment has surprising results, and a feeling develops between them even though she is already engaged to someone else. A 26 Feb 2024 TVP1 airing was a rebroadcast of this 1987 production, not a new work.",
+   "character": "Rena (Joanna Żółkowska), an adult actress already engaged to another man, who seeks hypnotic treatment for throat pain",
+   "provenance": "worldwide-hypnosis-discovery-nov25, 25 Nov 2026 PT — worldwide discovery pass; public metadata only; videos not watched",
+   "note": "Family outcomes (existing children, ending pregnancy, kids together, NEW birth) are UNKNOWN. Cited production listings and plot descriptions do not mention children or pregnancy; absence of mention is not a no. Do not treat this as a duplicate of the 1966 Teatr Telewizji Hipnoza, or as a 2024 title.",
+   "tags": [
+    "Original title: Hipnoza",
+    "Alias: Hipnoza (Teatr Telewizji, 1987)",
+    "Alias: Hipnoza, Anna Minkiewicz (1987 TV)"
+   ],
+   "hypnotist": "Dr. Jan (Piotr Fronczewski), a physician who practices hypnotic sessions",
+   "kids_status": "unknown",
+   "kids_note": "Existing children before the story UNKNOWN; silence is not no.",
+   "kids_together": "unknown",
+   "kids_together_note": "Couple children at ending UNKNOWN; NEW birth by ending UNKNOWN. Silence is not no.",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence; absence of mention is not a no.",
+   "fit_note": "LITERAL HYPNOSIS of an adult woman by her doctor in a 1987 Polish TV-theatre production. Distinct by title+year from the 1966 Teatr Telewizji production of the same play (Zofia Mrozowska / Kazimierz Rudzki, dir. Antoni Cwojdziński). Identity is exact title + year (1987), not a numeric ID. The 2024 TVP1 broadcast is a rebroadcast and must not be cataloged as a 2024 work. Existing categories only: medical, love.",
+   "rating": "Not stated",
+   "adult": "yes",
+   "existing_kids": "unknown",
+   "content_label": "Television play / scientific comedy (non-explicit)",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "Encyklopedia Teatru Polskiego — Beata Gościk, Antena no. 34, 17 Aug 1988: article on the Minkiewicz Teatr Telewizji Hipnoza, with Joanna Żółkowska and Piotr Fronczewski; plot of the actress and doctor in New York and hypnosis as the catalyst for their feeling",
+     "url": "https://encyklopediateatru.pl/artykuly/74487/hipnoza"
+    },
+    {
+     "label": "TVP, 26 Feb 2024 — 'Hipnoza' will air on TVP1 at 21:10; dir. Anna Minkiewicz; Joanna Żółkowska as the actress Rena, Piotr Fronczewski as Dr. Jan; she seeks hypnotic sessions for throat pain; a feeling develops although she is already engaged. This is a rebroadcast of the 1987 production, not a 2024 work.",
+     "url": "https://www.tvp.pl/76134967/teatr-telewizji-hipnoza-antoniego-cwojdzinskiego-w-rezyserii-anny-minkiewicz"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "worldwide-hypnosis-discovery-nov25"
+   ],
+   "source_records": [
+    "worldwide-hypnosis-discovery-nov25:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "worldwide-hypnosis-discovery-nov25:4": {
+     "title": "Hipnoza",
+     "original_language_title": "Hipnoza",
+     "aliases": [
+      "Hipnoza (Teatr Telewizji, 1987)",
+      "Hipnoza, Anna Minkiewicz (1987 TV)"
+     ],
+     "year": "1987",
+     "format": "tv",
+     "country": "Poland",
+     "language": "Polish",
+     "orientation": "TV theatre · Teatr Telewizji · premiere 1 Jan 1987 · dir. Anna Minkiewicz · Joanna Żółkowska as the actress Rena, Piotr Fronczewski as Dr. Jan · later rebroadcast on TVP1 on 26 Feb 2024 (rebroadcast, not a new production year)",
+     "character": "Rena (Joanna Żółkowska), an adult actress already engaged to another man, who seeks hypnotic treatment for throat pain",
+     "hypnotist": "Dr. Jan (Piotr Fronczewski), a physician who practices hypnotic sessions",
+     "adult": "yes",
+     "content_label": "Television play / scientific comedy (non-explicit)",
+     "rating": "Not stated",
+     "mechanism": "Literal hypnosis: the actress comes to the doctor for hypnotic sessions to treat throat pain; unconventional methods bring surprising results, and the hypnosis is the catalyst for a romance.",
+     "summary": "In this 1 Jan 1987 Teatr Telewizji production of Antoni Cwojdziński's play, directed by Anna Minkiewicz, Joanna Żółkowska plays the actress Rena and Piotr Fronczewski plays Dr. Jan. The two have been thrown together in New York by the war. Suffering from throat pain, she goes to the doctor who practices hypnotic sessions; the unconventional treatment has surprising results, and a feeling develops between them even though she is already engaged to someone else. A 26 Feb 2024 TVP1 airing was a rebroadcast of this 1987 production, not a new work.",
+     "fit_note": "LITERAL HYPNOSIS of an adult woman by her doctor in a 1987 Polish TV-theatre production. Distinct by title+year from the 1966 Teatr Telewizji production of the same play (Zofia Mrozowska / Kazimierz Rudzki, dir. Antoni Cwojdziński). Identity is exact title + year (1987), not a numeric ID. The 2024 TVP1 broadcast is a rebroadcast and must not be cataloged as a 2024 work. Existing categories only: medical, love.",
+     "relationship": "Rena is engaged to another man; a romance develops with her hypnotist, Dr. Jan.",
+     "note": "Family outcomes (existing children, ending pregnancy, kids together, NEW birth) are UNKNOWN. Cited production listings and plot descriptions do not mention children or pregnancy; absence of mention is not a no. Do not treat this as a duplicate of the 1966 Teatr Telewizji Hipnoza, or as a 2024 title.",
+     "confidence_flag": "High: Encyklopedia Teatru Polskiego (premiere 1 Jan 1987, dir. Anna Minkiewicz); Antena article of 17 Aug 1988 on this television staging (Żółkowska and Fronczewski; plot: hypnosis as catalyst); TVP article on the 26 Feb 2024 rebroadcast, which retells the plot and names the same leads and director.",
+     "kids_status": "unknown",
+     "existing_kids": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "kids_note": "Existing children before the story UNKNOWN; silence is not no.",
+     "pregnant_end_note": "UNKNOWN: no affirmative ending-pregnancy evidence; absence of mention is not a no.",
+     "kids_together_note": "Couple children at ending UNKNOWN; NEW birth by ending UNKNOWN. Silence is not no.",
+     "categories": [
+      "medical",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "Encyklopedia Teatru Polskiego — Beata Gościk, Antena no. 34, 17 Aug 1988: article on the Minkiewicz Teatr Telewizji Hipnoza, with Joanna Żółkowska and Piotr Fronczewski; plot of the actress and doctor in New York and hypnosis as the catalyst for their feeling",
+       "url": "https://encyklopediateatru.pl/artykuly/74487/hipnoza"
+      },
+      {
+       "label": "TVP, 26 Feb 2024 — 'Hipnoza' will air on TVP1 at 21:10; dir. Anna Minkiewicz; Joanna Żółkowska as the actress Rena, Piotr Fronczewski as Dr. Jan; she seeks hypnotic sessions for throat pain; a feeling develops although she is already engaged. This is a rebroadcast of the 1987 production, not a 2024 work.",
+       "url": "https://www.tvp.pl/76134967/teatr-telewizji-hipnoza-antoniego-cwojdzinskiego-w-rezyserii-anny-minkiewicz"
+      }
+     ],
+     "episodes": [],
+     "provenance": "worldwide-hypnosis-discovery-nov25, 25 Nov 2026 PT — worldwide discovery pass; public metadata only; videos not watched",
+     "no_media": true,
+     "meta": "TV theatre · Teatr Telewizji · premiere 1 Jan 1987 · dir. Anna Minkiewicz · Joanna Żółkowska as the actress Rena, Piotr Fronczewski as Dr. Jan · later rebroadcast on TVP1 on 26 Feb 2024 (rebroadcast, not a new production year) · Poland · Polish",
+     "tags": [
+      "Original title: Hipnoza",
+      "Alias: Hipnoza (Teatr Telewizji, 1987)",
+      "Alias: Hipnoza, Anna Minkiewicz (1987 TV)"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -617496,7 +618014,8 @@ window.CATALOG = {
     "widow-hypnotized-marriage-nov19",
     "deep-refresh-nov19-c",
     "female-hypnosis-nov25",
-    "hypnotic-healing-similar-nov25"
+    "hypnotic-healing-similar-nov25",
+    "worldwide-hypnosis-discovery-nov25"
    ],
    "groups": [
     {
@@ -622141,6 +622660,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotic-healing-similar-nov25"
+    },
+    {
+     "title": "Worldwide hypnosis discovery, 25 Nov 2026 (t66u–t68u)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4200,
+       "tags": [],
+       "from_source": "worldwide-hypnosis-discovery-nov25"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -624773,7 +625303,8 @@ window.CATALOG = {
     "therapist-hypnosis-nov12",
     "husband-hypnosis-nov12",
     "deep-refresh-nov19-b",
-    "hypnotic-healing-similar-nov25"
+    "hypnotic-healing-similar-nov25",
+    "worldwide-hypnosis-discovery-nov25"
    ],
    "groups": [
     {
@@ -625352,6 +625883,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotic-healing-similar-nov25"
+    },
+    {
+     "title": "Worldwide hypnosis discovery, 25 Nov 2026 (t66u–t68u)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4199,
+       "tags": [],
+       "from_source": "worldwide-hypnosis-discovery-nov25"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -641697,7 +642239,8 @@ window.CATALOG = {
     "therapist-hypnosis-nov12",
     "husband-hypnosis-nov12",
     "deep-refresh-nov19",
-    "deep-refresh-nov19-pregnant-partner"
+    "deep-refresh-nov19-pregnant-partner",
+    "worldwide-hypnosis-discovery-nov25"
    ],
    "groups": [
     {
@@ -642932,6 +643475,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-refresh-nov19-pregnant-partner"
+    },
+    {
+     "title": "Worldwide hypnosis discovery, 25 Nov 2026 (t66u–t68u)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4200,
+       "tags": [],
+       "from_source": "worldwide-hypnosis-discovery-nov25"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -643438,7 +643992,8 @@ window.CATALOG = {
     "husband-hypnosis-nov12",
     "weekly-nov16",
     "hypnotic-healing-similar-nov25",
-    "wife-hypno-partner-nov25"
+    "wife-hypno-partner-nov25",
+    "worldwide-hypnosis-discovery-nov25"
    ],
    "groups": [
     {
@@ -646010,6 +646565,22 @@ window.CATALOG = {
       }
      ],
      "from_source": "wife-hypno-partner-nov25"
+    },
+    {
+     "title": "Worldwide hypnosis discovery, 25 Nov 2026 (t66u–t68u)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4201,
+       "tags": [],
+       "from_source": "worldwide-hypnosis-discovery-nov25"
+      },
+      {
+       "id": 4202,
+       "tags": [],
+       "from_source": "worldwide-hypnosis-discovery-nov25"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {
@@ -648719,7 +649290,8 @@ window.CATALOG = {
     "husband-hypnosis-nov12",
     "partner-hypnosis-nov19b",
     "female-hypnosis-nov25",
-    "hypnotic-healing-similar-nov25"
+    "hypnotic-healing-similar-nov25",
+    "worldwide-hypnosis-discovery-nov25"
    ],
    "groups": [
     {
@@ -650956,6 +651528,32 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotic-healing-similar-nov25"
+    },
+    {
+     "title": "Worldwide hypnosis discovery, 25 Nov 2026 (t66u–t68u)",
+     "notes": [],
+     "items": [
+      {
+       "id": 4201,
+       "tags": [],
+       "from_source": "worldwide-hypnosis-discovery-nov25"
+      },
+      {
+       "id": 4202,
+       "tags": [],
+       "from_source": "worldwide-hypnosis-discovery-nov25"
+      },
+      {
+       "id": 4200,
+       "tags": [],
+       "from_source": "worldwide-hypnosis-discovery-nov25"
+      },
+      {
+       "id": 4199,
+       "tags": [],
+       "from_source": "worldwide-hypnosis-discovery-nov25"
+      }
+     ]
     }
    ],
    "declared_count_by_source": {

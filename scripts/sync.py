@@ -269,6 +269,7 @@ SOURCES = [
     {"id": "wife-hypno-partner-nov25", "label": "Female hypnotized / mind-controlled by her own partner — PH/ID + worldwide (25 Nov 2026)",
      "local": "sources/wife-hypno-partner-nov25.json", "required": False},
     {"id": "partner-hypnosis-discovery-t64u", "label": "Partner hypnosis discovery t64u — Le Système Ribadier 2008 (25 Nov 2026)", "local": "sources/partner-hypnosis-discovery-t64u.json", "required": True},
+    {"id": "worldwide-hypnosis-discovery-nov25", "label": "Worldwide hypnosis discovery Nov 2026 (t66u–t68u) — Mahkum 2025, Komisarz Alex 2013, Hipnoza 1966 & 1987", "local": "sources/worldwide-hypnosis-discovery-nov25.json", "required": True},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

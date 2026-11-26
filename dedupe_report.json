@@ -55229,5 +55229,17 @@
   "source": "partner-hypnosis-discovery-t64u",
   "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
   "browser_or_network_calls": 0
+ },
+ "offline_worldwide_hypnosis_discovery_nov25": {
+  "new_ids": [
+   4199,
+   4200,
+   4201,
+   4202
+  ],
+  "enriched_ids": [],
+  "source": "worldwide-hypnosis-discovery-nov25",
+  "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
+  "browser_or_network_calls": 0
  }
 }
