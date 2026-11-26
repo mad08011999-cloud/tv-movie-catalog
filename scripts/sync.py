@@ -273,6 +273,8 @@ SOURCES = [
     {"id": "bed-hypnosis-nov26", "label": "Hypnotized in bed — all-media search (26 Nov 2026)", "local": "sources/bed-hypnosis-nov26.json", "required": True},
     {"id": "forced-female-hypnosis-nov26", "label": "Forced female hypnosis discovery Nov 2026 (t69u) — 4 titles: Shirokuro 2020, Goblin 2016, Sirr al-Amira 1949, حين ينقلب السحر على الساحر 2025", "local": "sources/forced-female-hypnosis-nov26.json", "required": True},
     {"id": "fandom-hypnosis-nov26", "label": "Themed TV Episodes wiki — hypnosis (26 Nov 2026)", "local": "sources/fandom-hypnosis-nov26.json", "required": True},
+    {"id": "female-hypno-nov26", "label": "Adult female hypnotized — PH/ID first + worldwide gap check (26 Nov 2026, t88u/t91u)", "local": "sources/female-hypno-nov26.json", "required": False},
+
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
