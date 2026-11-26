@@ -271,6 +271,7 @@ SOURCES = [
     {"id": "partner-hypnosis-discovery-t64u", "label": "Partner hypnosis discovery t64u — Le Système Ribadier 2008 (25 Nov 2026)", "local": "sources/partner-hypnosis-discovery-t64u.json", "required": True},
     {"id": "worldwide-hypnosis-discovery-nov25", "label": "Worldwide hypnosis discovery Nov 2026 (t66u–t68u) — Mahkum 2025, Komisarz Alex 2013, Hipnoza 1966 & 1987", "local": "sources/worldwide-hypnosis-discovery-nov25.json", "required": True},
     {"id": "bed-hypnosis-nov26", "label": "Hypnotized in bed — all-media search (26 Nov 2026)", "local": "sources/bed-hypnosis-nov26.json", "required": True},
+    {"id": "forced-female-hypnosis-nov26", "label": "Forced female hypnosis discovery Nov 2026 (t69u) — 4 titles: Shirokuro 2020, Goblin 2016, Sirr al-Amira 1949, حين ينقلب السحر على الساحر 2025", "local": "sources/forced-female-hypnosis-nov26.json", "required": True},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

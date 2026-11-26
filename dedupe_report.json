@@ -55472,5 +55472,17 @@
  "within_source_groups": 6,
  "cross_source_groups": 2114,
  "index_only_records": 55,
- "local_only_records": 1735
+ "local_only_records": 1735,
+ "offline_forced_female_hypnosis_nov26": {
+  "new_ids": [
+   4203,
+   4204,
+   4205,
+   4206
+  ],
+  "enriched_ids": [],
+  "source": "forced-female-hypnosis-nov26",
+  "method": "Incremental committed parsed snapshot + sync.parse_local/merge_group/copy_info. No full-source recapture or replay.",
+  "browser_or_network_calls": 0
+ }
 }
